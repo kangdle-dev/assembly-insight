@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>제22대 국회 데이터 인사이트 대시보드</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --primary: #004EA2; --secondary: #E61E2B; --accent: #00A0E2;
+            --bg: #f4f7f9; --card: #ffffff; --text: #333;
+        }
+        body { font-family: 'Pretendard', -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        
+        /* Grid System */
+        .dashboard-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px; }
+        .card { background: var(--card); padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        .full-width { grid-column: span 2; }
+
+        /* Chart & Info Styles */
+        .chart-row { display: flex; align-items: center; margin-bottom: 12px; }
+        .party-label { width: 110px; font-weight: bold; font-size: 13px; }
+        .bar-container { flex-grow: 1; background: #eee; height: 18px; border-radius: 10px; overflow: hidden; position: relative; }
+        .bar { height: 100%; border-radius: 10px; transition: width 1s ease-in-out; }
+        .bar-value { margin-left: 10px; font-weight: bold; width: 35px; font-size: 13px; }
+
+        .age-container { display: flex; justify-content: space-around; text-align: center; }
+        .age-num { font-size: 22px; font-weight: 800; color: var(--primary); display: block; }
+
+        .profile-wrap { display: flex; justify-content: center; gap: 30px; margin-top: 15px; }
+        .profile-card { text-align: center; border: 1px solid #eee; padding: 12px; border-radius: 12px; width: 160px; cursor: pointer; transition: 0.3s; }
+        .profile-card:hover { transform: translateY(-5px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        
+        .unit-item { display: flex; padding: 8px 0; border-bottom: 1px dashed #eee; align-items: center; }
+        .unit-badge { background: var(--primary); color: white; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 12px; min-width: 45px; text-align: center; }
+
+        /* Search & Dropdown */
+        #search-results { position: absolute; width: 100%; top: 100%; left: 0; z-index: 100; background: white; border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); max-height: 400px; overflow-y: auto; display: none; }
+        .search-item { display: flex; align-items: center; padding: 12px; border-bottom: 1px solid #f0f0f0; cursor: pointer; }
+        .search-item:hover { background: #f8faff; }
+
+        .member-grid-card { transition: 0.3s; border-left: 4px solid #ddd; }
+        .member-grid-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="relative max-w-2xl mx-auto mb-10">
+        <div class="flex items-center bg-white rounded-full shadow-xl px-6 py-4 border-2 border-transparent focus-within:border-blue-500 transition-all">
+            <i class="fa-solid fa-magnifying-glass text-blue-500 mr-4"></i>
+            <input type="text" id="search-input" placeholder="의원 이름을 입력하세요 (실시간 검색)" class="w-full outline-none text-lg font-medium">
+        </div>
+        <div id="search-results"></div>
+    </div>
+
+    <h1 class="text-2xl font-bold mb-6"><i class="fa-solid fa-chart-line"></i> 제22대 국회 현황판</h1>
+
+    <div class="dashboard-grid">
+        <div class="card">
+            <h3 class="font-bold mb-4"><i class="fa-solid fa-check-to-slot"></i> 정당별 의석수</h3>
+            <div class="chart-row">
+                <div class="party-label">더불어민주당</div>
+                <div class="bar-container"><div class="bar" style="width: 58%; background: var(--primary);"></div></div>
+                <div class="bar-value">175</div>
+            </div>
+            <div class="chart-row">
+                <div class="party-label">국민의힘</div>
+                <div class="bar-container"><div class="bar" style="width: 36%; background: var(--secondary);"></div></div>
+                <div class="bar-value">108</div>
+            </div>
+            <div class="chart-row">
+                <div class="party-label">조국혁신당</div>
+                <div class="bar-container"><div class="bar" style="width: 4%; background: var(--accent);"></div></div>
+                <div class="bar-value">12</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3 class="font-bold mb-4"><i class="fa-solid fa-users-line"></i> 연령별 분포</h3>
+            <div class="age-container">
+                <div class="age-box"><span class="age-num">14</span><span class="text-[10px] text-gray-500">30대 이하</span></div>
+                <div class="age-box"><span class="age-num">30</span><span class="text-[10px] text-gray-500">40대</span></div>
+                <div class="age-box"><span class="age-num">150</span><span class="text-[10px] text-gray-500">50대</span></div>
+                <div class="age-box"><span class="age-num">106</span><span class="text-[10px] text-gray-500">60대 이상</span></div>
+            </div>
+            <p class="text-center text-[11px] text-gray-400 mt-5">평균 연령: 56.3세</p>
+        </div>
+
+        <div class="card full-width">
+            <h3 class="font-bold text-center mb-4">세대를 아우르는 국회</h3>
+            <div class="profile-wrap">
+                <div class="profile-card" onclick="location.href='detail.html?id=S188219H'">
+                    <div class="bg-gray-100 rounded-lg h-24 mb-2 overflow-hidden">
+                        <img src="https://www.assembly.go.kr/static/portal/img/openassm/new/839c439162984950a96996d9337582b1.jpg" class="w-full h-full object-cover">
+                    </div>
+                    <div class="age-tag">최고령</div>
+                    <div class="name">박지원</div>
+                    <div class="text-[11px] text-gray-500">83세 (1942년생)</div>
+                </div>
+                <div class="profile-card" onclick="location.href='detail.html?id=8282365A'">
+                    <div class="bg-gray-100 rounded-lg h-24 mb-2 overflow-hidden">
+                        <img src="https://www.assembly.go.kr/static/portal/img/openassm/new/8f2f210a562846f48126b89694729f6f.jpg" class="w-full h-full object-cover">
+                    </div>
+                    <div class="age-tag">최연소</div>
+                    <div class="name">전용기</div>
+                    <div class="text-[11px] text-gray-500">33세 (1991년생)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-12">
+        <h3 class="text-xl font-bold mb-6 flex justify-between items-center">
+            <span>제22대 국회의원 전체 명단</span>
+            <span id="member-count" class="text-sm font-normal text-gray-500">데이터 로드 중...</span>
+        </h3>
+        <div id="member-grid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
+            </div>
+    </div>
+</div>
+
+<script>
+    let allMembers = [];
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    const memberGrid = document.getElementById('member-grid');
+
+    // 데이터 로드
+    async function init() {
+        try {
+            const response = await fetch('data_export/members_all.json');
+            allMembers = await response.json();
+            document.getElementById('member-count').innerText = `총 ${allMembers.length}명`;
+            renderGrid(allMembers);
+        } catch (error) {
+            console.error("데이터 로드 실패:", error);
+            memberGrid.innerHTML = "<p class='col-span-full text-center py-10 text-gray-400'>데이터를 불러올 수 없습니다.</p>";
+        }
+    }
+
+    // 메인 그리드 렌더링
+    function renderGrid(members) {
+        memberGrid.innerHTML = members.map(m => `
+            <div class="member-grid-card bg-white p-3 rounded-xl shadow-sm cursor-pointer" 
+                 onclick="location.href='detail.html?id=${m.MONA_CD}'"
+                 style="border-left-color: ${getPartyColor(m.PLPT_NM)}">
+                <img src="./all_member_photos/${m.HG_NM+'_'+m.MONA_CD+'_300.jpg'}" class="w-full h-32 object-cover rounded-lg mb-2 bg-gray-50">
+                <h4 class="font-bold text-sm text-center">${m.HG_NM}</h4>
+                <p class="text-[10px] text-gray-500 text-center">${m.PLPT_NM}</p>
+            </div>
+        `).join('');
+    }
+
+    // 실시간 검색 로직
+    searchInput.addEventListener('input', (e) => {
+        const val = e.target.value.trim();
+        if (val.length === 0) {
+            searchResults.style.display = 'none';
+            return;
+        }
+
+        const filtered = allMembers.filter(m => m.HG_NM.includes(val)).slice(0, 10);
+        
+        if (filtered.length > 0) {
+            searchResults.style.display = 'block';
+            searchResults.innerHTML = filtered.map(m => `
+                <div class="search-item" onclick="location.href='detail.html?id=${m.MONA_CD}'">
+                    <img src="${m.NAAS_PIC}" class="w-10 h-10 rounded-full object-cover mr-3 border">
+                    <div>
+                        <div class="font-bold text-sm">${m.HG_NM}</div>
+                        <div class="text-[10px] text-gray-400">${m.PLPT_NM} | ${m.ELECD_NM}</div>
+                    </div>
+                </div>
+            `).join('');
+        } else {
+            searchResults.innerHTML = '<div class="p-4 text-center text-sm text-gray-400">검색 결과가 없습니다.</div>';
+        }
+    });
+
+    function getPartyColor(party) {
+        if (party.includes('민주당')) return '#004EA2';
+        if (party.includes('국민의힘')) return '#E61E2B';
+        if (party.includes('조국')) return '#00A0E2';
+        if (party.includes('개혁')) return '#FF6600';
+        return '#ddd';
+    }
+
+    init();
+</script>
+
+</body>
+</html>

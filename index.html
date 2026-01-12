@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>제22대 국회 데이터 인사이트 대시보드</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --primary: #004EA2; --secondary: #E61E2B; --accent: #00A0E2;
+            --bg: #f4f7f9; --card: #ffffff; --text: #333;
+        }
+        body { font-family: 'Pretendard', -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        .container { max-width: 1100px; margin: 0 auto; }
+        
+        /* Dashboard Layout */
+        .dashboard-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px; }
+        .card { background: var(--card); padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        .full-width { grid-column: span 2; }
+
+        /* Chart & Stats */
+        .chart-row { display: flex; align-items: center; margin-bottom: 12px; }
+        .party-label { width: 110px; font-weight: bold; font-size: 13px; }
+        .bar-container { flex-grow: 1; background: #eee; height: 18px; border-radius: 10px; overflow: hidden; position: relative; }
+        .bar { height: 100%; border-radius: 10px; transition: width 1s ease-in-out; }
+        .bar-value { margin-left: 10px; font-weight: bold; width: 35px; font-size: 13px; }
+
+        .age-container { display: flex; justify-content: space-around; text-align: center; }
+        .age-num { font-size: 22px; font-weight: 800; color: var(--primary); display: block; }
+
+        .profile-wrap { display: flex; justify-content: center; gap: 30px; margin-top: 15px; }
+        .profile-card { text-align: center; border: 1px solid #eee; padding: 12px; border-radius: 12px; width: 160px; cursor: pointer; transition: 0.3s; }
+        .profile-card:hover { transform: translateY(-5px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        
+        /* Search System */
+        #search-results { position: absolute; width: 100%; top: 100%; left: 0; z-index: 100; background: white; border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); max-height: 400px; overflow-y: auto; display: none; }
+        .search-item { display: flex; align-items: center; padding: 12px; border-bottom: 1px solid #f0f0f0; cursor: pointer; }
+        .search-item:hover { background: #f8faff; }
+
+        .member-grid-card { transition: 0.3s; border-left: 4px solid #ddd; }
+        .member-grid-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
+        
+        .stat-badge { font-size: 14px; padding: 2px 6px; border-radius: 4px; background: #f0f4f8; color: #555; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="relative max-w-2xl mx-auto mb-10">
+        <div class="flex items-center bg-white rounded-full shadow-xl px-6 py-4 border-2 border-transparent focus-within:border-blue-500 transition-all">
+            <i class="fa-solid fa-magnifying-glass text-blue-500 mr-4"></i>
+            <input type="text" id="search-input" placeholder="의원 이름을 입력하세요 (실시간 검색)" class="w-full outline-none text-lg font-medium">
+        </div>
+        <div id="search-results"></div>
+    </div>
+
+    <h1 class="text-2xl font-bold mb-6 text-gray-800"><i class="fa-solid fa-chart-pie mr-2 text-blue-600"></i>제22대 국회 데이터 인사이트</h1>
+
+    <div class="dashboard-grid">
+        <div class="card">
+            <h3 class="font-bold mb-4 text-gray-700"><i class="fa-solid fa-check-to-slot mr-2 text-blue-500"></i>정당별 의석 분포</h3>
+            <div id="party-charts"></div>
+        </div>
+
+        <div class="card">
+            <h3 class="font-bold mb-4 text-gray-700"><i class="fa-solid fa-map-location-dot mr-2 text-green-500"></i>당선 형태별 분포</h3>
+            <div class="flex justify-around items-center h-full pb-4">
+                <div class="text-center">
+                    <span class="text-3xl font-black text-blue-600" id="stat-local">0</span>
+                    <p class="text-xs text-gray-500 font-bold">지역구 의원</p>
+                </div>
+                <div class="h-12 w-px bg-gray-200"></div>
+                <div class="text-center">
+                    <span class="text-3xl font-black text-purple-500" id="stat-pro">0</span>
+                    <p class="text-xs text-gray-500 font-bold">비례대표 의원</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3 class="font-bold mb-4 text-gray-700"><i class="fa-solid fa-users-line mr-2 text-orange-500"></i>연령대별 분포</h3>
+            <div class="age-container" id="age-dist"></div>
+            <p class="text-center text-[11px] text-gray-400 mt-5">제22대 국회 평균 연령: <span id="avg-age" class="font-bold text-gray-600">-</span>세</p>
+        </div>
+
+        <div class="card">
+            <h3 class="font-bold mb-4 text-gray-700"><i class="fa-solid fa-hourglass-half mr-2 text-red-400"></i>정당별 평균 연령</h3>
+            <div id="party-age-list" class="space-y-3"></div>
+        </div>
+
+        <div class="card full-width">
+            <h3 class="font-bold text-center mb-4 text-gray-700">세대를 아우르는 국회 (최고령/최연소)</h3>
+            <div class="profile-wrap" id="edge-members"></div>
+        </div>
+    </div>
+
+    <div class="mt-12">
+        <h3 class="text-xl font-bold mb-6 flex justify-between items-center text-gray-800">
+            <span><i class="fa-solid fa-address-book mr-2 text-blue-600"></i>의원 전체 명단</span>
+            <span id="member-count" class="text-sm font-normal text-gray-500">데이터 로드 중...</span>
+        </h3>
+        <div id="member-grid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4"></div>
+    </div>
+</div>
+
+<script>
+    let allMembers = [];
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    const memberGrid = document.getElementById('member-grid');
+
+    async function init() {
+        try {
+            const response = await fetch('data_export/members_all.json');
+            if (!response.ok) throw new Error("파일을 찾을 수 없습니다.");
+            const rawData = await response.json();
+            
+            // 22대 의원 필터링 (타입 유연성 확보)
+            allMembers = rawData.filter(m => m.is_22nd === true || m.is_22nd === "true");
+            
+            if (allMembers.length === 0) {
+                console.warn("⚠️ 22대 의원 데이터가 없습니다. 필터링 조건을 확인하세요.");
+                // 디버깅을 위해 전체 데이터를 표시하거나 에러 메시지 출력
+                allMembers = rawData.slice(0, 300); 
+            }
+
+            updateDashboard(allMembers);
+            renderGrid(allMembers);
+        } catch (error) {
+            console.error("❌ 초기화 실패:", error);
+            memberGrid.innerHTML = "<p class='col-span-full text-center py-10 text-red-500'>데이터를 불러올 수 없습니다. 경로를 확인하세요.</p>";
+        }
+    }
+
+    function updateDashboard(data) {
+        document.getElementById('member-count').innerText = `총 ${data.length}명`;
+
+        const parties = {};
+        const partyAges = {};
+        const ageGroups = { '30대 이하': 0, '40대': 0, '50대': 0, '60대 이상': 0 };
+        let localCount = 0;
+        let proCount = 0;
+        let totalAge = 0;
+
+        data.forEach(m => {
+            // 1. 정당 (유연한 필드 매핑)
+            const partyName = m.CURR_PLPT_NM || m.PLPT_NM || "무소속";
+            parties[partyName] = (parties[partyName] || 0) + 1;
+            
+            // 2. 당선 형태
+            const district = m.CURR_ELECD_NM || m.ELECD_NM || "";
+            if (district.includes('비례대표')) proCount++; else localCount++;
+
+            // 3. 나이 (BIRDY_DT 또는 BIRDY_DT_NM)
+            let birthYear = 1970;
+            const bDay = m.BIRDY_DT || m.BIRDY_DT_NM || "";
+            if (bDay) birthYear = parseInt(bDay.split('-')[0]) || parseInt(bDay.substring(0,4));
+            
+            const age = 2026 - birthYear;
+            totalAge += age;
+
+            if (age < 40) ageGroups['30대 이하']++;
+            else if (age < 50) ageGroups['40대']++;
+            else if (age < 60) ageGroups['50대']++;
+            else ageGroups['60대 이상']++;
+
+            if(!partyAges[partyName]) partyAges[partyName] = {sum: 0, count: 0};
+            partyAges[partyName].sum += age;
+            partyAges[partyName].count += 1;
+        });
+
+        // 정당 분포 렌더링
+        const sortedParties = Object.entries(parties).sort((a,b) => b[1] - a[1]);
+        document.getElementById('party-charts').innerHTML = sortedParties.slice(0, 4).map(([name, count]) => `
+            <div class="chart-row">
+                <div class="party-label">${name}</div>
+                <div class="bar-container">
+                    <div class="bar" style="width: ${(count/data.length*100).toFixed(1)}%; background: ${getPartyColor(name)};"></div>
+                </div>
+                <div class="bar-value">${count}</div>
+            </div>
+        `).join('');
+
+        // 연령대 분포 렌더링
+        document.getElementById('age-dist').innerHTML = Object.entries(ageGroups).map(([label, count]) => `
+            <div class="age-box"><span class="age-num">${count}</span><span class="text-[14px] text-gray-500">${label}</span></div>
+        `).join('');
+
+        document.getElementById('stat-local').innerText = localCount;
+        document.getElementById('stat-pro').innerText = proCount;
+        document.getElementById('avg-age').innerText = (totalAge / data.length).toFixed(1);
+
+        // 정당별 평균 연령
+        document.getElementById('party-age-list').innerHTML = sortedParties.slice(0, 3).map(([name, count]) => {
+            const avg = (partyAges[name].sum / partyAges[name].count).toFixed(1);
+            return `
+                <div class="flex justify-between items-center text-sm">
+                    <span class="font-medium">${name}</span>
+                    <span class="font-bold text-blue-600">${avg}세</span>
+                </div>
+                <div class="w-full bg-gray-100 h-1.5 rounded-full mb-2">
+                    <div class="h-1.5 rounded-full" style="width: ${avg*1.5}%; background: ${getPartyColor(name)}; opacity: 0.6;"></div>
+                </div>
+            `;
+        }).join('');
+
+        // 최고령/최연소 (필터링 적용)
+        const validAgeData = data.filter(m => m.BIRDY_DT || m.BIRDY_DT_NM);
+        if (validAgeData.length > 0) {
+            const sortedByAge = validAgeData.sort((a, b) => new Date(a.BIRDY_DT || a.BIRDY_DT_NM) - new Date(b.BIRDY_DT || b.BIRDY_DT_NM));
+            document.getElementById('edge-members').innerHTML = `
+                ${renderEdgeMember(sortedByAge[0], '최고령')}
+                ${renderEdgeMember(sortedByAge[sortedByAge.length - 1], '최연소')}
+            `;
+        }
+    }
+
+    function renderEdgeMember(m, label) {
+        if (!m) return "";
+        const bDay = m.BIRDY_DT || m.BIRDY_DT_NM || "1970";
+        const age = 2026 - parseInt(bDay.split('-')[0]);
+        const imgPath = m.PHOTO_PATH ? `./${m.PHOTO_PATH}` : 'https://via.placeholder.com/150';
+        
+        return `
+            <div class="profile-card" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                <div class="bg-gray-100 rounded-lg h-24 mb-2 overflow-hidden">
+                    <img src="${imgPath}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/150'">
+                </div>
+                <div class="stat-badge mb-1">${label}</div>
+                <div class="font-bold text-sm">${m.NAAS_NM || m.HG_NM}</div>
+                <div class="text-[16px] text-gray-500 font-bold text-[#8B4513]">${age}세 (${m.CURR_PLPT_NM || m.PLPT_NM})</div>
+            </div>
+        `;
+    }
+
+    function renderGrid(members) {
+        memberGrid.innerHTML = members.map(m => {
+            const name = m.NAAS_NM || m.HG_NM;
+            const party = m.CURR_PLPT_NM || m.PLPT_NM;
+            const code = m.NAAS_CD || m.MONA_CD;
+            const district = m.CURR_ELECD_NM || m.ELECD_NM || "비례대표";
+            const rlct = m.RLCT_COUNT ? `${m.RLCT_COUNT}선` : (m.RLCT_DIV_NM || "초선");
+
+            return `
+                <div class="member-grid-card bg-white p-3 rounded-xl shadow-sm cursor-pointer border-l-4" 
+                     onclick="location.href='detail.html?id=${code}'"
+                     style="border-left-color: ${getPartyColor(party)}">
+                    <img src="./${m.PHOTO_PATH}" class="w-full h-36 object-cover rounded-lg mb-2 bg-gray-50" onerror="this.src='https://via.placeholder.com/300x400?text=No+Image'">
+                    <h4 class="font-bold text-sm text-center">${name}</h4>
+                    <p class="text-[12px] text-gray-600 text-center">${party}</p>
+                    <div class="flex justify-center gap-1 mt-1">
+                        <span class="stat-badge">${rlct}</span>
+                        <span class="stat-badge">${district.split(' ')[0]}</span>
+                    </div>
+                </div>
+            `;
+        }).join('');
+    }
+
+    searchInput.addEventListener('input', (e) => {
+        const val = e.target.value.trim();
+        if (val.length === 0) { searchResults.style.display = 'none'; return; }
+        const filtered = allMembers.filter(m => (m.NAAS_NM || m.HG_NM || "").includes(val)).slice(0, 10);
+        if (filtered.length > 0) {
+            searchResults.style.display = 'block';
+            searchResults.innerHTML = filtered.map(m => `
+                <div class="search-item" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                    <img src="./${m.PHOTO_PATH}" class="w-10 h-10 rounded-full object-cover mr-3 border" onerror="this.src='https://via.placeholder.com/50'">
+                    <div>
+                        <div class="font-bold text-sm">${m.NAAS_NM || m.HG_NM} <span class="text-[10px] font-normal text-gray-400">${m.CURR_PLPT_NM || m.PLPT_NM}</span></div>
+                        <div class="text-[10px] text-gray-500">${m.CURR_ELECD_NM || m.ELECD_NM}</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+    });
+
+    function getPartyColor(party) {
+        if (!party) return '#ddd';
+        if (party.includes('더불어민주당')) return '#004EA2';
+        if (party.includes('국민의힘')) return '#E61E2B';
+        if (party.includes('조국혁신당')) return '#00A0E2';
+        if (party.includes('개혁신당')) return '#FF6600';
+        if (party.includes('진보당')) return '#d6001c';
+        return '#666';
+    }
+
+    init();
+</script>
+
+</body>
+</html>

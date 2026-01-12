@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>제22대 국회 인사이트 - 의원 정보 검색</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .member-card:hover { transform: translateY(-5px); transition: all 0.3s ease; }
+        .party-dp { border-left: 5px solid #004EA2; } /* 민주당 */
+        .party-ppp { border-left: 5px solid #E61E2B; } /* 국민의힘 */
+    </style>
+</head>
+<body class="bg-gray-50">
+
+    <header class="bg-blue-600 text-white py-12 px-4 shadow-lg">
+        <div class="max-w-6xl mx-auto text-center">
+            <h1 class="text-4xl font-extrabold mb-4">제22대 국회 인사이트 리포트</h1>
+            <p class="text-blue-100 mb-8">뉴스 키워드와 유튜브 활동으로 분석한 실시간 의원 동향</p>
+            
+            <div class="max-w-2xl mx-auto relative">
+                <input type="text" id="search-input" placeholder="의원 성명 또는 지역구를 입력하세요..." 
+                       class="w-full py-4 px-6 rounded-full text-gray-900 shadow-xl focus:outline-none focus:ring-4 focus:ring-blue-300">
+                <button class="absolute right-4 top-4 text-blue-600"><i class="fa-solid fa-magnifying-glass fa-lg"></i></button>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto p-6">
+        <div class="flex flex-wrap gap-4 mb-10 justify-center">
+            <button onclick="filterByParty('전체')" class="px-6 py-2 rounded-full bg-white shadow-sm font-bold hover:bg-blue-50">#전체</button>
+            <button onclick="filterByParty('더불어민주당')" class="px-6 py-2 rounded-full bg-white shadow-sm font-bold text-blue-700 hover:bg-blue-50">#더불어민주당</button>
+            <button onclick="filterByParty('국민의힘')" class="px-6 py-2 rounded-full bg-white shadow-sm font-bold text-red-600 hover:bg-red-50">#국민의힘</button>
+            <button onclick="filterByParty('조국혁신당')" class="px-6 py-2 rounded-full bg-white shadow-sm font-bold text-blue-400 hover:bg-blue-50">#조국혁신당</button>
+            <button onclick="filterByParty('개혁신당')" class="px-6 py-2 rounded-full bg-white shadow-sm font-bold text-orange-500 hover:bg-orange-50">#개혁신당</button>
+        </div>
+
+        <div class="w-full h-24 bg-gray-200 mb-10 flex items-center justify-center text-gray-400 rounded-lg border-2 border-dashed">
+            광고 수익을 위한 구글 애드센스 영역
+        </div>
+
+        <div id="member-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            </div>
+    </main>
+
+    <script>
+        let allMembers = [];
+
+        // DB에서 익스포트한 전체 의원 목록 JSON 로드 (상태 관리용)
+        async function fetchMembers() {
+            try {
+                // 파이썬으로 298명 전체 리스트를 담은 단일 JSON을 만든다고 가정 (예: members_all.json)
+                const response = await fetch('data_export/members_all.json');
+                allMembers = await response.json();
+                renderMembers(allMembers);
+            } catch (error) {
+                console.error("데이터 로딩 실패:", error);
+            }
+        }
+
+        function renderMembers(data) {
+            const grid = document.getElementById('member-grid');
+            grid.innerHTML = '';
+
+            data.forEach(m => {
+                const card = document.createElement('div');
+                // 정당별 색상 코드 적용
+                const partyClass = m.PLPT_NM === '더불어민주당' ? 'party-dp' : (m.PLPT_NM === '국민의힘' ? 'party-ppp' : '');
+                
+                card.className = `member-card bg-white rounded-xl shadow-md overflow-hidden cursor-pointer ${partyClass}`;
+                card.onclick = () => location.href = `detail.html?id=${m.MONA_CD}`;
+                
+                card.innerHTML = `
+                    <div class="flex p-4 gap-4">
+                        <img src="./all_member_photos/${m.HG_NM+'_'+m.MONA_CD+'_300.jpg'}" class="w-20 h-24 object-cover rounded-lg bg-gray-100">
+                        <div class="flex flex-col justify-center">
+                            <span class="text-xs text-gray-400">${m.PLPT_NM}</span>
+                            <h2 class="text-xl font-bold">${m.HG_NM}</h2>
+                            <p class="text-xs text-gray-500">${m.ELECD_NM}</p>
+                            <div class="mt-2 flex flex-wrap gap-1">
+                                ${m.top_keywords ? m.top_keywords.slice(0, 2).map(k => `<span class="bg-gray-100 text-[10px] px-1 rounded">#${k}</span>`).join('') : ''}
+                            </div>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // 검색 기능
+        document.getElementById('search-input').addEventListener('input', (e) => {
+            const val = e.target.value.toLowerCase();
+            const filtered = allMembers.filter(m => 
+                m.HG_NM.includes(val) || m.ELECD_NM.toLowerCase().includes(val)
+            );
+            renderMembers(filtered);
+        });
+
+        // 정당 필터 기능
+        function filterByParty(party) {
+            if (party === '전체') renderMembers(allMembers);
+            else {
+                const filtered = allMembers.filter(m => m.PLPT_NM === party);
+                renderMembers(filtered);
+            }
+        }
+
+        fetchMembers();
+    </script>
+</body>
+</html>
