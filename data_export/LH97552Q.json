@@ -61,17 +61,17 @@
             "국민",
             "민주당",
             "의장",
-            "부산",
-            "대상",
             "도부",
             "사과",
+            "부산",
+            "대상",
+            "대표",
             "미니",
             "총선",
             "봉신",
             "사상",
             "사퇴",
-            "대표",
-            "민주"
+            "정책"
         ],
         "keyword_frequency": [
             {
@@ -84,11 +84,19 @@
             },
             {
                 "text": "민주당",
-                "value": 16
+                "value": 15
             },
             {
                 "text": "의장",
-                "value": 11
+                "value": 12
+            },
+            {
+                "text": "도부",
+                "value": 9
+            },
+            {
+                "text": "사과",
+                "value": 9
             },
             {
                 "text": "부산",
@@ -99,11 +107,7 @@
                 "value": 9
             },
             {
-                "text": "도부",
-                "value": 8
-            },
-            {
-                "text": "사과",
+                "text": "대표",
                 "value": 8
             },
             {
@@ -127,32 +131,28 @@
                 "value": 8
             },
             {
-                "text": "대표",
+                "text": "정책",
                 "value": 7
-            },
-            {
-                "text": "민주",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:35.722714",
+        "last_analyzed_at": "2026-01-13T10:40:03.987256",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                3,
                 4,
                 8,
                 3,
                 0,
                 1,
+                0,
                 0
             ]
         }
@@ -205,7 +205,7 @@
             "_id": "6964b548631fd1743499608a",
             "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
             "created_at": "2026-01-12T17:48:05.254000",
-            "description": "나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해?... 그리고 민주당의 광주 동남을의 안도걸, 광주 북구갑의 정준호도 지금 공직선거법으로 1심 재판받고 있어요. 제가... ",
+            "description": "근데 장 대표가 사과를 한 지 하루 만에 지도부 인사가 났는데 이 인사를 보면 지금 정점식 정책위의장... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454621&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-09T10:00:00",
@@ -558,13 +558,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abdc631fd1743497d41d",
-            "url": "https://www.youtube.com/watch?v=aGq-SLy_O8M",
+            "_id": "6960abdc631fd1743497d41b",
+            "url": "https://www.youtube.com/watch?v=U8lg3b8DWTQ",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:49.550000",
-            "duration": 184.0,
-            "title": "[이런뉴스] 결국 국힘 지도부 떠난 부산 4선 김도읍, 공식회의 마지막 말이 / KBS 2026.01.06.",
+            "collected_at": "2026-01-13T09:43:19.940000",
+            "duration": 280.0,
+            "title": "9월 26일 새누리당 의원총회 김도읍 원내수석부대표 발언",
             "upload_date": null
         },
         {
@@ -572,19 +572,19 @@
             "url": "https://www.youtube.com/watch?v=5rY3QdjwOF8",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:48.769000",
+            "collected_at": "2026-01-13T09:43:19.940000",
             "duration": 154.0,
             "title": "법사위원장에 김도읍 내정…부산 의원 ‘중책’ / KBS  2022.07.21.",
             "upload_date": null
         },
         {
-            "_id": "6960abdc631fd1743497d41b",
-            "url": "https://www.youtube.com/watch?v=U8lg3b8DWTQ",
+            "_id": "6960abdc631fd1743497d41d",
+            "url": "https://www.youtube.com/watch?v=aGq-SLy_O8M",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:48.769000",
-            "duration": 280.0,
-            "title": "9월 26일 새누리당 의원총회 김도읍 원내수석부대표 발언",
+            "collected_at": "2026-01-13T09:43:20.464000",
+            "duration": 184.0,
+            "title": "[이런뉴스] 결국 국힘 지도부 떠난 부산 4선 김도읍, 공식회의 마지막 말이 / KBS 2026.01.06.",
             "upload_date": null
         },
         {
@@ -592,9 +592,39 @@
             "url": "https://www.youtube.com/watch?v=7zTSaB2geFU",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:48.769000",
+            "collected_at": "2026-01-13T09:43:19.940000",
             "duration": 215.0,
             "title": "중산층·서민을 위한 중점법안 관련 - 김도읍 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abdc631fd1743497d415",
+            "url": "https://www.youtube.com/watch?v=Y12CLbJKVHc",
+            "HG_NM": "김도읍",
+            "MONA_CD": "LH97552Q",
+            "collected_at": "2026-01-13T09:43:19.940000",
+            "duration": 199.0,
+            "title": "[여담야담] '김도읍 사퇴'에 장동혁 리더십 흔들리나 / SBS / 편상욱의 뉴스브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abdc631fd1743497d414",
+            "url": "https://www.youtube.com/watch?v=Gz7eWneDbRI",
+            "HG_NM": "김도읍",
+            "MONA_CD": "LH97552Q",
+            "collected_at": "2026-01-13T09:43:19.940000",
+            "duration": 629.0,
+            "title": "칭찬 97회, 김도읍 의원 (새누리당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abdc631fd1743497d413",
+            "url": "https://www.youtube.com/watch?v=Z6xKZkVs23g",
+            "HG_NM": "김도읍",
+            "MONA_CD": "LH97552Q",
+            "collected_at": "2026-01-13T09:43:19.940000",
+            "duration": 111.0,
+            "title": "[국감인물] \"되묻고 되물어야\"…'송곳' 질의 김도읍 의원 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -608,45 +638,15 @@
             "upload_date": null
         },
         {
-            "_id": "6960abdc631fd1743497d414",
-            "url": "https://www.youtube.com/watch?v=Gz7eWneDbRI",
-            "HG_NM": "김도읍",
-            "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:48.769000",
-            "duration": 629.0,
-            "title": "칭찬 97회, 김도읍 의원 (새누리당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abdc631fd1743497d413",
-            "url": "https://www.youtube.com/watch?v=Z6xKZkVs23g",
-            "HG_NM": "김도읍",
-            "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:48.769000",
-            "duration": 111.0,
-            "title": "[국감인물] \"되묻고 되물어야\"…'송곳' 질의 김도읍 의원 / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abdc631fd1743497d415",
-            "url": "https://www.youtube.com/watch?v=Y12CLbJKVHc",
-            "HG_NM": "김도읍",
-            "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:49.550000",
-            "duration": 199.0,
-            "title": "[여담야담] '김도읍 사퇴'에 장동혁 리더십 흔들리나 / SBS / 편상욱의 뉴스브리핑",
-            "upload_date": null
-        },
-        {
             "_id": "6960abdc631fd1743497d41a",
             "url": "https://www.youtube.com/watch?v=-CCNIFG6Rpk",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-09T16:18:48.769000",
+            "collected_at": "2026-01-13T09:43:19.940000",
             "duration": 208.0,
             "title": "[국회의원 성적표]① 입법 실적…김도읍·최인호 ‘우수’ 김희곤 ‘미흡’ / KBS  2023.02.02.",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:35.722714"
+    "exported_at": "2026-01-13T10:40:03.987256"
 }

@@ -46,41 +46,41 @@
             "광주",
             "민주당",
             "판다",
-            "대통령",
             "국정감사",
+            "대통령",
             "베네수엘라",
-            "정준호",
+            "행정",
+            "북구",
             "군사작전",
             "국제",
             "전남",
             "통합",
             "발의",
-            "우치동물원",
             "환영"
         ],
         "keyword_frequency": [
             {
                 "text": "전진",
-                "value": 25
+                "value": 30
             },
             {
                 "text": "광주",
-                "value": 20
+                "value": 21
             },
             {
                 "text": "민주당",
-                "value": 13
+                "value": 16
             },
             {
                 "text": "판다",
-                "value": 11
-            },
-            {
-                "text": "대통령",
-                "value": 8
+                "value": 10
             },
             {
                 "text": "국정감사",
+                "value": 10
+            },
+            {
+                "text": "대통령",
                 "value": 8
             },
             {
@@ -88,7 +88,11 @@
                 "value": 6
             },
             {
-                "text": "정준호",
+                "text": "행정",
+                "value": 6
+            },
+            {
+                "text": "북구",
                 "value": 5
             },
             {
@@ -112,30 +116,26 @@
                 "value": 5
             },
             {
-                "text": "우치동물원",
-                "value": 4
-            },
-            {
                 "text": "환영",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:00.554882",
+        "last_analyzed_at": "2026-01-13T10:40:29.561636",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                3,
                 0,
                 2,
                 1,
+                0,
                 0,
                 0,
                 0
@@ -147,7 +147,7 @@
             "_id": "6964b584631fd17434996447",
             "link": "https://n.news.naver.com/mnews/article/023/0003951907?sid=100",
             "created_at": "2026-01-12T17:49:05.636000",
-            "description": "우상호 청와대 정무수석이 광주 지역 국회의원들을 만나 “광주 시민들에게 송구스럽다”는 이 대통령의... 더불어민주당 정준호(광주 북구갑) 의원은 “판다 대여를 계기로 광주 우치동물원이 호남 대표 생태 문화... ",
+            "description": "우상호 청와대 정무수석이 광주 지역 국회의원들을 만나 “광주 시민들에게 송구스럽다”는 이 대통령의... 당 전진숙(광주 북구을) 의원은 “한중 우호의 외교적 성과는 물론, 국가 균형 발전의 나비 효과를 가져올 수... ",
             "originallink": "https://www.chosun.com/politics/politics_general/2026/01/09/ZPWKD4O4DVAJDFM5FNSUFHZLGE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-09T00:58:00",
@@ -447,13 +447,63 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ace1631fd1743497d837",
-            "url": "https://www.youtube.com/watch?v=rBkmbU9hM60",
+            "_id": "696596e5887d07f7ba2fae09",
+            "url": "https://www.youtube.com/watch?v=uFVkS-usHdw",
             "HG_NM": "전진숙",
             "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:04.275000",
-            "duration": 231.0,
-            "title": "전진숙, '이재명 대통령 범죄 역사' 서지영 발언에 분개 \"사과 안 하면 윤리위 제소\" 경고",
+            "collected_at": "2026-01-13T09:50:42.718000",
+            "duration": 448.0,
+            "title": "[후보자연설의 방송]  전진숙 - 제22대국회의원선거 광주 북구을 더불어민주당",
+            "upload_date": null
+        },
+        {
+            "_id": "696596e5887d07f7ba2fae0a",
+            "url": "https://www.youtube.com/watch?v=oDqy5KY1tOI",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-13T09:50:42.718000",
+            "duration": 386.0,
+            "title": "[2024국정감사] 더불어민주당 전진숙 의정갈등*연금 개혁 \"갈등만 야기하는 엉터리 행정\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb7",
+            "url": "https://www.youtube.com/watch?v=LLJdCr-_Ays",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-13T09:50:42.718000",
+            "duration": 340.0,
+            "title": "민주당 전진숙 의원,노인 인권 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb9",
+            "url": "https://www.youtube.com/watch?v=QHld9RW75TA",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-13T09:50:42.718000",
+            "duration": 81.0,
+            "title": "[전진숙 국회의원] 제22대 국회 보건복지위원회 첫 전체회의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbba",
+            "url": "https://www.youtube.com/watch?v=x8k0BOiBqDU",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-13T09:50:43.359000",
+            "duration": 487.0,
+            "title": "전진숙, 운영위 국감에서 김건희 관련 초대형 의혹 제기 [G1현장영상]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb5",
+            "url": "https://www.youtube.com/watch?v=rufhbvvlqiQ",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-13T09:50:42.718000",
+            "duration": 294.0,
+            "title": "2025 #국정감사 #국정감사 #보건복지부 3차시 #전진숙국회의원",
             "upload_date": null
         },
         {
@@ -461,9 +511,19 @@
             "url": "https://www.youtube.com/watch?v=f0uZIXAasao",
             "HG_NM": "전진숙",
             "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:03.570000",
+            "collected_at": "2026-01-13T09:50:42.718000",
             "duration": 1159.0,
             "title": "현장인터뷰 이사람 - 전진숙 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ace1631fd1743497d837",
+            "url": "https://www.youtube.com/watch?v=rBkmbU9hM60",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-13T09:50:43.359000",
+            "duration": 231.0,
+            "title": "전진숙, '이재명 대통령 범죄 역사' 서지영 발언에 분개 \"사과 안 하면 윤리위 제소\" 경고",
             "upload_date": null
         },
         {
@@ -477,55 +537,15 @@
             "upload_date": null
         },
         {
-            "_id": "6960adcb631fd1743497dbb5",
-            "url": "https://www.youtube.com/watch?v=rufhbvvlqiQ",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:03.570000",
-            "duration": 294.0,
-            "title": "2025 #국정감사 #국정감사 #보건복지부 3차시 #전진숙국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbb7",
-            "url": "https://www.youtube.com/watch?v=LLJdCr-_Ays",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:03.570000",
-            "duration": 340.0,
-            "title": "민주당 전진숙 의원,노인 인권 관련 기자회견",
-            "upload_date": null
-        },
-        {
             "_id": "6960adcb631fd1743497dbb8",
             "url": "https://www.youtube.com/watch?v=bBs31NfXkxc",
             "HG_NM": "전진숙",
             "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:03.570000",
+            "collected_at": "2026-01-13T09:50:42.718000",
             "duration": 421.0,
             "title": "#2025국정감사 #성평등가족부 #전진숙국회의원 #더불어민주당 #돌봄 #아이돌보미 #온라인도박 #초등학생도박 #진짜대한민국 #국정감사",
             "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbb9",
-            "url": "https://www.youtube.com/watch?v=QHld9RW75TA",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:03.570000",
-            "duration": 81.0,
-            "title": "[전진숙 국회의원] 제22대 국회 보건복지위원회 첫 전체회의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbba",
-            "url": "https://www.youtube.com/watch?v=x8k0BOiBqDU",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:04.275000",
-            "duration": 487.0,
-            "title": "전진숙, 운영위 국감에서 김건희 관련 초대형 의혹 제기 [G1현장영상]",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:00.555399"
+    "exported_at": "2026-01-13T10:40:29.561636"
 }

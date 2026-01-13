@@ -57,37 +57,49 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
             "인터뷰",
-            "국힘",
             "민주당",
+            "국민",
+            "가능성",
+            "대구시",
+            "출마",
+            "국힘",
             "방송",
             "릴레이",
             "칭찬",
-            "미니",
-            "총선",
-            "가능성",
-            "싱글맘",
-            "대구시",
-            "경북",
-            "대구",
-            "도부"
+            "라이브",
+            "홈플러스",
+            "구속",
+            "수사",
+            "미니"
         ],
         "keyword_frequency": [
             {
-                "text": "국민",
+                "text": "인터뷰",
                 "value": 8
             },
             {
-                "text": "인터뷰",
+                "text": "민주당",
                 "value": 6
             },
             {
-                "text": "국힘",
+                "text": "국민",
+                "value": 6
+            },
+            {
+                "text": "가능성",
+                "value": 5
+            },
+            {
+                "text": "대구시",
                 "value": 4
             },
             {
-                "text": "민주당",
+                "text": "출마",
+                "value": 4
+            },
+            {
+                "text": "국힘",
                 "value": 4
             },
             {
@@ -103,61 +115,66 @@
                 "value": 4
             },
             {
+                "text": "라이브",
+                "value": 4
+            },
+            {
+                "text": "홈플러스",
+                "value": 3
+            },
+            {
+                "text": "구속",
+                "value": 3
+            },
+            {
+                "text": "수사",
+                "value": 3
+            },
+            {
                 "text": "미니",
-                "value": 3
-            },
-            {
-                "text": "총선",
-                "value": 3
-            },
-            {
-                "text": "가능성",
-                "value": 3
-            },
-            {
-                "text": "싱글맘",
-                "value": 3
-            },
-            {
-                "text": "대구시",
-                "value": 3
-            },
-            {
-                "text": "경북",
-                "value": 3
-            },
-            {
-                "text": "대구",
-                "value": 3
-            },
-            {
-                "text": "도부",
                 "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:36.806228",
+        "last_analyzed_at": "2026-01-13T10:40:05.098275",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 0,
                 2,
                 0,
                 0,
                 0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a2887d07f7ba2fab35",
+            "link": "https://n.news.naver.com/mnews/article/382/0001247557?sid=101",
+            "created_at": "2026-01-13T09:41:04.261000",
+            "description": "민병덕 더불어민주당 의원과 신장식 조국혁신당 의원, 한창민 사회민주당 의원은 12일 국회에서 기자회견을 열고 김광일 부회장 겸 홈플러스 대표이사 등 경영진 4명에 대한 구속 수사를 촉구했다. 이들은 검찰이... ",
+            "originallink": "https://sports.donga.com/economy/article/all/20260112/133141779/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-12T18:59:00",
+            "related_members": [
+                "TZ228122",
+                "NPD75153",
+                "GF286398",
+                "T4I4862D",
+                "1Y73132H"
+            ],
+            "title": "홈플러스 사태 놓고 여야 한목소리 ‘구속 수사 필요’"
+        },
         {
             "_id": "6964b548631fd17434996094",
             "link": "https://n.news.naver.com/mnews/article/020/0003687852?sid=100",
@@ -196,7 +213,7 @@
             "_id": "6964b544631fd17434996036",
             "link": "https://n.news.naver.com/mnews/article/421/0008692988?sid=102",
             "created_at": "2026-01-12T17:48:01.451000",
-            "description": "장동혁 대표는 참석하지 않았지만 경북 김천을 지역구로 둔 송언석 원내대표 등 지도부와 이인선 국민의힘 대구시당위원장, 구자근 국민의힘 경북도당위원장 등 대구·경북(TK) 국회의원 대부분이 참석했다. 특히 주호영... ",
+            "description": "특히 주호영 국회 부의장을 제외한 잠재적 대구시장 출마 예정자로 꼽히는 추경호·윤재옥·최은석·유영하·김상훈 의원 등 현직 대부분이 참석해 출마 의지를 직·간접적으로 내비치거나 말을 아꼈다. 대구시장 선거와... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6027211",
             "press": "뉴스1",
             "pubDate": "2026-01-02T17:54:00",
@@ -243,7 +260,7 @@
             "url": "https://www.youtube.com/watch?v=AP0_chExNwA",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-09T16:19:10.625000",
+            "collected_at": "2026-01-13T09:43:36.368000",
             "duration": 139.0,
             "title": "국민의힘 김상훈 \"민주당이 민노총의 하부 조직인가\"",
             "upload_date": null
@@ -253,7 +270,7 @@
             "url": "https://www.youtube.com/watch?v=VMo0H6BAxls",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-09T16:19:10.625000",
+            "collected_at": "2026-01-13T09:43:36.368000",
             "duration": 1087.0,
             "title": "20230306 [국회방송] 인터뷰 릴레이 칭찬_국회의원 김상훈 편",
             "upload_date": null
@@ -263,7 +280,7 @@
             "url": "https://www.youtube.com/watch?v=-aKaX_Hkb5U",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-09T16:19:10.625000",
+            "collected_at": "2026-01-13T09:43:36.368000",
             "duration": 153.0,
             "title": "김상훈 의원 \"국회의원들이 대통령 거수기입니까?\" 20200729 국토위",
             "upload_date": null
@@ -273,7 +290,7 @@
             "url": "https://www.youtube.com/watch?v=pBRTKci_caM",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-09T16:19:10.625000",
+            "collected_at": "2026-01-13T09:43:36.368000",
             "duration": 585.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 144회 김상훈 의원 자유한국당",
             "upload_date": null
@@ -283,7 +300,7 @@
             "url": "https://www.youtube.com/watch?v=CGoVtLR63DA",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-09T16:19:10.625000",
+            "collected_at": "2026-01-13T09:43:36.368000",
             "duration": 1226.0,
             "title": "\"민주노총이 민주당 지도부에 ‘버르장머리 없이 개가 주인 물어?’\" 김상훈 국민의힘 의원 | 대정부질문 (25.9.17.) | 국회방송",
             "upload_date": null
@@ -293,11 +310,31 @@
             "url": "https://www.youtube.com/watch?v=U_u6pT_MqfE",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-09T16:19:10.625000",
+            "collected_at": "2026-01-13T09:43:36.368000",
             "duration": 1006.0,
             "title": "20230418 [국회라이브6] 파워인터뷰_김상훈의원",
             "upload_date": null
+        },
+        {
+            "_id": "6965953a887d07f7ba2fabed",
+            "url": "https://www.youtube.com/watch?v=QlEZsNAg4Z0",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-13T09:43:36.368000",
+            "duration": 357.0,
+            "title": "20230424 [국회라이브6] 전화 인터뷰_김상훈의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6965953a887d07f7ba2fabee",
+            "url": "https://www.youtube.com/watch?v=ECl8VEAwal8",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-13T09:43:36.902000",
+            "duration": 257.0,
+            "title": "김상훈 \"부결 당론 그대로...가결 가능성은 커져”ㅣTBC뉴스",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:36.806228"
+    "exported_at": "2026-01-13T10:40:05.098275"
 }

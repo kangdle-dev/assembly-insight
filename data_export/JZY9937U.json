@@ -55,18 +55,18 @@
             "장관",
             "참사",
             "여객기",
-            "유가족",
-            "이전",
             "국토교통부",
-            "추모식",
+            "유가족",
             "민주당",
+            "이전",
+            "추모식",
+            "정부",
             "상속세",
+            "전북",
             "진상",
             "규명",
             "공공기관",
-            "주민",
-            "주기",
-            "시민"
+            "주민"
         ],
         "keyword_frequency": [
             {
@@ -82,15 +82,19 @@
                 "value": 10
             },
             {
+                "text": "국토교통부",
+                "value": 8
+            },
+            {
                 "text": "유가족",
                 "value": 8
             },
             {
-                "text": "이전",
-                "value": 6
+                "text": "민주당",
+                "value": 7
             },
             {
-                "text": "국토교통부",
+                "text": "이전",
                 "value": 6
             },
             {
@@ -98,12 +102,16 @@
                 "value": 6
             },
             {
-                "text": "민주당",
+                "text": "정부",
                 "value": 5
             },
             {
                 "text": "상속세",
                 "value": 5
+            },
+            {
+                "text": "전북",
+                "value": 4
             },
             {
                 "text": "진상",
@@ -120,35 +128,27 @@
             {
                 "text": "주민",
                 "value": 4
-            },
-            {
-                "text": "주기",
-                "value": 4
-            },
-            {
-                "text": "시민",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:39.410101",
+        "last_analyzed_at": "2026-01-13T10:40:07.782232",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 1,
                 0,
                 1,
                 0,
                 0,
-                1
+                1,
+                0
             ]
         }
     },
@@ -157,7 +157,7 @@
             "_id": "6964b551631fd1743499614b",
             "link": "https://n.news.naver.com/mnews/article/003/0013705154?sid=102",
             "created_at": "2026-01-12T17:48:14.365000",
-            "description": "안호영 국회의원은 \"한병도 원내대표의 선출은 민생을 최우선에 두고 개혁을 실천할 수 있는 책임 있는 원내 리더십에 대한 신뢰의 결과\"라며 \"이번 선출과 도전이 당을 더욱 단단하게 만들고, 국민이 체감하는 변화로... ",
+            "description": "정부의 요직 외에도 더불어민주당에서 주요 보직을 잇따라 전북출신 국회의원들이 주요 보직에 앉게 된... 앞서 이재명 정부는 전북 현역 의원 가운데 정동영 통일부장관, 김윤덕 국토교통부장관을 임명하고 지역 출신으로... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003473511",
             "press": "뉴시스",
             "pubDate": "2026-01-12T13:53:00",
@@ -198,7 +198,7 @@
             "_id": "6964b551631fd1743499614c",
             "link": "https://n.news.naver.com/mnews/article/022/0004095675?sid=100",
             "created_at": "2026-01-12T17:48:14.365000",
-            "description": "아산을 국회의원 보궐선거 출마 가능성이 제기된다. 이 대통령의 최측근 인사 중에서는 김남준 대변인이... 당시 은수미 여성가족비서관과 신정훈 농어업비서관, 문대림 제도개선비서관, 박수현 대변인 등 비서관급... ",
+            "description": "아산을 국회의원 보궐선거 출마 가능성이 제기된다. 이 대통령의 최측근 인사 중에서는 김남준 대변인이... 지역 정가에선 2022년 6·1 지방선거를 앞두고 민주당 전북지사 경선에 나섰던 김윤덕 국토교통부 장관이 또 한... ",
             "originallink": "https://www.segye.com/newsView/20260106515362?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-07T06:05:00",
@@ -316,23 +316,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac27631fd1743497d541",
-            "url": "https://www.youtube.com/watch?v=RKkFwFhOuH4",
-            "HG_NM": "김윤덕",
-            "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:04.358000",
-            "duration": 116.0,
-            "title": "이상경 사퇴에 김윤덕 장관 사과…“모든 주택공급수단 총동원” / KBS  2025.10.28.",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac27631fd1743497d53c",
             "url": "https://www.youtube.com/watch?v=uDqhZ3AGI5U",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:03.613000",
+            "collected_at": "2026-01-13T09:44:16.067000",
             "duration": 776.0,
             "title": "김윤덕에게 판단 틀리면 장관직 국회의원직 다 내려놓아라!!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac27631fd1743497d541",
+            "url": "https://www.youtube.com/watch?v=RKkFwFhOuH4",
+            "HG_NM": "김윤덕",
+            "MONA_CD": "JZY9937U",
+            "collected_at": "2026-01-13T09:44:16.671000",
+            "duration": 116.0,
+            "title": "이상경 사퇴에 김윤덕 장관 사과…“모든 주택공급수단 총동원” / KBS  2025.10.28.",
             "upload_date": null
         },
         {
@@ -346,23 +346,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac27631fd1743497d53d",
-            "url": "https://www.youtube.com/watch?v=MLnMf8dDCe8",
-            "HG_NM": "김윤덕",
-            "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:03.613000",
-            "duration": 511.0,
-            "title": "국회 파행의 주범 '국토부 장관?‘... 국힘 맹폭에...김윤덕 장관 웃더니 '반격'",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac27631fd1743497d53b",
             "url": "https://www.youtube.com/watch?v=-OdL6SQzFDM",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:03.613000",
+            "collected_at": "2026-01-13T09:44:16.067000",
             "duration": 143.0,
             "title": "[뉴스데스크]김윤덕 의원이 불 지핀 도지사 경쟁",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac27631fd1743497d53a",
+            "url": "https://www.youtube.com/watch?v=hpfi9uMymR0",
+            "HG_NM": "김윤덕",
+            "MONA_CD": "JZY9937U",
+            "collected_at": "2026-01-13T09:44:16.067000",
+            "duration": 310.0,
+            "title": "김희정 \"관용차 6대 굴리는 분이..핑계는..\" 사과요구에 김윤덕 장관이 웃는 이유는?![G1현장뉴스]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac27631fd1743497d542",
+            "url": "https://www.youtube.com/watch?v=IRZpztPQzLo",
+            "HG_NM": "김윤덕",
+            "MONA_CD": "JZY9937U",
+            "collected_at": "2026-01-13T09:44:16.671000",
+            "duration": 140.0,
+            "title": "“대통령부터 집 팔아라” 묻자 김윤덕 장관 “검토” / 채널A / 특집 뉴스TOP 10",
             "upload_date": null
         },
         {
@@ -380,19 +390,9 @@
             "url": "https://www.youtube.com/watch?v=UC4OAafeQilP01diUwREYnqA",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:03.613000",
+            "collected_at": "2026-01-13T09:44:16.067000",
             "duration": null,
             "title": "김윤덕TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac27631fd1743497d53a",
-            "url": "https://www.youtube.com/watch?v=hpfi9uMymR0",
-            "HG_NM": "김윤덕",
-            "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:03.613000",
-            "duration": 310.0,
-            "title": "김희정 \"관용차 6대 굴리는 분이..핑계는..\" 사과요구에 김윤덕 장관이 웃는 이유는?![G1현장뉴스]",
             "upload_date": null
         },
         {
@@ -406,5 +406,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:39.410101"
+    "exported_at": "2026-01-13T10:40:07.782232"
 }

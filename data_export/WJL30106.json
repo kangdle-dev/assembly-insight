@@ -54,14 +54,14 @@
             "질문",
             "회관",
             "신관",
-            "울분",
             "현장",
             "대만",
             "자유",
             "인권",
             "민주당",
             "정부",
-            "이재명"
+            "이재명",
+            "연세대"
         ],
         "keyword_frequency": [
             {
@@ -93,10 +93,6 @@
                 "value": 4
             },
             {
-                "text": "울분",
-                "value": 4
-            },
-            {
                 "text": "현장",
                 "value": 4
             },
@@ -123,25 +119,29 @@
             {
                 "text": "이재명",
                 "value": 3
+            },
+            {
+                "text": "연세대",
+                "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:03.573079",
+        "last_analyzed_at": "2026-01-13T10:40:32.685360",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
                 0,
+                1,
+                1,
+                1,
                 0,
-                1,
-                1,
-                1,
                 0,
                 0
             ]
@@ -280,6 +280,36 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ae06631fd1743497dc7d",
+            "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
+            "HG_NM": "조정훈",
+            "MONA_CD": "WJL30106",
+            "collected_at": "2026-01-13T09:51:38.922000",
+            "duration": 1050.0,
+            "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae06631fd1743497dc80",
+            "url": "https://www.youtube.com/watch?v=X7BJIFlzsmo",
+            "HG_NM": "조정훈",
+            "MONA_CD": "WJL30106",
+            "collected_at": "2026-01-13T09:51:39.611000",
+            "duration": 1119.0,
+            "title": "국회방송 뉴스N | [파워인터뷰] 시대전환 조정훈 의원  - 2020년 12월 29일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae06631fd1743497dc7a",
+            "url": "https://www.youtube.com/watch?v=jMx6A0oqdB8",
+            "HG_NM": "조정훈",
+            "MONA_CD": "WJL30106",
+            "collected_at": "2026-01-13T09:51:38.922000",
+            "duration": 160.0,
+            "title": "조정훈 \"국민들이 왜 반중 하는지 생각해 봐라\" [티조Clip]",
+            "upload_date": null
+        },
+        {
             "_id": "6960ae06631fd1743497dc7e",
             "url": "https://www.youtube.com/watch?v=5u-dS4A9iik",
             "HG_NM": "조정훈",
@@ -290,41 +320,11 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc7f",
-            "url": "https://www.youtube.com/watch?v=4VoGPTGOImM",
-            "HG_NM": "조정훈",
-            "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.845000",
-            "duration": 325.0,
-            "title": "“학부모 의견 좀 들으라고요!” 고교학점제 대혼란에 울분 토한 조정훈",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae06631fd1743497dc7a",
-            "url": "https://www.youtube.com/watch?v=jMx6A0oqdB8",
-            "HG_NM": "조정훈",
-            "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
-            "duration": 160.0,
-            "title": "조정훈 \"국민들이 왜 반중 하는지 생각해 봐라\" [티조Clip]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae06631fd1743497dc7d",
-            "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
-            "HG_NM": "조정훈",
-            "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
-            "duration": 1050.0,
-            "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
-            "upload_date": null
-        },
-        {
             "_id": "6960ae06631fd1743497dc7b",
             "url": "https://www.youtube.com/watch?v=rvj8P65HngI",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
+            "collected_at": "2026-01-13T09:51:38.922000",
             "duration": 956.0,
             "title": "서울 성벽 틀어막은 민주당에 결국 울분터진 조정훈 의원 [펜앤현장]",
             "upload_date": null
@@ -334,7 +334,7 @@
             "url": "https://www.youtube.com/watch?v=LIgfHpDm_wU",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
+            "collected_at": "2026-01-13T09:51:38.922000",
             "duration": 477.0,
             "title": "조정훈 \"40년 동안 교편 잡은 분들이 화낸다\" [티조Clip]",
             "upload_date": null
@@ -344,7 +344,7 @@
             "url": "https://www.youtube.com/watch?v=4dZhzfF_VuA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.845000",
+            "collected_at": "2026-01-13T09:51:39.611000",
             "duration": 409.0,
             "title": "조정훈 \"무주택 국무위원 손 들어주세요\"하자 '정적' [현장영상] / 채널A",
             "upload_date": null
@@ -354,7 +354,7 @@
             "url": "https://www.youtube.com/watch?v=UCf8h3rgyIyV2_wmF5TiR85g",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
+            "collected_at": "2026-01-13T09:51:38.922000",
             "duration": null,
             "title": "조정훈",
             "upload_date": null
@@ -364,7 +364,7 @@
             "url": "https://www.youtube.com/watch?v=BxLx0M6FeuU",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
+            "collected_at": "2026-01-13T09:51:38.922000",
             "duration": 96.0,
             "title": "[스팟Live] \"답변 중 웃는 건 뭡니까\"...조정훈, 정근식 답변 태도에 '폭발' | 25.10.20 국회 교육위원회 국정감사",
             "upload_date": null
@@ -374,11 +374,11 @@
             "url": "https://www.youtube.com/watch?v=4g8Js1C9c7I",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
+            "collected_at": "2026-01-13T09:51:38.922000",
             "duration": 386.0,
             "title": "\"저 공부 많이 했습니다\"...후보자 답변에 숨 넘어가는(?) 조정훈, 무슨 일?",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:03.573079"
+    "exported_at": "2026-01-13T10:40:32.685360"
 }

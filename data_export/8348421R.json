@@ -48,8 +48,8 @@
     "analysis": {
         "keywords": [
             "국민",
-            "국힘",
             "충북도",
+            "국힘",
             "신년인사",
             "계엄",
             "지방선거",
@@ -61,24 +61,24 @@
             "다짐",
             "사과",
             "이상",
-            "승리"
+            "특례"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 14
+                "value": 16
+            },
+            {
+                "text": "충북도",
+                "value": 15
             },
             {
                 "text": "국힘",
                 "value": 12
             },
             {
-                "text": "충북도",
-                "value": 11
-            },
-            {
                 "text": "신년인사",
-                "value": 9
+                "value": 11
             },
             {
                 "text": "계엄",
@@ -121,33 +121,111 @@
                 "value": 7
             },
             {
-                "text": "승리",
+                "text": "특례",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:51.839266",
+        "last_analyzed_at": "2026-01-13T10:40:20.688760",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 6,
                 0,
                 0,
                 0,
                 0,
-                0
+                2,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6036526",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 국회일정] (13일, 화)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab38",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103334?sid=100",
+            "created_at": "2026-01-13T09:41:08.508000",
+            "description": "[이연희/더불어민주당 국회의원 : \"대전·충남 통합이 진행되면 그런 (특례) 내용들이 다 그 법안에 포함되기 때문에, 중부내륙특별법은 실효성이 많이 떨어질 거라 보고 있습니다.\"] 국민의힘도 충북이 불이익을 받아선 안... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456798&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T21:34:00",
+            "related_members": [
+                "EBH1101V",
+                "8O34202I",
+                "8348421R"
+            ],
+            "title": "충북도 ‘추가 특례’ 중부내륙특별법 추진…정치권 “개정 회의적”"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab39",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103219?sid=100",
+            "created_at": "2026-01-13T09:41:08.508000",
+            "description": "[이연희/더불어민주당 국회의원 : \"대전·충남 통합이 진행되면 그런 (특례) 내용들이 다 그 법안에 포함되기 때문에, 중부내륙특별법은 실효성이 많이 떨어질 거라 보고 있습니다.\"] 국민의힘도 충북이 불이익을 받아선 안... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456623&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T19:15:00",
+            "related_members": [
+                "EBH1101V",
+                "8O34202I",
+                "8348421R"
+            ],
+            "title": "충북도 ‘추가 특례’ 중부내륙특별법 추진…정치권 “개정 회의적”"
+        },
         {
             "_id": "6964b56e631fd17434996339",
             "link": "https://n.news.naver.com/mnews/article/056/0012100495?sid=100",
@@ -393,7 +471,7 @@
             "url": "https://www.youtube.com/watch?v=UCYa84mjqkWbnFgp2PvM8Bqg",
             "HG_NM": "엄태영",
             "MONA_CD": "8348421R",
-            "collected_at": "2026-01-09T16:24:07.960000",
+            "collected_at": "2026-01-13T09:47:52.926000",
             "duration": null,
             "title": "엄태영TV",
             "upload_date": null
@@ -403,7 +481,7 @@
             "url": "https://www.youtube.com/watch?v=BoQ8lRvaWI0",
             "HG_NM": "엄태영",
             "MONA_CD": "8348421R",
-            "collected_at": "2026-01-09T16:24:07.960000",
+            "collected_at": "2026-01-13T09:47:52.926000",
             "duration": 97.0,
             "title": "예고) 제천, 단양의 민생 살림꾼_국민의힘 엄태영 의원_오유경의 인생책방 [95회]",
             "upload_date": null
@@ -413,11 +491,11 @@
             "url": "https://www.youtube.com/watch?v=HeSIWAojW-0",
             "HG_NM": "엄태영",
             "MONA_CD": "8348421R",
-            "collected_at": "2026-01-09T16:24:07.960000",
+            "collected_at": "2026-01-13T09:47:53.544000",
             "duration": 133.0,
             "title": "엄태영의 희망캠프] \"이번엔 바꿉시다!\" - MBC충북 토론회",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:51.839266"
+    "exported_at": "2026-01-13T10:40:20.688760"
 }

@@ -55,18 +55,18 @@
             "공천",
             "국힘",
             "과거",
+            "남국",
+            "문자",
+            "강선우",
             "녹취",
             "이재명",
             "특검법",
-            "회의",
-            "장동혁",
-            "쇄신",
-            "청탁"
+            "회의"
         ],
         "keyword_frequency": [
             {
                 "text": "문진",
-                "value": 28
+                "value": 34
             },
             {
                 "text": "김병기",
@@ -97,6 +97,18 @@
                 "value": 8
             },
             {
+                "text": "남국",
+                "value": 8
+            },
+            {
+                "text": "문자",
+                "value": 8
+            },
+            {
+                "text": "강선우",
+                "value": 7
+            },
+            {
                 "text": "녹취",
                 "value": 7
             },
@@ -111,38 +123,26 @@
             {
                 "text": "회의",
                 "value": 6
-            },
-            {
-                "text": "장동혁",
-                "value": 6
-            },
-            {
-                "text": "쇄신",
-                "value": 6
-            },
-            {
-                "text": "청탁",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:42.760227",
+        "last_analyzed_at": "2026-01-13T10:40:11.425385",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 3,
                 9,
                 1,
                 1,
                 1,
+                0,
                 0
             ]
         }
@@ -498,33 +498,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac69631fd1743497d64e",
-            "url": "https://www.youtube.com/watch?v=UCL3zKoc_h1ErJCPhhs6K6UQ",
+            "_id": "69659596887d07f7ba2fac68",
+            "url": "https://www.youtube.com/watch?v=y-_iPWobI-A",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-09T16:21:10.029000",
-            "duration": null,
-            "title": "문진석TV",
+            "collected_at": "2026-01-13T09:45:08.028000",
+            "duration": 767.0,
+            "title": "문진석, ‘강선우 논란’에 “일반 직장 내 갑질과 달라” / 채널A / 뉴스TOP 10",
             "upload_date": null
         },
         {
-            "_id": "6960ac69631fd1743497d64f",
-            "url": "https://www.youtube.com/watch?v=ZteI8xiZudo",
+            "_id": "69659596887d07f7ba2fac69",
+            "url": "https://www.youtube.com/watch?v=oFVolGQbU2I",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-09T16:21:10.029000",
-            "duration": 513.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 문진석 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac69631fd1743497d650",
-            "url": "https://www.youtube.com/watch?v=oZyibC9ee9Q",
-            "HG_NM": "문진석",
-            "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-09T16:21:10.029000",
-            "duration": 1422.0,
-            "title": "[더in터뷰] 문진석 \"최민희 논란, 당도 심각하게 우려 갖고 지켜보는 중\" / JTBC 이가혁 라이브",
+            "collected_at": "2026-01-13T09:45:08.584000",
+            "duration": 92.0,
+            "title": "[오늘 이 뉴스] '철없는 답장' 김남국 사표..문자 보낸 문진석도 '잠수' (2025.12.04/MBC뉴스)",
             "upload_date": null
         },
         {
@@ -532,9 +522,19 @@
             "url": "https://www.youtube.com/watch?v=DmDEiFFFdbY",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-09T16:21:10.778000",
+            "collected_at": "2026-01-13T09:45:08.584000",
             "duration": 244.0,
             "title": "‘인사청탁 문자’ 문진석 “입이 열개라도…부적절 처신 송구” [이슈PLAY] / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "69659596887d07f7ba2fac67",
+            "url": "https://www.youtube.com/watch?v=yGKujhkN9ps",
+            "HG_NM": "문진석",
+            "MONA_CD": "4U29186R",
+            "collected_at": "2026-01-13T09:45:08.028000",
+            "duration": 1243.0,
+            "title": "[여담야담] 김현지 \"유탄맞았다\"…김남국은 사퇴, 문진석은? / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -558,15 +558,45 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac69631fd1743497d64f",
+            "url": "https://www.youtube.com/watch?v=ZteI8xiZudo",
+            "HG_NM": "문진석",
+            "MONA_CD": "4U29186R",
+            "collected_at": "2026-01-13T09:45:08.028000",
+            "duration": 513.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 문진석 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac69631fd1743497d64e",
+            "url": "https://www.youtube.com/watch?v=UCL3zKoc_h1ErJCPhhs6K6UQ",
+            "HG_NM": "문진석",
+            "MONA_CD": "4U29186R",
+            "collected_at": "2026-01-13T09:45:08.028000",
+            "duration": null,
+            "title": "문진석TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac69631fd1743497d650",
+            "url": "https://www.youtube.com/watch?v=oZyibC9ee9Q",
+            "HG_NM": "문진석",
+            "MONA_CD": "4U29186R",
+            "collected_at": "2026-01-13T09:45:08.028000",
+            "duration": 1422.0,
+            "title": "[더in터뷰] 문진석 \"최민희 논란, 당도 심각하게 우려 갖고 지켜보는 중\" / JTBC 이가혁 라이브",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac69631fd1743497d654",
             "url": "https://www.youtube.com/watch?v=s4_a4bhEnzM",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-09T16:21:10.778000",
+            "collected_at": "2026-01-13T09:45:08.584000",
             "duration": 106.0,
             "title": "[오늘 이 뉴스] 김병기 사퇴후 與 원내회의.. '청탁 문자' 문진석 주재 (2026.01.06/MBC뉴스)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:42.760227"
+    "exported_at": "2026-01-13T10:40:11.425385"
 }

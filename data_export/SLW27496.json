@@ -65,18 +65,18 @@
             "댓글",
             "국민",
             "국적",
-            "표시",
             "선거",
             "장동혁",
-            "민주당",
+            "표시",
             "대표",
+            "민주당",
+            "출마",
+            "황교안",
             "투표",
             "의혹",
             "통일교",
             "정책",
-            "조국",
-            "대통령",
-            "단독"
+            "국힘"
         ],
         "keyword_frequency": [
             {
@@ -85,22 +85,26 @@
             },
             {
                 "text": "국민",
-                "value": 21
+                "value": 18
             },
             {
                 "text": "국적",
                 "value": 17
             },
             {
+                "text": "선거",
+                "value": 15
+            },
+            {
+                "text": "장동혁",
+                "value": 10
+            },
+            {
                 "text": "표시",
                 "value": 10
             },
             {
-                "text": "선거",
-                "value": 10
-            },
-            {
-                "text": "장동혁",
+                "text": "대표",
                 "value": 9
             },
             {
@@ -108,7 +112,11 @@
                 "value": 9
             },
             {
-                "text": "대표",
+                "text": "출마",
+                "value": 8
+            },
+            {
+                "text": "황교안",
                 "value": 8
             },
             {
@@ -128,41 +136,48 @@
                 "value": 7
             },
             {
-                "text": "조국",
+                "text": "국힘",
                 "value": 7
-            },
-            {
-                "text": "대통령",
-                "value": 6
-            },
-            {
-                "text": "단독",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:41.812681",
+        "last_analyzed_at": "2026-01-13T10:40:10.444824",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
                 0,
-                0,
-                3,
+                2,
                 5,
                 3,
                 5,
-                4
+                5,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594ae887d07f7ba2fab41",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473138?sid=100",
+            "created_at": "2026-01-13T09:41:16.598000",
+            "description": "황교안 전 총리가 경기 평택을 국회의원 보궐 선거 출마 선언을 했습니다. 출마의 변으로 무엇을 들었냐... 그런데 지난해, 장동혁 대표가 앞장서서 \"우리가 황교안이다\"라며 두둔해 준 적이 있습니다. 그런데 그 결과가... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12279599?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-12T20:57:00",
+            "related_members": [
+                "SLW27496",
+                "HXT76735",
+                "KFM1081G"
+            ],
+            "title": "[비하인드 뉴스] \"부정선거 척결\" 그러나 출마는 하고 싶은 황교안"
+        },
         {
             "_id": "6964b54a631fd174349960b1",
             "link": "https://n.news.naver.com/mnews/article/055/0001323548?sid=100",
@@ -498,32 +513,27 @@
                 "YN160848"
             ],
             "title": "'탈팡'한다면서 '쿠팡 박스' 산더미…나경원 “조국, 탈팡쇼”"
-        },
-        {
-            "_id": "6964b594631fd17434996510",
-            "link": "https://n.news.naver.com/mnews/article/421/0008703177?sid=100",
-            "created_at": "2026-01-12T17:49:21.358000",
-            "description": "나경원·한지아 국민의힘 국회의원이 8일 서울 용산구 대한의사협회에서 열린 2026년도 의료계 신년하례회에서 대화를 하고 있다. 2026.1.8/뉴스1",
-            "originallink": "https://www.news1.kr/photos/7687957",
-            "press": "뉴스1",
-            "pubDate": "2026-01-08T12:35:00",
-            "related_members": [
-                "SLW27496",
-                "Q918403D"
-            ],
-            "title": "나경원·한지아 '소곤소곤'"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960a75d631fd1743497cf17",
-            "url": "https://www.youtube.com/watch?v=rtC9I6VYBPE",
+            "_id": "69659587887d07f7ba2fac4f",
+            "url": "https://www.youtube.com/watch?v=f8agP6Otov8",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-09T16:20:52.222000",
-            "duration": 567.0,
-            "source": "국회방송",
-            "title": "흥분한 나경원, 얼굴 붉히자.. 정성호 '칼답'.. 두 번 죽인 답변",
+            "collected_at": "2026-01-13T09:44:53.154000",
+            "duration": 1692.0,
+            "title": "[더 인터뷰] 보수 장성철도 놀란 나경원 인터뷰 중 극대노 \"이재명 너~무 무섭다!\" 계엄 1년? 국힘 사과는.... #나경원 251201",
+            "upload_date": null
+        },
+        {
+            "_id": "69659587887d07f7ba2fac50",
+            "url": "https://www.youtube.com/watch?v=eCCB8MnsTJc",
+            "HG_NM": "나경원",
+            "MONA_CD": "SLW27496",
+            "collected_at": "2026-01-13T09:44:53.154000",
+            "duration": 256.0,
+            "title": "[자막] 우원식 국회의장 \"나경원 의원 저지, 권한남용 아니다… '국회법 불복 선언'은 헌정사상 처음 있는 일\"",
             "upload_date": null
         },
         {
@@ -531,19 +541,19 @@
             "url": "https://www.youtube.com/watch?v=UCPvrHJx6U16X-NpM5iYj5Eg",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-09T16:20:51.431000",
+            "collected_at": "2026-01-13T09:44:53.154000",
             "duration": null,
             "title": "나경원TV",
             "upload_date": null
         },
         {
-            "_id": "6960ac57631fd1743497d5fa",
-            "url": "https://www.youtube.com/watch?v=jKZe1lBIn40",
+            "_id": "69659587887d07f7ba2fac4e",
+            "url": "https://www.youtube.com/watch?v=IBnuIKWqJeM",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-09T16:20:51.431000",
-            "duration": 83.0,
-            "title": "우원식, 발언하던 나경원 마이크 끄자...국민의힘 '우르르' [지금이뉴스]  / YTN",
+            "collected_at": "2026-01-13T09:44:53.154000",
+            "duration": 26165.0,
+            "title": "[속보] 나경원 2,400만원, 황교안 1900만원..'패트 충돌' 1심 野 의원 전원 벌금형 ..6년7개월만 1심 선고 - [MBC뉴스속보] 2025년 11월 20일",
             "upload_date": null
         },
         {
@@ -551,19 +561,9 @@
             "url": "https://www.youtube.com/watch?v=0niSr2d6h8E",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-09T16:20:51.431000",
+            "collected_at": "2026-01-13T09:44:53.154000",
             "duration": 191.0,
             "title": "\"폭행 범죄자 나경원 의원은 제발 좀 나가주세요!!\" 국민의힘 뼈 때리는 박은정 '무호흡 3분 팩폭'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac57631fd1743497d5fc",
-            "url": "https://www.youtube.com/watch?v=vSX27JXDcpY",
-            "HG_NM": "나경원",
-            "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-09T16:20:51.431000",
-            "duration": 1555.0,
-            "title": "나경원·황교안·송언석 등 '운명의 날'...'패스트트랙 충돌' 오늘 1심 선고, 발생 6년7개월만 [이슈PLAY] / JTBC News",
             "upload_date": null
         },
         {
@@ -585,7 +585,38 @@
             "duration": 387.0,
             "title": "\"통일교 유착 의혹 있는 분이...\" 면전 직격.. 숨 넘어간 나경원",
             "upload_date": null
+        },
+        {
+            "_id": "6960a75d631fd1743497cf17",
+            "url": "https://www.youtube.com/watch?v=rtC9I6VYBPE",
+            "HG_NM": "나경원",
+            "MONA_CD": "SLW27496",
+            "collected_at": "2026-01-09T16:20:52.222000",
+            "duration": 567.0,
+            "source": "국회방송",
+            "title": "흥분한 나경원, 얼굴 붉히자.. 정성호 '칼답'.. 두 번 죽인 답변",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac57631fd1743497d5fc",
+            "url": "https://www.youtube.com/watch?v=vSX27JXDcpY",
+            "HG_NM": "나경원",
+            "MONA_CD": "SLW27496",
+            "collected_at": "2026-01-13T09:44:53.154000",
+            "duration": 1555.0,
+            "title": "나경원·황교안·송언석 등 '운명의 날'...'패스트트랙 충돌' 오늘 1심 선고, 발생 6년7개월만 [이슈PLAY] / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "69659587887d07f7ba2fac4c",
+            "url": "https://www.youtube.com/watch?v=4frF49bRpJk",
+            "HG_NM": "나경원",
+            "MONA_CD": "SLW27496",
+            "collected_at": "2026-01-13T09:44:53.154000",
+            "duration": 154.0,
+            "title": "\"이명박 정부 심판 선거…?!\" 나경원 의원의 입틀막｜\"너무 화가 나서 말이 헛나오네요…이재명 정부 심판 선거\" [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:41.812681"
+    "exported_at": "2026-01-13T10:40:10.444824"
 }

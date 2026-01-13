@@ -65,18 +65,18 @@
             "김건희",
             "특검",
             "선물",
-            "국민",
-            "대표",
-            "가방",
             "울산",
+            "대표",
+            "국민",
+            "가방",
             "기소",
             "의혹",
-            "고가",
             "시장",
             "장동혁",
             "공천",
             "지방선거",
-            "압수수색"
+            "부부",
+            "비비"
         ],
         "keyword_frequency": [
             {
@@ -92,32 +92,28 @@
                 "value": 16
             },
             {
-                "text": "국민",
+                "text": "울산",
                 "value": 15
             },
             {
                 "text": "대표",
-                "value": 14
+                "value": 13
+            },
+            {
+                "text": "국민",
+                "value": 13
             },
             {
                 "text": "가방",
-                "value": 14
-            },
-            {
-                "text": "울산",
-                "value": 11
+                "value": 12
             },
             {
                 "text": "기소",
-                "value": 10
+                "value": 12
             },
             {
                 "text": "의혹",
                 "value": 9
-            },
-            {
-                "text": "고가",
-                "value": 8
             },
             {
                 "text": "시장",
@@ -136,33 +132,50 @@
                 "value": 7
             },
             {
-                "text": "압수수색",
+                "text": "부부",
+                "value": 7
+            },
+            {
+                "text": "비비",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:35.223191",
+        "last_analyzed_at": "2026-01-13T10:40:03.354793",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 0,
                 2,
                 1,
                 1,
                 0,
-                1
+                2,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6965949e887d07f7ba2fab26",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104231?sid=102",
+            "created_at": "2026-01-13T09:41:00.924000",
+            "description": "2부 축사 순서에서는 김두겸 울산광역시장의 영상 축사와 김기현 국회의원, 박상철 목사(부산기독교총연합회 대표회장)의 축하 인사가 이어졌으며, 울산 교회의 연합과 지역 사회를 향한 교회의 공공적 역할에 대한... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455021?utm_source=naver&utm_medium=article&utm_campaign=20260112054902",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-12T17:50:00",
+            "related_members": [
+                "X7I4680R"
+            ],
+            "title": "울산기독교총연합회, 김영용 목사 체제 출범…\"연합은 선택이 아니라 사..."
+        },
         {
             "_id": "6964b547631fd17434996076",
             "link": "https://n.news.naver.com/mnews/article/421/0008709054?sid=102",
@@ -437,25 +450,25 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960a78b631fd1743497d01d",
-            "url": "https://www.youtube.com/watch?v=73mu2aECbb0",
+            "_id": "6960a78b631fd1743497d01f",
+            "url": "https://www.youtube.com/watch?v=TWrAZXHtX_c",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
             "collected_at": "2026-01-09T16:18:39.761000",
-            "duration": 42352.0,
+            "duration": 1908.0,
             "source": "MBC뉴스",
-            "title": "[속보] 김건희 특검, '로저비비에 선물' 김기현 의원 자택 압수수색 - [MBC 뉴스속보] 2025년 12월 17일",
+            "title": "김기현 아내, 김건희에 명품백 선물‥\"대가성 의심\" - [풀영상] MBC 뉴스데스크 2025년 11월 08일",
             "upload_date": null
         },
         {
-            "_id": "6960a78b631fd1743497d01e",
-            "url": "https://www.youtube.com/watch?v=3pwfq5ON4vs",
+            "_id": "6960a78b631fd1743497d020",
+            "url": "https://www.youtube.com/watch?v=pMi5wCoZJkc",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
             "collected_at": "2026-01-09T16:00:16.377000",
-            "duration": 457.0,
+            "duration": 10245.0,
             "source": "MBC뉴스",
-            "title": "김기현 아내, 김건희에 명품백 선물‥\"대가성 의심\" - [LIVE] MBC 뉴스 2025년 11월 9일",
+            "title": "[속보] 김건희 특검, 김기현 의원 소환 조사중..'로저비비에 선물' 추궁 - [MBC 뉴스속보] 2025년 12월 22일",
             "upload_date": null
         },
         {
@@ -470,6 +483,17 @@
             "upload_date": null
         },
         {
+            "_id": "6960a78b631fd1743497d01d",
+            "url": "https://www.youtube.com/watch?v=73mu2aECbb0",
+            "HG_NM": "김기현",
+            "MONA_CD": "X7I4680R",
+            "collected_at": "2026-01-13T09:43:11.327000",
+            "duration": 42352.0,
+            "source": "MBC뉴스",
+            "title": "[속보] 김건희 특검, '로저비비에 선물' 김기현 의원 자택 압수수색 - [MBC 뉴스속보] 2025년 12월 17일",
+            "upload_date": null
+        },
+        {
             "_id": "6960a78b631fd1743497d01c",
             "url": "https://www.youtube.com/watch?v=DOrhgNHV3no",
             "HG_NM": "김기현",
@@ -481,14 +505,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a78b631fd1743497d01a",
-            "url": "https://www.youtube.com/watch?v=k3eKGTycAgk",
+            "_id": "6960a78b631fd1743497d016",
+            "url": "https://www.youtube.com/watch?v=zcrXijSQgyY",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:00:15.577000",
-            "duration": 715.0,
+            "collected_at": "2026-01-13T09:43:10.671000",
+            "duration": 574.0,
             "source": "KBS뉴스",
-            "title": "[속보] 김건희특검, '고가 가방 선물' 김기현 의원 자택 압수수색/2025년 12월 17일(수)/KBS",
+            "title": "[단독] 김건희 '로저비비에' 가방, 김기현 의원 측 '감사 편지'와 발견/2025년 11월 8일(토)/KBS",
             "upload_date": null
         },
         {
@@ -496,21 +520,21 @@
             "url": "https://www.youtube.com/watch?v=UqHsn6zl-Ms",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:18:39.052000",
+            "collected_at": "2026-01-13T09:43:10.671000",
             "duration": 729.0,
             "source": "KBS뉴스",
             "title": "[단독] '또 김건희 고가 가방', 김기현 감사 선물…\"여사님이 도와달라 했다\"/2025년 11월 8일(토)/KBS",
             "upload_date": null
         },
         {
-            "_id": "6960a78b631fd1743497d016",
-            "url": "https://www.youtube.com/watch?v=zcrXijSQgyY",
+            "_id": "6960a78b631fd1743497d017",
+            "url": "https://www.youtube.com/watch?v=w1pNADkI3NI",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:18:39.052000",
-            "duration": 574.0,
+            "collected_at": "2026-01-13T09:43:11.327000",
+            "duration": 896.0,
             "source": "KBS뉴스",
-            "title": "[단독] 김건희 '로저비비에' 가방, 김기현 의원 측 '감사 편지'와 발견/2025년 11월 8일(토)/KBS",
+            "title": "[이슈] '김건희 가방 선물' 김기현 의원 배우자 특검 재소환…기소 전망/2025년 12월 27일(토)/KBS",
             "upload_date": null
         },
         {
@@ -525,27 +549,16 @@
             "upload_date": null
         },
         {
-            "_id": "6960a78b631fd1743497d017",
-            "url": "https://www.youtube.com/watch?v=w1pNADkI3NI",
+            "_id": "6960a78b631fd1743497d021",
+            "url": "https://www.youtube.com/watch?v=O75xBd97NMw",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:18:39.761000",
-            "duration": 896.0,
-            "source": "KBS뉴스",
-            "title": "[이슈] '김건희 가방 선물' 김기현 의원 배우자 특검 재소환…기소 전망/2025년 12월 27일(토)/KBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a78b631fd1743497d01b",
-            "url": "https://www.youtube.com/watch?v=tJWjG0edA7s",
-            "HG_NM": "김기현",
-            "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:00:15.577000",
-            "duration": 255.0,
-            "source": "KBS뉴스",
-            "title": "김기현, 국민의힘 새 대표에게 듣는다 [9시 뉴스] / KBS  2023.03.08.",
+            "collected_at": "2026-01-09T16:00:17.074000",
+            "duration": 409.0,
+            "source": "SBS뉴스",
+            "title": "6시 뉴스｜12/28(일) - 김기현 의원 부부 기소…'뇌물 혐의'는 경찰로 外 / SBS",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:35.223191"
+    "exported_at": "2026-01-13T10:40:03.354793"
 }

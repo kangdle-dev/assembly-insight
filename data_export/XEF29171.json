@@ -53,24 +53,32 @@
     "analysis": {
         "keywords": [
             "민주당",
-            "반도체",
-            "용인",
             "완주",
-            "이전",
             "통합",
-            "전북",
-            "반대",
-            "해법",
-            "대통령",
-            "인터뷰",
-            "건의",
+            "반도체",
             "전주",
-            "선언",
-            "올인"
+            "용인",
+            "전북",
+            "이전",
+            "대통령",
+            "반대",
+            "정치권",
+            "건의",
+            "장관",
+            "해법",
+            "인터뷰"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
+                "value": 20
+            },
+            {
+                "text": "완주",
+                "value": 18
+            },
+            {
+                "text": "통합",
                 "value": 18
             },
             {
@@ -78,86 +86,104 @@
                 "value": 13
             },
             {
-                "text": "용인",
-                "value": 11
+                "text": "전주",
+                "value": 12
             },
             {
-                "text": "완주",
+                "text": "용인",
+                "value": 12
+            },
+            {
+                "text": "전북",
                 "value": 10
             },
             {
                 "text": "이전",
-                "value": 10
-            },
-            {
-                "text": "통합",
-                "value": 9
-            },
-            {
-                "text": "전북",
                 "value": 8
+            },
+            {
+                "text": "대통령",
+                "value": 7
             },
             {
                 "text": "반대",
                 "value": 7
             },
             {
-                "text": "해법",
+                "text": "정치권",
                 "value": 6
             },
             {
-                "text": "대통령",
+                "text": "건의",
+                "value": 6
+            },
+            {
+                "text": "장관",
+                "value": 6
+            },
+            {
+                "text": "해법",
                 "value": 6
             },
             {
                 "text": "인터뷰",
                 "value": 6
-            },
-            {
-                "text": "건의",
-                "value": 5
-            },
-            {
-                "text": "전주",
-                "value": 4
-            },
-            {
-                "text": "선언",
-                "value": 4
-            },
-            {
-                "text": "올인",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:51.378645",
+        "last_analyzed_at": "2026-01-13T10:40:19.860622",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 1,
                 0,
                 2,
                 2,
                 1,
-                3
+                5,
+                0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "696594c3887d07f7ba2fab5d",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103414?sid=102",
+            "created_at": "2026-01-13T09:41:38.079000",
+            "description": "지원을 요청하고 대통령 간담회를 주선해달라고 요구했습니다. 또 안호영 국회의원을 향해 완주-전주 통합 추진에 대한 공개 선언을 건의하고, 전주와 완주 두 시군 의회에도 행정 통합 추진 결의안 의결을 요청했습니다.",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456909&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T21:58:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“완주-전주 통합 더 못 미뤄, 정치권 결단해야”"
+        },
+        {
+            "_id": "696594c3887d07f7ba2fab5e",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103245?sid=102",
+            "created_at": "2026-01-13T09:41:38.079000",
+            "description": "지원을 요청하고 대통령 간담회를 주선해달라고 요구했습니다. 또 안호영 국회의원을 향해 완주-전주 통합 추진에 대한 공개 선언을 건의하고, 전주와 완주 두 시군 의회에도 행정 통합 추진 결의안 의결을 요청했습니다.",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456667&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T19:27:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“완주-전주 통합 더 못 미뤄, 정치권 결단해야”"
+        },
+        {
             "_id": "6964b551631fd1743499614b",
             "link": "https://n.news.naver.com/mnews/article/003/0013705154?sid=102",
             "created_at": "2026-01-12T17:48:14.365000",
-            "description": "안호영 국회의원은 \"한병도 원내대표의 선출은 민생을 최우선에 두고 개혁을 실천할 수 있는 책임 있는 원내 리더십에 대한 신뢰의 결과\"라며 \"이번 선출과 도전이 당을 더욱 단단하게 만들고, 국민이 체감하는 변화로... ",
+            "description": "정부의 요직 외에도 더불어민주당에서 주요 보직을 잇따라 전북출신 국회의원들이 주요 보직에 앉게 된... 앞서 이재명 정부는 전북 현역 의원 가운데 정동영 통일부장관, 김윤덕 국토교통부장관을 임명하고 지역 출신으로... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003473511",
             "press": "뉴시스",
             "pubDate": "2026-01-12T13:53:00",
@@ -204,7 +230,7 @@
             "_id": "6964b54c631fd174349960e2",
             "link": "https://n.news.naver.com/mnews/article/032/0003420608?sid=101",
             "created_at": "2026-01-12T17:48:09.496000",
-            "description": "둔 국회의원들이 항의에 나서고, 호남 등 비수도권 의원들이 용인 반도체 공장 이전을 주장하면서 논란이... 전북도지사 출마를 선언한 안호영 더불어민주당 의원 등은 새만금으로 이전하는 방안을 내놓았다.... ",
+            "description": "김성환 기후에너지환경부 장관이 지난해 12월 26일 CBS 라디오에 출연해 “용인에 SK하이닉스와 삼성전자가... 둔 국회의원들이 항의에 나서고, 호남 등 비수도권 의원들이 용인 반도체 공장 이전을 주장하면서 논란이... ",
             "originallink": "https://www.khan.co.kr/article/202601110900031",
             "press": "경향신문",
             "pubDate": "2026-01-11T09:00:00",
@@ -233,7 +259,7 @@
             "_id": "6964b567631fd174349962dc",
             "link": "https://n.news.naver.com/mnews/article/011/0004577051?sid=100",
             "created_at": "2026-01-12T17:48:36.658000",
-            "description": "그럼에도 전북지사 출마를 선언한 안호영 더불어민주당 의원은 “대통령에게 건의하겠다”며 이전을 계속... 이재명 대통령은 이날 청와대에서 강기정 광주시장과 김영록 전남지사, 광주·전남 지역 국회의원들을 초청해... ",
+            "description": "서왕진 조국혁신당 원내대표는 “민주당 만의 통합이 아니다”면서 “초당적 협의체를 구성하자”고... 이재명 대통령은 이날 청와대에서 강기정 광주시장과 김영록 전남지사, 광주·전남 지역 국회의원들을 초청해... ",
             "originallink": "https://www.sedaily.com/NewsView/2K78YGQGG3",
             "press": "서울경제",
             "pubDate": "2026-01-10T13:01:00",
@@ -308,9 +334,19 @@
             "url": "https://www.youtube.com/watch?v=MSXQhxrxlx8",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-09T16:23:57.891000",
+            "collected_at": "2026-01-13T09:47:36.246000",
             "duration": 604.0,
             "title": "인터뷰 릴레이 칭찬 232회 안호영 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f8",
+            "url": "https://www.youtube.com/watch?v=wdSFfZIl1K8",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-13T09:47:36.246000",
+            "duration": 585.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 안호영 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -318,7 +354,7 @@
             "url": "https://www.youtube.com/watch?v=BDExWP0klaQ",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-09T16:23:57.891000",
+            "collected_at": "2026-01-13T09:47:36.246000",
             "duration": 597.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 173회 안호영 의원 더불어민주당",
             "upload_date": null
@@ -328,29 +364,9 @@
             "url": "https://www.youtube.com/watch?v=zxm2dvSjArU",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-09T16:23:57.891000",
+            "collected_at": "2026-01-13T09:47:36.246000",
             "duration": 61.0,
             "title": "[국회의원 안호영] 즐거운 한가위 되세요",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad11631fd1743497d8f7",
-            "url": "https://www.youtube.com/watch?v=nCHXlbv7K6o",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-09T16:23:57.891000",
-            "duration": 1116.0,
-            "title": "[뉴스하이킥] 환노위원장 민주 안호영 \"'쿠팡 봐주기 의혹' 검사는 윤석열 사단 핵심...정확히 감찰해봐야\" - 안호영, MBC 251002 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad11631fd1743497d8f8",
-            "url": "https://www.youtube.com/watch?v=wdSFfZIl1K8",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-09T16:23:57.891000",
-            "duration": 585.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 안호영 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -362,7 +378,37 @@
             "duration": 71.0,
             "title": "\"송전탑 반대 주민들이 '보상금' 얘기에 격분하는 진짜 이유\" #송전탑반대 #지방소멸 #수도권집중 #에너지식민지 #안호영 #사이다발언 #전북 #쇼츠 #shorts",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f7",
+            "url": "https://www.youtube.com/watch?v=nCHXlbv7K6o",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-13T09:47:36.990000",
+            "duration": 1116.0,
+            "title": "[뉴스하이킥] 환노위원장 민주 안호영 \"'쿠팡 봐주기 의혹' 검사는 윤석열 사단 핵심...정확히 감찰해봐야\" - 안호영, MBC 251002 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6965962a887d07f7ba2fad1e",
+            "url": "https://www.youtube.com/watch?v=h-DMg_vOB4g",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-13T09:47:36.990000",
+            "duration": 727.0,
+            "title": "[초대석] 쿠팡 총공세…안호영 민주당 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965962a887d07f7ba2fad1f",
+            "url": "https://www.youtube.com/watch?v=l-68sA_pR4M",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-13T09:47:36.990000",
+            "duration": 916.0,
+            "title": "[1번지초대석] 국감 달군 '과로사·쿠팡 일용직' 이슈…안호영 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:51.378700"
+    "exported_at": "2026-01-13T10:40:19.860622"
 }

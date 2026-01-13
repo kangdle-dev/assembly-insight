@@ -47,11 +47,12 @@
     },
     "analysis": {
         "keywords": [
-            "군산",
             "전북",
-            "안호영",
-            "조선소",
+            "군산",
             "민주당",
+            "조선소",
+            "안호영",
+            "정부",
             "김민석",
             "총리",
             "반도체",
@@ -59,21 +60,20 @@
             "후보",
             "투자",
             "출마",
-            "정부",
             "차원",
             "이전"
         ],
         "keyword_frequency": [
             {
+                "text": "전북",
+                "value": 10
+            },
+            {
                 "text": "군산",
                 "value": 10
             },
             {
-                "text": "전북",
-                "value": 8
-            },
-            {
-                "text": "안호영",
+                "text": "민주당",
                 "value": 8
             },
             {
@@ -81,8 +81,12 @@
                 "value": 8
             },
             {
-                "text": "민주당",
+                "text": "안호영",
                 "value": 7
+            },
+            {
+                "text": "정부",
+                "value": 6
             },
             {
                 "text": "김민석",
@@ -113,10 +117,6 @@
                 "value": 5
             },
             {
-                "text": "정부",
-                "value": 4
-            },
-            {
                 "text": "차원",
                 "value": 4
             },
@@ -125,25 +125,25 @@
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:56.627769",
+        "last_analyzed_at": "2026-01-13T10:40:25.497266",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 0,
                 0,
                 5,
                 0,
                 0,
-                1
+                1,
+                0
             ]
         }
     },
@@ -152,7 +152,7 @@
             "_id": "6964b551631fd1743499614b",
             "link": "https://n.news.naver.com/mnews/article/003/0013705154?sid=102",
             "created_at": "2026-01-12T17:48:14.365000",
-            "description": "안호영 국회의원은 \"한병도 원내대표의 선출은 민생을 최우선에 두고 개혁을 실천할 수 있는 책임 있는 원내 리더십에 대한 신뢰의 결과\"라며 \"이번 선출과 도전이 당을 더욱 단단하게 만들고, 국민이 체감하는 변화로... ",
+            "description": "정부의 요직 외에도 더불어민주당에서 주요 보직을 잇따라 전북출신 국회의원들이 주요 보직에 앉게 된... 앞서 이재명 정부는 전북 현역 의원 가운데 정동영 통일부장관, 김윤덕 국토교통부장관을 임명하고 지역 출신으로... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003473511",
             "press": "뉴시스",
             "pubDate": "2026-01-12T13:53:00",
@@ -254,19 +254,9 @@
             "url": "https://www.youtube.com/watch?v=4dYA_QeyOuk",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:45.042000",
+            "collected_at": "2026-01-13T09:49:26.621000",
             "duration": 112.0,
             "title": "이원택 첫 발전 전략 발표... 선거전 '시동'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7b631fd1743497da78",
-            "url": "https://www.youtube.com/watch?v=UCJzkFirmxeFSFeMpgpDeX3w",
-            "HG_NM": "이원택",
-            "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:44.296000",
-            "duration": null,
-            "title": "이원택TV",
             "upload_date": null
         },
         {
@@ -274,29 +264,9 @@
             "url": "https://www.youtube.com/watch?v=7ntpheV0Ezc",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:44.296000",
+            "collected_at": "2026-01-13T09:49:25.873000",
             "duration": 2441.0,
             "title": "[LIVE] 팩트체크, 양곡관리법! (w.이원택 국회의원/더불어민주당 전국농어민위원장)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7b631fd1743497da7a",
-            "url": "https://www.youtube.com/watch?v=7DgLca_r2T8",
-            "HG_NM": "이원택",
-            "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:44.296000",
-            "duration": 123.0,
-            "title": "이원택 “가장 강력한 전북”…도지사 첫 출마 선언 / KBS  2025.10.13.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7b631fd1743497da7b",
-            "url": "https://www.youtube.com/watch?v=jkEU5KWGnhk",
-            "HG_NM": "이원택",
-            "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:44.296000",
-            "duration": 115.0,
-            "title": "이원택 도당위원장 사퇴... 전북지사 출마할 듯 (JTV)",
             "upload_date": null
         },
         {
@@ -310,13 +280,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad7b631fd1743497da7d",
-            "url": "https://www.youtube.com/watch?v=r4z0A3EQILc",
+            "_id": "6960ad7b631fd1743497da7a",
+            "url": "https://www.youtube.com/watch?v=7DgLca_r2T8",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:45.042000",
-            "duration": 192.0,
-            "title": "수능 응원 빙자한 ‘이원택' 홍보?‥ 불법 현수막 논란 (2025.11.06/뉴스데스크/전주MBC)",
+            "collected_at": "2026-01-13T09:49:25.873000",
+            "duration": 123.0,
+            "title": "이원택 “가장 강력한 전북”…도지사 첫 출마 선언 / KBS  2025.10.13.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7b631fd1743497da7b",
+            "url": "https://www.youtube.com/watch?v=jkEU5KWGnhk",
+            "HG_NM": "이원택",
+            "MONA_CD": "DAV7257X",
+            "collected_at": "2026-01-13T09:49:25.873000",
+            "duration": 115.0,
+            "title": "이원택 도당위원장 사퇴... 전북지사 출마할 듯 (JTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7b631fd1743497da78",
+            "url": "https://www.youtube.com/watch?v=UCJzkFirmxeFSFeMpgpDeX3w",
+            "HG_NM": "이원택",
+            "MONA_CD": "DAV7257X",
+            "collected_at": "2026-01-09T16:25:44.296000",
+            "duration": null,
+            "title": "이원택TV",
             "upload_date": null
         },
         {
@@ -328,7 +318,17 @@
             "duration": 140.0,
             "title": "[JTV 8 뉴스]  이원택 1심 '면소'...\"처벌 대상 안 돼\"",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad7b631fd1743497da7d",
+            "url": "https://www.youtube.com/watch?v=r4z0A3EQILc",
+            "HG_NM": "이원택",
+            "MONA_CD": "DAV7257X",
+            "collected_at": "2026-01-13T09:49:26.621000",
+            "duration": 192.0,
+            "title": "수능 응원 빙자한 ‘이원택' 홍보?‥ 불법 현수막 논란 (2025.11.06/뉴스데스크/전주MBC)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:56.627769"
+    "exported_at": "2026-01-13T10:40:25.497266"
 }

@@ -54,44 +54,48 @@
         "keywords": [
             "원내대표",
             "민주당",
-            "출마",
             "한병도",
+            "출마",
             "투표",
             "최고",
+            "총회",
             "민주",
             "위원",
             "선거",
-            "총회",
+            "선출",
+            "보궐선거",
             "김병기",
             "임기",
-            "박지원",
-            "선출",
-            "보궐선거"
+            "박지원"
         ],
         "keyword_frequency": [
             {
                 "text": "원내대표",
-                "value": 46
+                "value": 48
             },
             {
                 "text": "민주당",
                 "value": 23
             },
             {
+                "text": "한병도",
+                "value": 17
+            },
+            {
                 "text": "출마",
                 "value": 16
             },
             {
-                "text": "한병도",
-                "value": 15
-            },
-            {
                 "text": "투표",
-                "value": 12
+                "value": 14
             },
             {
                 "text": "최고",
                 "value": 11
+            },
+            {
+                "text": "총회",
+                "value": 9
             },
             {
                 "text": "민주",
@@ -106,7 +110,11 @@
                 "value": 9
             },
             {
-                "text": "총회",
+                "text": "선출",
+                "value": 8
+            },
+            {
+                "text": "보궐선거",
                 "value": 8
             },
             {
@@ -120,39 +128,91 @@
             {
                 "text": "박지원",
                 "value": 7
-            },
-            {
-                "text": "선출",
-                "value": 7
-            },
-            {
-                "text": "보궐선거",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:04.325053",
+        "last_analyzed_at": "2026-01-13T10:40:33.321364",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                2,
                 0,
                 2,
                 0,
                 0,
                 3,
-                4
+                4,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69659499887d07f7ba2fab15",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 지금 추미애 한준호 염태영 김병주 양기대 이런 분들까지 지금 함께 나오고 있습니다만. ◆ 이동형... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T08:01:00",
+            "related_members": [
+                "GOC54665",
+                "2385336L",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "BCQ55105",
+                "URV1689Q",
+                "URX8075K",
+                "GF286398",
+                "2NV6751W",
+                "VDN5593C",
+                "H5476989",
+                "A494529E",
+                "NUB4941Z",
+                "6AU2417B",
+                "25G2571T",
+                "TKJ4800F",
+                "S824682L",
+                "KFM1081G",
+                "QWL7778X",
+                "3C23171A"
+            ],
+            "title": "이동형 \"친청이 반명이냐? '명청 대결' 했다면 명이 이겨\"[한판승부]"
+        },
+        {
+            "_id": "69659499887d07f7ba2fab16",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "◆ 곽우신&gt; 한병도 의원이 어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T07:01:00",
+            "related_members": [
+                "GOC54665",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "5TQ6306B",
+                "4019850M",
+                "H5476989",
+                "HSS7466Y",
+                "8BF5855P",
+                "7YC6702R",
+                "2385336L",
+                "3C23171A",
+                "QDU1100U"
+            ],
+            "title": "노영희 \"김경, PC 포맷 후 혐의 인정? 경찰과 얘기됐나 의심\"[한판승부]"
+        },
         {
             "_id": "6964b541631fd17434995fe2",
             "link": "https://n.news.naver.com/mnews/article/003/0013704552?sid=100",
@@ -632,29 +692,9 @@
             "url": "https://www.youtube.com/watch?v=dMWPOv2Sd2c",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:18.067000",
+            "collected_at": "2026-01-13T09:51:50.844000",
             "duration": 1405.0,
             "title": "[뉴스레터K]  10.15 부동산 대책, 與 평가·추가 대응책은? - 진성준 더불어민주당 의원ㅣKBS 251022 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae14631fd1743497dcbe",
-            "url": "https://www.youtube.com/watch?v=otYpHq0a4Hk",
-            "HG_NM": "진성준",
-            "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:17.288000",
-            "duration": 123.0,
-            "title": "진성준, 토론 끝나자마자 \"집값 안 떨어질 겁니다\" / SBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae14631fd1743497dcc1",
-            "url": "https://www.youtube.com/watch?v=SVDtmzth1mQ",
-            "HG_NM": "진성준",
-            "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:18.067000",
-            "duration": 1282.0,
-            "title": "진성준 \"김병기, 억울하더라도 선당후사해야\"",
             "upload_date": null
         },
         {
@@ -662,19 +702,39 @@
             "url": "https://www.youtube.com/watch?v=w6Ss_yDgvV0",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:17.288000",
+            "collected_at": "2026-01-13T09:51:50.085000",
             "duration": 108.0,
             "title": "[자막] 진성준, 정책위의장 임기 마무리, 마지막 메시지",
             "upload_date": null
         },
         {
-            "_id": "6960ae14631fd1743497dcbd",
-            "url": "https://www.youtube.com/watch?v=UrnmPSdlkEE",
+            "_id": "6960ae14631fd1743497dcc1",
+            "url": "https://www.youtube.com/watch?v=SVDtmzth1mQ",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:17.288000",
-            "duration": 75.0,
-            "title": "[현장영상] 배현진 \"쳐봐!\" 열받은 진성준의 행동은? / 채널A",
+            "collected_at": "2026-01-13T09:51:50.844000",
+            "duration": 1282.0,
+            "title": "진성준 \"김병기, 억울하더라도 선당후사해야\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae14631fd1743497dcbe",
+            "url": "https://www.youtube.com/watch?v=otYpHq0a4Hk",
+            "HG_NM": "진성준",
+            "MONA_CD": "3C23171A",
+            "collected_at": "2026-01-13T09:51:50.085000",
+            "duration": 123.0,
+            "title": "진성준, 토론 끝나자마자 \"집값 안 떨어질 겁니다\" / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae14631fd1743497dcbc",
+            "url": "https://www.youtube.com/watch?v=Wfw8q8S4ioY",
+            "HG_NM": "진성준",
+            "MONA_CD": "3C23171A",
+            "collected_at": "2026-01-13T09:51:50.844000",
+            "duration": 1250.0,
+            "title": "진성준 \"보유세, 용기 내자... 집값 못 잡는게 선거에 더 위험\"     \"똘똘한 한 채로 간다? 그것도 손봐야\"",
             "upload_date": null
         },
         {
@@ -682,7 +742,7 @@
             "url": "https://www.youtube.com/watch?v=7Sm-fu5d9Wc",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:18.067000",
+            "collected_at": "2026-01-13T09:51:50.844000",
             "duration": 1201.0,
             "title": "[다시보기] 진성준, 더불어민주당 원내대표 보궐선거 출마 기자회견 “당청일치 구현…연임 도전 안할 것”-12월 31일 (수) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -692,19 +752,19 @@
             "url": "https://www.youtube.com/watch?v=UCzWEju7x5X_6-rR4eFJnZqw",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:17.288000",
+            "collected_at": "2026-01-13T09:51:50.085000",
             "duration": null,
             "title": "진성준 TV",
             "upload_date": null
         },
         {
-            "_id": "6960ae14631fd1743497dcbc",
-            "url": "https://www.youtube.com/watch?v=Wfw8q8S4ioY",
+            "_id": "6960ae14631fd1743497dcbd",
+            "url": "https://www.youtube.com/watch?v=UrnmPSdlkEE",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:17.288000",
-            "duration": 1250.0,
-            "title": "진성준 \"보유세, 용기 내자... 집값 못 잡는게 선거에 더 위험\"     \"똘똘한 한 채로 간다? 그것도 손봐야\"",
+            "collected_at": "2026-01-13T09:51:50.085000",
+            "duration": 75.0,
+            "title": "[현장영상] 배현진 \"쳐봐!\" 열받은 진성준의 행동은? / 채널A",
             "upload_date": null
         },
         {
@@ -718,5 +778,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:04.325053"
+    "exported_at": "2026-01-13T10:40:33.321364"
 }

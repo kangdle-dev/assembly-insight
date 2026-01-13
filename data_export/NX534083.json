@@ -42,25 +42,29 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
+            "이혜훈",
+            "후보자",
             "댓글",
             "투표",
-            "폭언",
-            "장동혁",
-            "이혜훈",
-            "의혹",
-            "후보자",
             "국적",
-            "외국인",
+            "폭언",
+            "국민",
+            "장동혁",
+            "조국",
+            "의혹",
+            "병역",
             "대표",
-            "보좌",
-            "통일교",
-            "국힘",
-            "조국"
+            "외국인",
+            "청문",
+            "혁신"
         ],
         "keyword_frequency": [
             {
-                "text": "국민",
+                "text": "이혜훈",
+                "value": 18
+            },
+            {
+                "text": "후보자",
                 "value": 16
             },
             {
@@ -72,31 +76,31 @@
                 "value": 15
             },
             {
+                "text": "국적",
+                "value": 13
+            },
+            {
                 "text": "폭언",
                 "value": 13
             },
             {
-                "text": "장동혁",
-                "value": 13
+                "text": "국민",
+                "value": 12
             },
             {
-                "text": "이혜훈",
+                "text": "장동혁",
                 "value": 12
+            },
+            {
+                "text": "조국",
+                "value": 11
             },
             {
                 "text": "의혹",
                 "value": 11
             },
             {
-                "text": "후보자",
-                "value": 10
-            },
-            {
-                "text": "국적",
-                "value": 10
-            },
-            {
-                "text": "외국인",
+                "text": "병역",
                 "value": 9
             },
             {
@@ -104,50 +108,107 @@
                 "value": 9
             },
             {
-                "text": "보좌",
+                "text": "외국인",
+                "value": 9
+            },
+            {
+                "text": "청문",
                 "value": 8
             },
             {
-                "text": "통일교",
+                "text": "혁신",
                 "value": 8
-            },
-            {
-                "text": "국힘",
-                "value": 7
-            },
-            {
-                "text": "조국",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:44.454093",
+        "last_analyzed_at": "2026-01-13T10:40:13.196273",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                1,
                 0,
                 0,
                 4,
                 6,
                 1,
-                2
+                5,
+                1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "696594b4887d07f7ba2fab4b",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103532?sid=100",
+            "created_at": "2026-01-13T09:41:22.912000",
+            "description": "이 후보자는 \"현역 국회의원일 때도 장남이 현역병으로 복무 했고, 장, 차남은 미국 국적인데도 병역 복무를... \"] [차규근/조국혁신당 원내수석부대표 : \"도저히 안 되겠습니다. 공직 후보자로서의 기본 자격 자체가... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457052&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T06:40:00",
+            "related_members": [
+                "NX534083",
+                "2385336L",
+                "KNP22261"
+            ],
+            "title": "이혜훈 두 아들 ‘병역특혜’ 논란…청문계획서 채택 불발"
+        },
+        {
+            "_id": "696594b4887d07f7ba2fab4c",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103480?sid=100",
+            "created_at": "2026-01-13T09:41:22.913000",
+            "description": "이 후보자는 \"현역 국회의원일 때도 장남이 현역병으로 복무 했고, 장, 차남은 미국 국적인데도 병역 복무를... \"] [차규근/조국혁신당 원내수석부대표 : \"도저히 안 되겠습니다. 공직 후보자로서의 기본 자격 자체가... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456965&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T23:08:00",
+            "related_members": [
+                "NX534083",
+                "2385336L",
+                "KNP22261"
+            ],
+            "title": "이혜훈 두 아들 ‘병역특혜’ 논란…청문계획서 채택 불발"
+        },
+        {
+            "_id": "696594b4887d07f7ba2fab4d",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103321?sid=100",
+            "created_at": "2026-01-13T09:41:22.913000",
+            "description": "이 후보자는 \"현역 국회의원일 때도 장남이 현역병으로 복무 했고, 장, 차남은 미국 국적인데도 병역 복무를... 대비…\"] [차규근/조국혁신당 원내수석부대표 : \"도저히 안 되겠습니다. 공직 후보자로서의 기본 자격 자체가... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456782&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T21:08:00",
+            "related_members": [
+                "NX534083",
+                "2385336L",
+                "KNP22261"
+            ],
+            "title": "이혜훈 두 아들 ‘병역특혜’ 논란…청문계획서 채택 불발"
+        },
+        {
+            "_id": "696594b4887d07f7ba2fab4e",
+            "link": "https://n.news.naver.com/mnews/article/028/0002786046?sid=100",
+            "created_at": "2026-01-13T09:41:22.913000",
+            "description": "한병도 원내대표도 원내지도부와 당 정책위원회, 법제사법위원회 등을 아울러 의견을 모아가겠다고 밝혔다.... 박은정 조국혁신당 의원은 이날 열린 국회 법제사법위원회 전체회의에서 “공소청법, 중수청법, 형사소송법을... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239307.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-12T18:56:00",
+            "related_members": [
+                "2385336L",
+                "1A82234K",
+                "NX534083",
+                "H5476989"
+            ],
+            "title": "정청래 “중수청·공소청법 개별의견 자제를”…당·정 갈등 조짐에 ‘..."
+        },
+        {
             "_id": "6964b55d631fd17434996236",
             "link": "https://n.news.naver.com/mnews/article/009/0005620528?sid=100",
             "created_at": "2026-01-12T17:48:26.570000",
-            "description": "국민의힘 소속 최다선 의원인 주호영 국회부의장은 당명 변경을 '포대 갈이'에 비유하며 \"내용은 똑같으면서 겉의 포대만 갈이 하는 것은 바람직하지도 않고 성공하지도 못한다\"고 조언했다. 그는 \"유튜브의 영향으로... ",
+            "description": "국민의힘 소속 최다선 의원인 주호영 국회부의장은 당명 변경을 '포대 갈이'에 비유하며 \"내용은 똑같으면서 겉의 포대만 갈이를 하는 것은 바람직하지도 않고 성공하지도 못한다\"고 조언했다. 그는 \"유튜브의 영향으로... ",
             "originallink": "https://www.mk.co.kr/article/11930529",
             "press": "매일경제",
             "pubDate": "2026-01-12T17:26:00",
@@ -384,23 +445,6 @@
                 "Y0X4618N"
             ],
             "title": "국힘, '내란재판부법' 상정에 총력 대응…\"장동혁 24시간 필버 각오\"(종..."
-        },
-        {
-            "_id": "6964b560631fd1743499627f",
-            "link": "https://n.news.naver.com/mnews/article/021/0002758503?sid=100",
-            "created_at": "2026-01-12T17:48:29.825000",
-            "description": "국민의힘 장동혁 대표가 17일 김건희특검팀이 압수수색에 나선 국회의원회관 내 김기현 의원 사무실로 향하고 있다. 왼쪽부터 박성훈 수석대변인, 장 대표, 박준태 당대표 비서실장. 연합뉴스 국민의힘은 20일 정부와... ",
-            "originallink": "https://www.munhwa.com/article/11555547?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2025-12-20T10:33:00",
-            "related_members": [
-                "KFM1081G",
-                "G6W8250J",
-                "X7I4680R",
-                "NX534083",
-                "TQP7167T"
-            ],
-            "title": "국힘 “통일교 게이트 특검은 국민의 명령, 與 즉각 수용 해야”"
         }
     ],
     "recent_videos": [
@@ -409,7 +453,7 @@
             "url": "https://www.youtube.com/watch?v=UC0g4nQxN7lc0DNut2vUGFcQ",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-09T16:21:42.859000",
+            "collected_at": "2026-01-13T09:45:33.442000",
             "duration": null,
             "title": "국회의원 박성훈",
             "upload_date": null
@@ -419,7 +463,7 @@
             "url": "https://www.youtube.com/watch?v=ZjYC0fuKzzc",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-09T16:21:42.859000",
+            "collected_at": "2026-01-13T09:45:33.442000",
             "duration": 72.0,
             "title": "예비경선 결과발표! 예비후보 박성훈의 반응은??",
             "upload_date": null
@@ -435,5 +479,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:44.454093"
+    "exported_at": "2026-01-13T10:40:13.196273"
 }

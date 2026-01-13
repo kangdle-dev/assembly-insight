@@ -53,20 +53,20 @@
             "정청래",
             "정복",
             "지방선거",
+            "지사",
+            "김병주",
             "선출",
             "성윤문",
             "경기도",
-            "지사",
-            "김병주",
+            "김동연",
+            "사퇴",
             "강득",
-            "구이",
-            "위해",
-            "원내대표"
+            "구이"
         ],
         "keyword_frequency": [
             {
                 "text": "최고",
-                "value": 35
+                "value": 37
             },
             {
                 "text": "위원",
@@ -74,7 +74,7 @@
             },
             {
                 "text": "민주당",
-                "value": 25
+                "value": 26
             },
             {
                 "text": "정청래",
@@ -89,6 +89,14 @@
                 "value": 12
             },
             {
+                "text": "지사",
+                "value": 11
+            },
+            {
+                "text": "김병주",
+                "value": 11
+            },
+            {
                 "text": "선출",
                 "value": 11
             },
@@ -101,11 +109,11 @@
                 "value": 10
             },
             {
-                "text": "지사",
-                "value": 10
+                "text": "김동연",
+                "value": 9
             },
             {
-                "text": "김병주",
+                "text": "사퇴",
                 "value": 9
             },
             {
@@ -115,39 +123,81 @@
             {
                 "text": "구이",
                 "value": 8
-            },
-            {
-                "text": "위해",
-                "value": 8
-            },
-            {
-                "text": "원내대표",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:06.786675",
+        "last_analyzed_at": "2026-01-13T10:40:36.216053",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                2,
                 1,
                 0,
                 3,
                 2,
                 8,
+                2,
                 2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a2887d07f7ba2fab34",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097165?sid=102",
+            "created_at": "2026-01-13T09:41:04.260000",
+            "description": "지난 국회의원 총선거에서 수원시 5개 선거구를 민주당이 ‘싹쓸이’하는데 적잖은 힘을 보탰기에 그의... 김 지사는 강력한 경쟁자인 6선 추미애 의원을 비롯해 한준호·염태영·김병주 의원, 양기대 전 광명시장과 이달... ",
+            "originallink": "https://www.segye.com/newsView/20260113500983?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-13T08:02:00",
+            "related_members": [
+                "BCQ55105",
+                "URV1689Q",
+                "URX8075K",
+                "GF286398"
+            ],
+            "title": "\"김동연, 민주당 떠나라?\"…6월 선거 앞두고 달아오른 與 경선 [오상도의..."
+        },
+        {
+            "_id": "69659499887d07f7ba2fab15",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 지금 추미애 한준호 염태영 김병주 양기대 이런 분들까지 지금 함께 나오고 있습니다만. ◆ 이동형... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T08:01:00",
+            "related_members": [
+                "GOC54665",
+                "2385336L",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "BCQ55105",
+                "URV1689Q",
+                "URX8075K",
+                "GF286398",
+                "2NV6751W",
+                "VDN5593C",
+                "H5476989",
+                "A494529E",
+                "NUB4941Z",
+                "6AU2417B",
+                "25G2571T",
+                "TKJ4800F",
+                "S824682L",
+                "KFM1081G",
+                "QWL7778X",
+                "3C23171A"
+            ],
+            "title": "이동형 \"친청이 반명이냐? '명청 대결' 했다면 명이 이겨\"[한판승부]"
+        },
         {
             "_id": "6964b541631fd17434995feb",
             "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
@@ -666,51 +716,87 @@
                 "T6A6557F"
             ],
             "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b547631fd17434996088",
-            "link": "https://n.news.naver.com/mnews/article/003/0013682401?sid=100",
-            "created_at": "2026-01-12T17:48:04.961000",
-            "description": "의원, [국회 보건복지위원회 소속 국민의힘 위원 일동 기자회견] 13:20 박주민 의원, [서울시 현안 관련 기자회견] 13:40 한창민 의원, [총인건비제 기재부 지침 폐기 요청 기자회견] 14:00 한준호 의원, [더불어민주당... ",
-            "originallink": "https://www.newsis.com/view/NISX20251229_0003458629",
-            "press": "뉴시스",
-            "pubDate": "2025-12-30T05:00:00",
-            "related_members": [
-                "NXB3178C",
-                "VRY5522V",
-                "T4I4862D",
-                "BCQ55105",
-                "6AU2417B"
-            ],
-            "title": "[오늘의 주요일정]국회(12월30일 화요일)"
-        },
-        {
-            "_id": "6964b547631fd17434996089",
-            "link": "https://n.news.naver.com/mnews/article/421/0008685464?sid=100",
-            "created_at": "2026-01-12T17:48:04.961000",
-            "description": "의원, [국회 보건복지위원회 소속 국민의힘 위원 일동 기자회견] 13:20 박주민 의원, [서울시 현안 관련 기자회견] 13:40 한창민 의원, [총인건비제 기재부 지침 폐기 요청 기자회견] 14:00 한준호 의원, [더불어민주당... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6023038",
-            "press": "뉴스1",
-            "pubDate": "2025-12-30T05:00:00",
-            "related_members": [
-                "NXB3178C",
-                "VRY5522V",
-                "T4I4862D",
-                "BCQ55105",
-                "6AU2417B"
-            ],
-            "title": "[오늘의 국회일정] (30일, 화)"
         }
     ],
     "recent_videos": [
+        {
+            "_id": "6960ae44631fd1743497dd74",
+            "url": "https://www.youtube.com/watch?v=XP5tg31lbto",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-09T16:29:05.670000",
+            "duration": 101.0,
+            "title": "경기북부 출신 '한준호' 경기도지사 될 수 있을까?",
+            "upload_date": null
+        },
+        {
+            "_id": "69659759887d07f7ba2faec1",
+            "url": "https://www.youtube.com/watch?v=rqJ7YuTR_iM",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-13T09:52:38.588000",
+            "duration": 94.0,
+            "title": "최고위원 사퇴한 한준호 \"이재명 대통령 죽이려 했던 이들의 무도함 밝히겠다”",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae44631fd1743497dd71",
+            "url": "https://www.youtube.com/watch?v=GKJVT7LWgc4",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-13T09:52:38.588000",
+            "duration": 76.0,
+            "title": "한준호 최고위원 “계엄? 없다” 선언…한동훈 향한 일침",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae44631fd1743497dd73",
+            "url": "https://www.youtube.com/watch?v=LRKsWJ2-5B4",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-13T09:52:39.348000",
+            "duration": 60.0,
+            "title": "한준호 \"서른여섯에 시작한 나의 파업, 마흔여섯에 끝나…그 과정에 이진숙·김재철\" #JTBC #Shorts",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae44631fd1743497dd70",
+            "url": "https://www.youtube.com/watch?v=FZNjEXUj8T4",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-13T09:52:39.348000",
+            "duration": 89.0,
+            "title": "한준호의 국힘저격에 웃참실패한 민주당 의원들",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae44631fd1743497dd6f",
+            "url": "https://www.youtube.com/watch?v=y8C0jzI1tfM",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-13T09:52:38.588000",
+            "duration": 80.0,
+            "title": "국회의원 한준호,언론개혁의 선봉,아나운서에서 국회의원이 되기까지 #한준호 #국회의원 #더불어민주당 #방송3법",
+            "upload_date": null
+        },
         {
             "_id": "6960ae44631fd1743497dd6d",
             "url": "https://www.youtube.com/watch?v=UC6yHD0Zc6bOt2BDzH2GkR2g",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:04.778000",
+            "collected_at": "2026-01-13T09:52:38.588000",
             "duration": null,
             "title": "한준호tv",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aca2631fd1743497d743",
+            "url": "https://www.youtube.com/watch?v=8nqtG8kmeEQ",
+            "HG_NM": "한준호",
+            "MONA_CD": "BCQ55105",
+            "collected_at": "2026-01-13T09:52:38.588000",
+            "duration": 641.0,
+            "title": "[EP.15] 한준호 의원의 대항마 박주민 의원 등판!! 입법 프린스 꽃주민의 미모 대반격 | 국집소2 | 국회방송",
             "upload_date": null
         },
         {
@@ -724,36 +810,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae44631fd1743497dd6f",
-            "url": "https://www.youtube.com/watch?v=y8C0jzI1tfM",
-            "HG_NM": "한준호",
-            "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:04.778000",
-            "duration": 80.0,
-            "title": "국회의원 한준호,언론개혁의 선봉,아나운서에서 국회의원이 되기까지 #한준호 #국회의원 #더불어민주당 #방송3법",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae44631fd1743497dd70",
-            "url": "https://www.youtube.com/watch?v=FZNjEXUj8T4",
-            "HG_NM": "한준호",
-            "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:04.778000",
-            "duration": 89.0,
-            "title": "한준호의 국힘저격에 웃참실패한 민주당 의원들",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae44631fd1743497dd71",
-            "url": "https://www.youtube.com/watch?v=GKJVT7LWgc4",
-            "HG_NM": "한준호",
-            "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:04.778000",
-            "duration": 76.0,
-            "title": "한준호 최고위원 “계엄? 없다” 선언…한동훈 향한 일침",
-            "upload_date": null
-        },
-        {
             "_id": "6960ae44631fd1743497dd72",
             "url": "https://www.youtube.com/watch?v=YOzO5DhAVbc",
             "HG_NM": "한준호",
@@ -762,27 +818,7 @@
             "duration": 737.0,
             "title": "[박정호의 핫스팟] 한준호 \"다음주 최고위원 사퇴, 이재명 정부 성공 위해 경기도지사 출마 고민 중\"",
             "upload_date": null
-        },
-        {
-            "_id": "6960ae44631fd1743497dd73",
-            "url": "https://www.youtube.com/watch?v=LRKsWJ2-5B4",
-            "HG_NM": "한준호",
-            "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:05.670000",
-            "duration": 60.0,
-            "title": "한준호 \"서른여섯에 시작한 나의 파업, 마흔여섯에 끝나…그 과정에 이진숙·김재철\" #JTBC #Shorts",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae44631fd1743497dd74",
-            "url": "https://www.youtube.com/watch?v=XP5tg31lbto",
-            "HG_NM": "한준호",
-            "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:05.670000",
-            "duration": 101.0,
-            "title": "경기북부 출신 '한준호' 경기도지사 될 수 있을까?",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:06.786675"
+    "exported_at": "2026-01-13T10:40:36.217054"
 }

@@ -48,33 +48,41 @@
     "analysis": {
         "keywords": [
             "미애",
-            "공개",
             "국민",
+            "회의",
+            "공개",
+            "후원",
             "간호사",
             "최소",
+            "기준",
+            "민생",
             "발의",
             "외국인",
-            "기준",
-            "후원",
             "범죄",
             "통계",
-            "민주당",
-            "전담",
-            "차관",
-            "신설"
+            "환자",
+            "전담"
         ],
         "keyword_frequency": [
             {
                 "text": "미애",
-                "value": 25
+                "value": 41
+            },
+            {
+                "text": "국민",
+                "value": 9
+            },
+            {
+                "text": "회의",
+                "value": 7
             },
             {
                 "text": "공개",
                 "value": 7
             },
             {
-                "text": "국민",
-                "value": 7
+                "text": "후원",
+                "value": 6
             },
             {
                 "text": "간호사",
@@ -82,6 +90,14 @@
             },
             {
                 "text": "최소",
+                "value": 6
+            },
+            {
+                "text": "기준",
+                "value": 6
+            },
+            {
+                "text": "민생",
                 "value": 6
             },
             {
@@ -93,14 +109,6 @@
                 "value": 5
             },
             {
-                "text": "기준",
-                "value": 5
-            },
-            {
-                "text": "후원",
-                "value": 4
-            },
-            {
                 "text": "범죄",
                 "value": 4
             },
@@ -109,45 +117,50 @@
                 "value": 4
             },
             {
-                "text": "민주당",
+                "text": "환자",
                 "value": 4
             },
             {
                 "text": "전담",
                 "value": 4
-            },
-            {
-                "text": "차관",
-                "value": 4
-            },
-            {
-                "text": "신설",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:36.083856",
+        "last_analyzed_at": "2026-01-13T10:40:04.360080",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 1,
                 0,
                 1,
                 0,
                 0,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a0887d07f7ba2fab2b",
+            "link": "https://n.news.naver.com/mnews/article/005/0001825743?sid=110",
+            "created_at": "2026-01-13T09:41:03.134000",
+            "description": "출마를 준비하는 인사들이 지역구 국회의원 후원회로 몰려드는 풍경이다. 형식상 합법적인 정치 후원이다.... 공천 앞에 놓인 돈의 유혹을 법으로 끊는 일, 더 이상 미룰 수 없는 정치의 책임이다. 김미애 국민의힘 의원",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768109904&code=11171314&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-13T00:33:00",
+            "related_members": [
+                "3BC6890E"
+            ],
+            "title": "[시론] 공천 앞에 놓인 돈, 정치가 먼저 끊어야"
+        },
         {
             "_id": "6964b549631fd174349960a5",
             "link": "https://n.news.naver.com/mnews/article/421/0008704698?sid=100",
@@ -227,7 +240,7 @@
             "_id": "6964b54e631fd17434996119",
             "link": "https://n.news.naver.com/mnews/article/421/0008687502?sid=105",
             "created_at": "2026-01-12T17:48:12.076000",
-            "description": "대한간호협회(간협)는 30일 오전 국회의원회관에서 '의료기관 간호사 최소 배치기준 마련 토론회'를 열고... 이날 토론회에 참석한 여야 의원들도 제도 개선의 필요성에 공감했다. 더불어민주당 이수진·남인순·서영석... ",
+            "description": "대한간호협회(간협)는 30일 오전 국회의원회관에서 '의료기관 간호사 최소 배치기준 마련 토론회'를 열고... 국민의힘 김미애·김예지 의원 역시 \"60년 된 낡은 산식에서 벗어나 환자 인권을 반영한 기준의 법제화가... ",
             "originallink": "https://www.news1.kr/bio/general/6024259",
             "press": "뉴스1",
             "pubDate": "2025-12-30T18:00:00",
@@ -322,19 +335,9 @@
             "url": "https://www.youtube.com/watch?v=UCkI25oVwVFJq5Ji1XXA7mHA",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-09T16:18:55.732000",
+            "collected_at": "2026-01-13T09:43:25.417000",
             "duration": null,
             "title": "김미애TV #미애이야기",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe3631fd1743497d431",
-            "url": "https://www.youtube.com/watch?v=5VZID4sQt4I",
-            "HG_NM": "김미애",
-            "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-09T16:18:55.732000",
-            "duration": 147.0,
-            "title": "[자막] 정은경 청문회, 김미애, 발끈하며 청문회장 이탈… 복지위 파행",
             "upload_date": null
         },
         {
@@ -342,9 +345,19 @@
             "url": "https://www.youtube.com/watch?v=kA9LKURUpQE",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-09T16:18:55.732000",
+            "collected_at": "2026-01-13T09:43:25.417000",
             "duration": 5041.0,
             "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(25.11.29.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe3631fd1743497d431",
+            "url": "https://www.youtube.com/watch?v=5VZID4sQt4I",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-13T09:43:25.417000",
+            "duration": 147.0,
+            "title": "[자막] 정은경 청문회, 김미애, 발끈하며 청문회장 이탈… 복지위 파행",
             "upload_date": null
         },
         {
@@ -352,11 +365,61 @@
             "url": "https://www.youtube.com/watch?v=Az5J9ALruYs",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-09T16:18:56.608000",
+            "collected_at": "2026-01-13T09:43:26.003000",
             "duration": 99.0,
             "title": "[자막] 정은경 가짜뉴스는 김미애가 퍼뜨려놓고… 사과는 이소영에게?",
             "upload_date": null
+        },
+        {
+            "_id": "6965952f887d07f7ba2fabd7",
+            "url": "https://www.youtube.com/watch?v=CZ7qiqglavg",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-13T09:43:26.003000",
+            "duration": 359.0,
+            "title": "[이슈&피플] 오거돈 전 시장 사퇴 4개월_김미애 국회의원(미래통합당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965952f887d07f7ba2fabd8",
+            "url": "https://www.youtube.com/watch?v=ssLwAkOLa7c",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-13T09:43:25.417000",
+            "duration": 1918.0,
+            "title": "‘약자와의 동행’ 김미애 의원 “윤석열 눈에서 꿀 떨어질 때…” | #강찬호의 투머치토커",
+            "upload_date": null
+        },
+        {
+            "_id": "6965952f887d07f7ba2fabd9",
+            "url": "https://www.youtube.com/watch?v=UTnndpfBmVk",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-13T09:43:25.417000",
+            "duration": 5097.0,
+            "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(25.12.27.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965952f887d07f7ba2fabda",
+            "url": "https://www.youtube.com/watch?v=JUL9PsS-jlA",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-13T09:43:25.417000",
+            "duration": 2270.0,
+            "title": "[김미애TV 국회의원 김미애와 함께하는 토요 민생 회의(23.05.27)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965952f887d07f7ba2fabdb",
+            "url": "https://www.youtube.com/watch?v=hvnUWbfTsj4",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-13T09:43:26.003000",
+            "duration": 372.0,
+            "title": "'민변' 김호철 감사원장 후보 대북관 검증 나선 김미애 [티조Clip]",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:36.084854"
+    "exported_at": "2026-01-13T10:40:04.360080"
 }

@@ -54,27 +54,31 @@
         "keywords": [
             "공천",
             "의혹",
+            "포항",
             "국힘",
-            "이철규",
             "조국",
+            "이준석",
+            "민주당",
+            "지역",
+            "장동혁",
             "혁신",
             "김병기",
-            "포항",
-            "이준석",
             "국민",
-            "지역",
-            "녹취",
-            "대표",
-            "민주당",
-            "인사"
+            "이철규",
+            "요구",
+            "녹취"
         ],
         "keyword_frequency": [
             {
                 "text": "공천",
-                "value": 16
+                "value": 18
             },
             {
                 "text": "의혹",
+                "value": 15
+            },
+            {
+                "text": "포항",
                 "value": 14
             },
             {
@@ -82,12 +86,24 @@
                 "value": 13
             },
             {
-                "text": "이철규",
+                "text": "조국",
                 "value": 12
             },
             {
-                "text": "조국",
+                "text": "이준석",
                 "value": 11
+            },
+            {
+                "text": "민주당",
+                "value": 11
+            },
+            {
+                "text": "지역",
+                "value": 11
+            },
+            {
+                "text": "장동혁",
+                "value": 10
             },
             {
                 "text": "혁신",
@@ -98,61 +114,91 @@
                 "value": 10
             },
             {
-                "text": "포항",
-                "value": 10
-            },
-            {
-                "text": "이준석",
-                "value": 9
-            },
-            {
                 "text": "국민",
                 "value": 9
             },
             {
-                "text": "지역",
+                "text": "이철규",
                 "value": 9
+            },
+            {
+                "text": "요구",
+                "value": 8
             },
             {
                 "text": "녹취",
-                "value": 9
-            },
-            {
-                "text": "대표",
-                "value": 8
-            },
-            {
-                "text": "민주당",
-                "value": 8
-            },
-            {
-                "text": "인사",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:40.051081",
+        "last_analyzed_at": "2026-01-13T10:40:08.452893",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                3,
                 1,
                 5,
                 2,
                 0,
                 3,
-                1
+                1,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6965949a887d07f7ba2fab18",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-13T09:40:56.510000",
+            "description": "정청래, 그렇다면 '함구령' 왜 내렸나 - 조국, 대통령 오찬서 '검찰 개혁 초심'과 '선거 제도 개선' 요구할 것... 지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-13T08:00:00",
+            "related_members": [
+                "KFM1081G",
+                "V2R7430Z",
+                "MNZ4401T",
+                "NPD75153",
+                "QWL7778X",
+                "8Q88373R",
+                "TZP9391O",
+                "E1J8836Y",
+                "5TQ6306B",
+                "TQP7167T",
+                "2385336L"
+            ],
+            "title": "신장식 \"장동혁-이준석 '李·韓 싫어'연대, 특검공조 왜 민주당만? 자기..."
+        },
+        {
+            "_id": "6965949a887d07f7ba2fab19",
+            "link": "https://n.news.naver.com/mnews/article/052/0002299816?sid=100",
+            "created_at": "2026-01-13T09:40:56.510000",
+            "description": "정청래, 그렇다면 '함구령' 왜 내렸나 - 조국, 대통령 오찬서 '검찰 개혁 초심'과 '선거 제도 개선' 요구할 것... 지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601130746452932",
+            "press": "YTN",
+            "pubDate": "2026-01-13T07:46:00",
+            "related_members": [
+                "KFM1081G",
+                "V2R7430Z",
+                "MNZ4401T",
+                "NPD75153",
+                "QWL7778X",
+                "8Q88373R",
+                "TZP9391O",
+                "E1J8836Y",
+                "5TQ6306B",
+                "TQP7167T",
+                "2385336L"
+            ],
+            "title": "신장식 \"장동혁-이준석 '李·韓 싫어'연대, 특검공조 왜 민주당만? 자기..."
+        },
         {
             "_id": "6964b541631fd17434995fe1",
             "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
@@ -189,7 +235,7 @@
             "_id": "6964b552631fd17434996168",
             "link": "https://n.news.naver.com/mnews/article/009/0005619805?sid=100",
             "created_at": "2026-01-12T17:48:15.824000",
-            "description": "이준석 ‘야 3당 대표회담 제안’ 장동혁은 수락했지만 조국 측 거절 이준석 개혁신당 대표가 11일 ‘통일교... 혁신당은 “국민의힘은 이와 관련하여 소속 국회의원이 구속된 상황이라 특검의 범위를 정하는 데 관여하는... ",
+            "description": "혁신당은 “국민의힘은 이와 관련하여 소속 국회의원이 구속된 상황이라 특검의 범위를 정하는 데 관여하는... 이어 “국민의힘 소속 포항 김정재 의원이 ‘경선을 하게 되면 돈으로 매수를 한다, 보통은 4억~5억을 주고... ",
             "originallink": "https://www.mk.co.kr/article/11929345",
             "press": "매일경제",
             "pubDate": "2026-01-11T16:37:00",
@@ -340,7 +386,7 @@
             "_id": "6964b552631fd1743499616d",
             "link": "https://n.news.naver.com/mnews/article/079/0004102892?sid=100",
             "created_at": "2026-01-12T17:48:15.824000",
-            "description": "근데 본인이나 참모들은 그래도 집권 여당 국회의원이라는 보호막이라도 갖고 있어야 경찰들이 함부로 나... 일단 의혹이 굉장히 많이 나오고 있는 상황에서 민주당 장철민 의원 표현을 빌리면 아주 이미 만싱창이가... ",
+            "description": "근데 본인이나 참모들은 그래도 집권 여당 국회의원이라는 보호막이라도 갖고 있어야 경찰들이 함부로 나... 김정재 포항 의원이죠. 그분이 녹취해서 그랬잖아요. 경선하면 4, 5억씩 매수하는 게 일상이니까 나 당수 공천... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453066?utm_source=naver&utm_medium=article&utm_campaign=20260108073109",
             "press": "노컷뉴스",
             "pubDate": "2026-01-08T07:32:00",
@@ -398,7 +444,7 @@
             "_id": "6964b552631fd17434996171",
             "link": "https://n.news.naver.com/mnews/article/036/0000052925?sid=100",
             "created_at": "2026-01-12T17:48:15.824000",
-            "description": "김정재-이철규 의원 간 통화 녹취가 있다. 뉴스타파가 2025년 9월 보도한 내용을 보면, 김정재 의원은 2024년... 이어 “국회의원 급여의 절반을 대가로 공천을 거래한 명태균-김영선-김건희, 고가의 그림이 오간 김건희... ",
+            "description": "언급했던 김정재 의원의 통화 녹취록도 재조명되고 있다. 신장식 조국혁신당 최고위원은 2026년 1월5일 국회에서 열린 최고위원회의에서 “국민들은 차제에 민주당은 물론이고 정치권 전체에 대한 돈 공천 전수조사... ",
             "originallink": "https://h21.hani.co.kr/arti/politics/politics_general/58639.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T09:26:00",
@@ -453,50 +499,67 @@
                 "E1J8836Y"
             ],
             "title": "포항상의 신년 인사회…\"지역 발전·경제 활성화 힘 합치자\""
-        },
-        {
-            "_id": "6964b552631fd17434996174",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784876?sid=100",
-            "created_at": "2026-01-12T17:48:15.824000",
-            "description": "언급했던 김정재 의원의 통화 녹취록도 재조명되고 있다. 신장식 조국혁신당 최고위원은 5일 국회에서 열린 최고위원회의에서 “국민들은 차제에 민주당은 물론이고 정치권 전체에 대한 돈 공천 전수조사, 필요한 경우... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238120.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-05T17:04:00",
-            "related_members": [
-                "NPD75153",
-                "E1J8836Y",
-                "TZP9391O"
-            ],
-            "title": "“김정재-이철규 녹취…돈 공천 원조는 국힘, 특검 감당 되겠나?”"
-        },
-        {
-            "_id": "6964b54b631fd174349960d3",
-            "link": "https://n.news.naver.com/mnews/article/262/0000019050?sid=100",
-            "created_at": "2026-01-12T17:48:08.356000",
-            "description": "송언석 국민의힘 원내대표를 비롯해 김석기·김정재·이만희·임이자 국회의원 등 경북 출신 다선 중진들도 잠재적 후보군으로 분류된다. 이들 현역의원의 경우 이 지사가 불출마할 경우 대거 선거전에 뛰어들 태세다.... ",
-            "originallink": "https://shindonga.donga.com/3/all/13/6036514/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-02T09:01:00",
-            "related_members": [
-                "EH27538E",
-                "OSV9142K",
-                "6EN68926",
-                "ZYP7962W",
-                "E1J8836Y",
-                "X639721U"
-            ],
-            "title": "이철우, ‘건강’ 걸림돌 넘어 3선 가도 달릴까"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960ac33631fd1743497d568",
-            "url": "https://www.youtube.com/watch?v=lgfOn99L3nU",
+            "_id": "6965956b887d07f7ba2fac24",
+            "url": "https://www.youtube.com/watch?v=m82NqcfhyTg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-09T16:20:15.557000",
-            "duration": 82.0,
-            "title": "김정재 국회의원 2024년 추석 인사 영상",
+            "collected_at": "2026-01-13T09:44:25.539000",
+            "duration": 270.0,
+            "title": "김정재 의원 지역구서 \"출당 요구\"..잇따른 비리 의혹에 막말까지  (2025.10.01/뉴스데스크/포항MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965956b887d07f7ba2fac25",
+            "url": "https://www.youtube.com/watch?v=5Bnhug8OwCs",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-13T09:44:26.066000",
+            "duration": 542.0,
+            "title": "\"원조 차떼기당, 단위가 달라요\" ... 김정재는 5억이라죠? 국힘에 맹폭",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac33631fd1743497d56c",
+            "url": "https://www.youtube.com/watch?v=ygEsjucgyTk",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-13T09:44:26.066000",
+            "duration": 1818.0,
+            "title": "[김정재 의원] MBC 2시 뉴스외전 정치 '맞수다'...박지원 게이트",
+            "upload_date": null
+        },
+        {
+            "_id": "6965956b887d07f7ba2fac23",
+            "url": "https://www.youtube.com/watch?v=2A7xQLj0nqc",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-13T09:44:25.539000",
+            "duration": 197.0,
+            "title": "김정재 의원, 공천 야합 시도 정황? \"경상도는 세 배씩 차이 나면...단수공천으로...\"[25. 9. 29.]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac33631fd1743497d56e",
+            "url": "https://www.youtube.com/watch?v=6ruYmfty-kM",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-09T16:20:16.364000",
+            "duration": 90.0,
+            "title": "\"김정재 같은 사람이 의원?\".. 한준호 최고위서 튼 '녹취' #Shorts (MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac33631fd1743497d56d",
+            "url": "https://www.youtube.com/watch?v=PfCphT5x22g",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-13T09:44:26.066000",
+            "duration": 90.0,
+            "title": "김정재 의원 지역구서 \"출당 요구\"‥잇따른 비리 의혹에 막말까지 #Shorts (MBC뉴스)",
             "upload_date": null
         },
         {
@@ -510,45 +573,35 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac33631fd1743497d568",
+            "url": "https://www.youtube.com/watch?v=lgfOn99L3nU",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-13T09:44:25.539000",
+            "duration": 82.0,
+            "title": "김정재 국회의원 2024년 추석 인사 영상",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac33631fd1743497d56b",
             "url": "https://www.youtube.com/watch?v=UCAXNqrR7LgLW1WOOyPJVZPg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-09T16:20:15.557000",
+            "collected_at": "2026-01-13T09:44:25.539000",
             "duration": null,
             "title": "김정재",
             "upload_date": null
         },
         {
-            "_id": "6960ac33631fd1743497d56c",
-            "url": "https://www.youtube.com/watch?v=ygEsjucgyTk",
+            "_id": "6965956b887d07f7ba2fac22",
+            "url": "https://www.youtube.com/watch?v=B13XhvXczMI",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-09T16:20:16.364000",
-            "duration": 1818.0,
-            "title": "[김정재 의원] MBC 2시 뉴스외전 정치 '맞수다'...박지원 게이트",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac33631fd1743497d56d",
-            "url": "https://www.youtube.com/watch?v=PfCphT5x22g",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-09T16:20:16.364000",
-            "duration": 90.0,
-            "title": "김정재 의원 지역구서 \"출당 요구\"‥잇따른 비리 의혹에 막말까지 #Shorts (MBC뉴스)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac33631fd1743497d56e",
-            "url": "https://www.youtube.com/watch?v=6ruYmfty-kM",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-09T16:20:16.364000",
-            "duration": 90.0,
-            "title": "\"김정재 같은 사람이 의원?\".. 한준호 최고위서 튼 '녹취' #Shorts (MBC뉴스)",
+            "collected_at": "2026-01-13T09:44:25.539000",
+            "duration": 649.0,
+            "title": "김정재 국회의원 2022 의정보고영상",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:40.051081"
+    "exported_at": "2026-01-13T10:40:08.453893"
 }

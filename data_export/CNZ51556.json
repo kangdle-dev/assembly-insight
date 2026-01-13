@@ -54,19 +54,19 @@
             "대상",
             "베스트",
             "의료",
+            "장애인",
+            "국힘",
             "신년",
             "축사",
-            "장애인",
             "우원식",
             "국회의장",
             "의장",
-            "간호사",
-            "최소"
+            "간호사"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 19
+                "value": 20
             },
             {
                 "text": "봉신",
@@ -78,7 +78,7 @@
             },
             {
                 "text": "민주당",
-                "value": 11
+                "value": 10
             },
             {
                 "text": "대상",
@@ -93,15 +93,19 @@
                 "value": 8
             },
             {
+                "text": "장애인",
+                "value": 8
+            },
+            {
+                "text": "국힘",
+                "value": 7
+            },
+            {
                 "text": "신년",
                 "value": 6
             },
             {
                 "text": "축사",
-                "value": 6
-            },
-            {
-                "text": "장애인",
                 "value": 6
             },
             {
@@ -119,27 +123,23 @@
             {
                 "text": "간호사",
                 "value": 6
-            },
-            {
-                "text": "최소",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:38.429443",
+        "last_analyzed_at": "2026-01-13T10:40:06.786174",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                4,
                 2,
                 3,
+                0,
                 0,
                 0,
                 0,
@@ -306,7 +306,7 @@
             "_id": "6964b54e631fd17434996119",
             "link": "https://n.news.naver.com/mnews/article/421/0008687502?sid=105",
             "created_at": "2026-01-12T17:48:12.076000",
-            "description": "대한간호협회(간협)는 30일 오전 국회의원회관에서 '의료기관 간호사 최소 배치기준 마련 토론회'를 열고... 이날 토론회에 참석한 여야 의원들도 제도 개선의 필요성에 공감했다. 더불어민주당 이수진·남인순·서영석... ",
+            "description": "대한간호협회(간협)는 30일 오전 국회의원회관에서 '의료기관 간호사 최소 배치기준 마련 토론회'를 열고... 국민의힘 김미애·김예지 의원 역시 \"60년 된 낡은 산식에서 벗어나 환자 인권을 반영한 기준의 법제화가... ",
             "originallink": "https://www.news1.kr/bio/general/6024259",
             "press": "뉴스1",
             "pubDate": "2025-12-30T18:00:00",
@@ -365,53 +365,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac14631fd1743497d4ef",
-            "url": "https://www.youtube.com/watch?v=50xb-oJbO28",
+            "_id": "69659554887d07f7ba2fac09",
+            "url": "https://www.youtube.com/watch?v=5p3o8OSNz2c",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:44.562000",
-            "duration": 1286.0,
-            "title": "[생중계] 김예지 국힘 의원, 학대에 취약한 아동, 노인, 중증장애인을 위한 법안 발의 기자회견 (2025.11.19 오전)",
+            "collected_at": "2026-01-13T09:44:01.752000",
+            "duration": 132.0,
+            "title": "국힘 대변인 \"장애인 너무 많이 할당해 문제…김예지, 눈 불편한거 말고는 기득권\" 논란에 \"두 번 특혜받고 해당 행위\"｜지금 이 뉴스",
             "upload_date": null
         },
         {
-            "_id": "6960ac14631fd1743497d4f0",
-            "url": "https://www.youtube.com/watch?v=-fKkxMCx1ws",
+            "_id": "6960ac14631fd1743497d4f6",
+            "url": "https://www.youtube.com/watch?v=m0kUW-mZEH8",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:44.562000",
-            "duration": 311.0,
-            "title": "\"눈 불편한 거 빼면 기득권\" 김예지 저격...박민영 발언 논란 [Y녹취록] / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac14631fd1743497d4f1",
-            "url": "https://www.youtube.com/watch?v=MoaY78mlvlE",
-            "HG_NM": "김예지",
-            "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:44.562000",
-            "duration": 490.0,
-            "title": "[이런뉴스] 국민의힘 김예지, ‘황당 음모론’에 장기이식법 개정안 철회 / KBS 2025.10.21.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac14631fd1743497d4f2",
-            "url": "https://www.youtube.com/watch?v=GE9tYlsPIOQ",
-            "HG_NM": "김예지",
-            "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:44.562000",
-            "duration": 114.0,
-            "title": "\"자그마한 일\"이라던 국힘…신동욱 \"김예지, 공교롭게 장애인이라…당에서 심각한 문제 아냐\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac14631fd1743497d4f3",
-            "url": "https://www.youtube.com/watch?v=juFWjSmw_jg",
-            "HG_NM": "김예지",
-            "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:44.562000",
-            "duration": 192.0,
-            "title": "국힘 대변인, 김예지 겨냥 \"장애인 할당 너무 많아 문제\"",
+            "collected_at": "2026-01-09T16:19:45.326000",
+            "duration": 730.0,
+            "title": "김예지 \"약자와 동행하는 당 되길\"…막말에 '의연한 대처' [이슈PLAY] / JTBC News",
             "upload_date": null
         },
         {
@@ -419,9 +389,19 @@
             "url": "https://www.youtube.com/watch?v=hUYit3F6MMo",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:45.326000",
+            "collected_at": "2026-01-13T09:44:02.428000",
             "duration": 160.0,
             "title": "되레 김예지 탈당하라?‥'윤어게인 포용'론도 (2025.11.20/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac14631fd1743497d4f1",
+            "url": "https://www.youtube.com/watch?v=MoaY78mlvlE",
+            "HG_NM": "김예지",
+            "MONA_CD": "CNZ51556",
+            "collected_at": "2026-01-13T09:44:01.752000",
+            "duration": 490.0,
+            "title": "[이런뉴스] 국민의힘 김예지, ‘황당 음모론’에 장기이식법 개정안 철회 / KBS 2025.10.21.",
             "upload_date": null
         },
         {
@@ -435,15 +415,45 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac14631fd1743497d4f6",
-            "url": "https://www.youtube.com/watch?v=m0kUW-mZEH8",
+            "_id": "6960ac14631fd1743497d4f0",
+            "url": "https://www.youtube.com/watch?v=-fKkxMCx1ws",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-09T16:19:45.326000",
-            "duration": 730.0,
-            "title": "김예지 \"약자와 동행하는 당 되길\"…막말에 '의연한 대처' [이슈PLAY] / JTBC News",
+            "collected_at": "2026-01-13T09:44:01.752000",
+            "duration": 311.0,
+            "title": "\"눈 불편한 거 빼면 기득권\" 김예지 저격...박민영 발언 논란 [Y녹취록] / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac14631fd1743497d4ef",
+            "url": "https://www.youtube.com/watch?v=50xb-oJbO28",
+            "HG_NM": "김예지",
+            "MONA_CD": "CNZ51556",
+            "collected_at": "2026-01-13T09:44:01.752000",
+            "duration": 1286.0,
+            "title": "[생중계] 김예지 국힘 의원, 학대에 취약한 아동, 노인, 중증장애인을 위한 법안 발의 기자회견 (2025.11.19 오전)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac14631fd1743497d4f3",
+            "url": "https://www.youtube.com/watch?v=juFWjSmw_jg",
+            "HG_NM": "김예지",
+            "MONA_CD": "CNZ51556",
+            "collected_at": "2026-01-13T09:44:01.752000",
+            "duration": 192.0,
+            "title": "국힘 대변인, 김예지 겨냥 \"장애인 할당 너무 많아 문제\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac14631fd1743497d4f2",
+            "url": "https://www.youtube.com/watch?v=GE9tYlsPIOQ",
+            "HG_NM": "김예지",
+            "MONA_CD": "CNZ51556",
+            "collected_at": "2026-01-13T09:44:01.752000",
+            "duration": 114.0,
+            "title": "\"자그마한 일\"이라던 국힘…신동욱 \"김예지, 공교롭게 장애인이라…당에서 심각한 문제 아냐\"｜지금 이 뉴스",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:38.429443"
+    "exported_at": "2026-01-13T10:40:06.786174"
 }

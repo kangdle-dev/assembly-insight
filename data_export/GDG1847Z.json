@@ -63,15 +63,15 @@
     "analysis": {
         "keywords": [
             "통일교",
-            "특검",
             "혐의",
             "국민",
             "구속",
+            "특검",
             "김건희",
-            "수사",
             "의혹",
+            "수사",
             "재판",
-            "기소",
+            "사사건건",
             "탄핵",
             "구형",
             "선고",
@@ -81,11 +81,7 @@
         "keyword_frequency": [
             {
                 "text": "통일교",
-                "value": 18
-            },
-            {
-                "text": "특검",
-                "value": 17
+                "value": 20
             },
             {
                 "text": "혐의",
@@ -97,14 +93,14 @@
             },
             {
                 "text": "구속",
-                "value": 14
-            },
-            {
-                "text": "김건희",
                 "value": 13
             },
             {
-                "text": "수사",
+                "text": "특검",
+                "value": 13
+            },
+            {
+                "text": "김건희",
                 "value": 12
             },
             {
@@ -112,12 +108,16 @@
                 "value": 10
             },
             {
+                "text": "수사",
+                "value": 10
+            },
+            {
                 "text": "재판",
                 "value": 7
             },
             {
-                "text": "기소",
-                "value": 7
+                "text": "사사건건",
+                "value": 6
             },
             {
                 "text": "탄핵",
@@ -140,29 +140,48 @@
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:34.112872",
+        "last_analyzed_at": "2026-01-13T10:40:02.344099",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                1,
                 2,
                 0,
                 1,
                 0,
                 0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6965949a887d07f7ba2fab24",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103116?sid=100",
+            "created_at": "2026-01-13T09:40:56.511000",
+            "description": "지금 권성동 의원은 이미 구속 상태로 저렇게 재판을 받고 있는데 거의 쌍둥이 사건인 전재수 장관 같은... 바로 국회의원 보궐이나 아니면 단체장에 도전할 수 있는 사람도 있을 것이고, 모든 계층에서 역량이 강화되길... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456467&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T16:32:00",
+            "related_members": [
+                "8Q88373R",
+                "QWL7778X",
+                "MNZ4401T",
+                "9YO73104",
+                "GDG1847Z",
+                "OSV9142K",
+                "KFM1081G"
+            ],
+            "title": "[사사건건] “경기도지사 출마?”…이준석 “가능성 열어놔”"
+        },
         {
             "_id": "6964b544631fd17434996037",
             "link": "https://n.news.naver.com/mnews/article/016/0002583597?sid=102",
@@ -444,85 +463,27 @@
                 "MQU41854"
             ],
             "title": "[일지] 김건희특검 출범부터 수사 종료까지 180일 여정"
-        },
-        {
-            "_id": "6964b581631fd17434996425",
-            "link": "https://n.news.naver.com/mnews/article/020/0003685225?sid=102",
-            "created_at": "2026-01-12T17:49:02.903000",
-            "description": "추경호 임종득 김기현 김선교 권성동 의원 등 현직 국회의원 5명을 기소했다. 특검별로 보면 내란 특검은 총 4명을 구속시키고 27명을 재판에 넘겼으며, 채 상병 특검은 1명을 구속시키고 33명을 기소했다. 김건희 특검은... ",
-            "originallink": "https://www.donga.com/news/Society/article/all/20251229/133051663/2",
-            "press": "동아일보",
-            "pubDate": "2025-12-29T04:34:00",
-            "related_members": [
-                "JNL7001A",
-                "G152611B",
-                "RAJ1024Z",
-                "GDG1847Z",
-                "X7I4680R",
-                "TQP7167T"
-            ],
-            "title": "3대 특검, 25명 구속하고 121명 기소… ‘통일교 수사’ 논란 남겨"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960abbd631fd1743497d38a",
-            "url": "https://www.youtube.com/watch?v=AVqv6iitWBY",
+            "_id": "6960abbd631fd1743497d391",
+            "url": "https://www.youtube.com/watch?v=msTQ0s9U4GA",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:18.292000",
-            "duration": 115.0,
-            "title": "피고인석 권성동, 직업 묻자 \"국회의원\"…그리곤 '침묵' / JTBC 뉴스룸",
+            "collected_at": "2026-01-13T09:42:56.589000",
+            "duration": 820.0,
+            "title": "[속보] 특검 \"반성 없다\" 권성동 의원에 징역 4년 구형..'통일교 1억 수수' 혐의 - [MBC뉴스속보] 2025년12월17일",
             "upload_date": null
         },
         {
-            "_id": "6960abbd631fd1743497d38b",
-            "url": "https://www.youtube.com/watch?v=ZoCTRe5uvUs",
+            "_id": "69659512887d07f7ba2fabb1",
+            "url": "https://www.youtube.com/watch?v=gphjR9_uby8",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:17.449000",
-            "duration": 111.0,
-            "title": "\"직업은?\" \"국회의원\"…권성동, 첫 재판서 혐의 모두 부인 / JTBC 아침&",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abbd631fd1743497d38c",
-            "url": "https://www.youtube.com/watch?v=S3xOcaaODNE",
-            "HG_NM": "권성동",
-            "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:17.449000",
-            "duration": 136.0,
-            "title": "‘정치자금 의혹’ 사퇴 촉구…위기의 권성동 의원 / KBS  2025.08.12.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abbd631fd1743497d38d",
-            "url": "https://www.youtube.com/watch?v=yKeh8r0bG4I",
-            "HG_NM": "권성동",
-            "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:17.449000",
-            "duration": 180.0,
-            "title": "[현장영상] '체포동의안' 표결 코앞으로…권성동 가뭄 피해현장 찾아 / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abbd631fd1743497d38e",
-            "url": "https://www.youtube.com/watch?v=wWw_9jfMHxM",
-            "HG_NM": "권성동",
-            "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:17.449000",
-            "duration": 173.0,
-            "title": "\"결백하다\"는 권성동…오늘 밤 구속 갈림길 / SBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abbd631fd1743497d38f",
-            "url": "https://www.youtube.com/watch?v=UC5-F5VEDAB_D2vjBQlFw2Hw",
-            "HG_NM": "권성동",
-            "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:17.449000",
-            "duration": null,
-            "title": "권성동 채널",
+            "collected_at": "2026-01-13T09:42:56.589000",
+            "duration": 121.0,
+            "title": "통일교 정교유착으로 구속된 권성동은 어느 당?..이준석, 국힘에 통일교 돈 공천 특검 논의하자 제의!",
             "upload_date": null
         },
         {
@@ -530,19 +491,19 @@
             "url": "https://www.youtube.com/watch?v=Gho98OQZBNE",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:18.292000",
+            "collected_at": "2026-01-13T09:42:56.589000",
             "duration": 119.0,
             "title": "\"안 만났는데 어떻게 주나\"…권성동 재판서 물러섰다 / SBS 8뉴스",
             "upload_date": null
         },
         {
-            "_id": "6960abbd631fd1743497d391",
-            "url": "https://www.youtube.com/watch?v=msTQ0s9U4GA",
+            "_id": "6960abbd631fd1743497d38d",
+            "url": "https://www.youtube.com/watch?v=yKeh8r0bG4I",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:18.292000",
-            "duration": 820.0,
-            "title": "[속보] 특검 \"반성 없다\" 권성동 의원에 징역 4년 구형..'통일교 1억 수수' 혐의 - [MBC뉴스속보] 2025년12월17일",
+            "collected_at": "2026-01-13T09:42:56.040000",
+            "duration": 180.0,
+            "title": "[현장영상] '체포동의안' 표결 코앞으로…권성동 가뭄 피해현장 찾아 / JTBC News",
             "upload_date": null
         },
         {
@@ -554,7 +515,57 @@
             "duration": 148.0,
             "title": "권성동 구속 기로…이르면 오늘 밤 결정 / SBS",
             "upload_date": null
+        },
+        {
+            "_id": "6960abbd631fd1743497d38e",
+            "url": "https://www.youtube.com/watch?v=wWw_9jfMHxM",
+            "HG_NM": "권성동",
+            "MONA_CD": "GDG1847Z",
+            "collected_at": "2026-01-13T09:42:56.040000",
+            "duration": 173.0,
+            "title": "\"결백하다\"는 권성동…오늘 밤 구속 갈림길 / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abbd631fd1743497d38f",
+            "url": "https://www.youtube.com/watch?v=UC5-F5VEDAB_D2vjBQlFw2Hw",
+            "HG_NM": "권성동",
+            "MONA_CD": "GDG1847Z",
+            "collected_at": "2026-01-13T09:42:56.040000",
+            "duration": null,
+            "title": "권성동 채널",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abbd631fd1743497d38a",
+            "url": "https://www.youtube.com/watch?v=AVqv6iitWBY",
+            "HG_NM": "권성동",
+            "MONA_CD": "GDG1847Z",
+            "collected_at": "2026-01-13T09:42:56.589000",
+            "duration": 115.0,
+            "title": "피고인석 권성동, 직업 묻자 \"국회의원\"…그리곤 '침묵' / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abbd631fd1743497d38c",
+            "url": "https://www.youtube.com/watch?v=S3xOcaaODNE",
+            "HG_NM": "권성동",
+            "MONA_CD": "GDG1847Z",
+            "collected_at": "2026-01-13T09:42:56.040000",
+            "duration": 136.0,
+            "title": "‘정치자금 의혹’ 사퇴 촉구…위기의 권성동 의원 / KBS  2025.08.12.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abbd631fd1743497d38b",
+            "url": "https://www.youtube.com/watch?v=ZoCTRe5uvUs",
+            "HG_NM": "권성동",
+            "MONA_CD": "GDG1847Z",
+            "collected_at": "2026-01-13T09:42:56.040000",
+            "duration": 111.0,
+            "title": "\"직업은?\" \"국회의원\"…권성동, 첫 재판서 혐의 모두 부인 / JTBC 아침&",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:34.112872"
+    "exported_at": "2026-01-13T10:40:02.345099"
 }

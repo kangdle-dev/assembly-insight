@@ -53,15 +53,15 @@
             "투표",
             "호남",
             "위원장",
+            "기자회견",
             "의지",
             "지역",
-            "지방선거",
-            "발의"
+            "지방선거"
         ],
         "keyword_frequency": [
             {
                 "text": "광주",
-                "value": 47
+                "value": 49
             },
             {
                 "text": "전남",
@@ -73,7 +73,7 @@
             },
             {
                 "text": "민주당",
-                "value": 17
+                "value": 16
             },
             {
                 "text": "대통령",
@@ -104,6 +104,10 @@
                 "value": 8
             },
             {
+                "text": "기자회견",
+                "value": 7
+            },
+            {
                 "text": "의지",
                 "value": 7
             },
@@ -114,35 +118,79 @@
             {
                 "text": "지방선거",
                 "value": 7
-            },
-            {
-                "text": "발의",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:01.946169",
+        "last_analyzed_at": "2026-01-13T10:40:30.993359",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                1,
                 0,
                 3,
                 9,
                 0,
                 0,
-                3
+                3,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a6887d07f7ba2fab3c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6036526",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 국회일정] (13일, 화)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
+        },
         {
             "_id": "6964b55c631fd17434996219",
             "link": "https://kjmbc.co.kr/NewsArticle/1500167",
@@ -335,7 +383,7 @@
             "_id": "6964b55c631fd1743499621a",
             "link": "http://andongmbc.co.kr/adboard/NewsView80094",
             "created_at": "2026-01-12T17:48:25.680000",
-            "description": "◀ SYNC ▶정진욱/ 더불어민주당 국회의원 \"좀 더 구체적이고 명확한 행동을 요구하고 실제 실행하도록 할 거에요. TF 이후에 조사단의 어떤 예산과 조직을 만드는 것 그것도 함께 추진을 해 보도록 하겠습니다.... ",
+            "description": "◀ SYNC ▶정종섭/외교부 서기관 \"올해 말부터 내년 초까지 미얀마에서 총선이 개최될 예정인데 저희가 총선에 대해서 아직 국제사회에서 우려가 좀 많이 있는 상황입니다.\" 더불어민주당 박선원 국회의원은 어려운... ",
             "originallink": "http://andongmbc.co.kr/adboard/NewsView80094",
             "press": "MBC",
             "pubDate": "2026-01-08T21:24:00",
@@ -349,7 +397,7 @@
             "_id": "6964b55c631fd1743499621b",
             "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=199341&mode=view",
             "created_at": "2026-01-12T17:48:25.680000",
-            "description": "◀ SYNC ▶정진욱/ 더불어민주당 국회의원 \"좀 더 구체적이고 명확한 행동을 요구하고 실제 실행하도록 할 거에요. TF 이후에 조사단의 어떤 예산과 조직을 만드는 것 그것도 함께 추진을 해 보도록 하겠습니다.... ",
+            "description": "◀ SYNC ▶정종섭/외교부 서기관 \"올해 말부터 내년 초까지 미얀마에서 총선이 개최될 예정인데 저희가 총선에 대해서 아직 국제사회에서 우려가 좀 많이 있는 상황입니다.\" 더불어민주당 박선원 국회의원은 어려운... ",
             "originallink": "http://www.phmbc.co.kr/www/news/desk_news?idx=199341&mode=view",
             "press": "MBC",
             "pubDate": "2026-01-08T20:40:00",
@@ -442,30 +490,6 @@
                 "ZKB18611"
             ],
             "title": "'광주·전남 행정통합'…정준호 발의 특별법안에 담긴 내용은?"
-        },
-        {
-            "_id": "6964b567631fd174349962e6",
-            "link": "https://n.news.naver.com/mnews/article/003/0013655095?sid=101",
-            "created_at": "2026-01-12T17:48:36.974000",
-            "description": "이바지한 국회의원에게 수여하는 상이다. 권향엽·김영배·김원이·서영교 ·유동수·정진욱·한병도 더불어민주당 의원, 김미애·김정재·김형동·서일준·임이자... ",
-            "originallink": "https://www.newsis.com/view/NISX20251212_0003439137",
-            "press": "뉴시스",
-            "pubDate": "2025-12-12T15:05:00",
-            "related_members": [
-                "GX38539O",
-                "JEZ3130Q",
-                "EH27538E",
-                "4L695580",
-                "EFU76868",
-                "B7D7534L",
-                "9HE7226N",
-                "MR210505",
-                "E1J8836Y",
-                "H5476989",
-                "TKJ4800F",
-                "3BC6890E"
-            ],
-            "title": "소상공인들이 꼽은 올해 최고 성과는?…\"전담차관 신설\""
         }
     ],
     "recent_videos": [
@@ -484,7 +508,7 @@
             "url": "https://www.youtube.com/watch?v=ysLXit5GAw4",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:30.724000",
+            "collected_at": "2026-01-13T09:51:08.543000",
             "duration": 125.0,
             "title": "[현장영상] 주진우 \"장난하고 있어요?\"... 정진욱 \"이렇게 할 거예요?\" / 채널A",
             "upload_date": null
@@ -494,7 +518,7 @@
             "url": "https://www.youtube.com/watch?v=owvV18En-FE",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:30.724000",
+            "collected_at": "2026-01-13T09:51:07.729000",
             "duration": 505.0,
             "title": "[2024국정감사] 더불어민주당 정진욱 의원, 무식하단 발언에 아수라장.. 결국 중단된 토론",
             "upload_date": null
@@ -504,7 +528,7 @@
             "url": "https://www.youtube.com/watch?v=SHnIZio69Hc",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:30.724000",
+            "collected_at": "2026-01-13T09:51:08.544000",
             "duration": 291.0,
             "title": "검은넥타이 매고 등장..폭발한 정진욱...국민의힘 \"배준영은 무릎 꿇고 사죄하라\"",
             "upload_date": null
@@ -514,7 +538,7 @@
             "url": "https://www.youtube.com/watch?v=u6Xc2Ft9DRQ",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:29.989000",
+            "collected_at": "2026-01-13T09:51:07.729000",
             "duration": 127.0,
             "title": "[축사 영상] 정진욱 국회의원의 '대한민국 재계지도' 포럼 축사",
             "upload_date": null
@@ -524,7 +548,7 @@
             "url": "https://www.youtube.com/watch?v=UQ6HHc9iSXQ",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:29.989000",
+            "collected_at": "2026-01-13T09:51:07.729000",
             "duration": 228.0,
             "title": "\"청산해야 될 시기\" 정진욱 '초선 당선인' \"윤석열, 스스로 물러날지 탄핵 당할지 선.택.해!\"",
             "upload_date": null
@@ -534,7 +558,7 @@
             "url": "https://www.youtube.com/watch?v=ln5uBaY5HJE",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:29.989000",
+            "collected_at": "2026-01-13T09:51:07.729000",
             "duration": 392.0,
             "title": "민주당 정진욱 의원,공공배달앱 관련 기자회견",
             "upload_date": null
@@ -544,11 +568,21 @@
             "url": "https://www.youtube.com/watch?v=U02Yz1F38Sk",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-09T16:27:29.989000",
+            "collected_at": "2026-01-13T09:51:07.729000",
             "duration": 563.0,
             "title": "\"오늘부터 대미 수출품에 관세 부과 백악관,‘한국 우선협상자’ 어떤 의미?\" 정진욱 더불어민주당 의원 | 美 상호관세 조치 등 현안질의 (25.4.9.) | 국회방송",
             "upload_date": null
+        },
+        {
+            "_id": "696596fe887d07f7ba2fae38",
+            "url": "https://www.youtube.com/watch?v=5-_yqJbqD0w",
+            "HG_NM": "정진욱",
+            "MONA_CD": "9HE7226N",
+            "collected_at": "2026-01-13T09:51:08.544000",
+            "duration": 62.0,
+            "title": "[총선브리핑] 안태욱 김주업 정진욱 (뉴스투데이 2024.04.02 광주MBC)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:01.946169"
+    "exported_at": "2026-01-13T10:40:30.993359"
 }

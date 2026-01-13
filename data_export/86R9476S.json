@@ -42,41 +42,61 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
             "전남",
+            "민주당",
             "광주",
-            "조류",
-            "참석",
-            "이재명",
-            "통합",
             "전문가",
-            "대표",
+            "조류",
             "무안공항",
-            "대통령",
-            "국민",
-            "장동혁",
-            "혁신",
-            "조류충돌"
+            "조류충돌",
+            "참석",
+            "통합",
+            "위원회",
+            "이재명",
+            "예방",
+            "참사",
+            "대표",
+            "회의"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
-                "value": 17
+                "text": "전남",
+                "value": 20
             },
             {
-                "text": "전남",
-                "value": 16
+                "text": "민주당",
+                "value": 19
             },
             {
                 "text": "광주",
-                "value": 16
+                "value": 18
+            },
+            {
+                "text": "전문가",
+                "value": 15
             },
             {
                 "text": "조류",
-                "value": 9
+                "value": 14
+            },
+            {
+                "text": "무안공항",
+                "value": 13
+            },
+            {
+                "text": "조류충돌",
+                "value": 12
             },
             {
                 "text": "참석",
+                "value": 12
+            },
+            {
+                "text": "통합",
+                "value": 11
+            },
+            {
+                "text": "위원회",
                 "value": 9
             },
             {
@@ -84,11 +104,11 @@
                 "value": 9
             },
             {
-                "text": "통합",
-                "value": 9
+                "text": "예방",
+                "value": 8
             },
             {
-                "text": "전문가",
+                "text": "참사",
                 "value": 8
             },
             {
@@ -96,53 +116,72 @@
                 "value": 8
             },
             {
-                "text": "무안공항",
+                "text": "회의",
                 "value": 7
-            },
-            {
-                "text": "대통령",
-                "value": 7
-            },
-            {
-                "text": "국민",
-                "value": 7
-            },
-            {
-                "text": "장동혁",
-                "value": 7
-            },
-            {
-                "text": "혁신",
-                "value": 7
-            },
-            {
-                "text": "조류충돌",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:35.970869",
+        "last_analyzed_at": "2026-01-13T10:40:04.239512",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                2,
                 2,
                 2,
                 4,
                 2,
                 0,
-                3
+                6,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a0887d07f7ba2fab28",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103451?sid=102",
+            "created_at": "2026-01-13T09:41:02.839000",
+            "description": "김문수 국회의원이 한국공항공사 제출 자료를 분석한 결과, 무안공항에서 2024년 12월 19일 등 세 차례 조류충돌예방위원회가 열렸지만 관련 전문가는 참석하지 않은 것으로 나타났습니다. 반면, 김포공항에서 열린... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456929&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T22:03:00",
+            "related_members": [
+                "86R9476S"
+            ],
+            "title": "“무안공항 조류충돌예방위 조류 전문가 0명”"
+        },
+        {
+            "_id": "696594a0887d07f7ba2fab29",
+            "link": "https://mpmbc.co.kr/NewsArticle/1500282",
+            "created_at": "2026-01-13T09:41:02.839000",
+            "description": "더불어민주당 김문수 국회의원은 한국공항공사의 국정조사 자료를 분석한 결과, 무안공항이 지난 2023년 10월과 2024년 7월, 그리고 사고 직전인 12월 19일 진행한 해당 회의에 전문가 참석 여부는 모두 'x'로 기재됐다고... ",
+            "originallink": "https://mpmbc.co.kr/NewsArticle/1500282",
+            "press": "MBC",
+            "pubDate": "2026-01-12T21:12:00",
+            "related_members": [
+                "86R9476S"
+            ],
+            "title": "참사 직전까지 무안공항 조류충돌예방위원회 \"조류 전문가 0명\""
+        },
+        {
+            "_id": "696594a0887d07f7ba2fab2a",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103309?sid=102",
+            "created_at": "2026-01-13T09:41:02.839000",
+            "description": "김문수 국회의원이 한국공항공사 국정조사 제출자료를 분석한 결과, 무안국제공항에서 지난해 12월 19일 등 세 차례 조류충돌예방위원회가 열렸지만 조류 분야 전문가는 참석하지 않은 것으로 나타났습니다. 또, 같은... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456704&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T19:38:00",
+            "related_members": [
+                "86R9476S"
+            ],
+            "title": "[여기는 전남] “광주·전남 행정통합 시도민과 소통 강화해야” 외"
+        },
         {
             "_id": "6964b548631fd1743499609c",
             "link": "https://n.news.naver.com/mnews/article/056/0012103039?sid=100",
@@ -529,7 +568,7 @@
             "_id": "6964b540631fd17434995fd1",
             "link": "https://n.news.naver.com/mnews/article/028/0002783930?sid=102",
             "created_at": "2026-01-12T17:47:57.718000",
-            "description": "30일 5·18기념재단 말을 들어보면, 전날 차규근(조국혁신당)·정동영(더불어민주당, 통일부 장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원... ",
+            "description": "장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원·양부남(이상 민주당), 서왕진·황운하·김준형·정춘생·김선민·강경숙·백선희·이해민... ",
             "originallink": "https://www.hani.co.kr/arti/area/honam/1237161.html",
             "press": "한겨레",
             "pubDate": "2025-12-30T11:44:00",
@@ -552,83 +591,79 @@
                 "P8A4624C"
             ],
             "title": "‘전두환 미화 방지법’ 국회 발의…합천 일해공원 논란 끝낼까"
-        },
-        {
-            "_id": "6964b544631fd17434996044",
-            "link": "https://n.news.naver.com/mnews/article/079/0004100218?sid=102",
-            "created_at": "2026-01-12T17:48:01.732000",
-            "description": "류영주 기자 '항명 혐의' 박정훈 대령, 1심 무죄 해병대 채 상병 순직 사건과 관련해 항명 및 상관명예훼손... 황진환 기자 의총장 떠나는 김문수 국민의힘 김문수 대선후보가 9일 국회에서 열린 의원총회 중 권영세... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6449202?utm_source=naver&utm_medium=article&utm_campaign=20251230080034",
-            "press": "노컷뉴스",
-            "pubDate": "2025-12-30T08:01:00",
-            "related_members": [
-                "GDG1847Z",
-                "7GW5372Y",
-                "LG63087O",
-                "86R9476S",
-                "AEJ19639",
-                "4019850M"
-            ],
-            "title": "격랑 속을 달린 2025…사진으로 돌아보는 한 해[노컷한컷]"
-        },
-        {
-            "_id": "6964b57c631fd174349963cb",
-            "link": "https://n.news.naver.com/mnews/article/005/0001820520?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "것이 국회의원 모두가 해야 할 다짐이고 약속”이라고 했다. ‘당정대(당·정부·대통령실) 간 엇박자가... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029117610&code=61111111&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2025-12-15T18:02:00",
-            "related_members": [
-                "3UI95829",
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "6WK3815W",
-                "ZW43496R",
-                "1S05899F",
-                "6K79158C",
-                "IL74008M",
-                "5762459L",
-                "8P37634C",
-                "MQK9493H",
-                "EBH1101V",
-                "C7E79345",
-                "86R9476S",
-                "YM42715P"
-            ],
-            "title": "‘최고위원 출사표’ 친명계 강득구 “당정대 조율자 역할”"
-        },
-        {
-            "_id": "6964b57c631fd174349963ce",
-            "link": "https://n.news.naver.com/mnews/article/016/0002572308?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "“보궐선거 출마자 한마음 선의의 경쟁” 강득구(왼쪽에서 세 번째) 더불어민주당 의원이 15일 국회... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
-            "originallink": "https://biz.heraldcorp.com/article/10636835?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-15T16:27:00",
-            "related_members": [
-                "5762459L",
-                "8P37634C",
-                "1S05899F",
-                "3UI95829",
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "C7E79345",
-                "6WK3815W",
-                "ZW43496R",
-                "86R9476S",
-                "6K79158C",
-                "YM42715P",
-                "IL74008M",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "최고위원 출마 강득구 “친명-친청 없어…당정청 원팀 조정자 역할 하겠..."
         }
     ],
     "recent_videos": [
+        {
+            "_id": "6965952e887d07f7ba2fabd1",
+            "url": "https://www.youtube.com/watch?v=R6V08P38fiE",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:23.643000",
+            "duration": 489.0,
+            "title": "민주당에 이런 국회의원이 있었어?...국힘 입을 시원하게 꿰매버린 김문수 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6965952e887d07f7ba2fabd2",
+            "url": "https://www.youtube.com/watch?v=QnDOsXSxSA4",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:23.643000",
+            "duration": 120.0,
+            "title": "“내가 국회의원 3번 했어!”  김문수 전 지사 경찰과 코로나 실랑이",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe0631fd1743497d42d",
+            "url": "https://www.youtube.com/watch?v=cVevT84ZVB0",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:24.189000",
+            "duration": 524.0,
+            "title": "[오늘 이 뉴스] 모처럼 국회 나타난 김문수.. 묻지도 않았는데 \"李 범죄자\" (2025.07.04/MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965952e887d07f7ba2fabd0",
+            "url": "https://www.youtube.com/watch?v=RLybBsnJF-g",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:23.643000",
+            "duration": 196.0,
+            "title": "[오늘 이 뉴스] 김문수의 대반전 '빌드업'..표정 일그러져간 의원들 (2025.05.09/MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe0631fd1743497d42f",
+            "url": "https://www.youtube.com/watch?v=0RSRxk8JxEg",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:24.189000",
+            "duration": 126.0,
+            "title": "팔짱 낀 김문수·한동훈‥넓어지는 '반 장동혁' (2025.12.19/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe0631fd1743497d42c",
+            "url": "https://www.youtube.com/watch?v=oErk9fmuTfw",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:23.643000",
+            "duration": 121.0,
+            "title": "민주당 김문수 의원 탄핵 표결 앞두고 돌연 ‘미국행’ 논란 [라디오전망대] 2024.12.27.(금)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe0631fd1743497d42b",
+            "url": "https://www.youtube.com/watch?v=ne3jn1AL9lQ",
+            "HG_NM": "김문수",
+            "MONA_CD": "86R9476S",
+            "collected_at": "2026-01-13T09:43:23.643000",
+            "duration": 861.0,
+            "title": "[생중계] 김문수 더불어민주당 의원, 여순사건 유족보상금 사기횡령 의혹 관련 기자회견 (2025.12.24 오전)",
+            "upload_date": null
+        },
         {
             "_id": "6960abe0631fd1743497d429",
             "url": "https://www.youtube.com/watch?v=UCBbaSGfMLK1e9p22zjs0Ksw",
@@ -644,39 +679,9 @@
             "url": "https://www.youtube.com/watch?v=g0g1x_XOBvY",
             "HG_NM": "김문수",
             "MONA_CD": "86R9476S",
-            "collected_at": "2026-01-09T16:18:53.474000",
+            "collected_at": "2026-01-13T09:43:23.643000",
             "duration": 138.0,
             "title": "“내가 국회의원 3번했어” 김문수 전 지사 경찰과 실랑이 / KBS뉴스(News)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe0631fd1743497d42b",
-            "url": "https://www.youtube.com/watch?v=ne3jn1AL9lQ",
-            "HG_NM": "김문수",
-            "MONA_CD": "86R9476S",
-            "collected_at": "2026-01-09T16:18:53.474000",
-            "duration": 861.0,
-            "title": "[생중계] 김문수 더불어민주당 의원, 여순사건 유족보상금 사기횡령 의혹 관련 기자회견 (2025.12.24 오전)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe0631fd1743497d42c",
-            "url": "https://www.youtube.com/watch?v=oErk9fmuTfw",
-            "HG_NM": "김문수",
-            "MONA_CD": "86R9476S",
-            "collected_at": "2026-01-09T16:18:53.474000",
-            "duration": 121.0,
-            "title": "민주당 김문수 의원 탄핵 표결 앞두고 돌연 ‘미국행’ 논란 [라디오전망대] 2024.12.27.(금)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe0631fd1743497d42d",
-            "url": "https://www.youtube.com/watch?v=cVevT84ZVB0",
-            "HG_NM": "김문수",
-            "MONA_CD": "86R9476S",
-            "collected_at": "2026-01-09T16:18:54.168000",
-            "duration": 524.0,
-            "title": "[오늘 이 뉴스] 모처럼 국회 나타난 김문수.. 묻지도 않았는데 \"李 범죄자\" (2025.07.04/MBC뉴스)",
             "upload_date": null
         },
         {
@@ -688,17 +693,7 @@
             "duration": 69.0,
             "title": "이재명은 수사에 협조했습니까? #국민의힘 #김문수 #당대표후보",
             "upload_date": null
-        },
-        {
-            "_id": "6960abe0631fd1743497d42f",
-            "url": "https://www.youtube.com/watch?v=0RSRxk8JxEg",
-            "HG_NM": "김문수",
-            "MONA_CD": "86R9476S",
-            "collected_at": "2026-01-09T16:18:54.168000",
-            "duration": 126.0,
-            "title": "팔짱 낀 김문수·한동훈‥넓어지는 '반 장동혁' (2025.12.19/뉴스투데이/MBC)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:35.970869"
+    "exported_at": "2026-01-13T10:40:04.239512"
 }

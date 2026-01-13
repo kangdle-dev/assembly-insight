@@ -61,12 +61,12 @@
             "명예",
             "베네수엘라",
             "통일교",
+            "광장",
             "군사작전",
             "국제",
             "정세현",
             "문정인",
-            "연세대",
-            "교수"
+            "연세대"
         ],
         "keyword_frequency": [
             {
@@ -91,7 +91,7 @@
             },
             {
                 "text": "민주당",
-                "value": 9
+                "value": 7
             },
             {
                 "text": "명예",
@@ -103,6 +103,10 @@
             },
             {
                 "text": "통일교",
+                "value": 6
+            },
+            {
+                "text": "광장",
                 "value": 6
             },
             {
@@ -124,29 +128,25 @@
             {
                 "text": "연세대",
                 "value": 5
-            },
-            {
-                "text": "교수",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:57.218776",
+        "last_analyzed_at": "2026-01-13T10:40:26.096418",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                2,
                 1,
                 0,
                 0,
                 1,
+                0,
                 0,
                 0
             ]
@@ -420,6 +420,36 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad87631fd1743497dab7",
+            "url": "https://www.youtube.com/watch?v=hbhwZgVGTC0",
+            "HG_NM": "이재정",
+            "MONA_CD": "UQ282145",
+            "collected_at": "2026-01-13T09:49:38.691000",
+            "duration": 534.0,
+            "title": "[이런뉴스] 이재정 ‘이런 짓’ 표현에 김기현 거센 항의 / KBS 2025.07.14.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad87631fd1743497dab8",
+            "url": "https://www.youtube.com/watch?v=3EgMkABN8Ks",
+            "HG_NM": "이재정",
+            "MONA_CD": "UQ282145",
+            "collected_at": "2026-01-09T16:25:56.999000",
+            "duration": 746.0,
+            "title": "[비상, 비상] '광장 이후' 공저자 이재정 : 나는 왜 광장의 시민에서 광장의 활동가가 되었는가",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad87631fd1743497dab0",
+            "url": "https://www.youtube.com/watch?v=tusl8wYLrZ0",
+            "HG_NM": "이재정",
+            "MONA_CD": "UQ282145",
+            "collected_at": "2026-01-13T09:49:37.991000",
+            "duration": 2212.0,
+            "title": "[전체보기] 이재정 민주당 의원의 최고위원 출사표",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad87631fd1743497dab4",
             "url": "https://www.youtube.com/watch?v=ssZdznq4A5Y",
             "HG_NM": "이재정",
@@ -430,41 +460,11 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad87631fd1743497dab5",
-            "url": "https://www.youtube.com/watch?v=yYKltsmoUOU",
-            "HG_NM": "이재정",
-            "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.999000",
-            "duration": 1502.0,
-            "title": "이재정 국회의원 ‘KBS 1라디오 뉴스레터K’ 전화 인터뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad87631fd1743497dab0",
-            "url": "https://www.youtube.com/watch?v=tusl8wYLrZ0",
-            "HG_NM": "이재정",
-            "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
-            "duration": 2212.0,
-            "title": "[전체보기] 이재정 민주당 의원의 최고위원 출사표",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad87631fd1743497dab3",
-            "url": "https://www.youtube.com/watch?v=58dQ1ylOSUw",
-            "HG_NM": "이재정",
-            "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
-            "duration": 1474.0,
-            "title": "[정면]“LH의혹 정치권 갑론을박, 목소리내는 윤석열””- 이재정 더불어민주당 의원, 박성.../ YTN 라디오",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad87631fd1743497dab1",
             "url": "https://www.youtube.com/watch?v=ep98n9yS8GI",
             "HG_NM": "이재정",
             "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
+            "collected_at": "2026-01-13T09:49:37.991000",
             "duration": 154.0,
             "title": "[VIDEOMUG] 더민주 이재정 의원, 황교안 앞에서 오방끈 흔들며 \"소름 끼친다\" / SBS",
             "upload_date": null
@@ -474,19 +474,9 @@
             "url": "https://www.youtube.com/watch?v=p9ioGCcjOIs",
             "HG_NM": "이재정",
             "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
+            "collected_at": "2026-01-13T09:49:37.991000",
             "duration": 497.0,
             "title": "#국회의원_시키신_분 Ep.2 짧ver -  똑똑. 이재정이 배달왔습니다!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad87631fd1743497daad",
-            "url": "https://www.youtube.com/watch?v=CNPlSSUY5tc",
-            "HG_NM": "이재정",
-            "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
-            "duration": 625.0,
-            "title": "이재정 의원이 CCTV 띄우자 생긴 놀라운 반전..\"내가 했다 왜\" 김기현 급발진에 발칵",
             "upload_date": null
         },
         {
@@ -494,9 +484,19 @@
             "url": "https://www.youtube.com/watch?v=UCmGccc0nieB74Q5q5vDJfCw",
             "HG_NM": "이재정",
             "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
+            "collected_at": "2026-01-13T09:49:37.991000",
             "duration": null,
             "title": "이재정TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad87631fd1743497daad",
+            "url": "https://www.youtube.com/watch?v=CNPlSSUY5tc",
+            "HG_NM": "이재정",
+            "MONA_CD": "UQ282145",
+            "collected_at": "2026-01-13T09:49:37.991000",
+            "duration": 625.0,
+            "title": "이재정 의원이 CCTV 띄우자 생긴 놀라운 반전..\"내가 했다 왜\" 김기현 급발진에 발칵",
             "upload_date": null
         },
         {
@@ -504,7 +504,7 @@
             "url": "https://www.youtube.com/watch?v=VNZPCG784R8",
             "HG_NM": "이재정",
             "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
+            "collected_at": "2026-01-13T09:49:37.991000",
             "duration": 537.0,
             "title": "이재정 의원이 영상 띄우자....발칵 뒤집힌 청문회장, 무슨 일?",
             "upload_date": null
@@ -514,11 +514,11 @@
             "url": "https://www.youtube.com/watch?v=w-ajD_TdphM",
             "HG_NM": "이재정",
             "MONA_CD": "UQ282145",
-            "collected_at": "2026-01-09T16:25:56.162000",
+            "collected_at": "2026-01-13T09:49:37.991000",
             "duration": 202.0,
             "title": "국회의원 이재정, 제21대 총선 출마선언",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:57.218776"
+    "exported_at": "2026-01-13T10:40:26.096418"
 }

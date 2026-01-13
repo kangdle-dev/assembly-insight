@@ -125,54 +125,29 @@
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:37.967795",
+        "last_analyzed_at": "2026-01-13T10:40:06.308609",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 0,
                 0,
                 17,
                 1,
                 0,
-                2
+                2,
+                0
             ]
         }
     },
     "recent_news": [
-        {
-            "_id": "6964b54b631fd174349960d6",
-            "link": "https://n.news.naver.com/mnews/article/003/0013703946?sid=100",
-            "created_at": "2026-01-12T17:48:08.635000",
-            "description": "2주차 국회 정례브리핑] 11:20 손솔 의원, [차별금지법 관련 기자회견] 11:40 신장식 의원, [김병주 MBK 회장 구속 촉구 기자회견] 14:20 조배숙 의원, [손현보 목사 인권 탄압 규탄 및 석방 촉구 기자회견] 15:20 박수영... ",
-            "originallink": "https://www.newsis.com/view/NISX20260111_0003472646",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T05:00:00",
-            "related_members": [
-                "JNL7001A",
-                "B7D7534L",
-                "GF286398",
-                "NPD75153",
-                "IWK63872",
-                "2KM3589W",
-                "VZA76236",
-                "FU87526G",
-                "4019850M",
-                "HVV5250J",
-                "WI719547",
-                "K5F2023J",
-                "4T026790"
-            ],
-            "title": "[오늘의 주요일정]국회(1월12일 월요일)"
-        },
         {
             "_id": "6964b54b631fd174349960d5",
             "link": "https://n.news.naver.com/mnews/article/421/0008707604?sid=100",
@@ -197,6 +172,31 @@
                 "4T026790"
             ],
             "title": "[오늘의 국회일정] (12일, 월)"
+        },
+        {
+            "_id": "6964b54b631fd174349960d6",
+            "link": "https://n.news.naver.com/mnews/article/003/0013703946?sid=100",
+            "created_at": "2026-01-12T17:48:08.635000",
+            "description": "2주차 국회 정례브리핑] 11:20 손솔 의원, [차별금지법 관련 기자회견] 11:40 신장식 의원, [김병주 MBK 회장 구속 촉구 기자회견] 14:20 조배숙 의원, [손현보 목사 인권 탄압 규탄 및 석방 촉구 기자회견] 15:20 박수영... ",
+            "originallink": "https://www.newsis.com/view/NISX20260111_0003472646",
+            "press": "뉴시스",
+            "pubDate": "2026-01-12T05:00:00",
+            "related_members": [
+                "JNL7001A",
+                "B7D7534L",
+                "GF286398",
+                "NPD75153",
+                "IWK63872",
+                "2KM3589W",
+                "VZA76236",
+                "FU87526G",
+                "4019850M",
+                "HVV5250J",
+                "WI719547",
+                "K5F2023J",
+                "4T026790"
+            ],
+            "title": "[오늘의 주요일정]국회(1월12일 월요일)"
         },
         {
             "_id": "6964b54d631fd174349960fa",
@@ -510,23 +510,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac0a631fd1743497d4ce",
-            "url": "https://www.youtube.com/watch?v=ShrelPZ0C8I",
-            "HG_NM": "김영배",
-            "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
-            "duration": 687.0,
-            "title": "[뉴스포커스] 김영배 의원, 더불어민주당 최고위원 출사표 / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac0a631fd1743497d4cf",
             "url": "https://www.youtube.com/watch?v=H0rKAUkMLpY",
             "HG_NM": "김영배",
             "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:35.573000",
+            "collected_at": "2026-01-13T09:43:54.838000",
             "duration": 1223.0,
             "title": "[인터뷰] 김영배 \"구청장 때 쌓은 신뢰로 탑승시위 중단 이끌어 내\" / SBS / 편상욱의 뉴스브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac0a631fd1743497d4ce",
+            "url": "https://www.youtube.com/watch?v=ShrelPZ0C8I",
+            "HG_NM": "김영배",
+            "MONA_CD": "B7D7534L",
+            "collected_at": "2026-01-13T09:43:54.307000",
+            "duration": 687.0,
+            "title": "[뉴스포커스] 김영배 의원, 더불어민주당 최고위원 출사표 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -534,7 +534,7 @@
             "url": "https://www.youtube.com/watch?v=pTJLzpzS_Vk",
             "HG_NM": "김영배",
             "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
+            "collected_at": "2026-01-13T09:43:54.307000",
             "duration": 392.0,
             "title": "[자막] 김영배, 안창호 인권위원장에 질타 “국회가 능멸합니까?”",
             "upload_date": null
@@ -544,7 +544,7 @@
             "url": "https://www.youtube.com/watch?v=CP5iQsABfdc",
             "HG_NM": "김영배",
             "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
+            "collected_at": "2026-01-13T09:43:54.307000",
             "duration": 2050.0,
             "title": "[다시보기] 민주당 김영배, 서울시장 출마 선언 “내가 진짜 종합 행정가”-12월 16일 (화) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -554,7 +554,7 @@
             "url": "https://www.youtube.com/watch?v=KabMMH5Og08",
             "HG_NM": "김영배",
             "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
+            "collected_at": "2026-01-13T09:43:54.307000",
             "duration": 1421.0,
             "title": "[김영배와 친구들]  국민의 마음으로 일하는 '김영배 더불어민주당 의원'  | 국회의원 25시",
             "upload_date": null
@@ -564,29 +564,9 @@
             "url": "https://www.youtube.com/watch?v=EIuyJzgv8qA",
             "HG_NM": "김영배",
             "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
+            "collected_at": "2026-01-13T09:43:54.307000",
             "duration": 2172.0,
             "title": "더불어민주당 김영배 의원, 서울시장 출마 선언식  - [끝까지LIVE] MBC 중계방송 2025년 12월 16일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac0a631fd1743497d4c7",
-            "url": "https://www.youtube.com/watch?v=POsI3QrMqJ0",
-            "HG_NM": "김영배",
-            "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
-            "duration": 427.0,
-            "title": "[김영배와 친구들] 김영배 의원, 정치개혁을 향한 재도약!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac0a631fd1743497d4c6",
-            "url": "https://www.youtube.com/watch?v=UCIDxLOL0JV0GwX7qPmadyCQ",
-            "HG_NM": "김영배",
-            "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
-            "duration": null,
-            "title": "김영배",
             "upload_date": null
         },
         {
@@ -600,15 +580,35 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac0a631fd1743497d4c6",
+            "url": "https://www.youtube.com/watch?v=UCIDxLOL0JV0GwX7qPmadyCQ",
+            "HG_NM": "김영배",
+            "MONA_CD": "B7D7534L",
+            "collected_at": "2026-01-13T09:43:54.307000",
+            "duration": null,
+            "title": "김영배",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac0a631fd1743497d4c7",
+            "url": "https://www.youtube.com/watch?v=POsI3QrMqJ0",
+            "HG_NM": "김영배",
+            "MONA_CD": "B7D7534L",
+            "collected_at": "2026-01-13T09:43:54.307000",
+            "duration": 427.0,
+            "title": "[김영배와 친구들] 김영배 의원, 정치개혁을 향한 재도약!",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac0a631fd1743497d4cc",
             "url": "https://www.youtube.com/watch?v=Xwtk7P9IKvo",
             "HG_NM": "김영배",
             "MONA_CD": "B7D7534L",
-            "collected_at": "2026-01-09T16:19:34.862000",
+            "collected_at": "2026-01-13T09:43:54.307000",
             "duration": 538.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 김영배 의원(더불어민주당)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:37.968795"
+    "exported_at": "2026-01-13T10:40:06.308609"
 }

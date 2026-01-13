@@ -51,17 +51,17 @@
             "새해",
             "인사",
             "정무",
+            "국민",
             "위원장",
             "박완수",
-            "국민",
+            "쿠팡",
             "도당",
             "신년인사",
             "지방선거",
             "승리",
             "결의",
             "행사",
-            "회서",
-            "방송"
+            "회서"
         ],
         "keyword_frequency": [
             {
@@ -78,6 +78,10 @@
             },
             {
                 "text": "정무",
+                "value": 6
+            },
+            {
+                "text": "국민",
                 "value": 5
             },
             {
@@ -89,7 +93,7 @@
                 "value": 5
             },
             {
-                "text": "국민",
+                "text": "쿠팡",
                 "value": 4
             },
             {
@@ -119,28 +123,24 @@
             {
                 "text": "회서",
                 "value": 4
-            },
-            {
-                "text": "방송",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:32.890994",
+        "last_analyzed_at": "2026-01-13T10:40:01.124160",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
+                1,
                 1,
                 1,
                 0
@@ -148,6 +148,19 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "69659499887d07f7ba2fab17",
+            "link": "https://realty.chosun.com/site/data/html_dir/2026/01/09/2026010903321.html",
+            "created_at": "2026-01-13T09:40:55.964000",
+            "description": "국회 정무위원회 강민국 의원실(국민의힘)에 따르면, 업비트는 지난해 11월 27일 오전 4시42분부터 오전 5시36분까지 54분간 솔라나 계열 24종 코인 1040억6470만개(약 445억원)가 알 수 없는 외부 지갑으로 빠져나가는 해킹... ",
+            "originallink": "https://realty.chosun.com/site/data/html_dir/2026/01/09/2026010903321.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-12T06:02:00",
+            "related_members": [
+                "GX22581L"
+            ],
+            "title": "'쿠팡의 1000배 해킹사고' 두나무는 면허 갱신 면죄부 받았다"
+        },
         {
             "_id": "6964b541631fd17434995fee",
             "link": "https://n.news.naver.com/mnews/article/023/0003952202?sid=101",
@@ -238,26 +251,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960aba4631fd1743497d334",
-            "url": "https://www.youtube.com/watch?v=1_0QWAefr7w",
-            "HG_NM": "강민국",
-            "MONA_CD": "GX22581L",
-            "collected_at": "2026-01-09T16:17:53.147000",
-            "duration": 459.0,
-            "title": "[국회의원 강민국] 강민국 수석대변인 초청 KNN 인물포커스 대담 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aba4631fd1743497d335",
-            "url": "https://www.youtube.com/watch?v=4xTLhd-EHEc",
-            "HG_NM": "강민국",
-            "MONA_CD": "GX22581L",
-            "collected_at": "2026-01-09T16:17:53.147000",
-            "duration": 220.0,
-            "title": "강혜경 \"강민국 의원도 명태균 잘 알지 않습니까?\"...밑도끝도없는 주장에 뿔난 강민국 \"증인으로 와서 누굴 아니? 모르니? 뭐하는겁니까?\"",
-            "upload_date": null
-        },
-        {
             "_id": "6960aba4631fd1743497d336",
             "url": "https://www.youtube.com/watch?v=eGDKSKPWKWc",
             "HG_NM": "강민국",
@@ -265,6 +258,26 @@
             "collected_at": "2026-01-09T16:17:53.147000",
             "duration": 339.0,
             "title": "강민국 \"아파트 2채 보유는 다주택 아닙니까?\" [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aba4631fd1743497d335",
+            "url": "https://www.youtube.com/watch?v=4xTLhd-EHEc",
+            "HG_NM": "강민국",
+            "MONA_CD": "GX22581L",
+            "collected_at": "2026-01-13T09:42:37.890000",
+            "duration": 220.0,
+            "title": "강혜경 \"강민국 의원도 명태균 잘 알지 않습니까?\"...밑도끝도없는 주장에 뿔난 강민국 \"증인으로 와서 누굴 아니? 모르니? 뭐하는겁니까?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aba4631fd1743497d334",
+            "url": "https://www.youtube.com/watch?v=1_0QWAefr7w",
+            "HG_NM": "강민국",
+            "MONA_CD": "GX22581L",
+            "collected_at": "2026-01-13T09:42:37.890000",
+            "duration": 459.0,
+            "title": "[국회의원 강민국] 강민국 수석대변인 초청 KNN 인물포커스 대담 방송",
             "upload_date": null
         },
         {
@@ -282,7 +295,7 @@
             "url": "https://www.youtube.com/watch?v=uj3DI830QBk",
             "HG_NM": "강민국",
             "MONA_CD": "GX22581L",
-            "collected_at": "2026-01-09T16:17:53.147000",
+            "collected_at": "2026-01-13T09:42:37.890000",
             "duration": 82.0,
             "title": "\"서경방송 강민국 의원 추석인사\" 행복가득한 추석 되세요~",
             "upload_date": null
@@ -296,7 +309,37 @@
             "duration": 163.0,
             "title": "국회에선 강하게, 지역에선 소통..강민국 12월 행보",
             "upload_date": null
+        },
+        {
+            "_id": "69659500887d07f7ba2fab8a",
+            "url": "https://www.youtube.com/watch?v=Xzmf8KtXZ0o",
+            "HG_NM": "강민국",
+            "MONA_CD": "GX22581L",
+            "collected_at": "2026-01-13T09:42:38.416000",
+            "duration": 436.0,
+            "title": "반말로 건국대통령이 누구냐고 묻는 강민국 의원에 반발한 보훈부장관...\"초대대통령은 이승만이다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659500887d07f7ba2fab8b",
+            "url": "https://www.youtube.com/watch?v=F5XotkDvrE4",
+            "HG_NM": "강민국",
+            "MONA_CD": "GX22581L",
+            "collected_at": "2026-01-13T09:42:37.890000",
+            "duration": 185.0,
+            "title": "[국회의원 강민국] 당 수석 대변인 임명 후 첫 고위당정협의회 관련 브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "69659500887d07f7ba2fab8c",
+            "url": "https://www.youtube.com/watch?v=3HH4Vz7r_sI",
+            "HG_NM": "강민국",
+            "MONA_CD": "GX22581L",
+            "collected_at": "2026-01-13T09:42:37.890000",
+            "duration": 283.0,
+            "title": "[현장영상] \"강대식, 강명구, 강민국..\" '국힘 45명' 일일이 거명한 박찬대 / JTBC News",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:32.890994"
+    "exported_at": "2026-01-13T10:40:01.124160"
 }

@@ -67,23 +67,27 @@
     },
     "analysis": {
         "keywords": [
+            "민주당",
             "위원장",
             "대표",
-            "민주당",
             "경기도",
             "정청래",
+            "김동연",
             "안민석",
             "김병기",
             "장관",
-            "특검",
-            "교육",
-            "우원식",
-            "사위",
-            "법무부",
-            "내란",
-            "법사"
+            "선거",
+            "지사",
+            "한준호",
+            "김병주",
+            "지금",
+            "특검"
         ],
         "keyword_frequency": [
+            {
+                "text": "민주당",
+                "value": 10
+            },
             {
                 "text": "위원장",
                 "value": 9
@@ -93,16 +97,16 @@
                 "value": 9
             },
             {
-                "text": "민주당",
-                "value": 7
-            },
-            {
                 "text": "경기도",
                 "value": 7
             },
             {
                 "text": "정청래",
                 "value": 7
+            },
+            {
+                "text": "김동연",
+                "value": 6
             },
             {
                 "text": "안민석",
@@ -117,57 +121,103 @@
                 "value": 6
             },
             {
+                "text": "선거",
+                "value": 5
+            },
+            {
+                "text": "지사",
+                "value": 5
+            },
+            {
+                "text": "한준호",
+                "value": 5
+            },
+            {
+                "text": "김병주",
+                "value": 5
+            },
+            {
+                "text": "지금",
+                "value": 5
+            },
+            {
                 "text": "특검",
                 "value": 5
-            },
-            {
-                "text": "교육",
-                "value": 5
-            },
-            {
-                "text": "우원식",
-                "value": 5
-            },
-            {
-                "text": "사위",
-                "value": 5
-            },
-            {
-                "text": "법무부",
-                "value": 5
-            },
-            {
-                "text": "내란",
-                "value": 4
-            },
-            {
-                "text": "법사",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:06.164687",
+        "last_analyzed_at": "2026-01-13T10:40:35.568545",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 1,
                 1,
                 1,
                 4,
                 2,
-                1
+                1,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a2887d07f7ba2fab34",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097165?sid=102",
+            "created_at": "2026-01-13T09:41:04.260000",
+            "description": "지난 국회의원 총선거에서 수원시 5개 선거구를 민주당이 ‘싹쓸이’하는데 적잖은 힘을 보탰기에 그의... 김 지사는 강력한 경쟁자인 6선 추미애 의원을 비롯해 한준호·염태영·김병주 의원, 양기대 전 광명시장과 이달... ",
+            "originallink": "https://www.segye.com/newsView/20260113500983?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-13T08:02:00",
+            "related_members": [
+                "BCQ55105",
+                "URV1689Q",
+                "URX8075K",
+                "GF286398"
+            ],
+            "title": "\"김동연, 민주당 떠나라?\"…6월 선거 앞두고 달아오른 與 경선 [오상도의..."
+        },
+        {
+            "_id": "69659499887d07f7ba2fab15",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 지금 추미애 한준호 염태영 김병주 양기대 이런 분들까지 지금 함께 나오고 있습니다만. ◆ 이동형... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T08:01:00",
+            "related_members": [
+                "GOC54665",
+                "2385336L",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "BCQ55105",
+                "URV1689Q",
+                "URX8075K",
+                "GF286398",
+                "2NV6751W",
+                "VDN5593C",
+                "H5476989",
+                "A494529E",
+                "NUB4941Z",
+                "6AU2417B",
+                "25G2571T",
+                "TKJ4800F",
+                "S824682L",
+                "KFM1081G",
+                "QWL7778X",
+                "3C23171A"
+            ],
+            "title": "이동형 \"친청이 반명이냐? '명청 대결' 했다면 명이 이겨\"[한판승부]"
+        },
         {
             "_id": "6964b592631fd174349964f3",
             "link": "https://n.news.naver.com/mnews/article/016/0002584199?sid=100",
@@ -436,12 +486,12 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960a751631fd1743497ce92",
-            "url": "https://www.youtube.com/watch?v=vlCbqy8GZ6o",
+            "_id": "6960a751631fd1743497ce91",
+            "url": "https://www.youtube.com/watch?v=iytI12NK0qI",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 8629.0,
+            "duration": 9750.0,
             "source": "MBC뉴스",
             "title": "추미애 법무부장관 후보자 인사청문회 - [LIVE]MBC 뉴스특보 2019년 12월 30일",
             "upload_date": null
@@ -458,28 +508,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce8e",
-            "url": "https://www.youtube.com/watch?v=N_tezQ1_cmg",
-            "HG_NM": "추미애",
-            "MONA_CD": "URV1689Q",
-            "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 9482.0,
-            "source": "MBC뉴스",
-            "title": "법무부 국감 추미애 윤석열 발언에 조목조목 반격… - [LIVE] 특집 MBC 뉴스외전 2020년 10월 26일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a751631fd1743497ce91",
-            "url": "https://www.youtube.com/watch?v=iytI12NK0qI",
-            "HG_NM": "추미애",
-            "MONA_CD": "URV1689Q",
-            "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 9750.0,
-            "source": "MBC뉴스",
-            "title": "추미애 법무부장관 후보자 인사청문회 - [LIVE]MBC 뉴스특보 2019년 12월 30일",
-            "upload_date": null
-        },
-        {
             "_id": "6960a751631fd1743497ce8f",
             "url": "https://www.youtube.com/watch?v=RCIjQnssJ5U",
             "HG_NM": "추미애",
@@ -488,6 +516,28 @@
             "duration": 1679.0,
             "source": "MBC뉴스",
             "title": "문대통령-추미애 장관 독대, 무슨 말 오갔을까?[LIVE]MBC 뉴스프리데스크 2020년 12월 1일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a751631fd1743497ce90",
+            "url": "https://www.youtube.com/watch?v=2su3-dOyCyQ",
+            "HG_NM": "추미애",
+            "MONA_CD": "URV1689Q",
+            "collected_at": "2026-01-09T15:59:18.339000",
+            "duration": 3181.0,
+            "source": "MBC뉴스",
+            "title": "사과하고 떠난 추미애..'비검찰' 박범계 온다 - [풀영상] MBC뉴스데스크 2020년 12월 30일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a751631fd1743497ce8e",
+            "url": "https://www.youtube.com/watch?v=N_tezQ1_cmg",
+            "HG_NM": "추미애",
+            "MONA_CD": "URV1689Q",
+            "collected_at": "2026-01-09T15:59:18.339000",
+            "duration": 9482.0,
+            "source": "MBC뉴스",
+            "title": "법무부 국감 추미애 윤석열 발언에 조목조목 반격… - [LIVE] 특집 MBC 뉴스외전 2020년 10월 26일",
             "upload_date": null
         },
         {
@@ -535,16 +585,16 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce90",
-            "url": "https://www.youtube.com/watch?v=2su3-dOyCyQ",
+            "_id": "6960a751631fd1743497ce92",
+            "url": "https://www.youtube.com/watch?v=vlCbqy8GZ6o",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 3181.0,
+            "duration": 8629.0,
             "source": "MBC뉴스",
-            "title": "사과하고 떠난 추미애..'비검찰' 박범계 온다 - [풀영상] MBC뉴스데스크 2020년 12월 30일",
+            "title": "추미애 법무부장관 후보자 인사청문회 - [LIVE]MBC 뉴스특보 2019년 12월 30일",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:06.164687"
+    "exported_at": "2026-01-13T10:40:35.568545"
 }

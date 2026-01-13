@@ -53,32 +53,40 @@
     "analysis": {
         "keywords": [
             "경주",
+            "복지",
             "경주시",
-            "국민",
+            "고령자",
+            "주택",
             "신년",
             "새해",
             "도약",
+            "황성",
+            "준공",
             "참석",
+            "주낙",
+            "국민",
             "충혼탑",
-            "참배",
-            "공식",
-            "업무",
-            "시작",
-            "회의",
-            "성공",
-            "시민"
+            "참배"
         ],
         "keyword_frequency": [
             {
                 "text": "경주",
-                "value": 14
+                "value": 16
+            },
+            {
+                "text": "복지",
+                "value": 10
             },
             {
                 "text": "경주시",
-                "value": 8
+                "value": 9
             },
             {
-                "text": "국민",
+                "text": "고령자",
+                "value": 7
+            },
+            {
+                "text": "주택",
                 "value": 7
             },
             {
@@ -94,8 +102,24 @@
                 "value": 7
             },
             {
+                "text": "황성",
+                "value": 6
+            },
+            {
+                "text": "준공",
+                "value": 6
+            },
+            {
                 "text": "참석",
                 "value": 6
+            },
+            {
+                "text": "주낙",
+                "value": 5
+            },
+            {
+                "text": "국민",
+                "value": 5
             },
             {
                 "text": "충혼탑",
@@ -104,55 +128,44 @@
             {
                 "text": "참배",
                 "value": 5
-            },
-            {
-                "text": "공식",
-                "value": 5
-            },
-            {
-                "text": "업무",
-                "value": 5
-            },
-            {
-                "text": "시작",
-                "value": 5
-            },
-            {
-                "text": "회의",
-                "value": 5
-            },
-            {
-                "text": "성공",
-                "value": 5
-            },
-            {
-                "text": "시민",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:36.917220",
+        "last_analyzed_at": "2026-01-13T10:40:05.212460",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
                 1,
                 0,
-                2
+                3,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a2887d07f7ba2fab36",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097095?sid=102",
+            "created_at": "2026-01-13T09:41:05.104000",
+            "description": "김석기 국회의원과 주낙영 경주시장이 황성 고령자 복지주택 준공식에서 테이프 커팅을 하고 있다. 경주시는 고령자 복지주택 준공을 계기로 고령자 맞춤형 주거 공급과 지역 밀착형 복지서비스를 연계해... ",
+            "originallink": "https://www.segye.com/newsView/20260112516227?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-12T23:02:00",
+            "related_members": [
+                "ZYP7962W"
+            ],
+            "title": "경주 황성 고령자 복지주택 준공, 어르신 주거·복지 거점"
+        },
         {
             "_id": "6964b54b631fd174349960cc",
             "link": "https://n.news.naver.com/mnews/article/003/0013705882?sid=102",
@@ -314,23 +327,33 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960abf4631fd1743497d46d",
-            "url": "https://www.youtube.com/watch?v=WKIc9kzOFkA",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": 542.0,
-            "title": "[국회의원 김석기] 국민의힘 '혼용무도 이재명정권 6개월 국정평가 회의' 공개발언",
-            "upload_date": null
-        },
-        {
             "_id": "6960abf4631fd1743497d46e",
             "url": "https://www.youtube.com/watch?v=BXDjbSezzxw",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
+            "collected_at": "2026-01-13T09:43:38.126000",
             "duration": 134.0,
             "title": "통합당 공천받은 김석기 의원...탈락자 모두 반발하면서 갈등 불씨는 여전 김장현기자",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46f",
+            "url": "https://www.youtube.com/watch?v=91A0bdUpKQY",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-09T16:19:13.737000",
+            "duration": 224.0,
+            "title": "[국회의원 김석기] 김석기 국회의원 TBC 8시 뉴스 출연! / 230616",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46a",
+            "url": "https://www.youtube.com/watch?v=dsF-JvuwW5E",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-13T09:43:38.586000",
+            "duration": 215.0,
+            "title": "김석기 국민의힘 국회의원 230616ㅣTBC뉴스",
             "upload_date": null
         },
         {
@@ -338,9 +361,59 @@
             "url": "https://www.youtube.com/watch?v=Iylz9NQGNug",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
+            "collected_at": "2026-01-13T09:43:38.126000",
             "duration": 325.0,
             "title": "법사위원장 들먹인 김석기에 정청래 '국회법 교육'...\"퇴장명령은 1차 경고 후에\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46b",
+            "url": "https://www.youtube.com/watch?v=4-rJhhE25qY",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-13T09:43:38.126000",
+            "duration": 134.0,
+            "title": "'윤석열 파면' 환영..'김석기 의원 사퇴' 촉구 (2025.04.07/뉴스데스크/포항MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d468",
+            "url": "https://www.youtube.com/watch?v=cuM4hCKiTBM",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-13T09:43:38.126000",
+            "duration": 332.0,
+            "title": "[국회의원 김석기] 경주 출신 국회의원 최초 '정당 사무총장', 김석기 국회의원 칭찬 릴레이!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d465",
+            "url": "https://www.youtube.com/watch?v=UCWNIJ6knOvVykYTQDI3cCOg",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-13T09:43:38.126000",
+            "duration": null,
+            "title": "김석기TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d466",
+            "url": "https://www.youtube.com/watch?v=jk5cZauJAf4",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-13T09:43:38.126000",
+            "duration": 327.0,
+            "title": "[국회의원 김석기] 2025 국회 통일부(정동영 장관) 국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d467",
+            "url": "https://www.youtube.com/watch?v=D3QgKqA4soQ",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-13T09:43:38.126000",
+            "duration": 1196.0,
+            "title": "[헬로 이슈토크] 신년대담 김석기 국회의원",
             "upload_date": null
         },
         {
@@ -352,67 +425,7 @@
             "duration": 386.0,
             "title": "[국회의원 김석기] 김석기의원 사이다 발언! 정권이 바뀌지 않으면, 자유 대한민국 위험해진다! / 211021 국회 외교통일위원회 종합 국정감사",
             "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46a",
-            "url": "https://www.youtube.com/watch?v=dsF-JvuwW5E",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": 215.0,
-            "title": "김석기 국민의힘 국회의원 230616ㅣTBC뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d468",
-            "url": "https://www.youtube.com/watch?v=cuM4hCKiTBM",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": 332.0,
-            "title": "[국회의원 김석기] 경주 출신 국회의원 최초 '정당 사무총장', 김석기 국회의원 칭찬 릴레이!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d466",
-            "url": "https://www.youtube.com/watch?v=jk5cZauJAf4",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": 327.0,
-            "title": "[국회의원 김석기] 2025 국회 통일부(정동영 장관) 국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d465",
-            "url": "https://www.youtube.com/watch?v=UCWNIJ6knOvVykYTQDI3cCOg",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": null,
-            "title": "김석기TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d467",
-            "url": "https://www.youtube.com/watch?v=D3QgKqA4soQ",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": 1196.0,
-            "title": "[헬로 이슈토크] 신년대담 김석기 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46b",
-            "url": "https://www.youtube.com/watch?v=4-rJhhE25qY",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-09T16:19:13.027000",
-            "duration": 134.0,
-            "title": "'윤석열 파면' 환영..'김석기 의원 사퇴' 촉구 (2025.04.07/뉴스데스크/포항MBC)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:36.917220"
+    "exported_at": "2026-01-13T10:40:05.212460"
 }

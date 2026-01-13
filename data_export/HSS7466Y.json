@@ -59,50 +59,54 @@
             "최고",
             "위원",
             "신임",
-            "결선",
-            "선출",
-            "민주",
-            "혜련",
-            "총회",
             "도부",
+            "선출",
+            "총회",
+            "민주",
+            "결선",
+            "당선",
             "선거",
-            "당선"
+            "보궐선거"
         ],
         "keyword_frequency": [
             {
                 "text": "원내대표",
-                "value": 53
+                "value": 58
             },
             {
                 "text": "민주당",
-                "value": 32
+                "value": 36
             },
             {
                 "text": "한병도",
-                "value": 30
+                "value": 34
             },
             {
                 "text": "투표",
-                "value": 19
+                "value": 22
             },
             {
                 "text": "최고",
-                "value": 17
+                "value": 18
             },
             {
                 "text": "위원",
-                "value": 15
+                "value": 17
             },
             {
                 "text": "신임",
-                "value": 13
+                "value": 15
             },
             {
-                "text": "결선",
-                "value": 11
+                "text": "도부",
+                "value": 14
             },
             {
                 "text": "선출",
+                "value": 13
+            },
+            {
+                "text": "총회",
                 "value": 11
             },
             {
@@ -110,15 +114,11 @@
                 "value": 11
             },
             {
-                "text": "혜련",
+                "text": "결선",
                 "value": 11
             },
             {
-                "text": "총회",
-                "value": 11
-            },
-            {
-                "text": "도부",
+                "text": "당선",
                 "value": 9
             },
             {
@@ -126,38 +126,96 @@
                 "value": 9
             },
             {
-                "text": "당선",
+                "text": "보궐선거",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:47.673297",
+        "last_analyzed_at": "2026-01-13T10:40:16.393296",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                1,
+                0,
+                0,
                 0,
                 1,
-                1,
-                1,
                 10,
-                6
+                8,
+                1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "69659499887d07f7ba2fab16",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "◆ 곽우신&gt; 한병도 의원이 어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T07:01:00",
+            "related_members": [
+                "GOC54665",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "5TQ6306B",
+                "4019850M",
+                "H5476989",
+                "HSS7466Y",
+                "8BF5855P",
+                "7YC6702R",
+                "2385336L",
+                "3C23171A",
+                "QDU1100U"
+            ],
+            "title": "노영희 \"김경, PC 포맷 후 혐의 인정? 경찰과 얘기됐나 의심\"[한판승부]"
+        },
+        {
+            "_id": "696594b8887d07f7ba2fab53",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103346?sid=100",
+            "created_at": "2026-01-13T09:41:26.333000",
+            "description": "[앵커] 민주당 원내대표로 한병도 국회의원이 선출됐습니다. 최고위원에는 이성윤 의원이 당선됐는데, 전북 의원들의 여당 지도부 합류로 정치력 확대에 대한 기대가 커지고 있습니다. 이지현 기자입니다. [리포트] 전임... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456830&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T21:41:00",
+            "related_members": [
+                "8BF5855P",
+                "H5476989",
+                "N2P9317N",
+                "HSS7466Y"
+            ],
+            "title": "전북 정치권, 민주당 지도부 잇단 입성…“정치력 확대 기대”"
+        },
+        {
+            "_id": "696594b8887d07f7ba2fab54",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103191?sid=100",
+            "created_at": "2026-01-13T09:41:26.333000",
+            "description": "[앵커] 민주당 원내대표로 한병도 국회의원이 선출됐습니다. 최고위원에는 이성윤 의원이 당선됐는데, 전북 의원들의 여당 지도부 합류로 정치력 확대에 대한 기대가 커지고 있습니다. 이지현 기자입니다. [리포트] 전임... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456586&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T19:04:00",
+            "related_members": [
+                "8BF5855P",
+                "H5476989",
+                "N2P9317N",
+                "HSS7466Y"
+            ],
+            "title": "전북 정치권, 민주당 지도부 잇단 입성…“정치력 확대 기대”"
+        },
+        {
             "_id": "6964b541631fd17434995fdf",
             "link": "https://n.news.naver.com/mnews/article/056/0012102894?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "◇ 정길훈: 지난주에 초미의 관심을 끌었던 이재명 대통령과 광주·전남 시도지사, 지역구 국회의원들의 오찬... 한병도 의원이 결선 투표 끝에 선출됐죠? ◆ 오승용: 그렇습니다. 아마도 이번 지도부는 '친청계'가 책임을... ",
+            "description": "◇ 정길훈: 지난주에 초미의 관심을 끌었던 이재명 대통령과 광주·전남 시도지사, 지역구 국회의원들의 오찬... 그래서 일단 통합을 신속하게 추진하는 쪽으로 됐고 그러다 보니까 이제 주민투표, 주철현 의원이 그... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456295&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T11:32:00",
@@ -223,7 +281,7 @@
             "_id": "6964b541631fd17434995fe8",
             "link": "https://n.news.naver.com/mnews/article/448/0000582902?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "꼽히는 이성윤, 문정복 의원이 당선돼 정 대표의 입김이 더 세질 거란 분석이 나옵니다. 조덕현 기자입니다.... 22대 국회의원에 당선됐습니다. 한 원내대표는 문재인 정부에서는 정무수석을 지냈고, 이재명 대통령의... ",
+            "description": "한병도 의원이 원내대표 보궐선거 결선 투표에서 백혜련 의원을 꺾고 신임 원내대표 자리에 올랐습니다.... 22대 국회의원에 당선됐습니다. 한 원내대표는 문재인 정부에서는 정무수석을 지냈고, 이재명 대통령의 당대표... ",
             "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/12/2026011290013.html",
             "press": "조선일보",
             "pubDate": "2026-01-12T07:36:00",
@@ -481,81 +539,19 @@
                 "1WE5693J"
             ],
             "title": "김동연 지사 “도민 출퇴근 여유 1시간”…도시철도 예타 통과 총력"
-        },
-        {
-            "_id": "6964b54c631fd174349960de",
-            "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
-            "created_at": "2026-01-12T17:48:09.211000",
-            "description": "25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주·정성호·조정식... ",
-            "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
-            "press": "뉴스1",
-            "pubDate": "2026-01-09T15:47:00",
-            "related_members": [
-                "JG77046J",
-                "6I88973D",
-                "HXT76735",
-                "8O34202I",
-                "YM42715P",
-                "D6U6678O",
-                "88O1334C",
-                "GOC54665",
-                "HSS7466Y",
-                "W8L9421K",
-                "0R68099X",
-                "5765663F",
-                "ATB59635",
-                "9D939735",
-                "L5P27909",
-                "ZDR63255",
-                "W3U3344O",
-                "JSA8739I",
-                "URX8075K",
-                "W8W95421",
-                "YOG1280B",
-                "1WE5693J",
-                "BCQ55105",
-                "IN328264",
-                "V429892C"
-            ],
-            "title": "김동연 \"제2차 경기도 도시철도망 계획 12개 노선 신속 추진\""
-        },
-        {
-            "_id": "6964b54f631fd17434996120",
-            "link": "https://n.news.naver.com/mnews/article/421/0008703069?sid=100",
-            "created_at": "2026-01-12T17:48:12.656000",
-            "description": "8일 당 원내대표 보궐선거에 출마한 진성준·백혜련 의원과 법제사법위원회 소속 김용민(여당 간사)·박지원... 국회의원 제명의 경우 윤리심판원이 결정하더라도 최고위를 거쳐 의원총회에서 재적 과반의 찬성이 필요할... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6032612",
-            "press": "뉴스1",
-            "pubDate": "2026-01-08T11:41:00",
-            "related_members": [
-                "HSS7466Y",
-                "8BF5855P",
-                "3C23171A",
-                "8Q88373R",
-                "OFE45081"
-            ],
-            "title": "김병기 눈덩이 의혹, 거취 압박…12일 윤리심판원 결정 촉각"
-        },
-        {
-            "_id": "6964b547631fd17434996081",
-            "link": "https://n.news.naver.com/mnews/article/009/0005617318?sid=100",
-            "created_at": "2026-01-12T17:48:04.685000",
-            "description": "6일 오기형 민주당 의원은 국회에서 기자회견을 열고 대규모 소비자 피해를 구제하기 위해 개인정보 유출... 백혜련·박주민·전용기·이학영 민주당 의원이 관련 법안을 마련한 상태다. 오 의원은 “쿠팡이 오만한 이유는... ",
-            "originallink": "https://www.mk.co.kr/article/11924683",
-            "press": "매일경제",
-            "pubDate": "2026-01-06T16:20:00",
-            "related_members": [
-                "IUX1829H",
-                "OIA3741M",
-                "HSS7466Y",
-                "TJW93720",
-                "K5F2023J",
-                "6AU2417B"
-            ],
-            "title": "쿠팡 조준 나선 與…오기형 의원, 집단소송제 확대 법안 발의"
         }
     ],
     "recent_videos": [
+        {
+            "_id": "6960acc8631fd1743497d7d3",
+            "url": "https://www.youtube.com/watch?v=uwumiqT62Us",
+            "HG_NM": "백혜련",
+            "MONA_CD": "HSS7466Y",
+            "collected_at": "2026-01-13T09:46:30.523000",
+            "duration": 73.0,
+            "title": "흰 저고리·분홍 치마 한복 차림 나타난 백혜련...\"9월 정기 국회 첫날 모두 입자\"｜지금 이 뉴스",
+            "upload_date": null
+        },
         {
             "_id": "6960acc8631fd1743497d7d7",
             "url": "https://www.youtube.com/watch?v=_oNQDhn3eCk",
@@ -567,63 +563,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960acc8631fd1743497d7d8",
-            "url": "https://www.youtube.com/watch?v=rRgIE6qQWzw",
-            "HG_NM": "백혜련",
-            "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:45.217000",
-            "duration": 1027.0,
-            "title": "[다시보기] 민주 백혜련, 원내대표 출마 선언 \"당내 비위, 예외없이 무관용\"-1월 2일 (금) 풀영상 [이슈현장] / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acc8631fd1743497d7d3",
-            "url": "https://www.youtube.com/watch?v=uwumiqT62Us",
-            "HG_NM": "백혜련",
-            "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
-            "duration": 73.0,
-            "title": "흰 저고리·분홍 치마 한복 차림 나타난 백혜련...\"9월 정기 국회 첫날 모두 입자\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
             "_id": "6960acc8631fd1743497d7d6",
             "url": "https://www.youtube.com/watch?v=6FL-qIBeEi4",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
+            "collected_at": "2026-01-13T09:46:30.523000",
             "duration": 621.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 121회 백혜련 의원 더불어민주당",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acc8631fd1743497d7d4",
-            "url": "https://www.youtube.com/watch?v=8q7mIuSY0As",
-            "HG_NM": "백혜련",
-            "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
-            "duration": 159.0,
-            "title": "백혜련 '저는 '여성'국회의원 백혜련입니다!'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acc8631fd1743497d7d2",
-            "url": "https://www.youtube.com/watch?v=Hh7QTwdQ6gY",
-            "HG_NM": "백혜련",
-            "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:45.217000",
-            "duration": 1081.0,
-            "title": "[생중계] 백혜련 더불어민주당 의원, 원내대표 출마 선언 기자회견 (2026.01.02 오후)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acc8631fd1743497d7d0",
-            "url": "https://www.youtube.com/watch?v=myIJAvIPbJE",
-            "HG_NM": "백혜련",
-            "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
-            "duration": 287.0,
-            "title": "[현장영상] 백혜련 등장에 환호성 \"와~!\"…본회의서 한복 입고 나온 이유가 / JTBC News",
             "upload_date": null
         },
         {
@@ -631,7 +577,7 @@
             "url": "https://www.youtube.com/watch?v=03A9K8h8n1U",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
+            "collected_at": "2026-01-13T09:46:30.523000",
             "duration": 879.0,
             "title": "내란 국조특위 활동 마친 더불어민주당 백혜련 의원 | 그날그곳",
             "upload_date": null
@@ -641,9 +587,29 @@
             "url": "https://www.youtube.com/watch?v=r2XbW5NoLu4",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
+            "collected_at": "2026-01-13T09:46:30.523000",
             "duration": 1359.0,
             "title": "[대담한 만남] 백혜련 국회의원 편",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acc8631fd1743497d7d4",
+            "url": "https://www.youtube.com/watch?v=8q7mIuSY0As",
+            "HG_NM": "백혜련",
+            "MONA_CD": "HSS7466Y",
+            "collected_at": "2026-01-13T09:46:30.523000",
+            "duration": 159.0,
+            "title": "백혜련 '저는 '여성'국회의원 백혜련입니다!'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acc8631fd1743497d7d0",
+            "url": "https://www.youtube.com/watch?v=myIJAvIPbJE",
+            "HG_NM": "백혜련",
+            "MONA_CD": "HSS7466Y",
+            "collected_at": "2026-01-13T09:46:30.523000",
+            "duration": 287.0,
+            "title": "[현장영상] 백혜련 등장에 환호성 \"와~!\"…본회의서 한복 입고 나온 이유가 / JTBC News",
             "upload_date": null
         },
         {
@@ -651,11 +617,31 @@
             "url": "https://www.youtube.com/watch?v=eB4ALiheAjI",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-09T16:22:44.501000",
+            "collected_at": "2026-01-13T09:46:30.523000",
             "duration": 222.0,
             "title": "'패스트트랙 고발전' 백혜련·윤소하 의원 경찰 출석...자유한국당은 불출석 / YTN",
             "upload_date": null
+        },
+        {
+            "_id": "6960acc8631fd1743497d7d2",
+            "url": "https://www.youtube.com/watch?v=Hh7QTwdQ6gY",
+            "HG_NM": "백혜련",
+            "MONA_CD": "HSS7466Y",
+            "collected_at": "2026-01-13T09:46:30.523000",
+            "duration": 1081.0,
+            "title": "[생중계] 백혜련 더불어민주당 의원, 원내대표 출마 선언 기자회견 (2026.01.02 오후)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acc8631fd1743497d7d8",
+            "url": "https://www.youtube.com/watch?v=rRgIE6qQWzw",
+            "HG_NM": "백혜련",
+            "MONA_CD": "HSS7466Y",
+            "collected_at": "2026-01-13T09:46:31.206000",
+            "duration": 1027.0,
+            "title": "[다시보기] 민주 백혜련, 원내대표 출마 선언 \"당내 비위, 예외없이 무관용\"-1월 2일 (금) 풀영상 [이슈현장] / JTBC News",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:47.673297"
+    "exported_at": "2026-01-13T10:40:16.393296"
 }

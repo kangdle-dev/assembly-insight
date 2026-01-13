@@ -54,19 +54,19 @@
         "keywords": [
             "동수",
             "인천",
-            "김교흥",
-            "피해",
             "민주당",
+            "김교흥",
             "유동",
+            "피해",
+            "시장",
             "메가시티",
+            "얼굴",
+            "공개",
             "노인",
             "요양",
             "기관",
             "보험금",
-            "환수",
-            "세금",
-            "공개",
-            "얼굴"
+            "환수"
         ],
         "keyword_frequency": [
             {
@@ -75,26 +75,38 @@
             },
             {
                 "text": "인천",
-                "value": 8
+                "value": 11
+            },
+            {
+                "text": "민주당",
+                "value": 9
             },
             {
                 "text": "김교흥",
-                "value": 6
+                "value": 8
+            },
+            {
+                "text": "유동",
+                "value": 8
             },
             {
                 "text": "피해",
                 "value": 6
             },
             {
-                "text": "민주당",
-                "value": 6
-            },
-            {
-                "text": "유동",
+                "text": "시장",
                 "value": 5
             },
             {
                 "text": "메가시티",
+                "value": 4
+            },
+            {
+                "text": "얼굴",
+                "value": 4
+            },
+            {
+                "text": "공개",
                 "value": 4
             },
             {
@@ -116,43 +128,46 @@
             {
                 "text": "환수",
                 "value": 4
-            },
-            {
-                "text": "세금",
-                "value": 4
-            },
-            {
-                "text": "공개",
-                "value": 4
-            },
-            {
-                "text": "얼굴",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:52.775131",
+        "last_analyzed_at": "2026-01-13T10:40:21.629780",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
+                1,
                 1,
                 1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6965949e887d07f7ba2fab25",
+            "link": "https://n.news.naver.com/mnews/article/011/0004577866?sid=102",
+            "created_at": "2026-01-13T09:41:00.375000",
+            "description": "노동계 인사들은 성명서를 통해 김 의원에 대해 “3선 국회의원으로서 중앙 정치력을 검증받았고, 인천시... 민주당에서는 박찬대(연수갑)·유동수(계양갑) 의원 등 중진들과 박남춘 전 시장 등이 출마를 저울질하고 있어... ",
+            "originallink": "https://www.sedaily.com/NewsView/2K7AB8ILL9",
+            "press": "서울경제",
+            "pubDate": "2026-01-13T06:34:00",
+            "related_members": [
+                "X1K3667J",
+                "GX38539O",
+                "BT62420K"
+            ],
+            "title": "인천 노동계 1682명 “김교흥, 시장 출마하라” 촉구"
+        },
         {
             "_id": "6964b546631fd17434996068",
             "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
@@ -257,13 +272,63 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ad2e631fd1743497d954",
-            "url": "https://www.youtube.com/watch?v=UCPBA0rBY-3Q_zLn6GKTzLuQ",
+            "_id": "6960ad2e631fd1743497d95c",
+            "url": "https://www.youtube.com/watch?v=A62NjbjVH_U",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.226000",
-            "duration": null,
-            "title": "유동수TV",
+            "collected_at": "2026-01-13T09:48:12.320000",
+            "duration": 87.0,
+            "title": "‘옛 연인 살해·유기’ 유동수 얼굴 공개…피해 가족엔 “할말 없다” | 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "6965964e887d07f7ba2fad3e",
+            "url": "https://www.youtube.com/watch?v=wnvsHOxmmPA",
+            "HG_NM": "유동수",
+            "MONA_CD": "GX38539O",
+            "collected_at": "2026-01-13T09:48:11.634000",
+            "duration": 296.0,
+            "title": "유동수가 약속합니다! #더불어민주당 #계양구갑 #국회의원#22대총선 #정권심판",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2e631fd1743497d958",
+            "url": "https://www.youtube.com/watch?v=dtfGhf6FmS0",
+            "HG_NM": "유동수",
+            "MONA_CD": "GX38539O",
+            "collected_at": "2026-01-13T09:48:11.634000",
+            "duration": 272.0,
+            "title": "[23.12.12] 유동수의원, 부동산PF, 마냥 낙관말고 철저 대비해야",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2e631fd1743497d95b",
+            "url": "https://www.youtube.com/watch?v=AW-ZU93qu_k",
+            "HG_NM": "유동수",
+            "MONA_CD": "GX38539O",
+            "collected_at": "2026-01-13T09:48:12.320000",
+            "duration": 66.0,
+            "title": "얼굴 드러낸 유동수…여전히 혐의 부인[MBN 종합뉴스]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2e631fd1743497d959",
+            "url": "https://www.youtube.com/watch?v=_zf-h6yrMow",
+            "HG_NM": "유동수",
+            "MONA_CD": "GX38539O",
+            "collected_at": "2026-01-13T09:48:11.634000",
+            "duration": 143.0,
+            "title": "[23.12.5] 유동수의원, 내수 빙하기 시작, 성장잠재력 확충 위한 정책기조 전환 필요",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2e631fd1743497d957",
+            "url": "https://www.youtube.com/watch?v=vJY2HuqZK0g",
+            "HG_NM": "유동수",
+            "MONA_CD": "GX38539O",
+            "collected_at": "2026-01-13T09:48:11.634000",
+            "duration": 613.0,
+            "title": "인터뷰 릴레이 칭찬 242회 유동수 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -277,43 +342,23 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad2e631fd1743497d954",
+            "url": "https://www.youtube.com/watch?v=UCPBA0rBY-3Q_zLn6GKTzLuQ",
+            "HG_NM": "유동수",
+            "MONA_CD": "GX38539O",
+            "collected_at": "2026-01-13T09:48:11.634000",
+            "duration": null,
+            "title": "유동수TV",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad2e631fd1743497d956",
             "url": "https://www.youtube.com/watch?v=eF4OoDsAV-Q",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.226000",
+            "collected_at": "2026-01-13T09:48:11.634000",
             "duration": 355.0,
             "title": "뉴스타파 - '세금도둑' 국회의원 추적⑩유동수, 가짜 견적서로 세금 빼돌려",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2e631fd1743497d957",
-            "url": "https://www.youtube.com/watch?v=vJY2HuqZK0g",
-            "HG_NM": "유동수",
-            "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.226000",
-            "duration": 613.0,
-            "title": "인터뷰 릴레이 칭찬 242회 유동수 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2e631fd1743497d958",
-            "url": "https://www.youtube.com/watch?v=dtfGhf6FmS0",
-            "HG_NM": "유동수",
-            "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.226000",
-            "duration": 272.0,
-            "title": "[23.12.12] 유동수의원, 부동산PF, 마냥 낙관말고 철저 대비해야",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2e631fd1743497d959",
-            "url": "https://www.youtube.com/watch?v=_zf-h6yrMow",
-            "HG_NM": "유동수",
-            "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.226000",
-            "duration": 143.0,
-            "title": "[23.12.5] 유동수의원, 내수 빙하기 시작, 성장잠재력 확충 위한 정책기조 전환 필요",
             "upload_date": null
         },
         {
@@ -321,31 +366,11 @@
             "url": "https://www.youtube.com/watch?v=GDGisF-Dcvw",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.963000",
+            "collected_at": "2026-01-13T09:48:12.320000",
             "duration": 410.0,
             "title": "MBN 뉴스파이터-신상 공개된 유동수 \"피해자에게 할 말 없다\"",
             "upload_date": null
-        },
-        {
-            "_id": "6960ad2e631fd1743497d95b",
-            "url": "https://www.youtube.com/watch?v=AW-ZU93qu_k",
-            "HG_NM": "유동수",
-            "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.963000",
-            "duration": 66.0,
-            "title": "얼굴 드러낸 유동수…여전히 혐의 부인[MBN 종합뉴스]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2e631fd1743497d95c",
-            "url": "https://www.youtube.com/watch?v=A62NjbjVH_U",
-            "HG_NM": "유동수",
-            "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-09T16:24:27.963000",
-            "duration": 87.0,
-            "title": "‘옛 연인 살해·유기’ 유동수 얼굴 공개…피해 가족엔 “할말 없다” | 뉴스A",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:52.775131"
+    "exported_at": "2026-01-13T10:40:21.629780"
 }

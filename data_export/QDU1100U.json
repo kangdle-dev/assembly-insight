@@ -50,18 +50,18 @@
             "기자회견",
             "사격",
             "사건",
-            "국민",
+            "경찰",
             "선수",
-            "지난해",
-            "출신",
-            "체육회",
             "총기",
-            "이번"
+            "국민",
+            "이번",
+            "지난해",
+            "출신"
         ],
         "keyword_frequency": [
             {
                 "text": "실탄",
-                "value": 30
+                "value": 36
             },
             {
                 "text": "감독",
@@ -69,7 +69,7 @@
             },
             {
                 "text": "불법",
-                "value": 20
+                "value": 22
             },
             {
                 "text": "국가대표",
@@ -92,12 +92,24 @@
                 "value": 13
             },
             {
-                "text": "국민",
+                "text": "경찰",
                 "value": 12
             },
             {
                 "text": "선수",
                 "value": 12
+            },
+            {
+                "text": "총기",
+                "value": 12
+            },
+            {
+                "text": "국민",
+                "value": 11
+            },
+            {
+                "text": "이번",
+                "value": 10
             },
             {
                 "text": "지난해",
@@ -106,43 +118,57 @@
             {
                 "text": "출신",
                 "value": 10
-            },
-            {
-                "text": "체육회",
-                "value": 10
-            },
-            {
-                "text": "총기",
-                "value": 10
-            },
-            {
-                "text": "이번",
-                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:04.464728",
+        "last_analyzed_at": "2026-01-13T10:40:33.588138",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                9,
                 4,
                 0,
                 0,
                 1,
                 0,
-                2
+                2,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69659499887d07f7ba2fab16",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "◆ 곽우신&gt; 한병도 의원이 어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T07:01:00",
+            "related_members": [
+                "GOC54665",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "5TQ6306B",
+                "4019850M",
+                "H5476989",
+                "HSS7466Y",
+                "8BF5855P",
+                "7YC6702R",
+                "2385336L",
+                "3C23171A",
+                "QDU1100U"
+            ],
+            "title": "노영희 \"김경, PC 포맷 후 혐의 인정? 경찰과 얘기됐나 의심\"[한판승부]"
+        },
         {
             "_id": "6964b541631fd17434995fe6",
             "link": "https://n.news.naver.com/mnews/article/052/0002299241?sid=100",
@@ -448,61 +474,57 @@
                 "QDU1100U"
             ],
             "title": "“임신 중에도 괴롭힘 당했다”...이혜훈 후보자 갑질 논란 일파만파"
-        },
-        {
-            "_id": "6964b56c631fd17434996328",
-            "link": "https://n.news.naver.com/mnews/article/437/0000468735?sid=100",
-            "created_at": "2026-01-12T17:48:42.153000",
-            "description": "말은 '국회의원직만은 유지하겠다'는 비겁한 자기 변명에 불과하다\"고 지적했습니다. 조 대표는 \"국민의힘은... 신성범·안상훈·안철수·엄태영·우재준·유용원·이상휘·이성권·정연욱·조은희·진종오·최형두 의원이... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12275167?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2025-12-14T15:20:00",
-            "related_members": [
-                "8L52480G",
-                "A0P4646G",
-                "WXJ8352N",
-                "8348421R",
-                "QDU1100U",
-                "MQU41854",
-                "8XE7026P",
-                "KBK8836C",
-                "RMC1840P",
-                "YOG1280B",
-                "8UC4779G",
-                "PYA8594I"
-            ],
-            "title": "조국 \"불법계엄 사과 국힘 의원 25명, 새 보수정당 창당하라\""
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960ae17631fd1743497dcc4",
-            "url": "https://www.youtube.com/watch?v=UCi_zetLFfrpQMznWtegWRog",
+            "_id": "6965972d887d07f7ba2fae70",
+            "url": "https://www.youtube.com/watch?v=gF2AkF3xs0U",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-09T16:28:19.684000",
-            "duration": null,
-            "title": "진종오TV",
+            "collected_at": "2026-01-13T09:51:54.896000",
+            "duration": 127.0,
+            "title": "\"이재명 암살설 수사하다 경기용 실탄 대량 압수\"…진종오 \"APEC 앞둔 정부, 왜 밀실수사하냐\"｜지금 이 장면",
             "upload_date": null
         },
         {
-            "_id": "6960ae17631fd1743497dcc5",
-            "url": "https://www.youtube.com/watch?v=tbi47E6K_3g",
+            "_id": "6965972d887d07f7ba2fae71",
+            "url": "https://www.youtube.com/watch?v=QtwdT4m6RVc",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-09T16:28:19.684000",
-            "duration": 1201.0,
-            "title": "[인터뷰] 410 총선 당선인을 만나다! 국민의힘 진종오 국회의원 당선인",
+            "collected_at": "2026-01-13T09:51:55.602000",
+            "duration": 113.0,
+            "title": "'살상도 가능한 실탄' 시중에?…진종오 \"2만발 불법유통\" / JTBC 뉴스룸",
             "upload_date": null
         },
         {
-            "_id": "6960ae17631fd1743497dcc6",
-            "url": "https://www.youtube.com/watch?v=pFhAcje1PR4",
+            "_id": "6960ae17631fd1743497dcc8",
+            "url": "https://www.youtube.com/watch?v=AmCMu8CTlU8",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-09T16:28:19.684000",
-            "duration": 109.0,
-            "title": "(광배근 열일♡) 사신 진종오(Jin Jong oh)， 한 치의 오차 없는 클린샷↗ 아는 형님(Knowing bros) 189회",
+            "collected_at": "2026-01-13T09:51:55.602000",
+            "duration": 441.0,
+            "title": "진종오 \"경찰은 이재명에 어디까지 보고했나\" [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "6965972d887d07f7ba2fae6f",
+            "url": "https://www.youtube.com/watch?v=U3Ut95vVFR8",
+            "HG_NM": "진종오",
+            "MONA_CD": "QDU1100U",
+            "collected_at": "2026-01-13T09:51:54.896000",
+            "duration": 117.0,
+            "title": "진종오 “총기 100여 정·실탄 2만발 불법유통”…경찰 “수사중” / KBS  2025.09.23.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae17631fd1743497dcc9",
+            "url": "https://www.youtube.com/watch?v=uwnxDulpTEw",
+            "HG_NM": "진종오",
+            "MONA_CD": "QDU1100U",
+            "collected_at": "2026-01-09T16:28:20.543000",
+            "duration": 90.0,
+            "title": "\"의원직 포함 모든 것 걸겠다\".. '진종오 의혹제기'에 '초강수' #Shorts (MBC뉴스)",
             "upload_date": null
         },
         {
@@ -516,25 +538,45 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae17631fd1743497dcc8",
-            "url": "https://www.youtube.com/watch?v=AmCMu8CTlU8",
+            "_id": "6960ae17631fd1743497dcc4",
+            "url": "https://www.youtube.com/watch?v=UCi_zetLFfrpQMznWtegWRog",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-09T16:28:20.543000",
-            "duration": 441.0,
-            "title": "진종오 \"경찰은 이재명에 어디까지 보고했나\" [티조Clip]",
+            "collected_at": "2026-01-13T09:51:54.896000",
+            "duration": null,
+            "title": "진종오TV",
             "upload_date": null
         },
         {
-            "_id": "6960ae17631fd1743497dcc9",
-            "url": "https://www.youtube.com/watch?v=uwnxDulpTEw",
+            "_id": "6960ae17631fd1743497dcc6",
+            "url": "https://www.youtube.com/watch?v=pFhAcje1PR4",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-09T16:28:20.543000",
-            "duration": 90.0,
-            "title": "\"의원직 포함 모든 것 걸겠다\".. '진종오 의혹제기'에 '초강수' #Shorts (MBC뉴스)",
+            "collected_at": "2026-01-09T16:28:19.684000",
+            "duration": 109.0,
+            "title": "(광배근 열일♡) 사신 진종오(Jin Jong oh)， 한 치의 오차 없는 클린샷↗ 아는 형님(Knowing bros) 189회",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae17631fd1743497dcc5",
+            "url": "https://www.youtube.com/watch?v=tbi47E6K_3g",
+            "HG_NM": "진종오",
+            "MONA_CD": "QDU1100U",
+            "collected_at": "2026-01-13T09:51:54.896000",
+            "duration": 1201.0,
+            "title": "[인터뷰] 410 총선 당선인을 만나다! 국민의힘 진종오 국회의원 당선인",
+            "upload_date": null
+        },
+        {
+            "_id": "6965972d887d07f7ba2fae6e",
+            "url": "https://www.youtube.com/watch?v=rVgijDuW2i0",
+            "HG_NM": "진종오",
+            "MONA_CD": "QDU1100U",
+            "collected_at": "2026-01-13T09:51:54.896000",
+            "duration": 127.0,
+            "title": "진종오 \"민주당, 종교단체 신도 3천 명 활용 정황\"…정청래 \"윤리감찰단 조사 지시\"｜지금 이 장면",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:04.464728"
+    "exported_at": "2026-01-13T10:40:33.588138"
 }

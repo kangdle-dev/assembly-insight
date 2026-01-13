@@ -53,10 +53,10 @@
             "최고",
             "위원",
             "베네수엘라",
-            "보상",
             "출사표",
             "역할",
-            "출마"
+            "출마",
+            "참석"
         ],
         "keyword_frequency": [
             {
@@ -104,10 +104,6 @@
                 "value": 6
             },
             {
-                "text": "보상",
-                "value": 6
-            },
-            {
                 "text": "출사표",
                 "value": 6
             },
@@ -118,27 +114,31 @@
             {
                 "text": "출마",
                 "value": 6
+            },
+            {
+                "text": "참석",
+                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:56.525470",
+        "last_analyzed_at": "2026-01-13T10:40:25.389980",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
+                1,
+                0,
+                0,
+                0,
+                1,
                 2,
-                1,
-                0,
-                0,
-                0,
-                1,
-                2
+                0
             ]
         }
     },
@@ -402,7 +402,7 @@
             "_id": "6964b547631fd17434996085",
             "link": "https://n.news.naver.com/mnews/article/016/0002578972?sid=100",
             "created_at": "2026-01-12T17:48:04.685000",
-            "description": "로저스 대표는 ‘쿠폰을 통한 보상이 미국 집단소송 공정화법에 저촉된다’는 김우영 민주당 의원의... 이용우 민주당 의원도 “국회 밖에서, 대한민국 밖에서 서면으로 성명서 하나 내고 말도 안 되는 보상 방안이랍시고... ",
+            "description": "이용우 민주당 의원도 “국회 밖에서, 대한민국 밖에서 서면으로 성명서 하나 내고 말도 안 되는 보상... 한편 유재성 경찰청장 직무대행은 김남근 민주당 의원의 ‘쿠팡이 3300만개의 정보를 저장하는데 개인이 누구인지를... ",
             "originallink": "https://biz.heraldcorp.com/article/10646040?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2025-12-30T14:18:00",
@@ -569,43 +569,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad79631fd1743497da72",
-            "url": "https://www.youtube.com/watch?v=XDFmxFu9fNQ",
+            "_id": "6960ad79631fd1743497da74",
+            "url": "https://www.youtube.com/watch?v=iRuOiOB4D_4",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:42.703000",
-            "duration": 562.0,
-            "title": "[모닝콜] 이용우 \"기존 검찰은 왜 제대로 수사 안 했나\" (2025.08.13/뉴스투데이/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad79631fd1743497da6d",
-            "url": "https://www.youtube.com/watch?v=KFwrWZri4fQ",
-            "HG_NM": "이용우",
-            "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
-            "duration": 1220.0,
-            "title": "[국회의원 이용우] 2021 정무위원회 국정감사 4일차 - 금융감독원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad79631fd1743497da70",
-            "url": "https://www.youtube.com/watch?v=NmZ6ghpwZQI",
-            "HG_NM": "이용우",
-            "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
-            "duration": 96.0,
-            "title": "[2020 정무위원회 국정감사] 이용우 의원, 카카오페이·토스 등 대출비교서비스 개인정보 엄격하고 신중히 다뤄야",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad79631fd1743497da6e",
-            "url": "https://www.youtube.com/watch?v=J8OutOKDJgY",
-            "HG_NM": "이용우",
-            "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
-            "duration": 1063.0,
-            "title": "[국회의원 이용우] 2021 정무위원회 국정감사 3일차 - 금융위원회",
+            "collected_at": "2026-01-13T09:49:24.354000",
+            "duration": 1468.0,
+            "title": "| 이용우 | \"최소한의 양식 기대...국민에게 사과해야\" [김준일의 뉴스공감]",
             "upload_date": null
         },
         {
@@ -619,11 +589,41 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad79631fd1743497da70",
+            "url": "https://www.youtube.com/watch?v=NmZ6ghpwZQI",
+            "HG_NM": "이용우",
+            "MONA_CD": "6K79158C",
+            "collected_at": "2026-01-09T16:25:41.997000",
+            "duration": 96.0,
+            "title": "[2020 정무위원회 국정감사] 이용우 의원, 카카오페이·토스 등 대출비교서비스 개인정보 엄격하고 신중히 다뤄야",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad79631fd1743497da6f",
+            "url": "https://www.youtube.com/watch?v=xsDcGk1dzoU",
+            "HG_NM": "이용우",
+            "MONA_CD": "6K79158C",
+            "collected_at": "2026-01-09T16:25:41.997000",
+            "duration": 1128.0,
+            "title": "[국회의원 이용우] 2021 정무위원회 국정감사 7일차 - 산업은행",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad79631fd1743497da6d",
+            "url": "https://www.youtube.com/watch?v=KFwrWZri4fQ",
+            "HG_NM": "이용우",
+            "MONA_CD": "6K79158C",
+            "collected_at": "2026-01-09T16:25:41.997000",
+            "duration": 1220.0,
+            "title": "[국회의원 이용우] 2021 정무위원회 국정감사 4일차 - 금융감독원",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad79631fd1743497da6a",
             "url": "https://www.youtube.com/watch?v=TKNQQuCJQtE",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
+            "collected_at": "2026-01-13T09:49:23.507000",
             "duration": 578.0,
             "title": "[NATV] 300인의 희망인터뷰, 국회의원 이용우 편",
             "upload_date": null
@@ -649,15 +649,15 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad79631fd1743497da6f",
-            "url": "https://www.youtube.com/watch?v=xsDcGk1dzoU",
+            "_id": "6960ad79631fd1743497da6e",
+            "url": "https://www.youtube.com/watch?v=J8OutOKDJgY",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
             "collected_at": "2026-01-09T16:25:41.997000",
-            "duration": 1128.0,
-            "title": "[국회의원 이용우] 2021 정무위원회 국정감사 7일차 - 산업은행",
+            "duration": 1063.0,
+            "title": "[국회의원 이용우] 2021 정무위원회 국정감사 3일차 - 금융위원회",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:56.525470"
+    "exported_at": "2026-01-13T10:40:25.389980"
 }

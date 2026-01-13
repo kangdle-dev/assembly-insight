@@ -42,8 +42,8 @@
     },
     "analysis": {
         "keywords": [
-            "위원",
             "최고",
+            "위원",
             "이건",
             "민주당",
             "정청래",
@@ -52,24 +52,24 @@
             "선출",
             "신임",
             "정복",
+            "투표",
+            "보궐선거",
             "대표",
             "도부",
-            "보궐선거",
-            "성윤문",
-            "민주"
+            "성윤문"
         ],
         "keyword_frequency": [
             {
-                "text": "위원",
-                "value": 45
+                "text": "최고",
+                "value": 42
             },
             {
-                "text": "최고",
-                "value": 44
+                "text": "위원",
+                "value": 42
             },
             {
                 "text": "이건",
-                "value": 35
+                "value": 33
             },
             {
                 "text": "민주당",
@@ -81,23 +81,31 @@
             },
             {
                 "text": "원내대표",
-                "value": 17
+                "value": 19
             },
             {
                 "text": "한병도",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "선출",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "신임",
-                "value": 13
+                "value": 14
             },
             {
                 "text": "정복",
                 "value": 12
+            },
+            {
+                "text": "투표",
+                "value": 11
+            },
+            {
+                "text": "보궐선거",
+                "value": 11
             },
             {
                 "text": "대표",
@@ -108,46 +116,64 @@
                 "value": 10
             },
             {
-                "text": "보궐선거",
-                "value": 10
-            },
-            {
                 "text": "성윤문",
                 "value": 10
-            },
-            {
-                "text": "민주",
-                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:54.639267",
+        "last_analyzed_at": "2026-01-13T10:40:23.512281",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
                 0,
                 0,
-                1,
                 0,
                 0,
                 10,
-                9
+                9,
+                1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "69659499887d07f7ba2fab16",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
+            "created_at": "2026-01-13T09:40:55.415000",
+            "description": "◆ 곽우신&gt; 한병도 의원이 어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T07:01:00",
+            "related_members": [
+                "GOC54665",
+                "N2P9317N",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "5TQ6306B",
+                "4019850M",
+                "H5476989",
+                "HSS7466Y",
+                "8BF5855P",
+                "7YC6702R",
+                "2385336L",
+                "3C23171A",
+                "QDU1100U"
+            ],
+            "title": "노영희 \"김경, PC 포맷 후 혐의 인정? 경찰과 얘기됐나 의심\"[한판승부]"
+        },
+        {
             "_id": "6964b542631fd17434995ffc",
             "link": "https://n.news.naver.com/mnews/article/437/0000473082?sid=100",
             "created_at": "2026-01-12T17:47:59.436000",
-            "description": "한병도 의원 되셨죠? 어떻게 훌륭한 선택이라고 보십니까? 민주당의? ▶장철민 저희 의원들도 그렇고... 왜냐하면 중앙위원들도 지금 현역 국회의원들도 그렇고 거의 서울에 없거든요. 여의도에 거의 없는 시기고 당원들도... ",
+            "description": "이런 사람들이 어떻게 국회의원을 하는 건지 난 모르겠어요, 진짜. 근데 이거에 대해서는 당에서 역시 또 약간 얘기하기를 주저하는 것 같더라고요. 민주당에서 ▶장철민 이제 아무래도 이제 그냥 단순 장관... ",
             "originallink": "https://news.jtbc.co.kr/article/NB12279584?influxDiv=NAVER",
             "press": "JTBC",
             "pubDate": "2026-01-12T16:24:00",
@@ -223,7 +249,7 @@
             "_id": "6964b541631fd17434995fe4",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "것 - 장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
+            "description": "장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-12T09:30:00",
@@ -269,7 +295,7 @@
             "_id": "6964b541631fd17434995fe7",
             "link": "https://n.news.naver.com/mnews/article/052/0002299268?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "것 - 장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
+            "description": "장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601120807438340",
             "press": "YTN",
             "pubDate": "2026-01-12T08:07:00",
@@ -556,24 +582,6 @@
                 "GOC54665"
             ],
             "title": "민주당 신임 최고위원에 강득구·이성윤·문정복 선출…이건태 낙선"
-        },
-        {
-            "_id": "6964b55b631fd17434996213",
-            "link": "https://n.news.naver.com/mnews/article/003/0013700333?sid=102",
-            "created_at": "2026-01-12T17:48:24.859000",
-            "description": "이 의원은 이날 오후 지역 국회의원 등과 대전시의회서 기자회견을 열고 \"윤석열의 정치보복으로 자행된... 동구) 의원과 후보군으로 분류되는 박범계(대전 서구을) 의원이 함께 했다. 회견문엔 박용갑(대전 중구)·황정아... ",
-            "originallink": "https://www.newsis.com/view/NISX20260108_0003470001",
-            "press": "뉴시스",
-            "pubDate": "2026-01-08T15:54:00",
-            "related_members": [
-                "T6A6557F",
-                "7R156073",
-                "7YC6702R",
-                "1JI2689F",
-                "2NV6751W",
-                "CIZ8557P"
-            ],
-            "title": "민주 최고위원 후보 이건태 \"정치검찰, 李공소취소해야\""
         }
     ],
     "recent_videos": [
@@ -582,7 +590,7 @@
             "url": "https://www.youtube.com/watch?v=MarWylP_JdM",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-09T16:25:06.545000",
+            "collected_at": "2026-01-13T09:48:49.908000",
             "duration": 1130.0,
             "title": "[뉴스하이킥] 최고위원 출마 '친명' 이건태의 출사표 그리고 명-청 갈등과 해법 - 이건태, MBC 251208 방송",
             "upload_date": null
@@ -592,29 +600,9 @@
             "url": "https://www.youtube.com/watch?v=3PP5XNMzDWs",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-09T16:25:06.545000",
+            "collected_at": "2026-01-13T09:48:49.908000",
             "duration": 109.0,
             "title": "이건태, 친명 세 과시…정청래 겨냥 “엇박자” / 채널A / 뉴스A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad55631fd1743497d9f4",
-            "url": "https://www.youtube.com/watch?v=7mOFu-VywVQ",
-            "HG_NM": "이건태",
-            "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-09T16:25:05.813000",
-            "duration": 336.0,
-            "title": "[국회의원 이건태] 서희건설 ‘알박기’ 실태  조합원 피해는 누가 책임지나",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad55631fd1743497d9f7",
-            "url": "https://www.youtube.com/watch?v=G6hC36vkM30",
-            "HG_NM": "이건태",
-            "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-09T16:25:06.545000",
-            "duration": 60.0,
-            "title": "이건태 의원, \"내란 사태 책임자 한덕수  구속 기각…국민 실망 커져\" - 뉴스토마토 뉴스인사이다(25.09.02.)",
             "upload_date": null
         },
         {
@@ -628,13 +616,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad55631fd1743497d9f3",
-            "url": "https://www.youtube.com/watch?v=h3rpj31HmCY",
+            "_id": "6960ad55631fd1743497d9f7",
+            "url": "https://www.youtube.com/watch?v=G6hC36vkM30",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-09T16:25:05.813000",
-            "duration": 69.0,
-            "title": "이건태 의원, 정치보복 이재명 대통령 사건 / 공소취소·국정조사, 즉각 추진! - JTBC 장르만 여의도(26.1.7.)",
+            "collected_at": "2026-01-09T16:25:06.545000",
+            "duration": 60.0,
+            "title": "이건태 의원, \"내란 사태 책임자 한덕수  구속 기각…국민 실망 커져\" - 뉴스토마토 뉴스인사이다(25.09.02.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad55631fd1743497d9f2",
+            "url": "https://www.youtube.com/watch?v=qOdZ3ZFM6k0",
+            "HG_NM": "이건태",
+            "MONA_CD": "7YC6702R",
+            "collected_at": "2026-01-13T09:48:49.908000",
+            "duration": 1341.0,
+            "title": "[생중계] 이건태 더불어민주당 의원, 최고위원 출마 선언 기자회견 (2025.12.10 오전)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad55631fd1743497d9f4",
+            "url": "https://www.youtube.com/watch?v=7mOFu-VywVQ",
+            "HG_NM": "이건태",
+            "MONA_CD": "7YC6702R",
+            "collected_at": "2026-01-13T09:48:49.147000",
+            "duration": 336.0,
+            "title": "[국회의원 이건태] 서희건설 ‘알박기’ 실태  조합원 피해는 누가 책임지나",
             "upload_date": null
         },
         {
@@ -652,19 +660,19 @@
             "url": "https://www.youtube.com/watch?v=UCoY-L8SXrFL3ALVNAWjaCOg",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-09T16:25:05.813000",
+            "collected_at": "2026-01-13T09:48:49.147000",
             "duration": null,
             "title": "이건태TV",
             "upload_date": null
         },
         {
-            "_id": "6960ad55631fd1743497d9f2",
-            "url": "https://www.youtube.com/watch?v=qOdZ3ZFM6k0",
+            "_id": "6960ad55631fd1743497d9f3",
+            "url": "https://www.youtube.com/watch?v=h3rpj31HmCY",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
             "collected_at": "2026-01-09T16:25:05.813000",
-            "duration": 1341.0,
-            "title": "[생중계] 이건태 더불어민주당 의원, 최고위원 출마 선언 기자회견 (2025.12.10 오전)",
+            "duration": 69.0,
+            "title": "이건태 의원, 정치보복 이재명 대통령 사건 / 공소취소·국정조사, 즉각 추진! - JTBC 장르만 여의도(26.1.7.)",
             "upload_date": null
         },
         {
@@ -678,5 +686,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:54.639267"
+    "exported_at": "2026-01-13T10:40:23.512281"
 }

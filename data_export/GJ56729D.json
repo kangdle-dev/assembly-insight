@@ -52,16 +52,16 @@
             "지방선거",
             "야담",
             "아파트",
+            "사회",
             "재초",
+            "경제",
             "베네수엘라",
             "여론조사",
             "도지사",
             "접전",
             "충남도지사",
             "서민",
-            "황희",
-            "규제",
-            "사회"
+            "황희"
         ],
         "keyword_frequency": [
             {
@@ -85,7 +85,15 @@
                 "value": 8
             },
             {
+                "text": "사회",
+                "value": 7
+            },
+            {
                 "text": "재초",
+                "value": 6
+            },
+            {
+                "text": "경제",
                 "value": 6
             },
             {
@@ -115,32 +123,24 @@
             {
                 "text": "황희",
                 "value": 5
-            },
-            {
-                "text": "규제",
-                "value": 5
-            },
-            {
-                "text": "사회",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:47.793372",
+        "last_analyzed_at": "2026-01-13T10:40:16.513440",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                7,
                 0,
                 0,
                 3,
+                0,
                 0,
                 0,
                 0
@@ -180,7 +180,7 @@
             "_id": "6964b545631fd1743499605c",
             "link": "https://futurechosun.com/?p=141791",
             "created_at": "2026-01-12T17:48:02.916000",
-            "description": "등 국회와 지방정부, 사회연대경제 현장을 대표하는 인사들이 참석했다. 기자회견을 주관한 최혁진 무소속 의원은 “윤석열 정부 시기와 내란 사태를 거치며 양극화와 불평등, 지역 소멸과 공동체 붕괴가 구조적 위기... ",
+            "description": "기자회견 이후 국회의원회관에서 열린 현장 간담회에는 김영배·권향엽·송기헌 의원과 사회연대경제전국회의 소속 회원 등 40여 명이 참석해 현장의 어려움과 제도 개선 과제를 공유했다. 간담회에서는 기본법의 조속한... ",
             "originallink": "https://futurechosun.com/?p=141791",
             "press": "조선일보",
             "pubDate": "2026-01-09T08:10:00",
@@ -479,11 +479,81 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960acca631fd1743497d7e1",
+            "url": "https://www.youtube.com/watch?v=Cb8gBh-8V34",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-09T16:22:47.467000",
+            "duration": 136.0,
+            "title": "“15억이면 서민 아파트”…복기왕 막말 파문 / 채널A / 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "696595eb887d07f7ba2face4",
+            "url": "https://www.youtube.com/watch?v=vvXQm-ZHQv4",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-13T09:46:33.179000",
+            "duration": 162.0,
+            "title": "복구는 복기왕! #복구왕 #복기왕 #사회적경제 #뉴스공장 #겸공",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7dc",
+            "url": "https://www.youtube.com/watch?v=04mlypfMo2U",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-13T09:46:33.857000",
+            "duration": 1624.0,
+            "title": "[LIVE 생생뉴스] 정치와 세상을 잇는 시간, 정치잇수 - 복기왕 더불어민주당 의원 (2025년 10월 22일 수요일)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7e0",
+            "url": "https://www.youtube.com/watch?v=8GntBzXaamk",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-09T16:22:46.788000",
+            "duration": 560.0,
+            "title": "민주당 복기왕 의원1 11 2 합,전국지역공동체와 도시재생 사회적경제 마을주민 이재명 대선 후보 지지선언 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7df",
+            "url": "https://www.youtube.com/watch?v=Win-w726MJY",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-09T16:22:46.788000",
+            "duration": 292.0,
+            "title": "[0412_복기왕이 간다] 사전투표에 뜨겁게 참여해주신 시민 여러분 감사합니다!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7de",
+            "url": "https://www.youtube.com/watch?v=8DuL4ujqxng",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-13T09:46:33.179000",
+            "duration": 1076.0,
+            "title": "[여담야담] 복기왕 \"김병기, 선당후사 필요…탈당 후 소명한 뒤 복귀해야\" / SBS / 편상욱의 뉴스브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7dd",
+            "url": "https://www.youtube.com/watch?v=mRzB-O5fSEQ",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-09T16:22:46.788000",
+            "duration": 281.0,
+            "title": "복기왕 국회의원후보 TJB 방송연설",
+            "upload_date": null
+        },
+        {
             "_id": "6960acca631fd1743497d7da",
             "url": "https://www.youtube.com/watch?v=UCUCSAJq6cBljLC3bYjUIQSw",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:46.788000",
+            "collected_at": "2026-01-13T09:46:33.179000",
             "duration": null,
             "title": "복기왕TV",
             "upload_date": null
@@ -499,66 +569,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960acca631fd1743497d7dc",
-            "url": "https://www.youtube.com/watch?v=04mlypfMo2U",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:47.467000",
-            "duration": 1624.0,
-            "title": "[LIVE 생생뉴스] 정치와 세상을 잇는 시간, 정치잇수 - 복기왕 더불어민주당 의원 (2025년 10월 22일 수요일)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acca631fd1743497d7dd",
-            "url": "https://www.youtube.com/watch?v=mRzB-O5fSEQ",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:46.788000",
-            "duration": 281.0,
-            "title": "복기왕 국회의원후보 TJB 방송연설",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acca631fd1743497d7de",
-            "url": "https://www.youtube.com/watch?v=8DuL4ujqxng",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:46.788000",
-            "duration": 1076.0,
-            "title": "[여담야담] 복기왕 \"김병기, 선당후사 필요…탈당 후 소명한 뒤 복귀해야\" / SBS / 편상욱의 뉴스브리핑",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acca631fd1743497d7df",
-            "url": "https://www.youtube.com/watch?v=Win-w726MJY",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:46.788000",
-            "duration": 292.0,
-            "title": "[0412_복기왕이 간다] 사전투표에 뜨겁게 참여해주신 시민 여러분 감사합니다!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acca631fd1743497d7e0",
-            "url": "https://www.youtube.com/watch?v=8GntBzXaamk",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:46.788000",
-            "duration": 560.0,
-            "title": "민주당 복기왕 의원1 11 2 합,전국지역공동체와 도시재생 사회적경제 마을주민 이재명 대선 후보 지지선언 기자회견",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acca631fd1743497d7e1",
-            "url": "https://www.youtube.com/watch?v=Cb8gBh-8V34",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:47.467000",
-            "duration": 136.0,
-            "title": "“15억이면 서민 아파트”…복기왕 막말 파문 / 채널A / 뉴스A",
-            "upload_date": null
-        },
-        {
             "_id": "6960acca631fd1743497d7e2",
             "url": "https://www.youtube.com/watch?v=kOwQcD0TxYk",
             "HG_NM": "복기왕",
@@ -569,5 +579,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:47.793372"
+    "exported_at": "2026-01-13T10:40:16.513440"
 }

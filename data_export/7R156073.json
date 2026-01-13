@@ -69,9 +69,9 @@
             "행정",
             "교육",
             "자치",
+            "박정현",
             "법관",
-            "지역",
-            "취소"
+            "지역"
         ],
         "keyword_frequency": [
             {
@@ -123,41 +123,54 @@
                 "value": 6
             },
             {
+                "text": "박정현",
+                "value": 6
+            },
+            {
                 "text": "법관",
                 "value": 5
             },
             {
                 "text": "지역",
                 "value": 5
-            },
-            {
-                "text": "취소",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:43.751407",
+        "last_analyzed_at": "2026-01-13T10:40:12.433613",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 2,
                 5,
                 0,
                 0,
+                1,
                 1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594b3887d07f7ba2fab4a",
+            "link": "https://n.news.naver.com/mnews/article/020/0003688719?sid=101",
+            "created_at": "2026-01-13T09:41:21.224000",
+            "description": "이 때문에 작년 10월 국회 국정감사에서는 넥스트레이드가 기술을 탈취했다는 박범계 의원의 질타가 있었다. 1월 7일 증권선물위원회 심의에서 한국거래소와 넥스트레이드가 선정되고 루센트블록은 탈락한 것으로... ",
+            "originallink": "https://www.donga.com/news/Economy/article/all/20260112/133141327/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-12T18:34:00",
+            "related_members": [
+                "7R156073"
+            ],
+            "title": "루센트블록이 쏘아올린 혁신금융의 기로[스타트업 이슈 돋보기]"
+        },
         {
             "_id": "6964b55b631fd1743499620f",
             "link": "https://n.news.naver.com/mnews/article/028/0002785748?sid=102",
@@ -192,7 +205,7 @@
             "_id": "6964b55b631fd17434996211",
             "link": "https://n.news.naver.com/mnews/article/056/0012101384?sid=102",
             "created_at": "2026-01-12T17:48:24.859000",
-            "description": "이달 안에 대전교육청과 함께 교육부와 국회를 찾아 논의하고, 국회의원과 교원, 학부모 등이 참여하는... 박범계 의원은 교육 자치를 고려해 교육감 2명 체제를 유지해야 한다는 입장인 반면, 박용갑·황명선·장철민 의원은... ",
+            "description": "이달 안에 대전교육청과 함께 교육부와 국회를 찾아 논의하고, 국회의원과 교원, 학부모 등이 참여하는... 박정현·조승래·박범계 의원은 교육 자치를 고려해 교육감 2명 체제를 유지해야 한다는 입장인 반면, 박용갑... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454137&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-08T21:37:00",
@@ -363,36 +376,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac7c631fd1743497d6ad",
-            "url": "https://www.youtube.com/watch?v=hwwi9OUm0qo",
-            "HG_NM": "박범계",
-            "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:29.802000",
-            "duration": 340.0,
-            "title": "‘전직 법무장관’ 박범계·한동훈, 공개토론 놓고 설전 / 채널A / 뉴스A 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac7c631fd1743497d6ae",
-            "url": "https://www.youtube.com/watch?v=-6Hinf_1EzM",
-            "HG_NM": "박범계",
-            "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:29.802000",
-            "duration": 114.0,
-            "title": "검찰, '패스트트랙 충돌' 박범계·박주민 벌금형 구형 / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac7c631fd1743497d6a9",
-            "url": "https://www.youtube.com/watch?v=1xaKbAzAoks",
-            "HG_NM": "박범계",
-            "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:28.918000",
-            "duration": 251.0,
-            "title": "대한민국 민주당 국회의원, 박범계는 누구인가?! 박범계에 대해 알아보자 [인물백과사전#12]",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac7c631fd1743497d6ac",
             "url": "https://www.youtube.com/watch?v=5BGTHjc2Go8",
             "HG_NM": "박범계",
@@ -403,13 +386,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6aa",
-            "url": "https://www.youtube.com/watch?v=2UFm6e-Yw1E",
+            "_id": "6960ac7c631fd1743497d6ae",
+            "url": "https://www.youtube.com/watch?v=-6Hinf_1EzM",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:28.918000",
-            "duration": 166.0,
-            "title": "'민주당 패스트트랙' 박범계·박주민 벌금형 구형 / YTN",
+            "collected_at": "2026-01-13T09:45:22.765000",
+            "duration": 114.0,
+            "title": "검찰, '패스트트랙 충돌' 박범계·박주민 벌금형 구형 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -417,29 +400,29 @@
             "url": "https://www.youtube.com/watch?v=SDsc72ofVCY",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:28.918000",
+            "collected_at": "2026-01-13T09:45:22.211000",
             "duration": 1764.0,
             "title": "인터뷰스튜디오담백 (1회) - 국회의원 박범계 / KBS대전 20181009 방송",
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6a6",
-            "url": "https://www.youtube.com/watch?v=RMAlpnpLSDs",
+            "_id": "6960ac7c631fd1743497d6ad",
+            "url": "https://www.youtube.com/watch?v=hwwi9OUm0qo",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:28.918000",
-            "duration": 274.0,
-            "title": "SNL 코리아 시즌3 | 하이라이트 | 주기자가 간다 | 더불어민주당 박범계 의원 | 쿠팡플레이 | 쿠팡",
+            "collected_at": "2026-01-13T09:45:22.765000",
+            "duration": 340.0,
+            "title": "‘전직 법무장관’ 박범계·한동훈, 공개토론 놓고 설전 / 채널A / 뉴스A 라이브",
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6a5",
-            "url": "https://www.youtube.com/watch?v=-YNO4X4dgc0",
+            "_id": "6960ac7c631fd1743497d6ab",
+            "url": "https://www.youtube.com/watch?v=glWDPbHSQJ0",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:28.918000",
-            "duration": 186.0,
-            "title": "'민주당 패스트트랙' 박범계 벌금 400만 원 구형 / YTN",
+            "collected_at": "2026-01-09T16:21:29.802000",
+            "duration": 919.0,
+            "title": "[속보] '패스트트랙 충돌' 박범계 벌금 400만원·박주민 300만원 구형/2025년 11월 28일(금)/KBS",
             "upload_date": null
         },
         {
@@ -453,15 +436,45 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6ab",
-            "url": "https://www.youtube.com/watch?v=glWDPbHSQJ0",
+            "_id": "6960ac7c631fd1743497d6a9",
+            "url": "https://www.youtube.com/watch?v=1xaKbAzAoks",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-09T16:21:29.802000",
-            "duration": 919.0,
-            "title": "[속보] '패스트트랙 충돌' 박범계 벌금 400만원·박주민 300만원 구형/2025년 11월 28일(금)/KBS",
+            "collected_at": "2026-01-09T16:21:28.918000",
+            "duration": 251.0,
+            "title": "대한민국 민주당 국회의원, 박범계는 누구인가?! 박범계에 대해 알아보자 [인물백과사전#12]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac7c631fd1743497d6a5",
+            "url": "https://www.youtube.com/watch?v=-YNO4X4dgc0",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-13T09:45:22.211000",
+            "duration": 186.0,
+            "title": "'민주당 패스트트랙' 박범계 벌금 400만 원 구형 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac7c631fd1743497d6a6",
+            "url": "https://www.youtube.com/watch?v=RMAlpnpLSDs",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-13T09:45:22.211000",
+            "duration": 274.0,
+            "title": "SNL 코리아 시즌3 | 하이라이트 | 주기자가 간다 | 더불어민주당 박범계 의원 | 쿠팡플레이 | 쿠팡",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac7c631fd1743497d6aa",
+            "url": "https://www.youtube.com/watch?v=2UFm6e-Yw1E",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-13T09:45:22.211000",
+            "duration": 166.0,
+            "title": "'민주당 패스트트랙' 박범계·박주민 벌금형 구형 / YTN",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:43.751407"
+    "exported_at": "2026-01-13T10:40:12.433613"
 }

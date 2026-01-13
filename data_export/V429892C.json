@@ -64,40 +64,64 @@
         "keywords": [
             "장관",
             "법무부",
-            "고발",
-            "법무",
             "국민",
+            "고발",
+            "개혁",
+            "법무",
+            "검찰",
+            "민주당",
+            "공개",
+            "검사",
+            "의견",
             "생중계",
             "사퇴",
-            "개혁",
             "공청회",
-            "쿠팡",
-            "중국인",
-            "피의자",
-            "특검",
-            "사건",
-            "필리버스터"
+            "법안"
         ],
         "keyword_frequency": [
             {
                 "text": "장관",
-                "value": 20
+                "value": 22
             },
             {
                 "text": "법무부",
-                "value": 9
+                "value": 12
+            },
+            {
+                "text": "국민",
+                "value": 6
             },
             {
                 "text": "고발",
                 "value": 6
             },
             {
+                "text": "개혁",
+                "value": 5
+            },
+            {
                 "text": "법무",
                 "value": 5
             },
             {
-                "text": "국민",
-                "value": 5
+                "text": "검찰",
+                "value": 4
+            },
+            {
+                "text": "민주당",
+                "value": 4
+            },
+            {
+                "text": "공개",
+                "value": 4
+            },
+            {
+                "text": "검사",
+                "value": 4
+            },
+            {
+                "text": "의견",
+                "value": 4
             },
             {
                 "text": "생중계",
@@ -108,61 +132,66 @@
                 "value": 4
             },
             {
-                "text": "개혁",
-                "value": 4
-            },
-            {
                 "text": "공청회",
                 "value": 4
             },
             {
-                "text": "쿠팡",
-                "value": 3
-            },
-            {
-                "text": "중국인",
-                "value": 3
-            },
-            {
-                "text": "피의자",
-                "value": 3
-            },
-            {
-                "text": "특검",
-                "value": 3
-            },
-            {
-                "text": "사건",
-                "value": 3
-            },
-            {
-                "text": "필리버스터",
+                "text": "법안",
                 "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:01.197937",
+        "last_analyzed_at": "2026-01-13T10:40:30.236888",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 1,
                 0,
                 1,
                 1,
                 0,
-                0
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a7887d07f7ba2fab3d",
+            "link": "https://n.news.naver.com/mnews/article/020/0003688851?sid=100",
+            "created_at": "2026-01-13T09:41:09.344000",
+            "description": "민주당 김용민 의원이 이날 국회 법제사법위원회에서 “검찰 세력이 검찰개혁안을 만든 것 아니냐는 국민의... 민주당 한병도 원내대표는 이날 유튜브에서 “정부와 우리 의원님들, 각 당과 이견이 있기 때문에 법무부하고... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260113/133143118/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-13T04:35:00",
+            "related_members": [
+                "V429892C",
+                "OFE45081",
+                "3ZR4438W",
+                "H5476989"
+            ],
+            "title": "중수청에 수사사법관… 與강경파 “제2의 검찰”"
+        },
+        {
+            "_id": "696594db887d07f7ba2fab73",
+            "link": "https://n.news.naver.com/mnews/article/055/0001323648?sid=102",
+            "created_at": "2026-01-13T09:42:01.926000",
+            "description": "오늘 국회에서도 일부 민주당 의원들이 법안에 검사들 의견이 과도하게 반영됐다며 문제를 제기했는데, 정성호 법무부 장관은 검사들 의견이 모두 나쁜 것은 아니라는 취지로 반박했습니다. [정성호/법무부 장관 : 이재명... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008401365&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-12T20:51:00",
+            "related_members": [
+                "V429892C"
+            ],
+            "title": "중수청·공소청 법안 공개…'조직 이원화' 논란"
+        },
         {
             "_id": "6964b556631fd174349961ad",
             "link": "https://n.news.naver.com/mnews/article/003/0013702642?sid=100",
@@ -320,14 +349,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a75d631fd1743497cee7",
-            "url": "https://www.youtube.com/watch?v=kUKqyJuibZI",
+            "_id": "6960a75d631fd1743497cee8",
+            "url": "https://www.youtube.com/watch?v=WTmfroaCA3k",
             "HG_NM": "정성호",
             "MONA_CD": "V429892C",
             "collected_at": "2026-01-09T15:59:28.868000",
-            "duration": 550.0,
+            "duration": 1293.0,
             "source": "KBS뉴스",
-            "title": "[LIVE] 정성호 법무부 장관 퇴근길 생중계/2025년 9월 8일(월)/KBS",
+            "title": "[LIVE] 정성호 신임 법무부장관 취임식 생중계/2025년 7월 21일(월)/KBS",
             "upload_date": null
         },
         {
@@ -375,16 +404,16 @@
             "upload_date": null
         },
         {
-            "_id": "6960a75d631fd1743497cee8",
-            "url": "https://www.youtube.com/watch?v=WTmfroaCA3k",
+            "_id": "6960a75d631fd1743497cee7",
+            "url": "https://www.youtube.com/watch?v=kUKqyJuibZI",
             "HG_NM": "정성호",
             "MONA_CD": "V429892C",
             "collected_at": "2026-01-09T15:59:28.868000",
-            "duration": 1293.0,
+            "duration": 550.0,
             "source": "KBS뉴스",
-            "title": "[LIVE] 정성호 신임 법무부장관 취임식 생중계/2025년 7월 21일(월)/KBS",
+            "title": "[LIVE] 정성호 법무부 장관 퇴근길 생중계/2025년 9월 8일(월)/KBS",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:01.197937"
+    "exported_at": "2026-01-13T10:40:30.236888"
 }

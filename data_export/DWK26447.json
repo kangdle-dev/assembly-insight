@@ -49,28 +49,32 @@
         "keywords": [
             "국민",
             "인사",
+            "일정",
             "후보자",
             "단독",
+            "기자회견",
             "이혜훈",
             "영종도",
-            "대구",
             "의혹",
-            "위원장",
-            "토론회",
-            "보좌",
-            "참석",
             "대구시",
-            "공천",
-            "개입"
+            "대구",
+            "토론회",
+            "화요일",
+            "신년인사",
+            "민주당"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 14
+                "value": 12
             },
             {
                 "text": "인사",
                 "value": 11
+            },
+            {
+                "text": "일정",
+                "value": 8
             },
             {
                 "text": "후보자",
@@ -81,6 +85,10 @@
                 "value": 7
             },
             {
+                "text": "기자회견",
+                "value": 6
+            },
+            {
                 "text": "이혜훈",
                 "value": 6
             },
@@ -89,15 +97,15 @@
                 "value": 6
             },
             {
-                "text": "대구",
-                "value": 6
-            },
-            {
                 "text": "의혹",
                 "value": 5
             },
             {
-                "text": "위원장",
+                "text": "대구시",
+                "value": 5
+            },
+            {
+                "text": "대구",
                 "value": 5
             },
             {
@@ -105,49 +113,119 @@
                 "value": 5
             },
             {
-                "text": "보좌",
+                "text": "화요일",
                 "value": 4
             },
             {
-                "text": "참석",
+                "text": "신년인사",
                 "value": 4
             },
             {
-                "text": "대구시",
-                "value": 4
-            },
-            {
-                "text": "공천",
-                "value": 4
-            },
-            {
-                "text": "개입",
+                "text": "민주당",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:56.742850",
+        "last_analyzed_at": "2026-01-13T10:40:25.615495",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 0,
                 0,
                 3,
                 1,
                 1,
-                0
+                0,
+                4
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6036526",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 국회일정] (13일, 화)"
+        },
+        {
+            "_id": "696594be887d07f7ba2fab56",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709926?sid=100",
+            "created_at": "2026-01-13T09:41:32.758000",
+            "description": "09:30 의원총회 (국회 본청) 10:00 중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 기자회견 (국회 소통관 기자회견장) 11:00 한병도 더불어민주당 원내대표 조국혁신당 예방 (국회 본관) ◇진보당... ",
+            "originallink": "https://www.news1.kr/politics/president/6036529",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "80C5885Z",
+                "DWK26447",
+                "H5476989"
+            ],
+            "title": "[오늘의 주요일정] 정치·정부 (13일, 화)"
+        },
+        {
+            "_id": "696594be887d07f7ba2fab57",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706319?sid=100",
+            "created_at": "2026-01-13T09:41:32.758000",
+            "description": "14:00 국회의원-당협위원장 연석회의 및 의원총회(국회 본관 예결위회의장) 15:30 2026 중소기업인... 기자회견(국회 소통관 기자회견장) 11:00 민주당 한병도 원내대표 조국혁신당 예방(본청 224호) ◇개혁신당... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474228",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "80C5885Z",
+                "DWK26447",
+                "H5476989"
+            ],
+            "title": "[오늘의 주요일정]정치(1월13일 화요일)"
+        },
         {
             "_id": "6964b55d631fd1743499623f",
             "link": "https://n.news.naver.com/mnews/article/421/0008706694?sid=100",
@@ -236,7 +314,7 @@
             "_id": "6964b544631fd17434996036",
             "link": "https://n.news.naver.com/mnews/article/421/0008692988?sid=102",
             "created_at": "2026-01-12T17:48:01.451000",
-            "description": "장동혁 대표는 참석하지 않았지만 경북 김천을 지역구로 둔 송언석 원내대표 등 지도부와 이인선 국민의힘 대구시당위원장, 구자근 국민의힘 경북도당위원장 등 대구·경북(TK) 국회의원 대부분이 참석했다. 특히 주호영... ",
+            "description": "특히 주호영 국회 부의장을 제외한 잠재적 대구시장 출마 예정자로 꼽히는 추경호·윤재옥·최은석·유영하·김상훈 의원 등 현직 대부분이 참석해 출마 의지를 직·간접적으로 내비치거나 말을 아꼈다. 대구시장 선거와... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6027211",
             "press": "뉴스1",
             "pubDate": "2026-01-02T17:54:00",
@@ -312,33 +390,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ad7e631fd1743497da87",
-            "url": "https://www.youtube.com/watch?v=F24123Fqb5w",
+            "_id": "6960ad7e631fd1743497da89",
+            "url": "https://www.youtube.com/watch?v=ERRZYunMEJ4",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:47.362000",
-            "duration": 1627.0,
-            "title": "TBC 이슈로드 \"이인선을 만나다\" 220710 Full Ver.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da88",
-            "url": "https://www.youtube.com/watch?v=jXQl_aP7x1o",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:47.362000",
-            "duration": 137.0,
-            "title": "\"이인선 한 번 시켜줘야\"‥또 윤 공천 개입 의혹 (2025.04.25/12MBC뉴스)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da83",
-            "url": "https://www.youtube.com/watch?v=Hz1MJYU3i2s",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:46.647000",
-            "duration": 600.0,
-            "title": "국회의원 후보자  방송연설 -이인선-",
+            "collected_at": "2026-01-13T09:49:28.977000",
+            "duration": 145.0,
+            "title": "\"이인선 한 번 시켜줘야\"‥또 윤 공천 개입 의혹 (2025.04.25/뉴스투데이/MBC)",
             "upload_date": null
         },
         {
@@ -352,13 +410,53 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad7e631fd1743497da83",
+            "url": "https://www.youtube.com/watch?v=Hz1MJYU3i2s",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-13T09:49:28.161000",
+            "duration": 600.0,
+            "title": "국회의원 후보자  방송연설 -이인선-",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da87",
+            "url": "https://www.youtube.com/watch?v=F24123Fqb5w",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-09T16:25:47.362000",
+            "duration": 1627.0,
+            "title": "TBC 이슈로드 \"이인선을 만나다\" 220710 Full Ver.",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad7e631fd1743497da84",
             "url": "https://www.youtube.com/watch?v=_YPVPdQ6hDQ",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:46.647000",
+            "collected_at": "2026-01-13T09:49:28.161000",
             "duration": 60.0,
             "title": "[국회의원 이인선 설날인사]토끼처럼 도약하는 한 해 되세요",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da81",
+            "url": "https://www.youtube.com/watch?v=JHGV4OEnLqk",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-13T09:49:28.977000",
+            "duration": 159.0,
+            "title": "[단독] \"이인선 한번 시켜줘야 하지 않나\"‥또 나온 공천 개입 정황 (2025.04.24/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da7f",
+            "url": "https://www.youtube.com/watch?v=Iu-6ZCIy1S8",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-13T09:49:28.161000",
+            "duration": 96.0,
+            "title": "이인선 국회의원, 대구 수성못을 위한 따금한 질책 나서다!!",
             "upload_date": null
         },
         {
@@ -366,7 +464,7 @@
             "url": "https://www.youtube.com/watch?v=xgyYLG7N8LY",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:46.647000",
+            "collected_at": "2026-01-13T09:49:28.161000",
             "duration": 65.0,
             "title": "국회의원 이인선 5월 가정의달 인사",
             "upload_date": null
@@ -376,29 +474,9 @@
             "url": "https://www.youtube.com/watch?v=B0OpCKcrGRQ",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:46.647000",
+            "collected_at": "2026-01-13T09:49:28.161000",
             "duration": 2760.0,
             "title": "Keep going의 대명사 이인선! 다음생애 지금 남편과 다시 결혼 한다? 안 한다?[오유경의 인생책방 131회]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da7f",
-            "url": "https://www.youtube.com/watch?v=Iu-6ZCIy1S8",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:47.362000",
-            "duration": 96.0,
-            "title": "이인선 국회의원, 대구 수성못을 위한 따금한 질책 나서다!!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da81",
-            "url": "https://www.youtube.com/watch?v=JHGV4OEnLqk",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-09T16:25:46.647000",
-            "duration": 159.0,
-            "title": "[단독] \"이인선 한번 시켜줘야 하지 않나\"‥또 나온 공천 개입 정황 (2025.04.24/뉴스데스크/MBC)",
             "upload_date": null
         },
         {
@@ -412,5 +490,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:56.742850"
+    "exported_at": "2026-01-13T10:40:25.615495"
 }

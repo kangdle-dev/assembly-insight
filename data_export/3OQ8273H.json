@@ -45,35 +45,39 @@
             "당선",
             "무효",
             "의원직",
+            "대출",
             "민주당",
             "이병진",
             "상실",
             "인천",
             "신영",
             "재보선",
-            "대출",
-            "김교흥",
-            "확정",
             "사기",
             "혐의",
+            "김교흥",
+            "확정",
             "항소심"
         ],
         "keyword_frequency": [
             {
                 "text": "당선",
-                "value": 13
+                "value": 15
             },
             {
                 "text": "무효",
-                "value": 13
+                "value": 15
             },
             {
                 "text": "의원직",
                 "value": 12
             },
             {
-                "text": "민주당",
+                "text": "대출",
                 "value": 12
+            },
+            {
+                "text": "민주당",
+                "value": 11
             },
             {
                 "text": "이병진",
@@ -96,7 +100,11 @@
                 "value": 9
             },
             {
-                "text": "대출",
+                "text": "사기",
+                "value": 8
+            },
+            {
+                "text": "혐의",
                 "value": 8
             },
             {
@@ -108,37 +116,29 @@
                 "value": 6
             },
             {
-                "text": "사기",
-                "value": 6
-            },
-            {
-                "text": "혐의",
-                "value": 6
-            },
-            {
                 "text": "항소심",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:51.488461",
+        "last_analyzed_at": "2026-01-13T10:40:20.453864",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 0,
                 4,
                 3,
                 0,
                 2,
-                1
+                1,
+                0
             ]
         }
     },
@@ -226,7 +226,7 @@
             "_id": "6964b548631fd1743499608a",
             "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
             "created_at": "2026-01-12T17:48:05.254000",
-            "description": "나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해?... 그리고 민주당의 광주 동남을의 안도걸, 광주 북구갑의 정준호도 지금 공직선거법으로 1심 재판받고 있어요. 제가... ",
+            "description": "근데 장 대표가 사과를 한 지 하루 만에 지도부 인사가 났는데 이 인사를 보면 지금 정점식 정책위의장... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454621&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-09T10:00:00",
@@ -358,43 +358,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ad14631fd1743497d8fa",
-            "url": "https://www.youtube.com/watch?v=UCa28SQOj1JCqZcFeArJXJKQ",
+            "_id": "69659636887d07f7ba2fad28",
+            "url": "https://www.youtube.com/watch?v=7-8ptNWnLaA",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-09T16:24:00.779000",
-            "duration": null,
-            "title": "양문석 TV",
+            "collected_at": "2026-01-13T09:47:49.036000",
+            "duration": 722.0,
+            "title": "\"이러면 격조 있는 질문이 힘들어\"...양문석, 증인 쏘아 보더니 폭발",
             "upload_date": null
         },
         {
-            "_id": "6960ad14631fd1743497d8fb",
-            "url": "https://www.youtube.com/watch?v=aGM2HTphygA",
+            "_id": "69659636887d07f7ba2fad29",
+            "url": "https://www.youtube.com/watch?v=xKKgtpISkrE",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-09T16:24:00.779000",
-            "duration": 116.0,
-            "title": "민주당 양문석 2심도 당선무효형...이상식은 감형돼 의원직 유지 / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad14631fd1743497d8fc",
-            "url": "https://www.youtube.com/watch?v=6-x_dJXQ080",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-09T16:24:00.779000",
-            "duration": 942.0,
-            "title": "[속보] '대출사기 등 혐의' 민주당 양문석 항소심도 당선무효형/2025년 7월 24일(목)/KBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad14631fd1743497d8fd",
-            "url": "https://www.youtube.com/watch?v=0eeOtFflFCI",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-09T16:24:00.779000",
-            "duration": 185.0,
-            "title": "\"제발 이중잣대 좀 그만!!\" 신동욱에 극대노한 양문석",
+            "collected_at": "2026-01-13T09:47:49.036000",
+            "duration": 543.0,
+            "title": "양문석 딸, 11억 사업자 대출…만기일시상환으로 특혜 누렸다? | 뉴스A 라이브",
             "upload_date": null
         },
         {
@@ -406,7 +386,77 @@
             "duration": 61.0,
             "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형 #shorts",
             "upload_date": null
+        },
+        {
+            "_id": "69659636887d07f7ba2fad27",
+            "url": "https://www.youtube.com/watch?v=SOAGTRN85Z4",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:49.036000",
+            "duration": 96.0,
+            "title": "‘딸 명의 대출사기 혐의’ 양문석, 2심도 당선 무효형 / 채널A / 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "69659636887d07f7ba2fad25",
+            "url": "https://www.youtube.com/watch?v=K_ebCP5h5gY",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:48.306000",
+            "duration": 204.0,
+            "title": "양문석, 유인촌 장관에 고함치며 \"한 놈도 없냐고!\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fc",
+            "url": "https://www.youtube.com/watch?v=6-x_dJXQ080",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:49.036000",
+            "duration": 942.0,
+            "title": "[속보] '대출사기 등 혐의' 민주당 양문석 항소심도 당선무효형/2025년 7월 24일(목)/KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fd",
+            "url": "https://www.youtube.com/watch?v=0eeOtFflFCI",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:48.306000",
+            "duration": 185.0,
+            "title": "\"제발 이중잣대 좀 그만!!\" 신동욱에 극대노한 양문석",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fa",
+            "url": "https://www.youtube.com/watch?v=UCa28SQOj1JCqZcFeArJXJKQ",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:48.306000",
+            "duration": null,
+            "title": "양문석 TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fb",
+            "url": "https://www.youtube.com/watch?v=aGM2HTphygA",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:48.306000",
+            "duration": 116.0,
+            "title": "민주당 양문석 2심도 당선무효형...이상식은 감형돼 의원직 유지 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "69659636887d07f7ba2fad26",
+            "url": "https://www.youtube.com/watch?v=eqgNGcxYPgY",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-13T09:47:48.306000",
+            "duration": 365.0,
+            "title": "\"어디 조선일보 따위에!!!\" 반성하면 안되겠습니까...물음에 단호하게 거부하는 #양문석의원",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:51.488461"
+    "exported_at": "2026-01-13T10:40:20.453864"
 }

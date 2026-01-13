@@ -67,6 +67,7 @@
             "김동연",
             "군사작전",
             "국제",
+            "일정",
             "지사",
             "미국",
             "평화",
@@ -75,8 +76,7 @@
             "원내대표",
             "윤석열",
             "사람",
-            "도민",
-            "한준호"
+            "도민"
         ],
         "keyword_frequency": [
             {
@@ -98,6 +98,10 @@
             {
                 "text": "국제",
                 "value": 5
+            },
+            {
+                "text": "일정",
+                "value": 4
             },
             {
                 "text": "지사",
@@ -134,35 +138,79 @@
             {
                 "text": "도민",
                 "value": 3
-            },
-            {
-                "text": "한준호",
-                "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:40.846732",
+        "last_analyzed_at": "2026-01-13T10:40:09.567447",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                2,
                 0,
                 0,
                 1,
                 1,
                 0,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6036526",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 국회일정] (13일, 화)"
+        },
         {
             "_id": "6964b54d631fd174349960f9",
             "link": "https://n.news.naver.com/mnews/article/382/0001247120?sid=102",
@@ -401,16 +449,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac43631fd1743497d5bd",
-            "url": "https://www.youtube.com/watch?v=qTljwm7FlKE",
-            "HG_NM": "김태년",
-            "MONA_CD": "1WE5693J",
-            "collected_at": "2026-01-09T16:20:32.994000",
-            "duration": 152.0,
-            "title": "민주당 새 원내대표 김태년 의원 당선 (2020.05.07/5MBC뉴스)",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac43631fd1743497d5be",
             "url": "https://www.youtube.com/watch?v=uhMtW1NmE1c",
             "HG_NM": "김태년",
@@ -418,6 +456,16 @@
             "collected_at": "2026-01-09T16:20:32.994000",
             "duration": 415.0,
             "title": "원내대표에게 묻는다…더불어민주당 김태년 대표 (2020.07.07/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac43631fd1743497d5bd",
+            "url": "https://www.youtube.com/watch?v=qTljwm7FlKE",
+            "HG_NM": "김태년",
+            "MONA_CD": "1WE5693J",
+            "collected_at": "2026-01-13T09:44:40.891000",
+            "duration": 152.0,
+            "title": "민주당 새 원내대표 김태년 의원 당선 (2020.05.07/5MBC뉴스)",
             "upload_date": null
         },
         {
@@ -435,7 +483,7 @@
             "url": "https://www.youtube.com/watch?v=G9eNViFw01M",
             "HG_NM": "김태년",
             "MONA_CD": "1WE5693J",
-            "collected_at": "2026-01-09T16:20:32.994000",
+            "collected_at": "2026-01-13T09:44:40.891000",
             "duration": 71.0,
             "title": "[YTN 실시간뉴스] 슈퍼여당 원내사령탑 김태년 의원 / YTN",
             "upload_date": null
@@ -471,16 +519,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac43631fd1743497d5b5",
-            "url": "https://www.youtube.com/watch?v=UC3uJdwzlan5SSQJ-pC5qBqw",
-            "HG_NM": "김태년",
-            "MONA_CD": "1WE5693J",
-            "collected_at": "2026-01-09T16:20:32.210000",
-            "duration": null,
-            "title": "김태년TV ",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac43631fd1743497d5b7",
             "url": "https://www.youtube.com/watch?v=uvz1LYBYmss",
             "HG_NM": "김태년",
@@ -488,6 +526,16 @@
             "collected_at": "2026-01-09T16:20:32.210000",
             "duration": 64.0,
             "title": "[국회의원 김태년] 이재명? 강인한 사람, 권력에 굴하지 않는 사람.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac43631fd1743497d5b5",
+            "url": "https://www.youtube.com/watch?v=UC3uJdwzlan5SSQJ-pC5qBqw",
+            "HG_NM": "김태년",
+            "MONA_CD": "1WE5693J",
+            "collected_at": "2026-01-13T09:44:40.299000",
+            "duration": null,
+            "title": "김태년TV ",
             "upload_date": null
         },
         {
@@ -501,5 +549,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:40.846732"
+    "exported_at": "2026-01-13T10:40:09.567447"
 }

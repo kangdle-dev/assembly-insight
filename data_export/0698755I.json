@@ -52,11 +52,11 @@
             "데이터",
             "센터",
             "토론회",
+            "왕진",
             "보안",
             "회관",
             "정보",
-            "발의",
-            "유출"
+            "발의"
         ],
         "keyword_frequency": [
             {
@@ -65,11 +65,11 @@
             },
             {
                 "text": "조국",
-                "value": 14
+                "value": 13
             },
             {
                 "text": "혁신",
-                "value": 11
+                "value": 10
             },
             {
                 "text": "구글",
@@ -100,6 +100,10 @@
                 "value": 5
             },
             {
+                "text": "왕진",
+                "value": 5
+            },
+            {
                 "text": "보안",
                 "value": 5
             },
@@ -114,28 +118,24 @@
             {
                 "text": "발의",
                 "value": 4
-            },
-            {
-                "text": "유출",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:58.565200",
+        "last_analyzed_at": "2026-01-13T10:40:27.476833",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
                 0,
+                1,
+                1,
                 0,
-                1,
-                1,
                 0,
                 0,
                 0
@@ -173,7 +173,7 @@
             "_id": "6964b540631fd17434995fd1",
             "link": "https://n.news.naver.com/mnews/article/028/0002783930?sid=102",
             "created_at": "2026-01-12T17:47:57.718000",
-            "description": "30일 5·18기념재단 말을 들어보면, 전날 차규근(조국혁신당)·정동영(더불어민주당, 통일부 장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원... ",
+            "description": "장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원·양부남(이상 민주당), 서왕진·황운하·김준형·정춘생·김선민·강경숙·백선희·이해민... ",
             "originallink": "https://www.hani.co.kr/arti/area/honam/1237161.html",
             "press": "한겨레",
             "pubDate": "2025-12-30T11:44:00",
@@ -303,33 +303,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ada2631fd1743497db16",
-            "url": "https://www.youtube.com/watch?v=WTISW2Zc-Zo",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-09T16:26:23.588000",
-            "duration": 659.0,
-            "title": "쿠팡 대응전략 간파...분석 끝났다!...이해민 나노분석에...쿠팡 '단체 멘붕'",
-            "upload_date": null
-        },
-        {
             "_id": "6960ada2631fd1743497db17",
             "url": "https://www.youtube.com/watch?v=vS-VlbabWsg",
             "HG_NM": "이해민",
             "MONA_CD": "0698755I",
-            "collected_at": "2026-01-09T16:26:23.588000",
+            "collected_at": "2026-01-13T09:50:04.336000",
             "duration": 1942.0,
             "title": "[이해민-뉴스공장] '겸손은힘들다' 출연! 후안무치 쿠팡 직격!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db12",
-            "url": "https://www.youtube.com/watch?v=qxDRXwSjn4k",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-09T16:26:23.588000",
-            "duration": 641.0,
-            "title": "대통령의 '영어' 듣고 있자니…이해민이 '직격' 날린 이유 #뉴스다 / JTBC News",
             "upload_date": null
         },
         {
@@ -353,11 +333,31 @@
             "upload_date": null
         },
         {
+            "_id": "6960ada2631fd1743497db16",
+            "url": "https://www.youtube.com/watch?v=WTISW2Zc-Zo",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-09T16:26:23.588000",
+            "duration": 659.0,
+            "title": "쿠팡 대응전략 간파...분석 끝났다!...이해민 나노분석에...쿠팡 '단체 멘붕'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db12",
+            "url": "https://www.youtube.com/watch?v=qxDRXwSjn4k",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-13T09:50:04.336000",
+            "duration": 641.0,
+            "title": "대통령의 '영어' 듣고 있자니…이해민이 '직격' 날린 이유 #뉴스다 / JTBC News",
+            "upload_date": null
+        },
+        {
             "_id": "6960ada2631fd1743497db11",
             "url": "https://www.youtube.com/watch?v=Dc9kHtleCwE",
             "HG_NM": "이해민",
             "MONA_CD": "0698755I",
-            "collected_at": "2026-01-09T16:26:23.588000",
+            "collected_at": "2026-01-13T09:50:03.660000",
             "duration": 360.0,
             "title": "전문 용어 줄줄이...쿠팡 정보 책임자에게 일침 가한 '구글 출신' 이해민 [현장영상+] / YTN",
             "upload_date": null
@@ -387,7 +387,7 @@
             "url": "https://www.youtube.com/watch?v=KcPLebZ9cBU",
             "HG_NM": "이해민",
             "MONA_CD": "0698755I",
-            "collected_at": "2026-01-09T16:26:22.794000",
+            "collected_at": "2026-01-13T09:50:03.660000",
             "duration": 563.0,
             "title": "[자막] 이해민 의원, 쿠팡의 '면책 약관' 자백받아냈다!",
             "upload_date": null
@@ -403,5 +403,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:58.565200"
+    "exported_at": "2026-01-13T10:40:27.476833"
 }

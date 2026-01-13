@@ -50,13 +50,13 @@
             "민주당",
             "종합",
             "공천",
+            "조국",
+            "혁신",
             "통일교",
             "검사",
             "뇌물",
-            "조국",
-            "혁신",
-            "개혁",
-            "검찰"
+            "소청",
+            "개혁"
         ],
         "keyword_frequency": [
             {
@@ -92,6 +92,14 @@
                 "value": 7
             },
             {
+                "text": "조국",
+                "value": 6
+            },
+            {
+                "text": "혁신",
+                "value": 6
+            },
+            {
                 "text": "통일교",
                 "value": 6
             },
@@ -104,45 +112,53 @@
                 "value": 6
             },
             {
-                "text": "조국",
-                "value": 5
-            },
-            {
-                "text": "혁신",
+                "text": "소청",
                 "value": 5
             },
             {
                 "text": "개혁",
                 "value": 5
-            },
-            {
-                "text": "검찰",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:26:45.055652",
+        "last_analyzed_at": "2026-01-13T10:40:13.816757",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                0,
                 3,
                 0,
                 1,
                 0,
                 2,
-                2
+                3,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696594b4887d07f7ba2fab4e",
+            "link": "https://n.news.naver.com/mnews/article/028/0002786046?sid=100",
+            "created_at": "2026-01-13T09:41:22.913000",
+            "description": "한병도 원내대표도 원내지도부와 당 정책위원회, 법제사법위원회 등을 아울러 의견을 모아가겠다고 밝혔다.... 박은정 조국혁신당 의원은 이날 열린 국회 법제사법위원회 전체회의에서 “공소청법, 중수청법, 형사소송법을... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239307.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-12T18:56:00",
+            "related_members": [
+                "2385336L",
+                "1A82234K",
+                "NX534083",
+                "H5476989"
+            ],
+            "title": "정청래 “중수청·공소청법 개별의견 자제를”…당·정 갈등 조짐에 ‘..."
+        },
         {
             "_id": "6964b543631fd17434996026",
             "link": "https://n.news.naver.com/mnews/article/421/0008708608?sid=100",
@@ -323,21 +339,6 @@
             "title": "내란의 대가는? 윤석열 이번 주 최고형 구형받을까"
         },
         {
-            "_id": "6964b555631fd174349961a3",
-            "link": "https://n.news.naver.com/mnews/article/421/0008687746?sid=100",
-            "created_at": "2026-01-12T17:48:18.985000",
-            "description": "= ◇국회의장 10:00 국가인권위원회의 현주소와 전망 세미나 (의원회관 제1소회의실) 13:15 KBS 1라디오... 10:00 박은정 의원, [고소장 관련 기자회견] 11:00 이연주 의원, [지역 현안 관련 기자회견] 13:40 김현 의원... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6024331",
-            "press": "뉴스1",
-            "pubDate": "2025-12-31T05:00:00",
-            "related_members": [
-                "CC78321E",
-                "7YL9580G",
-                "1A82234K"
-            ],
-            "title": "[오늘의 국회일정] (31일, 수)"
-        },
-        {
             "_id": "6964b555631fd174349961a4",
             "link": "https://n.news.naver.com/mnews/article/003/0013684796?sid=100",
             "created_at": "2026-01-12T17:48:18.985000",
@@ -351,6 +352,21 @@
                 "1A82234K"
             ],
             "title": "[오늘의 주요일정]국회(12월31일 수요일)"
+        },
+        {
+            "_id": "6964b555631fd174349961a3",
+            "link": "https://n.news.naver.com/mnews/article/421/0008687746?sid=100",
+            "created_at": "2026-01-12T17:48:18.985000",
+            "description": "= ◇국회의장 10:00 국가인권위원회의 현주소와 전망 세미나 (의원회관 제1소회의실) 13:15 KBS 1라디오... 10:00 박은정 의원, [고소장 관련 기자회견] 11:00 이연주 의원, [지역 현안 관련 기자회견] 13:40 김현 의원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6024331",
+            "press": "뉴스1",
+            "pubDate": "2025-12-31T05:00:00",
+            "related_members": [
+                "CC78321E",
+                "7YL9580G",
+                "1A82234K"
+            ],
+            "title": "[오늘의 국회일정] (31일, 수)"
         },
         {
             "_id": "6964b543631fd17434996034",
@@ -372,23 +388,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960abb5631fd1743497d378",
-            "url": "https://www.youtube.com/watch?v=HgEEzVRyHyg",
+            "_id": "696595b9887d07f7ba2fac9e",
+            "url": "https://www.youtube.com/watch?v=96Ldj0nihQI",
             "HG_NM": "박은정",
             "MONA_CD": "1A82234K",
-            "collected_at": "2026-01-09T16:21:55.434000",
-            "duration": 83.0,
-            "title": "#곽규택 희망사항 대화라도 하려면... #박은정 [잼뉴] #잼있는뉴스",
+            "collected_at": "2026-01-13T09:45:42.514000",
+            "duration": 103.0,
+            "title": "박은정 \"한동훈, 계엄 해제하려 본회의장? 무서워서 숨어 들어와…목숨 불쌍해 둔 것\"｜지금 이 뉴스",
             "upload_date": null
         },
         {
-            "_id": "6960abb5631fd1743497d379",
-            "url": "https://www.youtube.com/watch?v=pYz2Qkwhc4A",
+            "_id": "696595b9887d07f7ba2fac9f",
+            "url": "https://www.youtube.com/watch?v=RL8NaIApGLM",
             "HG_NM": "박은정",
             "MONA_CD": "1A82234K",
-            "collected_at": "2026-01-09T16:21:54.666000",
-            "duration": 392.0,
-            "title": "\"이게 정상 법사위?\" 펄쩍 뛴 곽규택...박은정, 위원장 대신 호되게 참교육",
+            "collected_at": "2026-01-13T09:45:43.190000",
+            "duration": 368.0,
+            "title": "박은정과 부딪힌 법무부 장관?... \"지금 보완수사권 인정?\" 분노한 박은정",
             "upload_date": null
         },
         {
@@ -402,23 +418,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac96631fd1743497d715",
-            "url": "https://www.youtube.com/watch?v=UCf3slfpJdmuLMDE5R3PnSug",
+            "_id": "696595b9887d07f7ba2fac9d",
+            "url": "https://www.youtube.com/watch?v=V7Bk_M-6jXw",
             "HG_NM": "박은정",
             "MONA_CD": "1A82234K",
-            "collected_at": "2026-01-09T16:21:54.666000",
-            "duration": null,
-            "title": "박은정TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac96631fd1743497d716",
-            "url": "https://www.youtube.com/watch?v=SzrWzI7_Vzk",
-            "HG_NM": "박은정",
-            "MONA_CD": "1A82234K",
-            "collected_at": "2026-01-09T16:21:54.666000",
-            "duration": 85.0,
-            "title": "\"반성하라!\" 박은정 의원, 검찰 개혁 일침⚡️ 후배 검사 참교육!",
+            "collected_at": "2026-01-13T09:45:42.514000",
+            "duration": 63.0,
+            "title": "꽥꽥이,빠루 찍소리 못하게 만든 전투력 최강 박은정 의원",
             "upload_date": null
         },
         {
@@ -432,6 +438,46 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac96631fd1743497d716",
+            "url": "https://www.youtube.com/watch?v=SzrWzI7_Vzk",
+            "HG_NM": "박은정",
+            "MONA_CD": "1A82234K",
+            "collected_at": "2026-01-13T09:45:42.514000",
+            "duration": 85.0,
+            "title": "\"반성하라!\" 박은정 의원, 검찰 개혁 일침⚡️ 후배 검사 참교육!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d379",
+            "url": "https://www.youtube.com/watch?v=pYz2Qkwhc4A",
+            "HG_NM": "박은정",
+            "MONA_CD": "1A82234K",
+            "collected_at": "2026-01-09T16:21:54.666000",
+            "duration": 392.0,
+            "title": "\"이게 정상 법사위?\" 펄쩍 뛴 곽규택...박은정, 위원장 대신 호되게 참교육",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d378",
+            "url": "https://www.youtube.com/watch?v=HgEEzVRyHyg",
+            "HG_NM": "박은정",
+            "MONA_CD": "1A82234K",
+            "collected_at": "2026-01-09T16:21:55.434000",
+            "duration": 83.0,
+            "title": "#곽규택 희망사항 대화라도 하려면... #박은정 [잼뉴] #잼있는뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac96631fd1743497d715",
+            "url": "https://www.youtube.com/watch?v=UCf3slfpJdmuLMDE5R3PnSug",
+            "HG_NM": "박은정",
+            "MONA_CD": "1A82234K",
+            "collected_at": "2026-01-13T09:45:42.514000",
+            "duration": null,
+            "title": "박은정TV",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac96631fd1743497d718",
             "url": "https://www.youtube.com/watch?v=xoTZeumRw2k",
             "HG_NM": "박은정",
@@ -442,5 +488,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:26:45.055652"
+    "exported_at": "2026-01-13T10:40:13.816757"
 }

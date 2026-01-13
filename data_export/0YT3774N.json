@@ -47,8 +47,8 @@
     },
     "analysis": {
         "keywords": [
-            "조국",
             "민주당",
+            "조국",
             "세종시",
             "출마",
             "혁신",
@@ -57,20 +57,20 @@
             "지방선거",
             "충남도지사",
             "명예",
-            "차규",
             "선언",
             "검사",
             "이병진",
-            "신영"
+            "신영",
+            "민주"
         ],
         "keyword_frequency": [
             {
-                "text": "조국",
+                "text": "민주당",
                 "value": 11
             },
             {
-                "text": "민주당",
-                "value": 11
+                "text": "조국",
+                "value": 10
             },
             {
                 "text": "세종시",
@@ -82,7 +82,7 @@
             },
             {
                 "text": "혁신",
-                "value": 7
+                "value": 6
             },
             {
                 "text": "당선",
@@ -105,10 +105,6 @@
                 "value": 6
             },
             {
-                "text": "차규",
-                "value": 5
-            },
-            {
                 "text": "선언",
                 "value": 4
             },
@@ -123,27 +119,31 @@
             {
                 "text": "신영",
                 "value": 4
+            },
+            {
+                "text": "민주",
+                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-12T18:27:07.688325",
+        "last_analyzed_at": "2026-01-13T10:40:37.170079",
         "trend_news": {
             "labels": [
-                "01-06",
                 "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
-                "01-12"
+                "01-12",
+                "01-13"
             ],
             "data": [
-                1,
                 0,
                 2,
                 1,
                 0,
                 0,
-                1
+                1,
+                0
             ]
         }
     },
@@ -263,7 +263,7 @@
             "_id": "6964b540631fd17434995fd1",
             "link": "https://n.news.naver.com/mnews/article/028/0002783930?sid=102",
             "created_at": "2026-01-12T17:47:57.718000",
-            "description": "30일 5·18기념재단 말을 들어보면, 전날 차규근(조국혁신당)·정동영(더불어민주당, 통일부 장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원... ",
+            "description": "장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원·양부남(이상 민주당), 서왕진·황운하·김준형·정춘생·김선민·강경숙·백선희·이해민... ",
             "originallink": "https://www.hani.co.kr/arti/area/honam/1237161.html",
             "press": "한겨레",
             "pubDate": "2025-12-30T11:44:00",
@@ -311,7 +311,7 @@
             "url": "https://www.youtube.com/watch?v=Mqcyn4ufljA",
             "HG_NM": "황운하",
             "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.704000",
+            "collected_at": "2026-01-13T09:52:57.420000",
             "duration": 1345.0,
             "title": "황운하 - TJB 〈뉴스 큐레이터 시선〉 출연 : 중기부 이전, 득과 실? (2021.01.24)",
             "upload_date": null
@@ -321,19 +321,39 @@
             "url": "https://www.youtube.com/watch?v=yIUDZNZfFo8",
             "HG_NM": "황운하",
             "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.704000",
+            "collected_at": "2026-01-13T09:52:57.420000",
             "duration": 176.0,
             "title": "송철호·황운하 '지방선거 개입 의혹' 1심 유죄 (2023.11.29/뉴스데스크/울산MBC)",
             "upload_date": null
         },
         {
-            "_id": "6960ae57631fd1743497ddb6",
-            "url": "https://www.youtube.com/watch?v=AYrzmZKFlQ8",
+            "_id": "6960ae57631fd1743497ddb3",
+            "url": "https://www.youtube.com/watch?v=GxKS_ThP0KM",
             "HG_NM": "황운하",
             "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
-            "duration": 113.0,
-            "title": "황운하 사표 수리 유보…초유의 '투잡' 국회의원 나올까 / JTBC 정치부회의",
+            "collected_at": "2026-01-13T09:52:56.741000",
+            "duration": 7173.0,
+            "title": "[명예퇴임식 Live] 국회의원 황운하 명예회복 대국민 보고대회/ 전)대전경찰청장 황운하 명예퇴임식 #황운하 #국회의원황운하 #조국혁신당황운하",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae57631fd1743497ddb8",
+            "url": "https://www.youtube.com/watch?v=eKV9eioUJzQ",
+            "HG_NM": "황운하",
+            "MONA_CD": "0YT3774N",
+            "collected_at": "2026-01-13T09:52:56.741000",
+            "duration": 110.0,
+            "title": "더불어민주당 황운하 의원 발언 \"윤석열, 사과에 앞서 사실관계부터 밝혀라\" 윤석열 일가 부정부패 국민검증특별위원회 7차 회의에서 (2021.12.16)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae57631fd1743497ddb4",
+            "url": "https://www.youtube.com/watch?v=PVgez59nlk8",
+            "HG_NM": "황운하",
+            "MONA_CD": "0YT3774N",
+            "collected_at": "2026-01-13T09:52:56.741000",
+            "duration": 65.0,
+            "title": "황운하 민주당 의원 당선무효소송 선고 / JTBC 아침&",
             "upload_date": null
         },
         {
@@ -341,9 +361,29 @@
             "url": "https://www.youtube.com/watch?v=jJgWNzHjYZk",
             "HG_NM": "황운하",
             "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.704000",
+            "collected_at": "2026-01-13T09:52:57.420000",
             "duration": 214.0,
             "title": "[오늘 이 뉴스] \"이제는 검사를 단죄할 시간\".. 6년 만 '무죄' 이 악문 황운하 (2025.08.14/MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae57631fd1743497ddb6",
+            "url": "https://www.youtube.com/watch?v=AYrzmZKFlQ8",
+            "HG_NM": "황운하",
+            "MONA_CD": "0YT3774N",
+            "collected_at": "2026-01-13T09:52:56.741000",
+            "duration": 113.0,
+            "title": "황운하 사표 수리 유보…초유의 '투잡' 국회의원 나올까 / JTBC 정치부회의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae57631fd1743497ddb2",
+            "url": "https://www.youtube.com/watch?v=UCDFPB0rbbcRF8rgf4S1WTrQ",
+            "HG_NM": "황운하",
+            "MONA_CD": "0YT3774N",
+            "collected_at": "2026-01-13T09:52:56.741000",
+            "duration": null,
+            "title": "황운하TV",
             "upload_date": null
         },
         {
@@ -351,7 +391,7 @@
             "url": "https://www.youtube.com/watch?v=1rK1NosNAik",
             "HG_NM": "황운하",
             "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
+            "collected_at": "2026-01-13T09:52:56.741000",
             "duration": 218.0,
             "title": "황운하 의원의 경찰국 설치 반대 Q&A 1부",
             "upload_date": null
@@ -361,51 +401,11 @@
             "url": "https://www.youtube.com/watch?v=R2V9XVquu6U",
             "HG_NM": "황운하",
             "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
+            "collected_at": "2026-01-13T09:52:56.741000",
             "duration": 439.0,
             "title": "국회의원 황운하와 함께하는 수사기소권 분리 팩트체크",
             "upload_date": null
-        },
-        {
-            "_id": "6960ae57631fd1743497ddb3",
-            "url": "https://www.youtube.com/watch?v=GxKS_ThP0KM",
-            "HG_NM": "황운하",
-            "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
-            "duration": 7173.0,
-            "title": "[명예퇴임식 Live] 국회의원 황운하 명예회복 대국민 보고대회/ 전)대전경찰청장 황운하 명예퇴임식 #황운하 #국회의원황운하 #조국혁신당황운하",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae57631fd1743497ddb2",
-            "url": "https://www.youtube.com/watch?v=UCDFPB0rbbcRF8rgf4S1WTrQ",
-            "HG_NM": "황운하",
-            "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
-            "duration": null,
-            "title": "황운하TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae57631fd1743497ddb4",
-            "url": "https://www.youtube.com/watch?v=PVgez59nlk8",
-            "HG_NM": "황운하",
-            "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
-            "duration": 65.0,
-            "title": "황운하 민주당 의원 당선무효소송 선고 / JTBC 아침&",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae57631fd1743497ddb8",
-            "url": "https://www.youtube.com/watch?v=eKV9eioUJzQ",
-            "HG_NM": "황운하",
-            "MONA_CD": "0YT3774N",
-            "collected_at": "2026-01-09T16:29:24.011000",
-            "duration": 110.0,
-            "title": "더불어민주당 황운하 의원 발언 \"윤석열, 사과에 앞서 사실관계부터 밝혀라\" 윤석열 일가 부정부패 국민검증특별위원회 7차 회의에서 (2021.12.16)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-12T18:27:07.688325"
+    "exported_at": "2026-01-13T10:40:37.170079"
 }
