@@ -3,7 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>의원 인사이트 리포트 - Assembly Insight</title>
+    <title id="meta-title">의원 상세 리포트 | 국회 인사이트</title>
+    <meta id="meta-desc" name="description" content="의원의 최신 활동, AI 분석 키워드, 뉴스 화제성 추이를 실시간으로 확인하세요.">    
+    <meta property="og:type" content="article">
+    <meta id="og-title" property="og:title" content="의원 상세 리포트">
+    <meta id="og-desc" property="og:description" content="데이터로 분석한 제22대 국회의원 인사이트">
+    <meta id="og-img" property="og:image" content="">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -14,13 +19,28 @@
         /* 데스크톱 광고 영역을 위한 여백 설정 */
         .ad-slot { background: #f1f5f9; border: 1px dashed #cbd5e1; display: flex; align-items: center; justify-content: center; color: #94a3b8; font-size: 12px; }
     </style>
+    <script type="application/ld+json" id="ld-json">
+        {
+          "@context": "https://schema.org",
+          "@type": "ProfilePage",
+          "mainEntity": {
+            "@type": "Person",
+            "name": "",
+            "jobTitle": "제22대 국회의원",
+            "affiliation": {
+              "@type": "Organization",
+              "name": ""
+            }
+          }
+        }
+        </script>
 </head>
 <body class="text-slate-900 pb-20 md:pb-0"> <nav class="bg-white/80 backdrop-blur-xl sticky top-0 z-50 border-b border-slate-100 px-4 py-3">
         <div class="max-w-6xl mx-auto flex justify-between items-center">
             <button onclick="history.back()" class="w-10 h-10 flex items-center justify-center rounded-full bg-slate-50 hover:bg-slate-100 text-slate-600">
                 <i class="fa-solid fa-chevron-left"></i>
             </button>
-            <span class="font-black text-lg tracking-tight italic text-blue-600">ASSEMBLY <span class="text-slate-400 font-light">REPORT</span></span>
+            <span class="font-black text-lg tracking-tight text-blue-600">의원 상세 리포트</span>
             <div class="flex gap-2">
                 <button class="hidden md:flex px-4 py-2 rounded-full bg-blue-600 text-white text-xs font-bold">공유하기</button>
                 <button class="w-10 h-10 md:hidden flex items-center justify-center rounded-full bg-slate-50"><i class="fa-solid fa-share-nodes"></i></button>
@@ -28,7 +48,13 @@
         </div>
     </nav>
 
+    <div id="loading" class="max-w-md mx-auto p-20 text-center">
+        <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-blue-500 border-t-transparent mb-4"></div>
+        <p class="text-slate-400 font-bold text-sm">AI 데이터 분석 중...</p>
+    </div>
+
     <main id="content" class="max-w-6xl mx-auto p-4 md:p-8 grid grid-cols-1 lg:grid-cols-12 gap-6">
+        
         
         <div class="lg:col-span-4 space-y-6">
             <section class="card p-8 text-center relative overflow-hidden">
@@ -123,15 +149,33 @@
 
         function renderPage(data) {
             const { profile, analysis, recent_news: news, recent_videos: videos } = data;
+            const memberName = profile.NAAS_NM;
+            const partyName = profile.CURR_PLPT_NM;
 
             // 1. 프로필
+            const title = `${memberName} 의원 AI 분석 리포트 | ${partyName} - 국회 인사이트`;
+            const desc = `${memberName} 의원(${partyName})의 최신 뉴스 언급량, 유튜브 활동, AI 핵심 키워드(#${analysis.keywords.slice(0,3).join(', #')}) 분석 결과를 확인하세요.`;
+    
+            document.title = title;            
+            document.getElementById('meta-title').innerText = title;
+            document.getElementById('meta-desc').setAttribute('content', desc);
+            document.getElementById('og-title').setAttribute('content', title);
+            document.getElementById('og-desc').setAttribute('content', desc);
+            document.getElementById('member-pic').alt = `${memberName} 국회의원 프로필 사진`;
             document.getElementById('member-name').innerText = profile.NAAS_NM;
+
             const partyBadge = document.getElementById('member-party-badge');
             partyBadge.innerText = profile.CURR_PLPT_NM;
             partyBadge.className += getPartyClass(profile.CURR_PLPT_NM);
             
             document.getElementById('member-info').innerText = `${profile.CURR_ELECD_NM} · ${profile.RLCT_COUNT || 1}선 의원`;
             document.getElementById('member-pic').src = `./${profile.PHOTO_PATH}`;
+
+            // JSON-LD 구조화 데이터 업데이트
+            const ldJson = JSON.parse(document.getElementById('ld-json').innerHTML);
+            ldJson.mainEntity.name = memberName;
+            ldJson.mainEntity.affiliation.name = partyName;
+            document.getElementById('ld-json').innerHTML = JSON.stringify(ldJson);
 
             // 2. 키워드
             const keywordContainer = document.getElementById('member-keywords');

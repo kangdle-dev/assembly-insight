@@ -1,0 +1,52 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e40af"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="url(#bgGrad)"/>
+  
+  <!-- Inner shadow -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.1"/>
+  
+  <!-- Capitol dome / Assembly building stylized icon -->
+  <g transform="translate(256, 270)">
+    <!-- Main dome -->
+    <path d="M -80 20 
+             Q -80 -60 0 -80 
+             Q 80 -60 80 20 
+             L 80 20 
+             L -80 20 Z" 
+          fill="url(#iconGrad)"/>
+    
+    <!-- Dome top -->
+    <circle cx="0" cy="-85" r="15" fill="url(#iconGrad)"/>
+    <rect x="-3" y="-100" width="6" height="20" fill="url(#iconGrad)"/>
+    
+    <!-- Pillars -->
+    <rect x="-70" y="20" width="16" height="70" fill="url(#iconGrad)" rx="3"/>
+    <rect x="-40" y="20" width="16" height="70" fill="url(#iconGrad)" rx="3"/>
+    <rect x="-8" y="20" width="16" height="70" fill="url(#iconGrad)" rx="3"/>
+    <rect x="24" y="20" width="16" height="70" fill="url(#iconGrad)" rx="3"/>
+    <rect x="54" y="20" width="16" height="70" fill="url(#iconGrad)" rx="3"/>
+    
+    <!-- Base -->
+    <rect x="-90" y="90" width="180" height="20" fill="url(#iconGrad)" rx="4"/>
+    
+    <!-- Steps -->
+    <rect x="-100" y="110" width="200" height="12" fill="url(#iconGrad)" rx="3"/>
+  </g>
+  
+  <!-- Data dots decoration -->
+  <circle cx="130" cy="150" r="12" fill="#ffffff" opacity="0.3"/>
+  <circle cx="382" cy="150" r="12" fill="#ffffff" opacity="0.3"/>
+  <circle cx="100" cy="380" r="8" fill="#ffffff" opacity="0.2"/>
+  <circle cx="412" cy="380" r="8" fill="#ffffff" opacity="0.2"/>
+</svg>

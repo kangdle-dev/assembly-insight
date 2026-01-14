@@ -3,7 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>제22대 국회 데이터 인사이트</title>
+    <title>제22대 국회 데이터 인사이트 | 대한민국 국회의원 AI 분석 리포트</title>
+    <meta name="description" content="제22대 국회의원 296명의 정책 발표, SNS 활동, 뉴스 화제성을 AI로 분석한 실시간 리포트를 확인하세요.">
+    <meta name="keywords" content="국회, 국회의원, 22대국회, 의원조회, 정책분석, 화제성순위">
+    
+    <meta property="og:title" content="국회 인사이트 - 데이터로 보는 의원 리포트">
+    <meta property="og:description" content="의원 296명의 실시간 이슈와 정책 데이터를 한눈에 확인하세요.">
+    <meta property="og:image" content="https://assembly-insight.com/og-image.png">    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/favicon-192.png">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -19,20 +28,20 @@
 
 <div class="max-w-md mx-auto md:max-w-4xl px-4 pt-6">
     <header class="mb-8">
-        <h1 class="text-xl font-black mb-6 text-slate-800 flex items-center gap-2 italic">
-            <span class="text-blue-600 text-2xl">🌐</span> ASSEMBLY <span class="text-slate-400 font-light">INSIGHT</span>
-        </h1>
-        
-        <div class="bg-slate-100 rounded-2xl h-20 mb-6 flex items-center justify-center border border-dashed border-slate-300">
-            <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest italic">AD: Top Billboard (728x90)</span>
-        </div>
+        <h1 class="text-xl font-black mb-6 text-slate-800 flex items-center gap-2">
+            <span class="text-blue-600 text-2xl">🌐</span> 22대 국회의원 <span class="text-slate-400 font-light">INSIGHT</span>
+        </h1>       
 
-        <div class="relative">
+        <div class="mb-6">
             <div class="flex items-center bg-white rounded-2xl shadow-lg px-5 py-4 border-2 border-transparent focus-within:border-blue-500 transition-all">
                 <i class="fa-solid fa-magnifying-glass text-slate-400 mr-3"></i>
                 <input type="text" id="search-input" placeholder="의원 이름을 입력하세요" class="w-full outline-none text-base font-semibold">
             </div>
             <div id="search-results" class="absolute w-full top-16 left-0 z-[100] bg-white rounded-2xl shadow-2xl border border-slate-100 hidden max-h-[50vh] overflow-y-auto"></div>
+        </div>
+
+        <div class="bg-slate-100 rounded-2xl mb-6 h-20 flex items-center justify-center border border-dashed border-slate-300">
+            <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest italic">AD: Top Billboard (728x90)</span>
         </div>
     </header>
 
@@ -70,6 +79,12 @@
 
     <div id="member-grid" class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-3 md:gap-4"></div>
 
+    <div id="infinite-scroll-trigger" class="h-20 flex items-center justify-center mt-4">
+        <div id="loading-spinner" class="hidden">
+            <i class="fa-solid fa-circle-notch fa-spin text-blue-600 text-2xl"></i>
+        </div>
+    </div>
+
     <div class="mt-10 text-center">
         <button id="load-more-btn" class="w-full py-4 rounded-2xl bg-white border border-slate-200 text-slate-600 font-bold text-sm shadow-sm hover:bg-slate-50 transition-all flex items-center justify-center gap-2">
             의원 더보기 <i class="fa-solid fa-chevron-down opacity-50"></i>
@@ -87,6 +102,7 @@
     let allMembers = [];
     let filteredMembers = [];
     let displayCount = 12; // 한 번에 보여줄 의원 수
+    const PAGE_SIZE = 12; // 한 번 스크롤할 때마다 추가될 개수
     const CHOSUNG = ['전체','ㄱ', 'ㄴ', 'ㄷ', 'ㄹ', 'ㅁ', 'ㅂ','ㅅ', 'ㅈ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
 
     async function init() {
@@ -101,6 +117,7 @@
             renderChoFilter();
             updateDashboard(allMembers);
             renderGrid();
+            initInfiniteScroll(); // 스크롤 감지 시작
         } catch (error) {
             console.error("Error:", error);
             document.getElementById('member-grid').innerHTML = "<p class='col-span-full text-center py-20 text-slate-400'>데이터를 찾을 수 없습니다.</p>";
@@ -144,23 +161,20 @@
         btn.classList.remove('bg-white', 'text-slate-400', 'border-slate-50');
         btn.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
 
+        // 필터링 시 데이터 초기화 필수
+        displayCount = PAGE_SIZE;
+        window.scrollTo(0, 0); // 상단으로 이동
+        
         if (targetCho === "전체") {
             filteredMembers = allMembers;
         } else {
             filteredMembers = allMembers.filter(m => {
-                const name = m.NAAS_NM || m.HG_NM || "";
-                const charCho = getFirstCho(name);
-                
-                // 쌍자음 처리 (ㄲ->ㄱ, ㅆ->ㅅ 등으로 맵핑하여 사용성 개선)
+                const charCho = getFirstCho(m.NAAS_NM || m.HG_NM || "");
                 const mappedCho = { 'ㄲ': 'ㄱ', 'ㄸ': 'ㄷ', 'ㅃ': 'ㅂ', 'ㅆ': 'ㅅ', 'ㅉ': 'ㅈ' };
-                const finalCho = mappedCho[charCho] || charCho;
-                
-                return finalCho === targetCho;
+                return (mappedCho[charCho] || charCho) === targetCho;
             });
         }
-        
-        displayCount = 12; // 필터링 시 보여줄 개수 초기화
-        renderGrid();
+        renderGrid(false); // 새로 렌더링
     }
 
     function updateDashboard(data) {
@@ -187,10 +201,10 @@
         document.getElementById('stat-pro').innerText = pro;
     }
 
-    function renderGrid() {
+    function renderGrid(isAppend = false) {
         const grid = document.getElementById('member-grid');
-        const itemsToDisplay = filteredMembers.slice(0, displayCount);
-        const loadMoreBtn = document.getElementById('load-more-btn');
+        const start = isAppend ? displayCount - PAGE_SIZE : 0;
+        const itemsToDisplay = filteredMembers.slice(start, displayCount);
         
        // 1. 결과가 없을 경우 처리
         if (filteredMembers.length === 0) {
@@ -215,25 +229,59 @@
         }
 
         // 2. 결과가 있을 경우 렌더링 (기존 로직)
-        grid.innerHTML = itemsToDisplay.map((m, idx) => `
-            <div class="card p-4 flex items-center gap-4 cursor-pointer active:scale-95 transition-all" 
-                onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
-                <div class="w-16 h-16 rounded-2xl overflow-hidden bg-slate-100 flex-shrink-0 shadow-inner">
-                    <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" 
-                        onerror="this.src='https://via.placeholder.com/150x200?text=👤'">
+        const htmlContent = itemsToDisplay.map((m, idx) => {
+            // [수익화 팁] 특정 간격(예: 8번째 카드마다)으로 광고 카드 삽입
+            const adHtml = (isAppend && (start + idx) % 8 === 0) ? `
+                <div class="col-span-full my-4 p-4 card bg-slate-50 border-dashed border-slate-200 flex items-center justify-center">
+                    <span class="text-[10px] text-slate-300 font-bold uppercase italic">Sponsored Ad</span>
                 </div>
-                <div>
-                    <div class="text-[10px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">
-                        ${m.CURR_PLPT_NM}
+            ` : '';
+
+            return `
+                ${adHtml}
+                <div class="card p-4 flex items-center gap-4 cursor-pointer active:scale-95 transition-all" 
+                    onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                    <div class="w-16 h-16 rounded-2xl overflow-hidden bg-slate-100 flex-shrink-0">
+                        <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/150x200?text=👤'">
                     </div>
-                    <div class="font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
-                    <div class="text-[9px] text-slate-400 font-bold line-clamp-1">${m.CURR_ELECD_NM}</div>
+                    <div>
+                        <div class="text-[10px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">${m.CURR_PLPT_NM}</div>
+                        <div class="font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
+                        <div class="text-[9px] text-slate-400 font-bold">${m.CURR_ELECD_NM}</div>
+                    </div>
                 </div>
-            </div>
-        `).join('');
+            `;
+        }).join('');
+
+        if (isAppend) {
+            grid.insertAdjacentHTML('beforeend', htmlContent);
+        } else {
+            grid.innerHTML = htmlContent;
+        }
 
         // 더보기 버튼 노출 여부
-        document.getElementById('load-more-btn').style.display = (displayCount >= filteredMembers.length) ? 'none' : 'flex';
+        // document.getElementById('load-more-btn').style.display = (displayCount >= filteredMembers.length) ? 'none' : 'flex';
+    }
+
+    // 무한 스크롤 옵저버 설정
+    function initInfiniteScroll() {
+        const trigger = document.getElementById('infinite-scroll-trigger');
+        const spinner = document.getElementById('loading-spinner');
+
+        const observer = new IntersectionObserver((entries) => {
+            if (entries[0].isIntersecting && displayCount < filteredMembers.length) {
+                spinner.classList.remove('hidden'); // 로딩 표시
+                
+                // 약간의 지연(0.5초)을 주어 자연스러운 로딩 연출
+                setTimeout(() => {
+                    displayCount += PAGE_SIZE;
+                    renderGrid(true);
+                    spinner.classList.add('hidden');
+                }, 500);
+            }
+        }, { threshold: 0.1 });
+
+        observer.observe(trigger);
     }
 
     // 더보기 버튼 이벤트
