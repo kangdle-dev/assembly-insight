@@ -1,0 +1,13 @@
+# 빌드 도구 및 소스 코드
+build.js
+*.py
+requirements.txt
+venv/
+
+# 템플릿 및 원본 데이터
+detail_template.html
+# data_export/ (만약 JS에서 직접 fetch한다면 제외하면 안 됩니다!)
+
+# 기타 설정 파일
+.env
+node_modules/
