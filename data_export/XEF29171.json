@@ -52,107 +52,185 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
-            "완주",
-            "통합",
             "반도체",
-            "전주",
+            "민주당",
             "용인",
+            "완주",
             "전북",
+            "통합",
+            "전주",
             "이전",
-            "대통령",
-            "반대",
-            "정치권",
-            "건의",
-            "장관",
             "해법",
-            "인터뷰"
+            "전자",
+            "지방",
+            "기자회견",
+            "대통령",
+            "장관",
+            "반대"
         ],
         "keyword_frequency": [
             {
+                "text": "반도체",
+                "value": 32
+            },
+            {
                 "text": "민주당",
-                "value": 20
+                "value": 26
+            },
+            {
+                "text": "용인",
+                "value": 24
             },
             {
                 "text": "완주",
-                "value": 18
+                "value": 21
+            },
+            {
+                "text": "전북",
+                "value": 20
             },
             {
                 "text": "통합",
                 "value": 18
             },
             {
-                "text": "반도체",
-                "value": 13
-            },
-            {
                 "text": "전주",
-                "value": 12
-            },
-            {
-                "text": "용인",
-                "value": 12
-            },
-            {
-                "text": "전북",
-                "value": 10
+                "value": 16
             },
             {
                 "text": "이전",
+                "value": 13
+            },
+            {
+                "text": "해법",
                 "value": 8
+            },
+            {
+                "text": "전자",
+                "value": 7
+            },
+            {
+                "text": "지방",
+                "value": 7
+            },
+            {
+                "text": "기자회견",
+                "value": 7
             },
             {
                 "text": "대통령",
                 "value": 7
             },
             {
-                "text": "반대",
+                "text": "장관",
                 "value": 7
             },
             {
-                "text": "정치권",
-                "value": 6
-            },
-            {
-                "text": "건의",
-                "value": 6
-            },
-            {
-                "text": "장관",
-                "value": 6
-            },
-            {
-                "text": "해법",
-                "value": 6
-            },
-            {
-                "text": "인터뷰",
-                "value": 6
+                "text": "반대",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:19.860622",
+        "last_analyzed_at": "2026-01-14T10:27:04.840063",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 0,
                 2,
                 2,
                 1,
                 5,
+                6,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec9c887d07f7ba2fb30b",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104224?sid=101",
+            "created_at": "2026-01-14T10:08:45.265000",
+            "description": "[안호영/민주당 국회의원 : \"용인 반도체 사업은 되돌릴 수 없는 단계가 아닙니다. SK 팹 1기를 제외하면 90% 이상이 아직 계획 단계로 입지 변경은 충분히 가능합니다.\"] 안 의원은 특히 용인의 전력과 용수로는 삼성전자의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457993&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T21:42:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“반도체 전북 이전 근거 충분”…남부권 벨트에 전주 포함도"
+        },
+        {
+            "_id": "6966ec9c887d07f7ba2fb30c",
+            "link": "https://n.news.naver.com/mnews/article/659/0000040398?sid=102",
+            "created_at": "2026-01-14T10:08:45.265000",
+            "description": "[안호영 / 더불어민주당 국회의원(국회 기후에너지환경노동위원장)] \"만약에 전북이 3~4년 내 (반도체) 공장 가동이 확실한 현실적인 대안을 제시한다면, 삼성전자 역시 입지 조정을 검토하지 않을 이유가 없을 것입니다... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/61448",
+            "press": "MBC",
+            "pubDate": "2026-01-13T20:00:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "반도체 클러스터 갈등 진정 국면.. 새만금 준비가 관건"
+        },
+        {
+            "_id": "6966ec9c887d07f7ba2fb30d",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104056?sid=101",
+            "created_at": "2026-01-14T10:08:45.265000",
+            "description": "[안호영/민주당 국회의원 : \"용인 반도체 사업은 되돌릴 수 없는 단계가 아닙니다. SK 팹 1기를 제외하면 90% 이상이 아직 계획 단계로 입지 변경은 충분히 가능합니다.\"] 안 의원은 특히 용인의 전력과 용수로는 삼성전자의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457752&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T19:09:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“반도체 전북 이전 근거 충분”…남부권 벨트에 전주 포함도"
+        },
+        {
+            "_id": "6966ec9c887d07f7ba2fb30e",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706993?sid=102",
+            "created_at": "2026-01-14T10:08:45.266000",
+            "description": "안호영(완주·진안·무주) 국회의원이 '반도체 클러스터 새만금 이전론'과 관련해 \"용인 반도체 리스크 점검과 함께 지방에 배치할 준비를 해야한다\"고 밝혔다. 안 의원은 13일 전북특별자치도의회에서 기자회견을 열고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003474688",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T10:24:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "안호영 \"용인 반도체 리스크 점검하고 지방배치 준비해야\""
+        },
+        {
+            "_id": "6966ec9c887d07f7ba2fb310",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706952?sid=102",
+            "created_at": "2026-01-14T10:08:45.266000",
+            "description": "더불어민주당 안호영(완주·진안·무주) 국회의원이 13일 전북 전주시 전북특별자치도의회 기자회견장에서 '용인 반도체 삼성전자 이전'과 관련한 기자회견을 열고 질의에 답변하고 있다. 2026.01.13. pmkeul... ",
+            "originallink": "https://www.newsis.com/view/NISI20260113_0021124667",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T10:19:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "안호영 의원 '새만금 반도체가 해법이다!'"
+        },
+        {
+            "_id": "6966ec9c887d07f7ba2fb30f",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706951?sid=102",
+            "created_at": "2026-01-14T10:08:45.266000",
+            "description": "더불어민주당 안호영(완주·진안·무주) 국회의원이 13일 전북 전주시 전북특별자치도의회 기자회견장에서 '용인 반도체 삼성전자 이전'과 관련한 기자회견을 열고 질의에 답변하고 있다. 2026.01.13. pmkeul... ",
+            "originallink": "https://www.newsis.com/view/NISI20260113_0021124688",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T10:19:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "용인 반도체 관련 기자회견 연 안호영 국회의원"
+        },
         {
             "_id": "696594c3887d07f7ba2fab5d",
             "link": "https://n.news.naver.com/mnews/article/056/0012103414?sid=102",
@@ -216,7 +294,7 @@
             "_id": "6964b54c631fd174349960e0",
             "link": "https://n.news.naver.com/mnews/article/033/0000050121?sid=101",
             "created_at": "2026-01-12T17:48:09.495000",
-            "description": "둔 국회의원들이 항의에 나서고, 호남 등 비수도권 의원들이 용인 반도체 공장 이전을 주장하면서 논란이... 전북도지사 출마를 선언한 안호영 더불어민주당 의원 등은 새만금으로 이전하는 방안을 내놓았다.... ",
+            "description": "김성환 기후에너지환경부 장관이 지난해 12월 26일 CBS 라디오에 출연해 “용인에 SK하이닉스와 삼성전자가... 둔 국회의원들이 항의에 나서고, 호남 등 비수도권 의원들이 용인 반도체 공장 이전을 주장하면서 논란이... ",
             "originallink": "https://weekly.khan.co.kr/article/202601120600021",
             "press": "경향신문",
             "pubDate": "2026-01-12T06:04:00",
@@ -330,43 +408,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ad11631fd1743497d8f4",
-            "url": "https://www.youtube.com/watch?v=MSXQhxrxlx8",
+            "_id": "6966ef4e887d07f7ba2fb480",
+            "url": "https://www.youtube.com/watch?v=uRL5DjtEjmo",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.246000",
-            "duration": 604.0,
-            "title": "인터뷰 릴레이 칭찬 232회 안호영 의원(더불어민주당)",
+            "collected_at": "2026-01-14T10:20:14.139000",
+            "duration": 1685.0,
+            "title": "[지자체를말한다]국회의원 안호영 편",
             "upload_date": null
         },
         {
-            "_id": "6960ad11631fd1743497d8f8",
-            "url": "https://www.youtube.com/watch?v=wdSFfZIl1K8",
+            "_id": "6966ef4e887d07f7ba2fb481",
+            "url": "https://www.youtube.com/watch?v=rKFs6aCEGKM",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.246000",
-            "duration": 585.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 안호영 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad11631fd1743497d8f5",
-            "url": "https://www.youtube.com/watch?v=BDExWP0klaQ",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.246000",
-            "duration": 597.0,
-            "title": "제20대 국회 인터뷰 릴레이 칭찬 173회 안호영 의원 더불어민주당",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad11631fd1743497d8f6",
-            "url": "https://www.youtube.com/watch?v=zxm2dvSjArU",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.246000",
-            "duration": 61.0,
-            "title": "[국회의원 안호영] 즐거운 한가위 되세요",
+            "collected_at": "2026-01-14T10:20:14.139000",
+            "duration": 2362.0,
+            "title": "[팩트TV 풀영상] 더불어민주당 안호영 의원 교육사회문화 분야 대정부질문 풀영상 (2023.9.8)",
             "upload_date": null
         },
         {
@@ -380,13 +438,63 @@
             "upload_date": null
         },
         {
+            "_id": "6965962a887d07f7ba2fad1f",
+            "url": "https://www.youtube.com/watch?v=l-68sA_pR4M",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-14T10:20:14.848000",
+            "duration": 916.0,
+            "title": "[1번지초대석] 국감 달군 '과로사·쿠팡 일용직' 이슈…안호영 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad11631fd1743497d8f7",
             "url": "https://www.youtube.com/watch?v=nCHXlbv7K6o",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.990000",
+            "collected_at": "2026-01-14T10:20:14.139000",
             "duration": 1116.0,
             "title": "[뉴스하이킥] 환노위원장 민주 안호영 \"'쿠팡 봐주기 의혹' 검사는 윤석열 사단 핵심...정확히 감찰해봐야\" - 안호영, MBC 251002 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f6",
+            "url": "https://www.youtube.com/watch?v=zxm2dvSjArU",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-14T10:20:14.139000",
+            "duration": 61.0,
+            "title": "[국회의원 안호영] 즐거운 한가위 되세요",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f8",
+            "url": "https://www.youtube.com/watch?v=wdSFfZIl1K8",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-14T10:20:14.139000",
+            "duration": 585.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 안호영 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f4",
+            "url": "https://www.youtube.com/watch?v=MSXQhxrxlx8",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-14T10:20:14.139000",
+            "duration": 604.0,
+            "title": "인터뷰 릴레이 칭찬 232회 안호영 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f5",
+            "url": "https://www.youtube.com/watch?v=BDExWP0klaQ",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-14T10:20:14.139000",
+            "duration": 597.0,
+            "title": "제20대 국회 인터뷰 릴레이 칭찬 173회 안호영 의원 더불어민주당",
             "upload_date": null
         },
         {
@@ -394,21 +502,11 @@
             "url": "https://www.youtube.com/watch?v=h-DMg_vOB4g",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.990000",
+            "collected_at": "2026-01-14T10:20:14.848000",
             "duration": 727.0,
             "title": "[초대석] 쿠팡 총공세…안호영 민주당 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
-        },
-        {
-            "_id": "6965962a887d07f7ba2fad1f",
-            "url": "https://www.youtube.com/watch?v=l-68sA_pR4M",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-13T09:47:36.990000",
-            "duration": 916.0,
-            "title": "[1번지초대석] 국감 달군 '과로사·쿠팡 일용직' 이슈…안호영 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:19.860622"
+    "exported_at": "2026-01-14T10:27:04.840063"
 }

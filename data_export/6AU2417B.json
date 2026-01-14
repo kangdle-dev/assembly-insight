@@ -53,64 +53,52 @@
     "analysis": {
         "keywords": [
             "민주당",
-            "장연",
             "서울시",
+            "장연",
             "장애인",
-            "간담",
             "서울시장",
-            "오세훈",
-            "김영배",
-            "후보",
-            "전현희",
+            "간담",
             "서영교",
+            "오세훈",
             "선동",
+            "김영배",
+            "전현희",
             "박홍근",
             "출마",
+            "위원장",
             "정책"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 30
-            },
-            {
-                "text": "장연",
-                "value": 30
+                "value": 28
             },
             {
                 "text": "서울시",
-                "value": 21
+                "value": 24
+            },
+            {
+                "text": "장연",
+                "value": 22
             },
             {
                 "text": "장애인",
-                "value": 21
-            },
-            {
-                "text": "간담",
-                "value": 20
+                "value": 18
             },
             {
                 "text": "서울시장",
-                "value": 19
+                "value": 15
             },
             {
-                "text": "오세훈",
-                "value": 13
-            },
-            {
-                "text": "김영배",
-                "value": 13
-            },
-            {
-                "text": "후보",
-                "value": 13
-            },
-            {
-                "text": "전현희",
-                "value": 12
+                "text": "간담",
+                "value": 15
             },
             {
                 "text": "서영교",
+                "value": 12
+            },
+            {
+                "text": "오세훈",
                 "value": 11
             },
             {
@@ -118,11 +106,23 @@
                 "value": 10
             },
             {
-                "text": "박홍근",
+                "text": "김영배",
                 "value": 10
             },
             {
+                "text": "전현희",
+                "value": 10
+            },
+            {
+                "text": "박홍근",
+                "value": 8
+            },
+            {
                 "text": "출마",
+                "value": 7
+            },
+            {
+                "text": "위원장",
                 "value": 7
             },
             {
@@ -130,29 +130,62 @@
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:14.495663",
+        "last_analyzed_at": "2026-01-14T10:26:59.622121",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
-                0,
-                13,
+                11,
                 1,
                 1,
                 2,
-                3
+                4,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec90887d07f7ba2fb2f8",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104788?sid=100",
+            "created_at": "2026-01-14T10:08:32.885000",
+            "description": "그런데 정성호 법무부 장관 민주당 의원 출신이시잖아요. 그런데 여당 법사위원님들과 생각이 다르신 것... 두 번째 제가 국회의원 300명 중에 법률소비자연맹에서 등수를 매겼습니다. 제가 1등 했습니다. 의정 활동. 그거는... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455761?utm_source=naver&utm_medium=article&utm_campaign=20260114073035",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-14T07:31:00",
+            "related_members": [
+                "6AU2417B",
+                "TKJ4800F",
+                "V429892C"
+            ],
+            "title": "서영교 \"서울시 교통문제…지하철 2칸씩 늘릴 것\"[한판승부]"
+        },
+        {
+            "_id": "6966ec7f887d07f7ba2fb2c8",
+            "link": "https://n.news.naver.com/mnews/article/005/0001825967?sid=100",
+            "created_at": "2026-01-14T10:08:16.261000",
+            "description": "민주당 의원은 이날 국회도서관에서 열린 검찰개혁 긴급토론회에서 “보완수사권 내지 보완수사 요구권 그 어떤 명분으로도 수사권을 검찰에 쥐어주는 일은 있어선 안된다”고 강조했다. 한병도·박주민·김용민·민형배... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029245724&code=61111511&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-13T21:30:00",
+            "related_members": [
+                "2385336L",
+                "H5476989",
+                "OFE45081",
+                "6AU2417B",
+                "VRY5522V",
+                "URV1689Q"
+            ],
+            "title": "정청래 “보완수사권 대신 보완수사요구권”"
+        },
         {
             "_id": "69659499887d07f7ba2fab15",
             "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
@@ -383,7 +416,7 @@
             "_id": "6964b54d631fd174349960fd",
             "link": "https://n.news.naver.com/mnews/article/016/0002583640?sid=102",
             "created_at": "2026-01-12T17:48:10.904000",
-            "description": "9일 국회의원회관에서 박경석 공동대표(앞줄 왼쪽 세 번째) 등 전국장애인차별철폐연대 활동가들과 간담회에 앞서 파이팅을 외치고 있다. 뒷줄 왼쪽부터 민주당 장경태·박주민 의원, 홍익표 전 의원, 전현희·김영배... ",
+            "description": "9일 국회의원회관에서 박경석 공동대표(앞줄 왼쪽 세 번째) 등 전국장애인차별철폐연대 활동가들과... 전 의원, 전현희·김영배·서영교 의원. 앞줄 왼쪽 두번째는 민주당 전국장애인위원장인 서미화 의원. [연합]... ",
             "originallink": "https://biz.heraldcorp.com/article/10652571?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-09T17:28:00",
@@ -500,7 +533,7 @@
             "_id": "6964b560631fd1743499627a",
             "link": "https://n.news.naver.com/mnews/article/023/0003951991?sid=102",
             "created_at": "2026-01-12T17:48:29.534000",
-            "description": "전장연과 민주당 전·현직 의원들은 이날 오전 국회의원회관에서 장애인 권리 보장 관련 현안 논의를 위한... 민주당에서는 김영배 의원을 비롯해 박홍근·서영교·전현희·박주민 의원, 홍익표 전 의원, 장경태 민주당... ",
+            "description": "전장연과 민주당 전·현직 의원들은 이날 오전 국회의원회관에서 장애인 권리 보장 관련 현안 논의를 위한... 박홍근·서영교·전현희·박주민 의원, 홍익표 전 의원, 장경태 민주당 서울시당위원장, 서미화 민주당... ",
             "originallink": "https://www.chosun.com/national/national_general/2026/01/09/NJSWFID63ZH2BALMIRD4GS5SKU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-09T15:00:00",
@@ -514,59 +547,15 @@
                 "RPN2293B"
             ],
             "title": "전장연 만난 與 “오세훈, 장애인 이동권 위해 뭐 했나” vs. 서울시 “..."
-        },
-        {
-            "_id": "6964b560631fd1743499627b",
-            "link": "https://n.news.naver.com/mnews/article/020/0003688139?sid=100",
-            "created_at": "2026-01-12T17:48:29.534000",
-            "description": "민주당 김영배 의원은 이날 오전 국회에서 전장연과 당 서울시장 후보인 박홍근·서영교·전현희·박주민 의원 및 홍익표 전 의원의 장애인 권리보장 관련 현안 논의를 위한 간담회를 열었다. 앞서 전장연은 6월 지방선거... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260109/133124300/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-09T13:25:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "S824682L",
-                "B7D7534L",
-                "TKJ4800F"
-            ],
-            "title": "전장연 만난 與후보들 “장애인 공공일자리 복원 협의”"
-        },
-        {
-            "_id": "6964b562631fd1743499628e",
-            "link": "https://n.news.naver.com/mnews/article/421/0008705211?sid=100",
-            "created_at": "2026-01-12T17:48:31.794000",
-            "description": "김영배 민주당 의원은 이날 오전 국회에서 전장연과 당 서울시장 후보인 박홍근·서영교·전현희·박주민 의원 및 홍익표 전 의원의 장애인 권리보장 관련 현안 논의를 위한 간담회를 개최했다. 김 의원은 지난 6일 전장연... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6033887",
-            "press": "뉴스1",
-            "pubDate": "2026-01-09T12:09:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "S824682L",
-                "B7D7534L",
-                "TKJ4800F"
-            ],
-            "title": "與 서울시장 후보들, 전장연 간담회…\"오세훈은 뭐했나\""
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960ac7c631fd1743497d6b0",
-            "url": "https://www.youtube.com/watch?v=klL5J7VrhfM",
-            "HG_NM": "박주민",
-            "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:53.666000",
-            "duration": 606.0,
-            "title": "[속보] '패스트트랙 충돌' 더불어민주당 박범계·박주민에 법원, 벌금 300만원 선고유예 선고/2025년 12월 19일(금)/KBS",
-            "upload_date": null
-        },
         {
             "_id": "6960ac8c631fd1743497d6f5",
             "url": "https://www.youtube.com/watch?v=W-A4AMr6aqQ",
             "HG_NM": "박주민",
             "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:52.900000",
+            "collected_at": "2026-01-14T10:18:30.921000",
             "duration": 493.0,
             "title": "[현장쏙] 명태균 \"제가 박주민 의원 디스해도 될까요?\"…국힘 박수민 (손사레) \"아니요 아니요\" / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -576,7 +565,7 @@
             "url": "https://www.youtube.com/watch?v=Sjy4f9kSWEU",
             "HG_NM": "박주민",
             "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:52.900000",
+            "collected_at": "2026-01-14T10:18:30.921000",
             "duration": 60.0,
             "title": "#박주민 #의원 #부인 #정치와 #법을 #넘나드는 #동행자 #강영구 #변호사",
             "upload_date": null
@@ -596,7 +585,7 @@
             "url": "https://www.youtube.com/watch?v=UCoFvuvMlEPICy1ClmlgzA4g",
             "HG_NM": "박주민",
             "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:52.900000",
+            "collected_at": "2026-01-14T10:18:30.921000",
             "duration": null,
             "title": "박주민TV",
             "upload_date": null
@@ -606,7 +595,7 @@
             "url": "https://www.youtube.com/watch?v=qHIYuY4asp0",
             "HG_NM": "박주민",
             "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:52.900000",
+            "collected_at": "2026-01-14T10:18:30.921000",
             "duration": 164.0,
             "title": "SNL 코리아 시즌3 | 하이라이트 | 주기자가 간다 | 박주민 더불어민주당 의원 | 쿠팡플레이 | 쿠팡",
             "upload_date": null
@@ -616,7 +605,7 @@
             "url": "https://www.youtube.com/watch?v=AVZv0fUHRrw",
             "HG_NM": "박주민",
             "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:52.900000",
+            "collected_at": "2026-01-14T10:18:30.921000",
             "duration": 936.0,
             "title": "(초유의 사태!) 전직 기자,  국회 소회의실 침입...박주민 위원장 \"3선 했는데, 이런 적은 처음\"",
             "upload_date": null
@@ -626,11 +615,11 @@
             "url": "https://www.youtube.com/watch?v=oJs1LmZUNJU",
             "HG_NM": "박주민",
             "MONA_CD": "6AU2417B",
-            "collected_at": "2026-01-13T09:45:53.666000",
+            "collected_at": "2026-01-14T10:18:31.653000",
             "duration": 1778.0,
             "title": "[박정호의 핫스팟+박주민] 침대 재판된 윤석열 구형, 놀아난 지귀연 책임 커…오히려 응원하는 꼴(1월 12일 전체보기)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:14.496664"
+    "exported_at": "2026-01-14T10:26:59.622121"
 }

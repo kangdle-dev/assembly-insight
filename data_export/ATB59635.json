@@ -49,19 +49,19 @@
         "keywords": [
             "민주당",
             "경기도",
+            "검찰",
+            "개혁",
             "시장",
             "김동연",
             "대표",
             "베네수엘라",
-            "한준호",
+            "국제",
+            "수사권",
             "지사",
             "군사작전",
-            "국제",
-            "경태",
-            "부승찬",
-            "추미애",
-            "미국",
-            "평화"
+            "평화",
+            "위협",
+            "강경"
         ],
         "keyword_frequency": [
             {
@@ -71,6 +71,14 @@
             {
                 "text": "경기도",
                 "value": 7
+            },
+            {
+                "text": "검찰",
+                "value": 6
+            },
+            {
+                "text": "개혁",
+                "value": 6
             },
             {
                 "text": "시장",
@@ -89,7 +97,11 @@
                 "value": 6
             },
             {
-                "text": "한준호",
+                "text": "국제",
+                "value": 6
+            },
+            {
+                "text": "수사권",
                 "value": 5
             },
             {
@@ -101,53 +113,78 @@
                 "value": 5
             },
             {
-                "text": "국제",
-                "value": 5
-            },
-            {
-                "text": "경태",
-                "value": 5
-            },
-            {
-                "text": "부승찬",
-                "value": 4
-            },
-            {
-                "text": "추미애",
-                "value": 4
-            },
-            {
-                "text": "미국",
-                "value": 4
-            },
-            {
                 "text": "평화",
+                "value": 5
+            },
+            {
+                "text": "위협",
+                "value": 5
+            },
+            {
+                "text": "강경",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:06.038798",
+        "last_analyzed_at": "2026-01-14T10:26:51.606176",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 0,
                 1,
                 1,
                 1,
                 1,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec71887d07f7ba2fb267",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712031?sid=100",
+            "created_at": "2026-01-14T10:08:01.991000",
+            "description": "경찰 출신의 황운하 조국혁신당 의원은 중수청과 공소청의 관계 설정 자체를 문제 삼았다. 그는 \"사실상... 법사위 여당 간사인 김용민 민주당 의원은 이날 오후 국회도서관에서 '바람직한 검찰개혁을 위한 긴급토론회'를... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037780",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T17:14:00",
+            "related_members": [
+                "8P37634C",
+                "OFE45081",
+                "ATB59635",
+                "JG77046J",
+                "URV1689Q",
+                "H5476989",
+                "0YT3774N"
+            ],
+            "title": "범여권 강경파, 중수청 법안에 \"특수부 부활, 수사권 인정한 꼴\" (종합)"
+        },
+        {
+            "_id": "6966ec7d887d07f7ba2fb2b5",
+            "link": "https://n.news.naver.com/mnews/article/015/0005236620?sid=100",
+            "created_at": "2026-01-14T10:08:13.960000",
+            "description": "김 의원은 국회 검찰개혁 긴급토론회에서도 “보완수사권을 검찰에 남겨두거나 중수청을 이원 조직으로... 범여권인 황운하 조국혁신당 의원은 청와대와 김민석 국무총리를 겨냥했다. 황 의원은 “검찰 출신 봉욱... ",
+            "originallink": "https://www.hankyung.com/article/2026011383111",
+            "press": "한국경제",
+            "pubDate": "2026-01-13T17:13:00",
+            "related_members": [
+                "ATB59635",
+                "VRY5522V",
+                "OFE45081",
+                "URV1689Q",
+                "0YT3774N",
+                "MLH1404S"
+            ],
+            "title": "與강경파 반발에…李 \"檢개혁·보완수사권, 당 의견 수렴을\""
+        },
         {
             "_id": "6964b54d631fd174349960f7",
             "link": "https://n.news.naver.com/mnews/article/005/0001825636?sid=102",
@@ -352,7 +389,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아 (가나다 순)",
+            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -497,7 +534,7 @@
             "url": "https://www.youtube.com/watch?v=3DKiaMMAQd8",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:51.232000",
+            "collected_at": "2026-01-14T10:15:56.221000",
             "duration": 742.0,
             "title": "연합뉴스 뉴스1번지 김승원 인터뷰",
             "upload_date": null
@@ -507,7 +544,7 @@
             "url": "https://www.youtube.com/watch?v=JbpG08xFb1o",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 2801.0,
             "title": "오유경의 인생책방 (75회) 김승원 의원 -소명으로서의 정치",
             "upload_date": null
@@ -517,7 +554,7 @@
             "url": "https://www.youtube.com/watch?v=fsiKXE_9L2k",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:51.232000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 528.0,
             "title": "[모닝콜] 김승원 \"지귀연, 판사도 아냐‥교체 요구해야\" (2025.11.18/뉴스투데이/MBC)",
             "upload_date": null
@@ -527,7 +564,7 @@
             "url": "https://www.youtube.com/watch?v=uO0eP8jJqDQ",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 1386.0,
             "title": "[대담한만남] 김승원 국회의원편",
             "upload_date": null
@@ -537,7 +574,7 @@
             "url": "https://www.youtube.com/watch?v=gSnHrCTgfNk",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 323.0,
             "title": "홈플러스 공동 대표 부채 2조 자산 4조? 김승원 의원 \"왜 회생을 신청했어요?\"",
             "upload_date": null
@@ -547,7 +584,7 @@
             "url": "https://www.youtube.com/watch?v=yXJk2zQpNjc",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 1401.0,
             "title": "국회의원25시_377회 김승원 의원 편[2021.1.19]",
             "upload_date": null
@@ -557,7 +594,7 @@
             "url": "https://www.youtube.com/watch?v=UCGb1fUECvsMIEPjI5QqASog",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": null,
             "title": "김승원TV",
             "upload_date": null
@@ -567,7 +604,7 @@
             "url": "https://www.youtube.com/watch?v=MAW4zhoQJxA",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 693.0,
             "title": "\"수사 개판 만들어 놓고\"...분노 폭발...검찰 박살내는 김승원",
             "upload_date": null
@@ -577,11 +614,11 @@
             "url": "https://www.youtube.com/watch?v=Kc5t7hIR678",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-13T09:43:50.628000",
+            "collected_at": "2026-01-14T10:15:55.400000",
             "duration": 115.0,
             "title": "이송원TV가 인정한 김승원 의원, \"김승원 의원, 이 분 굉장히 개혁적인 분이에요\"",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:06.038798"
+    "exported_at": "2026-01-14T10:26:51.606176"
 }

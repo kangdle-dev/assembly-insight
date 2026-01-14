@@ -49,19 +49,19 @@
             "쇄신",
             "재선",
             "민심",
+            "통합",
             "대표",
             "모임",
+            "민주당",
             "공천",
             "계엄",
             "기자회견",
-            "지방선거",
-            "윤석열",
-            "회관"
+            "지방선거"
         ],
         "keyword_frequency": [
             {
                 "text": "국힘",
-                "value": 16
+                "value": 18
             },
             {
                 "text": "장동혁",
@@ -69,7 +69,7 @@
             },
             {
                 "text": "국민",
-                "value": 13
+                "value": 14
             },
             {
                 "text": "사과",
@@ -88,12 +88,20 @@
                 "value": 10
             },
             {
+                "text": "통합",
+                "value": 8
+            },
+            {
                 "text": "대표",
-                "value": 9
+                "value": 8
             },
             {
                 "text": "모임",
                 "value": 8
+            },
+            {
+                "text": "민주당",
+                "value": 7
             },
             {
                 "text": "공천",
@@ -110,39 +118,77 @@
             {
                 "text": "지방선거",
                 "value": 7
-            },
-            {
-                "text": "윤석열",
-                "value": 6
-            },
-            {
-                "text": "회관",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:08.195918",
+        "last_analyzed_at": "2026-01-14T10:26:53.695447",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                6,
                 2,
                 2,
                 0,
                 0,
                 0,
+                3,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec82887d07f7ba2fb2ce",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104248?sid=100",
+            "created_at": "2026-01-14T10:08:18.830000",
+            "description": "[리포트] 대전·충남 통합특별시장에 출사표를 낸 더불어민주당 장철민 의원. 파격적인 재정 특례와 국회의원 의석수 확대 등을 선결 과제로 제안했습니다. [장철민/더불어민주당 의원 : \"통합의 과정에서 놓칠 수 있는... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457997&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T21:43:00",
+            "related_members": [
+                "57B28032",
+                "2NV6751W",
+                "CIZ8557P"
+            ],
+            "title": "“통합 주인공은 나야 나”…정작 주민은 뒷전?"
+        },
+        {
+            "_id": "6966ec82887d07f7ba2fb2cf",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104116?sid=100",
+            "created_at": "2026-01-14T10:08:18.830000",
+            "description": "[리포트] 대전·충남 통합특별시장에 출사표를 낸 더불어민주당 장철민 의원. 파격적인 재정 특례와 국회의원 의석수 확대 등을 선결 과제로 제안했습니다. [장철민/더불어민주당 의원 : \"통합의 과정에서 놓칠 수 있는... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457834&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T19:30:00",
+            "related_members": [
+                "57B28032",
+                "2NV6751W",
+                "CIZ8557P"
+            ],
+            "title": "“통합 주인공은 나야 나”…정작 주민은 뒷전?"
+        },
+        {
+            "_id": "6966ec7b887d07f7ba2fb2ad",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712066?sid=101",
+            "created_at": "2026-01-14T10:08:11.710000",
+            "description": "현재 국민의힘이 발의한 디지털자산 관련 법안에는 △디지털자산 육성 기본법안(최보윤 의원)... 금융위는 최근 '디지털자산 기본법(2단계 입법) 주요 쟁점 조율 방안'을 문서화해 일부 국회 정무위원회 소속 의원실에... ",
+            "originallink": "https://www.news1.kr/finance/blockchain-fintech/6037692",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T17:30:00",
+            "related_members": [
+                "1Y73132H",
+                "L5P27909",
+                "57B28032",
+                "UOS16250"
+            ],
+            "title": "국힘, 14일 가상자산 2단계 입법 간담회…'거래소 지분 제한 논란' 도마..."
+        },
         {
             "_id": "6964b548631fd1743499608a",
             "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
@@ -176,7 +222,7 @@
             "_id": "6964b548631fd1743499608f",
             "link": "https://n.news.naver.com/mnews/article/079/0004103345?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "저 넥타이가 천하람 원내대표가 자주 하고 나오는 그런 색깔인데 그래서 이게 지금 이준석 개혁신당 당... 그런데 이준석은 어렵게 국회의원 됐는데 갑자기 경기지사 나가라고 하면 안 좋지. ◆ 강수영&gt; 어차피 다음에... ",
+            "description": "그런데 이준석은 어렵게 국회의원 됐는데 갑자기 경기지사 나가라고 하면 안 좋지. ◆ 강수영&gt; 어차피 다음에... 이번에 최고위원회 정점식, 그다음에 조광한이가 한동훈 대표하고 사이가 안 좋아요. 따라서 의도는요.... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453721?utm_source=naver&utm_medium=article&utm_campaign=20260109073021",
             "press": "노컷뉴스",
             "pubDate": "2026-01-09T07:31:00",
@@ -380,22 +426,6 @@
             "title": "[생생토론] 2026년 지방선거 앞으로…충청권 민심은?"
         },
         {
-            "_id": "6964b55a631fd174349961f5",
-            "link": "https://n.news.naver.com/mnews/article/421/0008697339?sid=100",
-            "created_at": "2026-01-12T17:48:23.330000",
-            "description": "= ◇국회의장 10:00 비상계엄 해제 유공 특별포상(2차) 수여식 (국회도서관 대강당) 12:00... 15:00 오기형 의원, [집단소송 법안 발의 기자회견] 15:20 신영대 의원, [정치 현안 관련 기자회견] 16:00 김재섭 의원... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6029307",
-            "press": "뉴스1",
-            "pubDate": "2026-01-06T05:00:00",
-            "related_members": [
-                "O6D8329R",
-                "95J3282H",
-                "57B28032",
-                "OIA3741M"
-            ],
-            "title": "[오늘의 국회일정] (6일, 화)"
-        },
-        {
             "_id": "6964b55a631fd174349961f4",
             "link": "https://n.news.naver.com/mnews/article/003/0013693971?sid=100",
             "created_at": "2026-01-12T17:48:23.330000",
@@ -410,6 +440,22 @@
                 "OIA3741M"
             ],
             "title": "[오늘의 주요일정]국회(1월6일 화요일)"
+        },
+        {
+            "_id": "6964b55a631fd174349961f5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008697339?sid=100",
+            "created_at": "2026-01-12T17:48:23.330000",
+            "description": "= ◇국회의장 10:00 비상계엄 해제 유공 특별포상(2차) 수여식 (국회도서관 대강당) 12:00... 15:00 오기형 의원, [집단소송 법안 발의 기자회견] 15:20 신영대 의원, [정치 현안 관련 기자회견] 16:00 김재섭 의원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6029307",
+            "press": "뉴스1",
+            "pubDate": "2026-01-06T05:00:00",
+            "related_members": [
+                "O6D8329R",
+                "95J3282H",
+                "57B28032",
+                "OIA3741M"
+            ],
+            "title": "[오늘의 국회일정] (6일, 화)"
         },
         {
             "_id": "6964b550631fd17434996142",
@@ -475,23 +521,6 @@
                 "EPI69383"
             ],
             "title": "조국 “尹과 단절 선언한 국힘 의원 25명, 탈당하라”"
-        },
-        {
-            "_id": "6964b546631fd1743499606d",
-            "link": "https://n.news.naver.com/mnews/article/144/0001085309?sid=101",
-            "created_at": "2026-01-12T17:48:03.765000",
-            "description": "이사장 ▲세종조합 김기웅 이사장 ▲법무법인 이종민 대표 등 렌터카 업계를 대표하는 주요 인사들이 참석해... 또한 이날 행사에는 오세훈 서울특별시장, 이학영 국회부의장, 박정현 국회의원, 김재섭 국회의원이 축하의... ",
-            "originallink": "https://sports.khan.co.kr/article/202512101043003?pt=nv",
-            "press": "경향신문",
-            "pubDate": "2025-12-10T10:43:00",
-            "related_members": [
-                "K5F2023J",
-                "HVV5250J",
-                "HE08888N",
-                "57B28032",
-                "4019850M"
-            ],
-            "title": "서울특별시자동차대여사업조합, ‘2025 송년의 밤’ 성황리에 개최"
         }
     ],
     "recent_videos": [
@@ -500,7 +529,7 @@
             "url": "https://www.youtube.com/watch?v=PSr7DG9XJVY",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-13T09:44:22.017000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": 1195.0,
             "title": "김재섭 \"우리라도 계엄 사과... 현역 20명 모일것\"",
             "upload_date": null
@@ -510,7 +539,7 @@
             "url": "https://www.youtube.com/watch?v=z3hlGqKX68I",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-09T16:20:11.566000",
+            "collected_at": "2026-01-14T10:16:36.274000",
             "duration": 88.0,
             "title": "장동혁 쇄신안에 김재섭 \"하나마나한 한가한 소리\" [포크뉴스]",
             "upload_date": null
@@ -520,7 +549,7 @@
             "url": "https://www.youtube.com/watch?v=SFGPtzttxoY",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-13T09:44:22.017000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": 321.0,
             "title": "\"그렇게 말하면 죄가 없어지나요?\"... 박은정, 김재섭 향해 핵돌직구",
             "upload_date": null
@@ -530,7 +559,7 @@
             "url": "https://www.youtube.com/watch?v=hN-qMsuBbpw",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-09T16:20:10.849000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": 138.0,
             "title": "국힘 소장파 연일 지도부에 쇄신 압박…김재섭 \"당의 중론\" [MBN 뉴스7]",
             "upload_date": null
@@ -540,7 +569,7 @@
             "url": "https://www.youtube.com/watch?v=PUwfA-LXs9o",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-09T16:20:10.849000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": 177.0,
             "title": "예상하지 못 한 당선, 김재섭이 본 이준석 행보는? TV CHOSUN 240420 방송 | [강적들] 532회 | TV조선",
             "upload_date": null
@@ -550,7 +579,7 @@
             "url": "https://www.youtube.com/watch?v=2w_SHm7vSx4",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-13T09:44:22.017000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": 179.0,
             "title": "[현장연결] 국민의힘 김재섭 의원, '尹 탄핵 표결' 기자회견 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -560,7 +589,7 @@
             "url": "https://www.youtube.com/watch?v=UCVcpBe7gVtBsZpNLDA9ZWEw",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-13T09:44:22.017000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": null,
             "title": "김재섭",
             "upload_date": null
@@ -581,7 +610,7 @@
             "url": "https://www.youtube.com/watch?v=-M1TuqGJ4eg",
             "HG_NM": "김재섭",
             "MONA_CD": "57B28032",
-            "collected_at": "2026-01-09T16:20:10.849000",
+            "collected_at": "2026-01-14T10:16:35.598000",
             "duration": 152.0,
             "title": "국회의원이 베이비페어에 가면 생기는 일ㅣ김재섭 의원실 단체 베페 탐방기❤️",
             "upload_date": null
@@ -597,5 +626,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:08.195918"
+    "exported_at": "2026-01-14T10:26:53.695447"
 }

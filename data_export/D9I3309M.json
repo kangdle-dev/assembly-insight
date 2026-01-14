@@ -46,34 +46,38 @@
             "제주",
             "송재호",
             "출범",
+            "선거",
             "포럼",
             "민주당",
-            "선거",
             "혁신",
             "대표",
-            "출마",
-            "공식",
             "영훈",
             "지사",
+            "출마",
+            "공식",
             "도지사",
-            "지방선거"
+            "연대"
         ],
         "keyword_frequency": [
             {
                 "text": "대림",
-                "value": 34
+                "value": 35
             },
             {
                 "text": "제주",
-                "value": 15
+                "value": 18
             },
             {
                 "text": "송재호",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "출범",
                 "value": 14
+            },
+            {
+                "text": "선거",
+                "value": 13
             },
             {
                 "text": "포럼",
@@ -84,16 +88,20 @@
                 "value": 12
             },
             {
-                "text": "선거",
-                "value": 11
-            },
-            {
                 "text": "혁신",
                 "value": 10
             },
             {
                 "text": "대표",
                 "value": 8
+            },
+            {
+                "text": "영훈",
+                "value": 7
+            },
+            {
+                "text": "지사",
+                "value": 7
             },
             {
                 "text": "출마",
@@ -104,45 +112,53 @@
                 "value": 6
             },
             {
-                "text": "영훈",
-                "value": 6
-            },
-            {
-                "text": "지사",
-                "value": 6
-            },
-            {
                 "text": "도지사",
                 "value": 6
             },
             {
-                "text": "지방선거",
+                "text": "연대",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:11.162924",
+        "last_analyzed_at": "2026-01-14T10:26:56.401974",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 1,
                 0,
                 0,
                 0,
                 4,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec85887d07f7ba2fb2d6",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104143?sid=100",
+            "created_at": "2026-01-14T10:08:22.149000",
+            "description": "[앵커] 현재 이른바 송재호-문대림-부승찬 제주 출신 전현직 국회의원들의 연대, 또 서귀포 출신인 위성곤 의원과 현직인 오영훈 지사의 연대 등 선거를 앞두고 벌써부터 여러 해석과 주장이 나오고 있습니다. 치열한 선거전... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457857&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T19:37:00",
+            "related_members": [
+                "NUB4941Z",
+                "RQQ3807K",
+                "6I88973D",
+                "D9I3309M"
+            ],
+            "title": "[대담] 김한규 의원에게 듣는 제주 현안 해법은?"
+        },
         {
             "_id": "696594b0887d07f7ba2fab43",
             "link": "https://n.news.naver.com/mnews/article/056/0012103459?sid=100",
@@ -343,7 +359,7 @@
             "url": "https://www.youtube.com/watch?v=UCpZ9eITB8vgnFHXT3Ey_JnQ",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-01-13T09:45:04.369000",
+            "collected_at": "2026-01-14T10:17:29.379000",
             "duration": null,
             "title": "문대림TV",
             "upload_date": null
@@ -363,7 +379,7 @@
             "url": "https://www.youtube.com/watch?v=yCS40bAkNR0",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-01-13T09:45:04.943000",
+            "collected_at": "2026-01-14T10:17:30.069000",
             "duration": 122.0,
             "title": "문대림 적극 지원   적폐후보 자격 없다  이소현",
             "upload_date": null
@@ -379,5 +395,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:11.162924"
+    "exported_at": "2026-01-14T10:26:56.402976"
 }

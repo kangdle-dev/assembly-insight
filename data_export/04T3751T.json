@@ -57,25 +57,25 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
-            "국민",
-            "재정",
             "통합",
+            "국민",
+            "민주당",
+            "재정",
+            "방문",
             "위원회",
             "위원장",
             "강원",
             "베네수엘라",
+            "국제",
             "학번",
             "동문",
             "보건",
             "복지",
-            "방문",
-            "최민희",
-            "군사작전"
+            "일정"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
+                "text": "통합",
                 "value": 9
             },
             {
@@ -83,11 +83,15 @@
                 "value": 8
             },
             {
+                "text": "민주당",
+                "value": 8
+            },
+            {
                 "text": "재정",
                 "value": 8
             },
             {
-                "text": "통합",
+                "text": "방문",
                 "value": 7
             },
             {
@@ -107,6 +111,10 @@
                 "value": 6
             },
             {
+                "text": "국제",
+                "value": 6
+            },
+            {
                 "text": "학번",
                 "value": 6
             },
@@ -123,41 +131,93 @@
                 "value": 6
             },
             {
-                "text": "방문",
-                "value": 5
-            },
-            {
-                "text": "최민희",
-                "value": 5
-            },
-            {
-                "text": "군사작전",
+                "text": "일정",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:10.572764",
+        "last_analyzed_at": "2026-01-14T10:26:55.829092",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 2,
                 0,
                 0,
                 1,
                 0,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec77887d07f7ba2fb281",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037918",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "IUX1829H",
+                "MSY7784L",
+                "9D939735",
+                "88O1334C",
+                "04T3751T",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "RBM5454A",
+                "WJG74792"
+            ],
+            "title": "[오늘의 국회일정] (14일, 수)"
+        },
+        {
+            "_id": "6966ec77887d07f7ba2fb282",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475751",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "IUX1829H",
+                "9D939735",
+                "88O1334C",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "04T3751T",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "MSY7784L",
+                "RBM5454A",
+                "WJL30106",
+                "WJG74792"
+            ],
+            "title": "[오늘의 주요일정]국회(1월14일 수요일)"
+        },
         {
             "_id": "6964b543631fd17434996028",
             "link": "https://n.news.naver.com/mnews/article/022/0004096717?sid=100",
@@ -350,7 +410,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아 (가나다 순)",
+            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -534,7 +594,7 @@
             "url": "https://www.youtube.com/watch?v=7jNC61X2vQg",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-13T09:44:55.054000",
+            "collected_at": "2026-01-14T10:17:18.117000",
             "duration": 591.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 남인순 의원(더불어민주당)",
             "upload_date": null
@@ -544,7 +604,7 @@
             "url": "https://www.youtube.com/watch?v=oFuPs73qRC8",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-13T09:44:55.600000",
+            "collected_at": "2026-01-14T10:17:18.872000",
             "duration": 110.0,
             "title": "남인순, 박 시장과 실종 당일 통화…\"피소사실 몰랐다\" / JTBC 뉴스룸",
             "upload_date": null
@@ -564,7 +624,7 @@
             "url": "https://www.youtube.com/watch?v=ZcbnDSYAdmk",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-09T16:20:54.557000",
+            "collected_at": "2026-01-14T10:17:18.872000",
             "duration": 329.0,
             "title": "[픽뉴스] 남인순 해명에 \"추잡한 말장난\"…임산부 꿀팁 논란 [MBN 종합뉴스]",
             "upload_date": null
@@ -574,7 +634,7 @@
             "url": "https://www.youtube.com/watch?v=kBamD7J8ucE",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-13T09:44:55.054000",
+            "collected_at": "2026-01-14T10:17:18.117000",
             "duration": 382.0,
             "title": "[2024 국정감사 우수의원] 국회 보건복지위 남인순 의원 #국정감사 #국회 #국회의원 #남인순 #보건복지위원회 #보건복지부 #식품의약품안전처 #식약처",
             "upload_date": null
@@ -584,7 +644,7 @@
             "url": "https://www.youtube.com/watch?v=8goq7g3IHtA",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-13T09:44:55.054000",
+            "collected_at": "2026-01-14T10:17:18.117000",
             "duration": 463.0,
             "title": "남인순 의원, 법안통과율 '으뜸'...국민 먹거리 안전지킴이 역할 '톡톡' [푸드투데이]",
             "upload_date": null
@@ -594,7 +654,7 @@
             "url": "https://www.youtube.com/watch?v=DjPoZJHVY1o",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-13T09:44:55.054000",
+            "collected_at": "2026-01-14T10:17:18.117000",
             "duration": 1335.0,
             "title": "국회의원 25시_292회 남인순 의원 편[2017.06.28]",
             "upload_date": null
@@ -604,7 +664,7 @@
             "url": "https://www.youtube.com/watch?v=TtSQjQSTI5A",
             "HG_NM": "남인순",
             "MONA_CD": "04T3751T",
-            "collected_at": "2026-01-09T16:20:53.883000",
+            "collected_at": "2026-01-14T10:17:18.117000",
             "duration": 385.0,
             "title": "남인순 의원, 충격적인 낙태법 발의에 백지원 \"출산 일주일 전에도 낙태 할 수 있는 법\"!!! [엄튜브]",
             "upload_date": null
@@ -620,5 +680,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:10.572764"
+    "exported_at": "2026-01-14T10:26:55.830096"
 }

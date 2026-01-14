@@ -59,19 +59,19 @@
         "keywords": [
             "산업",
             "안전",
-            "정책",
             "예산",
-            "발언",
+            "정책",
             "설명",
+            "발언",
             "의장",
             "예방",
             "민주당",
             "산재",
-            "여의도",
             "회관",
-            "재해",
+            "여의도",
             "서울",
-            "중대"
+            "재해",
+            "채용"
         ],
         "keyword_frequency": [
             {
@@ -83,24 +83,24 @@
                 "value": 31
             },
             {
-                "text": "정책",
-                "value": 29
-            },
-            {
                 "text": "예산",
                 "value": 29
             },
             {
-                "text": "발언",
-                "value": 27
+                "text": "정책",
+                "value": 26
             },
             {
                 "text": "설명",
                 "value": 26
             },
             {
-                "text": "의장",
+                "text": "발언",
                 "value": 25
+            },
+            {
+                "text": "의장",
+                "value": 23
             },
             {
                 "text": "예방",
@@ -115,49 +115,91 @@
                 "value": 15
             },
             {
-                "text": "여의도",
-                "value": 14
-            },
-            {
                 "text": "회관",
                 "value": 13
+            },
+            {
+                "text": "여의도",
+                "value": 13
+            },
+            {
+                "text": "서울",
+                "value": 12
             },
             {
                 "text": "재해",
                 "value": 11
             },
             {
-                "text": "서울",
-                "value": 11
-            },
-            {
-                "text": "중대",
-                "value": 5
+                "text": "채용",
+                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:36.064393",
+        "last_analyzed_at": "2026-01-14T10:27:20.491330",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 3,
                 1,
                 0,
                 0,
                 12,
-                0
+                2,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ecc2887d07f7ba2fb346",
+            "link": "https://n.news.naver.com/mnews/article/016/0002585415?sid=100",
+            "created_at": "2026-01-14T10:09:22.927000",
+            "description": "한정애 의원실 제공 더불어민주당 한정애 국회의원(서울 강서병, 외교통일위원회)이 지난 13일 채용절차법상 구인자의 범위에 국가기관 등이 포함되도록 명시적으로 규정한 ‘채용절차의 공정화에 관한 법률’ 개정안을... ",
+            "originallink": "https://biz.heraldcorp.com/article/10655000?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-14T09:00:00",
+            "related_members": [
+                "XPP2564T"
+            ],
+            "title": "한정애 의원 “심우정 전 검찰총장 등 고위직 ‘자녀 특혜채용’ 방지법..."
+        },
+        {
+            "_id": "6966ec93887d07f7ba2fb2fd",
+            "link": "https://n.news.naver.com/mnews/article/366/0001135913?sid=100",
+            "created_at": "2026-01-14T10:08:35.424000",
+            "description": "이번 국회에 민주당 의원들이 발의한 ‘근로자퇴직급여 보장법 개정안’ 중 퇴직연금 기금화와 관련된... 한정애 의원이 발의한 법안은 사용자가 수탁법인을 직접 설립해 운용을 할 수 있게 하는 내용이다. 푸른씨앗을... ",
+            "originallink": "https://biz.chosun.com/policy/politics/2026/01/13/74GLJZ7VUFCSVLB5OATYIX2Q6A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-13T15:23:00",
+            "related_members": [
+                "ZW43496R",
+                "EB16073M",
+                "XPP2564T"
+            ],
+            "title": "[법안 톺아보기] ‘2% 수익률’ 퇴직연금, 기금으로 운용하면 9%로 높아..."
+        },
+        {
+            "_id": "6966ecc2887d07f7ba2fb347",
+            "link": "https://n.news.naver.com/mnews/article/421/0008711182?sid=101",
+            "created_at": "2026-01-14T10:09:22.927000",
+            "description": "이날 개소식에는 최광용 우리와 대표, 김후덕 연구소장을 비롯한 주요 임직원과 한정애 국회의원, 김정욱 농림축산식품부 농업혁신정책실장, 김재영 국경없는 수의사회 대표, 이은찬 수대협 회장, 김현유 KK9 대표 등이... ",
+            "originallink": "https://www.news1.kr/industry/general-industry/6037128",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T13:54:00",
+            "related_members": [
+                "XPP2564T",
+                "7YL9580G"
+            ],
+            "title": "\"반려동물 사료는 과학\"…우리와, 국내 최대 펫푸드 연구소 개소"
+        },
         {
             "_id": "6964b593631fd17434996503",
             "link": "https://n.news.naver.com/mnews/article/421/0008709461?sid=100",
@@ -183,19 +225,6 @@
                 "XPP2564T"
             ],
             "title": "당정 \"산업안전 예산 역대인 올해, 산재 없는 원년 돼야\""
-        },
-        {
-            "_id": "6964b593631fd17434996505",
-            "link": "https://n.news.naver.com/mnews/article/003/0013704492?sid=100",
-            "created_at": "2026-01-12T17:49:20.688000",
-            "description": "한정애 더불어민주당 정책위의장이 12일 오전 서울 여의도 국회 의원회관에서 열린 '산재예방TF 2026년도 당정 산업안전 예산 설명회'에서 발언을 하고 있다. 2026.01.12. kgb@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260112_0021123314",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T10:35:00",
-            "related_members": [
-                "XPP2564T"
-            ],
-            "title": "산재예방TF 당정 산업안전 예산 설명회 발언하는 한정애"
         },
         {
             "_id": "6964b593631fd17434996506",
@@ -237,6 +266,19 @@
             "title": "산재예방TF 당정 산업안전 예산 설명회 발언하는 한정애"
         },
         {
+            "_id": "6964b593631fd17434996505",
+            "link": "https://n.news.naver.com/mnews/article/003/0013704492?sid=100",
+            "created_at": "2026-01-12T17:49:20.688000",
+            "description": "한정애 더불어민주당 정책위의장이 12일 오전 서울 여의도 국회 의원회관에서 열린 '산재예방TF 2026년도 당정 산업안전 예산 설명회'에서 발언을 하고 있다. 2026.01.12. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260112_0021123314",
+            "press": "뉴시스",
+            "pubDate": "2026-01-12T10:35:00",
+            "related_members": [
+                "XPP2564T"
+            ],
+            "title": "산재예방TF 당정 산업안전 예산 설명회 발언하는 한정애"
+        },
+        {
             "_id": "6964b593631fd17434996509",
             "link": "https://n.news.naver.com/mnews/article/421/0008708205?sid=100",
             "created_at": "2026-01-12T17:49:20.688000",
@@ -261,32 +303,6 @@
                 "XPP2564T"
             ],
             "title": "한정애 정책위의장, 산업안전 예산 설명회"
-        },
-        {
-            "_id": "6964b593631fd1743499650d",
-            "link": "https://n.news.naver.com/mnews/article/421/0008708201?sid=100",
-            "created_at": "2026-01-12T17:49:20.688000",
-            "description": "한정애 더불어민주당 정책위의장이 12일 서울 여의도 국회 의원회관에서 열린 산업재해예방TF 당정 산업안전 예산 설명회에서 발언하고 있다. 2026.1.12/뉴스1",
-            "originallink": "https://www.news1.kr/photos/7692356",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T10:26:00",
-            "related_members": [
-                "XPP2564T"
-            ],
-            "title": "산업재해예방TF 당정 산업안전 예산 설명회"
-        },
-        {
-            "_id": "6964b593631fd1743499650c",
-            "link": "https://n.news.naver.com/mnews/article/421/0008708200?sid=100",
-            "created_at": "2026-01-12T17:49:20.688000",
-            "description": "한정애 더불어민주당 정책위의장이 12일 서울 여의도 국회 의원회관에서 열린 산업재해예방TF 당정 산업안전 예산 설명회에서 참석자들과 인사하고 있다. 2026.1.12/뉴스1",
-            "originallink": "https://www.news1.kr/photos/7692357",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T10:26:00",
-            "related_members": [
-                "XPP2564T"
-            ],
-            "title": "인사나누는 한정애"
         },
         {
             "_id": "6964b593631fd1743499650a",
@@ -315,6 +331,32 @@
             "title": "모두발언하는 한정애 정책위의장"
         },
         {
+            "_id": "6964b593631fd1743499650c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008708200?sid=100",
+            "created_at": "2026-01-12T17:49:20.688000",
+            "description": "한정애 더불어민주당 정책위의장이 12일 서울 여의도 국회 의원회관에서 열린 산업재해예방TF 당정 산업안전 예산 설명회에서 참석자들과 인사하고 있다. 2026.1.12/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7692357",
+            "press": "뉴스1",
+            "pubDate": "2026-01-12T10:26:00",
+            "related_members": [
+                "XPP2564T"
+            ],
+            "title": "인사나누는 한정애"
+        },
+        {
+            "_id": "6964b593631fd1743499650d",
+            "link": "https://n.news.naver.com/mnews/article/421/0008708201?sid=100",
+            "created_at": "2026-01-12T17:49:20.688000",
+            "description": "한정애 더불어민주당 정책위의장이 12일 서울 여의도 국회 의원회관에서 열린 산업재해예방TF 당정 산업안전 예산 설명회에서 발언하고 있다. 2026.1.12/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7692356",
+            "press": "뉴스1",
+            "pubDate": "2026-01-12T10:26:00",
+            "related_members": [
+                "XPP2564T"
+            ],
+            "title": "산업재해예방TF 당정 산업안전 예산 설명회"
+        },
+        {
             "_id": "6964b593631fd1743499650f",
             "link": "https://n.news.naver.com/mnews/article/003/0013702247?sid=100",
             "created_at": "2026-01-12T17:49:20.688000",
@@ -331,7 +373,7 @@
             "_id": "6964b57d631fd174349963de",
             "link": "https://n.news.naver.com/mnews/article/022/0004096223?sid=100",
             "created_at": "2026-01-12T17:48:58.160000",
-            "description": "더불어민주당 한정애 정책위의장이 8일 국회에서 열린 정책조정회의에서 발언하고 있다. 연합뉴스 민주당은... 국민의힘 소속 이종배 서울시의원은 8일 이 후보자가 국회의원 시절 보좌진에게 가족 관련 사적 업무를... ",
+            "description": "국민의힘 소속 이종배 서울시의원은 8일 이 후보자가 국회의원 시절 보좌진에게 가족 관련 사적 업무를 지시했다며 직권남용 권리행사방해 혐의로 서울경찰청에 고발했다.",
             "originallink": "https://www.segye.com/newsView/20260108515392?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-08T22:52:00",
@@ -345,7 +387,7 @@
             "_id": "6964b548631fd17434996091",
             "link": "https://n.news.naver.com/mnews/article/022/0004096173?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "여의도 국회에서 열린 정책조정회의에서 “이재명정부 첫 원내 지도부 활동을 마무리한다”며 소감을 밝히고 있다. 왼쪽부터 박상혁 원내소통수석부대표, 문 대행, 한정애 정책위의장. 허정호 선임기자 이 전 의원은... ",
+            "description": "6·3 지방선거와 동시에 국회의원 재보궐선거가 치러질 지역이 4곳으로 늘었다. 현역 의원들의 광역단체장... 국민의힘에선 나경원 의원이 거론된다. 대구시장 후보로는 국민의힘 추경호·유영하·윤재옥 의원이 있다. 같은... ",
             "originallink": "https://www.segye.com/newsView/20260108515352?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-08T18:26:00",
@@ -380,7 +422,7 @@
             "_id": "6964b56c631fd17434996325",
             "link": "https://n.news.naver.com/mnews/article/022/0004095881?sid=100",
             "created_at": "2026-01-12T17:48:41.874000",
-            "description": "“역점산업 과감한 지원” 더불어민주당 한정애 정책위의장(왼쪽 두 번째)이 7일 서울 여의도 국회 의원회관에서 열린 2026년 경제성장전략 당정협의에서 모두발언을 하고 있다. 이재문 기자 당은 물가안정 대책으로는... ",
+            "description": "“역점산업 과감한 지원” 더불어민주당 한정애 정책위의장(왼쪽 두 번째)이 7일 서울 여의도 국회 의원회관... 안도걸 의원은 회의 직후 “정부가 종잣돈을 뿌리면 시장에서 호응하게 하는 세제상 인센티브를 검토했다”... ",
             "originallink": "https://www.segye.com/newsView/20260107515291?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-07T18:58:00",
@@ -437,7 +479,7 @@
             "url": "https://www.youtube.com/watch?v=ZN1IGkQ29W8",
             "HG_NM": "한정애",
             "MONA_CD": "XPP2564T",
-            "collected_at": "2026-01-13T09:52:36.323000",
+            "collected_at": "2026-01-14T10:25:04.420000",
             "duration": 380.0,
             "title": "한정애 의원(KNN 인물포커스)",
             "upload_date": null
@@ -457,7 +499,7 @@
             "url": "https://www.youtube.com/watch?v=J5P--YAgFSI",
             "HG_NM": "한정애",
             "MONA_CD": "XPP2564T",
-            "collected_at": "2026-01-13T09:52:36.323000",
+            "collected_at": "2026-01-14T10:25:04.420000",
             "duration": 1498.0,
             "title": "[국회의원 한정애] 티브로드 - 인생토크 '여의도 사람들' 10화(한정애의원 편)(161111)",
             "upload_date": null
@@ -487,11 +529,11 @@
             "url": "https://www.youtube.com/watch?v=BPuXQsjjo_A",
             "HG_NM": "한정애",
             "MONA_CD": "XPP2564T",
-            "collected_at": "2026-01-13T09:52:36.323000",
+            "collected_at": "2026-01-14T10:25:04.420000",
             "duration": 129.0,
             "title": "\"이재명 정부 성공이 국민의 성공\" 정청래 사단 한정애 의원 첫 발언",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:36.064393"
+    "exported_at": "2026-01-14T10:27:20.491330"
 }

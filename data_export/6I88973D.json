@@ -44,28 +44,32 @@
         "keywords": [
             "민주당",
             "계엄",
+            "지사",
             "김동연",
             "경기도",
-            "지사",
             "베네수엘라",
-            "혁신",
-            "한준호",
-            "군사작전",
             "국제",
+            "혁신",
+            "군사작전",
+            "평화",
+            "위협",
+            "출신",
             "행정",
-            "김승원",
-            "안민석",
-            "지방선거",
-            "미국"
+            "한준호",
+            "김승원"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 10
+                "value": 9
             },
             {
                 "text": "계엄",
                 "value": 9
+            },
+            {
+                "text": "지사",
+                "value": 7
             },
             {
                 "text": "김동연",
@@ -76,11 +80,11 @@
                 "value": 7
             },
             {
-                "text": "지사",
+                "text": "베네수엘라",
                 "value": 6
             },
             {
-                "text": "베네수엘라",
+                "text": "국제",
                 "value": 6
             },
             {
@@ -88,61 +92,73 @@
                 "value": 5
             },
             {
-                "text": "한준호",
-                "value": 5
-            },
-            {
                 "text": "군사작전",
                 "value": 5
             },
             {
-                "text": "국제",
+                "text": "평화",
                 "value": 5
+            },
+            {
+                "text": "위협",
+                "value": 5
+            },
+            {
+                "text": "출신",
+                "value": 4
             },
             {
                 "text": "행정",
                 "value": 4
             },
             {
+                "text": "한준호",
+                "value": 4
+            },
+            {
                 "text": "김승원",
-                "value": 4
-            },
-            {
-                "text": "안민석",
-                "value": 4
-            },
-            {
-                "text": "지방선거",
-                "value": 4
-            },
-            {
-                "text": "미국",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:16.659645",
+        "last_analyzed_at": "2026-01-14T10:27:01.707286",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 1,
                 2,
                 2,
                 1,
                 0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec85887d07f7ba2fb2d6",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104143?sid=100",
+            "created_at": "2026-01-14T10:08:22.149000",
+            "description": "[앵커] 현재 이른바 송재호-문대림-부승찬 제주 출신 전현직 국회의원들의 연대, 또 서귀포 출신인 위성곤 의원과 현직인 오영훈 지사의 연대 등 선거를 앞두고 벌써부터 여러 해석과 주장이 나오고 있습니다. 치열한 선거전... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457857&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T19:37:00",
+            "related_members": [
+                "NUB4941Z",
+                "RQQ3807K",
+                "6I88973D",
+                "D9I3309M"
+            ],
+            "title": "[대담] 김한규 의원에게 듣는 제주 현안 해법은?"
+        },
         {
             "_id": "6964b54d631fd174349960f8",
             "link": "https://n.news.naver.com/mnews/article/005/0001825371?sid=102",
@@ -380,7 +396,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아 (가나다 순)",
+            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -480,43 +496,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960accc631fd1743497d7e3",
-            "url": "https://www.youtube.com/watch?v=UCoRsKE-rIMaEuILLsTE-GYg",
+            "_id": "696595ee887d07f7ba2face8",
+            "url": "https://www.youtube.com/watch?v=wkcTFtxHj-Y",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:35.409000",
-            "duration": null,
-            "title": "부승찬TV",
+            "collected_at": "2026-01-14T10:19:14.347000",
+            "duration": 119.0,
+            "title": "[1분숏킥] “부승찬 가만 안 둬...곧 세상 바뀌니 두고 봐”",
             "upload_date": null
         },
         {
-            "_id": "6960accc631fd1743497d7e5",
-            "url": "https://www.youtube.com/watch?v=M5ktjUcdnHo",
+            "_id": "6966ef12887d07f7ba2fb458",
+            "url": "https://www.youtube.com/watch?v=qNPYZeM73As",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:36.168000",
-            "duration": 1090.0,
-            "title": "[뉴스하이킥] 누구보다 먼저 계엄 징후 포착한 부승찬이 말하는 계엄 전 6개월 그리고 1년 - 부승찬, MBC 251202 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960accc631fd1743497d7e9",
-            "url": "https://www.youtube.com/watch?v=suZLzU6d1EQ",
-            "HG_NM": "부승찬",
-            "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:35.409000",
-            "duration": 60.0,
-            "title": "#공군출신 #국회의원 #더불어민주당 #부승찬",
-            "upload_date": null
-        },
-        {
-            "_id": "6960accc631fd1743497d7e4",
-            "url": "https://www.youtube.com/watch?v=wsXO9EtvqDw",
-            "HG_NM": "부승찬",
-            "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:35.409000",
-            "duration": 66.0,
-            "title": "“싸가지?” 임종득 선 넘은 발언에 부승찬 의원 폭발!!",
+            "collected_at": "2026-01-14T10:19:13.562000",
+            "duration": 484.0,
+            "title": "지휘권 갖고 있는 합참의장 질책하는 부승찬 의원",
             "upload_date": null
         },
         {
@@ -524,29 +520,9 @@
             "url": "https://www.youtube.com/watch?v=XovAVxe0ejk",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-09T16:22:49.001000",
+            "collected_at": "2026-01-14T10:19:13.562000",
             "duration": 60.0,
             "title": "보이는 이미지와 다른 부승찬 의원의 재산현황 #부승찬",
-            "upload_date": null
-        },
-        {
-            "_id": "6960accc631fd1743497d7eb",
-            "url": "https://www.youtube.com/watch?v=i84X2pt5EmM",
-            "HG_NM": "부승찬",
-            "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:36.168000",
-            "duration": 2632.0,
-            "title": "부승찬 \"계엄 당일부터 체포조 명단 돌아…한동훈도 알았을 것\" [뉴스와이드]",
-            "upload_date": null
-        },
-        {
-            "_id": "696595ee887d07f7ba2face6",
-            "url": "https://www.youtube.com/watch?v=RDCjRSwn6pU",
-            "HG_NM": "부승찬",
-            "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:35.409000",
-            "duration": 846.0,
-            "title": "계엄 터지자 계엄사령관에게 전화 건 부승찬 의원 | 그날그곳",
             "upload_date": null
         },
         {
@@ -560,15 +536,65 @@
             "upload_date": null
         },
         {
-            "_id": "696595ee887d07f7ba2face8",
-            "url": "https://www.youtube.com/watch?v=wkcTFtxHj-Y",
+            "_id": "6960accc631fd1743497d7eb",
+            "url": "https://www.youtube.com/watch?v=i84X2pt5EmM",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-13T09:46:36.168000",
-            "duration": 119.0,
-            "title": "[1분숏킥] “부승찬 가만 안 둬...곧 세상 바뀌니 두고 봐”",
+            "collected_at": "2026-01-14T10:19:14.347000",
+            "duration": 2632.0,
+            "title": "부승찬 \"계엄 당일부터 체포조 명단 돌아…한동훈도 알았을 것\" [뉴스와이드]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960accc631fd1743497d7e4",
+            "url": "https://www.youtube.com/watch?v=wsXO9EtvqDw",
+            "HG_NM": "부승찬",
+            "MONA_CD": "6I88973D",
+            "collected_at": "2026-01-14T10:19:13.562000",
+            "duration": 66.0,
+            "title": "“싸가지?” 임종득 선 넘은 발언에 부승찬 의원 폭발!!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960accc631fd1743497d7e5",
+            "url": "https://www.youtube.com/watch?v=M5ktjUcdnHo",
+            "HG_NM": "부승찬",
+            "MONA_CD": "6I88973D",
+            "collected_at": "2026-01-14T10:19:14.347000",
+            "duration": 1090.0,
+            "title": "[뉴스하이킥] 누구보다 먼저 계엄 징후 포착한 부승찬이 말하는 계엄 전 6개월 그리고 1년 - 부승찬, MBC 251202 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960accc631fd1743497d7e3",
+            "url": "https://www.youtube.com/watch?v=UCoRsKE-rIMaEuILLsTE-GYg",
+            "HG_NM": "부승찬",
+            "MONA_CD": "6I88973D",
+            "collected_at": "2026-01-14T10:19:13.562000",
+            "duration": null,
+            "title": "부승찬TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960accc631fd1743497d7e9",
+            "url": "https://www.youtube.com/watch?v=suZLzU6d1EQ",
+            "HG_NM": "부승찬",
+            "MONA_CD": "6I88973D",
+            "collected_at": "2026-01-14T10:19:13.562000",
+            "duration": 60.0,
+            "title": "#공군출신 #국회의원 #더불어민주당 #부승찬",
+            "upload_date": null
+        },
+        {
+            "_id": "696595ee887d07f7ba2face6",
+            "url": "https://www.youtube.com/watch?v=RDCjRSwn6pU",
+            "HG_NM": "부승찬",
+            "MONA_CD": "6I88973D",
+            "collected_at": "2026-01-13T09:46:35.409000",
+            "duration": 846.0,
+            "title": "계엄 터지자 계엄사령관에게 전화 건 부승찬 의원 | 그날그곳",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:16.659645"
+    "exported_at": "2026-01-14T10:27:01.707286"
 }

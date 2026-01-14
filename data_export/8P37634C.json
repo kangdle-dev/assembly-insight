@@ -48,56 +48,44 @@
     "analysis": {
         "keywords": [
             "최고",
-            "위원",
             "민주당",
             "원내대표",
-            "강득",
-            "한병도",
+            "위원",
             "김병기",
-            "정청래",
-            "투표",
-            "대표",
-            "신임",
             "제명",
-            "보궐선거",
+            "대표",
+            "한병도",
+            "강득",
             "도부",
-            "징계"
+            "정청래",
+            "징계",
+            "민주",
+            "신임",
+            "김현정"
         ],
         "keyword_frequency": [
             {
                 "text": "최고",
-                "value": 23
-            },
-            {
-                "text": "위원",
-                "value": 22
-            },
-            {
-                "text": "민주당",
-                "value": 21
-            },
-            {
-                "text": "원내대표",
                 "value": 20
             },
             {
-                "text": "강득",
-                "value": 13
+                "text": "민주당",
+                "value": 19
             },
             {
-                "text": "한병도",
-                "value": 12
+                "text": "원내대표",
+                "value": 19
+            },
+            {
+                "text": "위원",
+                "value": 18
             },
             {
                 "text": "김병기",
-                "value": 12
+                "value": 14
             },
             {
-                "text": "정청래",
-                "value": 12
-            },
-            {
-                "text": "투표",
+                "text": "제명",
                 "value": 10
             },
             {
@@ -105,49 +93,95 @@
                 "value": 10
             },
             {
-                "text": "신임",
-                "value": 9
+                "text": "한병도",
+                "value": 10
             },
             {
-                "text": "제명",
+                "text": "강득",
                 "value": 9
-            },
-            {
-                "text": "보궐선거",
-                "value": 8
             },
             {
                 "text": "도부",
                 "value": 8
             },
             {
+                "text": "정청래",
+                "value": 8
+            },
+            {
                 "text": "징계",
+                "value": 7
+            },
+            {
+                "text": "민주",
+                "value": 7
+            },
+            {
+                "text": "신임",
+                "value": 7
+            },
+            {
+                "text": "김현정",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:00.900150",
+        "last_analyzed_at": "2026-01-14T10:26:46.498630",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                2,
                 16,
-                2
+                4,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec71887d07f7ba2fb267",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712031?sid=100",
+            "created_at": "2026-01-14T10:08:01.991000",
+            "description": "경찰 출신의 황운하 조국혁신당 의원은 중수청과 공소청의 관계 설정 자체를 문제 삼았다. 그는 \"사실상... 법사위 여당 간사인 김용민 민주당 의원은 이날 오후 국회도서관에서 '바람직한 검찰개혁을 위한 긴급토론회'를... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037780",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T17:14:00",
+            "related_members": [
+                "8P37634C",
+                "OFE45081",
+                "ATB59635",
+                "JG77046J",
+                "URV1689Q",
+                "H5476989",
+                "0YT3774N"
+            ],
+            "title": "범여권 강경파, 중수청 법안에 \"특수부 부활, 수사권 인정한 꼴\" (종합)"
+        },
+        {
+            "_id": "6966ec71887d07f7ba2fb268",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473212?sid=100",
+            "created_at": "2026-01-14T10:08:01.991000",
+            "description": "박수현 수석대변인은 오늘(13일) 아침 CBS 라디오 '박성태의 뉴스쇼'에서 \"원내대표까지 지낸 당의 책임자이기... 국회의원의 제명은 의원총회에서 당 소속 국회의원 과반의 찬성을 받아야 효력이 발생합니다.",
+            "originallink": "https://news.jtbc.co.kr/article/NB12279710?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-13T11:11:00",
+            "related_members": [
+                "8P37634C",
+                "5TQ6306B",
+                "8Q88373R"
+            ],
+            "title": "박수현 \"김병기 재심 신청 상상 안 해봐\"…여권 '당혹'"
+        },
         {
             "_id": "69659499887d07f7ba2fab15",
             "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
@@ -186,7 +220,7 @@
             "_id": "69659499887d07f7ba2fab16",
             "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
             "created_at": "2026-01-13T09:40:55.415000",
-            "description": "◆ 곽우신&gt; 한병도 의원이 어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정... ",
+            "description": "이 컴퓨터가 이미 작년 10월 진종오 국민의힘 의원으로부터 지방선거 경선에 종교단체가 동원됐다는 의혹이... 국회의원? ◆ 김성열&gt; 그런데 이 얘기가 어디서 나오는 거냐면. ◇ 박재홍&gt; 질문에만 답을 해주세요. ◆ 김성열... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T07:01:00",
@@ -240,7 +274,7 @@
             "_id": "6964b541631fd17434995fde",
             "link": "https://n.news.naver.com/mnews/article/421/0008708610?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "박지원 의원은 이날 CBS 라디오 '박성태의 뉴스쇼'에서 \"오늘부로 김 의원 문제는 끝마쳐야 한다\"며 \"최악의... 국회의원 제명의 경우 윤리심판원이 결정하더라도 최고위원회의를 거쳐 의원총회에서 재적 과반의 찬성이... ",
+            "description": "전날 신임 최고위원으로 선출돼 이날 최고위원회의에 참석한 친명(親이재명)계 강득구 최고위원도 김 의원을... 국회의원 제명의 경우 윤리심판원이 결정하더라도 최고위원회의를 거쳐 의원총회에서 재적 과반의 찬성이... ",
             "originallink": "https://www.news1.kr/politics/assembly/6035885",
             "press": "뉴스1",
             "pubDate": "2026-01-12T12:29:00",
@@ -274,6 +308,32 @@
             "title": "[무등의 아침] “‘광주·전남 통합 단체장’ 판도 리셋…민주당, 권역..."
         },
         {
+            "_id": "6964b541631fd17434995fe0",
+            "link": "https://n.news.naver.com/mnews/article/056/0012102869?sid=100",
+            "created_at": "2026-01-12T17:47:58.315000",
+            "description": "또 국회의원들의 열기가 상당히 높았던 것 같아요. 그래서 보궐선거임에도 불구하고 중앙위원은 91%가 넘고... 어느 의원님이 맡게 되시는 건가요? ▶ 김현정 : 오늘 10시에 발표하기로 되어 있는데요. 아마도 천준호 의원이... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456252&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T10:48:00",
+            "related_members": [
+                "8P37634C",
+                "6VC83722",
+                "7YL9580G",
+                "2385336L",
+                "N2P9317N",
+                "GOC54665",
+                "5TQ6306B",
+                "8BF5855P",
+                "XBT9550Q",
+                "K5F2023J",
+                "QWL7778X",
+                "KFM1081G",
+                "8SV6917G",
+                "A494529E"
+            ],
+            "title": "[전격시사] 김현정 더불어민주당 원내대변인 - 보궐선거 결과, 당권파 힘..."
+        },
+        {
             "_id": "6964b541631fd17434995fe1",
             "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
@@ -304,32 +364,6 @@
                 "YGB8604T"
             ],
             "title": "[전격시사] “민주, 새 지도부 구성 이후” (홍익표) “‘정청래 대표 ..."
-        },
-        {
-            "_id": "6964b541631fd17434995fe0",
-            "link": "https://n.news.naver.com/mnews/article/056/0012102869?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "또 국회의원들의 열기가 상당히 높았던 것 같아요. 그래서 보궐선거임에도 불구하고 중앙위원은 91%가 넘고... 어느 의원님이 맡게 되시는 건가요? ▶ 김현정 : 오늘 10시에 발표하기로 되어 있는데요. 아마도 천준호 의원이... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456252&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-12T10:48:00",
-            "related_members": [
-                "8P37634C",
-                "6VC83722",
-                "7YL9580G",
-                "2385336L",
-                "N2P9317N",
-                "GOC54665",
-                "5TQ6306B",
-                "8BF5855P",
-                "XBT9550Q",
-                "K5F2023J",
-                "QWL7778X",
-                "KFM1081G",
-                "8SV6917G",
-                "A494529E"
-            ],
-            "title": "[전격시사] 김현정 더불어민주당 원내대변인 - 보궐선거 결과, 당권파 힘..."
         },
         {
             "_id": "6964b541631fd17434995fe2",
@@ -380,7 +414,7 @@
             "_id": "6964b541631fd17434995fe4",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
+            "description": "그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은... 강득구 의원하고 문정복 의원은 재선 의원이거든요? 그리고 이성윤하고 이건태 의원은 초선 의원이었어요. 그래서... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-12T09:30:00",
@@ -449,7 +483,7 @@
             "_id": "6964b541631fd17434995fe7",
             "link": "https://n.news.naver.com/mnews/article/052/0002299268?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
+            "description": "그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은... 강득구 의원하고 문정복 의원은 재선 의원이거든요? 그리고 이성윤하고 이건태 의원은 초선 의원이었어요. 그래서... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601120807438340",
             "press": "YTN",
             "pubDate": "2026-01-12T08:07:00",
@@ -577,45 +611,6 @@
                 "GOC54665"
             ],
             "title": "최고위에 친청 5명·친명 4명… 정청래 입김 더 세진다"
-        },
-        {
-            "_id": "6964b566631fd174349962d0",
-            "link": "https://n.news.naver.com/mnews/article/011/0004577327?sid=100",
-            "created_at": "2026-01-12T17:48:35.804000",
-            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 이날 선거는 6·3 지방선거 출마를 위해 사퇴한 전현희·한준호·김병주 전 최고위원의 공석을 메우기 위해... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K79GAIXQ6",
-            "press": "서울경제",
-            "pubDate": "2026-01-11T20:52:00",
-            "related_members": [
-                "N2P9317N",
-                "2385336L",
-                "FOK3459D",
-                "8P37634C",
-                "GOC54665",
-                "7YC6702R",
-                "25G2571T",
-                "GF286398",
-                "BCQ55105"
-            ],
-            "title": "민주당 새 최고위원에 강득구·이성윤·문정복…'친정청래' 이겼다"
-        },
-        {
-            "_id": "6964b549631fd174349960a9",
-            "link": "https://n.news.naver.com/mnews/article/032/0003420740?sid=100",
-            "created_at": "2026-01-12T17:48:06.671000",
-            "description": "친명계인 이건태 의원은 20.6%로 낙선했다. 당심(당원 마음)과 의원들의 표심은 확연하게 갈렸다. 국회의원과 지역위원장 등으로 구성된 중앙위원 투표에선 강 의원이 34.3%를 득표해 1위를 차지했다. 문 의원이 26.8%로... ",
-            "originallink": "https://www.khan.co.kr/article/202601112033005",
-            "press": "경향신문",
-            "pubDate": "2026-01-11T20:33:00",
-            "related_members": [
-                "N2P9317N",
-                "2385336L",
-                "8P37634C",
-                "MLH1404S",
-                "GOC54665",
-                "7YC6702R"
-            ],
-            "title": "여당 신임 최고위원 강득구·이성윤·문정복…‘정청래 체제’ 힘 실렸..."
         }
     ],
     "recent_videos": [
@@ -644,7 +639,7 @@
             "url": "https://www.youtube.com/watch?v=M8gDfxJGTxw",
             "HG_NM": "강득구",
             "MONA_CD": "8P37634C",
-            "collected_at": "2026-01-09T16:17:48.385000",
+            "collected_at": "2026-01-14T10:14:16.654000",
             "duration": 92.0,
             "title": "예고) 강득구 의원의 “교육 차별은 줄이고 가치는 올리고 ”(인간존엄 교육법)",
             "upload_date": null
@@ -654,7 +649,7 @@
             "url": "https://www.youtube.com/watch?v=QAugO-pbRqU",
             "HG_NM": "강득구",
             "MONA_CD": "8P37634C",
-            "collected_at": "2026-01-13T09:42:34.201000",
+            "collected_at": "2026-01-14T10:14:16.654000",
             "duration": 9052.0,
             "title": "[국회의원 강득구]탄소중립을 위한 아름다운 가로수 관리 1차 포럼",
             "upload_date": null
@@ -664,7 +659,7 @@
             "url": "https://www.youtube.com/watch?v=bpb73x_WUBU",
             "HG_NM": "강득구",
             "MONA_CD": "8P37634C",
-            "collected_at": "2026-01-13T09:42:34.201000",
+            "collected_at": "2026-01-14T10:14:16.654000",
             "duration": 120.0,
             "title": "[국회의원 강득구]2020국정감사 - 원격수업, 커지는 교육격차",
             "upload_date": null
@@ -684,7 +679,7 @@
             "url": "https://www.youtube.com/watch?v=R1W_KdfOy3U",
             "HG_NM": "강득구",
             "MONA_CD": "8P37634C",
-            "collected_at": "2026-01-13T09:42:34.201000",
+            "collected_at": "2026-01-14T10:14:16.654000",
             "duration": 1156.0,
             "title": "국회의원 강득구 최고위원 출마선언",
             "upload_date": null
@@ -694,7 +689,7 @@
             "url": "https://www.youtube.com/watch?v=UCWPYeOndgzUJ2atd1NwpBTw",
             "HG_NM": "강득구",
             "MONA_CD": "8P37634C",
-            "collected_at": "2026-01-13T09:42:34.201000",
+            "collected_at": "2026-01-14T10:14:16.654000",
             "duration": null,
             "title": "강득구TV",
             "upload_date": null
@@ -704,7 +699,7 @@
             "url": "https://www.youtube.com/watch?v=vvDZ6aTyHmc",
             "HG_NM": "강득구",
             "MONA_CD": "8P37634C",
-            "collected_at": "2026-01-13T09:42:34.201000",
+            "collected_at": "2026-01-14T10:14:16.654000",
             "duration": 10916.0,
             "title": "🔴[LIVE] 더불어민주당 강득구 의원, 최고위원 출마 기자회견 | MBN NEWS",
             "upload_date": null
@@ -720,5 +715,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:00.900150"
+    "exported_at": "2026-01-14T10:26:46.498630"
 }

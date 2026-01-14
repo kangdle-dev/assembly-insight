@@ -66,22 +66,22 @@
             "혐의",
             "국민",
             "구속",
-            "특검",
             "김건희",
+            "특검",
             "의혹",
-            "수사",
             "재판",
+            "수사",
+            "내란",
             "사사건건",
             "탄핵",
             "구형",
             "선고",
-            "윤영",
-            "이혜훈"
+            "윤영"
         ],
         "keyword_frequency": [
             {
                 "text": "통일교",
-                "value": 20
+                "value": 22
             },
             {
                 "text": "혐의",
@@ -89,14 +89,10 @@
             },
             {
                 "text": "국민",
-                "value": 16
+                "value": 15
             },
             {
                 "text": "구속",
-                "value": 13
-            },
-            {
-                "text": "특검",
                 "value": 13
             },
             {
@@ -104,16 +100,24 @@
                 "value": 12
             },
             {
+                "text": "특검",
+                "value": 11
+            },
+            {
                 "text": "의혹",
                 "value": 10
             },
             {
-                "text": "수사",
-                "value": 10
+                "text": "재판",
+                "value": 9
             },
             {
-                "text": "재판",
-                "value": 7
+                "text": "수사",
+                "value": 8
+            },
+            {
+                "text": "내란",
+                "value": 6
             },
             {
                 "text": "사사건건",
@@ -134,35 +138,45 @@
             {
                 "text": "윤영",
                 "value": 6
-            },
-            {
-                "text": "이혜훈",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:02.344099",
+        "last_analyzed_at": "2026-01-14T10:26:47.965322",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                2,
                 0,
                 1,
                 0,
                 0,
                 1,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec74887d07f7ba2fb27c",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708840?sid=102",
+            "created_at": "2026-01-14T10:08:05.371000",
+            "description": "이로써 ▲통일교 정책 지원 등의 재산상 이익 ▲교단 몫의 국회의원 비례대표 자리 제공을 약속받은 뒤... 사건 ▲권성동 국민의힘 의원의 정치자금법 위반 혐의 사건 ▲윤 전 본부장의 청탁금지법 위반 사건도 맡고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475499",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T06:00:00",
+            "related_members": [
+                "GDG1847Z",
+                "TQP7167T"
+            ],
+            "title": "尹 내란 결심 다음날…김건희 '통일교 집단 입당' 재판 시작"
+        },
         {
             "_id": "6965949a887d07f7ba2fab24",
             "link": "https://n.news.naver.com/mnews/article/056/0012103116?sid=100",
@@ -447,22 +461,6 @@
                 "S9U45255"
             ],
             "title": "[사사건건] 이혜훈 발탁은?…“실용인사” vs “지방선거용”"
-        },
-        {
-            "_id": "6964b544631fd17434996048",
-            "link": "https://n.news.naver.com/mnews/article/421/0008684454?sid=102",
-            "created_at": "2026-01-12T17:48:01.732000",
-            "description": "조사 -조은희 국민의힘 의원 소환 조사 ▶25일 -김 여사 수행비서 유경옥 정지원 전 대통령실 행정관 소환... 자택과 국회의원회관 사무실 등 압수수색 -'통일교 측으로부터 1억 원 수수' 혐의 권성동 국민의힘 의원 징역... ",
-            "originallink": "https://www.news1.kr/society/general-society/6022435",
-            "press": "뉴스1",
-            "pubDate": "2025-12-29T13:41:00",
-            "related_members": [
-                "TQP7167T",
-                "GDG1847Z",
-                "MSY7784L",
-                "MQU41854"
-            ],
-            "title": "[일지] 김건희특검 출범부터 수사 종료까지 180일 여정"
         }
     ],
     "recent_videos": [
@@ -491,7 +489,7 @@
             "url": "https://www.youtube.com/watch?v=Gho98OQZBNE",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.589000",
+            "collected_at": "2026-01-14T10:14:46.314000",
             "duration": 119.0,
             "title": "\"안 만났는데 어떻게 주나\"…권성동 재판서 물러섰다 / SBS 8뉴스",
             "upload_date": null
@@ -501,7 +499,7 @@
             "url": "https://www.youtube.com/watch?v=yKeh8r0bG4I",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.040000",
+            "collected_at": "2026-01-14T10:14:45.622000",
             "duration": 180.0,
             "title": "[현장영상] '체포동의안' 표결 코앞으로…권성동 가뭄 피해현장 찾아 / JTBC News",
             "upload_date": null
@@ -511,7 +509,7 @@
             "url": "https://www.youtube.com/watch?v=D86WZmvhmh0",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-09T16:18:18.292000",
+            "collected_at": "2026-01-14T10:14:46.314000",
             "duration": 148.0,
             "title": "권성동 구속 기로…이르면 오늘 밤 결정 / SBS",
             "upload_date": null
@@ -521,7 +519,7 @@
             "url": "https://www.youtube.com/watch?v=wWw_9jfMHxM",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.040000",
+            "collected_at": "2026-01-14T10:14:45.622000",
             "duration": 173.0,
             "title": "\"결백하다\"는 권성동…오늘 밤 구속 갈림길 / SBS",
             "upload_date": null
@@ -531,7 +529,7 @@
             "url": "https://www.youtube.com/watch?v=UC5-F5VEDAB_D2vjBQlFw2Hw",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.040000",
+            "collected_at": "2026-01-14T10:14:45.622000",
             "duration": null,
             "title": "권성동 채널",
             "upload_date": null
@@ -541,7 +539,7 @@
             "url": "https://www.youtube.com/watch?v=AVqv6iitWBY",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.589000",
+            "collected_at": "2026-01-14T10:14:46.314000",
             "duration": 115.0,
             "title": "피고인석 권성동, 직업 묻자 \"국회의원\"…그리곤 '침묵' / JTBC 뉴스룸",
             "upload_date": null
@@ -551,7 +549,7 @@
             "url": "https://www.youtube.com/watch?v=S3xOcaaODNE",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.040000",
+            "collected_at": "2026-01-14T10:14:45.622000",
             "duration": 136.0,
             "title": "‘정치자금 의혹’ 사퇴 촉구…위기의 권성동 의원 / KBS  2025.08.12.",
             "upload_date": null
@@ -561,11 +559,11 @@
             "url": "https://www.youtube.com/watch?v=ZoCTRe5uvUs",
             "HG_NM": "권성동",
             "MONA_CD": "GDG1847Z",
-            "collected_at": "2026-01-13T09:42:56.040000",
+            "collected_at": "2026-01-14T10:14:45.622000",
             "duration": 111.0,
             "title": "\"직업은?\" \"국회의원\"…권성동, 첫 재판서 혐의 모두 부인 / JTBC 아침&",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:02.345099"
+    "exported_at": "2026-01-14T10:26:47.965322"
 }

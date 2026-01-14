@@ -53,49 +53,37 @@
     "analysis": {
         "keywords": [
             "최고",
-            "민주당",
             "위원",
+            "민주당",
             "정청래",
-            "서울시",
-            "대표",
-            "장연",
             "출마",
             "정복",
             "선출",
-            "장애인",
             "원내대표",
             "성윤문",
-            "선거",
-            "회관"
+            "김병주",
+            "대표",
+            "보궐선거",
+            "회관",
+            "한준호",
+            "강득"
         ],
         "keyword_frequency": [
             {
                 "text": "최고",
-                "value": 34
-            },
-            {
-                "text": "민주당",
-                "value": 32
+                "value": 35
             },
             {
                 "text": "위원",
-                "value": 32
+                "value": 33
+            },
+            {
+                "text": "민주당",
+                "value": 27
             },
             {
                 "text": "정청래",
                 "value": 13
-            },
-            {
-                "text": "서울시",
-                "value": 13
-            },
-            {
-                "text": "대표",
-                "value": 12
-            },
-            {
-                "text": "장연",
-                "value": 12
             },
             {
                 "text": "출마",
@@ -110,10 +98,6 @@
                 "value": 11
             },
             {
-                "text": "장애인",
-                "value": 11
-            },
-            {
                 "text": "원내대표",
                 "value": 10
             },
@@ -122,37 +106,147 @@
                 "value": 10
             },
             {
-                "text": "선거",
-                "value": 10
+                "text": "김병주",
+                "value": 9
+            },
+            {
+                "text": "대표",
+                "value": 9
+            },
+            {
+                "text": "보궐선거",
+                "value": 9
             },
             {
                 "text": "회관",
-                "value": 9
+                "value": 8
+            },
+            {
+                "text": "한준호",
+                "value": 8
+            },
+            {
+                "text": "강득",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:29.703570",
+        "last_analyzed_at": "2026-01-14T10:27:14.493395",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
-                0,
-                5,
+                1,
                 1,
                 9,
                 4,
-                1
+                1,
+                4
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec7a887d07f7ba2fb2a0",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712934?sid=100",
+            "created_at": "2026-01-14T10:08:10.816000",
+            "description": "전현희 의원은 CBS라디오 '박성태의 뉴스쇼'에서 \"이번 제명 처분은 본인이 스스로 선당후사 결단을 하지 않은... 그는 \"제명은 국회의원이나 민주당 당원에 대한 정치적으로 마지막을 끊는 문제이기 때문에 절차와 과정을... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6038373",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T09:48:00",
+            "related_members": [
+                "8Q88373R",
+                "5765663F",
+                "8BF5855P",
+                "25G2571T"
+            ],
+            "title": "김병기 \"제명돼도 못 떠나\"…징계심사 2라운드' 난감한 與"
+        },
+        {
+            "_id": "6966ec72887d07f7ba2fb26c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104830?sid=100",
+            "created_at": "2026-01-14T10:08:03.097000",
+            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 전현희(더불어민주당 국회의원) ◇ 박성태&gt; 1부에서 야당 목소리... 이건 정성호 장관의 주장입니다. 그러니까 법사위에서 했던 얘기는 정성호 법무부 장관은 검찰 개혁으로... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455861?utm_source=naver&utm_medium=article&utm_campaign=20260114094138",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-14T09:42:00",
+            "related_members": [
+                "25G2571T",
+                "8Q88373R",
+                "MNZ4401T",
+                "OFE45081",
+                "KFM1081G",
+                "V429892C"
+            ],
+            "title": "전현희 \"김병기, 재심 신청? 당의 결정에 승복하라\""
+        },
+        {
+            "_id": "6966ec77887d07f7ba2fb282",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475751",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "IUX1829H",
+                "9D939735",
+                "88O1334C",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "04T3751T",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "MSY7784L",
+                "RBM5454A",
+                "WJL30106",
+                "WJG74792"
+            ],
+            "title": "[오늘의 주요일정]국회(1월14일 수요일)"
+        },
+        {
+            "_id": "6966ec77887d07f7ba2fb281",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037918",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "IUX1829H",
+                "MSY7784L",
+                "9D939735",
+                "88O1334C",
+                "04T3751T",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "RBM5454A",
+                "WJG74792"
+            ],
+            "title": "[오늘의 국회일정] (14일, 수)"
+        },
         {
             "_id": "69659499887d07f7ba2fab15",
             "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
@@ -329,7 +423,7 @@
             "_id": "6964b549631fd174349960aa",
             "link": "https://n.news.naver.com/mnews/article/028/0002785850?sid=100",
             "created_at": "2026-01-12T17:48:06.671000",
-            "description": "이언주·황명선 포함) 등 9명으로 구성되는데, 이날 선거를 통해 정 대표를 중심으로 한 5 대 4 구도가... 이성윤 의원은 이날 최고위원 보궐선거 개표를 앞두고 국회 의원회관에서 열린 합동연설회에서 “최고위원이 되는... ",
+            "description": "앞서 지방선거 출마 준비를 위해 사퇴한 전현희·김병주·한준호 최고위원과 각종 비위 의혹으로... 이성윤 의원은 이날 최고위원 보궐선거 개표를 앞두고 국회 의원회관에서 열린 합동연설회에서 “최고위원이 되는 즉시... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239117.html",
             "press": "한겨레",
             "pubDate": "2026-01-11T19:52:00",
@@ -500,74 +594,6 @@
                 "TKJ4800F"
             ],
             "title": "서울시 “민주당, 서울시 장애인 정책 왜곡·비하…무책임한 선동”"
-        },
-        {
-            "_id": "6964b54d631fd174349960fc",
-            "link": "https://n.news.naver.com/mnews/article/079/0004103610?sid=102",
-            "created_at": "2026-01-12T17:48:10.904000",
-            "description": "황진환 기자 전장연 만난 민주당 서울시장 후보군 더불어민주당 전현희, 김영배, 서영교, 박주민, 홍익표 전 의원 등이 9일 국회 의원회관에서 열린 전국장애인차별철폐연대(전장연)와 장애인 권리보장 관련 현안 논의... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6454153?utm_source=naver&utm_medium=article&utm_campaign=20260109052826",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-09T17:29:00",
-            "related_members": [
-                "B7D7534L",
-                "TKJ4800F",
-                "25G2571T",
-                "6AU2417B"
-            ],
-            "title": "큰 별은 떨어지고…코스피·물가는 계속 오르고[노컷한컷]"
-        },
-        {
-            "_id": "6964b54d631fd174349960fd",
-            "link": "https://n.news.naver.com/mnews/article/016/0002583640?sid=102",
-            "created_at": "2026-01-12T17:48:10.904000",
-            "description": "9일 국회의원회관에서 박경석 공동대표(앞줄 왼쪽 세 번째) 등 전국장애인차별철폐연대 활동가들과 간담회에 앞서 파이팅을 외치고 있다. 뒷줄 왼쪽부터 민주당 장경태·박주민 의원, 홍익표 전 의원, 전현희·김영배... ",
-            "originallink": "https://biz.heraldcorp.com/article/10652571?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-09T17:28:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "B7D7534L",
-                "RPN2293B",
-                "TKJ4800F",
-                "51A45980"
-            ],
-            "title": "서울시 “전장연 주장 ‘400명 일방적 해고’, 선동적 표현”"
-        },
-        {
-            "_id": "6964b54d631fd174349960fe",
-            "link": "https://n.news.naver.com/mnews/article/020/0003688194?sid=102",
-            "created_at": "2026-01-12T17:48:10.904000",
-            "description": "서울시장 출마를 준비하는 더불어민주당 국회의원들이 전국장애인차별철폐연대(전장연)와 손잡고 오세훈... 해당 간담회에는 박홍근 서영교(4선) 박주민(3선) 전현희(재선) 의원 등이 참석했다. 서울시는 이들의 주장에... ",
-            "originallink": "https://www.donga.com/news/Society/article/all/20260109/133125932/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-09T17:14:00",
-            "related_members": [
-                "B7D7534L",
-                "TKJ4800F",
-                "25G2571T",
-                "6AU2417B",
-                "S824682L"
-            ],
-            "title": "서울시, 與-전장연 간담회에 “선거앞 갈라치기 정치 중단하라”"
-        },
-        {
-            "_id": "6964b54d631fd174349960ff",
-            "link": "https://n.news.naver.com/mnews/article/021/0002762681?sid=102",
-            "created_at": "2026-01-12T17:48:10.904000",
-            "description": "더불어민주당 김영배, 서영교, 전현희, 박주민, 박홍근 등 의원들과 박경석 전장연 상임대표 등 참석자들이 9일 서울 여의도 국회 의원회관에서 열린 전국장애인차별철폐연대와의 대화에서 기념촬영하고 있다. 뉴시스... ",
-            "originallink": "https://www.munhwa.com/article/11559830?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-09T16:53:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "S824682L",
-                "B7D7534L",
-                "TKJ4800F"
-            ],
-            "title": "서울시, 장애인 정책을 ‘선거용’으로 왜곡 말라…민주당에 강력 유감"
         }
     ],
     "recent_videos": [
@@ -596,7 +622,7 @@
             "url": "https://www.youtube.com/watch?v=x2FVQwcV8yQ",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-13T09:50:44.978000",
+            "collected_at": "2026-01-14T10:23:23.228000",
             "duration": 202.0,
             "title": "\"전현희 의원! 옆자린데 소름끼치지도 않습니까?\" 신동욱, 장경태 향한 융단폭격 [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -616,7 +642,7 @@
             "url": "https://www.youtube.com/watch?v=IYlPWT-F5eQ",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-13T09:50:45.698000",
+            "collected_at": "2026-01-14T10:23:23.800000",
             "duration": 123.0,
             "title": "전현희 감사결과 확정 때 전산 조작‥결재버튼 없애\" (2026.01.06/12MBC뉴스)",
             "upload_date": null
@@ -626,7 +652,7 @@
             "url": "https://www.youtube.com/watch?v=UCxDSg4ch-i57tzukpLRaxkw",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-13T09:50:44.978000",
+            "collected_at": "2026-01-14T10:23:23.228000",
             "duration": null,
             "title": "전현희TV",
             "upload_date": null
@@ -656,7 +682,7 @@
             "url": "https://www.youtube.com/watch?v=oooLPhC33Zk",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-09T16:27:05.913000",
+            "collected_at": "2026-01-14T10:23:23.228000",
             "duration": 160.0,
             "title": "전현희 의원 vs 송석준 의원, 여야 의원들 청문회에서 고성으로 언쟁 벌이다 결국 정회 (현장영상) / SBS",
             "upload_date": null
@@ -672,5 +698,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:29.703570"
+    "exported_at": "2026-01-14T10:27:14.493395"
 }

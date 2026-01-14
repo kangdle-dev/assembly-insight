@@ -48,20 +48,20 @@
     "analysis": {
         "keywords": [
             "광주",
-            "전남",
             "통합",
+            "전남",
             "김원",
-            "전남도",
             "민주당",
+            "전남도",
             "위원장",
             "대통령",
             "지원",
             "행정",
+            "선거",
             "지방선거",
             "이재명",
-            "선거",
-            "정부",
-            "의결"
+            "의결",
+            "간담"
         ],
         "keyword_frequency": [
             {
@@ -69,11 +69,11 @@
                 "value": 63
             },
             {
-                "text": "전남",
-                "value": 59
+                "text": "통합",
+                "value": 60
             },
             {
-                "text": "통합",
+                "text": "전남",
                 "value": 58
             },
             {
@@ -81,35 +81,27 @@
                 "value": 35
             },
             {
-                "text": "전남도",
-                "value": 22
+                "text": "민주당",
+                "value": 23
             },
             {
-                "text": "민주당",
+                "text": "전남도",
                 "value": 21
             },
             {
                 "text": "위원장",
-                "value": 19
-            },
-            {
-                "text": "대통령",
                 "value": 18
             },
             {
-                "text": "지원",
-                "value": 14
+                "text": "대통령",
+                "value": 16
             },
             {
-                "text": "행정",
+                "text": "지원",
                 "value": 12
             },
             {
-                "text": "지방선거",
-                "value": 11
-            },
-            {
-                "text": "이재명",
+                "text": "행정",
                 "value": 10
             },
             {
@@ -117,37 +109,73 @@
                 "value": 10
             },
             {
-                "text": "정부",
+                "text": "지방선거",
+                "value": 10
+            },
+            {
+                "text": "이재명",
                 "value": 9
             },
             {
                 "text": "의결",
                 "value": 9
+            },
+            {
+                "text": "간담",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:07.432408",
+        "last_analyzed_at": "2026-01-14T10:26:52.981610",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
-                0,
-                12,
+                10,
                 0,
                 0,
                 8,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec79887d07f7ba2fb288",
+            "link": "https://n.news.naver.com/mnews/article/003/0013709253?sid=100",
+            "created_at": "2026-01-14T10:08:10.226000",
+            "description": "김 총리는 14일 오전 서울 여의도 국회 의원회관에서 민주당 광주·전남 통합 추진 특별위원회와 간담회를... 광주·전남 통합 추진 특별위원회 공동위원장을 맡은 김원이 민주당 의원은 이날 간담회 후 기자들과 만나 \"광주... ",
+            "originallink": "https://www.newsis.com/view/NISX20260114_0003476180",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T09:37:00",
+            "related_members": [
+                "MLH1404S",
+                "4L695580"
+            ],
+            "title": "당정, 광주·전남 통합 논의…김민석 \"곧 방향 정리해 발표\""
+        },
+        {
+            "_id": "6966ec79887d07f7ba2fb289",
+            "link": "https://n.news.naver.com/mnews/article/011/0004578475?sid=100",
+            "created_at": "2026-01-14T10:08:10.226000",
+            "description": "김 총리는 이날 국회 의원회관에서 열린 간담회 모두발언을 통해 “방향과 내용, 속도와 결의 모두 중요한... 민주당 전남도당위원장인 김원이 의원은 “광주권은 주로 광역교통망 문제를, (전남) 동부권은 철강 산업... ",
+            "originallink": "https://www.sedaily.com/NewsView/2K7ASMPWQ9",
+            "press": "서울경제",
+            "pubDate": "2026-01-14T09:32:00",
+            "related_members": [
+                "MLH1404S",
+                "4L695580"
+            ],
+            "title": "광주·전남 통합 머리 맞댄 당정…金총리 “며칠 내 큰 방향 정리”"
+        },
         {
             "_id": "696594a1887d07f7ba2fab2c",
             "link": "https://mpmbc.co.kr/NewsArticle/1500270",
@@ -400,40 +428,6 @@
                 "8TU8443O"
             ],
             "title": "與 광주·전남 의원들 \"정부, 15일께 광주·전남 통합 지원특례 발표\"…..."
-        },
-        {
-            "_id": "6964b56e631fd17434996337",
-            "link": "https://n.news.naver.com/mnews/article/421/0008705772?sid=100",
-            "created_at": "2026-01-12T17:48:43.549000",
-            "description": "광주시당위원장인 양부남·전남도당위원장인 김원이 의원은 이날 국회 소통관에서 브리핑을 갖고 이같이... 정진욱 의원은 \"시기상 지방선거까지 주민투표를 실시하기엔 여유가 없다\"며 \"지방자치법이 규정하는 시도의회... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6034160",
-            "press": "뉴스1",
-            "pubDate": "2026-01-09T15:56:00",
-            "related_members": [
-                "4L695580",
-                "CK143054",
-                "9HE7226N"
-            ],
-            "title": "李대통령-與 '광주·전남 행정통합' 합심…당 15일 법안 발의(종합)"
-        },
-        {
-            "_id": "6964b548631fd174349960a3",
-            "link": "https://n.news.naver.com/mnews/article/003/0013702057?sid=100",
-            "created_at": "2026-01-12T17:48:06.111000",
-            "description": "더불어민주당 전남도당위원장인 김원이 의원은 9일 국회에서 기자회견을 열고 \"전남·광주 의원들은 이재명... 양부남 의원, 전남에서 신정훈·김문수·조계원 의원, 광주에서 정준호·정진욱 의원 등이 참석했다．",
-            "originallink": "https://www.newsis.com/view/NISX20260109_0003471532",
-            "press": "뉴시스",
-            "pubDate": "2026-01-09T15:24:00",
-            "related_members": [
-                "4L695580",
-                "86R9476S",
-                "M7O7878U",
-                "CK143054",
-                "IC499858",
-                "8TU8443O",
-                "9HE7226N"
-            ],
-            "title": "與 광주·전남 의원들 \"정부, 15일께 광주·전남 통합 지원특례 발표\"…..."
         }
     ],
     "recent_videos": [
@@ -442,7 +436,7 @@
             "url": "https://www.youtube.com/watch?v=3tbIogQHvWc",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:10.747000",
+            "collected_at": "2026-01-14T10:16:21.617000",
             "duration": 741.0,
             "title": "계엄의 밤, 김원이 의원이 국회 경력 10년차 이상 직원들을 소집한 이유 | 그날그곳",
             "upload_date": null
@@ -452,7 +446,7 @@
             "url": "https://www.youtube.com/watch?v=AfeMFh0VRXw",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:11.226000",
+            "collected_at": "2026-01-14T10:16:22.377000",
             "duration": 116.0,
             "title": "김원이 의원실 2차 가해 '일파만파'..국힘 제명 촉구 / KBC뉴스",
             "upload_date": null
@@ -462,7 +456,7 @@
             "url": "https://www.youtube.com/watch?v=glNRLMJwLxc",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:10.747000",
+            "collected_at": "2026-01-14T10:16:21.617000",
             "duration": 585.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 김원이 의원(더불어민주당)",
             "upload_date": null
@@ -472,7 +466,7 @@
             "url": "https://www.youtube.com/watch?v=EvpPKvEB7Mk",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:11.226000",
+            "collected_at": "2026-01-14T10:16:22.377000",
             "duration": 220.0,
             "title": "김원이 의원 측근이 2차 가해.. 지방선거 후보도 포함-R (2022.5.12/목포MBC 뉴스데스크)",
             "upload_date": null
@@ -482,7 +476,7 @@
             "url": "https://www.youtube.com/watch?v=51xU8lx9n4A",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:11.226000",
+            "collected_at": "2026-01-14T10:16:22.377000",
             "duration": 204.0,
             "title": "[오늘 이 뉴스] \"국회의원 이 '땡땡' 김원이\"..\"그 '땡땡'이 뭔지 불분명\" (2022.09.27/MBC뉴스)",
             "upload_date": null
@@ -492,7 +486,7 @@
             "url": "https://www.youtube.com/watch?v=UCK4UEOo5-9la9o8xUrjUzLg",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:10.747000",
+            "collected_at": "2026-01-14T10:16:21.617000",
             "duration": null,
             "title": "김원이",
             "upload_date": null
@@ -502,7 +496,7 @@
             "url": "https://www.youtube.com/watch?v=G0AAY_AUOrI",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:10.747000",
+            "collected_at": "2026-01-14T10:16:21.617000",
             "duration": 220.0,
             "title": "김원이 의원 측근이 2차 가해..지방선거 후보도 포함[목포MBC 뉴스데스크]",
             "upload_date": null
@@ -512,7 +506,7 @@
             "url": "https://www.youtube.com/watch?v=twFr8jtfo-w",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:10.747000",
+            "collected_at": "2026-01-14T10:16:21.617000",
             "duration": 107.0,
             "title": "2020년 6월 17일 보건복지위원회 김원이 국회의원 인사",
             "upload_date": null
@@ -522,7 +516,7 @@
             "url": "https://www.youtube.com/watch?v=V8v8LbfWaTc",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-13T09:44:11.226000",
+            "collected_at": "2026-01-14T10:16:22.377000",
             "duration": 126.0,
             "title": "김원이 의원실 성폭력 논란 2차 가해로 확산 / KBS  2022.05.13.",
             "upload_date": null
@@ -532,11 +526,11 @@
             "url": "https://www.youtube.com/watch?v=VBFxkg0zsWs",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-09T16:19:56.610000",
+            "collected_at": "2026-01-14T10:16:21.617000",
             "duration": 96.0,
             "title": "김원이 응원 메세지 #김부겸 국회의원 / 전 행정안전부 장관",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:07.433407"
+    "exported_at": "2026-01-14T10:26:52.981610"
 }

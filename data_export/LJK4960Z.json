@@ -53,106 +53,133 @@
     "analysis": {
         "keywords": [
             "정점",
-            "장동혁",
-            "국민",
-            "의장",
             "정책",
-            "민주당",
-            "민주",
-            "어게인",
-            "선거",
-            "이제",
-            "경남",
-            "개혁",
-            "신당",
+            "의장",
+            "국민",
+            "장동혁",
+            "혁신",
+            "조광",
+            "최고",
+            "실질",
+            "동력",
             "대표",
-            "조광"
+            "민주",
+            "위원",
+            "민주당",
+            "어게인"
         ],
         "keyword_frequency": [
             {
                 "text": "정점",
-                "value": 29
+                "value": 38
+            },
+            {
+                "text": "정책",
+                "value": 21
+            },
+            {
+                "text": "의장",
+                "value": 21
+            },
+            {
+                "text": "국민",
+                "value": 16
             },
             {
                 "text": "장동혁",
                 "value": 11
             },
             {
-                "text": "국민",
-                "value": 11
+                "text": "혁신",
+                "value": 8
             },
             {
-                "text": "의장",
-                "value": 9
-            },
-            {
-                "text": "정책",
+                "text": "조광",
                 "value": 7
             },
             {
-                "text": "민주당",
+                "text": "최고",
                 "value": 7
+            },
+            {
+                "text": "실질",
+                "value": 6
+            },
+            {
+                "text": "동력",
+                "value": 6
+            },
+            {
+                "text": "대표",
+                "value": 6
             },
             {
                 "text": "민주",
                 "value": 6
             },
             {
+                "text": "위원",
+                "value": 6
+            },
+            {
+                "text": "민주당",
+                "value": 6
+            },
+            {
                 "text": "어게인",
                 "value": 6
-            },
-            {
-                "text": "선거",
-                "value": 6
-            },
-            {
-                "text": "이제",
-                "value": 6
-            },
-            {
-                "text": "경남",
-                "value": 6
-            },
-            {
-                "text": "개혁",
-                "value": 5
-            },
-            {
-                "text": "신당",
-                "value": 5
-            },
-            {
-                "text": "대표",
-                "value": 5
-            },
-            {
-                "text": "조광",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:30.712280",
+        "last_analyzed_at": "2026-01-14T10:27:15.478706",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                0,
                 8,
                 5,
                 0,
                 1,
+                2,
                 2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ecb2887d07f7ba2fb32f",
+            "link": "https://n.news.naver.com/mnews/article/374/0000486169?sid=101",
+            "created_at": "2026-01-14T10:09:06.600000",
+            "description": "정점식 신임 국민의힘 정책위의장이 \"당 혁신의 실질적인 동력이 되겠다\"고 밝혔습니다. 정 정책위의장은... 앞서 국힘은 이날 오후 서울 여의도 국회에서 열린 의원총회에서 정 정책위의장 인선안을 추인(사후 승인)... ",
+            "originallink": "https://biz.sbs.co.kr/article_hub/20000284655?division=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-13T18:58:00",
+            "related_members": [
+                "KFM1081G",
+                "LJK4960Z"
+            ],
+            "title": "국힘 정책위의장 정점식 \"당 혁신 실질 동력…민생정책 내세울 것\""
+        },
+        {
+            "_id": "6966ecb6887d07f7ba2fb338",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708401?sid=100",
+            "created_at": "2026-01-14T10:09:11.058000",
+            "description": "정점식 신임 국민의힘 정책위의장은 13일 \"당 혁신의 실질적인 동력이 되겠다\"고 했다. 정 정책위의장은 이날... 앞서 국민의힘은 이날 오후 서울 여의도 국회에서 열린 의원총회에서 정 정책위의장 인선안을 추인했다. 그는... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475545",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T17:07:00",
+            "related_members": [
+                "LJK4960Z"
+            ],
+            "title": "정점식 국민의힘 정책위의장 \"당 혁신 실질적 동력 될 것\""
+        },
         {
             "_id": "6964b556631fd174349961b7",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106818&s_mcd=0214&s_hcd=01",
@@ -304,7 +331,7 @@
             "_id": "6964b548631fd1743499608f",
             "link": "https://n.news.naver.com/mnews/article/079/0004103345?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "저 넥타이가 천하람 원내대표가 자주 하고 나오는 그런 색깔인데 그래서 이게 지금 이준석 개혁신당 당... 그런데 이준석은 어렵게 국회의원 됐는데 갑자기 경기지사 나가라고 하면 안 좋지. ◆ 강수영&gt; 어차피 다음에... ",
+            "description": "그런데 이준석은 어렵게 국회의원 됐는데 갑자기 경기지사 나가라고 하면 안 좋지. ◆ 강수영&gt; 어차피 다음에... 이번에 최고위원회 정점식, 그다음에 조광한이가 한동훈 대표하고 사이가 안 좋아요. 따라서 의도는요.... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453721?utm_source=naver&utm_medium=article&utm_campaign=20260109073021",
             "press": "노컷뉴스",
             "pubDate": "2026-01-09T07:31:00",
@@ -322,7 +349,7 @@
             "_id": "6964b548631fd17434996090",
             "link": "https://n.news.naver.com/mnews/article/052/0002298166?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 마련했는데 조승래 사무총장 목소리 들어보시겠습니다. [조승래 / 더불어민주당 지방선거기획단장 : 시·도당... ",
+            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 김도읍 의원이 빠졌던 정책위의장 자리에 PK 3선의 정점식 의원을 지명했고요. 그리고 지명직 최고위원... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601082154190243",
             "press": "YTN",
             "pubDate": "2026-01-08T21:54:00",
@@ -376,7 +403,7 @@
             "_id": "6964b583631fd17434996442",
             "link": "https://n.news.naver.com/mnews/article/052/0002298137?sid=100",
             "created_at": "2026-01-12T17:49:04.973000",
-            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 들면 추경호, 주호영 그러면 둘 중에 하나는 뭐 물론 이진숙 전 사장도 있습니다만 ☆ 장성철 : 대구 같은 경우에는요.... ",
+            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 왜냐하면 뭐 정점식 정책위의장에 조광한 전 최고위원에 이게 뭐야 그러니까 며칠전 했던 얘기가 아무것도 아닌... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601081915395487",
             "press": "YTN",
             "pubDate": "2026-01-08T19:15:00",
@@ -519,7 +546,7 @@
             "url": "https://www.youtube.com/watch?v=xE82XYBT2qg",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.097000",
+            "collected_at": "2026-01-14T10:23:39.383000",
             "duration": 380.0,
             "title": "국민의힘 정점식 의원과 면담(201103)",
             "upload_date": null
@@ -529,7 +556,7 @@
             "url": "https://www.youtube.com/watch?v=0-5hVr_hsUE",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.914000",
+            "collected_at": "2026-01-14T10:23:40.005000",
             "duration": 1791.0,
             "title": "[뉴스포커스] 정점식 의원이 '고발장 초안' 전달…\"출처 기억 못해\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -539,7 +566,7 @@
             "url": "https://www.youtube.com/watch?v=3IZf-xTbC0o",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.097000",
+            "collected_at": "2026-01-14T10:23:39.383000",
             "duration": 92.0,
             "title": "국민의힘, '부인상' 정점식 의원 공천 면접 서류 대체 국민의소리TV",
             "upload_date": null
@@ -549,7 +576,7 @@
             "url": "https://www.youtube.com/watch?v=wNTdYRj_bQw",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.914000",
+            "collected_at": "2026-01-14T10:23:40.005000",
             "duration": 1075.0,
             "title": "정점식 \"장관 뜻이 확고했던 것 아닙니까\" [티조Clip]",
             "upload_date": null
@@ -559,7 +586,7 @@
             "url": "https://www.youtube.com/watch?v=S1gwATjGfz0",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.097000",
+            "collected_at": "2026-01-14T10:23:39.383000",
             "duration": 444.0,
             "title": "법제사법위원회 국정감사 정점식 의원 풀발언 [10월 21일 오후]",
             "upload_date": null
@@ -569,7 +596,7 @@
             "url": "https://www.youtube.com/watch?v=UCuxPd2fIVdhhPuMacrGXMcA",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.097000",
+            "collected_at": "2026-01-14T10:23:39.383000",
             "duration": null,
             "title": "정점식",
             "upload_date": null
@@ -579,7 +606,7 @@
             "url": "https://www.youtube.com/watch?v=zQKtnkEDPuI",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.097000",
+            "collected_at": "2026-01-14T10:23:39.383000",
             "duration": 149.0,
             "title": "의원선서 하는 여영국-정점식",
             "upload_date": null
@@ -589,11 +616,11 @@
             "url": "https://www.youtube.com/watch?v=1CjFd2TkocY",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-13T09:51:03.097000",
+            "collected_at": "2026-01-14T10:23:39.383000",
             "duration": 324.0,
             "title": "조국 법무부 장관 인사청문회, 정점식 의원 질의 풀영상",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:30.712280"
+    "exported_at": "2026-01-14T10:27:15.478706"
 }

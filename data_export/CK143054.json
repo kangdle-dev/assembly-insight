@@ -47,37 +47,41 @@
             "통합",
             "부남",
             "대통령",
+            "민주당",
             "위원장",
             "행정",
-            "발의",
             "광주시",
-            "민주당",
+            "추진",
             "정진욱",
             "참석",
-            "전남도",
-            "법안",
-            "호남"
+            "간담",
+            "발의",
+            "검사"
         ],
         "keyword_frequency": [
             {
                 "text": "광주",
-                "value": 58
+                "value": 60
             },
             {
                 "text": "전남",
-                "value": 43
+                "value": 44
             },
             {
                 "text": "통합",
-                "value": 41
+                "value": 42
             },
             {
                 "text": "부남",
-                "value": 23
+                "value": 33
             },
             {
                 "text": "대통령",
                 "value": 17
+            },
+            {
+                "text": "민주당",
+                "value": 16
             },
             {
                 "text": "위원장",
@@ -85,64 +89,88 @@
             },
             {
                 "text": "행정",
-                "value": 15
-            },
-            {
-                "text": "발의",
-                "value": 13
-            },
-            {
-                "text": "광주시",
                 "value": 11
             },
             {
-                "text": "민주당",
+                "text": "광주시",
                 "value": 10
             },
             {
+                "text": "추진",
+                "value": 9
+            },
+            {
                 "text": "정진욱",
-                "value": 10
+                "value": 9
             },
             {
                 "text": "참석",
                 "value": 9
             },
             {
-                "text": "전남도",
+                "text": "간담",
                 "value": 8
             },
             {
-                "text": "법안",
+                "text": "발의",
                 "value": 8
             },
             {
-                "text": "호남",
-                "value": 7
+                "text": "검사",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:20.338666",
+        "last_analyzed_at": "2026-01-14T10:27:05.309748",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                0,
                 2,
                 10,
                 1,
                 0,
                 2,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec79887d07f7ba2fb291",
+            "link": "https://n.news.naver.com/mnews/article/003/0013709039?sid=100",
+            "created_at": "2026-01-14T10:08:10.226000",
+            "description": "김민석 국무총리 14일 오전 서울 여의도 국회 의원회관에서 열린 국무총리-더불어민주당 광주·전남 통합추진 특위 간담회에서 기념촬영을 마친 후 양부남 의원과 대화하고있다. 2026.01.14. kmn@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260114_0021125861",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T08:50:00",
+            "related_members": [
+                "MLH1404S",
+                "CK143054"
+            ],
+            "title": "민주당 광주-전남 통합추진위원회 간담회서 미소짓는 김민석 총리"
+        },
+        {
+            "_id": "6966ec79887d07f7ba2fb28d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013709033?sid=100",
+            "created_at": "2026-01-14T10:08:10.226000",
+            "description": "김민석 국무총리 14일 오전 서울 여의도 국회 의원회관에서 열린 국무총리-더불어민주당 광주·전남 통합추진 특위 간담회에서 기념촬영을 마친 후 양부남 의원과 대화하고있다. 2026.01.14. kmn@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260114_0021125862",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T08:50:00",
+            "related_members": [
+                "MLH1404S",
+                "CK143054"
+            ],
+            "title": "민주당 광주-전남 통합추진위원회 간담회서 미소짓는 김민석 총리"
+        },
         {
             "_id": "6964b550631fd17434996134",
             "link": "https://n.news.naver.com/mnews/article/079/0004104123?sid=102",
@@ -486,7 +514,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아 (가나다 순)",
+            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -560,90 +588,27 @@
                 "T6A6557F"
             ],
             "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b58b631fd17434996495",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784544?sid=102",
-            "created_at": "2026-01-12T17:49:12.508000",
-            "description": "26일 국회 행정안전위원회에 회부됐다. 발의에는 정 의원을 비롯한 안도걸·조인철·박지원·문금주·박균택·이개호·정진욱·전진숙·양부남 등 광주·전남 국회의원 10명이 이름을 올렸다. 해당 법안의 주요 내용은... ",
-            "originallink": "https://www.hani.co.kr/arti/area/honam/1237784.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-02T17:28:00",
-            "related_members": [
-                "8BF5855P",
-                "QUR40502",
-                "EB16073M",
-                "9HE7226N",
-                "I7R13867",
-                "IWR8966I",
-                "GRP3908I",
-                "CK143054",
-                "ZKB18611"
-            ],
-            "title": "‘6월 지방선거 목표’ 광주·전남 통합, 대전·충남보다 빠를까"
-        },
-        {
-            "_id": "6964b58b631fd17434996496",
-            "link": "https://n.news.naver.com/mnews/article/421/0008692104?sid=102",
-            "created_at": "2026-01-12T17:49:12.508000",
-            "description": "광주시와 전남도의 행정통합이 속도를 내면서 정준호 더불어민주당 국회의원(광주 북구갑)이 대표 발의한... 이 법안 발의엔 안도걸·박지원·민형배·전진숙·양부남·조인철·정진욱·박균택·이개호 의원이 함께했다. 해당... ",
-            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6026664",
-            "press": "뉴스1",
-            "pubDate": "2026-01-02T12:07:00",
-            "related_members": [
-                "IC499858",
-                "8BF5855P",
-                "QUR40502",
-                "VRY5522V",
-                "EB16073M",
-                "9HE7226N",
-                "IWR8966I",
-                "CK143054",
-                "I7R13867",
-                "ZKB18611"
-            ],
-            "title": "'광주·전남 행정통합'…정준호 발의 특별법안에 담긴 내용은?"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960ad16631fd1743497d8ff",
-            "url": "https://www.youtube.com/watch?v=UC8aGwBbptcIREWJB2Z7kL0w",
+            "_id": "6966ef58887d07f7ba2fb485",
+            "url": "https://www.youtube.com/watch?v=SfYIifHr5Zs",
             "HG_NM": "양부남",
             "MONA_CD": "CK143054",
-            "collected_at": "2026-01-13T09:47:45.942000",
-            "duration": null,
-            "title": "양부남TV",
+            "collected_at": "2026-01-14T10:20:24.533000",
+            "duration": 176.0,
+            "title": "윤석열의 검사 선배 양부남 의원 윤석열 종종 “확 계엄 해버릴까” \"원래 그분 스타일~\" - 양부남 더불어민주당 의원",
             "upload_date": null
         },
         {
-            "_id": "6960ad16631fd1743497d901",
-            "url": "https://www.youtube.com/watch?v=Ql_LahVAm-k",
+            "_id": "6966ef58887d07f7ba2fb486",
+            "url": "https://www.youtube.com/watch?v=ez-M4oT7GbM",
             "HG_NM": "양부남",
             "MONA_CD": "CK143054",
-            "collected_at": "2026-01-13T09:47:46.626000",
-            "duration": 67.0,
-            "title": "사법개혁 보다 심도있게! #양부남 #사법개혁 #배심제",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad16631fd1743497d902",
-            "url": "https://www.youtube.com/watch?v=SLayyA3JoZw",
-            "HG_NM": "양부남",
-            "MONA_CD": "CK143054",
-            "collected_at": "2026-01-13T09:47:46.626000",
-            "duration": 644.0,
-            "title": "[모닝콜] 양부남 \"일부 검사의 출세욕 때문에 이런 비참한 결론\" (2025.08.19/뉴스투데이/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad16631fd1743497d903",
-            "url": "https://www.youtube.com/watch?v=aQ5PVzMLcnA",
-            "HG_NM": "양부남",
-            "MONA_CD": "CK143054",
-            "collected_at": "2026-01-13T09:47:46.626000",
-            "duration": 277.0,
-            "title": "양부남, ‘형법 개정안’ 대표발의…野 “국민 입에 재갈 물리나” / 채널A / 뉴스A 라이브",
+            "collected_at": "2026-01-14T10:20:24.533000",
+            "duration": 1663.0,
+            "title": "양부남 \"최종 진술서 개헌이라니 섬뜩...직무 복귀 가당키나 한가\" [출발 무등의 아침] 250226 수요일 by KBS광주",
             "upload_date": null
         },
         {
@@ -657,15 +622,75 @@
             "upload_date": null
         },
         {
+            "_id": "6966ef58887d07f7ba2fb484",
+            "url": "https://www.youtube.com/watch?v=nOTUQLmshRQ",
+            "HG_NM": "양부남",
+            "MONA_CD": "CK143054",
+            "collected_at": "2026-01-14T10:20:24.533000",
+            "duration": 383.0,
+            "title": "[2025 국정감사] 양부남, \"반성해야지\" 윤석열 탄핵 반대 집회에 관용차 끌고 나가는 세종시장",
+            "upload_date": null
+        },
+        {
             "_id": "69659634887d07f7ba2fad24",
             "url": "https://www.youtube.com/watch?v=Fj1guJtsA_0",
             "HG_NM": "양부남",
             "MONA_CD": "CK143054",
-            "collected_at": "2026-01-13T09:47:45.942000",
+            "collected_at": "2026-01-14T10:20:24.533000",
             "duration": 300.0,
             "title": "권성동 \"권력의 하수인\" 좌표 공격에 분노한 '전 강원랜드 수사단장' 양부남 \"문재인이 찍어서 수사해? 양심 걸고 아니다!",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad16631fd1743497d903",
+            "url": "https://www.youtube.com/watch?v=aQ5PVzMLcnA",
+            "HG_NM": "양부남",
+            "MONA_CD": "CK143054",
+            "collected_at": "2026-01-14T10:20:25.172000",
+            "duration": 277.0,
+            "title": "양부남, ‘형법 개정안’ 대표발의…野 “국민 입에 재갈 물리나” / 채널A / 뉴스A 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad16631fd1743497d901",
+            "url": "https://www.youtube.com/watch?v=Ql_LahVAm-k",
+            "HG_NM": "양부남",
+            "MONA_CD": "CK143054",
+            "collected_at": "2026-01-13T09:47:46.626000",
+            "duration": 67.0,
+            "title": "사법개혁 보다 심도있게! #양부남 #사법개혁 #배심제",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad16631fd1743497d8ff",
+            "url": "https://www.youtube.com/watch?v=UC8aGwBbptcIREWJB2Z7kL0w",
+            "HG_NM": "양부남",
+            "MONA_CD": "CK143054",
+            "collected_at": "2026-01-14T10:20:24.533000",
+            "duration": null,
+            "title": "양부남TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad16631fd1743497d902",
+            "url": "https://www.youtube.com/watch?v=SLayyA3JoZw",
+            "HG_NM": "양부남",
+            "MONA_CD": "CK143054",
+            "collected_at": "2026-01-14T10:20:25.172000",
+            "duration": 644.0,
+            "title": "[모닝콜] 양부남 \"일부 검사의 출세욕 때문에 이런 비참한 결론\" (2025.08.19/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef58887d07f7ba2fb483",
+            "url": "https://www.youtube.com/watch?v=vWRJk0G0j_Q",
+            "HG_NM": "양부남",
+            "MONA_CD": "CK143054",
+            "collected_at": "2026-01-14T10:20:24.533000",
+            "duration": 258.0,
+            "title": "[이재명이 무죄인 명확한 이유] 고검장 출신 양부남이 팩트로 찝어줌!!",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:20.339170"
+    "exported_at": "2026-01-14T10:27:05.309748"
 }

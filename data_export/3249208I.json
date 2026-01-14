@@ -53,106 +53,194 @@
     "analysis": {
         "keywords": [
             "송옥",
+            "독립기념관",
+            "해임",
+            "이사",
             "민주당",
+            "이사회",
             "국민",
-            "재보선",
-            "미니",
-            "총선",
+            "김형석",
+            "감사",
+            "지역",
+            "비위",
+            "김용만",
+            "관장",
             "지방선거",
-            "재보궐선거",
-            "신영",
-            "이병진",
-            "정책",
-            "가능성",
-            "부산",
-            "도부",
-            "의원직"
+            "재보궐선거"
         ],
         "keyword_frequency": [
             {
                 "text": "송옥",
-                "value": 20
+                "value": 30
+            },
+            {
+                "text": "독립기념관",
+                "value": 23
+            },
+            {
+                "text": "해임",
+                "value": 11
+            },
+            {
+                "text": "이사",
+                "value": 10
             },
             {
                 "text": "민주당",
-                "value": 7
+                "value": 10
+            },
+            {
+                "text": "이사회",
+                "value": 10
             },
             {
                 "text": "국민",
+                "value": 8
+            },
+            {
+                "text": "김형석",
+                "value": 7
+            },
+            {
+                "text": "감사",
+                "value": 7
+            },
+            {
+                "text": "지역",
                 "value": 6
             },
             {
-                "text": "재보선",
+                "text": "비위",
                 "value": 6
             },
             {
-                "text": "미니",
+                "text": "김용만",
                 "value": 6
             },
             {
-                "text": "총선",
+                "text": "관장",
                 "value": 6
             },
             {
                 "text": "지방선거",
-                "value": 5
+                "value": 6
             },
             {
                 "text": "재보궐선거",
-                "value": 5
-            },
-            {
-                "text": "신영",
-                "value": 5
-            },
-            {
-                "text": "이병진",
-                "value": 5
-            },
-            {
-                "text": "정책",
-                "value": 5
-            },
-            {
-                "text": "가능성",
-                "value": 5
-            },
-            {
-                "text": "부산",
-                "value": 5
-            },
-            {
-                "text": "도부",
-                "value": 4
-            },
-            {
-                "text": "의원직",
-                "value": 4
+                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:18.825524",
+        "last_analyzed_at": "2026-01-14T10:27:03.829181",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 4,
                 2,
                 0,
                 1,
                 0,
-                0
+                5,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec9a887d07f7ba2fb309",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708978?sid=102",
+            "created_at": "2026-01-14T10:08:42.999000",
+            "description": "송옥주 국회의원(민주·화성갑)은 전국 자치구·시·군의회의 의원정수 총량제를 폐지해 인구 감소지역의 의석수 조정 없이 인구 급증지역의 기초의회 의석수를 확대하는 내용의 공직선거법 개정안을 발의했다고 14일... ",
+            "originallink": "https://www.newsis.com/view/NISX20260114_0003475989",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T08:36:00",
+            "related_members": [
+                "3249208I"
+            ],
+            "title": "송옥주, 인구급증 지역 기초의원정수 확보 법안 발의"
+        },
+        {
+            "_id": "6966ec7f887d07f7ba2fb2bf",
+            "link": "https://n.news.naver.com/mnews/article/028/0002786251?sid=100",
+            "created_at": "2026-01-14T10:08:15.941000",
+            "description": "독립기념관 이사인 김용만 더불어민주당 의원은 이날 국회에서 기자회견을 열어 김 관장 해임을 위한... 이사회 소집 요구에는 김 의원과 함께 송옥주·문진석·김일진·유세종·이상수 이사 6명이 참여했다. 전체 15명 이사... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239518.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-13T18:36:00",
+            "related_members": [
+                "NB64509Z",
+                "3249208I",
+                "4U29186R"
+            ],
+            "title": "보훈부 “김형석 독립기념관장 비위 확인” 감사 결과 공개…해임 절차..."
+        },
+        {
+            "_id": "6966ec7f887d07f7ba2fb2c0",
+            "link": "https://n.news.naver.com/mnews/article/021/0002763453?sid=100",
+            "created_at": "2026-01-14T10:08:15.941000",
+            "description": "독립기념관 이사인 더불어민주당 문진석(왼쪽부터)·송옥주·김용만 의원이 17일 국회 소통관에서 이사회 감시 기능을 무력화한다며 김형석 독립기념관장을 규탄하고 있다. 연합뉴 독립기념관 이사회 정원은 15명으로... ",
+            "originallink": "https://www.munhwa.com/article/11560611?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-13T16:52:00",
+            "related_members": [
+                "NB64509Z",
+                "3249208I",
+                "4U29186R"
+            ],
+            "title": "독립기념관장 “노인일자리 창출 창고 카페개조 큰 호평에도 감사서 간..."
+        },
+        {
+            "_id": "6966ec7f887d07f7ba2fb2c1",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708280?sid=102",
+            "created_at": "2026-01-14T10:08:15.941000",
+            "description": "문진석, 김용만, 송옥주 국회의원 등을 비롯한 독립기념관 비상임 이사진들도 국회에서 기자회견을 갖고 \"비상임이사들은 독립기념관법과 정관에 따라 김형석 관장의 해임 건의안을 안건으로 하는 이사회 소집을 요구한다... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475423",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T16:20:00",
+            "related_members": [
+                "3249208I",
+                "NB64509Z",
+                "4U29186R"
+            ],
+            "title": "독립기념관 노조 \"이사회, 즉각 관장 해임결의안 상정해야\""
+        },
+        {
+            "_id": "6966ec7f887d07f7ba2fb2c2",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104545?sid=100",
+            "created_at": "2026-01-14T10:08:15.941000",
+            "description": "이런 가운데 독립기념관 이사인 김용만 더불어민주당 의원은 이날 국회에서 기자회견을 갖고 김 관장... 이사회 소집 요구에는 김 의원과 함께 송옥주, 문진석, 김일진, 유세종, 이상수 이사 등 6명이 참여했다. 보훈부에... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455434?utm_source=naver&utm_medium=article&utm_campaign=20260113024020",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T14:41:00",
+            "related_members": [
+                "NB64509Z",
+                "3249208I",
+                "4U29186R"
+            ],
+            "title": "\"독립기념관 사유화, 업추비 부당사용…비위 14건\" 김형석, 해임 수순"
+        },
+        {
+            "_id": "6966ec7f887d07f7ba2fb2c3",
+            "link": "https://n.news.naver.com/mnews/article/003/0013707685?sid=102",
+            "created_at": "2026-01-14T10:08:15.941000",
+            "description": "문진석, 김용만 의원과 송옥주, 김일진, 유세종, 이상수 독립기념관 이사는 13일 국회에서 가진 기자회견에서 \"저희 비상임이사들은 독립기념관법과 정관에 따라 김형석 관장의 해임 건의안을 안건으로 하는 이사회 소집을... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475098",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T13:59:00",
+            "related_members": [
+                "NB64509Z",
+                "4U29186R",
+                "3249208I"
+            ],
+            "title": "독립기념관장 '비위' 사실 대부분 사실로…해임 수순 밟나?"
+        },
         {
             "_id": "6964b56a631fd17434996301",
             "link": "https://n.news.naver.com/mnews/article/079/0004103752?sid=100",
@@ -230,7 +318,7 @@
             "_id": "6964b548631fd17434996091",
             "link": "https://n.news.naver.com/mnews/article/022/0004096173?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "여의도 국회에서 열린 정책조정회의에서 “이재명정부 첫 원내 지도부 활동을 마무리한다”며 소감을 밝히고 있다. 왼쪽부터 박상혁 원내소통수석부대표, 문 대행, 한정애 정책위의장. 허정호 선임기자 이 전 의원은... ",
+            "description": "6·3 지방선거와 동시에 국회의원 재보궐선거가 치러질 지역이 4곳으로 늘었다. 현역 의원들의 광역단체장... 국민의힘에선 나경원 의원이 거론된다. 대구시장 후보로는 국민의힘 추경호·유영하·윤재옥 의원이 있다. 같은... ",
             "originallink": "https://www.segye.com/newsView/20260108515352?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-08T18:26:00",
@@ -337,7 +425,7 @@
             "url": "https://www.youtube.com/watch?v=UCMfrmxtNozvkNPetMwyrjCQ",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-13T09:47:17.179000",
+            "collected_at": "2026-01-14T10:19:55.737000",
             "duration": null,
             "title": "송옥주TV",
             "upload_date": null
@@ -347,7 +435,7 @@
             "url": "https://www.youtube.com/watch?v=_h0a5ENr7aI",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-13T09:47:17.855000",
+            "collected_at": "2026-01-14T10:19:56.376000",
             "duration": 223.0,
             "title": "촬영현장 비하인드 스토리 선공개! 송옥주 의원 편 /티브로드",
             "upload_date": null
@@ -357,7 +445,7 @@
             "url": "https://www.youtube.com/watch?v=dPp8xfXm2LE",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-13T09:47:17.855000",
+            "collected_at": "2026-01-14T10:19:55.737000",
             "duration": 315.0,
             "title": "대안은 뭡니까? 호통치는 송옥주...\"장관 부결되니까 만족하세요\"",
             "upload_date": null
@@ -367,7 +455,7 @@
             "url": "https://www.youtube.com/watch?v=-9zMOYfYdQQ",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-13T09:47:17.179000",
+            "collected_at": "2026-01-14T10:19:56.376000",
             "duration": 65.0,
             "title": "송옥주 환노위원장 “국민 행복 가장 우선하는 환노위 만들 것”",
             "upload_date": null
@@ -377,7 +465,7 @@
             "url": "https://www.youtube.com/watch?v=QVFk8BG8LHY",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-13T09:47:17.179000",
+            "collected_at": "2026-01-14T10:19:55.737000",
             "duration": 1013.0,
             "title": "[화성갑 국회의원 송옥주] 21-11-05 수원전투비행장 온라인 정책토론회(Full Ver.)",
             "upload_date": null
@@ -387,11 +475,21 @@
             "url": "https://www.youtube.com/watch?v=VzGlfxIW4Tg",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-13T09:47:17.179000",
+            "collected_at": "2026-01-14T10:19:55.737000",
             "duration": 94.0,
             "title": "2024 추석! 송옥주 재래시장 방문하다! (2024.09.14) #vlog #송옥주 #국회의원 #시장방문",
             "upload_date": null
+        },
+        {
+            "_id": "6966ef3c887d07f7ba2fb473",
+            "url": "https://www.youtube.com/watch?v=ezTDTDN-t-s",
+            "HG_NM": "송옥주",
+            "MONA_CD": "3249208I",
+            "collected_at": "2026-01-14T10:19:55.737000",
+            "duration": 7632.0,
+            "title": "[송옥주의원실 LIVE] 축산난제 해결 기술개발 전략 수립 정책토론회 (2025.09.08)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:18.825524"
+    "exported_at": "2026-01-14T10:27:03.829181"
 }

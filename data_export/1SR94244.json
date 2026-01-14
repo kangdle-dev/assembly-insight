@@ -52,11 +52,11 @@
             "참사",
             "세미나",
             "에너지",
+            "소속",
+            "대표",
             "이유",
             "일정",
-            "신재생에너지",
-            "모임",
-            "공천"
+            "신재생에너지"
         ],
         "keyword_frequency": [
             {
@@ -100,6 +100,14 @@
                 "value": 5
             },
             {
+                "text": "소속",
+                "value": 4
+            },
+            {
+                "text": "대표",
+                "value": 4
+            },
+            {
                 "text": "이유",
                 "value": 4
             },
@@ -110,39 +118,51 @@
             {
                 "text": "신재생에너지",
                 "value": 4
-            },
-            {
-                "text": "모임",
-                "value": 4
-            },
-            {
-                "text": "공천",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:05.907126",
+        "last_analyzed_at": "2026-01-14T10:26:51.476956",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
-                0,
                 1,
                 1,
                 0,
+                1,
                 1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec72887d07f7ba2fb275",
+            "link": "https://n.news.naver.com/mnews/article/055/0001323994?sid=100",
+            "created_at": "2026-01-14T10:08:03.097000",
+            "description": "정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데... 지금 정청래 대표가 오늘 비상징계 권한이 당 대표에게 있는데 그것을 행사하지 않겠다는 점을 분명히 했거든요.... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402989&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-13T20:13:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "1SR94244",
+                "5TQ6306B",
+                "6K79158C",
+                "KFM1081G",
+                "QWL7778X",
+                "2385336L"
+            ],
+            "title": "[뉴스직격] \"신천지특검 왜 거부하나\" vs \"김병기 제명은 꼬리자르기\""
+        },
         {
             "_id": "6964b54c631fd174349960eb",
             "link": "https://n.news.naver.com/mnews/article/011/0004577571?sid=100",
@@ -314,7 +334,7 @@
             "url": "https://www.youtube.com/watch?v=iW57Jfl4TeU",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-13T09:43:48.829000",
+            "collected_at": "2026-01-14T10:15:53.041000",
             "duration": 591.0,
             "title": "[기후·에너지 전문가 김소희] '기후 전문가에서 국회의원이 되기로 한 이유는' ㅣ 국회방송 인터뷰",
             "upload_date": null
@@ -374,7 +394,7 @@
             "url": "https://www.youtube.com/watch?v=YzdFj5UTpoo",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-13T09:43:48.829000",
+            "collected_at": "2026-01-14T10:15:53.041000",
             "duration": 385.0,
             "title": "[김소희 국회의원] 김문수 고용노동부장관 후보자 인사청문회",
             "upload_date": null
@@ -384,7 +404,7 @@
             "url": "https://www.youtube.com/watch?v=YoOaQHR-puo",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-13T09:43:48.829000",
+            "collected_at": "2026-01-14T10:15:53.041000",
             "duration": 833.0,
             "title": "[1부] 김소희 의원 기후 전문가로서의 활동 및 기후 문제 해결을 위한 협치 #정치를묻다",
             "upload_date": null
@@ -394,7 +414,7 @@
             "url": "https://www.youtube.com/watch?v=4PhOtHdhdlc",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-13T09:43:48.829000",
+            "collected_at": "2026-01-14T10:15:53.041000",
             "duration": 1467.0,
             "title": "[출연:  김소희 국민의힘 의원 & 전용기 더불어민주당 의원] 검찰, 국민의힘 압수수색  명태균 의혹 밝혀질까",
             "upload_date": null
@@ -404,11 +424,11 @@
             "url": "https://www.youtube.com/watch?v=UCBqCOnOxzKbMcZ9KcHAs2Hg",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-13T09:43:48.829000",
+            "collected_at": "2026-01-14T10:15:53.041000",
             "duration": null,
             "title": "김소희 TV",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:05.907126"
+    "exported_at": "2026-01-14T10:26:51.477472"
 }

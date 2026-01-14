@@ -57,50 +57,46 @@
     },
     "analysis": {
         "keywords": [
-            "인터뷰",
-            "민주당",
             "국민",
-            "가능성",
-            "대구시",
-            "출마",
+            "인터뷰",
             "국힘",
+            "민주당",
+            "자산",
+            "가능성",
             "방송",
             "릴레이",
             "칭찬",
+            "자유",
+            "한국",
+            "정부",
+            "질문",
             "라이브",
-            "홈플러스",
-            "구속",
-            "수사",
-            "미니"
+            "단계"
         ],
         "keyword_frequency": [
             {
+                "text": "국민",
+                "value": 9
+            },
+            {
                 "text": "인터뷰",
                 "value": 8
+            },
+            {
+                "text": "국힘",
+                "value": 6
             },
             {
                 "text": "민주당",
                 "value": 6
             },
             {
-                "text": "국민",
-                "value": 6
+                "text": "자산",
+                "value": 5
             },
             {
                 "text": "가능성",
                 "value": 5
-            },
-            {
-                "text": "대구시",
-                "value": 4
-            },
-            {
-                "text": "출마",
-                "value": 4
-            },
-            {
-                "text": "국힘",
-                "value": 4
             },
             {
                 "text": "방송",
@@ -115,49 +111,69 @@
                 "value": 4
             },
             {
+                "text": "자유",
+                "value": 4
+            },
+            {
+                "text": "한국",
+                "value": 4
+            },
+            {
+                "text": "정부",
+                "value": 4
+            },
+            {
+                "text": "질문",
+                "value": 4
+            },
+            {
                 "text": "라이브",
                 "value": 4
             },
             {
-                "text": "홈플러스",
-                "value": 3
-            },
-            {
-                "text": "구속",
-                "value": 3
-            },
-            {
-                "text": "수사",
-                "value": 3
-            },
-            {
-                "text": "미니",
+                "text": "단계",
                 "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:05.098275",
+        "last_analyzed_at": "2026-01-14T10:26:50.668351",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                0,
                 2,
                 0,
                 0,
                 0,
+                1,
                 1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec7b887d07f7ba2fb2ad",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712066?sid=101",
+            "created_at": "2026-01-14T10:08:11.710000",
+            "description": "현재 국민의힘이 발의한 디지털자산 관련 법안에는 △디지털자산 육성 기본법안(최보윤 의원)... 금융위는 최근 '디지털자산 기본법(2단계 입법) 주요 쟁점 조율 방안'을 문서화해 일부 국회 정무위원회 소속 의원실에... ",
+            "originallink": "https://www.news1.kr/finance/blockchain-fintech/6037692",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T17:30:00",
+            "related_members": [
+                "1Y73132H",
+                "L5P27909",
+                "57B28032",
+                "UOS16250"
+            ],
+            "title": "국힘, 14일 가상자산 2단계 입법 간담회…'거래소 지분 제한 논란' 도마..."
+        },
         {
             "_id": "696594a2887d07f7ba2fab35",
             "link": "https://n.news.naver.com/mnews/article/382/0001247557?sid=101",
@@ -213,7 +229,7 @@
             "_id": "6964b544631fd17434996036",
             "link": "https://n.news.naver.com/mnews/article/421/0008692988?sid=102",
             "created_at": "2026-01-12T17:48:01.451000",
-            "description": "특히 주호영 국회 부의장을 제외한 잠재적 대구시장 출마 예정자로 꼽히는 추경호·윤재옥·최은석·유영하·김상훈 의원 등 현직 대부분이 참석해 출마 의지를 직·간접적으로 내비치거나 말을 아꼈다. 대구시장 선거와... ",
+            "description": "장동혁 대표는 참석하지 않았지만 경북 김천을 지역구로 둔 송언석 원내대표 등 지도부와 이인선 국민의힘 대구시당위원장, 구자근 국민의힘 경북도당위원장 등 대구·경북(TK) 국회의원 대부분이 참석했다. 특히 주호영... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6027211",
             "press": "뉴스1",
             "pubDate": "2026-01-02T17:54:00",
@@ -260,7 +276,7 @@
             "url": "https://www.youtube.com/watch?v=AP0_chExNwA",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-13T09:43:36.368000",
+            "collected_at": "2026-01-14T10:15:36.562000",
             "duration": 139.0,
             "title": "국민의힘 김상훈 \"민주당이 민노총의 하부 조직인가\"",
             "upload_date": null
@@ -270,7 +286,7 @@
             "url": "https://www.youtube.com/watch?v=VMo0H6BAxls",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-13T09:43:36.368000",
+            "collected_at": "2026-01-14T10:15:36.562000",
             "duration": 1087.0,
             "title": "20230306 [국회방송] 인터뷰 릴레이 칭찬_국회의원 김상훈 편",
             "upload_date": null
@@ -280,7 +296,7 @@
             "url": "https://www.youtube.com/watch?v=-aKaX_Hkb5U",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-13T09:43:36.368000",
+            "collected_at": "2026-01-14T10:15:36.562000",
             "duration": 153.0,
             "title": "김상훈 의원 \"국회의원들이 대통령 거수기입니까?\" 20200729 국토위",
             "upload_date": null
@@ -290,7 +306,7 @@
             "url": "https://www.youtube.com/watch?v=pBRTKci_caM",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-13T09:43:36.368000",
+            "collected_at": "2026-01-14T10:15:36.562000",
             "duration": 585.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 144회 김상훈 의원 자유한국당",
             "upload_date": null
@@ -300,7 +316,7 @@
             "url": "https://www.youtube.com/watch?v=CGoVtLR63DA",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-13T09:43:36.368000",
+            "collected_at": "2026-01-14T10:15:36.562000",
             "duration": 1226.0,
             "title": "\"민주노총이 민주당 지도부에 ‘버르장머리 없이 개가 주인 물어?’\" 김상훈 국민의힘 의원 | 대정부질문 (25.9.17.) | 국회방송",
             "upload_date": null
@@ -310,7 +326,7 @@
             "url": "https://www.youtube.com/watch?v=U_u6pT_MqfE",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-13T09:43:36.368000",
+            "collected_at": "2026-01-14T10:15:36.562000",
             "duration": 1006.0,
             "title": "20230418 [국회라이브6] 파워인터뷰_김상훈의원",
             "upload_date": null
@@ -334,7 +350,17 @@
             "duration": 257.0,
             "title": "김상훈 \"부결 당론 그대로...가결 가능성은 커져”ㅣTBC뉴스",
             "upload_date": null
+        },
+        {
+            "_id": "6966ee38887d07f7ba2fb3a4",
+            "url": "https://www.youtube.com/watch?v=-qBTJzHJS04",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-14T10:15:36.562000",
+            "duration": 1043.0,
+            "title": "[풀영상] 김상훈 자유한국당 의원 대정부질문 발언-3월 21일",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:05.098275"
+    "exported_at": "2026-01-14T10:26:50.668351"
 }

@@ -53,10 +53,10 @@
             "최고",
             "위원",
             "베네수엘라",
+            "국제",
             "출사표",
             "역할",
-            "출마",
-            "참석"
+            "출마"
         ],
         "keyword_frequency": [
             {
@@ -65,7 +65,7 @@
             },
             {
                 "text": "민주당",
-                "value": 12
+                "value": 11
             },
             {
                 "text": "인천",
@@ -104,6 +104,10 @@
                 "value": 6
             },
             {
+                "text": "국제",
+                "value": 6
+            },
+            {
                 "text": "출사표",
                 "value": 6
             },
@@ -114,35 +118,51 @@
             {
                 "text": "출마",
                 "value": 6
-            },
-            {
-                "text": "참석",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:25.389980",
+        "last_analyzed_at": "2026-01-14T10:27:10.281362",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
                 1,
                 2,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec72887d07f7ba2fb275",
+            "link": "https://n.news.naver.com/mnews/article/055/0001323994?sid=100",
+            "created_at": "2026-01-14T10:08:03.097000",
+            "description": "정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데... 지금 정청래 대표가 오늘 비상징계 권한이 당 대표에게 있는데 그것을 행사하지 않겠다는 점을 분명히 했거든요.... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402989&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-13T20:13:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "1SR94244",
+                "5TQ6306B",
+                "6K79158C",
+                "KFM1081G",
+                "QWL7778X",
+                "2385336L"
+            ],
+            "title": "[뉴스직격] \"신천지특검 왜 거부하나\" vs \"김병기 제명은 꼬리자르기\""
+        },
         {
             "_id": "6964b546631fd17434996067",
             "link": "https://n.news.naver.com/mnews/article/003/0013705973?sid=102",
@@ -323,7 +343,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아 (가나다 순)",
+            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -593,7 +613,7 @@
             "url": "https://www.youtube.com/watch?v=NmZ6ghpwZQI",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
+            "collected_at": "2026-01-14T10:22:04.377000",
             "duration": 96.0,
             "title": "[2020 정무위원회 국정감사] 이용우 의원, 카카오페이·토스 등 대출비교서비스 개인정보 엄격하고 신중히 다뤄야",
             "upload_date": null
@@ -623,7 +643,7 @@
             "url": "https://www.youtube.com/watch?v=TKNQQuCJQtE",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-13T09:49:23.507000",
+            "collected_at": "2026-01-14T10:22:04.377000",
             "duration": 578.0,
             "title": "[NATV] 300인의 희망인터뷰, 국회의원 이용우 편",
             "upload_date": null
@@ -633,7 +653,7 @@
             "url": "https://www.youtube.com/watch?v=o1wdpqfpsp4",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
+            "collected_at": "2026-01-14T10:22:04.377000",
             "duration": 530.0,
             "title": "매불쇼에서 못다한 초선 국회의원 이용우의 '내란1년' 이야기 #탄핵소추단 #국정기획위원회 #법률위원장 #검찰개혁 #매불쇼 #100m전력질주 #눈물",
             "upload_date": null
@@ -643,7 +663,7 @@
             "url": "https://www.youtube.com/watch?v=8CdYYC8Squo",
             "HG_NM": "이용우",
             "MONA_CD": "6K79158C",
-            "collected_at": "2026-01-09T16:25:41.997000",
+            "collected_at": "2026-01-14T10:22:04.377000",
             "duration": 1079.0,
             "title": "공감을 통해 갈등을 줄이는 것이 정치! '이용우 더불어민주당 의원' | 인터뷰 릴레이 칭찬 | 국회방송",
             "upload_date": null
@@ -659,5 +679,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:25.389980"
+    "exported_at": "2026-01-14T10:27:10.281362"
 }

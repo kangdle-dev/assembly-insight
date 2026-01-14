@@ -43,41 +43,57 @@
     "analysis": {
         "keywords": [
             "민주당",
-            "이재명",
             "울산",
+            "이재명",
             "기자회견",
+            "의정",
+            "동구청",
+            "보고",
             "수행",
+            "위협",
             "최고",
             "위원",
             "출마",
             "지방선거",
             "베네수엘라",
-            "위협",
-            "강득구",
-            "친청",
-            "발의",
-            "후보"
+            "국제"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 16
+                "value": 18
+            },
+            {
+                "text": "울산",
+                "value": 17
             },
             {
                 "text": "이재명",
                 "value": 12
             },
             {
-                "text": "울산",
-                "value": 10
-            },
-            {
                 "text": "기자회견",
                 "value": 10
             },
             {
+                "text": "의정",
+                "value": 9
+            },
+            {
+                "text": "동구청",
+                "value": 8
+            },
+            {
+                "text": "보고",
+                "value": 8
+            },
+            {
                 "text": "수행",
                 "value": 8
+            },
+            {
+                "text": "위협",
+                "value": 7
             },
             {
                 "text": "최고",
@@ -100,49 +116,59 @@
                 "value": 6
             },
             {
-                "text": "위협",
+                "text": "국제",
                 "value": 6
-            },
-            {
-                "text": "강득구",
-                "value": 6
-            },
-            {
-                "text": "친청",
-                "value": 6
-            },
-            {
-                "text": "발의",
-                "value": 6
-            },
-            {
-                "text": "후보",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:09.413663",
+        "last_analyzed_at": "2026-01-14T10:26:54.749997",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
-                0,
                 1,
                 0,
                 1,
                 0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec84887d07f7ba2fb2d4",
+            "link": "https://n.news.naver.com/mnews/article/003/0013707633?sid=102",
+            "created_at": "2026-01-14T10:08:21.320000",
+            "description": "더불어민주당 김태선 의원(울산 동구)이 오는 17일 오후 2시 동구청 5층 중강당에서 '2026 우리 동구 국회의원 김태선 의정보고회'를 개최한다. 13일 의원실에 따르면 이번 의정보고회는 지난해동안 의정활동 성과를... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475045",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T13:37:00",
+            "related_members": [
+                "6WK3815W"
+            ],
+            "title": "김태선 의원, 17일 울산 동구청서 의정보고회 연다"
+        },
+        {
+            "_id": "6966ec84887d07f7ba2fb2d5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008710893?sid=102",
+            "created_at": "2026-01-14T10:08:21.320000",
+            "description": "김태선 더불어민주당 의원(울산 동구)은 오는 17일 오후 2시 울산 동구청 중강당에서 '우리 동구 국회의원 김태선 의정 보고회'를 개최한다. 13일 김 의원 측에 따르면 이번 보고회는 작년 한 해 의정활동 성과를 주민들에게... ",
+            "originallink": "https://www.news1.kr/local/ulsan/6037092",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T11:33:00",
+            "related_members": [
+                "6WK3815W"
+            ],
+            "title": "김태선, 17일 울산 동구청서 의정 보고회"
+        },
         {
             "_id": "6964b554631fd1743499618f",
             "link": "https://n.news.naver.com/mnews/article/421/0008706985?sid=102",
@@ -256,7 +282,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아 (가나다 순)",
+            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -335,7 +361,7 @@
             "_id": "6964b547631fd1743499607c",
             "link": "https://n.news.naver.com/mnews/article/421/0008692401?sid=102",
             "created_at": "2026-01-12T17:48:04.335000",
-            "description": "이날 신년교례회에는 시당위원장인 박성민 의원을 비롯해 김기현·서범수 의원, 박대동·김태규 당협위원장... 김두겸 시장은 \"지방선거 승리는 단순히 지방정권을 지키는 문제가 아니라, 향후 국회의원 선거로 이어지는... ",
+            "description": "김두겸 시장은 \"지방선거 승리는 단순히 지방정권을 지키는 문제가 아니라, 향후 국회의원 선거로 이어지는... 더불어민주당 울산시당도 전날 당사에서 단배식을 열고 시당위원장인 김태선 의원과 김상욱 의원... ",
             "originallink": "https://www.news1.kr/local/ulsan/6026824",
             "press": "뉴스1",
             "pubDate": "2026-01-02T14:24:00",
@@ -457,7 +483,7 @@
             "url": "https://www.youtube.com/watch?v=iB_blRgSjOE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:37.977000",
+            "collected_at": "2026-01-14T10:16:56.483000",
             "duration": 494.0,
             "title": "민주당 김태선 의원1 11 2 합 울산 경제와 노동자를 위협하는 기업사냥꾼 MBK 규탄 기자회견",
             "upload_date": null
@@ -467,7 +493,7 @@
             "url": "https://www.youtube.com/watch?v=ysiom_FZmxU",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:37.977000",
+            "collected_at": "2026-01-14T10:16:56.483000",
             "duration": 782.0,
             "title": "민주당 김태선 의원1 11 2 합 일하다 죽지 않을 권리를 위한 직업안정법 개정안 발의 기자회견",
             "upload_date": null
@@ -487,7 +513,7 @@
             "url": "https://www.youtube.com/watch?v=5QI15QcAOYY",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:37.977000",
+            "collected_at": "2026-01-14T10:16:56.483000",
             "duration": 235.0,
             "title": "이재명 가장 가까이서 보좌한 김태선 수행실장.. 직접 밝히는 방탄조끼의 비밀",
             "upload_date": null
@@ -507,7 +533,7 @@
             "url": "https://www.youtube.com/watch?v=kE2yJEZNOoE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:37.977000",
+            "collected_at": "2026-01-14T10:16:56.483000",
             "duration": 749.0,
             "title": "김태선 의원, 일하다 죽지 않을 권리를 위한 『직업안정법』 개정안 발의 기자회견",
             "upload_date": null
@@ -527,7 +553,7 @@
             "url": "https://www.youtube.com/watch?v=UCd1iHYmkCWnWeK4QKcgjTjw",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:37.977000",
+            "collected_at": "2026-01-14T10:16:56.483000",
             "duration": null,
             "title": "김태선 TV",
             "upload_date": null
@@ -537,7 +563,7 @@
             "url": "https://www.youtube.com/watch?v=DxnGdc8eXMo",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:38.541000",
+            "collected_at": "2026-01-14T10:16:57.172000",
             "duration": 2730.0,
             "title": "[특집] ‘인간 이재명’은? “10분 보면 그냥 정치인, 30분 보면...” ‘이재명 수행일기’ 펴낸 김태선 의원 인터뷰",
             "upload_date": null
@@ -547,11 +573,11 @@
             "url": "https://www.youtube.com/watch?v=N9vShUjWHPE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-13T09:44:38.541000",
+            "collected_at": "2026-01-14T10:16:57.172000",
             "duration": 525.0,
             "title": "[생중계] 김태선 더불어민주당 의원 부산 해양수도 지원 특별법 발의 기자회견 (2025.08.12 오후)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:09.413663"
+    "exported_at": "2026-01-14T10:26:54.749997"
 }

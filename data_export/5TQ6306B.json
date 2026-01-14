@@ -49,110 +49,270 @@
         "keywords": [
             "제명",
             "김병기",
-            "민주당",
-            "심판원",
             "재심",
-            "민주",
-            "의결",
+            "민주당",
             "대변인",
-            "윤리",
-            "원내대표",
-            "징계",
+            "의결",
+            "청구",
+            "심판원",
             "신청",
             "장동혁",
-            "찬성",
-            "총회"
+            "총회",
+            "민주",
+            "윤리",
+            "대표",
+            "징계"
         ],
         "keyword_frequency": [
             {
                 "text": "제명",
-                "value": 32
+                "value": 44
             },
             {
                 "text": "김병기",
-                "value": 28
-            },
-            {
-                "text": "민주당",
-                "value": 21
-            },
-            {
-                "text": "심판원",
-                "value": 16
+                "value": 36
             },
             {
                 "text": "재심",
-                "value": 15
+                "value": 34
             },
             {
-                "text": "민주",
-                "value": 14
-            },
-            {
-                "text": "의결",
-                "value": 14
+                "text": "민주당",
+                "value": 26
             },
             {
                 "text": "대변인",
-                "value": 14
+                "value": 17
             },
             {
-                "text": "윤리",
+                "text": "의결",
+                "value": 15
+            },
+            {
+                "text": "청구",
                 "value": 13
             },
             {
-                "text": "원내대표",
-                "value": 12
-            },
-            {
-                "text": "징계",
-                "value": 11
+                "text": "심판원",
+                "value": 13
             },
             {
                 "text": "신청",
-                "value": 9
+                "value": 12
             },
             {
                 "text": "장동혁",
-                "value": 8
-            },
-            {
-                "text": "찬성",
-                "value": 7
+                "value": 11
             },
             {
                 "text": "총회",
-                "value": 7
+                "value": 10
+            },
+            {
+                "text": "민주",
+                "value": 10
+            },
+            {
+                "text": "윤리",
+                "value": 10
+            },
+            {
+                "text": "대표",
+                "value": 9
+            },
+            {
+                "text": "징계",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:13.573980",
+        "last_analyzed_at": "2026-01-14T10:26:58.732341",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                1,
-                12,
-                7
+                3,
+                15,
+                2
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6966ec75887d07f7ba2fb27d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104837?sid=100",
+            "created_at": "2026-01-14T10:08:05.936000",
+            "description": "지금 국회의원실 그리고 자택이 경찰 압수수색 진행 중이라고 하고요. 뿐만 아니라 아까 말씀하셨던 내용... 제가 통화했던 한 관계자인데 한동훈 전 대표는 좀 적이 많은 편이고 장동혁 대표는 편이 없는 것 같다, 편이... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455872?utm_source=naver&utm_medium=article&utm_campaign=20260114094938",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-14T09:50:00",
+            "related_members": [
+                "KFM1081G",
+                "LYY5513O",
+                "8Q88373R",
+                "5TQ6306B",
+                "8UC4779G"
+            ],
+            "title": "기자들의 뉴스뒷테일 '적이 많은 한동훈 vs 편이 없는 장동혁'"
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2e8",
+            "link": "https://n.news.naver.com/mnews/article/023/0003952854?sid=100",
+            "created_at": "2026-01-14T10:08:30.859000",
+            "description": "3선 국회의원에 당선됐다. 현재 청와대는 김 의원 관련 문제는 당의 문제라며 아무런 입장을 밝히지 않고 있다. 민주당 지도부는 한때 정청래 대표의 비상징계권 발동 등을 통한 신속한 제명을 고려하기도 했지만, 김... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/01/14/KU5GAFTXM5AGZNDEOMOTVGIIWM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-14T00:58:00",
+            "related_members": [
+                "5TQ6306B",
+                "8Q88373R",
+                "2385336L"
+            ],
+            "title": "김병기 제명 불복에 민주당 당혹… “이해 안돼, 명심 믿고 버티나”"
+        },
+        {
+            "_id": "6966ec72887d07f7ba2fb275",
+            "link": "https://n.news.naver.com/mnews/article/055/0001323994?sid=100",
+            "created_at": "2026-01-14T10:08:03.097000",
+            "description": "정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데... 지금 정청래 대표가 오늘 비상징계 권한이 당 대표에게 있는데 그것을 행사하지 않겠다는 점을 분명히 했거든요.... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402989&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-13T20:13:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "1SR94244",
+                "5TQ6306B",
+                "6K79158C",
+                "KFM1081G",
+                "QWL7778X",
+                "2385336L"
+            ],
+            "title": "[뉴스직격] \"신천지특검 왜 거부하나\" vs \"김병기 제명은 꼬리자르기\""
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2e9",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097364?sid=100",
+            "created_at": "2026-01-14T10:08:30.859000",
+            "description": "일각에서는 정청래 대표가 비상징계권을 발동해 제명을 확정해야 한다는 의견이 나오지만, 지도부는... 정당법 33조는 정당이 소속 국회의원을 제명하기 위해서는 소속 국회의원의 2분의 1 이상이 찬성해야 한다고... ",
+            "originallink": "https://www.segye.com/newsView/20260113515540?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-13T18:59:00",
+            "related_members": [
+                "5TQ6306B",
+                "8Q88373R",
+                "EBH1101V",
+                "2385336L"
+            ],
+            "title": "김병기 “즉각 재심 청구”… 징계 논란 장기화"
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2ea",
+            "link": "https://n.news.naver.com/mnews/article/055/0001323947?sid=100",
+            "created_at": "2026-01-14T10:08:30.859000",
+            "description": "&lt;국민의힘 최보윤 수석대변인 논평&gt; \"민주당이 제명으로 선을 긋는 순간, 그것은 사실상 증거 인멸의... \" 더불어민주당에서는 앞서 국회의원 두 명이 제명되었습니다. 이춘석, 강선우 의원입니다. 김병기 전 원내대표 역시... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402574&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-13T16:56:00",
+            "related_members": [
+                "5TQ6306B",
+                "V2R7430Z",
+                "8Q88373R",
+                "MNZ4401T",
+                "EBH1101V",
+                "QWL7778X",
+                "UOS16250"
+            ],
+            "title": "[이브닝 브리핑] 김병기, 제명 결정에 '재심' 청구…\"꽃은 아름다운 순..."
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2eb",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104460?sid=100",
+            "created_at": "2026-01-14T10:08:30.860000",
+            "description": "◆ 장성철&gt; 근데 제가 어제 오랜만에 국회 가서 몇몇 의원님들 만나 뵙고 왔거든요. 좀 여러 가지 좀 얘기 좀... 앞서 박수현 더불어민주당 수석대변인 인터뷰를 했는데 김병기 의원이 재심을 청구하게 되면 어쨌든 기간이... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455328?utm_source=naver&utm_medium=article&utm_campaign=20260113113917",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-13T11:40:00",
+            "related_members": [
+                "KFM1081G",
+                "5TQ6306B",
+                "8Q88373R",
+                "QWL7778X"
+            ],
+            "title": "이준석 손잡은 장동혁 \"107석이 3석에 흔들?\""
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2ec",
+            "link": "https://n.news.naver.com/mnews/article/016/0002585015?sid=100",
+            "created_at": "2026-01-14T10:08:30.860000",
+            "description": "유례없는 현직 국회의원 제명 절차가 당내 진흙탕 싸움으로 번지는 모양새다. 민주당은 재심 절차를... 최고위원회와 의원총회 의결로 직행할 수 있다. 박수현 수석대변인은 이날 CBS라디오에서 재심이 장기화할 경우... ",
+            "originallink": "https://biz.heraldcorp.com/article/10654395?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-13T11:32:00",
+            "related_members": [
+                "5TQ6306B",
+                "8Q88373R"
+            ],
+            "title": "與 김병기 제명·재심 ‘진흙탕 싸움’"
+        },
+        {
+            "_id": "6966ec71887d07f7ba2fb268",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473212?sid=100",
+            "created_at": "2026-01-14T10:08:01.991000",
+            "description": "박수현 수석대변인은 오늘(13일) 아침 CBS 라디오 '박성태의 뉴스쇼'에서 \"원내대표까지 지낸 당의 책임자이기... 국회의원의 제명은 의원총회에서 당 소속 국회의원 과반의 찬성을 받아야 효력이 발생합니다.",
+            "originallink": "https://news.jtbc.co.kr/article/NB12279710?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-13T11:11:00",
+            "related_members": [
+                "8P37634C",
+                "5TQ6306B",
+                "8Q88373R"
+            ],
+            "title": "박수현 \"김병기 재심 신청 상상 안 해봐\"…여권 '당혹'"
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2ed",
+            "link": "https://n.news.naver.com/mnews/article/016/0002584874?sid=100",
+            "created_at": "2026-01-14T10:08:30.860000",
+            "description": "유례없는 현직 국회의원 제명 절차가 당내 진흙탕 싸움으로 번지는 모양새다. 민주당은 재심 절차를... 최고위원회와 의원총회 의결로 직행할 수 있다. 박수현 수석대변인은 이날 CBS라디오에서 재심이 장기화할 경우... ",
+            "originallink": "https://biz.heraldcorp.com/article/10654224?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-13T10:24:00",
+            "related_members": [
+                "5TQ6306B",
+                "8Q88373R"
+            ],
+            "title": "與, 김병기 제명-재심 ‘진흙탕 싸움’ [이런정치]"
+        },
+        {
+            "_id": "6966ec8e887d07f7ba2fb2ee",
+            "link": "https://n.news.naver.com/mnews/article/056/0012103627?sid=100",
+            "created_at": "2026-01-14T10:08:30.860000",
+            "description": "민주당 박수현 수석대변인은 오늘(13일) CBS 라디오 &lt;박성태의 뉴스쇼&gt;에 출연해 김 전 원내대표의 재심 심청... 민주당 당규와 정당법 33조에 따라, 국회의원을 제명하려면 의원총회에서 당 소속 국회의원 과반의 찬성이... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457267&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-13T09:53:00",
+            "related_members": [
+                "5TQ6306B",
+                "8Q88373R"
+            ],
+            "title": "민주 박수현 “김병기 재심 청구, 상상 안 해본 사안…다음 주 의원총회..."
+        },
+        {
             "_id": "696594a1887d07f7ba2fab2e",
             "link": "https://n.news.naver.com/mnews/article/055/0001323738?sid=100",
             "created_at": "2026-01-13T09:41:03.960000",
-            "description": "정당법과 당헌·당규에 따라 김 의원 제명에 국회의원 과반 찬성 의결이 필요한 상황에서 김 의원이 실제... 15일 의원총회 징계 안건은 상정되지 않는다\"고 말했습니다. 당내에서는 김 의원의 재심 신청이 이뤄지면 정청래... ",
+            "description": "정당법과 당헌·당규에 따라 김 의원 제명에 국회의원 과반 찬성 의결이 필요한 상황에서 김 의원이 실제 재심을 신청한다면 의원총회 제명 표결 절차도 연기됩니다. 박수현 수석대변인은 기자들에게 \"재심 신청이 있을... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008401782&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-13T08:45:00",
@@ -167,7 +327,7 @@
             "_id": "6965949a887d07f7ba2fab18",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-13T09:40:56.510000",
-            "description": "정청래, 그렇다면 '함구령' 왜 내렸나 - 조국, 대통령 오찬서 '검찰 개혁 초심'과 '선거 제도 개선' 요구할 것... 지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... ",
+            "description": "지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... 되면 의원들이 보통 먼저 탈당을 하잖아요? 이춘석 의원 같은 경우에도 그랬고. ◇ 신장식 : 네, 그랬죠. ◆ 김영수... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-13T08:00:00",
@@ -190,7 +350,7 @@
             "_id": "6965949a887d07f7ba2fab19",
             "link": "https://n.news.naver.com/mnews/article/052/0002299816?sid=100",
             "created_at": "2026-01-13T09:40:56.510000",
-            "description": "정청래, 그렇다면 '함구령' 왜 내렸나 - 조국, 대통령 오찬서 '검찰 개혁 초심'과 '선거 제도 개선' 요구할 것... 지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... ",
+            "description": "지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... 되면 의원들이 보통 먼저 탈당을 하잖아요? 이춘석 의원 같은 경우에도 그랬고. ◇ 신장식 : 네, 그랬죠. ◆ 김영수... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601130746452932",
             "press": "YTN",
             "pubDate": "2026-01-13T07:46:00",
@@ -205,7 +365,8 @@
                 "E1J8836Y",
                 "5TQ6306B",
                 "TQP7167T",
-                "2385336L"
+                "2385336L",
+                "80C5885Z"
             ],
             "title": "신장식 \"장동혁-이준석 '李·韓 싫어'연대, 특검공조 왜 민주당만? 자기..."
         },
@@ -213,7 +374,7 @@
             "_id": "69659499887d07f7ba2fab16",
             "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
             "created_at": "2026-01-13T09:40:55.415000",
-            "description": "◆ 곽우신&gt; 한병도 의원이 어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정... ",
+            "description": "이 컴퓨터가 이미 작년 10월 진종오 국민의힘 의원으로부터 지방선거 경선에 종교단체가 동원됐다는 의혹이... 국회의원? ◆ 김성열&gt; 그런데 이 얘기가 어디서 나오는 거냐면. ◇ 박재홍&gt; 질문에만 답을 해주세요. ◆ 김성열... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T07:01:00",
@@ -323,239 +484,6 @@
                 "8Q88373R"
             ],
             "title": "민주당 윤리심판원, 김병기 ‘제명’ 의결…김병기 “즉시 재심 청구”"
-        },
-        {
-            "_id": "6964b541631fd17434995fdd",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299526?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "■ 진행 : 이하린 앵커 ■ 출연 : 전용기 더불어민주당 의원, 김대식 국민의힘 의원 * 아래 텍스트는 실제 방송... 왜냐하면 현역 국회의원을 했었고 이후에 생겼던 자리에 가는 부분 때문에 그럴 수 있을 것 같은데 저는... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601121641580338",
-            "press": "YTN",
-            "pubDate": "2026-01-12T16:41:00",
-            "related_members": [
-                "N2P9317N",
-                "2385336L",
-                "8Q88373R",
-                "8P37634C",
-                "GOC54665",
-                "MNZ4401T",
-                "ANS8383S",
-                "TJW93720",
-                "6VC83722",
-                "7YL9580G",
-                "FU87526G",
-                "5TQ6306B",
-                "8BF5855P",
-                "6EN68926",
-                "H5476989",
-                "KFM1081G"
-            ],
-            "title": "[정치ON] 2주만 등장한 김병기...민주 지도부 \"애당의 길 고민하길\""
-        },
-        {
-            "_id": "6964b542631fd17434995ffe",
-            "link": "https://n.news.naver.com/mnews/article/055/0001323545?sid=100",
-            "created_at": "2026-01-12T17:47:59.436000",
-            "description": "■ 방송 : SBS &lt;편상욱의 뉴스브리핑&gt; 월~금 (14:00~15:00) ■ 진행 : 편상욱 앵커 ■ 대담 : 박수현 더불어민주당... 그러면 지금 있는 민주당의 국회의원들 또 컷오프 된 국회의원들, 이분들의 세세한 속사정을 가장 많이 알고... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008400864&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-12T15:46:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "5TQ6306B",
-                "2385336L"
-            ],
-            "title": "[여담야담] \"무고함 밝혀지도록 충실히 답변\"…김병기 징계 수위 오늘 ..."
-        },
-        {
-            "_id": "6964b541631fd17434995fde",
-            "link": "https://n.news.naver.com/mnews/article/421/0008708610?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "박지원 의원은 이날 CBS 라디오 '박성태의 뉴스쇼'에서 \"오늘부로 김 의원 문제는 끝마쳐야 한다\"며 \"최악의... 국회의원 제명의 경우 윤리심판원이 결정하더라도 최고위원회의를 거쳐 의원총회에서 재적 과반의 찬성이... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6035885",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T12:29:00",
-            "related_members": [
-                "8P37634C",
-                "8Q88373R",
-                "MNZ4401T",
-                "5TQ6306B",
-                "8BF5855P"
-            ],
-            "title": "김병기, 오후 윤리심판원 출석해 직접 소명…당내 \"탈당해야\"(종합)"
-        },
-        {
-            "_id": "6964b541631fd17434995fe0",
-            "link": "https://n.news.naver.com/mnews/article/056/0012102869?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "또 국회의원들의 열기가 상당히 높았던 것 같아요. 그래서 보궐선거임에도 불구하고 중앙위원은 91%가 넘고... 어느 의원님이 맡게 되시는 건가요? ▶ 김현정 : 오늘 10시에 발표하기로 되어 있는데요. 아마도 천준호 의원이... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456252&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-12T10:48:00",
-            "related_members": [
-                "8P37634C",
-                "6VC83722",
-                "7YL9580G",
-                "2385336L",
-                "N2P9317N",
-                "GOC54665",
-                "5TQ6306B",
-                "8BF5855P",
-                "XBT9550Q",
-                "K5F2023J",
-                "QWL7778X",
-                "KFM1081G",
-                "8SV6917G",
-                "A494529E"
-            ],
-            "title": "[전격시사] 김현정 더불어민주당 원내대변인 - 보궐선거 결과, 당권파 힘..."
-        },
-        {
-            "_id": "6964b541631fd17434995fe1",
-            "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또... 왜냐하면 이준석 대표 측도 지방선거의 연대에 대해서 천하람 원내대표가 분명히 반대 입장을 냈잖아요. 그거는... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456250&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-12T10:48:00",
-            "related_members": [
-                "8P37634C",
-                "N2P9317N",
-                "GOC54665",
-                "2385336L",
-                "E1J8836Y",
-                "6VC83722",
-                "7YL9580G",
-                "5TQ6306B",
-                "8Q88373R",
-                "8BF5855P",
-                "BT62420K",
-                "6EN68926",
-                "H5476989",
-                "7YC6702R",
-                "KFM1081G",
-                "QWL7778X",
-                "V2R7430Z",
-                "EH27538E",
-                "A494529E",
-                "YGB8604T"
-            ],
-            "title": "[전격시사] “민주, 새 지도부 구성 이후” (홍익표) “‘정청래 대표 ..."
-        },
-        {
-            "_id": "6964b541631fd17434995fe4",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-12T09:30:00",
-            "related_members": [
-                "6VC83722",
-                "8Q88373R",
-                "7YL9580G",
-                "8P37634C",
-                "GOC54665",
-                "MLH1404S",
-                "5TQ6306B",
-                "6EN68926",
-                "H5476989",
-                "N2P9317N",
-                "7YC6702R",
-                "KFM1081G",
-                "QWL7778X"
-            ],
-            "title": "김현정 \"보궐 당선자들 '원팀 보이스'... 김병기, 제명·비상징계 등 가..."
-        },
-        {
-            "_id": "6964b541631fd17434995fe7",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299268?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "장동혁-이준석 연대, 한동훈 내치고 지선 빌드업 - 신천지 빼고 통일교 특검? 사실상 '명분 만들기' - 尹... 그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은 투표율로... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601120807438340",
-            "press": "YTN",
-            "pubDate": "2026-01-12T08:07:00",
-            "related_members": [
-                "6VC83722",
-                "8Q88373R",
-                "7YL9580G",
-                "8P37634C",
-                "GOC54665",
-                "MLH1404S",
-                "5TQ6306B",
-                "6EN68926",
-                "H5476989",
-                "N2P9317N",
-                "7YC6702R",
-                "KFM1081G",
-                "QWL7778X"
-            ],
-            "title": "김현정 \"보궐 당선자들 '원팀 보이스'... 김병기, 제명·비상징계 등 가..."
-        },
-        {
-            "_id": "6964b546631fd17434996068",
-            "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
-            "created_at": "2026-01-12T17:48:03.471000",
-            "description": "(수석대변인), 허종식, 박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K79UTNT2Q",
-            "press": "서울경제",
-            "pubDate": "2026-01-12T07:33:00",
-            "related_members": [
-                "X1K3667J",
-                "IN328264",
-                "4T026790",
-                "2385336L",
-                "8FB1535Y",
-                "XBT9550Q",
-                "MLH1404S",
-                "RUZ25800",
-                "J1G57517",
-                "3OQ8273H",
-                "6K79158C",
-                "2S73768V",
-                "8TU8443O",
-                "VCP96419",
-                "VZA76236",
-                "4019850M",
-                "5TQ6306B",
-                "GX38539O",
-                "BT62420K",
-                "TKJ4800F"
-            ],
-            "title": "김교흥 “메가시티 인천” 비전…출판기념회 7000명 운집"
-        },
-        {
-            "_id": "6964b541631fd17434995fea",
-            "link": "https://n.news.naver.com/mnews/article/079/0004103893?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "박수현 수석대변인은 전날 기자간담회에서 '김 전 원내대표가 자진 탈당하지 않게 되면 제명까지도 염두에... 국회의원인 당원을 제명하고자 할 때는 의원총회에서 제적 의원 과반수의 찬성 의결이 필요하다. 다만... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6454502?utm_source=naver&utm_medium=article&utm_campaign=20260112050101",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-12T05:02:00",
-            "related_members": [
-                "8P37634C",
-                "N2P9317N",
-                "5TQ6306B"
-            ],
-            "title": "정당사에 기록될 날, 전직 원내대표 제명 오늘 나오나"
-        },
-        {
-            "_id": "6964b55e631fd1743499625b",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299143?sid=100",
-            "created_at": "2026-01-12T17:48:27.480000",
-            "description": "그래서 한병도 원내대표는 22대 국회의원 1기 때부터 원내대표 출마 의지를 굉장히 보였었고 그리고 지난번... 이성윤 의원이 선출이 됐고 친이재명계에서는 이건태 의원이 탈락을 하면서 세 분이 저렇게 2:1로 구성이... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601112222217029",
-            "press": "YTN",
-            "pubDate": "2026-01-11T22:22:00",
-            "related_members": [
-                "5TQ6306B",
-                "H5476989",
-                "HSS7466Y",
-                "N2P9317N",
-                "7YC6702R"
-            ],
-            "title": "민주, 신임 원내대표 한병도 선출......'공천헌금' 김경 입국"
         }
     ],
     "recent_videos": [
@@ -564,7 +492,7 @@
             "url": "https://www.youtube.com/watch?v=YWR-UAEterQ",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-01-13T09:45:38.924000",
+            "collected_at": "2026-01-14T10:18:14.077000",
             "duration": 665.0,
             "title": "박수현 의원의 SNS \"난 축의금 돌려줄 용기 못 내?\"...본인은 다 받았다고 스스로 인정?! [엄튜브]",
             "upload_date": null
@@ -584,7 +512,7 @@
             "url": "https://www.youtube.com/watch?v=sW0mppxappw",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-01-13T09:45:38.924000",
+            "collected_at": "2026-01-14T10:18:14.077000",
             "duration": 581.0,
             "title": "박수현 의원 “당에 손해배상 청구하고 싶다”_채널A_뉴스TOP10",
             "upload_date": null
@@ -594,7 +522,7 @@
             "url": "https://www.youtube.com/watch?v=T9r7NvJE-Ng",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-01-13T09:45:38.924000",
+            "collected_at": "2026-01-14T10:18:14.077000",
             "duration": 1776.0,
             "title": "'이게 진짜 국회의원 일상이다' 박수현 국회의원 하루 모음.zip",
             "upload_date": null
@@ -624,7 +552,7 @@
             "url": "https://www.youtube.com/watch?v=MaknXTdMf_c",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-01-13T09:45:38.924000",
+            "collected_at": "2026-01-14T10:18:14.077000",
             "duration": 127.0,
             "title": "\"국힘은 독버섯\" \"민주는 좀먹는 균\" 주고받더니 하루 만에 \"미안하다\"…박수현, 박성훈 무슨 일?｜지금 이 뉴스",
             "upload_date": null
@@ -634,7 +562,7 @@
             "url": "https://www.youtube.com/watch?v=ct-CxvjDepM",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-01-13T09:45:38.924000",
+            "collected_at": "2026-01-14T10:18:14.077000",
             "duration": 135.0,
             "title": "'사퇴' 김병기, 마지막 남긴 한마디는?…박수현 \"1억 논란, 의원들 모두 멘붕\"｜지금 이 뉴스",
             "upload_date": null
@@ -644,7 +572,7 @@
             "url": "https://www.youtube.com/watch?v=ng6kgYOhuIo",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-01-13T09:45:38.924000",
+            "collected_at": "2026-01-14T10:18:14.077000",
             "duration": 1148.0,
             "title": "박수현 \"강선우 녹취에 멘붕…갑질 의혹 때와는 크기 달라\"",
             "upload_date": null
@@ -660,5 +588,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:13.573980"
+    "exported_at": "2026-01-14T10:26:58.732341"
 }

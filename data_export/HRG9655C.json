@@ -52,37 +52,49 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
-            "여야",
             "이혜훈",
-            "부동산",
-            "오줌",
             "의혹",
+            "진보당",
+            "부산",
+            "연제",
+            "국민",
+            "이번",
+            "오줌",
+            "부정",
             "외국인",
             "방지",
             "전세",
-            "이번",
-            "원내대표",
-            "투기",
-            "진보당",
-            "부산시",
-            "부산"
+            "여야",
+            "지방선거",
+            "원내대표"
         ],
         "keyword_frequency": [
-            {
-                "text": "국민",
-                "value": 10
-            },
-            {
-                "text": "여야",
-                "value": 9
-            },
             {
                 "text": "이혜훈",
                 "value": 8
             },
             {
-                "text": "부동산",
+                "text": "의혹",
+                "value": 8
+            },
+            {
+                "text": "진보당",
+                "value": 7
+            },
+            {
+                "text": "부산",
+                "value": 7
+            },
+            {
+                "text": "연제",
+                "value": 7
+            },
+            {
+                "text": "국민",
+                "value": 7
+            },
+            {
+                "text": "이번",
                 "value": 6
             },
             {
@@ -90,7 +102,7 @@
                 "value": 6
             },
             {
-                "text": "의혹",
+                "text": "부정",
                 "value": 6
             },
             {
@@ -106,53 +118,54 @@
                 "value": 6
             },
             {
-                "text": "이번",
+                "text": "여야",
+                "value": 6
+            },
+            {
+                "text": "지방선거",
                 "value": 5
             },
             {
                 "text": "원내대표",
                 "value": 5
-            },
-            {
-                "text": "투기",
-                "value": 5
-            },
-            {
-                "text": "진보당",
-                "value": 5
-            },
-            {
-                "text": "부산시",
-                "value": 5
-            },
-            {
-                "text": "부산",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-13T10:40:10.310682",
+        "last_analyzed_at": "2026-01-14T10:26:55.576731",
         "trend_news": {
             "labels": [
-                "01-07",
                 "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
-                "01-13"
+                "01-13",
+                "01-14"
             ],
             "data": [
-                0,
                 1,
                 2,
                 1,
                 0,
                 0,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6966ec86887d07f7ba2fb2d7",
+            "link": "https://n.news.naver.com/mnews/article/079/0004104821?sid=102",
+            "created_at": "2026-01-14T10:08:23.259000",
+            "description": "노 위원장은 지난 2024년 총선에서 민주당과 단일화를 통해, 현재 연제구 현역 국회의원인 3선 김희정 의원을 끝까지 압박했던 경험을 토대로, 이번 지방선거에서도 연제를 전략 지역으로 삼겠다는 구상이다. 하지만 민주... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455845?utm_source=naver&utm_medium=article&utm_campaign=20260114092837",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-14T09:29:00",
+            "related_members": [
+                "HRG9655C"
+            ],
+            "title": "진보당, 부산 정치판 '변수'로…윤택근 시장 도전·노정현 연제 출마"
+        },
         {
             "_id": "6964b556631fd174349961ad",
             "link": "https://n.news.naver.com/mnews/article/003/0013702642?sid=100",
@@ -242,7 +255,7 @@
             "_id": "6964b556631fd174349961b2",
             "link": "https://n.news.naver.com/mnews/article/052/0002296426?sid=100",
             "created_at": "2026-01-12T17:48:19.834000",
-            "description": "[전용기] 구체적인 녹취가 나와 있는 부분도 있으니까 여야 할 것 없이 다 해 보자는 거고. 지금 이 방송을 보는 국민들에게는 모든 국회의원들이 다 권력자 아니겠습니까? 그래서 대대적으로 보는 것도 나쁘지 않다는... ",
+            "description": "[김희정] 서로의 수준이 굉장히 많이 다릅니다. 저는 개인적으로 국회의원도 출마를 해 보고 장관 검증도 받아봤는데요. 본인과 가족들이 동의를 해서 온갖 서류를 정말 막 키높이 이상으로 제출하고 그걸 온 검찰, 경찰... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601051642506260",
             "press": "YTN",
             "pubDate": "2026-01-05T16:42:00",
@@ -331,16 +344,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac54631fd1743497d5f5",
-            "url": "https://www.youtube.com/watch?v=APnDgfz2B6I",
-            "HG_NM": "김희정",
-            "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-13T09:44:51.288000",
-            "duration": 126.0,
-            "title": "전세사기 피해자 구제법 국회 통과 I 김희정 의원 국회 본회의 설명보고",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac54631fd1743497d5f6",
             "url": "https://www.youtube.com/watch?v=jxTTYceL84E",
             "HG_NM": "김희정",
@@ -351,23 +354,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac54631fd1743497d5f0",
-            "url": "https://www.youtube.com/watch?v=SULpEUFaf3Q",
+            "_id": "6960ac54631fd1743497d5f7",
+            "url": "https://www.youtube.com/watch?v=4VXgsWPKuPM",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-09T16:20:49.006000",
-            "duration": 1025.0,
-            "title": "01. 13. '역사교과서등 교육부와 당정 협의' 새누리당 김희정 의원 외 제6정책조정위원회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac54631fd1743497d5f3",
-            "url": "https://www.youtube.com/watch?v=3Uo92hD0pDo",
-            "HG_NM": "김희정",
-            "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-09T16:20:49.006000",
-            "duration": 4647.0,
-            "title": "김희정 의원 I MBN 판도라 출연 I 진보당 후보 돌풍 뚫은 김희정",
+            "collected_at": "2026-01-13T09:44:51.803000",
+            "duration": 130.0,
+            "title": "[단독] 전 ‘새누리당’ 김희정·김영선 의원도 KT 부정채용 ‘청탁’ 의혹/ KBS뉴스(News)",
             "upload_date": null
         },
         {
@@ -381,33 +374,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac54631fd1743497d5f1",
-            "url": "https://www.youtube.com/watch?v=x8xDqBWtjmU",
+            "_id": "6960ac54631fd1743497d5f5",
+            "url": "https://www.youtube.com/watch?v=APnDgfz2B6I",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
             "collected_at": "2026-01-13T09:44:51.288000",
-            "duration": 189.0,
-            "title": "김희정, 속기록 들고 김민석 발언 직격했다 [티조Clip]",
+            "duration": 126.0,
+            "title": "전세사기 피해자 구제법 국회 통과 I 김희정 의원 국회 본회의 설명보고",
             "upload_date": null
         },
         {
-            "_id": "6960ac54631fd1743497d5ee",
-            "url": "https://www.youtube.com/watch?v=gvwuuC9w50c",
+            "_id": "6960ac54631fd1743497d5f4",
+            "url": "https://www.youtube.com/watch?v=hZ9FVDf9eLg",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
             "collected_at": "2026-01-13T09:44:51.288000",
-            "duration": 332.0,
-            "title": "김희정 \"다른부처 장관도 안하는 짓 하면서 몰라요?\" [티조Clip]",
+            "duration": 1161.0,
+            "title": "\"여야 대표 빨리 만나 현안 풀어가야\" | 정정당당 - 김유정 전 국회의원 / 김희정 전 국회의원 (국회라이브1 | 230309)",
             "upload_date": null
         },
         {
-            "_id": "6960abc4631fd1743497d3ae",
-            "url": "https://www.youtube.com/watch?v=vMDPUsUT6iQ",
+            "_id": "6960ac54631fd1743497d5f0",
+            "url": "https://www.youtube.com/watch?v=SULpEUFaf3Q",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-13T09:44:51.288000",
-            "duration": 2542.0,
-            "title": "[전격시사] 여야, 부동산 대책 공방 (당당토론｜권칠승 더불어민주당 의원, 김희정 국민의힘 의원)｜KBS 251022 방송",
+            "collected_at": "2026-01-14T10:17:13.257000",
+            "duration": 1025.0,
+            "title": "01. 13. '역사교과서등 교육부와 당정 협의' 새누리당 김희정 의원 외 제6정책조정위원회",
             "upload_date": null
         },
         {
@@ -421,15 +414,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac54631fd1743497d5f4",
-            "url": "https://www.youtube.com/watch?v=hZ9FVDf9eLg",
+            "_id": "6960ac54631fd1743497d5ee",
+            "url": "https://www.youtube.com/watch?v=gvwuuC9w50c",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
             "collected_at": "2026-01-13T09:44:51.288000",
-            "duration": 1161.0,
-            "title": "\"여야 대표 빨리 만나 현안 풀어가야\" | 정정당당 - 김유정 전 국회의원 / 김희정 전 국회의원 (국회라이브1 | 230309)",
+            "duration": 332.0,
+            "title": "김희정 \"다른부처 장관도 안하는 짓 하면서 몰라요?\" [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac54631fd1743497d5f1",
+            "url": "https://www.youtube.com/watch?v=x8xDqBWtjmU",
+            "HG_NM": "김희정",
+            "MONA_CD": "HRG9655C",
+            "collected_at": "2026-01-13T09:44:51.288000",
+            "duration": 189.0,
+            "title": "김희정, 속기록 들고 김민석 발언 직격했다 [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac54631fd1743497d5f3",
+            "url": "https://www.youtube.com/watch?v=3Uo92hD0pDo",
+            "HG_NM": "김희정",
+            "MONA_CD": "HRG9655C",
+            "collected_at": "2026-01-14T10:17:13.257000",
+            "duration": 4647.0,
+            "title": "김희정 의원 I MBN 판도라 출연 I 진보당 후보 돌풍 뚫은 김희정",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-13T10:40:10.310682"
+    "exported_at": "2026-01-14T10:26:55.576731"
 }
