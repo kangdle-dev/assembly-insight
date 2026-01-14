@@ -190,16 +190,44 @@
     function renderGrid() {
         const grid = document.getElementById('member-grid');
         const itemsToDisplay = filteredMembers.slice(0, displayCount);
+        const loadMoreBtn = document.getElementById('load-more-btn');
         
+       // 1. 결과가 없을 경우 처리
+        if (filteredMembers.length === 0) {
+            grid.innerHTML = `
+                <div class="col-span-full py-20 text-center">
+                    <div class="inline-flex items-center justify-center w-16 h-16 bg-slate-100 rounded-full mb-4">
+                        <i class="fa-solid fa-user-slash text-slate-300 text-xl"></i>
+                    </div>
+                    <p class="text-slate-500 font-bold">해당 초성으로 시작하는 의원이 없습니다.</p>
+                    <p class="text-slate-400 text-xs mt-1">다른 초성을 선택하거나 전체 명단을 확인해보세요.</p>
+                    
+                    <div class="mt-8 max-w-sm mx-auto p-4 border border-dashed border-slate-200 rounded-2xl bg-white">
+                        <p class="text-[9px] text-slate-300 font-bold mb-2 uppercase">Recommended for you</p>
+                        <div class="h-20 bg-slate-50 rounded-xl flex items-center justify-center text-slate-400 text-[11px] italic">
+                            검색 결과가 없을 때 노출되는 맞춤형 광고
+                        </div>
+                    </div>
+                </div>
+            `;
+            loadMoreBtn.style.display = 'none'; // 버튼 숨김
+            return;
+        }
+
+        // 2. 결과가 있을 경우 렌더링 (기존 로직)
         grid.innerHTML = itemsToDisplay.map((m, idx) => `
-            <div class="card p-4 flex items-center gap-4 cursor-pointer active:scale-95 transition-all" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
-                <div class="w-16 h-16 rounded-2xl overflow-hidden bg-slate-100 flex-shrink-0">
-                    <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/100'">
+            <div class="card p-4 flex items-center gap-4 cursor-pointer active:scale-95 transition-all" 
+                onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                <div class="w-16 h-16 rounded-2xl overflow-hidden bg-slate-100 flex-shrink-0 shadow-inner">
+                    <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" 
+                        onerror="this.src='https://via.placeholder.com/150x200?text=👤'">
                 </div>
                 <div>
-                    <div class="text-[10px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">${m.CURR_PLPT_NM}</div>
+                    <div class="text-[10px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">
+                        ${m.CURR_PLPT_NM}
+                    </div>
                     <div class="font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
-                    <div class="text-[9px] text-slate-400 font-bold">${m.CURR_ELECD_NM}</div>
+                    <div class="text-[9px] text-slate-400 font-bold line-clamp-1">${m.CURR_ELECD_NM}</div>
                 </div>
             </div>
         `).join('');
