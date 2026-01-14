@@ -2,118 +2,142 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>의원 인사이트 리포트 - Assembly Insight</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;800&display=swap');
-        body { font-family: 'Pretendard', sans-serif; }
-        .keyword-badge { transition: all 0.2s; cursor: default; }
-        .keyword-badge:hover { transform: translateY(-2px); filter: brightness(0.95); }
-        .glass-morphism { background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
-        .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-        .gradient-border { border-image: linear-gradient(to right, #3b82f6, #8b5cf6) 1; }
+        @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+        body { font-family: 'Pretendard', sans-serif; background: #f8fafc; -webkit-tap-highlight-color: transparent; }
+        .card { background: white; border-radius: 28px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); border: 1px solid rgba(0,0,0,0.03); }
+        .keyword-badge { transition: all 0.2s; }
+        .keyword-badge:active { transform: scale(0.95); }
+        .safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+        /* 차트 폰트 조절 */
+        canvas { max-width: 100% !important; }
     </style>
 </head>
-<body class="bg-[#f8fafc] text-slate-900">
+<body class="text-slate-900 pb-20">
 
-    <nav class="bg-white/80 backdrop-blur-md shadow-sm p-4 sticky top-0 z-50">
-        <div class="max-w-5xl mx-auto flex justify-between items-center">
-            <a href="index.html" class="font-black text-2xl tracking-tighter text-blue-600 italic">ASSEMBLY <span class="text-slate-400 font-light">INSIGHT</span></a>
-            <button onclick="history.back()" class="px-4 py-2 rounded-full bg-slate-100 hover:bg-blue-50 text-slate-600 hover:text-blue-600 transition-all font-medium text-sm flex items-center gap-2">
-                <i class="fa-solid fa-chevron-left"></i> 목록으로
+    <nav class="bg-white/80 backdrop-blur-xl sticky top-0 z-50 border-b border-slate-100 px-4 py-3">
+        <div class="max-w-md mx-auto flex justify-between items-center">
+            <button onclick="history.back()" class="w-10 h-10 flex items-center justify-center rounded-full bg-slate-50 text-slate-600 active:bg-slate-200 transition-all">
+                <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            <span class="font-black text-lg tracking-tight italic text-blue-600">ASSEMBLY <span class="text-slate-400 font-light">REPORT</span></span>
+            <button class="w-10 h-10 flex items-center justify-center rounded-full bg-slate-50 text-slate-600">
+                <i class="fa-solid fa-share-nodes text-sm"></i>
             </button>
         </div>
     </nav>
 
-    <div id="loading" class="max-w-5xl mx-auto p-4 py-20 text-center">
+    <div id="loading" class="max-w-md mx-auto p-20 text-center">
         <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-blue-500 border-t-transparent mb-4"></div>
-        <p class="text-slate-400 font-medium">AI 분석 리포트를 생성하는 중...</p>
+        <p class="text-slate-400 font-bold text-sm">AI 데이터 분석 중...</p>
     </div>
 
-    <main id="content" class="max-w-5xl mx-auto p-4 space-y-6 hidden opacity-0 transition-opacity duration-500">
+    <main id="content" class="max-w-md mx-auto p-4 space-y-5 hidden opacity-0 transition-opacity duration-500">
         
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
-            <section class="lg:col-span-2 bg-white rounded-3xl shadow-xl shadow-slate-200/50 p-8 flex flex-col md:flex-row gap-8 relative overflow-hidden">
-                <div class="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-full -mr-16 -mt-16 opacity-50"></div>
-                
-                <div class="w-40 h-52 bg-slate-100 rounded-2xl overflow-hidden flex-shrink-0 shadow-lg border-4 border-white">
+        <section class="card p-6 relative overflow-hidden text-center">
+            <div class="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-full -mr-10 -mt-10 opacity-40"></div>
+            
+            <div class="relative z-10">
+                <div class="w-32 h-32 mx-auto rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-white mb-4">
                     <img id="member-pic" src="" alt="프로필" class="w-full h-full object-cover">
                 </div>
                 
-                <div class="flex-grow z-10">
-                    <div class="flex items-center gap-3 mb-3">
-                        <span id="member-party" class="px-3 py-1 rounded-md text-xs font-black tracking-widest uppercase border"></span>
-                        <span id="member-info" class="text-blue-600 font-bold text-sm"></span>
-                    </div>
-                    <h1 id="member-name" class="text-4xl font-extrabold text-slate-800 mb-4"></h1>
-                    
-                    <div class="space-y-4">
-                        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-widest">AI 핵심 활동 이슈</h4>
-                        <div id="member-keywords" class="flex flex-wrap gap-2">
-                            </div>
-                    </div>
-
-                    <div id="sns-links" class="mt-8 flex gap-3"></div>
+                <div class="flex flex-col items-center gap-2 mb-4">
+                    <span id="member-party-badge" class="px-3 py-0.5 rounded-full text-[10px] font-black tracking-tighter border"></span>
+                    <h1 id="member-name" class="text-3xl font-black text-slate-800"></h1>
+                    <p id="member-info" class="text-sm font-bold text-blue-500"></p>
                 </div>
-            </section>
 
-            <section class="bg-white rounded-3xl shadow-xl shadow-slate-200/50 p-6">
-                <h3 class="font-bold text-slate-800 mb-4 flex items-center justify-between">
-                    <span>이슈 가중치 통계</span>
-                    <i class="fa-solid fa-chart-pie text-blue-500"></i>
+                <div id="sns-links" class="flex justify-center gap-3"></div>
+            </div>
+        </section>
+
+        <section class="card p-6">
+            <h3 class="text-xs font-bold text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
+                <i class="fa-solid fa-wand-magic-sparkles text-blue-500"></i> AI 핵심 키워드
+            </h3>
+            <div id="member-keywords" class="flex flex-wrap gap-2"></div>
+        </section>
+
+        <div class="grid grid-cols-1 gap-5">
+            <section class="card p-6">
+                <h3 class="font-bold text-slate-800 mb-6 text-sm flex justify-between items-center">
+                    <span>활동 이슈 가중치</span>
+                    <i class="fa-solid fa-chart-pie text-slate-300"></i>
                 </h3>
-                <div class="h-[200px] flex items-center justify-center">
+                <div class="h-[220px]">
                     <canvas id="keywordChart"></canvas>
                 </div>
-                <p class="text-[10px] text-slate-400 mt-4 text-center">최근 뉴스 및 유튜브 데이터 기반 AI 분석 결과입니다.</p>
+            </section>
+
+            <section class="card p-6">
+                <h3 class="font-bold text-slate-800 mb-6 text-sm flex justify-between items-center">
+                    <span>최근 7일 화제성 추이</span>
+                    <i class="fa-solid fa-chart-line text-slate-300"></i>
+                </h3>
+                <div class="h-[180px]">
+                    <canvas id="trendChart"></canvas>
+                </div>
             </section>
         </div>
 
-        <section class="bg-white rounded-3xl shadow-xl shadow-slate-200/50 p-6">
-          <h3 class="font-bold text-slate-800 mb-4 flex items-center justify-between">
-              <span>최근 7일 화제성 추이</span>
-              <i class="fa-solid fa-chart-line text-blue-500"></i>
-          </h3>
-          <div class="h-[200px]">
-              <canvas id="trendChart"></canvas>
-          </div>
-      </section>
+        <section class="card overflow-hidden">
+            <div class="flex justify-between items-center p-6 border-b border-slate-50">
+                <h3 class="font-bold text-slate-800 flex items-center gap-2">
+                    <i class="fa-solid fa-newspaper text-blue-500"></i> 주요 보도
+                </h3>
+                <span class="text-[10px] font-bold text-slate-400 bg-slate-50 px-2 py-1 rounded">LATEST 20</span>
+            </div>
+            <ul id="news-list" class="divide-y divide-slate-50"></ul>
+            <div id="no-news" class="hidden py-20 text-center text-slate-300 text-sm">최근 보도가 없습니다.</div>
+        </section>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <section class="bg-white rounded-3xl shadow-lg shadow-slate-200/60 p-6 overflow-hidden">
-                <div class="flex justify-between items-center mb-6">
-                    <h3 class="font-bold text-xl flex items-center gap-2">
-                        <i class="fa-solid fa-paper-plane text-blue-500"></i> 주요 보도
-                    </h3>
-                    <span class="text-xs bg-slate-100 text-slate-500 px-2 py-1 rounded">최신 20건</span>
-                </div>
-                <ul id="news-list" class="divide-y divide-slate-100"></ul>
-                <div id="no-news" class="hidden text-center py-20 text-slate-300 italic">검색된 뉴스가 없습니다.</div>
-            </section>
+        <section class="card overflow-hidden">
+            <div class="flex justify-between items-center p-6 border-b border-slate-50">
+                <h3 class="font-bold text-slate-800 flex items-center gap-2">
+                    <i class="fa-brands fa-youtube text-red-500"></i> 활동 영상
+                </h3>
+            </div>
+            <div id="video-list" class="p-4 space-y-4"></div>
+            <div id="no-videos" class="hidden py-20 text-center text-slate-300 text-sm">관련 영상이 없습니다.</div>
+        </section>
 
-            <section class="bg-white rounded-3xl shadow-lg shadow-slate-200/60 p-6">
-                <div class="flex justify-between items-center mb-6">
-                    <h3 class="font-bold text-xl flex items-center gap-2">
-                        <i class="fa-brands fa-youtube text-red-500"></i> 활동 영상
-                    </h3>
-                    <span class="text-xs bg-slate-100 text-slate-500 px-2 py-1 rounded">인기 영상</span>
-                </div>
-                <div id="video-list" class="space-y-3"></div>
-                <div id="no-videos" class="hidden text-center py-20 text-slate-300 italic">관련 영상이 없습니다.</div>
-            </section>
-        </div>
     </main>
+
+    <nav class="fixed bottom-0 left-0 right-0 bg-white/90 backdrop-blur-xl border-t border-slate-100 flex justify-around py-3 px-6 z-50 safe-bottom">
+        <div class="flex flex-col items-center gap-1 text-slate-400" onclick="location.href='index.html'">
+            <i class="fa-solid fa-house text-lg"></i>
+            <span class="text-[9px]">홈</span>
+        </div>
+        <div class="flex flex-col items-center gap-1 text-blue-600">
+            <i class="fa-solid fa-file-invoice text-lg"></i>
+            <span class="text-[9px] font-bold">리포트</span>
+        </div>
+        <div class="flex flex-col items-center gap-1 text-slate-400">
+            <i class="fa-solid fa-comment-dots text-lg"></i>
+            <span class="text-[9px]">소통</span>
+        </div>
+    </nav>
 
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const naasId = urlParams.get('id');
 
-        if (!naasId) {
-            location.href = "index.html";
-        }
+        if (!naasId) location.href = "index.html";
+
+        // 날짜 변환 함수
+        const formatDate = (dateStr) => {          
+            const d = new Date(dateStr);
+            const now = new Date();
+            const diff = (now - d) / (1000 * 60 * 60);
+            if (diff < 24 && diff > 0) return `${Math.floor(diff)}시간 전`;
+            return d.toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\./g, '').replace(/ /g, '-');
+        };
 
         async function loadMemberData() {
             try {
@@ -122,103 +146,74 @@
                 const data = await response.json();
                 renderPage(data);
             } catch (error) {
-                document.getElementById('loading').innerHTML = `<div class='py-20 text-slate-400'><i class='fa-solid fa-circle-exclamation text-3xl mb-4'></i><br>데이터 스냅샷이 아직 생성되지 않았습니다.</div>`;
+                document.getElementById('loading').innerHTML = `
+                    <div class='py-20 text-slate-400'>
+                        <i class='fa-solid fa-circle-exclamation text-3xl mb-4 text-slate-200'></i><br>
+                        <span class="text-sm font-bold">데이터를 찾을 수 없습니다.</span>
+                    </div>`;
             }
         }
-
-        // 날짜 변환 함수 (함수 상단에 배치하면 좋습니다)
-        const formatDate = (dateStr) => {          
-            const d = new Date(dateStr);
-            const now = new Date();
-            const diff = (now - d) / (1000 * 60 * 60); // 시간 차이 계산
-            // 24시간 이내라면 "n시간 전"으로 표시 (실시간성 강조)
-            if (diff < 24 && diff > 0) {
-                return `${Math.floor(diff)}시간 전`;
-            }
-            
-            // 그 외에는 YYYY-MM-DD 형식
-            return d.toLocaleDateString('ko-KR', {
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit'
-            }).replace(/\./g, '').replace(/ /g, '-'); // 2026-01-12 형태
-        };
 
         function renderPage(data) {
             const { profile, analysis, recent_news: news, recent_videos: videos } = data;
 
-            // 1. 프로필 렌더링
+            // 1. 프로필
             document.getElementById('member-name').innerText = profile.NAAS_NM;
-            document.getElementById('member-party').innerText = profile.CURR_PLPT_NM;
-            document.getElementById('member-party').className += getPartyClass(profile.CURR_PLPT_NM);
-            document.getElementById('member-info').innerText = `${profile.CURR_ELECD_NM} · ${profile.RLCT_COUNT || 1}선`;
-            document.getElementById('member-pic').src = profile.PHOTO_PATH ? `./${profile.PHOTO_PATH}` : 'https://via.placeholder.com/300x400';
+            const partyBadge = document.getElementById('member-party-badge');
+            partyBadge.innerText = profile.CURR_PLPT_NM;
+            partyBadge.className += getPartyClass(profile.CURR_PLPT_NM);
+            
+            document.getElementById('member-info').innerText = `${profile.CURR_ELECD_NM} · ${profile.RLCT_COUNT || 1}선 의원`;
+            document.getElementById('member-pic').src = `./${profile.PHOTO_PATH}`;
 
-            // 2. AI 키워드 배지 생성
+            // 2. 키워드
             const keywordContainer = document.getElementById('member-keywords');
-            const keywords = analysis.keywords || [];
-            keywords.forEach((kw, idx) => {
+            (analysis.keywords || []).forEach((kw, idx) => {
                 const span = document.createElement('span');
-                span.className = `keyword-badge px-4 py-1.5 rounded-full text-sm font-bold shadow-sm border border-white ${idx < 3 ? 'bg-blue-600 text-white' : 'bg-slate-100 text-slate-600'}`;
+                span.className = `keyword-badge px-3 py-1.5 rounded-xl text-[11px] font-bold shadow-sm ${idx < 3 ? 'bg-blue-600 text-white' : 'bg-slate-50 text-slate-500 border border-slate-100'}`;
                 span.innerText = `#${kw}`;
                 keywordContainer.appendChild(span);
             });
 
-            // 3. Chart.js 시각화
-            renderChart(analysis.keyword_frequency);
-
-            // 4. SNS 링크 렌더링 로직 수정
+            // 3. SNS
             const snsContainer = document.getElementById('sns-links');
-            snsContainer.innerHTML = ""; // 초기화
+            const iconConfig = {
+                facebook: { icon: 'fa-brands fa-facebook-f', color: 'bg-[#1877F2]' },
+                youtube: { icon: 'fa-brands fa-youtube', color: 'bg-[#FF0000]' },
+                blog: { icon: 'fa-solid fa-blog', color: 'bg-[#03C75A]' },
+                instagram: { icon: 'fa-brands fa-instagram', color: 'bg-[#E4405F]' }
+            };
 
             if (profile.SNS_INFO) {
-                const sns = profile.SNS_INFO;
-                
-                // 아이콘 설정 맵 (브랜드명: {아이콘클래스, 배경색})
-                const iconConfig = {
-                    facebook: { icon: 'fa-brands fa-facebook-f', color: 'bg-[#1877F2]' },
-                    youtube: { icon: 'fa-brands fa-youtube', color: 'bg-[#FF0000]' },
-                    blog: { icon: 'fa-solid fa-blog', color: 'bg-[#03C75A]' }, // 네이버 블로그는 blog 아이콘 권장
-                    instagram: { icon: 'fa-brands fa-instagram', color: 'bg-[#E4405F]' },
-                    twitter: { icon: 'fa-brands fa-x-twitter', color: 'bg-[#000000]' }
-                };
-
-                Object.entries(sns).forEach(([type, url]) => {
-                    // url이 존재하고, 해당 타입이 설정 맵에 있는 경우에만 생성
-                    // Tip: DB 필드명이 facebook_url 처럼 올 경우를 대비해 includes 체크 추가
+                Object.entries(profile.SNS_INFO).forEach(([type, url]) => {
                     const key = Object.keys(iconConfig).find(k => type.toLowerCase().includes(k));
-                    
                     if (url && url.length > 5 && key) {
                         const config = iconConfig[key];
-                        
-                        const anchor = document.createElement('a');
-                        anchor.href = url;
-                        anchor.target = "_blank";
-                        // 시니어 사용자를 위해 클릭 영역을 충분히 확보(w-12, h-12)
-                        anchor.className = `w-12 h-12 rounded-2xl flex items-center justify-center text-white text-2xl shadow-lg hover:-translate-y-1 hover:shadow-2xl transition-all ${config.color}`;
-                        anchor.innerHTML = `<i class="${config.icon}"></i>`;
-                        
-                        snsContainer.appendChild(anchor);
+                        snsContainer.innerHTML += `
+                            <a href="${url}" target="_blank" class="w-10 h-10 rounded-2xl flex items-center justify-center text-white text-lg shadow-md active:scale-90 transition-all ${config.color}">
+                                <i class="${config.icon}"></i>
+                            </a>`;
                     }
                 });
             }
 
-            // 5. 뉴스 & 영상 리스트 (기존 로직 최적화)
+            // 4. 차트 렌더링
+            renderDoughnutChart(analysis.keyword_frequency);
+            renderTrendChart(analysis.trend_news);
+
+            // 5. 뉴스 & 영상
             renderNews(news);
             renderVideos(videos);
 
-            // 6. 뉴스 언급량 차트 렌더링
-            renderTrendChart(data.analysis.trend_news);
-
-            // 로딩 종료
+            // 전환 애니메이션
             document.getElementById('loading').classList.add('hidden');
             const content = document.getElementById('content');
             content.classList.remove('hidden');
             setTimeout(() => content.classList.add('opacity-100'), 50);
         }
 
-        function renderChart(freqData) {
-            if (!freqData || freqData.length === 0) return;
+        function renderDoughnutChart(freqData) {
+            if (!freqData) return;
             const ctx = document.getElementById('keywordChart').getContext('2d');
             new Chart(ctx, {
                 type: 'doughnut',
@@ -227,125 +222,103 @@
                     datasets: [{
                         data: freqData.slice(0, 5).map(d => d.value),
                         backgroundColor: ['#2563eb', '#3b82f6', '#60a5fa', '#93c5fd', '#bfdbfe'],
-                        borderWidth: 0
+                        borderWidth: 0,
+                        hoverOffset: 10
                     }]
                 },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
-                    plugins: { legend: { position: 'bottom', labels: { boxWidth: 10, font: { size: 10 } } } }
+                    cutout: '65%',
+                    plugins: { legend: { position: 'bottom', labels: { boxWidth: 8, font: { size: 10, weight: '600' }, padding: 15 } } }
                 }
             });
         }
-
-        function renderNews(news) {
-          console.log(news);
-            const list = document.getElementById('news-list');
-            list.innerHTML = ""; // 기존 리스트 초기화
-
-            news.forEach(item => {
-                // 1. 도메인 추출 및 파비콘 URL 생성
-                let domain = "";
-                try {
-                    domain = new URL(item.originallink || item.link).hostname;
-                } catch(e) {
-                    domain = "news";
-                }
-                const favicon = `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
-                const pressName = item.press || '언론사';
-                const firstChar = pressName.charAt(0); // 로고 대용 첫 글자
-
-                const li = document.createElement('li');
-                li.className = "py-4 group border-b border-slate-50 last:border-0";
-                li.innerHTML = `
-                    <a href="${item.link}" target="_blank" class="block">
-                        <div class="flex items-center gap-2 mb-2">
-                            <div class="w-5 h-5 flex-shrink-0 flex items-center justify-center rounded bg-slate-100 overflow-hidden">
-                                <img src="${favicon}" 
-                                    class="w-full h-full object-contain" 
-                                    onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-                                <span class="hidden text-[10px] font-bold text-slate-400 bg-slate-200 w-full h-full flex items-center justify-center">
-                                    ${firstChar}
-                                </span>
-                            </div>
-                            
-                            <span class="text-[11px] font-bold text-slate-700 tracking-tight">${pressName}</span>
-                            <span class="text-slate-200 text-[10px]">|</span>
-                            <span class="text-slate-400 text-[10px] font-medium">${formatDate(item.pubDate)}</span>
-                        </div>
-                        
-                        <h4 class="font-semibold text-slate-800 group-hover:text-blue-600 transition-colors line-clamp-2 leading-relaxed">
-                            ${item.title.replace(/<[^>]*>?/gm, '')}
-                        </h4>
-                    </a>`;
-                list.appendChild(li);
-            });
-        }
-
-        function renderVideos(videos) {
-            const container = document.getElementById('video-list');
-            if (!videos.length) return document.getElementById('no-videos').classList.remove('hidden');
-            videos.forEach(v => {
-                const videoId = v.url.split('v=')[1];
-                container.innerHTML += `
-                    <a href="${v.url}" target="_blank" class="flex gap-4 p-3 rounded-2xl hover:bg-slate-50 transition-all border border-transparent hover:border-slate-100 group">
-                        <div class="w-28 h-20 rounded-xl overflow-hidden shadow-inner flex-shrink-0">
-                            <img src="https://img.youtube.com/vi/${videoId}/mqdefault.jpg" class="w-full h-full object-cover group-hover:scale-110 transition-transform">
-                        </div>
-                        <div class="flex flex-col justify-center">
-                            <h4 class="text-xs font-bold text-slate-800 line-clamp-2 mb-1">${v.title}</h4>
-                            <span class="text-[10px] text-slate-400"><i class="fa-solid fa-calendar-day mr-1"></i>${formatDate(v.collected_at) || '최근 영상'}</span>
-                        </div>
-                    </a>`;
-            });
-        }
-
-        function getPartyClass(party) {
-            if (party.includes('더불어민주당')) return ' bg-blue-50 text-blue-700 border-blue-200';
-            if (party.includes('국민의힘')) return ' bg-red-50 text-red-700 border-red-200';
-            return ' bg-slate-50 text-slate-700 border-slate-200';
-        }       
 
         function renderTrendChart(trendData) {
             if (!trendData) return;
-            
             const ctx = document.getElementById('trendChart').getContext('2d');
             new Chart(ctx, {
                 type: 'line',
                 data: {
                     labels: trendData.labels,
                     datasets: [{
-                        label: '뉴스 언급량',
                         data: trendData.data,
-                        borderColor: '#3b82f6', // 파란색 선
-                        backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                        borderColor: '#3b82f6',
+                        backgroundColor: 'rgba(59, 130, 246, 0.05)',
                         fill: true,
-                        tension: 0.4, // 곡선 효과
+                        tension: 0.4,
                         borderWidth: 3,
-                        pointBackgroundColor: '#ffffff',
-                        pointBorderColor: '#3b82f6',
-                        pointRadius: 5
+                        pointRadius: 0,
+                        pointHoverRadius: 6,
+                        pointHoverBackgroundColor: '#fff',
+                        pointHoverBorderColor: '#3b82f6',
+                        pointHoverBorderWidth: 3
                     }]
                 },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
-                    plugins: {
-                        legend: { display: false } // 범례 숨김 (깔끔하게)
-                    },
+                    plugins: { legend: { display: false } },
                     scales: {
-                        y: {
-                            beginAtZero: true,
-                            ticks: { stepSize: 1, color: '#94a3b8' },
-                            grid: { color: '#f1f5f9' }
-                        },
-                        x: {
-                            ticks: { color: '#94a3b8' },
-                            grid: { display: false }
-                        }
+                        y: { display: false },
+                        x: { grid: { display: false }, ticks: { font: { size: 9 } } }
                     }
                 }
             });
+        }
+
+        function renderNews(news) {
+            const list = document.getElementById('news-list');
+            if (!news || news.length === 0) return document.getElementById('no-news').classList.remove('hidden');
+            
+            news.slice(0, 10).forEach(item => {
+                const domain = new URL(item.originallink || item.link).hostname;
+                const favicon = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+                
+                list.innerHTML += `
+                    <li class="p-5 active:bg-slate-50 transition-colors">
+                        <a href="${item.link}" target="_blank" class="block">
+                            <div class="flex items-center gap-2 mb-2">
+                                <img src="${favicon}" class="w-3 h-3 rounded-sm opacity-70">
+                                <span class="text-[10px] font-bold text-slate-400 uppercase tracking-tight">${item.press || 'Media'}</span>
+                                <span class="text-[10px] text-slate-200">|</span>
+                                <span class="text-[10px] text-slate-300">${formatDate(item.pubDate)}</span>
+                            </div>
+                            <h4 class="text-sm font-bold text-slate-800 leading-snug break-all">
+                                ${item.title.replace(/<[^>]*>?/gm, '')}
+                            </h4>
+                        </a>
+                    </li>`;
+            });
+        }
+
+        function renderVideos(videos) {
+            const container = document.getElementById('video-list');
+            if (!videos || videos.length === 0) return document.getElementById('no-videos').classList.remove('hidden');
+            
+            videos.slice(0, 3).forEach(v => {
+                const videoId = v.url.split('v=')[1];
+                container.innerHTML += `
+                    <a href="${v.url}" target="_blank" class="flex gap-4 group">
+                        <div class="w-24 h-16 rounded-2xl overflow-hidden flex-shrink-0 shadow-sm relative">
+                            <img src="https://img.youtube.com/vi/${videoId}/mqdefault.jpg" class="w-full h-full object-cover">
+                            <div class="absolute inset-0 bg-black/10 flex items-center justify-center">
+                                <i class="fa-solid fa-play text-white text-xs opacity-80"></i>
+                            </div>
+                        </div>
+                        <div class="flex flex-col justify-center">
+                            <h4 class="text-[11px] font-bold text-slate-800 line-clamp-2 leading-tight mb-1 group-active:text-blue-600 transition-colors">${v.title}</h4>
+                            <span class="text-[9px] text-slate-400 font-medium tracking-tight uppercase">${formatDate(v.collected_at)}</span>
+                        </div>
+                    </a>`;
+            });
+        }
+
+        function getPartyClass(party) {
+            if (party.includes('더불어민주당')) return ' bg-blue-50 text-blue-600 border-blue-100';
+            if (party.includes('국민의힘')) return ' bg-red-50 text-red-600 border-red-100';
+            return ' bg-slate-50 text-slate-500 border-slate-200';
         }
 
         loadMemberData();
