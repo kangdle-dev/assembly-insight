@@ -65,9 +65,7 @@
             <h3 class="text-lg font-black text-slate-800">의원 명단</h3>
             <span id="member-count" class="text-[11px] font-bold bg-blue-50 text-blue-600 px-3 py-1 rounded-full tracking-tighter">000명</span>
         </div>
-        <div class="flex gap-2 overflow-x-auto no-scrollbar pb-2" id="cho-filter">
-            <button class="cho-btn active px-4 py-2 rounded-xl bg-blue-600 text-white text-xs font-bold shadow-md" data-cho="전체">전체</button>
-            </div>
+        <div class="flex gap-2 overflow-x-auto no-scrollbar pb-2" id="cho-filter"></div>
     </section>
 
     <div id="member-grid" class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-3 md:gap-4"></div>
@@ -81,14 +79,15 @@
 
 <nav class="fixed bottom-0 left-0 right-0 bg-white/90 backdrop-blur-md border-t border-slate-100 flex justify-around py-3 z-50 md:hidden">
     <button class="flex flex-col items-center gap-1 text-blue-600"><i class="fa-solid fa-home text-lg"></i><span class="text-[9px] font-bold">홈</span></button>
-    <button class="flex flex-col items-center gap-1 text-slate-400" onclick="location.href='detail.html'"><i class="fa-solid fa-file-invoice text-lg"></i><span class="text-[9px]">리포트</span></button>
+    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-bolt text-lg"></i><span class="text-[9px]">정책대립</span></button>
+    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-user-shield text-lg"></i><span class="text-[9px]">범죄이력</span></button>
 </nav>
 
 <script>
     let allMembers = [];
     let filteredMembers = [];
     let displayCount = 12; // 한 번에 보여줄 의원 수
-    const CHOSUNG = ['ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
+    const CHOSUNG = ['전체','ㄱ', 'ㄴ', 'ㄷ', 'ㄹ', 'ㅁ', 'ㅂ','ㅅ', 'ㅈ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
 
     async function init() {
         try {
@@ -108,12 +107,26 @@
         }
     }
 
+    // 한글 초성을 추출하는 헬퍼 함수
+    function getFirstCho(name) {
+        const choList = ['ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
+        const charCode = name.charCodeAt(0) - 44032;
+        if (charCode < 0 || charCode > 11172) return ""; // 한글이 아닌 경우
+        return choList[Math.floor(charCode / 588)];
+    }
+
     // 초성 버튼 생성 로직
     function renderChoFilter() {
         const filterContainer = document.getElementById('cho-filter');
+        filterContainer.innerHTML = ''; // 기존 버튼 초기화 (중복 방지)
+
         CHOSUNG.forEach(cho => {
             const btn = document.createElement('button');
-            btn.className = "cho-btn px-4 py-2 rounded-xl bg-white text-slate-400 text-xs font-bold shadow-sm border border-slate-50";
+            // '전체' 버튼만 초기 활성화 상태로 설정
+            const isActive = (cho === '전체');
+            btn.className = `cho-btn px-4 py-2 rounded-xl text-xs font-bold shadow-sm border transition-all ${
+                isActive ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-slate-400 border-slate-50'
+            }`;
             btn.innerText = cho;
             btn.onclick = () => filterByCho(cho, btn);
             filterContainer.appendChild(btn);
@@ -121,26 +134,32 @@
     }
 
     // 초성 필터링 함수
-    function filterByCho(cho, btn) {
-        // UI 버튼 상태 변경
+    function filterByCho(targetCho, btn) {
+        // 모든 버튼 비활성화 스타일 적용
         document.querySelectorAll('.cho-btn').forEach(b => {
-            b.classList.replace('bg-blue-600', 'bg-white');
-            b.classList.replace('text-white', 'text-slate-400');
+            b.classList.remove('bg-blue-600', 'text-white', 'border-blue-600');
+            b.classList.add('bg-white', 'text-slate-400', 'border-slate-50');
         });
-        btn.classList.replace('bg-white', 'bg-blue-600');
-        btn.classList.replace('text-slate-400', 'text-white');
+        // 클릭한 버튼 활성화
+        btn.classList.remove('bg-white', 'text-slate-400', 'border-slate-50');
+        btn.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
 
-        if (cho === "전체") {
+        if (targetCho === "전체") {
             filteredMembers = allMembers;
         } else {
             filteredMembers = allMembers.filter(m => {
                 const name = m.NAAS_NM || m.HG_NM || "";
-                const code = name.charCodeAt(0) - 44032;
-                if (code > -1 && code < 11172) return CHOSUNG[Math.floor(code / 588)] === cho;
-                return false;
+                const charCho = getFirstCho(name);
+                
+                // 쌍자음 처리 (ㄲ->ㄱ, ㅆ->ㅅ 등으로 맵핑하여 사용성 개선)
+                const mappedCho = { 'ㄲ': 'ㄱ', 'ㄸ': 'ㄷ', 'ㅃ': 'ㅂ', 'ㅆ': 'ㅅ', 'ㅉ': 'ㅈ' };
+                const finalCho = mappedCho[charCho] || charCho;
+                
+                return finalCho === targetCho;
             });
         }
-        displayCount = 12; // 필터링 시 초기화
+        
+        displayCount = 12; // 필터링 시 보여줄 개수 초기화
         renderGrid();
     }
 
