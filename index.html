@@ -11,243 +11,189 @@
         :root { --primary: #004EA2; --secondary: #E61E2B; --bg: #f8fafc; }
         body { font-family: 'Pretendard', sans-serif; background: var(--bg); margin: 0; -webkit-tap-highlight-color: transparent; }
         .card { background: white; border-radius: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); border: 1px solid rgba(0,0,0,0.03); }
-        .bar { transition: width 1s cubic-bezier(0.4, 0, 0.2, 1); }
-        #search-results::-webkit-scrollbar { width: 4px; }
-        #search-results::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
+        .bar { transition: width 1s ease-in-out; }
+        .no-scrollbar::-webkit-scrollbar { display: none; }
     </style>
 </head>
-<body class="pb-24">
+<body class="pb-24 md:pb-10 text-slate-900">
 
-<div class="max-w-md mx-auto md:max-w-6xl px-4 pt-6">
+<div class="max-w-md mx-auto md:max-w-4xl px-4 pt-6">
     <header class="mb-8">
-        <h1 class="text-xl font-black mb-6 text-slate-800 flex items-center gap-2">
-            <span class="text-blue-600 text-2xl">🌐</span> 제22대 국회 인사이트
+        <h1 class="text-xl font-black mb-6 text-slate-800 flex items-center gap-2 italic">
+            <span class="text-blue-600 text-2xl">🌐</span> ASSEMBLY <span class="text-slate-400 font-light">INSIGHT</span>
         </h1>
+        
+        <div class="bg-slate-100 rounded-2xl h-20 mb-6 flex items-center justify-center border border-dashed border-slate-300">
+            <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest italic">AD: Top Billboard (728x90)</span>
+        </div>
+
         <div class="relative">
             <div class="flex items-center bg-white rounded-2xl shadow-lg px-5 py-4 border-2 border-transparent focus-within:border-blue-500 transition-all">
                 <i class="fa-solid fa-magnifying-glass text-slate-400 mr-3"></i>
                 <input type="text" id="search-input" placeholder="의원 이름을 입력하세요" class="w-full outline-none text-base font-semibold">
             </div>
-            <div id="search-results" class="absolute w-full top-16 left-0 z-[100] bg-white rounded-2xl shadow-2xl border border-slate-100 hidden max-h-[60vh] overflow-y-auto"></div>
+            <div id="search-results" class="absolute w-full top-16 left-0 z-[100] bg-white rounded-2xl shadow-2xl border border-slate-100 hidden max-h-[50vh] overflow-y-auto"></div>
         </div>
     </header>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mb-10">
         <div class="card p-6">
-            <h3 class="text-xs font-bold text-slate-400 mb-4 uppercase tracking-wider">정당별 의석 분포</h3>
+            <h3 class="text-xs font-bold text-slate-400 mb-4 uppercase tracking-widest">정당별 의석 분포</h3>
             <div id="party-charts" class="space-y-4"></div>
         </div>
-
-        <div class="card p-6 text-center">
-            <h3 class="text-xs font-bold text-slate-400 mb-6 uppercase tracking-wider">당선 형태</h3>
+        <div class="card p-6 text-center flex flex-col justify-center">
+            <h3 class="text-xs font-bold text-slate-400 mb-6 uppercase tracking-widest">당선 형태</h3>
             <div class="flex justify-around items-center">
-                <div>
-                    <span class="text-3xl font-black text-blue-600 block" id="stat-local">0</span>
-                    <p class="text-[10px] text-slate-400 font-bold mt-1">지역구</p>
-                </div>
+                <div><span class="text-3xl font-black text-blue-600" id="stat-local">0</span><p class="text-[10px] text-slate-400 font-bold mt-1 uppercase">지역구</p></div>
                 <div class="w-px h-10 bg-slate-100"></div>
-                <div>
-                    <span class="text-3xl font-black text-purple-500 block" id="stat-pro">0</span>
-                    <p class="text-[10px] text-slate-400 font-bold mt-1">비례대표</p>
-                </div>
+                <div><span class="text-3xl font-black text-purple-500" id="stat-pro">0</span><p class="text-[10px] text-slate-400 font-bold mt-1 uppercase">비례대표</p></div>
             </div>
         </div>
-
-        <div class="card p-6 text-center">
-            <h3 class="text-xs font-bold text-slate-400 mb-4 uppercase tracking-wider">연령대별 분포</h3>
-            <div class="flex justify-between items-end gap-1 px-2" id="age-dist"></div>
-            <p class="mt-4 text-[10px] text-slate-400">평균 연령 <span id="avg-age" class="font-bold text-slate-700">-</span>세</p>
-        </div>
-
-        <div class="card p-6">
-            <h3 class="text-xs font-bold text-slate-400 mb-4 uppercase tracking-wider">정당별 평균 연령</h3>
-            <div id="party-age-list" class="space-y-3"></div>
-        </div>
-
-        <div class="grid grid-cols-2 gap-3 md:col-span-2 lg:col-span-2" id="edge-members"></div>
     </div>
 
-    <div class="flex justify-between items-center mb-6 px-1">
-        <h3 class="text-lg font-black text-slate-800">의원 명단</h3>
-        <span id="member-count" class="text-[11px] font-bold bg-blue-50 text-blue-600 px-3 py-1 rounded-full">데이터 로딩...</span>
+    <div class="bg-white rounded-3xl p-4 mb-10 border border-slate-200 flex items-center gap-4">
+        <div class="w-20 h-20 bg-slate-100 rounded-xl flex-shrink-0 flex items-center justify-center text-[10px] text-slate-400 font-bold italic">AD PIC</div>
+        <div class="flex-grow">
+            <span class="text-[9px] bg-blue-50 text-blue-600 px-1.5 py-0.5 rounded font-bold uppercase">Sponsor</span>
+            <div class="text-sm font-bold text-slate-700 mt-1">의정 활동의 새로운 패러다임, 국회 인사이트 광고</div>
+            <div class="text-[10px] text-slate-400 mt-0.5">자연스럽게 스며드는 네이티브 광고로 전환율 증대</div>
+        </div>
     </div>
-    <div id="member-grid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-3 md:gap-4"></div>
+
+    <section class="mb-6">
+        <div class="flex items-center justify-between mb-4">
+            <h3 class="text-lg font-black text-slate-800">의원 명단</h3>
+            <span id="member-count" class="text-[11px] font-bold bg-blue-50 text-blue-600 px-3 py-1 rounded-full tracking-tighter">000명</span>
+        </div>
+        <div class="flex gap-2 overflow-x-auto no-scrollbar pb-2" id="cho-filter">
+            <button class="cho-btn active px-4 py-2 rounded-xl bg-blue-600 text-white text-xs font-bold shadow-md" data-cho="전체">전체</button>
+            </div>
+    </section>
+
+    <div id="member-grid" class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-3 md:gap-4"></div>
+
+    <div class="mt-10 text-center">
+        <button id="load-more-btn" class="w-full py-4 rounded-2xl bg-white border border-slate-200 text-slate-600 font-bold text-sm shadow-sm hover:bg-slate-50 transition-all flex items-center justify-center gap-2">
+            의원 더보기 <i class="fa-solid fa-chevron-down opacity-50"></i>
+        </button>
+    </div>
 </div>
 
 <nav class="fixed bottom-0 left-0 right-0 bg-white/90 backdrop-blur-md border-t border-slate-100 flex justify-around py-3 z-50 md:hidden">
     <button class="flex flex-col items-center gap-1 text-blue-600"><i class="fa-solid fa-home text-lg"></i><span class="text-[9px] font-bold">홈</span></button>
-    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-bolt text-lg"></i><span class="text-[9px]">정책대립</span></button>
-    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-user-shield text-lg"></i><span class="text-[9px]">범죄이력</span></button>
+    <button class="flex flex-col items-center gap-1 text-slate-400" onclick="location.href='detail.html'"><i class="fa-solid fa-file-invoice text-lg"></i><span class="text-[9px]">리포트</span></button>
 </nav>
 
 <script>
     let allMembers = [];
-    const currentYear = 2026;
-    const memberGrid = document.getElementById('member-grid');
+    let filteredMembers = [];
+    let displayCount = 12; // 한 번에 보여줄 의원 수
+    const CHOSUNG = ['ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
 
     async function init() {
         try {
-            const response = await fetch('data_export/members_all.json');            
-            if (!response.ok) throw new Error("File not found");
+            const response = await fetch('data_export/members_all.json');
+            if (!response.ok) throw new Error("JSON 로드 실패");
             const rawData = await response.json();
             
-            // 데이터 필터링 로직 강화
             allMembers = rawData.filter(m => m.is_22nd === true || String(m.is_22nd) === "true");
-            if (allMembers.length === 0) allMembers = rawData; 
+            filteredMembers = allMembers;
 
+            renderChoFilter();
             updateDashboard(allMembers);
-            renderGrid(allMembers);
+            renderGrid();
         } catch (error) {
-            console.error(error);
-            document.getElementById('member-grid').innerHTML = "<p class='col-span-full text-center py-20 text-slate-400 text-sm'>데이터를 불러올 수 없습니다.</p>";
+            console.error("Error:", error);
+            document.getElementById('member-grid').innerHTML = "<p class='col-span-full text-center py-20 text-slate-400'>데이터를 찾을 수 없습니다.</p>";
         }
     }
 
+    // 초성 버튼 생성 로직
+    function renderChoFilter() {
+        const filterContainer = document.getElementById('cho-filter');
+        CHOSUNG.forEach(cho => {
+            const btn = document.createElement('button');
+            btn.className = "cho-btn px-4 py-2 rounded-xl bg-white text-slate-400 text-xs font-bold shadow-sm border border-slate-50";
+            btn.innerText = cho;
+            btn.onclick = () => filterByCho(cho, btn);
+            filterContainer.appendChild(btn);
+        });
+    }
+
+    // 초성 필터링 함수
+    function filterByCho(cho, btn) {
+        // UI 버튼 상태 변경
+        document.querySelectorAll('.cho-btn').forEach(b => {
+            b.classList.replace('bg-blue-600', 'bg-white');
+            b.classList.replace('text-white', 'text-slate-400');
+        });
+        btn.classList.replace('bg-white', 'bg-blue-600');
+        btn.classList.replace('text-slate-400', 'text-white');
+
+        if (cho === "전체") {
+            filteredMembers = allMembers;
+        } else {
+            filteredMembers = allMembers.filter(m => {
+                const name = m.NAAS_NM || m.HG_NM || "";
+                const code = name.charCodeAt(0) - 44032;
+                if (code > -1 && code < 11172) return CHOSUNG[Math.floor(code / 588)] === cho;
+                return false;
+            });
+        }
+        displayCount = 12; // 필터링 시 초기화
+        renderGrid();
+    }
+
     function updateDashboard(data) {
-        document.getElementById('member-count').innerText = `총 ${data.length}명`;
-
+        document.getElementById('member-count').innerText = `${data.length}명`;
         const parties = {};
-        const partyAges = {};
-        const ageGroups = { '30대↓': 0, '40대': 0, '50대': 0, '60대↑': 0 };
-        let localCount = 0; let proCount = 0; let totalAge = 0; let validAgeCount = 0;
-
+        let local = 0, pro = 0;
         data.forEach(m => {
-            // 1. 정당 통계
-            const pName = m.CURR_PLPT_NM || m.PLPT_NM || "무소속";
-            parties[pName] = (parties[pName] || 0) + 1;
-
-            // 2. 당선 형태
-            const dist = m.CURR_ELECD_NM || m.ELECD_NM || "";
-            if (dist.includes('비례대표')) proCount++; else localCount++;
-
-            // 3. 나이 계산 (오류 방지 로직)
-            const bDay = m.BIRDY_DT || m.BIRDY_DT_NM || "";
-            if (bDay && bDay.length >= 4) {
-                const birthYear = parseInt(bDay.substring(0, 4));
-                if (!isNaN(birthYear)) {
-                    const age = currentYear - birthYear;
-                    totalAge += age;
-                    validAgeCount++;
-
-                    if (age < 40) ageGroups['30대↓']++;
-                    else if (age < 50) ageGroups['40대']++;
-                    else if (age < 60) ageGroups['50대']++;
-                    else ageGroups['60대↑']++;
-
-                    if (!partyAges[pName]) partyAges[pName] = { sum: 0, count: 0 };
-                    partyAges[pName].sum += age;
-                    partyAges[pName].count++;
-                }
-            }
+            const p = m.CURR_PLPT_NM || "무소속";
+            parties[p] = (parties[p] || 0) + 1;
+            const dist = m.CURR_ELECD_NM || "";
+            if (dist.includes('비례')) pro++; else local++;
         });
 
-        // UI 렌더링 - 정당 차트
         const sortedParties = Object.entries(parties).sort((a,b) => b[1] - a[1]);
         document.getElementById('party-charts').innerHTML = sortedParties.slice(0, 4).map(([name, count]) => `
             <div>
-                <div class="flex justify-between text-[11px] font-bold mb-1.5">
-                    <span class="text-slate-600">${name}</span>
-                    <span class="text-slate-900">${count}</span>
-                </div>
-                <div class="w-full bg-slate-100 h-1.5 rounded-full overflow-hidden">
+                <div class="flex justify-between text-[10px] font-bold mb-1"><span class="text-slate-500">${name}</span><span>${count}</span></div>
+                <div class="w-full bg-slate-100 h-1 rounded-full overflow-hidden">
                     <div class="bar h-full rounded-full" style="width: ${(count/data.length*100)}%; background: ${getPartyColor(name)}"></div>
                 </div>
             </div>
         `).join('');
-
-        // UI 렌더링 - 연령대 분포
-        document.getElementById('age-dist').innerHTML = Object.entries(ageGroups).map(([label, count]) => `
-            <div class="flex-1">
-                <span class="text-lg font-black text-slate-800 block">${count}</span>
-                <span class="text-[9px] text-slate-400 font-bold uppercase">${label}</span>
-            </div>
-        `).join('');
-
-        document.getElementById('stat-local').innerText = localCount;
-        document.getElementById('stat-pro').innerText = proCount;
-        document.getElementById('avg-age').innerText = validAgeCount > 0 ? (totalAge / validAgeCount).toFixed(1) : "-";
-
-        // 정당별 평균 연령
-        document.getElementById('party-age-list').innerHTML = sortedParties.slice(0, 3).map(([name, count]) => {
-            const stats = partyAges[name];
-            const avg = stats ? (stats.sum / stats.count).toFixed(1) : 0;
-            return `
-                <div class="flex justify-between items-center text-[11px]">
-                    <span class="font-bold text-slate-500">${name}</span>
-                    <span class="font-black text-blue-600">${avg}세</span>
-                </div>
-                <div class="w-full bg-slate-50 h-1 rounded-full mt-1 mb-2">
-                    <div class="h-full rounded-full opacity-50" style="width: ${avg*1.2}%; background: ${getPartyColor(name)}"></div>
-                </div>
-            `;
-        }).join('');
-
-        // 최고령/최연소
-        const validMembers = data.filter(m => (m.BIRDY_DT || m.BIRDY_DT_NM)).sort((a,b) => 
-            new Date(a.BIRDY_DT || a.BIRDY_DT_NM) - new Date(b.BIRDY_DT || b.BIRDY_DT_NM));
-        
-        if (validMembers.length >= 2) {
-            document.getElementById('edge-members').innerHTML = `
-                ${renderSmallProfile(validMembers[0], '최고령')}
-                ${renderSmallProfile(validMembers[validMembers.length-1], '최연소')}
-            `;
-        }
+        document.getElementById('stat-local').innerText = local;
+        document.getElementById('stat-pro').innerText = pro;
     }
 
-    function renderSmallProfile(m, label) {
-        const age = currentYear - parseInt((m.BIRDY_DT || m.BIRDY_DT_NM).substring(0,4));
-        return `
-            <div class="card p-4 flex items-center gap-3">
-                <img src="./${m.PHOTO_PATH}" class="w-12 h-12 rounded-xl object-cover bg-slate-50" onerror="this.src='https://via.placeholder.com/100'">
+    function renderGrid() {
+        const grid = document.getElementById('member-grid');
+        const itemsToDisplay = filteredMembers.slice(0, displayCount);
+        
+        grid.innerHTML = itemsToDisplay.map((m, idx) => `
+            <div class="card p-4 flex items-center gap-4 cursor-pointer active:scale-95 transition-all" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                <div class="w-16 h-16 rounded-2xl overflow-hidden bg-slate-100 flex-shrink-0">
+                    <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/100'">
+                </div>
                 <div>
-                    <span class="text-[9px] font-black text-blue-500 bg-blue-50 px-1.5 py-0.5 rounded uppercase">${label}</span>
-                    <div class="text-sm font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
-                    <div class="text-[10px] text-slate-400 font-medium">${age}세 · ${m.CURR_PLPT_NM || m.PLPT_NM}</div>
-                </div>
-            </div>
-        `;
-    }
-
-    function renderGrid(members) {
-        memberGrid.innerHTML = members.map(m => `
-            <div class="card p-3 flex flex-col items-center border-t-4" 
-                 style="border-top-color: ${getPartyColor(m.CURR_PLPT_NM || m.PLPT_NM)}"
-                 onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
-                <div class="w-full aspect-[3/4] rounded-xl overflow-hidden mb-3 bg-slate-50">
-                    <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" loading="lazy" onerror="this.src='https://via.placeholder.com/300x400?text=👤'">
-                </div>
-                <h4 class="font-bold text-sm mb-0.5 text-slate-800">${m.NAAS_NM || m.HG_NM}</h4>
-                <p class="text-[10px] font-bold text-slate-400 mb-2">${m.CURR_PLPT_NM || m.PLPT_NM}</p>
-                <div class="flex gap-1">
-                    <span class="text-[9px] bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded font-bold">${m.RLCT_COUNT || m.RLCT_DIV_NM || '초선'}</span>
-                    <span class="text-[9px] bg-slate-100 text-slate-500 px-1.5 py-0.5 rounded font-bold">${(m.CURR_ELECD_NM || "비례").split(' ')[0]}</span>
+                    <div class="text-[10px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">${m.CURR_PLPT_NM}</div>
+                    <div class="font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
+                    <div class="text-[9px] text-slate-400 font-bold">${m.CURR_ELECD_NM}</div>
                 </div>
             </div>
         `).join('');
+
+        // 더보기 버튼 노출 여부
+        document.getElementById('load-more-btn').style.display = (displayCount >= filteredMembers.length) ? 'none' : 'flex';
     }
 
-    // 실시간 검색
-    document.getElementById('search-input').addEventListener('input', (e) => {
-        const val = e.target.value.trim();
-        const results = document.getElementById('search-results');
-        if (!val) { results.classList.add('hidden'); return; }
-        
-        const filtered = allMembers.filter(m => (m.NAAS_NM || m.HG_NM || "").includes(val)).slice(0, 8);
-        if (filtered.length > 0) {
-            results.classList.remove('hidden');
-            results.innerHTML = filtered.map(m => `
-                <div class="flex items-center p-4 border-b border-slate-50 active:bg-slate-50 cursor-pointer" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
-                    <img src="./${m.PHOTO_PATH}" class="w-10 h-10 rounded-full object-cover mr-3 bg-slate-100" onerror="this.src='https://via.placeholder.com/50'">
-                    <div>
-                        <div class="text-sm font-bold text-slate-800">${m.NAAS_NM || m.HG_NM} <span class="text-[10px] font-normal text-slate-400 ml-1">${m.CURR_PLPT_NM || m.PLPT_NM}</span></div>
-                        <div class="text-[10px] text-slate-400">${m.CURR_ELECD_NM || m.ELECD_NM}</div>
-                    </div>
-                </div>
-            `).join('');
-        } else {
-            results.classList.add('hidden');
-        }
-    });
+    // 더보기 버튼 이벤트
+    document.getElementById('load-more-btn').onclick = () => {
+        displayCount += 12;
+        renderGrid();
+    };
 
     function getPartyColor(party) {
         if (!party) return '#cbd5e1';
@@ -255,12 +201,10 @@
         if (party.includes('국민의힘')) return '#E61E2B';
         if (party.includes('조국혁신당')) return '#00A0E2';
         if (party.includes('개혁신당')) return '#FF6600';
-        if (party.includes('진보당')) return '#d6001c';
         return '#64748b';
     }
 
     init();
 </script>
-
 </body>
 </html>
