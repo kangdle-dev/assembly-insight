@@ -165,4 +165,16 @@ function getPartyClass(party) {
     return ' bg-slate-50 text-slate-500 border-slate-200';
 }
 
+// sns 공유 네이티브
+async function _snsPopShare(title) {    
+    try {
+    await navigator.share({
+        title: title,
+        url: window.location.href,
+    });
+    } catch (error) {
+        console.error('share wrong', error);
+    }    
+}
+
 loadMemberData();
