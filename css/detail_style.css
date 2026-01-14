@@ -1,0 +1,6 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+body { font-family: 'Pretendard', sans-serif; background: #f8fafc; }
+.card { background: white; border-radius: 28px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); border: 1px solid rgba(0,0,0,0.03); transition: all 0.3s ease; }
+.ad-slot { background: #f1f5f9; border: 1px dashed #cbd5e1; display: flex; align-items: center; justify-content: center; color: #94a3b8; font-size: 12px; }
+.keyword-badge { transition: all 0.2s; }

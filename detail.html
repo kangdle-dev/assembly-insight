@@ -164,6 +164,8 @@
             document.getElementById('member-pic').alt = `${memberName} 국회의원 프로필 사진`;
             document.getElementById('member-name').innerText = profile.NAAS_NM;
 
+            console.log(document.getElementById('meta-title').innerText);
+
             const partyBadge = document.getElementById('member-party-badge');
             partyBadge.innerText = profile.CURR_PLPT_NM;
             partyBadge.className += getPartyClass(profile.CURR_PLPT_NM);
