@@ -16,7 +16,7 @@ DB_NAME = os.getenv("DB_NAME")
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
 EXPORT_DIR = "data_export"
-okt = Okt()
+okt = Okt(jvmpath=None)
 
 # 분석 시 제외할 정치 도메인 불용어
 STOPWORDS = ['의원', '국회의원', '뉴스', '오늘', '기자', '정치', '국회', '지난', '오전', '오후', '때문', '대한', '관련', '영상', '채널', '금지', '무단', '배포', '재배포', '명']

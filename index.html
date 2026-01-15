@@ -22,6 +22,8 @@
         .card { background: white; border-radius: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); border: 1px solid rgba(0,0,0,0.03); }
         .bar { transition: width 1s ease-in-out; }
         .no-scrollbar::-webkit-scrollbar { display: none; }
+        #search-results::-webkit-scrollbar { width: 4px; }
+        #search-results::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
     </style>
 </head>
 <body class="pb-24 md:pb-10 text-slate-900">
@@ -32,12 +34,12 @@
             <span class="text-blue-600 text-2xl">🌐</span> 22대 국회의원 <span class="text-slate-400 font-light">INSIGHT</span>
         </h1>       
 
-        <div class="mb-6">
+        <div class="mb-6 relative">
             <div class="flex items-center bg-white rounded-2xl shadow-lg px-5 py-4 border-2 border-transparent focus-within:border-blue-500 transition-all">
                 <i class="fa-solid fa-magnifying-glass text-slate-400 mr-3"></i>
                 <input type="text" id="search-input" placeholder="의원 이름을 입력하세요" class="w-full outline-none text-base font-semibold">
             </div>
-            <div id="search-results" class="absolute w-full top-16 left-0 z-[100] bg-white rounded-2xl shadow-2xl border border-slate-100 hidden max-h-[50vh] overflow-y-auto"></div>
+            <div id="search-results" class="absolute w-full top-16 left-0 z-[100] bg-white rounded-2xl shadow-2xl border border-slate-100 hidden max-h-[60vh] overflow-y-auto"></div>
         </div>
 
         <div class="bg-slate-100 rounded-2xl mb-6 h-20 flex items-center justify-center border border-dashed border-slate-300">
@@ -124,6 +126,29 @@
         }
     }
 
+    // 실시간 검색
+    document.getElementById('search-input').addEventListener('input', (e) => {
+        const val = e.target.value.trim();
+        const results = document.getElementById('search-results');
+        if (!val) { results.classList.add('hidden'); return; }
+        
+        const filtered = allMembers.filter(m => (m.NAAS_NM || m.HG_NM || "").includes(val)).slice(0, 8);
+        if (filtered.length > 0) {
+            results.classList.remove('hidden');
+            results.innerHTML = filtered.map(m => `
+                <div class="flex items-center p-4 border-b border-slate-50 active:bg-slate-50 cursor-pointer" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                    <img src="./${m.PHOTO_PATH}" class="w-10 h-10 rounded-full object-cover mr-3 bg-slate-100" onerror="this.src='https://via.placeholder.com/50'">
+                    <div>
+                        <div class="text-sm font-bold text-slate-800">${m.NAAS_NM || m.HG_NM} <span class="text-[10px] font-normal text-slate-400 ml-1">${m.CURR_PLPT_NM || m.PLPT_NM}</span></div>
+                        <div class="text-[10px] text-slate-400">${m.CURR_ELECD_NM || m.ELECD_NM}</div>
+                    </div>
+                </div>
+            `).join('');
+        } else {
+            results.classList.add('hidden');
+        }
+    });
+
     // 한글 초성을 추출하는 헬퍼 함수
     function getFirstCho(name) {
         const choList = ['ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
@@ -163,7 +188,7 @@
 
         // 필터링 시 데이터 초기화 필수
         displayCount = PAGE_SIZE;
-        window.scrollTo(0, 0); // 상단으로 이동
+        //window.scrollTo(0, 0); // 상단으로 이동
         
         if (targetCho === "전체") {
             filteredMembers = allMembers;

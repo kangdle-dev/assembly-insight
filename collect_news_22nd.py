@@ -66,6 +66,12 @@ def print_progress(current, total, name, added=0, matched=0):
     sys.stdout.flush()
 
 def collect_news_filtered():
+    try:
+        # 70라인 근처의 코드
+        members = list(members_col.find({"is_22nd": True}, {"NAAS_NM": 1, "NAAS_CD": 1}))
+        print(f"성공적으로 {len(members)}명의 데이터를 가져왔습니다.")
+    except Exception as e:
+        print(f"연결 에러 발생: {e}")
     # 22대 의원 명단 로드
     members = list(members_col.find({"is_22nd": True}, {"NAAS_NM": 1, "NAAS_CD": 1}))
     member_map = {m['NAAS_NM']: m['NAAS_CD'] for m in members}
