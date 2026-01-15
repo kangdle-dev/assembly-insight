@@ -42,46 +42,70 @@
     },
     "analysis": {
         "keywords": [
-            "기후",
             "국민",
-            "전문가",
-            "위원회",
+            "기후",
             "민주당",
             "재선",
+            "전문가",
+            "제명",
+            "위원회",
+            "여담",
+            "야담",
+            "국힘",
+            "모임",
+            "소속",
             "국회의장",
             "참사",
-            "세미나",
-            "에너지",
-            "소속",
-            "대표",
-            "이유",
-            "일정",
-            "신재생에너지"
+            "세미나"
         ],
         "keyword_frequency": [
+            {
+                "text": "국민",
+                "value": 11
+            },
             {
                 "text": "기후",
                 "value": 10
             },
             {
-                "text": "국민",
-                "value": 8
+                "text": "민주당",
+                "value": 9
+            },
+            {
+                "text": "재선",
+                "value": 9
             },
             {
                 "text": "전문가",
                 "value": 8
             },
             {
+                "text": "제명",
+                "value": 7
+            },
+            {
                 "text": "위원회",
                 "value": 7
             },
             {
-                "text": "민주당",
+                "text": "여담",
                 "value": 6
             },
             {
-                "text": "재선",
+                "text": "야담",
                 "value": 6
+            },
+            {
+                "text": "국힘",
+                "value": 6
+            },
+            {
+                "text": "모임",
+                "value": 6
+            },
+            {
+                "text": "소속",
+                "value": 5
             },
             {
                 "text": "국회의장",
@@ -94,60 +118,137 @@
             {
                 "text": "세미나",
                 "value": 5
-            },
-            {
-                "text": "에너지",
-                "value": 5
-            },
-            {
-                "text": "소속",
-                "value": 4
-            },
-            {
-                "text": "대표",
-                "value": 4
-            },
-            {
-                "text": "이유",
-                "value": 4
-            },
-            {
-                "text": "일정",
-                "value": 4
-            },
-            {
-                "text": "신재생에너지",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:51.476956",
+        "last_analyzed_at": "2026-01-15T18:29:37.406164",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 1,
                 1,
                 0,
                 1,
                 1,
+                4,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6968ad8f297082fcc2b18d10",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324312?sid=100",
+            "created_at": "2026-01-15T18:04:12.343000",
+            "description": "오늘 정치 여담야담 여기서 모두 마무리하죠. 전용기 더불어민주당 국회의원, 김소희 국민의힘 국회의원과 함께했습니다. 두 분 수고하셨습니다. ※ 자세한 내용은 동영상으로 확인하실 수 있습니다. (SBS 디지털뉴스부)",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404099&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T16:16:00",
+            "related_members": [
+                "TJW93720",
+                "8Q88373R",
+                "1SR94244"
+            ],
+            "title": "[여담야담] 재심까지 또 최소 2주…김병기 버티기 언제까지"
+        },
+        {
+            "_id": "6968ad8f297082fcc2b18d11",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324292?sid=102",
+            "created_at": "2026-01-15T18:04:12.343000",
+            "description": "사형 구형의 의미와 앞으로의 전망을 정치 여담야담에서 전용기 더불어민주당 국회의원 또 김소희 국민의힘 국회의원과 짚어보겠습니다. 두 분 어서 오세요. (안녕하세요) ▷ 편상욱 / 앵커 : 구형하기까지 특검도 많은... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404097&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T15:36:00",
+            "related_members": [
+                "TJW93720",
+                "1SR94244"
+            ],
+            "title": "[여담야담] 사형 구형받자 허탈한 듯 '씨익'…다음 달 19일 선고"
+        },
+        {
+            "_id": "6968ad85297082fcc2b18cc9",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324240?sid=100",
+            "created_at": "2026-01-15T18:04:02.464000",
+            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 권영진·김형동·박정하·배준영·서범수·엄태영·이성권·조은희·최형두(이상 재선), 고동진·김건·김소희·김용태... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404024&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T13:29:00",
+            "related_members": [
+                "8XE7026P",
+                "KBK8836C",
+                "TQP7167T",
+                "QDU1100U",
+                "1SR94244",
+                "4019850M",
+                "AEJ19639",
+                "PYA8594I",
+                "HS39431V",
+                "EPI69383",
+                "8UC4779G",
+                "57B28032",
+                "CNW5754J",
+                "JEZ3130Q",
+                "LYY5513O",
+                "9D939735",
+                "L7J93733",
+                "6RD62559",
+                "QQP4727N",
+                "RMC1840P",
+                "8348421R",
+                "MQU41854",
+                "WXJ8352N",
+                "A0P4646G"
+            ],
+            "title": "국힘 초·재선 모임 \"한동훈 제명 결정, 반헌법적…재고해야\""
+        },
+        {
+            "_id": "6968ad85297082fcc2b18cca",
+            "link": "https://n.news.naver.com/mnews/article/020/0003689296?sid=100",
+            "created_at": "2026-01-15T18:04:02.464000",
+            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위 결정에... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133154308/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-14T12:54:00",
+            "related_members": [
+                "9D939735",
+                "HS39431V",
+                "LYY5513O",
+                "TQP7167T",
+                "JEZ3130Q",
+                "1SR94244",
+                "4019850M",
+                "EPI69383",
+                "6RD62559",
+                "57B28032",
+                "AEJ19639",
+                "8XE7026P",
+                "8348421R",
+                "8UC4779G",
+                "MQU41854",
+                "CNW5754J",
+                "KBK8836C",
+                "QDU1100U",
+                "WXJ8352N",
+                "PYA8594I",
+                "L7J93733",
+                "QQP4727N",
+                "RMC1840P",
+                "A0P4646G"
+            ],
+            "title": "국힘 소장파 “한동훈 제명, 비겁하고 저열…재고해야” 의총소집 요구"
+        },
+        {
             "_id": "6966ec72887d07f7ba2fb275",
             "link": "https://n.news.naver.com/mnews/article/055/0001323994?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데... 지금 정청래 대표가 오늘 비상징계 권한이 당 대표에게 있는데 그것을 행사하지 않겠다는 점을 분명히 했거든요.... ",
+            "description": "5 MHz 17:00 ~ 18:00) ■ 일자 : 2025년 1월 13일 (화) ■ 진행 : 주영진 SBS앵커 ■ 출연 : 이용우 더불어민주당 의원... 정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데 당사자가... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402989&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-13T20:13:00",
@@ -330,26 +431,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac03631fd1743497d4a8",
-            "url": "https://www.youtube.com/watch?v=iW57Jfl4TeU",
-            "HG_NM": "김소희",
-            "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-14T10:15:53.041000",
-            "duration": 591.0,
-            "title": "[기후·에너지 전문가 김소희] '기후 전문가에서 국회의원이 되기로 한 이유는' ㅣ 국회방송 인터뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac03631fd1743497d4ac",
-            "url": "https://www.youtube.com/watch?v=af1zuNjSVvo",
-            "HG_NM": "김소희",
-            "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-13T09:43:49.422000",
-            "duration": 369.0,
-            "title": "[현장쏙] '이동 흉기' 전동 킥보드, 전면 퇴출?…김소희 의원 '킥라니 금지법' 발의 / 연합뉴스TV(YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac03631fd1743497d4ad",
             "url": "https://www.youtube.com/watch?v=C8p7dY5863g",
             "HG_NM": "김소희",
@@ -357,16 +438,6 @@
             "collected_at": "2026-01-09T16:19:28.386000",
             "duration": 60.0,
             "title": "송유빈-김소희, 열애설에…\"결별한 사이\"/ 연합뉴스 (Yonhapnews)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac03631fd1743497d4a7",
-            "url": "https://www.youtube.com/watch?v=5g_3mePlFWk",
-            "HG_NM": "김소희",
-            "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-09T16:19:27.631000",
-            "duration": 246.0,
-            "title": "월간 국회도서관ㅣ김소희 국회의원을 만나다.",
             "upload_date": null
         },
         {
@@ -380,23 +451,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac03631fd1743497d4ab",
-            "url": "https://www.youtube.com/watch?v=biyeF4iKda4",
+            "_id": "6960ac03631fd1743497d4a9",
+            "url": "https://www.youtube.com/watch?v=4PhOtHdhdlc",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-09T16:19:27.631000",
-            "duration": 14291.0,
-            "title": "[김소희 국회의원] 불법파업조장법 필리버스터 풀버전",
+            "collected_at": "2026-01-15T18:15:02.284000",
+            "duration": 1467.0,
+            "title": "[출연:  김소희 국민의힘 의원 & 전용기 더불어민주당 의원] 검찰, 국민의힘 압수수색  명태균 의혹 밝혀질까",
             "upload_date": null
         },
         {
-            "_id": "6960ac03631fd1743497d4a6",
-            "url": "https://www.youtube.com/watch?v=YzdFj5UTpoo",
+            "_id": "6960ac03631fd1743497d4ac",
+            "url": "https://www.youtube.com/watch?v=af1zuNjSVvo",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-14T10:15:53.041000",
-            "duration": 385.0,
-            "title": "[김소희 국회의원] 김문수 고용노동부장관 후보자 인사청문회",
+            "collected_at": "2026-01-13T09:43:49.422000",
+            "duration": 369.0,
+            "title": "[현장쏙] '이동 흉기' 전동 킥보드, 전면 퇴출?…김소희 의원 '킥라니 금지법' 발의 / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -404,19 +475,29 @@
             "url": "https://www.youtube.com/watch?v=YoOaQHR-puo",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-14T10:15:53.041000",
+            "collected_at": "2026-01-15T18:15:02.284000",
             "duration": 833.0,
             "title": "[1부] 김소희 의원 기후 전문가로서의 활동 및 기후 문제 해결을 위한 협치 #정치를묻다",
             "upload_date": null
         },
         {
-            "_id": "6960ac03631fd1743497d4a9",
-            "url": "https://www.youtube.com/watch?v=4PhOtHdhdlc",
+            "_id": "6960ac03631fd1743497d4a8",
+            "url": "https://www.youtube.com/watch?v=iW57Jfl4TeU",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-14T10:15:53.041000",
-            "duration": 1467.0,
-            "title": "[출연:  김소희 국민의힘 의원 & 전용기 더불어민주당 의원] 검찰, 국민의힘 압수수색  명태균 의혹 밝혀질까",
+            "collected_at": "2026-01-15T18:15:02.284000",
+            "duration": 591.0,
+            "title": "[기후·에너지 전문가 김소희] '기후 전문가에서 국회의원이 되기로 한 이유는' ㅣ 국회방송 인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac03631fd1743497d4a6",
+            "url": "https://www.youtube.com/watch?v=YzdFj5UTpoo",
+            "HG_NM": "김소희",
+            "MONA_CD": "1SR94244",
+            "collected_at": "2026-01-15T18:15:02.284000",
+            "duration": 385.0,
+            "title": "[김소희 국회의원] 김문수 고용노동부장관 후보자 인사청문회",
             "upload_date": null
         },
         {
@@ -424,11 +505,31 @@
             "url": "https://www.youtube.com/watch?v=UCBqCOnOxzKbMcZ9KcHAs2Hg",
             "HG_NM": "김소희",
             "MONA_CD": "1SR94244",
-            "collected_at": "2026-01-14T10:15:53.041000",
+            "collected_at": "2026-01-15T18:15:02.284000",
             "duration": null,
             "title": "김소희 TV",
             "upload_date": null
+        },
+        {
+            "_id": "6960ac03631fd1743497d4a7",
+            "url": "https://www.youtube.com/watch?v=5g_3mePlFWk",
+            "HG_NM": "김소희",
+            "MONA_CD": "1SR94244",
+            "collected_at": "2026-01-09T16:19:27.631000",
+            "duration": 246.0,
+            "title": "월간 국회도서관ㅣ김소희 국회의원을 만나다.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac03631fd1743497d4ab",
+            "url": "https://www.youtube.com/watch?v=biyeF4iKda4",
+            "HG_NM": "김소희",
+            "MONA_CD": "1SR94244",
+            "collected_at": "2026-01-15T18:15:02.284000",
+            "duration": 14291.0,
+            "title": "[김소희 국회의원] 불법파업조장법 필리버스터 풀버전",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:51.477472"
+    "exported_at": "2026-01-15T18:29:37.406164"
 }

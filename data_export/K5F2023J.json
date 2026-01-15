@@ -58,33 +58,29 @@
     "analysis": {
         "keywords": [
             "부의",
-            "필리버스터",
-            "민주당",
+            "지역",
             "대표",
             "지구",
-            "의장",
             "기자회견",
+            "민주당",
             "일정",
             "부당",
             "노동",
             "행위",
+            "법안",
             "경기도",
             "군포시",
-            "산본",
-            "선도"
+            "의장",
+            "산본"
         ],
         "keyword_frequency": [
             {
                 "text": "부의",
-                "value": 18
-            },
-            {
-                "text": "필리버스터",
                 "value": 13
             },
             {
-                "text": "민주당",
-                "value": 12
+                "text": "지역",
+                "value": 10
             },
             {
                 "text": "대표",
@@ -95,12 +91,12 @@
                 "value": 10
             },
             {
-                "text": "의장",
+                "text": "기자회견",
                 "value": 9
             },
             {
-                "text": "기자회견",
-                "value": 9
+                "text": "민주당",
+                "value": 8
             },
             {
                 "text": "일정",
@@ -119,6 +115,10 @@
                 "value": 8
             },
             {
+                "text": "법안",
+                "value": 7
+            },
+            {
                 "text": "경기도",
                 "value": 7
             },
@@ -127,37 +127,78 @@
                 "value": 7
             },
             {
-                "text": "산본",
+                "text": "의장",
                 "value": 7
             },
             {
-                "text": "선도",
+                "text": "산본",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:12.235209",
+        "last_analyzed_at": "2026-01-15T18:29:59.519284",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 0,
                 0,
                 1,
                 3,
                 6,
-                1
+                4,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad93297082fcc2b18d24",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105270?sid=102",
+            "created_at": "2026-01-15T18:04:16.445000",
+            "description": "\"] 이런 상황에서 지난달 2일, ‘지역의사제 법안’이 국회 본회의를 통과했습니다. [이학영/국회부의장... [김윤/의원/국회 보건복지위원회 : \"지역 필수의료 붕괴의 원인은 지역의 의사가 부족하다는 것에서 출발합니다.... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459318&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T21:59:00",
+            "related_members": [
+                "5N65159P",
+                "K5F2023J"
+            ],
+            "title": "[찾아가는K] ‘응급실 운영할수록 적자’ 붕괴 직전 지역의료"
+        },
+        {
+            "_id": "6968ad93297082fcc2b18d25",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105096?sid=102",
+            "created_at": "2026-01-15T18:04:16.445000",
+            "description": "\"] 이런 상황에서 지난달 2일, ‘지역의사제 법안’이 국회 본회의를 통과했습니다. [이학영/국회부의장... [김윤/의원/국회 보건복지위원회 : \"지역 필수의료 붕괴의 원인은 지역의 의사가 부족하다는 것에서 출발합니다.... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459105&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T19:38:00",
+            "related_members": [
+                "5N65159P",
+                "K5F2023J"
+            ],
+            "title": "[찾아가는K] 응급실 운영할수록 ‘적자’…붕괴 직전 지역의료"
+        },
+        {
+            "_id": "6968adc1297082fcc2b18dc3",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097685?sid=102",
+            "created_at": "2026-01-15T18:05:02.192000",
+            "description": "노동부는 국회 지적을 수용해 비공개로 개편했다. 문체부와 해수부도 현재는 비공개로 전환된 상태다. 노동부는 민원이 많기로 유명한 부처다. 더불어민주당 이학영 의원실에 따르면 2021년부터 지난해 8월까지 노동부에... ",
+            "originallink": "https://www.segye.com/newsView/20260114516455?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-14T18:27:00",
+            "related_members": [
+                "K5F2023J"
+            ],
+            "title": "[단독] 노동부 홈페이지, 직원 이름 비공개 전환"
+        },
         {
             "_id": "6966ec96887d07f7ba2fb2fe",
             "link": "https://n.news.naver.com/mnews/article/079/0004104776?sid=102",
@@ -191,19 +232,6 @@
             "title": "국회 “법? 다해줄게”·중기부 장관 “휴~”… 훈훈했던 ‘중기 신년회..."
         },
         {
-            "_id": "6966ecae887d07f7ba2fb326",
-            "link": "https://n.news.naver.com/mnews/article/421/0008711309?sid=102",
-            "created_at": "2026-01-14T10:09:03.198000",
-            "description": "이날 간담회에는 이학영 국회 부의장, 하은호 군포시장, 정윤경·성복임·성기황·최효숙·김미숙 경기도의원, 한국토지주택공사(LH) 관계자, 선도지구 주민대표 등이 참석했다. 이학영 국회 부의장은 “산본 9-2지구와... ",
-            "originallink": "https://www.news1.kr/local/gyeonggi/6037360",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T14:19:00",
-            "related_members": [
-                "K5F2023J"
-            ],
-            "title": "김동연 “산본, 모범적인 1기신도시 선도지구로 만들 것”"
-        },
-        {
             "_id": "6966ecae887d07f7ba2fb325",
             "link": "https://n.news.naver.com/mnews/article/011/0004578077?sid=102",
             "created_at": "2026-01-14T10:09:03.198000",
@@ -217,6 +245,19 @@
             "title": "김동연 \"군포산본 정비사업, 모범 선도지구 되도록 최선\""
         },
         {
+            "_id": "6966ecae887d07f7ba2fb326",
+            "link": "https://n.news.naver.com/mnews/article/421/0008711309?sid=102",
+            "created_at": "2026-01-14T10:09:03.198000",
+            "description": "이날 간담회에는 이학영 국회 부의장, 하은호 군포시장, 정윤경·성복임·성기황·최효숙·김미숙 경기도의원, 한국토지주택공사(LH) 관계자, 선도지구 주민대표 등이 참석했다. 이학영 국회 부의장은 “산본 9-2지구와... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6037360",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T14:19:00",
+            "related_members": [
+                "K5F2023J"
+            ],
+            "title": "김동연 “산본, 모범적인 1기신도시 선도지구로 만들 것”"
+        },
+        {
             "_id": "6966ecae887d07f7ba2fb327",
             "link": "https://n.news.naver.com/mnews/article/015/0005236423?sid=102",
             "created_at": "2026-01-14T10:09:03.198000",
@@ -228,30 +269,6 @@
                 "K5F2023J"
             ],
             "title": "김동연 지사, 군포 산본 방문...“1기 신도시 정비, 경기도가 적극 지원..."
-        },
-        {
-            "_id": "696594a6887d07f7ba2fab3b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
-            "created_at": "2026-01-13T09:41:09.070000",
-            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T05:00:00",
-            "related_members": [
-                "NB64509Z",
-                "CC78321E",
-                "3UI95829",
-                "DWK26447",
-                "3TP65086",
-                "1WE5693J",
-                "6AU2417B",
-                "VRY5522V",
-                "K5F2023J",
-                "8348421R",
-                "9HE7226N",
-                "KNP22261"
-            ],
-            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
         },
         {
             "_id": "696594a6887d07f7ba2fab3c",
@@ -276,6 +293,30 @@
                 "KNP22261"
             ],
             "title": "[오늘의 국회일정] (13일, 화)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
         },
         {
             "_id": "6964b541631fd17434995fe0",
@@ -377,7 +418,7 @@
             "_id": "6964b547631fd17434996081",
             "link": "https://n.news.naver.com/mnews/article/009/0005617318?sid=100",
             "created_at": "2026-01-12T17:48:04.685000",
-            "description": "6일 오기형 민주당 의원은 국회에서 기자회견을 열고 대규모 소비자 피해를 구제하기 위해 개인정보 유출... 백혜련·박주민·전용기·이학영 민주당 의원이 관련 법안을 마련한 상태다. 오 의원은 “쿠팡이 오만한 이유는... ",
+            "description": "6일 오기형 민주당 의원은 국회에서 기자회견을 열고 대규모 소비자 피해를 구제하기 위해 개인정보 유출·소비재 분쟁 등 분야로 집단소송 범위를 넓히는 집단소송법안을 발의했다고 밝혔다. 오 의원은 “쿠팡 사태... ",
             "originallink": "https://www.mk.co.kr/article/11924683",
             "press": "매일경제",
             "pubDate": "2026-01-06T16:20:00",
@@ -460,50 +501,6 @@
                 "8Q88373R"
             ],
             "title": "[정치ON] 김병기 \"보좌진 선의\"...한동훈 \"그게 바로 뇌물\""
-        },
-        {
-            "_id": "6964b57f631fd174349963ff",
-            "link": "https://n.news.naver.com/mnews/article/052/0002291709?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "필리버스터로 국회의원들 스스로도 피곤합니다. 이학영 부의장이 찍은 페이스북 SNS의 내용을 보니까 한 분도 안 계세요, 본회의장에. 그런 상황에서 누구를 위해서 왜 하는지도 모르고 그 시간만 지나면 통과되는 그런... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202512241211257915",
-            "press": "YTN",
-            "pubDate": "2025-12-24T12:11:00",
-            "related_members": [
-                "K5F2023J",
-                "8SV6917G"
-            ],
-            "title": "[시사정각] 여야 필리버스터 대전...'주호영 사회 거부' 여야 충돌로 이..."
-        },
-        {
-            "_id": "6964b57f631fd17434996400",
-            "link": "https://n.news.naver.com/mnews/article/032/0003417242?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "이 의원은 이날 국회에서 열린 민주당 최고위원회의에서 “주 부의장이 헌법 정신을 정면으로 위배하고... 주 부의장이 자당이 주도하는 필리버스터 사회를 계속해서 보지 않자 우 의장과 민주당 소속 이학영 부의장에게... ",
-            "originallink": "https://www.khan.co.kr/article/202512241126001",
-            "press": "경향신문",
-            "pubDate": "2025-12-24T11:26:00",
-            "related_members": [
-                "JG77046J",
-                "K5F2023J",
-                "8SV6917G"
-            ],
-            "title": "민주당 이언주 “‘필리버스터 사회 거부’ 주호영 부의장, 그 자체로 ..."
-        },
-        {
-            "_id": "6964b57f631fd17434996401",
-            "link": "https://n.news.naver.com/mnews/article/056/0012092172?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "지금 이학영 부의장 또 우원식 의장 이 두 분이 돌아가면서 하는데 법으로 따지면 노동법 위반입니다. 너무... 내용인지를 국회의원들 중에 누구보다도 제일 잘 알고 있는 분이기 때문에 그 부분에 대한 설명을 한 게 굉장히... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8441707&ref=A",
-            "press": "KBS",
-            "pubDate": "2025-12-24T10:29:00",
-            "related_members": [
-                "XBT9550Q",
-                "C7E79345",
-                "K5F2023J"
-            ],
-            "title": "[전격시사] “통일교 특검법 급물살” (권칠승) “지지층 여론 높아, ‘..."
         }
     ],
     "recent_videos": [
@@ -552,19 +549,9 @@
             "url": "https://www.youtube.com/watch?v=jxMnHeOB_9U",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-14T10:22:41.711000",
+            "collected_at": "2026-01-15T18:22:20.683000",
             "duration": 1358.0,
             "title": "이학영 의원 국회의원 25시 187회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad9f631fd1743497db04",
-            "url": "https://www.youtube.com/watch?v=fRw0zjob22U",
-            "HG_NM": "이학영",
-            "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-14T10:22:41.711000",
-            "duration": 70.0,
-            "title": "160228_국회의원이학영 필리버스터_02",
             "upload_date": null
         },
         {
@@ -578,16 +565,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad9f631fd1743497db02",
-            "url": "https://www.youtube.com/watch?v=UClztZIVGP1NmO7E8ZvKDwKg",
-            "HG_NM": "이학영",
-            "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-14T10:22:41.711000",
-            "duration": null,
-            "title": "이학영TV",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad9f631fd1743497db03",
             "url": "https://www.youtube.com/watch?v=U-8hXFywSrQ",
             "HG_NM": "이학영",
@@ -595,6 +572,26 @@
             "collected_at": "2026-01-14T10:22:41.711000",
             "duration": 192.0,
             "title": "국회의원 이학영이 말해주는 의정활동",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad9f631fd1743497db02",
+            "url": "https://www.youtube.com/watch?v=UClztZIVGP1NmO7E8ZvKDwKg",
+            "HG_NM": "이학영",
+            "MONA_CD": "K5F2023J",
+            "collected_at": "2026-01-15T18:22:20.683000",
+            "duration": null,
+            "title": "이학영TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad9f631fd1743497db04",
+            "url": "https://www.youtube.com/watch?v=fRw0zjob22U",
+            "HG_NM": "이학영",
+            "MONA_CD": "K5F2023J",
+            "collected_at": "2026-01-14T10:22:41.711000",
+            "duration": 70.0,
+            "title": "160228_국회의원이학영 필리버스터_02",
             "upload_date": null
         },
         {
@@ -608,5 +605,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:12.235209"
+    "exported_at": "2026-01-15T18:29:59.519284"
 }

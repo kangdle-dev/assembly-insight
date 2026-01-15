@@ -47,6 +47,7 @@
             "경찰",
             "시장",
             "총재",
+            "국민",
             "회장",
             "박완수",
             "청장",
@@ -54,9 +55,8 @@
             "한국인",
             "최초",
             "출신",
-            "국민",
             "정부",
-            "김산"
+            "의총"
         ],
         "keyword_frequency": [
             {
@@ -78,6 +78,10 @@
             {
                 "text": "총재",
                 "value": 8
+            },
+            {
+                "text": "국민",
+                "value": 7
             },
             {
                 "text": "회장",
@@ -108,41 +112,73 @@
                 "value": 6
             },
             {
-                "text": "국민",
-                "value": 6
-            },
-            {
                 "text": "정부",
                 "value": 6
             },
             {
-                "text": "김산",
-                "value": 4
+                "text": "의총",
+                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:54.244958",
+        "last_analyzed_at": "2026-01-15T18:29:40.297034",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 1,
                 0,
                 0,
                 0,
                 0,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad96297082fcc2b18d2b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716559?sid=100",
+            "created_at": "2026-01-15T18:04:19.023000",
+            "description": "복수의 참석자에 따르면 이날 오전 국회에서 열린 비공개 의원총회에서 발언에 나선 대다수 의원은 윤리위... 친한계 정성국 의원은 \"(의총 내에서) '지각한 학생을 퇴학시키려는 상황 아니겠나'라는 표현을 하신 분도... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040343",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:13:00",
+            "related_members": [
+                "N378078V",
+                "QWL7778X",
+                "YOG1280B",
+                "MSY7784L",
+                "ZRF3039U",
+                "KFM1081G",
+                "CGW7415Z"
+            ],
+            "title": "\"지각생 퇴학시키나\" 韓 제명, 의총서 우려…張 절차적 '명분 쌓기'"
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cda",
+            "link": "https://n.news.naver.com/mnews/article/003/0013712557?sid=100",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "윤상현 국민의힘 의원은 이날 국회에서 열린 의원총회 도중 기자들과 만나 비공개로 진행된 의원총회에서... 조경태 의원은 \"이렇게 하는 행위는 올바른 행위가 아니다. 지금은 통합과 단합의 시간\"이라며 \"한 전 대표... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478165",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T13:12:00",
+            "related_members": [
+                "LYY5513O",
+                "MSY7784L",
+                "N378078V",
+                "QWL7778X",
+                "5KV82250"
+            ],
+            "title": "국힘, 의총서 \"한동훈 제명 철회해야\" \"지금은 내 탓 할 때\""
+        },
         {
             "_id": "6964b553631fd1743499617b",
             "link": "https://n.news.naver.com/mnews/article/003/0013702498?sid=102",
@@ -208,7 +244,7 @@
             "url": "https://www.youtube.com/watch?v=T7bsItoSdDk",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-01-14T10:16:47.662000",
+            "collected_at": "2026-01-15T18:16:00.860000",
             "duration": 99.0,
             "title": "김종양 전 경기청장, 인터폴 총재 선출… 한국인 최초 / KBS뉴스(News)",
             "upload_date": null
@@ -224,26 +260,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac3a631fd1743497d591",
-            "url": "https://www.youtube.com/watch?v=HccSemnzYcE",
-            "HG_NM": "김종양",
-            "MONA_CD": "N378078V",
-            "collected_at": "2026-01-14T10:16:47.662000",
-            "duration": 69.0,
-            "title": "[속보] 인터폴 총재에 한국인 최초 김종양 부총재 당선 / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3a631fd1743497d590",
-            "url": "https://www.youtube.com/watch?v=x8EkS3lNSqw",
-            "HG_NM": "김종양",
-            "MONA_CD": "N378078V",
-            "collected_at": "2026-01-09T16:20:22.698000",
-            "duration": 154.0,
-            "title": "\"진입 안 막고 길 터주는 경찰!\" 영상 틀자…\"본인 경찰 출신이잖아요!\" 김종양 의원 향해 쏟아진 비판 (현장영상) / SBS",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac3a631fd1743497d58e",
             "url": "https://www.youtube.com/watch?v=eO7FEgzO4ho",
             "HG_NM": "김종양",
@@ -254,13 +270,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac3a631fd1743497d58c",
-            "url": "https://www.youtube.com/watch?v=QYO3by3jP90",
+            "_id": "6960ac3a631fd1743497d591",
+            "url": "https://www.youtube.com/watch?v=HccSemnzYcE",
+            "HG_NM": "김종양",
+            "MONA_CD": "N378078V",
+            "collected_at": "2026-01-15T18:16:00.860000",
+            "duration": 69.0,
+            "title": "[속보] 인터폴 총재에 한국인 최초 김종양 부총재 당선 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3a631fd1743497d58f",
+            "url": "https://www.youtube.com/watch?v=sOp6TGkg9Uw",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
             "collected_at": "2026-01-14T10:16:46.983000",
-            "duration": 1010.0,
-            "title": "\"탄핵 남발, 보복성 예산삭감! 무정부 상태가 내란 획책 아닌가?\" 김종양 국민의힘 의원 | 대정부질문 (25.2.14.) | 국회방송",
+            "duration": 331.0,
+            "title": "국민의힘 김종양 의원1 11 2 합 민주당의 장외 집회와 폭행 경찰 청장의 일방적 사과 강요 및 파행에 대한 비판",
             "upload_date": null
         },
         {
@@ -274,16 +300,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac3a631fd1743497d58a",
-            "url": "https://www.youtube.com/watch?v=9za3TWNFIgg",
-            "HG_NM": "김종양",
-            "MONA_CD": "N378078V",
-            "collected_at": "2026-01-14T10:16:46.983000",
-            "duration": 215.0,
-            "title": "김종양 \"李 정부 요직, 반미인사 너무 많다\" [티조Clip]",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac3a631fd1743497d58b",
             "url": "https://www.youtube.com/watch?v=am93vZyW_Ac",
             "HG_NM": "김종양",
@@ -294,15 +310,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac3a631fd1743497d58f",
-            "url": "https://www.youtube.com/watch?v=sOp6TGkg9Uw",
+            "_id": "6960ac3a631fd1743497d58a",
+            "url": "https://www.youtube.com/watch?v=9za3TWNFIgg",
+            "HG_NM": "김종양",
+            "MONA_CD": "N378078V",
+            "collected_at": "2026-01-15T18:16:00.102000",
+            "duration": 215.0,
+            "title": "김종양 \"李 정부 요직, 반미인사 너무 많다\" [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3a631fd1743497d58c",
+            "url": "https://www.youtube.com/watch?v=QYO3by3jP90",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
             "collected_at": "2026-01-14T10:16:46.983000",
-            "duration": 331.0,
-            "title": "국민의힘 김종양 의원1 11 2 합 민주당의 장외 집회와 폭행 경찰 청장의 일방적 사과 강요 및 파행에 대한 비판",
+            "duration": 1010.0,
+            "title": "\"탄핵 남발, 보복성 예산삭감! 무정부 상태가 내란 획책 아닌가?\" 김종양 국민의힘 의원 | 대정부질문 (25.2.14.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3a631fd1743497d590",
+            "url": "https://www.youtube.com/watch?v=x8EkS3lNSqw",
+            "HG_NM": "김종양",
+            "MONA_CD": "N378078V",
+            "collected_at": "2026-01-09T16:20:22.698000",
+            "duration": 154.0,
+            "title": "\"진입 안 막고 길 터주는 경찰!\" 영상 틀자…\"본인 경찰 출신이잖아요!\" 김종양 의원 향해 쏟아진 비판 (현장영상) / SBS",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:54.244958"
+    "exported_at": "2026-01-15T18:29:40.297034"
 }

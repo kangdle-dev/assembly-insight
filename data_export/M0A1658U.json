@@ -63,45 +63,69 @@
     "analysis": {
         "keywords": [
             "민주당",
-            "대통령",
-            "원내대표",
-            "통합",
             "위원장",
-            "다시",
+            "통합",
+            "원내대표",
+            "대통령",
+            "대표",
+            "한병도",
+            "프로필",
+            "전략",
+            "김병기",
+            "전북",
+            "익산",
             "당시",
             "장관",
-            "쇄신",
-            "현안",
-            "대표",
-            "협치",
-            "발의",
-            "방명록",
-            "사과"
+            "쇄신"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
+                "value": 15
+            },
+            {
+                "text": "위원장",
                 "value": 10
+            },
+            {
+                "text": "통합",
+                "value": 9
+            },
+            {
+                "text": "원내대표",
+                "value": 8
             },
             {
                 "text": "대통령",
                 "value": 8
             },
             {
-                "text": "원내대표",
-                "value": 7
-            },
-            {
-                "text": "통합",
-                "value": 7
-            },
-            {
-                "text": "위원장",
-                "value": 7
-            },
-            {
-                "text": "다시",
+                "text": "대표",
                 "value": 6
+            },
+            {
+                "text": "한병도",
+                "value": 5
+            },
+            {
+                "text": "프로필",
+                "value": 4
+            },
+            {
+                "text": "전략",
+                "value": 4
+            },
+            {
+                "text": "김병기",
+                "value": 4
+            },
+            {
+                "text": "전북",
+                "value": 4
+            },
+            {
+                "text": "익산",
+                "value": 4
             },
             {
                 "text": "당시",
@@ -114,55 +138,46 @@
             {
                 "text": "쇄신",
                 "value": 4
-            },
-            {
-                "text": "현안",
-                "value": 4
-            },
-            {
-                "text": "대표",
-                "value": 4
-            },
-            {
-                "text": "협치",
-                "value": 4
-            },
-            {
-                "text": "발의",
-                "value": 4
-            },
-            {
-                "text": "방명록",
-                "value": 4
-            },
-            {
-                "text": "사과",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:07.960032",
+        "last_analyzed_at": "2026-01-15T18:29:55.012513",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                2,
                 0,
                 0,
                 1,
                 0,
                 0,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad8c297082fcc2b18d0a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013713076?sid=100",
+            "created_at": "2026-01-15T18:04:09.464000",
+            "description": "신재현 한은진 기자 = 한병도 더불어민주당 원내대표가 15일 신임 운영위원장으로 선출됐다. 김병기 전... ▲1967년 전북 익산 출생 ▲ 원광대 신문방송학과 ▲제17대·21대·22대 국회의원(3선·전북 익산갑) ▲열린우리당... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478478",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T15:20:00",
+            "related_members": [
+                "H5476989",
+                "8Q88373R",
+                "M0A1658U"
+            ],
+            "title": "[프로필]한병도 운영위원장 선출…정무수석 출신 '전략통'"
+        },
         {
             "_id": "6964b574631fd17434996378",
             "link": "https://n.news.naver.com/mnews/article/003/0013703786?sid=100",
@@ -273,6 +288,28 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960a7bb631fd1743497d173",
+            "url": "https://www.youtube.com/watch?v=gQ681gTNaHc",
+            "HG_NM": "윤호중",
+            "MONA_CD": "M0A1658U",
+            "collected_at": "2026-01-09T16:01:04.334000",
+            "duration": 6736.0,
+            "source": "SBS뉴스",
+            "title": "다시보는 주영진의 뉴스브리핑｜4/22(목) - 윤호중, 현충원서 무릎 꿇고 방명록에는 \"피해자님께 사과\"…왜? / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a7bb631fd1743497d174",
+            "url": "https://www.youtube.com/watch?v=Vd5fJ0TEiFA",
+            "HG_NM": "윤호중",
+            "MONA_CD": "M0A1658U",
+            "collected_at": "2026-01-09T16:01:04.334000",
+            "duration": 1124.0,
+            "source": "SBS뉴스",
+            "title": "박지현 \"당 후보들 · 윤호중에 사과…쇄신안 꼭 필요\" / SBS / 주영진의 뉴스브리핑",
+            "upload_date": null
+        },
+        {
             "_id": "6960a7bb631fd1743497d16f",
             "url": "https://www.youtube.com/watch?v=v_EJmKanuJA",
             "HG_NM": "윤호중",
@@ -284,58 +321,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7bb631fd1743497d176",
-            "url": "https://www.youtube.com/watch?v=YtC-fguYk0w",
-            "HG_NM": "윤호중",
-            "MONA_CD": "M0A1658U",
-            "collected_at": "2026-01-09T16:01:05.107000",
-            "duration": 12573.0,
-            "source": "JTBC News",
-            "title": "[다시보기] 윤호중 \"오송 참사, 내년 2월까지 원인조사 마칠 것\"-9월 10일 (수) 풀영상 [이슈현장] / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a7bb631fd1743497d17b",
-            "url": "https://www.youtube.com/watch?v=Ne7y76KPCUc",
-            "HG_NM": "윤호중",
-            "MONA_CD": "M0A1658U",
-            "collected_at": "2026-01-09T16:01:05.107000",
-            "duration": 657.0,
-            "source": "JTBC News",
-            "title": "\"반성하고 쇄신\" '윤호중 비대위' 출범, 우려 입장도 나오는데… / JTBC 3시 썰전라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a7bb631fd1743497d182",
-            "url": "https://www.youtube.com/watch?v=n2bH1HTVs3Y",
-            "HG_NM": "윤호중",
-            "MONA_CD": "M0A1658U",
-            "collected_at": "2026-01-09T16:01:08.249000",
-            "duration": 1314.0,
-            "source": "국회방송",
-            "title": "국회방송 뉴스N | [파워인터뷰] 윤호중 더불어민주당 원내대표 (국회 운영위원장)- 2021년 12월 27일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a7bb631fd1743497d17e",
-            "url": "https://www.youtube.com/watch?v=278QasiBOpY",
-            "HG_NM": "윤호중",
-            "MONA_CD": "M0A1658U",
-            "collected_at": "2026-01-09T16:01:05.907000",
-            "duration": 368.0,
-            "source": "YTN",
-            "title": "[나이트포커스] 윤호중의 '방명록 사과' / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a7bb631fd1743497d173",
-            "url": "https://www.youtube.com/watch?v=gQ681gTNaHc",
+            "_id": "6960a7bb631fd1743497d172",
+            "url": "https://www.youtube.com/watch?v=SYA_6fe85cc",
             "HG_NM": "윤호중",
             "MONA_CD": "M0A1658U",
             "collected_at": "2026-01-09T16:01:04.334000",
-            "duration": 6736.0,
+            "duration": 639.0,
             "source": "SBS뉴스",
-            "title": "다시보는 주영진의 뉴스브리핑｜4/22(목) - 윤호중, 현충원서 무릎 꿇고 방명록에는 \"피해자님께 사과\"…왜? / SBS",
+            "title": "민주당도 '돈키호테 발언' 논란…통합당, 윤호중 고소 / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a7bb631fd1743497d170",
+            "url": "https://www.youtube.com/watch?v=XXL0wbgH_Po",
+            "HG_NM": "윤호중",
+            "MONA_CD": "M0A1658U",
+            "collected_at": "2026-01-09T16:01:03.529000",
+            "duration": 2849.0,
+            "source": "MBC뉴스",
+            "title": "국회 교섭단체 대표연설 : 더불어민주당 윤호중 원내대표 - [LIVE] MBC 중계방송 2021년 09월 08일",
             "upload_date": null
         },
         {
@@ -361,6 +365,28 @@
             "upload_date": null
         },
         {
+            "_id": "6960a7bb631fd1743497d16b",
+            "url": "https://www.youtube.com/watch?v=YqeWYPjmtvw",
+            "HG_NM": "윤호중",
+            "MONA_CD": "M0A1658U",
+            "collected_at": "2026-01-09T16:01:02.741000",
+            "duration": 546.0,
+            "source": "KBS뉴스",
+            "title": "[LIVE] 윤호중 행정안전부 장관 후보자 출근길 생중계/2025년 6월 30일(월)/KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a7bb631fd1743497d16d",
+            "url": "https://www.youtube.com/watch?v=-ywW2s99jr4",
+            "HG_NM": "윤호중",
+            "MONA_CD": "M0A1658U",
+            "collected_at": "2026-01-09T16:01:02.741000",
+            "duration": 1756.0,
+            "source": "KBS뉴스",
+            "title": "[풀영상] 더불어민주당 윤호중·박지현 선대위원장, 6·1 지방선거 기자회견/5월 31일(화)/KBS",
+            "upload_date": null
+        },
+        {
             "_id": "6960a7bb631fd1743497d171",
             "url": "https://www.youtube.com/watch?v=O3bdx3AlUKk",
             "HG_NM": "윤호중",
@@ -370,18 +396,7 @@
             "source": "SBS뉴스",
             "title": "윤호중 더불어민주당 비대위원장 기자회견 / SBS",
             "upload_date": null
-        },
-        {
-            "_id": "6960a7bb631fd1743497d181",
-            "url": "https://www.youtube.com/watch?v=FMIAyLQthbc",
-            "HG_NM": "윤호중",
-            "MONA_CD": "M0A1658U",
-            "collected_at": "2026-01-09T16:01:08.249000",
-            "duration": 35581.0,
-            "source": "국회방송",
-            "title": "[국회방송 생중계] 2부 - 윤호중 행정안전부장관 후보자 인사청문회 (25.7.18.)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:07.960032"
+    "exported_at": "2026-01-15T18:29:55.012513"
 }

@@ -61,7 +61,7 @@
             "후보",
             "메가시티",
             "재보선",
-            "당선"
+            "국민"
         ],
         "keyword_frequency": [
             {
@@ -70,15 +70,15 @@
             },
             {
                 "text": "인천",
-                "value": 11
+                "value": 13
             },
             {
                 "text": "민주당",
-                "value": 8
+                "value": 12
             },
             {
                 "text": "김교흥",
-                "value": 6
+                "value": 7
             },
             {
                 "text": "미니",
@@ -121,33 +121,48 @@
                 "value": 4
             },
             {
-                "text": "당선",
+                "text": "국민",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:21.225349",
+        "last_analyzed_at": "2026-01-15T18:30:09.056731",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                3,
                 1,
                 0,
                 2,
                 1,
                 0,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad88297082fcc2b18ce5",
+            "link": "https://n.news.naver.com/mnews/article/003/0013712907?sid=102",
+            "created_at": "2026-01-15T18:04:05.621000",
+            "description": "15일 더불어민주당 인천시당에 따르면 이날 고남석 시당위원장과 김교흥, 박찬대, 허종식 국회의원 등은 인천 송도 재외동포청 대회의실에서 김 청장 등 간부들과 면담을 가졌다. 이 자리에서 민주당 의원들은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478371",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T14:45:00",
+            "related_members": [
+                "BT62420K",
+                "VCP96419",
+                "X1K3667J"
+            ],
+            "title": "인천시·민주당 \"재외동포청 서울 이전 없을 것\""
+        },
         {
             "_id": "6964b546631fd17434996068",
             "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
@@ -231,7 +246,7 @@
             "_id": "6964b556631fd174349961be",
             "link": "https://n.news.naver.com/mnews/article/005/0001825057?sid=100",
             "created_at": "2026-01-12T17:48:20.125000",
-            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 의원은 11억원 불법대출 의혹으로 3심이 진행 중이다. 1·2심에서 모두 당선무효형을 선고받았다. 허종식(인천... ",
+            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 전현희 의원 등이 출마를 선언했거나 준비 중이다. 국민의힘에선 나경원·신동욱·조은희·조정훈 의원이... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1767862243&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-09T00:06:00",
@@ -318,7 +333,7 @@
             "url": "https://www.youtube.com/watch?v=Yc43hLDJCos",
             "HG_NM": "허종식",
             "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
+            "collected_at": "2026-01-15T18:25:30.779000",
             "duration": 559.0,
             "title": "[ 허종식 국회의원 국정감사 : 문재인 케어 도입 3년차, 실질적 도움 제공해 ]",
             "upload_date": null
@@ -328,29 +343,9 @@
             "url": "https://www.youtube.com/watch?v=TZ2-ETizCmQ",
             "HG_NM": "허종식",
             "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:19.220000",
+            "collected_at": "2026-01-15T18:25:30.779000",
             "duration": 15791.0,
             "title": "[속보]  윤관석·허종식·임종성 '돈봉투 의혹' 2심 전원 무죄  - [MBC뉴스속보] 2025년 12월 18일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae50631fd1743497dd99",
-            "url": "https://www.youtube.com/watch?v=UC-XStZg-s811-oxy8EbSOOA",
-            "HG_NM": "허종식",
-            "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-13T09:52:50.114000",
-            "duration": null,
-            "title": "동네사람 허종식TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae50631fd1743497dd9a",
-            "url": "https://www.youtube.com/watch?v=OXljynqCKpU",
-            "HG_NM": "허종식",
-            "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-13T09:52:50.114000",
-            "duration": 157.0,
-            "title": "허종식 국회의원 \"전세피해, 신속한 대책 마련이 필요합니다\"",
             "upload_date": null
         },
         {
@@ -358,49 +353,19 @@
             "url": "https://www.youtube.com/watch?v=fNvnNzxoDgs",
             "HG_NM": "허종식",
             "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
+            "collected_at": "2026-01-15T18:25:30.037000",
             "duration": 69.0,
             "title": "허종식 국회의원(초선, 인천미추홀구갑) 더불어 민주당",
             "upload_date": null
         },
         {
-            "_id": "6960ae50631fd1743497dd96",
-            "url": "https://www.youtube.com/watch?v=ajwCiw0wgzY",
+            "_id": "6960ae50631fd1743497dd9a",
+            "url": "https://www.youtube.com/watch?v=OXljynqCKpU",
             "HG_NM": "허종식",
             "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
-            "duration": 109.0,
-            "title": "[허종식 국회의원 후보 공식 로고송] 악어떼",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae50631fd1743497dd95",
-            "url": "https://www.youtube.com/watch?v=S7gh9_IeMo8",
-            "HG_NM": "허종식",
-            "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
-            "duration": 1549.0,
-            "title": "국회의원25시_394회 허종식 의원 편[2021.7. 20]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae50631fd1743497dd93",
-            "url": "https://www.youtube.com/watch?v=1sMnZeln0AQ",
-            "HG_NM": "허종식",
-            "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
-            "duration": 578.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 허종식 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae50631fd1743497dd94",
-            "url": "https://www.youtube.com/watch?v=I_Eubcg5Asg",
-            "HG_NM": "허종식",
-            "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
-            "duration": 192.0,
-            "title": "[허종식 국회의원 후보 공식 로고송] 찐이야_미추홀구",
+            "collected_at": "2026-01-15T18:25:30.037000",
+            "duration": 157.0,
+            "title": "허종식 국회의원 \"전세피해, 신속한 대책 마련이 필요합니다\"",
             "upload_date": null
         },
         {
@@ -408,11 +373,61 @@
             "url": "https://www.youtube.com/watch?v=enzNcepOLVE",
             "HG_NM": "허종식",
             "MONA_CD": "VCP96419",
-            "collected_at": "2026-01-14T10:25:18.538000",
+            "collected_at": "2026-01-15T18:25:30.037000",
             "duration": 412.0,
             "title": "\"전세사기도 전정부 탓?\" 허종식 \"부동산 자신 없으면 정권 돌려줘! 우리가 해결할게!\"",
             "upload_date": null
+        },
+        {
+            "_id": "6960ae50631fd1743497dd96",
+            "url": "https://www.youtube.com/watch?v=ajwCiw0wgzY",
+            "HG_NM": "허종식",
+            "MONA_CD": "VCP96419",
+            "collected_at": "2026-01-15T18:25:30.037000",
+            "duration": 109.0,
+            "title": "[허종식 국회의원 후보 공식 로고송] 악어떼",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae50631fd1743497dd94",
+            "url": "https://www.youtube.com/watch?v=I_Eubcg5Asg",
+            "HG_NM": "허종식",
+            "MONA_CD": "VCP96419",
+            "collected_at": "2026-01-15T18:25:30.037000",
+            "duration": 192.0,
+            "title": "[허종식 국회의원 후보 공식 로고송] 찐이야_미추홀구",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae50631fd1743497dd93",
+            "url": "https://www.youtube.com/watch?v=1sMnZeln0AQ",
+            "HG_NM": "허종식",
+            "MONA_CD": "VCP96419",
+            "collected_at": "2026-01-15T18:25:30.037000",
+            "duration": 578.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 허종식 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae50631fd1743497dd95",
+            "url": "https://www.youtube.com/watch?v=S7gh9_IeMo8",
+            "HG_NM": "허종식",
+            "MONA_CD": "VCP96419",
+            "collected_at": "2026-01-15T18:25:30.037000",
+            "duration": 1549.0,
+            "title": "국회의원25시_394회 허종식 의원 편[2021.7. 20]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae50631fd1743497dd99",
+            "url": "https://www.youtube.com/watch?v=UC-XStZg-s811-oxy8EbSOOA",
+            "HG_NM": "허종식",
+            "MONA_CD": "VCP96419",
+            "collected_at": "2026-01-15T18:25:30.037000",
+            "duration": null,
+            "title": "동네사람 허종식TV",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:21.225349"
+    "exported_at": "2026-01-15T18:30:09.056731"
 }

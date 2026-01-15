@@ -146,7 +146,7 @@ function renderNews(news) {
     news.slice(0, 10).forEach(item => {
         const domain = new URL(item.originallink || item.link).hostname;
         const favicon = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
-        list.innerHTML += `<li class="p-5 active:bg-slate-50 transition-colors"><a href="${item.link}" target="_blank" class="block"><div class="flex items-center gap-2 mb-2"><img src="${favicon}" class="w-3 h-3 rounded-sm opacity-70"><span class="text-[10px] font-bold text-slate-400 uppercase tracking-tight">${item.press || 'Media'}</span><span class="text-[10px] text-slate-200">|</span><span class="text-[10px] text-slate-300">${formatDate(item.pubDate)}</span></div><h4 class="text-sm font-bold text-slate-800 leading-snug break-all">${item.title.replace(/<[^>]*>?/gm, '')}</h4></a></li>`;
+        list.innerHTML += `<li class="p-5 active:bg-slate-50 transition-colors"><a href="${item.link}" target="_blank" class="block"><div class="flex items-center gap-2 mb-2"><img src="${favicon}" class="w-3 h-3 rounded-sm opacity-70"><span class="text-[12px] font-bold text-slate-400 uppercase tracking-tight">${item.press || 'Media'}</span><span class="text-[12px] text-slate-200">|</span><span class="text-[12px] text-slate-500">${formatDate(item.pubDate)}</span></div><h4 class="text-sm font-bold text-slate-800 leading-snug break-all">${item.title.replace(/<[^>]*>?/gm, '')}</h4></a></li>`;
     });
 }
 
@@ -155,7 +155,7 @@ function renderVideos(videos) {
     if (!videos || videos.length === 0) return document.getElementById('no-videos').classList.remove('hidden');
     videos.slice(0, 10).forEach(v => {
         const videoId = v.url.split('v=')[1];
-        container.innerHTML += `<a href="${v.url}" target="_blank" class="flex gap-4 group"><div class="w-24 h-16 rounded-2xl overflow-hidden flex-shrink-0 shadow-sm relative"><img src="https://img.youtube.com/vi/${videoId}/mqdefault.jpg" class="w-full h-full object-cover"><div class="absolute inset-0 bg-black/10 flex items-center justify-center"><i class="fa-solid fa-play text-white text-xs opacity-80"></i></div></div><div class="flex flex-col justify-center"><h4 class="text-[11px] font-bold text-slate-800 line-clamp-2 leading-tight mb-1 group-active:text-blue-600 transition-colors">${v.title}</h4><span class="text-[9px] text-slate-400 font-medium tracking-tight uppercase">${formatDate(v.collected_at)}</span></div></a>`;
+        container.innerHTML += `<a href="${v.url}" target="_blank" class="flex gap-4 group"><div class="w-24 h-16 rounded-2xl overflow-hidden flex-shrink-0 shadow-sm relative"><img src="https://img.youtube.com/vi/${videoId}/mqdefault.jpg" class="w-full h-full object-cover"><div class="absolute inset-0 bg-black/10 flex items-center justify-center"><i class="fa-solid fa-play text-white text-xs opacity-80"></i></div></div><div class="flex flex-col justify-center"><h4 class="text-[14px] font-bold text-slate-800 line-clamp-2 leading-tight mb-1 group-active:text-blue-600 transition-colors">${v.title}</h4><span class="text-[12px] text-slate-400 font-medium tracking-tight uppercase">${formatDate(v.collected_at)}</span></div></a>`;
     });
 }
 

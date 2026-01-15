@@ -50,23 +50,23 @@
             "국민",
             "인사",
             "후보자",
-            "포럼",
+            "위원장",
             "이혜훈",
             "일정",
-            "반도체",
+            "토론회",
             "단독",
-            "위원장",
+            "대구",
+            "포럼",
+            "본관",
             "영종도",
-            "전략",
-            "주권",
-            "좌우",
-            "의혹",
-            "대구"
+            "대구시",
+            "지역",
+            "참석"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 14
+                "value": 17
             },
             {
                 "text": "인사",
@@ -77,8 +77,8 @@
                 "value": 10
             },
             {
-                "text": "포럼",
-                "value": 10
+                "text": "위원장",
+                "value": 8
             },
             {
                 "text": "이혜훈",
@@ -89,7 +89,7 @@
                 "value": 8
             },
             {
-                "text": "반도체",
+                "text": "토론회",
                 "value": 7
             },
             {
@@ -97,7 +97,15 @@
                 "value": 7
             },
             {
-                "text": "위원장",
+                "text": "대구",
+                "value": 6
+            },
+            {
+                "text": "포럼",
+                "value": 6
+            },
+            {
+                "text": "본관",
                 "value": 6
             },
             {
@@ -105,49 +113,76 @@
                 "value": 6
             },
             {
-                "text": "전략",
+                "text": "대구시",
                 "value": 5
             },
             {
-                "text": "주권",
+                "text": "지역",
                 "value": 5
             },
             {
-                "text": "좌우",
-                "value": 5
-            },
-            {
-                "text": "의혹",
-                "value": 5
-            },
-            {
-                "text": "대구",
+                "text": "참석",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:10.514284",
+        "last_analyzed_at": "2026-01-15T18:29:57.686757",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 3,
                 1,
                 1,
                 0,
                 7,
-                0
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968adbd297082fcc2b18daa",
+            "link": "https://n.news.naver.com/mnews/article/382/0001248209?sid=102",
+            "created_at": "2026-01-15T18:04:58.062000",
+            "description": "이날 간담회에는 이인선 시당위원장(대구 수성구을 국회의원)을 비롯한 시당 대변인단과 지역 주요 언론 관계자들이 참석해 지역 현안에 대한 의견을 나누고 긴밀한 소통 체계를 구축하기로 뜻을 모았다. 이인선 위원장은... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260115/133160631/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-15T09:00:00",
+            "related_members": [
+                "DWK26447"
+            ],
+            "title": "국민의힘 대구시당, 지역 언론과 소통 강화 위한 간담회…“정론직필로..."
+        },
+        {
+            "_id": "6968ad8a297082fcc2b18cf7",
+            "link": "https://n.news.naver.com/mnews/article/016/0002585800?sid=100",
+            "created_at": "2026-01-15T18:04:07.359000",
+            "description": "이어 “역사를 정치적으로 흔드는 것이 아니라, 제도와 원칙에 입각해 바로 세우는 것이 국회의 책무”라고 밝혔다. 한기호 의원은 “국방과 안보를 책임지는 국회가 보훈의 원칙과 기준을 분명히 세우는 것은 매우 중요한... ",
+            "originallink": "https://biz.heraldcorp.com/article/10655539?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-14T15:32:00",
+            "related_members": [
+                "OSV9142K",
+                "DWK26447",
+                "JQA21112",
+                "KBK8836C",
+                "3NI5978A",
+                "RAJ1024Z",
+                "ANS8383S",
+                "A0P4646G",
+                "TCP9838Y",
+                "MSY7784L"
+            ],
+            "title": "윤상현 의원, 국가보훈제도 판단 기준 점검 토론회 개최"
+        },
         {
             "_id": "6966ecaa887d07f7ba2fb31f",
             "link": "https://n.news.naver.com/mnews/article/005/0001825915?sid=101",
@@ -191,34 +226,28 @@
             "title": "국회 AI 포럼 “AI 반도체는 미래 주권을 좌우하는 핵심 전략 자산”"
         },
         {
-            "_id": "696594be887d07f7ba2fab57",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706319?sid=100",
-            "created_at": "2026-01-13T09:41:32.758000",
-            "description": "10:00 국회 AI 포럼(이인선 의원 등) 주최 &lt;국회 인공지능 포럼 초청강연 ‘AI 반도체 전쟁, 대한민국의 생존전략’&gt;(국회 의원회관 제2세미나실) 14:00 국회의원-당협위원장 연석회의 및 의원총회(국회 본관... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003474228",
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
             "press": "뉴시스",
             "pubDate": "2026-01-13T05:00:00",
             "related_members": [
-                "80C5885Z",
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
                 "DWK26447",
-                "H5476989"
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
             ],
-            "title": "[오늘의 주요일정]정치(1월13일 화요일)"
-        },
-        {
-            "_id": "696594be887d07f7ba2fab56",
-            "link": "https://n.news.naver.com/mnews/article/421/0008709926?sid=100",
-            "created_at": "2026-01-13T09:41:32.758000",
-            "description": "10:00 국회 AI 포럼(이인선 의원 등) 주최 &lt;국회 인공지능 포럼 초청강연 ‘AI 반도체 전쟁, 대한민국의 생존전략’&gt; (국회 의원회관 제2세미나실) 14:00 국회의원-당협위원장 연석회의 및 의원총회 16:30 매일신문... ",
-            "originallink": "https://www.news1.kr/politics/president/6036529",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T05:00:00",
-            "related_members": [
-                "80C5885Z",
-                "DWK26447",
-                "H5476989"
-            ],
-            "title": "[오늘의 주요일정] 정치·정부 (13일, 화)"
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
         },
         {
             "_id": "696594a6887d07f7ba2fab3c",
@@ -245,28 +274,34 @@
             "title": "[오늘의 국회일정] (13일, 화)"
         },
         {
-            "_id": "696594a6887d07f7ba2fab3b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
-            "created_at": "2026-01-13T09:41:09.070000",
-            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "_id": "696594be887d07f7ba2fab56",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709926?sid=100",
+            "created_at": "2026-01-13T09:41:32.758000",
+            "description": "원내대책회의 (국회 본관) 11:00 서왕진 조국혁신당 원내대표 예방 (국회 본관) ◇국민의힘 -당대표 08:15... 14:00 국회의원-당협위원장 연석회의 및 의원총회 (국회 본관) 15:30 2026 중소기업인 신년인사회... ",
+            "originallink": "https://www.news1.kr/politics/president/6036529",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "80C5885Z",
+                "DWK26447",
+                "H5476989"
+            ],
+            "title": "[오늘의 주요일정] 정치·정부 (13일, 화)"
+        },
+        {
+            "_id": "696594be887d07f7ba2fab57",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706319?sid=100",
+            "created_at": "2026-01-13T09:41:32.758000",
+            "description": "원내대책회의(국회 본관 원내대표회의실) 11:00 서왕진 조국혁신당 원내대표 예방(국회 본관 224호)... 14:00 국회의원-당협위원장 연석회의 및 의원총회(국회 본관 예결위회의장) 15:30 2026 중소기업인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474228",
             "press": "뉴시스",
             "pubDate": "2026-01-13T05:00:00",
             "related_members": [
-                "NB64509Z",
-                "CC78321E",
-                "3UI95829",
+                "80C5885Z",
                 "DWK26447",
-                "3TP65086",
-                "1WE5693J",
-                "6AU2417B",
-                "VRY5522V",
-                "K5F2023J",
-                "8348421R",
-                "9HE7226N",
-                "KNP22261"
+                "H5476989"
             ],
-            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
+            "title": "[오늘의 주요일정]정치(1월13일 화요일)"
         },
         {
             "_id": "6964b55d631fd1743499623f",
@@ -432,13 +467,33 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ad7e631fd1743497da89",
-            "url": "https://www.youtube.com/watch?v=ERRZYunMEJ4",
+            "_id": "6960ad7e631fd1743497da87",
+            "url": "https://www.youtube.com/watch?v=F24123Fqb5w",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
             "collected_at": "2026-01-14T10:22:09.735000",
-            "duration": 145.0,
-            "title": "\"이인선 한 번 시켜줘야\"‥또 윤 공천 개입 의혹 (2025.04.25/뉴스투데이/MBC)",
+            "duration": 1627.0,
+            "title": "TBC 이슈로드 \"이인선을 만나다\" 220710 Full Ver.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da88",
+            "url": "https://www.youtube.com/watch?v=jXQl_aP7x1o",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-15T18:21:45.772000",
+            "duration": 137.0,
+            "title": "\"이인선 한 번 시켜줘야\"‥또 윤 공천 개입 의혹 (2025.04.25/12MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da83",
+            "url": "https://www.youtube.com/watch?v=Hz1MJYU3i2s",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-15T18:21:44.961000",
+            "duration": 600.0,
+            "title": "국회의원 후보자  방송연설 -이인선-",
             "upload_date": null
         },
         {
@@ -452,53 +507,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad7e631fd1743497da83",
-            "url": "https://www.youtube.com/watch?v=Hz1MJYU3i2s",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.065000",
-            "duration": 600.0,
-            "title": "국회의원 후보자  방송연설 -이인선-",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da87",
-            "url": "https://www.youtube.com/watch?v=F24123Fqb5w",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.735000",
-            "duration": 1627.0,
-            "title": "TBC 이슈로드 \"이인선을 만나다\" 220710 Full Ver.",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad7e631fd1743497da84",
             "url": "https://www.youtube.com/watch?v=_YPVPdQ6hDQ",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.065000",
+            "collected_at": "2026-01-15T18:21:44.961000",
             "duration": 60.0,
             "title": "[국회의원 이인선 설날인사]토끼처럼 도약하는 한 해 되세요",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da81",
-            "url": "https://www.youtube.com/watch?v=JHGV4OEnLqk",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.065000",
-            "duration": 159.0,
-            "title": "[단독] \"이인선 한번 시켜줘야 하지 않나\"‥또 나온 공천 개입 정황 (2025.04.24/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7e631fd1743497da7f",
-            "url": "https://www.youtube.com/watch?v=Iu-6ZCIy1S8",
-            "HG_NM": "이인선",
-            "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.735000",
-            "duration": 96.0,
-            "title": "이인선 국회의원, 대구 수성못을 위한 따금한 질책 나서다!!",
             "upload_date": null
         },
         {
@@ -506,7 +521,7 @@
             "url": "https://www.youtube.com/watch?v=xgyYLG7N8LY",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.065000",
+            "collected_at": "2026-01-15T18:21:44.961000",
             "duration": 65.0,
             "title": "국회의원 이인선 5월 가정의달 인사",
             "upload_date": null
@@ -516,9 +531,29 @@
             "url": "https://www.youtube.com/watch?v=B0OpCKcrGRQ",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-14T10:22:09.735000",
+            "collected_at": "2026-01-15T18:21:44.961000",
             "duration": 2760.0,
             "title": "Keep going의 대명사 이인선! 다음생애 지금 남편과 다시 결혼 한다? 안 한다?[오유경의 인생책방 131회]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da7f",
+            "url": "https://www.youtube.com/watch?v=Iu-6ZCIy1S8",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-15T18:21:44.961000",
+            "duration": 96.0,
+            "title": "이인선 국회의원, 대구 수성못을 위한 따금한 질책 나서다!!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7e631fd1743497da81",
+            "url": "https://www.youtube.com/watch?v=JHGV4OEnLqk",
+            "HG_NM": "이인선",
+            "MONA_CD": "DWK26447",
+            "collected_at": "2026-01-15T18:21:45.772000",
+            "duration": 159.0,
+            "title": "[단독] \"이인선 한번 시켜줘야 하지 않나\"‥또 나온 공천 개입 정황 (2025.04.24/뉴스데스크/MBC)",
             "upload_date": null
         },
         {
@@ -532,5 +567,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:10.514284"
+    "exported_at": "2026-01-15T18:29:57.686757"
 }

@@ -43,33 +43,37 @@
     "analysis": {
         "keywords": [
             "국민",
+            "대표",
             "의장",
-            "정책",
+            "장동혁",
             "최고",
             "위원",
-            "김도읍",
-            "장동혁",
+            "정책",
             "정청래",
+            "김도읍",
             "특보",
-            "대표",
+            "민주당",
+            "국힘",
             "신동욱",
             "이재명",
-            "조국",
-            "혁신",
-            "계엄"
+            "한동훈"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 17
+                "value": 20
+            },
+            {
+                "text": "대표",
+                "value": 11
             },
             {
                 "text": "의장",
-                "value": 12
+                "value": 10
             },
             {
-                "text": "정책",
-                "value": 10
+                "text": "장동혁",
+                "value": 9
             },
             {
                 "text": "최고",
@@ -80,11 +84,7 @@
                 "value": 8
             },
             {
-                "text": "김도읍",
-                "value": 8
-            },
-            {
-                "text": "장동혁",
+                "text": "정책",
                 "value": 8
             },
             {
@@ -92,11 +92,19 @@
                 "value": 8
             },
             {
+                "text": "김도읍",
+                "value": 7
+            },
+            {
                 "text": "특보",
                 "value": 7
             },
             {
-                "text": "대표",
+                "text": "민주당",
+                "value": 6
+            },
+            {
+                "text": "국힘",
                 "value": 6
             },
             {
@@ -108,41 +116,90 @@
                 "value": 6
             },
             {
-                "text": "조국",
-                "value": 5
-            },
-            {
-                "text": "혁신",
-                "value": 5
-            },
-            {
-                "text": "계엄",
+                "text": "한동훈",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:53.813567",
+        "last_analyzed_at": "2026-01-15T18:29:39.856993",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                2,
                 1,
                 0,
                 2,
                 1,
                 0,
-                0
+                0,
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad87297082fcc2b18cd0",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324668?sid=100",
+            "created_at": "2026-01-15T18:04:04.184000",
+            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 그런데 그분들의 이야기, 이를테면 주호영 부의장 같은 경우에는 당이 길을 잃었을 때는 민심이라는 등대를... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405649&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-15T15:29:00",
+            "related_members": [
+                "LG63087O",
+                "KFM1081G",
+                "OWD1018N",
+                "DMP1439I",
+                "8UC4779G",
+                "6EN68926",
+                "4019850M",
+                "AEJ19639",
+                "7XY7109I",
+                "MSY7784L",
+                "8SV6917G"
+            ],
+            "title": "[여담야담] 전 윤리위 부위원장 전주혜 \"이 결정문으론 법원 통과 못한..."
+        },
+        {
+            "_id": "6968ad84297082fcc2b18cba",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716539?sid=100",
+            "created_at": "2026-01-15T18:04:01.563000",
+            "description": "▷이호승 : 그러니까 장동혁 대표가 전에 국회 앞에서 집회하다가 우리가 황교안이다 그랬잖아요. 그리고 윤석열 대통령 사형 구형되고 김병기 전 김병기 의원 때문에 시끌시끌한 상황에서 한동훈 전 대표를 제명시켰어요.... ",
+            "originallink": "https://www.news1.kr/politics/president/6040360",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:06:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "DMP1439I",
+                "8BF5855P",
+                "QWL7778X",
+                "RPN2293B",
+                "KFM1081G"
+            ],
+            "title": "[인터뷰 전문] 경민정 \"한동훈, 가족의 비방글 방치…국민과 공감능력 ..."
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cd2",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105445?sid=100",
+            "created_at": "2026-01-15T18:04:04.184000",
+            "description": "▶ 조갑제 : 근데 재밌는 건 23명인가 하는 국회의원들은 제명 반대 태도를 분명히 했는데 혹시 제가 몰라서... ▷ 소현정 : 그러면 지금 개혁신당 이준석 대표하고 만났지 않습니까? 특검법 매개로요. 이거는 어떻게... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459661&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T09:52:00",
+            "related_members": [
+                "LG63087O",
+                "DMP1439I",
+                "QWL7778X"
+            ],
+            "title": "[전격시사] 조갑제 조갑제닷컴 대표 - “국힘, 한동훈 제명 ‘작당’…..."
+        },
         {
             "_id": "6964b552631fd17434996161",
             "link": "https://n.news.naver.com/mnews/article/028/0002785988?sid=102",
@@ -202,7 +259,7 @@
             "_id": "6964b548631fd1743499608a",
             "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
             "created_at": "2026-01-12T17:48:05.254000",
-            "description": "근데 장 대표가 사과를 한 지 하루 만에 지도부 인사가 났는데 이 인사를 보면 지금 정점식 정책위의장... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
+            "description": "양향자, 우재준 이분들은 조금 다른 결이잖아요. 그럼 이 세 분들이 하는 메시지가 당 대표의 메시지라고... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454621&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-09T10:00:00",
@@ -231,7 +288,7 @@
             "_id": "6964b548631fd17434996090",
             "link": "https://n.news.naver.com/mnews/article/052/0002298166?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 김도읍 의원이 빠졌던 정책위의장 자리에 PK 3선의 정점식 의원을 지명했고요. 그리고 지명직 최고위원... ",
+            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 되면 양문석 의원도 지금 현재 대법원 판결 앞두고 있고 해서 미니 총선이 될 가능성, 이런 이야기도 나오고... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601082154190243",
             "press": "YTN",
             "pubDate": "2026-01-08T21:54:00",
@@ -252,7 +309,7 @@
             "_id": "6964b552631fd17434996163",
             "link": "https://n.news.naver.com/mnews/article/079/0004102946?sid=100",
             "created_at": "2026-01-12T17:48:15.525000",
-            "description": "그런 것들을 검증해야 하는 것이 저희 당에서 세 번 공천을 받았다고 하지만 정부의 각료로 쓸 때의 검증과 저희 당의 국회의원으로서의 공천 과정에서. ◇ 박성태&gt; 공천은 다섯 번이죠, 사실은. ◆ 신동욱&gt; 그것은 다른... ",
+            "description": "들어서 김재원 최고위원 같은 경우도 나가서 입당원서를 받으면서 내가 고성국 라인이 되겠다 이런 얘기를... 당의 국회의원으로서의 공천 과정에서. ◇ 박성태&gt; 공천은 다섯 번이죠, 사실은. ◆ 신동욱&gt; 그것은 다른... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453168?utm_source=naver&utm_medium=article&utm_campaign=20260108102210",
             "press": "노컷뉴스",
             "pubDate": "2026-01-08T09:56:00",
@@ -400,33 +457,33 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac30631fd1743497d567",
-            "url": "https://www.youtube.com/watch?v=WcGVQiOgQC0",
+            "_id": "6960ac30631fd1743497d565",
+            "url": "https://www.youtube.com/watch?v=jPY8Mf_smK0",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-09T16:20:13.909000",
-            "duration": 1128.0,
-            "title": "김재원 \"계엄 사과 이미 했다... 또 하면 갈등만 커져\"",
+            "collected_at": "2026-01-15T18:15:50.554000",
+            "duration": 580.0,
+            "title": "결국 뉴스에 나와버린 김재원",
             "upload_date": null
         },
         {
-            "_id": "6960ac30631fd1743497d563",
-            "url": "https://www.youtube.com/watch?v=aShjNzKll7I",
+            "_id": "6960ac30631fd1743497d566",
+            "url": "https://www.youtube.com/watch?v=6n9dt_pP1Bo",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-09T16:20:13.140000",
-            "duration": 72.0,
-            "title": "[속보] 결국 김재원 의원도 인정한  이재명 #김재원 #이재명 #이혜훈",
+            "collected_at": "2026-01-15T18:15:50.554000",
+            "duration": 232.0,
+            "title": "‘5·18 관련 발언 논란’ 김재원…‘급사과’ | 뉴스A 라이브",
             "upload_date": null
         },
         {
-            "_id": "6960ac30631fd1743497d560",
-            "url": "https://www.youtube.com/watch?v=ZosXGFeS9wA",
+            "_id": "6960ac30631fd1743497d561",
+            "url": "https://www.youtube.com/watch?v=FrGX15QNHu8",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-13T09:44:23.792000",
-            "duration": 167.0,
-            "title": "민주당 국회의원의 2가지 목표 #국민의힘 #정청래 #김재원 #김현지",
+            "collected_at": "2026-01-15T18:15:49.782000",
+            "duration": 413.0,
+            "title": "[지금뉴스] “조진웅 씨 관련 말들이 많은데…” 김재원 의원이 덧붙인 말 / KBS 2025.12.08.",
             "upload_date": null
         },
         {
@@ -434,7 +491,7 @@
             "url": "https://www.youtube.com/watch?v=GPfrfJ-89ec",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-14T10:16:38.628000",
+            "collected_at": "2026-01-15T18:15:50.554000",
             "duration": 572.0,
             "title": "또 다시 뉴스에 나와버린 김재원...",
             "upload_date": null
@@ -444,29 +501,19 @@
             "url": "https://www.youtube.com/watch?v=VHI8htSORCc",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-14T10:16:37.887000",
+            "collected_at": "2026-01-15T18:15:49.782000",
             "duration": 573.0,
             "title": "[국회의원 김재원] 문체위 국정감사 6일차 질의(3) 한국야구위원회(KBO) 총재 법인카드 남용 및 관리감독 부실",
             "upload_date": null
         },
         {
-            "_id": "6960ac30631fd1743497d55d",
-            "url": "https://www.youtube.com/watch?v=WDTNglVjKh0",
+            "_id": "6960ac30631fd1743497d560",
+            "url": "https://www.youtube.com/watch?v=ZosXGFeS9wA",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-13T09:44:23.792000",
-            "duration": 108.0,
-            "title": "정청래 담당일진 김재원\"이재명의 허경영 발차기\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac30631fd1743497d55f",
-            "url": "https://www.youtube.com/watch?v=GZLmXnebxys",
-            "HG_NM": "김재원",
-            "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-13T09:44:23.792000",
-            "duration": 69.0,
-            "title": "정청래 대표는 좋은점이 딱 하나있어요 #김재원 #국민의힘 #정청래",
+            "collected_at": "2026-01-15T18:15:49.782000",
+            "duration": 167.0,
+            "title": "민주당 국회의원의 2가지 목표 #국민의힘 #정청래 #김재원 #김현지",
             "upload_date": null
         },
         {
@@ -480,25 +527,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac30631fd1743497d561",
-            "url": "https://www.youtube.com/watch?v=FrGX15QNHu8",
+            "_id": "6960ac30631fd1743497d55d",
+            "url": "https://www.youtube.com/watch?v=WDTNglVjKh0",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-14T10:16:37.887000",
-            "duration": 413.0,
-            "title": "[지금뉴스] “조진웅 씨 관련 말들이 많은데…” 김재원 의원이 덧붙인 말 / KBS 2025.12.08.",
+            "collected_at": "2026-01-15T18:15:49.782000",
+            "duration": 108.0,
+            "title": "정청래 담당일진 김재원\"이재명의 허경영 발차기\"",
             "upload_date": null
         },
         {
-            "_id": "6960ac30631fd1743497d565",
-            "url": "https://www.youtube.com/watch?v=jPY8Mf_smK0",
+            "_id": "6960ac30631fd1743497d55f",
+            "url": "https://www.youtube.com/watch?v=GZLmXnebxys",
             "HG_NM": "김재원",
             "MONA_CD": "DMP1439I",
-            "collected_at": "2026-01-14T10:16:38.628000",
-            "duration": 580.0,
-            "title": "결국 뉴스에 나와버린 김재원",
+            "collected_at": "2026-01-15T18:15:49.782000",
+            "duration": 69.0,
+            "title": "정청래 대표는 좋은점이 딱 하나있어요 #김재원 #국민의힘 #정청래",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac30631fd1743497d563",
+            "url": "https://www.youtube.com/watch?v=aShjNzKll7I",
+            "HG_NM": "김재원",
+            "MONA_CD": "DMP1439I",
+            "collected_at": "2026-01-09T16:20:13.140000",
+            "duration": 72.0,
+            "title": "[속보] 결국 김재원 의원도 인정한  이재명 #김재원 #이재명 #이혜훈",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:53.813567"
+    "exported_at": "2026-01-15T18:29:39.856993"
 }

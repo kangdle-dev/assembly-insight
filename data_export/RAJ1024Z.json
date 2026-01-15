@@ -47,6 +47,7 @@
             "국방",
             "기소",
             "국민",
+            "기준",
             "집행",
             "장병",
             "연말",
@@ -55,21 +56,20 @@
             "구속",
             "국정감사",
             "부승찬",
-            "폭발",
-            "이유"
+            "폭발"
         ],
         "keyword_frequency": [
             {
                 "text": "임종",
-                "value": 22
+                "value": 26
             },
             {
                 "text": "특검",
-                "value": 8
+                "value": 9
             },
             {
                 "text": "국방",
-                "value": 7
+                "value": 8
             },
             {
                 "text": "기소",
@@ -78,6 +78,10 @@
             {
                 "text": "국민",
                 "value": 5
+            },
+            {
+                "text": "기준",
+                "value": 4
             },
             {
                 "text": "집행",
@@ -114,35 +118,53 @@
             {
                 "text": "폭발",
                 "value": 4
-            },
-            {
-                "text": "이유",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:13.260143",
+        "last_analyzed_at": "2026-01-15T18:30:00.636533",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
                 1,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad8a297082fcc2b18cf7",
+            "link": "https://n.news.naver.com/mnews/article/016/0002585800?sid=100",
+            "created_at": "2026-01-15T18:04:07.359000",
+            "description": "이어 “역사를 정치적으로 흔드는 것이 아니라, 제도와 원칙에 입각해 바로 세우는 것이 국회의 책무”라고 밝혔다. 한기호 의원은 “국방과 안보를 책임지는 국회가 보훈의 원칙과 기준을 분명히 세우는 것은 매우 중요한... ",
+            "originallink": "https://biz.heraldcorp.com/article/10655539?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-14T15:32:00",
+            "related_members": [
+                "OSV9142K",
+                "DWK26447",
+                "JQA21112",
+                "KBK8836C",
+                "3NI5978A",
+                "RAJ1024Z",
+                "ANS8383S",
+                "A0P4646G",
+                "TCP9838Y",
+                "MSY7784L"
+            ],
+            "title": "윤상현 의원, 국가보훈제도 판단 기준 점검 토론회 개최"
+        },
         {
             "_id": "6964b56c631fd1743499631b",
             "link": "https://n.news.naver.com/mnews/article/021/0002762346?sid=100",
@@ -252,19 +274,9 @@
             "url": "https://www.youtube.com/watch?v=dCMo2gQiOG8",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-14T10:23:02.609000",
+            "collected_at": "2026-01-15T18:22:42.853000",
             "duration": 117.0,
             "title": "선을 넘네? 임종득 억지주장에 부승찬 의원 폭발!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adb5631fd1743497db5b",
-            "url": "https://www.youtube.com/watch?v=YmlnE_pChRw",
-            "HG_NM": "임종득",
-            "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-14T10:23:03.321000",
-            "duration": 1476.0,
-            "title": "[속보] 내란특검, '국가안보실 인사개입' 윤재순 · 임종득 직권남용 기소 - [MBC 뉴스속보] 2025년 12월 08일",
             "upload_date": null
         },
         {
@@ -272,9 +284,29 @@
             "url": "https://www.youtube.com/watch?v=OcGCQt4cTTs",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-09T16:26:42.199000",
+            "collected_at": "2026-01-15T18:22:42.853000",
             "duration": 173.0,
             "title": "나이·계급 모두 아래였던 임종득, 대장 출신 김병주에게 벼르고 별렀나 [오늘의 이슈]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adb5631fd1743497db5b",
+            "url": "https://www.youtube.com/watch?v=YmlnE_pChRw",
+            "HG_NM": "임종득",
+            "MONA_CD": "RAJ1024Z",
+            "collected_at": "2026-01-15T18:22:43.528000",
+            "duration": 1476.0,
+            "title": "[속보] 내란특검, '국가안보실 인사개입' 윤재순 · 임종득 직권남용 기소 - [MBC 뉴스속보] 2025년 12월 08일",
+            "upload_date": null
+        },
+        {
+            "_id": "696596d0887d07f7ba2fade9",
+            "url": "https://www.youtube.com/watch?v=aXbUgU-cufE",
+            "HG_NM": "임종득",
+            "MONA_CD": "RAJ1024Z",
+            "collected_at": "2026-01-13T09:50:21.993000",
+            "duration": 3936.0,
+            "title": "[영주가 좋아 94회] - 특집, 국민의 힘 _ 임종득 국회의원과 함께 (경북 영주시, 봉화군, 영양군)",
             "upload_date": null
         },
         {
@@ -288,15 +320,25 @@
             "upload_date": null
         },
         {
-            "_id": "696596d0887d07f7ba2fade9",
-            "url": "https://www.youtube.com/watch?v=aXbUgU-cufE",
+            "_id": "6968b1e6297082fcc2b19109",
+            "url": "https://www.youtube.com/watch?v=NQkDCnR_zuI",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-13T09:50:21.993000",
-            "duration": 3936.0,
-            "title": "[영주가 좋아 94회] - 특집, 국민의 힘 _ 임종득 국회의원과 함께 (경북 영주시, 봉화군, 영양군)",
+            "collected_at": "2026-01-15T18:22:42.853000",
+            "duration": 167.0,
+            "title": "해병특검, 임종득 의원 내일 소환, \"직권남용 등 혐의 피의자 신분\" - [현장PLAY] MBC뉴스 2025년 08월 11일",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b1e6297082fcc2b1910a",
+            "url": "https://www.youtube.com/watch?v=udbv7f1IIZI",
+            "HG_NM": "임종득",
+            "MONA_CD": "RAJ1024Z",
+            "collected_at": "2026-01-15T18:22:43.528000",
+            "duration": 185.0,
+            "title": "[현장영상] \"어떤 연락 주고받았나 묻겠다\" '현역' 임종득 피의자로 소환 / JTBC News",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:13.260143"
+    "exported_at": "2026-01-15T18:30:00.636533"
 }

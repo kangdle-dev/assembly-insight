@@ -48,112 +48,253 @@
     "analysis": {
         "keywords": [
             "사과",
-            "계엄",
             "국민",
             "국힘",
-            "미래",
             "재선",
+            "미래",
+            "계엄",
+            "제명",
             "모임",
-            "대안",
             "소속",
+            "한동훈",
+            "대안",
+            "의총",
             "특전사",
-            "장동혁",
             "이성권",
-            "유용원",
-            "석준",
-            "대구"
+            "장동혁"
         ],
         "keyword_frequency": [
             {
                 "text": "사과",
-                "value": 36
-            },
-            {
-                "text": "계엄",
-                "value": 28
+                "value": 26
             },
             {
                 "text": "국민",
-                "value": 25
+                "value": 23
             },
             {
                 "text": "국힘",
-                "value": 22
-            },
-            {
-                "text": "미래",
                 "value": 19
             },
             {
                 "text": "재선",
-                "value": 18
+                "value": 17
             },
             {
-                "text": "모임",
+                "text": "미래",
                 "value": 15
             },
             {
-                "text": "대안",
+                "text": "계엄",
                 "value": 15
             },
             {
-                "text": "소속",
-                "value": 13
-            },
-            {
-                "text": "특전사",
+                "text": "제명",
                 "value": 12
             },
             {
-                "text": "장동혁",
+                "text": "모임",
+                "value": 12
+            },
+            {
+                "text": "소속",
+                "value": 12
+            },
+            {
+                "text": "한동훈",
                 "value": 11
             },
             {
-                "text": "이성권",
+                "text": "대안",
                 "value": 11
             },
             {
-                "text": "유용원",
-                "value": 10
-            },
-            {
-                "text": "석준",
+                "text": "의총",
                 "value": 9
             },
             {
-                "text": "대구",
+                "text": "특전사",
+                "value": 9
+            },
+            {
+                "text": "이성권",
+                "value": 8
+            },
+            {
+                "text": "장동혁",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:48.213031",
+        "last_analyzed_at": "2026-01-15T18:29:34.004208",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
                 0,
-                0,
                 1,
                 0,
                 1,
-                2
+                4,
+                4
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6968ad87297082fcc2b18cd9",
+            "link": "https://n.news.naver.com/mnews/article/009/0005622308?sid=100",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "이날 최고위 회의 이후 열린 국회에서 열린 의원총회에선 한 전 대표 징계안에 대한 우려가 터져 나왔다.... 의총 첫 발언자로 나선 조경태 국민의힘 의원도 기자들과 만나 “지금 통합과 단합의 시간인데 한 전 대표 제명이... ",
+            "originallink": "https://www.mk.co.kr/article/11934040",
+            "press": "매일경제",
+            "pubDate": "2026-01-15T15:58:00",
+            "related_members": [
+                "LYY5513O",
+                "4019850M",
+                "AEJ19639",
+                "YOG1280B",
+                "MSY7784L",
+                "WXJ8352N",
+                "KFM1081G",
+                "CGW7415Z",
+                "5KV82250"
+            ],
+            "title": "‘韓 제명 의결’ 일단 멈춤…의총은 징계 반대 성토장"
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cda",
+            "link": "https://n.news.naver.com/mnews/article/003/0013712557?sid=100",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "윤상현 국민의힘 의원은 이날 국회에서 열린 의원총회 도중 기자들과 만나 비공개로 진행된 의원총회에서... 조경태 의원은 \"이렇게 하는 행위는 올바른 행위가 아니다. 지금은 통합과 단합의 시간\"이라며 \"한 전 대표... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478165",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T13:12:00",
+            "related_members": [
+                "LYY5513O",
+                "MSY7784L",
+                "N378078V",
+                "QWL7778X",
+                "5KV82250"
+            ],
+            "title": "국힘, 의총서 \"한동훈 제명 철회해야\" \"지금은 내 탓 할 때\""
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cdb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716067?sid=100",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "이날 오전 국회에서 열린 비공개 의원총회에서 발언에 나선 대다수 의원은 윤리위원회 처분이 과했다는... 당내 최다선인 6선 조경태 의원도 기자들과 만나 \"한 전 대표 제명이 과연 이 시점에, 우리 당에 도움이 되겠느냐\"며... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040165",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T12:50:00",
+            "related_members": [
+                "LYY5513O",
+                "MSY7784L",
+                "5KV82250"
+            ],
+            "title": "국힘 의총 \"한동훈 제명 과해, 정치적 봉합해야\"…우려 봇물"
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cdc",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101069?sid=101",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "지난해 12월 17일 조지연·권영진 국회의원, 조현일 경산시장, 김학홍 경북도 행정부지사, 안효대 울산시 경제부시장 등 관계 지자체 및 국회 관계자 20여 명은 경산~울산 고속도로 신설을 촉구하는 범시민 서명부(160... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202601152366b",
+            "press": "한국경제",
+            "pubDate": "2026-01-15T11:33:00",
+            "related_members": [
+                "3NI5978A",
+                "LYY5513O",
+                "5N65159P",
+                "JZY9937U"
+            ],
+            "title": "‘경산 아이파크’ 일부 해약세대 4년 전 분양가 공급에 ‘완판 임박’"
+        },
+        {
+            "_id": "6968ad85297082fcc2b18cc9",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324240?sid=100",
+            "created_at": "2026-01-15T18:04:02.464000",
+            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 권영진·김형동·박정하·배준영·서범수·엄태영·이성권·조은희·최형두(이상 재선), 고동진·김건·김소희·김용태... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404024&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T13:29:00",
+            "related_members": [
+                "8XE7026P",
+                "KBK8836C",
+                "TQP7167T",
+                "QDU1100U",
+                "1SR94244",
+                "4019850M",
+                "AEJ19639",
+                "PYA8594I",
+                "HS39431V",
+                "EPI69383",
+                "8UC4779G",
+                "57B28032",
+                "CNW5754J",
+                "JEZ3130Q",
+                "LYY5513O",
+                "9D939735",
+                "L7J93733",
+                "6RD62559",
+                "QQP4727N",
+                "RMC1840P",
+                "8348421R",
+                "MQU41854",
+                "WXJ8352N",
+                "A0P4646G"
+            ],
+            "title": "국힘 초·재선 모임 \"한동훈 제명 결정, 반헌법적…재고해야\""
+        },
+        {
+            "_id": "6968ad85297082fcc2b18cca",
+            "link": "https://n.news.naver.com/mnews/article/020/0003689296?sid=100",
+            "created_at": "2026-01-15T18:04:02.464000",
+            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위 결정에... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133154308/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-14T12:54:00",
+            "related_members": [
+                "9D939735",
+                "HS39431V",
+                "LYY5513O",
+                "TQP7167T",
+                "JEZ3130Q",
+                "1SR94244",
+                "4019850M",
+                "EPI69383",
+                "6RD62559",
+                "57B28032",
+                "AEJ19639",
+                "8XE7026P",
+                "8348421R",
+                "8UC4779G",
+                "MQU41854",
+                "CNW5754J",
+                "KBK8836C",
+                "QDU1100U",
+                "WXJ8352N",
+                "PYA8594I",
+                "L7J93733",
+                "QQP4727N",
+                "RMC1840P",
+                "A0P4646G"
+            ],
+            "title": "국힘 소장파 “한동훈 제명, 비겁하고 저열…재고해야” 의총소집 요구"
+        },
+        {
             "_id": "6966ec75887d07f7ba2fb27d",
             "link": "https://n.news.naver.com/mnews/article/079/0004104837?sid=100",
             "created_at": "2026-01-14T10:08:05.936000",
-            "description": "지금 국회의원실 그리고 자택이 경찰 압수수색 진행 중이라고 하고요. 뿐만 아니라 아까 말씀하셨던 내용... 제가 통화했던 한 관계자인데 한동훈 전 대표는 좀 적이 많은 편이고 장동혁 대표는 편이 없는 것 같다, 편이... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455872?utm_source=naver&utm_medium=article&utm_campaign=20260114094938",
+            "description": "지금 국회의원실 그리고 자택이 경찰 압수수색 진행 중이라고 하고요. 뿐만 아니라 아까 말씀하셨던 내용... ◆ 김은지&gt; 우재준 청년 최고위원도 친한동훈계로 분류되는 인사인데요. 그분도 관련해서 비판하는 이야기를... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6455872?utm_source=naver&utm_medium=article&utm_campaign=20260114114839",
             "press": "노컷뉴스",
             "pubDate": "2026-01-14T09:50:00",
             "related_members": [
@@ -169,7 +310,7 @@
             "_id": "6966ec72887d07f7ba2fb26d",
             "link": "https://n.news.naver.com/mnews/article/079/0004104827?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "핵심요약 ■ 방송 : CBS 라디오 &lt;박성태의 뉴스쇼&gt; FM 98.1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 권영진(국민의힘 국회의원) 오늘 1부의 첫 손님은 국민의힘 권영진 의원입니다. 당내 쇄신을 얘기했고요. 그리고 장동혁... ",
+            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 권영진(국민의힘 국회의원) 오늘 1부의 첫 손님은 국민의힘... 간사들이 김대식 정책 정무특보한테 전하는 걸로 그렇게 결론을 내렸습니다. 내렸는데 이렇게 한밤중에 쿠데타... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455846?utm_source=naver&utm_medium=article&utm_campaign=20260114093937",
             "press": "노컷뉴스",
             "pubDate": "2026-01-14T09:40:00",
@@ -410,180 +551,9 @@
                 "LYY5513O"
             ],
             "title": "'계엄 사과' 국민의힘 초·재선, 특수전사령부 방문 “군 상처 사과”"
-        },
-        {
-            "_id": "6964b572631fd17434996359",
-            "link": "https://n.news.naver.com/mnews/article/016/0002579548?sid=100",
-            "created_at": "2026-01-12T17:48:47.298000",
-            "description": "‘대안과 미래’ 소속 송석준·권영진·박정하·이성권·유용원 의원은 이날 경기도 이천시에 있는 특전사를... 입었다는 점에 대해 당시 집권당 소속 국회의원으로서 사과드린다”고 했다. 이들은 부대에 위문금도 전달했다.",
-            "originallink": "https://biz.heraldcorp.com/article/10646911?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-31T15:30:00",
-            "related_members": [
-                "WXJ8352N",
-                "6RD62559",
-                "KBK8836C",
-                "CNW5754J",
-                "4019850M",
-                "LYY5513O"
-            ],
-            "title": "‘계엄 사과’ 국힘 의원들, 특전사 방문…“계엄에 軍 상처 입어”"
-        },
-        {
-            "_id": "6964b543631fd1743499601a",
-            "link": "https://n.news.naver.com/mnews/article/032/0003418349?sid=100",
-            "created_at": "2026-01-12T17:48:00.300000",
-            "description": "지난 3일 불법계엄 사과 성명문에 이름을 올린 의원 25명 중 신성범·송석준(이상 3선), 권영진·김형동·박정하·엄태영·이성권·조은희(이상 재선), 고동진·김건·김용태·유용원(이상 초선) 의원 등 12명은 이날 국회... ",
-            "originallink": "https://www.khan.co.kr/article/202512301523001",
-            "press": "경향신문",
-            "pubDate": "2025-12-30T15:23:00",
-            "related_members": [
-                "JEZ3130Q",
-                "WXJ8352N",
-                "8348421R",
-                "LYY5513O",
-                "HS39431V",
-                "6RD62559",
-                "MQU41854",
-                "KBK8836C",
-                "RMC1840P",
-                "CNW5754J",
-                "4019850M",
-                "TQP7167T",
-                "EPI69383",
-                "8X15119P",
-                "8SV6917G"
-            ],
-            "title": "계엄 사과문 낸 국힘 의원들, ‘대안과 미래’ 모임 결성…“계엄 동원..."
-        },
-        {
-            "_id": "6964b543631fd1743499601b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012095366?sid=100",
-            "created_at": "2026-01-12T17:48:00.300000",
-            "description": "오늘 모임에는 신성범, 이성권, 조은희, 엄태영, 박정하, 고동진, 유용원, 김건, 권영진, 김형동, 엄태영... 앞서 ‘대안과 미래’ 모임에 참여한 국회의원 25명은 지난 3일 윤석열 전 대통령의 12.3 비상계엄에 대해 사과를... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8446112&ref=A",
-            "press": "KBS",
-            "pubDate": "2025-12-30T11:44:00",
-            "related_members": [
-                "JEZ3130Q",
-                "WXJ8352N",
-                "8348421R",
-                "LYY5513O",
-                "HS39431V",
-                "6RD62559",
-                "MQU41854",
-                "KBK8836C",
-                "RMC1840P",
-                "CNW5754J",
-                "4019850M",
-                "TQP7167T",
-                "EPI69383"
-            ],
-            "title": "국민의힘 일부 초·재선 “지선 경선서 ‘민심 반영’ 확대가 바람직”"
-        },
-        {
-            "_id": "6964b543631fd1743499601c",
-            "link": "https://n.news.naver.com/mnews/article/448/0000580273?sid=100",
-            "created_at": "2026-01-12T17:48:00.300000",
-            "description": "사과 성명에 이름을 올린 의원 25명 중 신성범·송석준(이상 3선), 권영진·김형동·박정하·엄태영·이성권·조은희(이상 재선), 고동진·김건·김용태·유용원(이상 초선) 의원 등 12명은 이날 국회 의원회관에서 조찬 모임을... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2025/12/30/2025123090087.html",
-            "press": "조선일보",
-            "pubDate": "2025-12-30T11:13:00",
-            "related_members": [
-                "JEZ3130Q",
-                "WXJ8352N",
-                "8348421R",
-                "LYY5513O",
-                "HS39431V",
-                "6RD62559",
-                "MQU41854",
-                "KBK8836C",
-                "RMC1840P",
-                "CNW5754J",
-                "4019850M",
-                "TQP7167T",
-                "EPI69383"
-            ],
-            "title": "계엄사과 국힘의원 '대안과 미래' 결성…\"경선룰도 당심보단 민심\""
-        },
-        {
-            "_id": "6964b58b631fd17434996494",
-            "link": "https://n.news.naver.com/mnews/article/023/0003947987?sid=100",
-            "created_at": "2026-01-12T17:49:12.214000",
-            "description": "국민의힘에선 주호영 국회부의장, 나경원·이종배·윤한홍·추경호·한기호·권영진·김은혜·박정하·조은희 의원 등 20여 명이 참석했던 것으로 전해졌다. 이 전 대통령은 장동혁 대표에 대해 “개인적인 연이 있는 사이는... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2025/12/19/3W6EQD4MJRHJBHVVUOT2STTJ2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2025-12-19T16:30:00",
-            "related_members": [
-                "JQA21112",
-                "HSW1214Q",
-                "6RD62559",
-                "G152611B",
-                "KFM1081G",
-                "8X15119P",
-                "MQU41854",
-                "8SV6917G",
-                "4019850M",
-                "L5P27909",
-                "SLW27496",
-                "LYY5513O"
-            ],
-            "title": "MB “강도 들어오면 힘 모아야” 화합 주문에 野, 아전인수 해석"
-        },
-        {
-            "_id": "6964b546631fd1743499606e",
-            "link": "https://n.news.naver.com/mnews/article/079/0004090935?sid=100",
-            "created_at": "2026-01-12T17:48:03.766000",
-            "description": "실제로 당 지도부 외 현장을 지킨 현역 의원은 주호영 국회부의장과 강대식·권영진·김상훈·김기웅·김승수·유영하·윤재옥·이달희·이만희 의원 등 10여 명 남짓이었다. 지역구 때문에라도 불참이 어려운 인사들이... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6435769?utm_source=naver&utm_medium=article&utm_campaign=20251129011126",
-            "press": "노컷뉴스",
-            "pubDate": "2025-11-29T05:01:00",
-            "related_members": [
-                "JZV5283U",
-                "L2I9861C",
-                "OSV9142K",
-                "5K93695T",
-                "ROS6754L",
-                "1Y73132H",
-                "ZRF3039U",
-                "HE08888N",
-                "8SV6917G",
-                "LYY5513O"
-            ],
-            "title": "[르포]대구 채운 \"사과 반대\"…'계엄의 강'만 확인한 국힘"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960abc1631fd1743497d3a5",
-            "url": "https://www.youtube.com/watch?v=PytNfpfa1Cs",
-            "HG_NM": "권영진",
-            "MONA_CD": "LYY5513O",
-            "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 292.0,
-            "title": "체포 직전 윤석열 대통령에게 직접 물은 권영진 의원 TV CHOSUN 250201 방송 | [강적들] 573회 | TV조선",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abc1631fd1743497d3a6",
-            "url": "https://www.youtube.com/watch?v=UMqIrQ4SdAY",
-            "HG_NM": "권영진",
-            "MONA_CD": "LYY5513O",
-            "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 1076.0,
-            "title": "[뉴스 人] 대선불복 파문 확산 [권영진, 전 새누리당 의원·김유정, 전 민주당 의원] / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abc1631fd1743497d3a4",
-            "url": "https://www.youtube.com/watch?v=w1D2k3tngWU",
-            "HG_NM": "권영진",
-            "MONA_CD": "LYY5513O",
-            "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 119.0,
-            "title": "풍요로운 한가위 보내세요♥ - 2025년 권영진 국회의원 추석인사",
-            "upload_date": null
-        },
         {
             "_id": "6960abc1631fd1743497d3a9",
             "url": "https://www.youtube.com/watch?v=2xqmr_09dJM",
@@ -595,53 +565,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960abc1631fd1743497d3a7",
-            "url": "https://www.youtube.com/watch?v=zXRLj_e8QT0",
-            "HG_NM": "권영진",
-            "MONA_CD": "LYY5513O",
-            "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 324.0,
-            "title": "말리는 같은 당 의원만 몇 명? 오늘 국힘 파이터는 나야 나~ 카메라 원샷 제대로 딴 권영진",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abc1631fd1743497d3a3",
-            "url": "https://www.youtube.com/watch?v=l4ITmbXSkEU",
-            "HG_NM": "권영진",
-            "MONA_CD": "LYY5513O",
-            "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 1698.0,
-            "title": "[뉴스인] '시국 미사' 후폭풍  [권영진·김유정, 전 국회의원] / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abc1631fd1743497d3a1",
-            "url": "https://www.youtube.com/watch?v=re1gdbmqF7w",
-            "HG_NM": "권영진",
-            "MONA_CD": "LYY5513O",
-            "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 1132.0,
-            "title": "권영진 \"장동혁 체제로 내일 선거면? 잘해야 2석\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abc1631fd1743497d3a0",
-            "url": "https://www.youtube.com/watch?v=UgRN44uwi3A",
+            "_id": "6960abc1631fd1743497d3aa",
+            "url": "https://www.youtube.com/watch?v=8JdAo3Zm0Mc",
             "HG_NM": "권영진",
             "MONA_CD": "LYY5513O",
             "collected_at": "2026-01-14T10:14:50.859000",
-            "duration": 148.0,
-            "title": "권영진에 이어 주호영까지‥ 국민의힘, 체질 변화? 당 분열? (2025.12.08/뉴스데스크/대구MBC)",
+            "duration": 689.0,
+            "title": "뉴스1번지 - 권영진 대구시장 : 세계 물포럼을 준비하며.",
             "upload_date": null
         },
         {
-            "_id": "6960abc1631fd1743497d3a2",
-            "url": "https://www.youtube.com/watch?v=a1MNVtJANSM",
+            "_id": "6960abc1631fd1743497d3a5",
+            "url": "https://www.youtube.com/watch?v=PytNfpfa1Cs",
             "HG_NM": "권영진",
             "MONA_CD": "LYY5513O",
             "collected_at": "2026-01-14T10:14:50.203000",
-            "duration": 1068.0,
-            "title": "[김태현의 정치쇼] 권영진 \"계엄 사과‧尹 절연 필요…당게 조사? 이제와서 뜬금없다\" |이너:뷰 251201(월)",
+            "duration": 292.0,
+            "title": "체포 직전 윤석열 대통령에게 직접 물은 권영진 의원 TV CHOSUN 250201 방송 | [강적들] 573회 | TV조선",
             "upload_date": null
         },
         {
@@ -653,7 +593,67 @@
             "duration": 323.0,
             "title": "[진정토론] 문재인, 강성 행보...왜? [권영진·김유정, 전 국회의원]② / YTN",
             "upload_date": null
+        },
+        {
+            "_id": "6960abc1631fd1743497d3a6",
+            "url": "https://www.youtube.com/watch?v=UMqIrQ4SdAY",
+            "HG_NM": "권영진",
+            "MONA_CD": "LYY5513O",
+            "collected_at": "2026-01-15T18:13:55.119000",
+            "duration": 1076.0,
+            "title": "[뉴스 人] 대선불복 파문 확산 [권영진, 전 새누리당 의원·김유정, 전 민주당 의원] / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abc1631fd1743497d3a4",
+            "url": "https://www.youtube.com/watch?v=w1D2k3tngWU",
+            "HG_NM": "권영진",
+            "MONA_CD": "LYY5513O",
+            "collected_at": "2026-01-15T18:13:54.254000",
+            "duration": 119.0,
+            "title": "풍요로운 한가위 보내세요♥ - 2025년 권영진 국회의원 추석인사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abc1631fd1743497d3a2",
+            "url": "https://www.youtube.com/watch?v=a1MNVtJANSM",
+            "HG_NM": "권영진",
+            "MONA_CD": "LYY5513O",
+            "collected_at": "2026-01-15T18:13:54.254000",
+            "duration": 1068.0,
+            "title": "[김태현의 정치쇼] 권영진 \"계엄 사과‧尹 절연 필요…당게 조사? 이제와서 뜬금없다\" |이너:뷰 251201(월)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abc1631fd1743497d3a1",
+            "url": "https://www.youtube.com/watch?v=re1gdbmqF7w",
+            "HG_NM": "권영진",
+            "MONA_CD": "LYY5513O",
+            "collected_at": "2026-01-15T18:13:54.254000",
+            "duration": 1132.0,
+            "title": "권영진 \"장동혁 체제로 내일 선거면? 잘해야 2석\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abc1631fd1743497d3a3",
+            "url": "https://www.youtube.com/watch?v=l4ITmbXSkEU",
+            "HG_NM": "권영진",
+            "MONA_CD": "LYY5513O",
+            "collected_at": "2026-01-15T18:13:54.254000",
+            "duration": 1698.0,
+            "title": "[뉴스인] '시국 미사' 후폭풍  [권영진·김유정, 전 국회의원] / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abc1631fd1743497d3a7",
+            "url": "https://www.youtube.com/watch?v=zXRLj_e8QT0",
+            "HG_NM": "권영진",
+            "MONA_CD": "LYY5513O",
+            "collected_at": "2026-01-14T10:14:50.203000",
+            "duration": 324.0,
+            "title": "말리는 같은 당 의원만 몇 명? 오늘 국힘 파이터는 나야 나~ 카메라 원샷 제대로 딴 권영진",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:48.213031"
+    "exported_at": "2026-01-15T18:29:34.004208"
 }

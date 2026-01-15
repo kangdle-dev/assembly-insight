@@ -43,8 +43,8 @@
     "analysis": {
         "keywords": [
             "선원",
-            "기자회견",
             "민주당",
+            "기자회견",
             "계엄",
             "정부",
             "확인",
@@ -53,23 +53,23 @@
             "수세미",
             "태극마크",
             "의지",
+            "총선",
             "김교흥",
             "생중계",
-            "현안",
-            "유튜브"
+            "현안"
         ],
         "keyword_frequency": [
             {
                 "text": "선원",
-                "value": 27
-            },
-            {
-                "text": "기자회견",
-                "value": 15
+                "value": 29
             },
             {
                 "text": "민주당",
-                "value": 15
+                "value": 17
+            },
+            {
+                "text": "기자회견",
+                "value": 16
             },
             {
                 "text": "계엄",
@@ -104,6 +104,10 @@
                 "value": 6
             },
             {
+                "text": "총선",
+                "value": 6
+            },
+            {
                 "text": "김교흥",
                 "value": 6
             },
@@ -114,35 +118,44 @@
             {
                 "text": "현안",
                 "value": 6
-            },
-            {
-                "text": "유튜브",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:57.987845",
+        "last_analyzed_at": "2026-01-15T18:29:44.296084",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                3,
                 0,
                 0,
                 1,
                 4,
                 0,
-                1
+                2,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9e297082fcc2b18d4e",
+            "link": "https://n.news.naver.com/mnews/article/016/0002585867?sid=100",
+            "created_at": "2026-01-15T18:04:27.853000",
+            "description": "박선원 더불어민주당 의원이 12일 국회 소통관에서 지난 2024년 이재명 대통령이 민주당 대표 당시 부산 가덕도 공항 건설 예정지 방문에서 당한 피습사건 관련 기자회견을 하고 있다. [연합] 국무총리실은 지난 2024년 1월... ",
+            "originallink": "https://biz.heraldcorp.com/article/10655658?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-14T17:54:00",
+            "related_members": [
+                "VZA76236"
+            ],
+            "title": "[속보] 총리실 “李대통령 ‘2024년 피습사건’ 테러지정 여부 20일 심의..."
+        },
         {
             "_id": "6966ec8c887d07f7ba2fb2e3",
             "link": "http://andongmbc.co.kr/adboard/NewsView80180",
@@ -161,7 +174,7 @@
             "_id": "6964b55c631fd17434996219",
             "link": "https://kjmbc.co.kr/NewsArticle/1500167",
             "created_at": "2026-01-12T17:48:25.680000",
-            "description": "* 정진욱/ 더불어민주당 국회의원 \"좀 더 구체적이고 명확한 행동을 요구하고 실제 실행하도록 할 거에요. TF 이후에 조사단의 어떤 예산과 조직을 만드는 것 그것도 함께 추진을 해 보도록 하겠습니다.\" 유족들은... ",
+            "description": "* 정종섭/외교부 서기관 \"올해 말부터 내년 초까지 미얀마에서 총선이 개최될 예정인데 저희가 총선에 대해서 아직 국제사회에서 우려가 좀 많이 있는 상황입니다.\" 더불어민주당 박선원 국회의원은 어려운... ",
             "originallink": "https://kjmbc.co.kr/NewsArticle/1500167",
             "press": "MBC",
             "pubDate": "2026-01-12T07:45:00",
@@ -353,16 +366,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac83631fd1743497d6d3",
-            "url": "https://www.youtube.com/watch?v=Mtm9K6ZtKIg",
-            "HG_NM": "박선원",
-            "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-09T16:21:36.715000",
-            "duration": 66.0,
-            "title": "박선원 의원이 말하는 외교의힘 #정치 #뉴스 #이재명",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac83631fd1743497d6d1",
             "url": "https://www.youtube.com/watch?v=FNMLyBJQpJM",
             "HG_NM": "박선원",
@@ -373,13 +376,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac83631fd1743497d6cc",
-            "url": "https://www.youtube.com/watch?v=mnEAQIbtAw4",
+            "_id": "6960ac83631fd1743497d6d2",
+            "url": "https://www.youtube.com/watch?v=oVTRhZEaonU",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-14T10:17:59.331000",
-            "duration": 1551.0,
-            "title": "[생중계] 박선원 더불어민주당 의원, 정치 현안 관련 기자회견 (2025.12.11 오전)",
+            "collected_at": "2026-01-09T16:21:36.715000",
+            "duration": 1175.0,
+            "title": "\"약물 고문 기획 군인, 대령 진급?\"...박선원 입수 문건 충격적인데...",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac83631fd1743497d6cd",
+            "url": "https://www.youtube.com/watch?v=XMK5Z07p0Eg",
+            "HG_NM": "박선원",
+            "MONA_CD": "VZA76236",
+            "collected_at": "2026-01-15T18:17:17.620000",
+            "duration": 976.0,
+            "title": "[생중계] 박선원 더불어민주당 의원 현안 관련 기자회견 (2025.10.28 오후)",
             "upload_date": null
         },
         {
@@ -403,13 +416,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac83631fd1743497d6cd",
-            "url": "https://www.youtube.com/watch?v=XMK5Z07p0Eg",
+            "_id": "6960ac83631fd1743497d6cc",
+            "url": "https://www.youtube.com/watch?v=mnEAQIbtAw4",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-14T10:17:59.331000",
-            "duration": 976.0,
-            "title": "[생중계] 박선원 더불어민주당 의원 현안 관련 기자회견 (2025.10.28 오후)",
+            "collected_at": "2026-01-15T18:17:17.620000",
+            "duration": 1551.0,
+            "title": "[생중계] 박선원 더불어민주당 의원, 정치 현안 관련 기자회견 (2025.12.11 오전)",
             "upload_date": null
         },
         {
@@ -417,7 +430,7 @@
             "url": "https://www.youtube.com/watch?v=_uFxSSNt3QQ",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-14T10:17:59.331000",
+            "collected_at": "2026-01-15T18:17:17.620000",
             "duration": 652.0,
             "title": "박선원 의원의 정보력에 아무말도 못하는 증인들... [250114 윤석열 정부의 비상계엄 선포를 통한 내란혐의 진상규명 국정조사특별위원회 - 기관보고]",
             "upload_date": null
@@ -427,7 +440,7 @@
             "url": "https://www.youtube.com/watch?v=UCvHHrZ8QNVSkPC3YGHHoU2A",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-14T10:17:59.331000",
+            "collected_at": "2026-01-15T18:17:17.620000",
             "duration": null,
             "title": "박선원TV",
             "upload_date": null
@@ -437,7 +450,7 @@
             "url": "https://www.youtube.com/watch?v=sdCa_3qSFEY",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-14T10:17:59.331000",
+            "collected_at": "2026-01-15T18:17:17.620000",
             "duration": 1178.0,
             "title": "[다시보기] 민주당 박선원 의원 '12.3 계엄 당시 고문 및 약물 투입 검토 문건' 공개-12월 11일 (목) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -447,11 +460,11 @@
             "url": "https://www.youtube.com/watch?v=gDeLS-_CSak",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-14T10:17:59.331000",
+            "collected_at": "2026-01-15T18:17:17.620000",
             "duration": 1763.0,
             "title": "[LIVE 긴급 편성] 박선원, 조은석 내란특검 수사결과 긴급 분석 라이브 방송!",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:57.987845"
+    "exported_at": "2026-01-15T18:29:44.296084"
 }

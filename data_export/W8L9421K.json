@@ -42,11 +42,12 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
             "지역",
+            "민주당",
             "경기",
             "김동연",
             "지사",
+            "토론회",
             "이수진",
             "먹사니즘",
             "전국",
@@ -55,16 +56,15 @@
             "선언",
             "기자회견",
             "집값",
-            "현안",
-            "위원회"
+            "현안"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
+                "text": "지역",
                 "value": 6
             },
             {
-                "text": "지역",
+                "text": "민주당",
                 "value": 6
             },
             {
@@ -77,6 +77,10 @@
             },
             {
                 "text": "지사",
+                "value": 4
+            },
+            {
+                "text": "토론회",
                 "value": 4
             },
             {
@@ -114,27 +118,23 @@
             {
                 "text": "현안",
                 "value": 4
-            },
-            {
-                "text": "위원회",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:05.177112",
+        "last_analyzed_at": "2026-01-15T18:29:51.931011",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
+                1,
+                1,
                 0,
-                1,
-                1,
                 0,
                 0,
                 0,
@@ -168,7 +168,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주·정성호·조정식... ",
+            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -204,6 +204,16 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad0e631fd1743497d8f2",
+            "url": "https://www.youtube.com/watch?v=_McbFpt8KWQ",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-14T10:20:22.022000",
+            "duration": 446.0,
+            "title": "국힘 선배들에 호통 친 청출어람 안태준 당선인 “배지 부끄러운 짓 하지마!”",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad0e631fd1743497d8f3",
             "url": "https://www.youtube.com/watch?v=weA0bjrFIro",
             "HG_NM": "안태준",
@@ -211,16 +221,6 @@
             "collected_at": "2026-01-14T10:20:22.022000",
             "duration": 168.0,
             "title": "하야뉴스 - 안태준 대신 총회장,  “합류한 구성원들과 화합 신뢰회복에 최선”20190103",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad0e631fd1743497d8f1",
-            "url": "https://www.youtube.com/watch?v=FhJUixpUZLw",
-            "HG_NM": "안태준",
-            "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:22.022000",
-            "duration": 641.0,
-            "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
             "upload_date": null
         },
         {
@@ -234,13 +234,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad0e631fd1743497d8f2",
-            "url": "https://www.youtube.com/watch?v=_McbFpt8KWQ",
+            "_id": "6960ad0e631fd1743497d8f1",
+            "url": "https://www.youtube.com/watch?v=FhJUixpUZLw",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
             "collected_at": "2026-01-14T10:20:22.022000",
-            "duration": 446.0,
-            "title": "국힘 선배들에 호통 친 청출어람 안태준 당선인 “배지 부끄러운 짓 하지마!”",
+            "duration": 641.0,
+            "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
             "upload_date": null
         },
         {
@@ -278,7 +278,7 @@
             "url": "https://www.youtube.com/watch?v=SapafpM9WFM",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
+            "collected_at": "2026-01-15T18:19:46.257000",
             "duration": 352.0,
             "title": "[국회의원 안태준] 국토부장관 후보자 인사청문회 경기광주 지역 현안 질의",
             "upload_date": null
@@ -304,5 +304,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:05.177112"
+    "exported_at": "2026-01-15T18:29:51.931011"
 }

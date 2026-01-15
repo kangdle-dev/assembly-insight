@@ -50,13 +50,13 @@
             "특별법",
             "보고",
             "지방선거",
-            "최고",
             "승리",
             "위원장",
             "정부",
             "신년인사",
-            "송재",
-            "제명"
+            "최고",
+            "인사",
+            "추가"
         ],
         "keyword_frequency": [
             {
@@ -92,10 +92,6 @@
                 "value": 9
             },
             {
-                "text": "최고",
-                "value": 8
-            },
-            {
                 "text": "승리",
                 "value": 8
             },
@@ -112,42 +108,59 @@
                 "value": 7
             },
             {
-                "text": "송재",
-                "value": 7
+                "text": "최고",
+                "value": 6
             },
             {
-                "text": "제명",
+                "text": "인사",
+                "value": 6
+            },
+            {
+                "text": "추가",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:09.896019",
+        "last_analyzed_at": "2026-01-15T18:29:57.191111",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                1,
                 0,
                 0,
                 1,
                 2,
                 5,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6968adbc297082fcc2b18da8",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324399?sid=100",
+            "created_at": "2026-01-15T18:04:56.926000",
+            "description": "[이연희/민주당 의원 (국회 국토교통위) : 조류의 생태라든지 특징, 이동 경로를 전문적으로 숙지해서 대응할 수 있게 교육 훈련을 강화시키는 것이….] 국회 여객기 참사 국정조사 특위는 내일(15일) 국토부와 한국공항공사... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404620&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T21:18:00",
+            "related_members": [
+                "EBH1101V"
+            ],
+            "title": "[단독] \"교육 안 받아\"…조류 퇴치에 전문성 없었다"
+        },
+        {
             "_id": "6966ec8e887d07f7ba2fb2e9",
             "link": "https://n.news.naver.com/mnews/article/022/0004097364?sid=100",
             "created_at": "2026-01-14T10:08:30.859000",
-            "description": "일각에서는 정청래 대표가 비상징계권을 발동해 제명을 확정해야 한다는 의견이 나오지만, 지도부는... 정당법 33조는 정당이 소속 국회의원을 제명하기 위해서는 소속 국회의원의 2분의 1 이상이 찬성해야 한다고... ",
+            "description": "정당법 33조는 정당이 소속 국회의원을 제명하기 위해서는 소속 국회의원의 2분의 1 이상이 찬성해야 한다고... 뉴시스 당내에서는 김 의원의 결단을 촉구하는 목소리가 지속되고 있다. 이연희 의원은 SNS에 “꽃이 지는... ",
             "originallink": "https://www.segye.com/newsView/20260113515540?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-13T18:59:00",
@@ -593,47 +606,9 @@
                 "1S05899F"
             ],
             "title": "오늘부터 여당 최고위원 후보 등록…‘친명’ ‘친청’, 어느 쪽이 2석 ..."
-        },
-        {
-            "_id": "6964b57c631fd174349963ce",
-            "link": "https://n.news.naver.com/mnews/article/016/0002572308?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "“보궐선거 출마자 한마음 선의의 경쟁” 강득구(왼쪽에서 세 번째) 더불어민주당 의원이 15일 국회... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
-            "originallink": "https://biz.heraldcorp.com/article/10636835?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-15T16:27:00",
-            "related_members": [
-                "5762459L",
-                "8P37634C",
-                "1S05899F",
-                "3UI95829",
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "C7E79345",
-                "6WK3815W",
-                "ZW43496R",
-                "86R9476S",
-                "6K79158C",
-                "YM42715P",
-                "IL74008M",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "최고위원 출마 강득구 “친명-친청 없어…당정청 원팀 조정자 역할 하겠..."
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960ad74631fd1743497da58",
-            "url": "https://www.youtube.com/watch?v=xDqItJO5y_0",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 2424.0,
-            "title": "[제361회  임시회 2차 본회의 이연희 의원 도정질문]",
-            "upload_date": null
-        },
         {
             "_id": "6960ad74631fd1743497da59",
             "url": "https://www.youtube.com/watch?v=u2ibgxFyqmo",
@@ -642,26 +617,6 @@
             "collected_at": "2026-01-09T16:25:37.194000",
             "duration": 86.0,
             "title": "[국회의원 이연희] 2025 추석 인사드립니다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da54",
-            "url": "https://www.youtube.com/watch?v=p3pI9J5bc1I",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 68.0,
-            "title": "[국회의원 이연희] 2025 설 인사드립니다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da57",
-            "url": "https://www.youtube.com/watch?v=HOo05bXVY3U",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 1735.0,
-            "title": "[ 2부 : 이연희 국회의원(더불어민주당) ] 구본상의 '허심탄회' | MBC충북 | 241107",
             "upload_date": null
         },
         {
@@ -685,33 +640,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad74631fd1743497da53",
-            "url": "https://www.youtube.com/watch?v=45UrvJAf5bw",
+            "_id": "6960ad74631fd1743497da58",
+            "url": "https://www.youtube.com/watch?v=xDqItJO5y_0",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
             "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 288.0,
-            "title": "[국회의원 이연희] 2024 의정보고",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da52",
-            "url": "https://www.youtube.com/watch?v=BBE_tX6uk3w",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 1067.0,
-            "title": "[국회의원 이연희] 대정부질문 정치분야 풀영상",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da51",
-            "url": "https://www.youtube.com/watch?v=UCXUbKFlcTvoOjTmvpbJ-uKA",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": null,
-            "title": "이연희TV",
+            "duration": 2424.0,
+            "title": "[제361회  임시회 2차 본회의 이연희 의원 도정질문]",
             "upload_date": null
         },
         {
@@ -723,7 +658,57 @@
             "duration": 1109.0,
             "title": "이연희 “오송참사 국정조사…대응 매뉴얼 미작동·보고 과정 누락 의혹 등 철저히 파헤칠 것” (25.9.15.) | 이연희 더불어민주당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da54",
+            "url": "https://www.youtube.com/watch?v=p3pI9J5bc1I",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-14T10:21:57.298000",
+            "duration": 68.0,
+            "title": "[국회의원 이연희] 2025 설 인사드립니다",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da52",
+            "url": "https://www.youtube.com/watch?v=BBE_tX6uk3w",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-15T18:21:35.010000",
+            "duration": 1067.0,
+            "title": "[국회의원 이연희] 대정부질문 정치분야 풀영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da51",
+            "url": "https://www.youtube.com/watch?v=UCXUbKFlcTvoOjTmvpbJ-uKA",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-15T18:21:35.010000",
+            "duration": null,
+            "title": "이연희TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da53",
+            "url": "https://www.youtube.com/watch?v=45UrvJAf5bw",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-14T10:21:57.298000",
+            "duration": 288.0,
+            "title": "[국회의원 이연희] 2024 의정보고",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da57",
+            "url": "https://www.youtube.com/watch?v=HOo05bXVY3U",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-14T10:21:57.298000",
+            "duration": 1735.0,
+            "title": "[ 2부 : 이연희 국회의원(더불어민주당) ] 구본상의 '허심탄회' | MBC충북 | 241107",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:09.896019"
+    "exported_at": "2026-01-15T18:29:57.191111"
 }

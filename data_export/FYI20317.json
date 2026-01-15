@@ -59,19 +59,19 @@
             "총장",
             "재선거",
             "대전",
+            "반도체",
             "군산",
             "김제",
             "부안",
             "통합",
             "경선",
             "포럼",
-            "민주",
-            "행정"
+            "민주"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 41
+                "value": 42
             },
             {
                 "text": "공천",
@@ -79,7 +79,7 @@
             },
             {
                 "text": "전략",
-                "value": 19
+                "value": 20
             },
             {
                 "text": "사무",
@@ -96,6 +96,10 @@
             {
                 "text": "대전",
                 "value": 10
+            },
+            {
+                "text": "반도체",
+                "value": 8
             },
             {
                 "text": "군산",
@@ -124,35 +128,49 @@
             {
                 "text": "민주",
                 "value": 6
-            },
-            {
-                "text": "행정",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:16.834051",
+        "last_analyzed_at": "2026-01-15T18:30:04.502736",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                6,
                 3,
                 0,
                 1,
                 1,
                 3,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9a297082fcc2b18d3f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421670?sid=100",
+            "created_at": "2026-01-15T18:04:23.294000",
+            "description": "14일 민주당에 따르면 용인 반도체 클러스터의 전북 새만금 이전을 주장해온 안호영 의원(국회... 앞서 한준호 의원은 같은 날 페이스북에 “클러스터 이전 주장은 국가전략산업의 현실과 그간 축적된 정책 결정을 외면한... ",
+            "originallink": "https://www.khan.co.kr/article/202601150600031",
+            "press": "경향신문",
+            "pubDate": "2026-01-15T06:00:00",
+            "related_members": [
+                "FJK3396E",
+                "XEF29171",
+                "JC14718Q",
+                "FYI20317",
+                "JG77046J",
+                "BCQ55105"
+            ],
+            "title": "청와대 “검토 안 해” 발표에도…여당 일각 ‘용인 반도체 이전’ 계속..."
+        },
         {
             "_id": "6966ec9f887d07f7ba2fb316",
             "link": "https://n.news.naver.com/mnews/article/079/0004104481?sid=102",
@@ -265,7 +283,7 @@
             "_id": "6964b548631fd17434996090",
             "link": "https://n.news.naver.com/mnews/article/052/0002298166?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 김도읍 의원이 빠졌던 정책위의장 자리에 PK 3선의 정점식 의원을 지명했고요. 그리고 지명직 최고위원... ",
+            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 되면 양문석 의원도 지금 현재 대법원 판결 앞두고 있고 해서 미니 총선이 될 가능성, 이런 이야기도 나오고... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601082154190243",
             "press": "YTN",
             "pubDate": "2026-01-08T21:54:00",
@@ -423,13 +441,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960adfa631fd1743497dc4f",
-            "url": "https://www.youtube.com/watch?v=mvASCGTClOI",
+            "_id": "6960adfa631fd1743497dc51",
+            "url": "https://www.youtube.com/watch?v=wzhj8BgcnRE",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-14T10:24:02.206000",
-            "duration": 1228.0,
-            "title": "조승래 더불어민주당 사무총장 기자간담회 - [끝까지LIVE] MBC 중계방송 2025년 12월 07일",
+            "collected_at": "2026-01-09T16:27:51.855000",
+            "duration": 1033.0,
+            "title": "[다시보기] 민주당 조승래 \"시도당위원장 공천 기구 참여 배제시킬 것\"-1월 8일 (목) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
         },
         {
@@ -443,6 +461,26 @@
             "upload_date": null
         },
         {
+            "_id": "6960adfa631fd1743497dc4d",
+            "url": "https://www.youtube.com/watch?v=fI-3GRP45E8",
+            "HG_NM": "조승래",
+            "MONA_CD": "FYI20317",
+            "collected_at": "2026-01-15T18:23:54.782000",
+            "duration": 1103.0,
+            "title": "인터뷰 릴레이 칭찬 285회 조승래 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfa631fd1743497dc50",
+            "url": "https://www.youtube.com/watch?v=fzHpQ2RDsr0",
+            "HG_NM": "조승래",
+            "MONA_CD": "FYI20317",
+            "collected_at": "2026-01-15T18:23:55.569000",
+            "duration": 3153.0,
+            "title": "조승래 민주당 사무총장 기자간담회  - [끝까지LIVE] MBC 중계방송 2025년 11월 30일",
+            "upload_date": null
+        },
+        {
             "_id": "6960adfa631fd1743497dc4e",
             "url": "https://www.youtube.com/watch?v=8_bBMmW0WQs",
             "HG_NM": "조승래",
@@ -453,53 +491,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc51",
-            "url": "https://www.youtube.com/watch?v=wzhj8BgcnRE",
-            "HG_NM": "조승래",
-            "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-09T16:27:51.855000",
-            "duration": 1033.0,
-            "title": "[다시보기] 민주당 조승래 \"시도당위원장 공천 기구 참여 배제시킬 것\"-1월 8일 (목) 풀영상 [이슈현장] / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfa631fd1743497dc4d",
-            "url": "https://www.youtube.com/watch?v=fI-3GRP45E8",
-            "HG_NM": "조승래",
-            "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-14T10:24:01.551000",
-            "duration": 1103.0,
-            "title": "인터뷰 릴레이 칭찬 285회 조승래 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
             "_id": "6960adfa631fd1743497dc4c",
             "url": "https://www.youtube.com/watch?v=4ovFK-fcIMI",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-14T10:24:01.551000",
+            "collected_at": "2026-01-15T18:23:54.782000",
             "duration": 840.0,
             "title": "171219 [NATV 생방송 오늘]  조승래 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfa631fd1743497dc4b",
-            "url": "https://www.youtube.com/watch?v=DNt0puT7RV8",
-            "HG_NM": "조승래",
-            "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-14T10:24:01.551000",
-            "duration": 583.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 조승래 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfa631fd1743497dc49",
-            "url": "https://www.youtube.com/watch?v=UCrhAtvNaWRA0Wg9c9U2dFew",
-            "HG_NM": "조승래",
-            "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-14T10:24:01.551000",
-            "duration": null,
-            "title": "조승래TV",
             "upload_date": null
         },
         {
@@ -513,15 +511,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc50",
-            "url": "https://www.youtube.com/watch?v=fzHpQ2RDsr0",
+            "_id": "6960adfa631fd1743497dc49",
+            "url": "https://www.youtube.com/watch?v=UCrhAtvNaWRA0Wg9c9U2dFew",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-14T10:24:02.206000",
-            "duration": 3153.0,
-            "title": "조승래 민주당 사무총장 기자간담회  - [끝까지LIVE] MBC 중계방송 2025년 11월 30일",
+            "collected_at": "2026-01-15T18:23:54.782000",
+            "duration": null,
+            "title": "조승래TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfa631fd1743497dc4b",
+            "url": "https://www.youtube.com/watch?v=DNt0puT7RV8",
+            "HG_NM": "조승래",
+            "MONA_CD": "FYI20317",
+            "collected_at": "2026-01-15T18:23:54.782000",
+            "duration": 583.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 조승래 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfa631fd1743497dc4f",
+            "url": "https://www.youtube.com/watch?v=mvASCGTClOI",
+            "HG_NM": "조승래",
+            "MONA_CD": "FYI20317",
+            "collected_at": "2026-01-15T18:23:55.569000",
+            "duration": 1228.0,
+            "title": "조승래 더불어민주당 사무총장 기자간담회 - [끝까지LIVE] MBC 중계방송 2025년 12월 07일",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:16.834051"
+    "exported_at": "2026-01-15T18:30:04.502736"
 }

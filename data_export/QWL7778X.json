@@ -42,112 +42,329 @@
     },
     "analysis": {
         "keywords": [
-            "장동혁",
+            "제명",
             "대표",
-            "특검",
-            "공천",
+            "한동훈",
+            "장동혁",
+            "국민",
             "개혁",
             "신당",
-            "연대",
+            "특검",
             "민주당",
-            "국민",
             "김병기",
-            "제명",
-            "지금",
             "국힘",
-            "뇌물수수",
-            "김성열"
+            "상황",
+            "절차",
+            "인터뷰",
+            "지금"
         ],
         "keyword_frequency": [
             {
-                "text": "장동혁",
-                "value": 24
+                "text": "제명",
+                "value": 21
             },
             {
                 "text": "대표",
-                "value": 24
+                "value": 21
             },
             {
-                "text": "특검",
+                "text": "한동훈",
+                "value": 19
+            },
+            {
+                "text": "장동혁",
                 "value": 16
             },
             {
-                "text": "공천",
-                "value": 15
+                "text": "국민",
+                "value": 13
             },
             {
                 "text": "개혁",
-                "value": 15
-            },
-            {
-                "text": "신당",
-                "value": 15
-            },
-            {
-                "text": "연대",
-                "value": 14
-            },
-            {
-                "text": "민주당",
-                "value": 14
-            },
-            {
-                "text": "국민",
                 "value": 12
             },
             {
-                "text": "김병기",
+                "text": "신당",
+                "value": 12
+            },
+            {
+                "text": "특검",
                 "value": 11
             },
             {
-                "text": "제명",
+                "text": "민주당",
                 "value": 9
             },
             {
-                "text": "지금",
+                "text": "김병기",
                 "value": 9
             },
             {
                 "text": "국힘",
+                "value": 9
+            },
+            {
+                "text": "상황",
                 "value": 8
             },
             {
-                "text": "뇌물수수",
-                "value": 8
+                "text": "절차",
+                "value": 6
             },
             {
-                "text": "김성열",
-                "value": 7
+                "text": "인터뷰",
+                "value": 6
+            },
+            {
+                "text": "지금",
+                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:11.848445",
+        "last_analyzed_at": "2026-01-15T18:29:59.120036",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                1,
-                16,
-                3
+                5,
+                4,
+                11
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6968ad84297082fcc2b18cb6",
+            "link": "https://n.news.naver.com/mnews/article/052/0002301289?sid=100",
+            "created_at": "2026-01-15T18:04:01.563000",
+            "description": "그러니까 이건 국회의원의 직무 관련성이 없다고 여태까지 봐왔던 거거든요. 입증하기가 쉽지가 않다?... 구속영장을 신청하면 체포동의안도 넘어오게 될 텐데 오늘 전용기 의원은 원칙대로 처리할 것이다, 이런 얘기를... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601151638500036",
+            "press": "YTN",
+            "pubDate": "2026-01-15T16:38:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "4019850M",
+                "AEJ19639",
+                "8X15119P",
+                "QWL7778X",
+                "KFM1081G",
+                "TJW93720"
+            ],
+            "title": "[정치ON] 한동훈 제명 의결 '잠시' 멈췄지만...국힘 내홍 '일촉즉발'"
+        },
+        {
+            "_id": "6968ad98297082fcc2b18d35",
+            "link": "https://n.news.naver.com/mnews/article/003/0013713055?sid=100",
+            "created_at": "2026-01-15T18:04:21.548000",
+            "description": "정금민 신재현 한재혁 기자 = 더불어민주당은 15일 장동혁 국민의힘 대표가 '공천 뇌물·통일교 특검법' 수용... 김현정 민주당 원내대변인은 이날 국회에서 열린 정책 의원총회 후 기자들과 만나 \"원래 민주당은 통일교... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478463",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T15:15:00",
+            "related_members": [
+                "7YL9580G",
+                "KFM1081G",
+                "6VC83722",
+                "QWL7778X"
+            ],
+            "title": "與 \"장동혁 단식은 정치적 쇼…공천헌금 특검도 정치공세\""
+        },
+        {
+            "_id": "6968ad96297082fcc2b18d2b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716559?sid=100",
+            "created_at": "2026-01-15T18:04:19.023000",
+            "description": "복수의 참석자에 따르면 이날 오전 국회에서 열린 비공개 의원총회에서 발언에 나선 대다수 의원은 윤리위... 친한계 정성국 의원은 \"(의총 내에서) '지각한 학생을 퇴학시키려는 상황 아니겠나'라는 표현을 하신 분도... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040343",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:13:00",
+            "related_members": [
+                "N378078V",
+                "QWL7778X",
+                "YOG1280B",
+                "MSY7784L",
+                "ZRF3039U",
+                "KFM1081G",
+                "CGW7415Z"
+            ],
+            "title": "\"지각생 퇴학시키나\" 韓 제명, 의총서 우려…張 절차적 '명분 쌓기'"
+        },
+        {
+            "_id": "6968ad84297082fcc2b18cba",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716539?sid=100",
+            "created_at": "2026-01-15T18:04:01.563000",
+            "description": "▷이호승 : 그러니까 장동혁 대표가 전에 국회 앞에서 집회하다가 우리가 황교안이다 그랬잖아요. 그리고 윤석열 대통령 사형 구형되고 김병기 전 김병기 의원 때문에 시끌시끌한 상황에서 한동훈 전 대표를 제명시켰어요.... ",
+            "originallink": "https://www.news1.kr/politics/president/6040360",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:06:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "DMP1439I",
+                "8BF5855P",
+                "QWL7778X",
+                "RPN2293B",
+                "KFM1081G"
+            ],
+            "title": "[인터뷰 전문] 경민정 \"한동훈, 가족의 비방글 방치…국민과 공감능력 ..."
+        },
+        {
+            "_id": "6968ad95297082fcc2b18d29",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716526?sid=100",
+            "created_at": "2026-01-15T18:04:18.169000",
+            "description": "김현정 당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝나고 기자들과 만나 \"이것으로 단식하는... 이철규 의원과 김정재 의원이 3억~5억 원을 주는 것이 관례라는 녹취록이 나왔고, 12·3 불법계엄 당일 추경호... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040382",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:01:00",
+            "related_members": [
+                "E1J8836Y",
+                "G152611B",
+                "KFM1081G",
+                "7YL9580G",
+                "6VC83722",
+                "QWL7778X",
+                "TZP9391O"
+            ],
+            "title": "與, 통일교 특검 촉구 장동혁 단식에 \"정치적 쇼\" 일축"
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cda",
+            "link": "https://n.news.naver.com/mnews/article/003/0013712557?sid=100",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "윤상현 국민의힘 의원은 이날 국회에서 열린 의원총회 도중 기자들과 만나 비공개로 진행된 의원총회에서... 조경태 의원은 \"이렇게 하는 행위는 올바른 행위가 아니다. 지금은 통합과 단합의 시간\"이라며 \"한 전 대표... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478165",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T13:12:00",
+            "related_members": [
+                "LYY5513O",
+                "MSY7784L",
+                "N378078V",
+                "QWL7778X",
+                "5KV82250"
+            ],
+            "title": "국힘, 의총서 \"한동훈 제명 철회해야\" \"지금은 내 탓 할 때\""
+        },
+        {
+            "_id": "6968ad84297082fcc2b18cbf",
+            "link": "https://n.news.naver.com/mnews/article/052/0002301123?sid=100",
+            "created_at": "2026-01-15T18:04:01.563000",
+            "description": "소명을 할 수 있기 때문에 충분한 소명을 통해서 우리 당의 당원들이나 또 우리 국회의원들, 조금 전에... 오늘 국민의힘은 이 부분에 대해서 계속해서 특검을 하자 얘기를 하고 있는 그런 상황이고 오늘 아침에 전용기... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601151238374886",
+            "press": "YTN",
+            "pubDate": "2026-01-15T12:38:00",
+            "related_members": [
+                "KFM1081G",
+                "8Q88373R",
+                "MNZ4401T",
+                "86R9476S",
+                "CNZ51556",
+                "57B28032",
+                "4019850M",
+                "AEJ19639",
+                "9VR65006",
+                "S824682L",
+                "QWL7778X",
+                "TJW93720"
+            ],
+            "title": "[시사정각] 한동훈 '제명' 후폭풍...장동혁 \"재심의 기간 둘 것\" 의미는..."
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cd1",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105345?sid=100",
+            "created_at": "2026-01-15T18:04:04.184000",
+            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 김재섭(국민의힘 국회의원) ◇ 박성태&gt;국민의힘 상황이 말이... 중진 의원들이 계시고 실제로 권영세 전 비대위원장 같은 분들, 5선에 제가 알기로 조배숙 의원도 비슷한 말씀을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456612?utm_source=naver&utm_medium=article&utm_campaign=20260115101701",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-15T10:17:00",
+            "related_members": [
+                "LG63087O",
+                "KFM1081G",
+                "57B28032",
+                "86R9476S",
+                "7XY7109I",
+                "QWL7778X",
+                "IWK63872"
+            ],
+            "title": "김재섭 \"한동훈 제명 대체 누가 이득? 장동혁 체제 이대론 못 간다\""
+        },
+        {
+            "_id": "6968ad87297082fcc2b18cd2",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105445?sid=100",
+            "created_at": "2026-01-15T18:04:04.184000",
+            "description": "▶ 조갑제 : 근데 재밌는 건 23명인가 하는 국회의원들은 제명 반대 태도를 분명히 했는데 혹시 제가 몰라서... ▷ 소현정 : 그러면 지금 개혁신당 이준석 대표하고 만났지 않습니까? 특검법 매개로요. 이거는 어떻게... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459661&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T09:52:00",
+            "related_members": [
+                "LG63087O",
+                "DMP1439I",
+                "QWL7778X"
+            ],
+            "title": "[전격시사] 조갑제 조갑제닷컴 대표 - “국힘, 한동훈 제명 ‘작당’…..."
+        },
+        {
+            "_id": "6968ada3297082fcc2b18d5b",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106888&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-15T18:04:32.178000",
+            "description": "다른 상임위 의원들은 자기 관여가 아니잖아요. 따라서 민주당이 대다수 의원들은 정성호 장관이나... 특수부 폐지해가 득본 국회의원들이나 권력자 있습니까? 특수부 있었으면요. 벌써 김병기고 강선우고 벌써 구속됐을... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106888&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-15T09:30:00",
+            "related_members": [
+                "8BF5855P",
+                "8Q88373R",
+                "MNZ4401T",
+                "0R68099X",
+                "QWL7778X",
+                "RPN2293B",
+                "V429892C"
+            ],
+            "title": "'제명 전성시대' 맞은 민주당… 김병기 '다이아몬드 폰' 공포에 비상징..."
+        },
+        {
+            "_id": "6968adbf297082fcc2b18dbb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008715210?sid=103",
+            "created_at": "2026-01-15T18:05:00.682000",
+            "description": "한편 이날 포럼에 앞서 국회의원회관 로비에서는 디지털 헬스케어 기기를 직접 체험할 수 있는 부스가 운영됐다. 이준석 개혁신당 대표를 비롯한 다양한 참관객이 방문해 대웅제약의 병상 모니터링 시스템 씽크, 웨어러블... ",
+            "originallink": "https://www.news1.kr/bio/pharmaceutical-bio/6039683",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T09:05:00",
+            "related_members": [
+                "WI719547",
+                "QWL7778X"
+            ],
+            "title": "\"통합돌봄·만성질환 관리 핵심 디지털 헬스케어\"…제도 보완 논의"
+        },
+        {
+            "_id": "6968ad91297082fcc2b18d1a",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473460?sid=100",
+            "created_at": "2026-01-15T18:04:14.394000",
+            "description": "근데 문제를 되게 많이 일으키고 알량한 팬덤과 일부 국회의원들 등에 업고 시끄럽게 한 평당원이지 이게 뭐... 그러니까 그렇게 민주당에서는 어땠을까 개혁신당에서 천하람 대표 가족들이 이준석 대표 욕 그렇게 몰래... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12279962?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-14T15:14:00",
+            "related_members": [
+                "CNZ51556",
+                "3OQ8273H",
+                "YGB8604T",
+                "QWL7778X"
+            ],
+            "title": "[전문] 장예찬 \"한동훈, 알량한 팬덤 업고 당 시끄럽게 한 평당원일 뿐..."
+        },
+        {
             "_id": "6966ec72887d07f7ba2fb26d",
             "link": "https://n.news.naver.com/mnews/article/079/0004104827?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "핵심요약 ■ 방송 : CBS 라디오 &lt;박성태의 뉴스쇼&gt; FM 98.1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 권영진(국민의힘 국회의원) 오늘 1부의 첫 손님은 국민의힘 권영진 의원입니다. 당내 쇄신을 얘기했고요. 그리고 장동혁... ",
+            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 권영진(국민의힘 국회의원) 오늘 1부의 첫 손님은 국민의힘... 간사들이 김대식 정책 정무특보한테 전하는 걸로 그렇게 결론을 내렸습니다. 내렸는데 이렇게 한밤중에 쿠데타... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455846?utm_source=naver&utm_medium=article&utm_campaign=20260114093937",
             "press": "노컷뉴스",
             "pubDate": "2026-01-14T09:40:00",
@@ -200,7 +417,7 @@
             "_id": "6966ec72887d07f7ba2fb274",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106856&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "부원장 - 장동혁·이준석 만남, 지방선거연대 해석은 앞서간 얘기 - 장동혁, 통일교 특검 미뤄지면 단식 등... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단 어르신들보다... ",
+            "description": "그리고 본질은 안철수 의원이 지적한 것처럼 어떻게 2개의 IP에서 가족 명의 5개의 글이 천 개 이상 나오느냐.... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106856&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-13T20:30:00",
@@ -220,7 +437,7 @@
             "_id": "6966ec72887d07f7ba2fb275",
             "link": "https://n.news.naver.com/mnews/article/055/0001323994?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데... 지금 정청래 대표가 오늘 비상징계 권한이 당 대표에게 있는데 그것을 행사하지 않겠다는 점을 분명히 했거든요.... ",
+            "description": "5 MHz 17:00 ~ 18:00) ■ 일자 : 2025년 1월 13일 (화) ■ 진행 : 주영진 SBS앵커 ■ 출연 : 이용우 더불어민주당 의원... 정당법상 국회의원은 소속 의원 절반 이상이 찬성해 줘야 제명이 되니까 그 절차를 밟으려고 했었는데 당사자가... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402989&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-13T20:13:00",
@@ -240,7 +457,7 @@
             "_id": "6966ec72887d07f7ba2fb277",
             "link": "https://n.news.naver.com/mnews/article/052/0002300197?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "부원장 - 장동혁·이준석 만남, 지방선거연대 해석은 앞서간 얘기 - 장동혁, 통일교 특검 미뤄지면 단식 등... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단 어르신들보다... ",
+            "description": "그리고 본질은 안철수 의원이 지적한 것처럼 어떻게 2개의 IP에서 가족 명의 5개의 글이 천 개 이상 나오느냐.... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601131948268946",
             "press": "YTN",
             "pubDate": "2026-01-13T19:48:00",
@@ -260,7 +477,7 @@
             "_id": "6966eca0887d07f7ba2fb319",
             "link": "https://n.news.naver.com/mnews/article/003/0013708600?sid=100",
             "created_at": "2026-01-14T10:08:48.635000",
-            "description": "이어 \"정청래 민주당 대표는 2차 종합특검과 통일교 특검을 같이 처리하겠다고 했다\"며 \"그런데 통일교... 그러면서 \"그런데 통일교는 여당 인사, 장관까지 지낸 현직 국회의원이 관련돼 있는 사건이고 이미 증거가 다... ",
+            "description": "이승재 우지은 기자 = 장동혁 국민의힘 대표와 이준석 개혁신당 대표가 13일 우원식 국회의장을 만나 오는... 그러면서 \"그런데 통일교는 여당 인사, 장관까지 지낸 현직 국회의원이 관련돼 있는 사건이고 이미 증거가 다... ",
             "originallink": "https://www.newsis.com/view/NISX20260113_0003475678",
             "press": "뉴시스",
             "pubDate": "2026-01-13T19:08:00",
@@ -276,7 +493,7 @@
             "_id": "6966ec7f887d07f7ba2fb2ca",
             "link": "https://n.news.naver.com/mnews/article/437/0000473309?sid=100",
             "created_at": "2026-01-14T10:08:16.261000",
-            "description": "정청래 당대표도 상당히 괴롭다라는 심경을 밝히기도 했었는데 사실 그동안에는 본인은 모든 의혹에 대해서... 과반수 국회의원들의 동의를 받아야 하거든요. 그러면 그렇게 재심을 청구한 상태에서 의총에다 이 사안을... ",
+            "description": "[김현정/더불어민주당 의원 : 그렇습니다. 어제 이제 정부에서 정부입법을 입법예고한 거잖아요. 그리고 그거에 대해서 당연히 국회에서 숙지하고 공론화 과정을 거쳐서 최종 확정되는 것이고 그런 절차들에 대해서... ",
             "originallink": "https://news.jtbc.co.kr/article/NB12279769?influxDiv=NAVER",
             "press": "JTBC",
             "pubDate": "2026-01-13T18:48:00",
@@ -291,258 +508,9 @@
                 "2385336L"
             ],
             "title": "[더in터뷰] 김현정 \"김병기 '제명' 처분, 뼈 아파…1월 내 재심 절차 끝..."
-        },
-        {
-            "_id": "6966ec8e887d07f7ba2fb2ea",
-            "link": "https://n.news.naver.com/mnews/article/055/0001323947?sid=100",
-            "created_at": "2026-01-14T10:08:30.859000",
-            "description": "&lt;국민의힘 최보윤 수석대변인 논평&gt; \"민주당이 제명으로 선을 긋는 순간, 그것은 사실상 증거 인멸의... \" 더불어민주당에서는 앞서 국회의원 두 명이 제명되었습니다. 이춘석, 강선우 의원입니다. 김병기 전 원내대표 역시... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008402574&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-13T16:56:00",
-            "related_members": [
-                "5TQ6306B",
-                "V2R7430Z",
-                "8Q88373R",
-                "MNZ4401T",
-                "EBH1101V",
-                "QWL7778X",
-                "UOS16250"
-            ],
-            "title": "[이브닝 브리핑] 김병기, 제명 결정에 '재심' 청구…\"꽃은 아름다운 순..."
-        },
-        {
-            "_id": "6966ec98887d07f7ba2fb304",
-            "link": "https://n.news.naver.com/mnews/article/016/0002585170?sid=100",
-            "created_at": "2026-01-14T10:08:40.464000",
-            "description": "열린 ‘국회의원-당협위원장 연석회의 및 의원총회’에서 공천헌금뇌물수수 규탄하는 퍼포먼스를 하고... 공천뇌물 강선우·김병기 의원, 축의금 가장한 뇌물수수 최민희 의원, 성추행 잡범 장경태 의원 등 완벽한... ",
-            "originallink": "https://biz.heraldcorp.com/article/10654658?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-13T16:09:00",
-            "related_members": [
-                "P7U7800Z",
-                "KFM1081G",
-                "QWL7778X",
-                "8Q88373R",
-                "MNZ4401T",
-                "YS38221N",
-                "RPN2293B"
-            ],
-            "title": "국민의힘, ‘공천헌금·뇌물수수 규탄’ 의원총회…“민주당 특검 수용..."
-        },
-        {
-            "_id": "6966ecb1887d07f7ba2fb32c",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708035?sid=100",
-            "created_at": "2026-01-14T10:09:06.299000",
-            "description": "장동혁 대표는 이날 오후 국회에서 열린 '의원-당협위원장 연석회의 및 의원총회'에서 \"오늘 이준석 개혁신당... 공천뇌물 강선우·김병기 의원, 축의금 가장한 뇌물수수 최민희 의원, 성추행 잡범 장경태 의원 등 완벽한... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475297",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T15:17:00",
-            "related_members": [
-                "QWL7778X",
-                "RPN2293B",
-                "MNZ4401T",
-                "KFM1081G",
-                "8Q88373R",
-                "YS38221N"
-            ],
-            "title": "국민의힘 '이재명 정권-더불어민주당 공천헌금·뇌물수수 규탄' [뉴시스..."
-        },
-        {
-            "_id": "6966ecb1887d07f7ba2fb32d",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708020?sid=100",
-            "created_at": "2026-01-14T10:09:06.299000",
-            "description": "장동혁 대표는 이날 오후 국회에서 열린 '의원-당협위원장 연석회의 및 의원총회'에서 \"오늘 이준석 개혁신당... 공천뇌물 강선우·김병기 의원, 축의금 가장한 뇌물수수 최민희 의원, 성추행 잡범 장경태 의원 등 완벽한... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475278",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T15:11:00",
-            "related_members": [
-                "QWL7778X",
-                "RPN2293B",
-                "MNZ4401T",
-                "KFM1081G",
-                "8Q88373R",
-                "YS38221N"
-            ],
-            "title": "국힘 \"민주당 공천은 뇌물순…아예 정찰가격 제시하라\""
-        },
-        {
-            "_id": "6966ec8e887d07f7ba2fb2eb",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104460?sid=100",
-            "created_at": "2026-01-14T10:08:30.860000",
-            "description": "◆ 장성철&gt; 근데 제가 어제 오랜만에 국회 가서 몇몇 의원님들 만나 뵙고 왔거든요. 좀 여러 가지 좀 얘기 좀... 앞서 박수현 더불어민주당 수석대변인 인터뷰를 했는데 김병기 의원이 재심을 청구하게 되면 어쨌든 기간이... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455328?utm_source=naver&utm_medium=article&utm_campaign=20260113113917",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-13T11:40:00",
-            "related_members": [
-                "KFM1081G",
-                "5TQ6306B",
-                "8Q88373R",
-                "QWL7778X"
-            ],
-            "title": "이준석 손잡은 장동혁 \"107석이 3석에 흔들?\""
-        },
-        {
-            "_id": "6966eca6887d07f7ba2fb31c",
-            "link": "https://n.news.naver.com/mnews/article/056/0012103613?sid=100",
-            "created_at": "2026-01-14T10:08:55.279000",
-            "description": "그런데 다 아시겠지만 지금 이혜훈 후보자의 청약 관련된 문제라든지 이런 것들을 사실 저희 천하람 의원이 지금 밝혀내는 것들이거든요. 그러니까 인사청문회에서 인사청문위원으로서 개별 국회의원들이 최선의 노력을... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457259&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-13T09:47:00",
-            "related_members": [
-                "KFM1081G",
-                "QWL7778X",
-                "OSV9142K",
-                "RPN2293B",
-                "MNZ4401T",
-                "8Q88373R",
-                "9YO73104",
-                "V429892C",
-                "YGB8604T"
-            ],
-            "title": "[전격시사] 이준석 개혁신당 대표 - “장동혁 대표와 오늘 회동 “(여당..."
-        },
-        {
-            "_id": "696594d4887d07f7ba2fab67",
-            "link": "https://n.news.naver.com/mnews/article/421/0008710091?sid=100",
-            "created_at": "2026-01-13T09:41:54.583000",
-            "description": "그러면서 \"동탄 지지자들이 국회의원 4년 하라고 뽑아줬는데 나오자마자 대선을 뛰었다. 그 정도만으로도... 김 최고위원은 13일 오전 이 대표와 장동혁 국민의힘 대표 회동에 대해 \"이준석 대표가 14일 해외 일정이 있어... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6036650",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T08:10:00",
-            "related_members": [
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "개혁신당 김성열 \"이준석 경기지사? 동탄 주민이 원하지 않아\""
-        },
-        {
-            "_id": "69659499887d07f7ba2fab15",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
-            "created_at": "2026-01-13T09:40:55.415000",
-            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 지금 추미애 한준호 염태영 김병주 양기대 이런 분들까지 지금 함께 나오고 있습니다만. ◆ 이동형... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-13T08:01:00",
-            "related_members": [
-                "GOC54665",
-                "2385336L",
-                "N2P9317N",
-                "8P37634C",
-                "MNZ4401T",
-                "8Q88373R",
-                "BCQ55105",
-                "URV1689Q",
-                "URX8075K",
-                "GF286398",
-                "2NV6751W",
-                "VDN5593C",
-                "H5476989",
-                "A494529E",
-                "NUB4941Z",
-                "6AU2417B",
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "KFM1081G",
-                "QWL7778X",
-                "3C23171A"
-            ],
-            "title": "이동형 \"친청이 반명이냐? '명청 대결' 했다면 명이 이겨\"[한판승부]"
-        },
-        {
-            "_id": "6965949a887d07f7ba2fab18",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-13T09:40:56.510000",
-            "description": "지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... 되면 의원들이 보통 먼저 탈당을 하잖아요? 이춘석 의원 같은 경우에도 그랬고. ◇ 신장식 : 네, 그랬죠. ◆ 김영수... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-13T08:00:00",
-            "related_members": [
-                "KFM1081G",
-                "V2R7430Z",
-                "MNZ4401T",
-                "NPD75153",
-                "QWL7778X",
-                "8Q88373R",
-                "TZP9391O",
-                "E1J8836Y",
-                "5TQ6306B",
-                "TQP7167T",
-                "2385336L"
-            ],
-            "title": "신장식 \"장동혁-이준석 '李·韓 싫어'연대, 특검공조 왜 민주당만? 자기..."
-        },
-        {
-            "_id": "6965949a887d07f7ba2fab19",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299816?sid=100",
-            "created_at": "2026-01-13T09:40:56.510000",
-            "description": "지역위원장들이나 현역 국회의원들이 전부 다 공천 심사위원장으로 가니까 다 줄 서서 그쪽으로 돈과 줄.... 되면 의원들이 보통 먼저 탈당을 하잖아요? 이춘석 의원 같은 경우에도 그랬고. ◇ 신장식 : 네, 그랬죠. ◆ 김영수... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601130746452932",
-            "press": "YTN",
-            "pubDate": "2026-01-13T07:46:00",
-            "related_members": [
-                "KFM1081G",
-                "V2R7430Z",
-                "MNZ4401T",
-                "NPD75153",
-                "QWL7778X",
-                "8Q88373R",
-                "TZP9391O",
-                "E1J8836Y",
-                "5TQ6306B",
-                "TQP7167T",
-                "2385336L",
-                "80C5885Z"
-            ],
-            "title": "신장식 \"장동혁-이준석 '李·韓 싫어'연대, 특검공조 왜 민주당만? 자기..."
-        },
-        {
-            "_id": "696594ba887d07f7ba2fab55",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104305?sid=100",
-            "created_at": "2026-01-13T09:41:29.113000",
-            "description": "◆ 김성열&gt; 왜냐하면 국회의원 4년 하라고 했는데 나오자마자 사실 대선을 뛰었잖아요. 그 정도만으로도 사실... ◆ 노영희&gt; 당 구성원들이 바뀌고 마인드가 달라져야지 대표가 달라지는 마음을 가져야지 이게 주호영 의원... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455086?utm_source=naver&utm_medium=article&utm_campaign=20260113073013",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-13T07:31:00",
-            "related_members": [
-                "KFM1081G",
-                "4X525582",
-                "QWL7778X",
-                "9YO73104",
-                "PFG2137X",
-                "8SV6917G"
-            ],
-            "title": "김성열 \"장동혁·이준석 만남이 지선 연대? 얻을 게 없다\"[한판승부]"
-        },
-        {
-            "_id": "696594d4887d07f7ba2fab68",
-            "link": "https://n.news.naver.com/mnews/article/032/0003421009?sid=100",
-            "created_at": "2026-01-13T09:41:54.584000",
-            "description": "위한 장동혁 국민의힘 대표와의 연석회담을 재차 요구했다. 그는 “우리나라와 일본이 사이가 안 좋아도... 이는 개혁신당이 중앙정치 무대에서 주도권을 행사할 수 없는 국회의원 3석의 소수 정당이라는 한계와 맞닿아... ",
-            "originallink": "https://www.khan.co.kr/article/202601122044005",
-            "press": "경향신문",
-            "pubDate": "2026-01-12T20:44:00",
-            "related_members": [
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "공천 심사 무료·99만원 출마…개혁신당의 ‘안간힘’"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960a7c7631fd1743497d1ab",
-            "url": "https://www.youtube.com/watch?v=FArHBHH8TDY",
-            "HG_NM": "이준석",
-            "MONA_CD": "QWL7778X",
-            "collected_at": "2026-01-09T16:01:15.165000",
-            "duration": 345.0,
-            "source": "KBS뉴스",
-            "title": "[대선토론] 이준석 \"HMM 전신 묻는데 왜 답변 안 하나\"…\"가만히 좀 계세요!\" / KBS 2025.05.27.",
-            "upload_date": null
-        },
         {
             "_id": "6960a7c7631fd1743497d1aa",
             "url": "https://www.youtube.com/watch?v=RsIZRxIpUd0",
@@ -552,6 +520,17 @@
             "duration": 636.0,
             "source": "KBS뉴스",
             "title": "[현장] \"尹과 내가 공범? 무리한 시도\" 이준석, 김건희특검 피의자 출석/2025년 12월 21일(일)/KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a7c7631fd1743497d1ab",
+            "url": "https://www.youtube.com/watch?v=FArHBHH8TDY",
+            "HG_NM": "이준석",
+            "MONA_CD": "QWL7778X",
+            "collected_at": "2026-01-09T16:01:15.165000",
+            "duration": 345.0,
+            "source": "KBS뉴스",
+            "title": "[대선토론] 이준석 \"HMM 전신 묻는데 왜 답변 안 하나\"…\"가만히 좀 계세요!\" / KBS 2025.05.27.",
             "upload_date": null
         },
         {
@@ -643,5 +622,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:11.848445"
+    "exported_at": "2026-01-15T18:29:59.120036"
 }

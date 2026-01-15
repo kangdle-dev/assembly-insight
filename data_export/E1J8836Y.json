@@ -54,19 +54,19 @@
         "keywords": [
             "공천",
             "의혹",
-            "포항",
             "국힘",
-            "이준석",
-            "민주당",
-            "지역",
             "장동혁",
+            "김병기",
+            "민주당",
+            "이철규",
+            "이준석",
+            "특검",
+            "국민",
             "조국",
             "혁신",
-            "김병기",
-            "이철규",
-            "국민",
-            "인사",
-            "장식"
+            "포항",
+            "장식",
+            "지역"
         ],
         "keyword_frequency": [
             {
@@ -75,10 +75,6 @@
             },
             {
                 "text": "의혹",
-                "value": 15
-            },
-            {
-                "text": "포항",
                 "value": 14
             },
             {
@@ -86,73 +82,113 @@
                 "value": 13
             },
             {
-                "text": "이준석",
-                "value": 11
-            },
-            {
-                "text": "민주당",
-                "value": 11
-            },
-            {
-                "text": "지역",
-                "value": 11
-            },
-            {
                 "text": "장동혁",
-                "value": 10
-            },
-            {
-                "text": "조국",
-                "value": 10
-            },
-            {
-                "text": "혁신",
-                "value": 10
+                "value": 12
             },
             {
                 "text": "김병기",
-                "value": 10
+                "value": 12
+            },
+            {
+                "text": "민주당",
+                "value": 12
             },
             {
                 "text": "이철규",
+                "value": 10
+            },
+            {
+                "text": "이준석",
+                "value": 10
+            },
+            {
+                "text": "특검",
                 "value": 9
             },
             {
                 "text": "국민",
-                "value": 8
+                "value": 9
             },
             {
-                "text": "인사",
+                "text": "조국",
+                "value": 9
+            },
+            {
+                "text": "혁신",
+                "value": 9
+            },
+            {
+                "text": "포항",
                 "value": 8
             },
             {
                 "text": "장식",
                 "value": 7
+            },
+            {
+                "text": "지역",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:53.940137",
+        "last_analyzed_at": "2026-01-15T18:29:39.987197",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                5,
                 2,
                 0,
                 3,
                 1,
                 2,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad95297082fcc2b18d29",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716526?sid=100",
+            "created_at": "2026-01-15T18:04:18.169000",
+            "description": "김현정 당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝나고 기자들과 만나 \"이것으로 단식하는... 이철규 의원과 김정재 의원이 3억~5억 원을 주는 것이 관례라는 녹취록이 나왔고, 12·3 불법계엄 당일 추경호... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040382",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:01:00",
+            "related_members": [
+                "E1J8836Y",
+                "G152611B",
+                "KFM1081G",
+                "7YL9580G",
+                "6VC83722",
+                "QWL7778X",
+                "TZP9391O"
+            ],
+            "title": "與, 통일교 특검 촉구 장동혁 단식에 \"정치적 쇼\" 일축"
+        },
+        {
+            "_id": "6968ad95297082fcc2b18d2a",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105255?sid=100",
+            "created_at": "2026-01-15T18:04:18.169000",
+            "description": "그럼 국회의원은 3억이야 2억이야 이런 생각까지 드는데 사실 이게 민주당 얘기뿐만 아니라 국민의힘도 과연... 그리고 윤 어게인 세력이 지도 체제를 유지하고 있는 한 지난 한 달 전에 인요한 의원 탈출했잖아요. 최근에도... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456476?utm_source=naver&utm_medium=article&utm_campaign=20260115073057",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-15T07:31:00",
+            "related_members": [
+                "E1J8836Y",
+                "8Q88373R",
+                "4X525582",
+                "KFM1081G",
+                "B7789327"
+            ],
+            "title": "이동학 \"출발선 앞에 선 경찰, 김병기 수사 명운 걸어야\"[한판승부]"
+        },
         {
             "_id": "6965949a887d07f7ba2fab18",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106841&s_mcd=0214&s_hcd=01",
@@ -204,7 +240,7 @@
             "_id": "6964b541631fd17434995fe1",
             "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또... 왜냐하면 이준석 대표 측도 지방선거의 연대에 대해서 천하람 원내대표가 분명히 반대 입장을 냈잖아요. 그거는... ",
+            "description": "질문했는데 천준호 의원을 얘기하셨거든요. 천준호 의원 같은 경우도 이재명 당 대표 시절에 비서실장을... 공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또 공교롭게... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456250&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T10:48:00",
@@ -251,7 +287,7 @@
             "_id": "6964b552631fd17434996169",
             "link": "https://n.news.naver.com/mnews/article/020/0003688384?sid=100",
             "created_at": "2026-01-12T17:48:15.824000",
-            "description": "민주당의 전재수-통일교 사태와 민주당 공천 헌금 의혹 등을 제대로 수사할 특검법 입법을 논의하자며 ‘야당 대표 연석 회담’을 제안했다. 이에 조국혁신당은 “국민의힘은 이와 관련해 소속 국회의원이 구속된 상황”... ",
+            "description": "소속 국회의원이 구속된 상황”이라며 “공천 헌금 사태를 더불어민주당에게만 국한시키려는 시도를 해서는 안 된다“고 주장했다. 그러면서 ”민주당만 문제가 아니다. 국민의힘 소속 포항 김정재 의원이 ‘경선을 하게... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260111/133131660/2",
             "press": "동아일보",
             "pubDate": "2026-01-11T14:51:00",
@@ -472,65 +508,17 @@
                 "E1J8836Y"
             ],
             "title": "[뉴스NIGHT] '공천 헌금' 의혹 파장...이혜훈 '1일 1 의혹'"
-        },
-        {
-            "_id": "6964b552631fd17434996172",
-            "link": "https://n.news.naver.com/mnews/article/022/0004095253?sid=102",
-            "created_at": "2026-01-12T17:48:15.824000",
-            "description": "이날 행사에는 이강덕 포항시장, 최영숙 경북도환동해본부장, 김일만 포항시의회의장, 김정재, 이상휘 국회의원, 최나영 대구지검 포항지청장, 전익현 포항철강공단 이사장, 박남식 포항제철소장 등 지역 주요기관... ",
-            "originallink": "https://www.segye.com/newsView/20260105516311?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-05T17:58:00",
-            "related_members": [
-                "8L52480G",
-                "E1J8836Y"
-            ],
-            "title": "포항상공회의소, 2026년 신년인사회 성료"
-        },
-        {
-            "_id": "6964b552631fd17434996173",
-            "link": "https://n.news.naver.com/mnews/article/003/0013693688?sid=102",
-            "created_at": "2026-01-12T17:48:15.824000",
-            "description": "신년 인사회에 이강덕 시장, 김일만 시의회 의장, 최영숙 환동해본부장, 김정재·이상휘 국회의원, 최나영 지청장, 전익현 철강관리공단 이사장, 박남식 제철소장 등 지역 기관 단체장, 상공 의원, 시도 의원, 기업체 대표... ",
-            "originallink": "https://www.newsis.com/view/NISX20260105_0003465871",
-            "press": "뉴시스",
-            "pubDate": "2026-01-05T17:20:00",
-            "related_members": [
-                "8L52480G",
-                "E1J8836Y"
-            ],
-            "title": "포항상의 신년 인사회…\"지역 발전·경제 활성화 힘 합치자\""
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6965956b887d07f7ba2fac24",
-            "url": "https://www.youtube.com/watch?v=m82NqcfhyTg",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-14T10:16:40.179000",
-            "duration": 270.0,
-            "title": "김정재 의원 지역구서 \"출당 요구\"..잇따른 비리 의혹에 막말까지  (2025.10.01/뉴스데스크/포항MBC)",
-            "upload_date": null
-        },
         {
             "_id": "6965956b887d07f7ba2fac25",
             "url": "https://www.youtube.com/watch?v=5Bnhug8OwCs",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-14T10:16:40.915000",
+            "collected_at": "2026-01-15T18:15:53.217000",
             "duration": 542.0,
             "title": "\"원조 차떼기당, 단위가 달라요\" ... 김정재는 5억이라죠? 국힘에 맹폭",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac33631fd1743497d56c",
-            "url": "https://www.youtube.com/watch?v=ygEsjucgyTk",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-13T09:44:26.066000",
-            "duration": 1818.0,
-            "title": "[김정재 의원] MBC 2시 뉴스외전 정치 '맞수다'...박지원 게이트",
             "upload_date": null
         },
         {
@@ -538,19 +526,9 @@
             "url": "https://www.youtube.com/watch?v=2A7xQLj0nqc",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-14T10:16:40.179000",
+            "collected_at": "2026-01-15T18:15:52.358000",
             "duration": 197.0,
             "title": "김정재 의원, 공천 야합 시도 정황? \"경상도는 세 배씩 차이 나면...단수공천으로...\"[25. 9. 29.]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac33631fd1743497d56e",
-            "url": "https://www.youtube.com/watch?v=6ruYmfty-kM",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-09T16:20:16.364000",
-            "duration": 90.0,
-            "title": "\"김정재 같은 사람이 의원?\".. 한준호 최고위서 튼 '녹취' #Shorts (MBC뉴스)",
             "upload_date": null
         },
         {
@@ -558,9 +536,39 @@
             "url": "https://www.youtube.com/watch?v=PfCphT5x22g",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-13T09:44:26.066000",
+            "collected_at": "2026-01-15T18:15:53.217000",
             "duration": 90.0,
             "title": "김정재 의원 지역구서 \"출당 요구\"‥잇따른 비리 의혹에 막말까지 #Shorts (MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965956b887d07f7ba2fac22",
+            "url": "https://www.youtube.com/watch?v=B13XhvXczMI",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-15T18:15:52.358000",
+            "duration": 649.0,
+            "title": "김정재 국회의원 2022 의정보고영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac33631fd1743497d56e",
+            "url": "https://www.youtube.com/watch?v=6ruYmfty-kM",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-15T18:15:53.217000",
+            "duration": 90.0,
+            "title": "\"김정재 같은 사람이 의원?\".. 한준호 최고위서 튼 '녹취' #Shorts (MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac33631fd1743497d56c",
+            "url": "https://www.youtube.com/watch?v=ygEsjucgyTk",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-15T18:15:53.216000",
+            "duration": 1818.0,
+            "title": "[김정재 의원] MBC 2시 뉴스외전 정치 '맞수다'...박지원 게이트",
             "upload_date": null
         },
         {
@@ -588,21 +596,21 @@
             "url": "https://www.youtube.com/watch?v=UCAXNqrR7LgLW1WOOyPJVZPg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-14T10:16:40.179000",
+            "collected_at": "2026-01-15T18:15:52.358000",
             "duration": null,
             "title": "김정재",
             "upload_date": null
         },
         {
-            "_id": "6965956b887d07f7ba2fac22",
-            "url": "https://www.youtube.com/watch?v=B13XhvXczMI",
+            "_id": "6965956b887d07f7ba2fac24",
+            "url": "https://www.youtube.com/watch?v=m82NqcfhyTg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
             "collected_at": "2026-01-14T10:16:40.179000",
-            "duration": 649.0,
-            "title": "김정재 국회의원 2022 의정보고영상",
+            "duration": 270.0,
+            "title": "김정재 의원 지역구서 \"출당 요구\"..잇따른 비리 의혹에 막말까지  (2025.10.01/뉴스데스크/포항MBC)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:53.940137"
+    "exported_at": "2026-01-15T18:29:39.987197"
 }

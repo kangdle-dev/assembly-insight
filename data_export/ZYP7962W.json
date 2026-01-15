@@ -53,10 +53,12 @@
     "analysis": {
         "keywords": [
             "경주",
-            "복지",
             "경주시",
+            "복지",
+            "신라",
             "고령자",
             "주택",
+            "국민",
             "신년",
             "새해",
             "도약",
@@ -64,9 +66,7 @@
             "준공",
             "참석",
             "주낙",
-            "국민",
-            "충혼탑",
-            "참배"
+            "충혼탑"
         ],
         "keyword_frequency": [
             {
@@ -74,12 +74,16 @@
                 "value": 16
             },
             {
+                "text": "경주시",
+                "value": 11
+            },
+            {
                 "text": "복지",
                 "value": 10
             },
             {
-                "text": "경주시",
-                "value": 9
+                "text": "신라",
+                "value": 7
             },
             {
                 "text": "고령자",
@@ -87,6 +91,10 @@
             },
             {
                 "text": "주택",
+                "value": 7
+            },
+            {
+                "text": "국민",
                 "value": 7
             },
             {
@@ -118,41 +126,46 @@
                 "value": 5
             },
             {
-                "text": "국민",
-                "value": 5
-            },
-            {
                 "text": "충혼탑",
-                "value": 5
-            },
-            {
-                "text": "참배",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:50.781757",
+        "last_analyzed_at": "2026-01-15T18:29:36.686194",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 0,
                 1,
                 0,
                 3,
                 0,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad8d297082fcc2b18d0e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105371?sid=102",
+            "created_at": "2026-01-15T18:04:10.613000",
+            "description": "지난 2019년 김석기 의원이 대표발의하고 여야 국회의원 181명이 참여해 국회를 통과한 '신라왕경 핵심유적 복원·정비에 관한 특별법'에 따라 추진하고 있다. 올해는 황룡사지와 인왕동사지 등 주요 유적을 중심으로... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456656?utm_source=naver&utm_medium=article&utm_campaign=20260115105401",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-15T10:54:00",
+            "related_members": [
+                "ZYP7962W"
+            ],
+            "title": "\"신라 왕궁 되살린다\"…경주시, 신라왕경 유적 복원 '속도'"
+        },
         {
             "_id": "696594a2887d07f7ba2fab36",
             "link": "https://n.news.naver.com/mnews/article/022/0004097095?sid=102",
@@ -327,33 +340,23 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960abf4631fd1743497d46d",
+            "url": "https://www.youtube.com/watch?v=WKIc9kzOFkA",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:46.427000",
+            "duration": 542.0,
+            "title": "[국회의원 김석기] 국민의힘 '혼용무도 이재명정권 6개월 국정평가 회의' 공개발언",
+            "upload_date": null
+        },
+        {
             "_id": "6960abf4631fd1743497d46e",
             "url": "https://www.youtube.com/watch?v=BXDjbSezzxw",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-13T09:43:38.126000",
+            "collected_at": "2026-01-15T18:14:46.427000",
             "duration": 134.0,
             "title": "통합당 공천받은 김석기 의원...탈락자 모두 반발하면서 갈등 불씨는 여전 김장현기자",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46f",
-            "url": "https://www.youtube.com/watch?v=91A0bdUpKQY",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:39.572000",
-            "duration": 224.0,
-            "title": "[국회의원 김석기] 김석기 국회의원 TBC 8시 뉴스 출연! / 230616",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46a",
-            "url": "https://www.youtube.com/watch?v=dsF-JvuwW5E",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": 215.0,
-            "title": "김석기 국민의힘 국회의원 230616ㅣTBC뉴스",
             "upload_date": null
         },
         {
@@ -361,9 +364,69 @@
             "url": "https://www.youtube.com/watch?v=Iylz9NQGNug",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-13T09:43:38.126000",
+            "collected_at": "2026-01-15T18:14:46.427000",
             "duration": 325.0,
             "title": "법사위원장 들먹인 김석기에 정청래 '국회법 교육'...\"퇴장명령은 1차 경고 후에\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46c",
+            "url": "https://www.youtube.com/watch?v=Tp2PYuz6_-s",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:46.427000",
+            "duration": 386.0,
+            "title": "[국회의원 김석기] 김석기의원 사이다 발언! 정권이 바뀌지 않으면, 자유 대한민국 위험해진다! / 211021 국회 외교통일위원회 종합 국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46a",
+            "url": "https://www.youtube.com/watch?v=dsF-JvuwW5E",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:47.226000",
+            "duration": 215.0,
+            "title": "김석기 국민의힘 국회의원 230616ㅣTBC뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d468",
+            "url": "https://www.youtube.com/watch?v=cuM4hCKiTBM",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:46.427000",
+            "duration": 332.0,
+            "title": "[국회의원 김석기] 경주 출신 국회의원 최초 '정당 사무총장', 김석기 국회의원 칭찬 릴레이!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d466",
+            "url": "https://www.youtube.com/watch?v=jk5cZauJAf4",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:46.427000",
+            "duration": 327.0,
+            "title": "[국회의원 김석기] 2025 국회 통일부(정동영 장관) 국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d465",
+            "url": "https://www.youtube.com/watch?v=UCWNIJ6knOvVykYTQDI3cCOg",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:46.427000",
+            "duration": null,
+            "title": "김석기TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d467",
+            "url": "https://www.youtube.com/watch?v=D3QgKqA4soQ",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:46.427000",
+            "duration": 1196.0,
+            "title": "[헬로 이슈토크] 신년대담 김석기 국회의원",
             "upload_date": null
         },
         {
@@ -375,57 +438,7 @@
             "duration": 134.0,
             "title": "'윤석열 파면' 환영..'김석기 의원 사퇴' 촉구 (2025.04.07/뉴스데스크/포항MBC)",
             "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d468",
-            "url": "https://www.youtube.com/watch?v=cuM4hCKiTBM",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": 332.0,
-            "title": "[국회의원 김석기] 경주 출신 국회의원 최초 '정당 사무총장', 김석기 국회의원 칭찬 릴레이!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d465",
-            "url": "https://www.youtube.com/watch?v=UCWNIJ6knOvVykYTQDI3cCOg",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": null,
-            "title": "김석기TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d466",
-            "url": "https://www.youtube.com/watch?v=jk5cZauJAf4",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": 327.0,
-            "title": "[국회의원 김석기] 2025 국회 통일부(정동영 장관) 국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d467",
-            "url": "https://www.youtube.com/watch?v=D3QgKqA4soQ",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": 1196.0,
-            "title": "[헬로 이슈토크] 신년대담 김석기 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46c",
-            "url": "https://www.youtube.com/watch?v=Tp2PYuz6_-s",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": 386.0,
-            "title": "[국회의원 김석기] 김석기의원 사이다 발언! 정권이 바뀌지 않으면, 자유 대한민국 위험해진다! / 211021 국회 외교통일위원회 종합 국정감사",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:50.782757"
+    "exported_at": "2026-01-15T18:29:36.686194"
 }

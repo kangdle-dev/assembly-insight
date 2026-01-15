@@ -51,9 +51,9 @@
             "민주당",
             "잠수함",
             "위원",
-            "최고",
             "홈플러스",
             "정부",
+            "최고",
             "협력",
             "사태",
             "방산",
@@ -78,11 +78,7 @@
             },
             {
                 "text": "위원",
-                "value": 20
-            },
-            {
-                "text": "최고",
-                "value": 19
+                "value": 16
             },
             {
                 "text": "홈플러스",
@@ -90,6 +86,10 @@
             },
             {
                 "text": "정부",
+                "value": 14
+            },
+            {
+                "text": "최고",
                 "value": 14
             },
             {
@@ -125,24 +125,24 @@
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:50.433386",
+        "last_analyzed_at": "2026-01-15T18:29:36.322038",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 0,
                 0,
                 4,
                 14,
                 2,
+                0,
                 0
             ]
         }
@@ -255,19 +255,6 @@
             "title": "전문가 \"캐나다 잠수함, 성능만으로 수주 못해\"…절충교역 전략 강조"
         },
         {
-            "_id": "6964b54a631fd174349960b7",
-            "link": "https://n.news.naver.com/mnews/article/437/0000473068?sid=101",
-            "created_at": "2026-01-12T17:48:07.511000",
-            "description": "김병주 더불어민주당 국회의원과 더불어민주당 방위산업특별위원회는 12일, 국회의원회관 대회의실에서 한-캐나다 방산 협력 확대를 위한 범정부 협업 방안 토론회를 개최했습니다. 국방부와 산업통상부... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12279565?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-12T15:02:00",
-            "related_members": [
-                "GF286398"
-            ],
-            "title": "\"60조 캐나다 잠수함 수주전…'획기적 절충교역'이 승부처\""
-        },
-        {
             "_id": "6964b54a631fd174349960b6",
             "link": "https://n.news.naver.com/mnews/article/015/0005235889?sid=100",
             "created_at": "2026-01-12T17:48:07.511000",
@@ -279,6 +266,19 @@
                 "GF286398"
             ],
             "title": "60兆 캐나다 잠수함 수주전…\"성능 평가 20%뿐, 국가 역량 총동원 필요\""
+        },
+        {
+            "_id": "6964b54a631fd174349960b7",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473068?sid=101",
+            "created_at": "2026-01-12T17:48:07.511000",
+            "description": "김병주 더불어민주당 국회의원과 더불어민주당 방위산업특별위원회는 12일, 국회의원회관 대회의실에서 한-캐나다 방산 협력 확대를 위한 범정부 협업 방안 토론회를 개최했습니다. 국방부와 산업통상부... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12279565?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-12T15:02:00",
+            "related_members": [
+                "GF286398"
+            ],
+            "title": "\"60조 캐나다 잠수함 수주전…'획기적 절충교역'이 승부처\""
         },
         {
             "_id": "6964b54a631fd174349960b8",
@@ -388,7 +388,7 @@
             "_id": "6964b541631fd17434995feb",
             "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 앞서 이재명 당 대표 체제에서 비서실장, 전략기획위원장 등 요직을 맡았던 천준호 의원이 한 원내대표 출마... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133134653/2",
             "press": "동아일보",
             "pubDate": "2026-01-12T04:32:00",
@@ -417,7 +417,7 @@
             "_id": "6964b560631fd17434996285",
             "link": "https://n.news.naver.com/mnews/article/023/0003952328?sid=100",
             "created_at": "2026-01-12T17:48:30.115000",
-            "description": "전북 익산을의 3선 국회의원인 한 원내대표는 이재명 대통령이 당대표 시절 전략기획위원장을 맡아... 강득구 의원과 친청계 이성윤·문정복 의원이 당선됐다. 이번 선거는 전현희·한준호·김병주 의원이 지방선거... ",
+            "description": "친명계 이건태 의원이 떨어지면서 친청계의 승리란 평가가 나왔다. 이 대통령의 대장동 변호사 출신인 이 의원은 국회의원 표가 많은 중앙위원 투표에선 3위를 기록했으나 권리당원 투표에서 꼴등을 기록해 낙선했다.... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/12/NLNUVXZ3UZCJXAHA64DJHD7X5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-12T00:58:00",
@@ -439,7 +439,7 @@
             "_id": "6964b566631fd174349962d0",
             "link": "https://n.news.naver.com/mnews/article/011/0004577327?sid=100",
             "created_at": "2026-01-12T17:48:35.804000",
-            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 이날 선거는 6·3 지방선거 출마를 위해 사퇴한 전현희·한준호·김병주 전 최고위원의 공석을 메우기 위해... ",
+            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 친명(친이재명)계 이건태 후보는 유동철 후보의 사퇴로 지지표 결집을 노렸음에도 20.59% 득표에 그치면서... ",
             "originallink": "https://www.sedaily.com/NewsView/2K79GAIXQ6",
             "press": "서울경제",
             "pubDate": "2026-01-11T20:52:00",
@@ -460,7 +460,7 @@
             "_id": "6964b566631fd174349962d1",
             "link": "https://n.news.naver.com/mnews/article/020/0003688426?sid=100",
             "created_at": "2026-01-12T17:48:35.804000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련(3선·경기 수원을)과의 결선 투표를 거쳐... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련(3선·경기 수원을)과의 결선 투표를 거쳐 당선됐다. 진성준(3선·서울 강서을) 박정 의원(3선·경기 파주을)(기호순)는 1차 투표에서 낙선했다. 원내대표... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260111/133133887/1",
             "press": "동아일보",
             "pubDate": "2026-01-11T20:28:00",
@@ -546,13 +546,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abed631fd1743497d452",
-            "url": "https://www.youtube.com/watch?v=JTzXEp3VZdo",
+            "_id": "6960abed631fd1743497d451",
+            "url": "https://www.youtube.com/watch?v=BUnH8p2b7mM",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
             "collected_at": "2026-01-09T16:19:06.714000",
-            "duration": 149.0,
-            "title": "'홈플러스 사태' MBK 김병주 구속영장…사기 혐의 / 연합뉴스TV (YonhapnewsTV)",
+            "duration": 109.0,
+            "title": "‘홈플러스 사태’ MBK 김병주 구속 기로…“감사보고서 조작” / 채널A / 뉴스A",
             "upload_date": null
         },
         {
@@ -566,53 +566,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abed631fd1743497d44f",
-            "url": "https://www.youtube.com/watch?v=5UXSDhl0Sxg",
-            "HG_NM": "김병주",
-            "MONA_CD": "GF286398",
-            "collected_at": "2026-01-14T10:15:31.510000",
-            "duration": 60.0,
-            "title": "육군병장 만기전역과 사성장군의 만남ㅋㅋ 장군님.. 근데 왜 국힘 안갔나요ㅇㅅㅇ | 김병주 X 천준호",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abed631fd1743497d451",
-            "url": "https://www.youtube.com/watch?v=BUnH8p2b7mM",
+            "_id": "6960abed631fd1743497d452",
+            "url": "https://www.youtube.com/watch?v=JTzXEp3VZdo",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
             "collected_at": "2026-01-09T16:19:06.714000",
-            "duration": 109.0,
-            "title": "‘홈플러스 사태’ MBK 김병주 구속 기로…“감사보고서 조작” / 채널A / 뉴스A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abed631fd1743497d453",
-            "url": "https://www.youtube.com/watch?v=dTSfTh0mEB4",
-            "HG_NM": "김병주",
-            "MONA_CD": "GF286398",
-            "collected_at": "2026-01-09T16:19:06.714000",
-            "duration": 76.0,
-            "title": "한때 '아시아 사모펀드의 대부' 김병주 MBK 회장…신병 확보 나선 검찰｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abed631fd1743497d44e",
-            "url": "https://www.youtube.com/watch?v=O4jOBDdyVtY",
-            "HG_NM": "김병주",
-            "MONA_CD": "GF286398",
-            "collected_at": "2026-01-14T10:15:31.510000",
-            "duration": 1076.0,
-            "title": "[뉴스하이킥] '4성장군 출신' 김병주가 말하는 그날, 그 시간에 계엄이 일어난 이유는? - 김병주, MBC 251203 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abed631fd1743497d44d",
-            "url": "https://www.youtube.com/watch?v=UCCwY9FkjAaWaXk6UrpQyD1g",
-            "HG_NM": "김병주",
-            "MONA_CD": "GF286398",
-            "collected_at": "2026-01-14T10:15:31.510000",
-            "duration": null,
-            "title": "주블리 김병주",
+            "duration": 149.0,
+            "title": "'홈플러스 사태' MBK 김병주 구속영장…사기 혐의 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -624,7 +584,47 @@
             "duration": 100.0,
             "title": "MBK 김병주 회장 구속영장...’홈플러스’ 수사 분수령 / YTN",
             "upload_date": null
+        },
+        {
+            "_id": "6960abed631fd1743497d44e",
+            "url": "https://www.youtube.com/watch?v=O4jOBDdyVtY",
+            "HG_NM": "김병주",
+            "MONA_CD": "GF286398",
+            "collected_at": "2026-01-15T18:14:39.148000",
+            "duration": 1076.0,
+            "title": "[뉴스하이킥] '4성장군 출신' 김병주가 말하는 그날, 그 시간에 계엄이 일어난 이유는? - 김병주, MBC 251203 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abed631fd1743497d44d",
+            "url": "https://www.youtube.com/watch?v=UCCwY9FkjAaWaXk6UrpQyD1g",
+            "HG_NM": "김병주",
+            "MONA_CD": "GF286398",
+            "collected_at": "2026-01-15T18:14:39.148000",
+            "duration": null,
+            "title": "주블리 김병주",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abed631fd1743497d44f",
+            "url": "https://www.youtube.com/watch?v=5UXSDhl0Sxg",
+            "HG_NM": "김병주",
+            "MONA_CD": "GF286398",
+            "collected_at": "2026-01-14T10:15:31.510000",
+            "duration": 60.0,
+            "title": "육군병장 만기전역과 사성장군의 만남ㅋㅋ 장군님.. 근데 왜 국힘 안갔나요ㅇㅅㅇ | 김병주 X 천준호",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abed631fd1743497d453",
+            "url": "https://www.youtube.com/watch?v=dTSfTh0mEB4",
+            "HG_NM": "김병주",
+            "MONA_CD": "GF286398",
+            "collected_at": "2026-01-09T16:19:06.714000",
+            "duration": 76.0,
+            "title": "한때 '아시아 사모펀드의 대부' 김병주 MBK 회장…신병 확보 나선 검찰｜지금 이 뉴스",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:50.433889"
+    "exported_at": "2026-01-15T18:29:36.322038"
 }

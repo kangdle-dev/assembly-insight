@@ -62,107 +62,251 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
-            "댓글",
-            "국적",
             "선거",
+            "댓글",
+            "정책",
+            "국적",
+            "국민",
             "민주당",
-            "표시",
-            "대표",
-            "출마",
             "장동혁",
-            "투표",
-            "의혹",
+            "규제",
+            "일정",
+            "출마",
+            "정부",
+            "의장",
+            "특검",
             "황교안",
-            "통일교",
-            "국힘",
-            "조국"
+            "대표"
         ],
         "keyword_frequency": [
             {
-                "text": "국민",
-                "value": 22
+                "text": "선거",
+                "value": 13
             },
             {
                 "text": "댓글",
-                "value": 21
+                "value": 12
             },
             {
-                "text": "국적",
-                "value": 17
-            },
-            {
-                "text": "선거",
-                "value": 16
-            },
-            {
-                "text": "민주당",
+                "text": "정책",
                 "value": 11
             },
             {
-                "text": "표시",
-                "value": 10
+                "text": "국적",
+                "value": 11
             },
             {
-                "text": "대표",
+                "text": "국민",
                 "value": 9
             },
             {
-                "text": "출마",
-                "value": 8
+                "text": "민주당",
+                "value": 9
             },
             {
                 "text": "장동혁",
                 "value": 8
             },
             {
-                "text": "투표",
+                "text": "규제",
                 "value": 8
             },
             {
-                "text": "의혹",
+                "text": "일정",
                 "value": 8
+            },
+            {
+                "text": "출마",
+                "value": 8
+            },
+            {
+                "text": "정부",
+                "value": 7
+            },
+            {
+                "text": "의장",
+                "value": 7
+            },
+            {
+                "text": "특검",
+                "value": 7
             },
             {
                 "text": "황교안",
                 "value": 7
             },
             {
-                "text": "통일교",
-                "value": 7
-            },
-            {
-                "text": "국힘",
-                "value": 7
-            },
-            {
-                "text": "조국",
+                "text": "대표",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:55.702944",
+        "last_analyzed_at": "2026-01-15T18:29:41.902319",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                2,
-                5,
-                3,
+                0,
+                1,
                 5,
                 5,
                 0,
-                0
+                1,
+                8
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad99297082fcc2b18d37",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716491?sid=102",
+            "created_at": "2026-01-15T18:04:22.449000",
+            "description": "지방의회와 국회를 오가며 정치의 한복판을 살아온 이우현 전 국회의원(19·20대, 새누리당, 용인갑)이 자서전... 책에는 서청원 전 의원, 나경원 의원, 허정무 전 축구감독, 가수 설운도 등 그와 오랜 인연을 이어온 이들의... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6040363",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T14:56:00",
+            "related_members": [
+                "SLW27496"
+            ],
+            "title": "이우현 전 의원, ‘그래도 이우현, 꽃은 져도 향기는 남는다’ 출간"
+        },
+        {
+            "_id": "6968ad99297082fcc2b18d38",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105577?sid=100",
+            "created_at": "2026-01-15T18:04:22.449000",
+            "description": "한편, 나경원 의원도 국회에서 부동산 정책 토론회를 열고 “이재명 정부는 한마디로 내로남불 부정부패”... 정점식 정책위의장은 축사에서 “대출을 막아 집값을 잡겠다는 발상은 이미 문재인 정권에서 실패했다. 그... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459871&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T11:52:00",
+            "related_members": [
+                "KFM1081G",
+                "SLW27496",
+                "LJK4960Z"
+            ],
+            "title": "장동혁 “호텔경제학이 경제 참극으로 이어져”…‘경제 공세’ 시동"
+        },
+        {
+            "_id": "6968ad99297082fcc2b18d39",
+            "link": "https://n.news.naver.com/mnews/article/016/0002586145?sid=100",
+            "created_at": "2026-01-15T18:04:22.449000",
+            "description": "나 의원은 이날 국회에서 ‘부동산 대출·거래 규제 재앙, 누구를 위한 정책인가’를 주제로 긴급토론회를... 정점식 국민의힘 정책위의장은 “가장 바람직한 대책은 실수요자를 위한 규제 완화”라며 “내 집 마련 문턱을... ",
+            "originallink": "https://biz.heraldcorp.com/article/10655986?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-15T10:34:00",
+            "related_members": [
+                "SLW27496",
+                "LJK4960Z"
+            ],
+            "title": "나경원, 부동산 정책 쓴소리…“각종 규제 걷어내고 대출 규제 합리화해..."
+        },
+        {
+            "_id": "6968ad99297082fcc2b18d3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013711357?sid=100",
+            "created_at": "2026-01-15T18:04:22.449000",
+            "description": "09:50 나경원 의원·국회 인구와기후그리고내일 주최 &lt;현금부자는 '줍줍', 서민은 '피눈물' - 부동산 대출·거래 규제 재앙, 누구를 위한 정책인가?&gt;(국회 의원회관 제2세미나실) 10:00 「민생경제 점검회의」 1차... ",
+            "originallink": "https://www.newsis.com/view/NISX20260114_0003477363",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T05:00:00",
+            "related_members": [
+                "SLW27496"
+            ],
+            "title": "[오늘의 주요일정]정치(1월15일 목요일)"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18ce1",
+            "link": "https://n.news.naver.com/mnews/article/421/0008714876?sid=100",
+            "created_at": "2026-01-15T18:04:05.328000",
+            "description": "= ◇국회의장 10:00 윤종빈 한국정치학회 회장 접견 (의장집무실) ◇상임위원회 10:00 12·29 여객기참사... (의원회관 신관 제2세미나실) 12:00 이용우 의원실, (보좌진 브라운백 미팅) K-스틸법·철강 탈탄소 알아보기... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6039443",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T05:00:00",
+            "related_members": [
+                "TQP7167T",
+                "SLW27496",
+                "NUB4941Z",
+                "YN160848",
+                "04T3751T",
+                "L7J93733",
+                "TKJ4800F",
+                "OIA3741M",
+                "6K79158C"
+            ],
+            "title": "[오늘의 국회일정] (15일, 목)"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18ce2",
+            "link": "https://n.news.naver.com/mnews/article/003/0013711356?sid=100",
+            "created_at": "2026-01-15T18:04:05.328000",
+            "description": "◇국회의장 10:00 윤종빈 한국정치학회 회장 접견(의장집무실) ◇상임위원회 10:00 12.... (의원회관 신관 제2세미나실) 12:00 이용우 의원실, (보좌진 브라운백 미팅) K-스틸법·철강 탈탄소 알아보기: 1일차 K-스틸법... ",
+            "originallink": "https://www.newsis.com/view/NISX20260114_0003477362",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T05:00:00",
+            "related_members": [
+                "TQP7167T",
+                "SLW27496",
+                "NUB4941Z",
+                "YN160848",
+                "04T3751T",
+                "L7J93733",
+                "TKJ4800F",
+                "OIA3741M",
+                "6K79158C"
+            ],
+            "title": "[오늘의 주요일정]국회(1월15일 목요일)"
+        },
+        {
+            "_id": "6968ad99297082fcc2b18d3a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008714905?sid=100",
+            "created_at": "2026-01-15T18:04:22.449000",
+            "description": "09:50 나경원 의원·국회 인구와기후그리고내일 주최 &lt;현금부자는 '줍줍', 서민은 '피눈물' - 부동산 대출·거래 규제 재앙, 누구를 위한 정책인가?&gt; (국회 의원회관 제2세미나실) 10:00 「민생경제 점검회의」 1차... ",
+            "originallink": "https://www.news1.kr/politics/president/6039442",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T05:00:00",
+            "related_members": [
+                "SLW27496"
+            ],
+            "title": "[오늘의 주요일정] 정치·정부 (15일, 목)"
+        },
+        {
+            "_id": "6968ad99297082fcc2b18d3c",
+            "link": "https://n.news.naver.com/mnews/article/021/0002763840?sid=102",
+            "created_at": "2026-01-15T18:04:22.449000",
+            "description": "동작을을 지역구로 둔 나경원 의원과 서울시당위원장을 맡고 있는 배현진 의원도 참석해 투쟁에 힘을... 배 의원은 “국회의원을 시켜놨더니 배우자가 구의원 법인카드를 받아 쓰는 행태가 말이 되느냐”며 “이는 단순한... ",
+            "originallink": "https://www.munhwa.com/article/11561003?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-15T00:10:00",
+            "related_members": [
+                "8Q88373R",
+                "SLW27496",
+                "4X525582"
+            ],
+            "title": "“민주당 공천뇌물 특검해야” 동작구서 野 주최 김병기 사퇴 결의대회"
+        },
+        {
+            "_id": "6968ad8b297082fcc2b18cfb",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826152?sid=102",
+            "created_at": "2026-01-15T18:04:08.557000",
+            "description": "조배숙·나경원·서영교·진선미·김미애·최보윤 의원 등 여야 국회의원들도 축하 인사를 보냈다. 허 변호사는 연세대 법학과를 졸업하고 2001년 변호사로 개업했다. 이후 김장리법률사무소, 법무법인 화우 등을 거쳐... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029250118&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-14T15:59:00",
+            "related_members": [
+                "3BC6890E",
+                "TKJ4800F",
+                "SLW27496",
+                "UOS16250",
+                "68P7228G",
+                "IWK63872",
+                "X3170462"
+            ],
+            "title": "허윤정 여성변호사회 신임 회장 취임… “사회적 약자 법률지원 확대”"
+        },
         {
             "_id": "696594ae887d07f7ba2fab41",
             "link": "https://n.news.naver.com/mnews/article/437/0000473138?sid=100",
@@ -270,7 +414,7 @@
             "_id": "6964b543631fd17434996028",
             "link": "https://n.news.naver.com/mnews/article/022/0004096717?sid=100",
             "created_at": "2026-01-12T17:48:00.871000",
-            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회... 그러나 회의에서는 “‘룸살롱 의혹’이 제기된 지귀연 부장판사를 조치했어야”(추미애 법사위원장), “조희대... ",
+            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회... 공범”(주진우 의원)이라고 공세를 폈고, 범여권은 “검찰의 조작기소 탓”(이성윤 의원), “검사 난동”(박은정 의원)... ",
             "originallink": "https://www.segye.com/newsView/20260111508329?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-11T18:02:00",
@@ -355,177 +499,9 @@
                 "TJW93720"
             ],
             "title": "장동혁 “댓글 국적 표기하자” 與 “혐중, 국익에 도움 안돼”"
-        },
-        {
-            "_id": "6964b556631fd174349961bb",
-            "link": "https://n.news.naver.com/mnews/article/011/0004577068?sid=100",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "같은 날 박성훈 국민의힘 수석대변인도 논평을 통해 “지방선거를 앞두고 해외에 기반을 둔 조직적 댓글... 다만 대통령선거와 국회의원 선거의 투표권은 대한민국 국민에게만 부여된다. 정치권에서는 국민의힘을... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K78ZOM9ZE",
-            "press": "서울경제",
-            "pubDate": "2026-01-10T15:10:00",
-            "related_members": [
-                "KFM1081G",
-                "SLW27496",
-                "NX534083"
-            ],
-            "title": "장동혁 “댓글에 '국적' 표시하자…'국힘' 비난 글, 중국으로 확인된 사..."
-        },
-        {
-            "_id": "6964b543631fd17434996013",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096544?sid=100",
-            "created_at": "2026-01-12T17:48:00.300000",
-            "description": "현행 공직선거법상 대통령선거와 국회의원 선거는 한국 국민에게만 선거권이 있다. 다만, 영주권을 취득한... 앞서 나경원 의원을 비롯한 국민의힘 의원 34명은 지난해 2월 “해외에 기반을 둔 조직적인 댓글 활동으로... ",
-            "originallink": "https://www.segye.com/newsView/20260110503506?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-10T11:35:00",
-            "related_members": [
-                "HS39431V",
-                "SLW27496"
-            ],
-            "title": "“국힘 비난글 6만개 계정 중국”…외국인 댓글 국적 표기·참정권 제한..."
-        },
-        {
-            "_id": "6964b556631fd174349961bc",
-            "link": "https://n.news.naver.com/mnews/article/011/0004576973?sid=102",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "한국 역시 대통령·국회의원 선거에서는 외국인 투표권을 인정하지 않는다. 정치권에선 국민의힘을 중심으로 제도 손질 논의가 이어지고 있다. 특히 나경원 의원을 비롯한 국민의힘 의원 34명은 지난해 2월 “해외에... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K78KD47KW",
-            "press": "서울경제",
-            "pubDate": "2026-01-09T23:46:00",
-            "related_members": [
-                "SLW27496"
-            ],
-            "title": "\"기사 댓글 단 사람 '국적' 표시하자\" 국민 64%가 찬성…\"정치 성향과 무..."
-        },
-        {
-            "_id": "6964b547631fd17434996078",
-            "link": "https://n.news.naver.com/mnews/article/079/0004103627?sid=100",
-            "created_at": "2026-01-12T17:48:04.335000",
-            "description": "박 의원은 이를 두고 \"헌법기관인 국회의원들이 법원이 발부한 영장을 집단적으로 가로막은 전대미문의... 김장겸 의원도 '언론 자유상'을 수상했다. 박대출·조지연 의원은 6일 유영하 의원이 대표 발의한 '탄핵 대통령... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6454176?utm_source=naver&utm_medium=article&utm_campaign=20260109061526",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-09T18:16:00",
-            "related_members": [
-                "X7I4680R",
-                "LH97552Q",
-                "KFM1081G",
-                "LJK4960Z",
-                "TCP9838Y",
-                "JZV5283U",
-                "X7E7893P",
-                "3NI5978A",
-                "W4X85128",
-                "SLW27496",
-                "6AU2417B"
-            ],
-            "title": "尹 구형의 날…'인간방패' 의원들은 지금[오목조목]"
-        },
-        {
-            "_id": "6964b556631fd174349961bd",
-            "link": "https://n.news.naver.com/mnews/article/053/0000054891?sid=100",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "이 지역구 국회의원인 김병기 의원이 기초의회 공천과 관련해 영향력이 큰 상황에서 그의 측근인 A씨를... 김 의원과 관련된 민주당 소속 구의원들도 불참하거나 금세 자리를 떴다. 이날 오세훈 서울시장과 나경원 의원... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47617",
-            "press": "조선일보",
-            "pubDate": "2026-01-09T13:00:00",
-            "related_members": [
-                "SLW27496",
-                "8Q88373R"
-            ],
-            "title": "[단독] '김병기 정책특보' 성비위 의혹에 눈감은 민주당"
-        },
-        {
-            "_id": "6964b548631fd174349960a4",
-            "link": "https://n.news.naver.com/mnews/article/032/0003420453?sid=102",
-            "created_at": "2026-01-12T17:48:06.112000",
-            "description": "이 외에도 윤상현·나경원 국민의힘 의원, 전원책 변호사 등이 참석했다. 유튜브 실시간 댓글에는 “멸공”... 소속 국회의원을 역임했다. 그러나 2019년 정치자금법 위반으로 징역형의 집행유예를 선고받고 의원직을... ",
-            "originallink": "https://www.khan.co.kr/article/202601091123001",
-            "press": "경향신문",
-            "pubDate": "2026-01-09T11:23:00",
-            "related_members": [
-                "86R9476S",
-                "MSY7784L",
-                "SLW27496"
-            ],
-            "title": "[단독]이완영 공인노무사회장 취임식, ‘극우’ 가세연 생중계·‘부정..."
-        },
-        {
-            "_id": "6964b556631fd174349961be",
-            "link": "https://n.news.naver.com/mnews/article/005/0001825057?sid=100",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 의원은 11억원 불법대출 의혹으로 3심이 진행 중이다. 1·2심에서 모두 당선무효형을 선고받았다. 허종식(인천... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1767862243&code=11121100&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-09T00:06:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "S824682L",
-                "B7D7534L",
-                "TKJ4800F",
-                "SLW27496",
-                "3249208I",
-                "MQU41854",
-                "WJL30106",
-                "OWD1018N",
-                "EB16073M",
-                "3OQ8273H",
-                "IC499858",
-                "GF286398",
-                "URV1689Q",
-                "BCQ55105",
-                "VCP96419"
-            ],
-            "title": "與이병진·신영대 의원직 상실… 판 커진 6·3 재보선"
-        },
-        {
-            "_id": "6964b548631fd17434996091",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096173?sid=100",
-            "created_at": "2026-01-12T17:48:05.535000",
-            "description": "6·3 지방선거와 동시에 국회의원 재보궐선거가 치러질 지역이 4곳으로 늘었다. 현역 의원들의 광역단체장... 국민의힘에선 나경원 의원이 거론된다. 대구시장 후보로는 국민의힘 추경호·유영하·윤재옥 의원이 있다. 같은... ",
-            "originallink": "https://www.segye.com/newsView/20260108515352?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-08T18:26:00",
-            "related_members": [
-                "JZV5283U",
-                "G152611B",
-                "ZRF3039U",
-                "LH97552Q",
-                "SLW27496",
-                "4U29186R",
-                "HXT76735",
-                "XPP2564T",
-                "3249208I"
-            ],
-            "title": "이 와중에 2석 날아간 與, 재보선 판 커진다"
-        },
-        {
-            "_id": "6964b564631fd174349962a2",
-            "link": "https://n.news.naver.com/mnews/article/057/0001929045?sid=100",
-            "created_at": "2026-01-12T17:48:33.194000",
-            "description": "나 의원은 오늘(8일) 페이스북에 '조국 조국혁신당 대표가 쿠팡 이용 중단을 공개 선언했지만, 국회 의원회관 내 백선희 조국혁신당 의원실 앞에 쿠팡 배송 상자가 쌓여 있다'는 내용의 기사를 공유하며 \"또 조국이 조국했다... ",
-            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5167405",
-            "press": "매일경제",
-            "pubDate": "2026-01-08T14:21:00",
-            "related_members": [
-                "SLW27496",
-                "YN160848"
-            ],
-            "title": "'탈팡'한다면서 '쿠팡 박스' 산더미…나경원 “조국, 탈팡쇼”"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "69659587887d07f7ba2fac4f",
-            "url": "https://www.youtube.com/watch?v=f8agP6Otov8",
-            "HG_NM": "나경원",
-            "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-13T09:44:53.154000",
-            "duration": 1692.0,
-            "title": "[더 인터뷰] 보수 장성철도 놀란 나경원 인터뷰 중 극대노 \"이재명 너~무 무섭다!\" 계엄 1년? 국힘 사과는.... #나경원 251201",
-            "upload_date": null
-        },
         {
             "_id": "69659587887d07f7ba2fac50",
             "url": "https://www.youtube.com/watch?v=eCCB8MnsTJc",
@@ -537,33 +513,43 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac57631fd1743497d5f9",
-            "url": "https://www.youtube.com/watch?v=UCPvrHJx6U16X-NpM5iYj5Eg",
+            "_id": "69659587887d07f7ba2fac51",
+            "url": "https://www.youtube.com/watch?v=6ZgjgVJFWoc",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-14T10:17:15.614000",
-            "duration": null,
-            "title": "나경원TV",
+            "collected_at": "2026-01-14T10:17:16.396000",
+            "duration": 333.0,
+            "title": "나경원 논리 박살내는 김기표 ... \"그럼 방첩사에 수사 맡길까요?\"",
             "upload_date": null
         },
         {
-            "_id": "69659587887d07f7ba2fac4e",
-            "url": "https://www.youtube.com/watch?v=IBnuIKWqJeM",
+            "_id": "6960ac57631fd1743497d5fe",
+            "url": "https://www.youtube.com/watch?v=1TiSmhTAXyA",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-14T10:17:15.614000",
-            "duration": 26165.0,
-            "title": "[속보] 나경원 2,400만원, 황교안 1900만원..'패트 충돌' 1심 野 의원 전원 벌금형 ..6년7개월만 1심 선고 - [MBC뉴스속보] 2025년 11월 20일",
+            "collected_at": "2026-01-09T16:20:52.222000",
+            "duration": 387.0,
+            "title": "\"통일교 유착 의혹 있는 분이...\" 면전 직격.. 숨 넘어간 나경원",
             "upload_date": null
         },
         {
-            "_id": "6960ac57631fd1743497d5fb",
-            "url": "https://www.youtube.com/watch?v=0niSr2d6h8E",
+            "_id": "69659587887d07f7ba2fac4f",
+            "url": "https://www.youtube.com/watch?v=f8agP6Otov8",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-14T10:17:15.614000",
-            "duration": 191.0,
-            "title": "\"폭행 범죄자 나경원 의원은 제발 좀 나가주세요!!\" 국민의힘 뼈 때리는 박은정 '무호흡 3분 팩폭'",
+            "collected_at": "2026-01-13T09:44:53.154000",
+            "duration": 1692.0,
+            "title": "[더 인터뷰] 보수 장성철도 놀란 나경원 인터뷰 중 극대노 \"이재명 너~무 무섭다!\" 계엄 1년? 국힘 사과는.... #나경원 251201",
+            "upload_date": null
+        },
+        {
+            "_id": "69659587887d07f7ba2fac4c",
+            "url": "https://www.youtube.com/watch?v=4frF49bRpJk",
+            "HG_NM": "나경원",
+            "MONA_CD": "SLW27496",
+            "collected_at": "2026-01-15T18:16:30.226000",
+            "duration": 154.0,
+            "title": "\"이명박 정부 심판 선거…?!\" 나경원 의원의 입틀막｜\"너무 화가 나서 말이 헛나오네요…이재명 정부 심판 선거\" [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -577,13 +563,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac57631fd1743497d5fe",
-            "url": "https://www.youtube.com/watch?v=1TiSmhTAXyA",
+            "_id": "6960ac57631fd1743497d5f9",
+            "url": "https://www.youtube.com/watch?v=UCPvrHJx6U16X-NpM5iYj5Eg",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
-            "collected_at": "2026-01-09T16:20:52.222000",
-            "duration": 387.0,
-            "title": "\"통일교 유착 의혹 있는 분이...\" 면전 직격.. 숨 넘어간 나경원",
+            "collected_at": "2026-01-15T18:16:30.226000",
+            "duration": null,
+            "title": "나경원TV",
             "upload_date": null
         },
         {
@@ -608,15 +594,15 @@
             "upload_date": null
         },
         {
-            "_id": "69659587887d07f7ba2fac4c",
-            "url": "https://www.youtube.com/watch?v=4frF49bRpJk",
+            "_id": "69659587887d07f7ba2fac4e",
+            "url": "https://www.youtube.com/watch?v=IBnuIKWqJeM",
             "HG_NM": "나경원",
             "MONA_CD": "SLW27496",
             "collected_at": "2026-01-14T10:17:15.614000",
-            "duration": 154.0,
-            "title": "\"이명박 정부 심판 선거…?!\" 나경원 의원의 입틀막｜\"너무 화가 나서 말이 헛나오네요…이재명 정부 심판 선거\" [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
+            "duration": 26165.0,
+            "title": "[속보] 나경원 2,400만원, 황교안 1900만원..'패트 충돌' 1심 野 의원 전원 벌금형 ..6년7개월만 1심 선고 - [MBC뉴스속보] 2025년 11월 20일",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:55.702944"
+    "exported_at": "2026-01-15T18:29:41.902319"
 }

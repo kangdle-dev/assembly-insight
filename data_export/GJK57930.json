@@ -43,52 +43,56 @@
     "analysis": {
         "keywords": [
             "이혜훈",
-            "후보자",
-            "폭언",
-            "오줌",
             "국민",
+            "후보자",
+            "오줌",
+            "폭언",
             "의혹",
-            "청약",
             "공개",
-            "전화",
-            "개혁",
-            "신당",
-            "하람",
+            "보좌",
             "특검",
-            "시절",
-            "아파트"
+            "전화",
+            "사형",
+            "피고인",
+            "아파트",
+            "청약",
+            "장관"
         ],
         "keyword_frequency": [
             {
                 "text": "이혜훈",
-                "value": 33
-            },
-            {
-                "text": "후보자",
-                "value": 19
-            },
-            {
-                "text": "폭언",
-                "value": 19
-            },
-            {
-                "text": "오줌",
-                "value": 19
+                "value": 32
             },
             {
                 "text": "국민",
+                "value": 21
+            },
+            {
+                "text": "후보자",
+                "value": 21
+            },
+            {
+                "text": "오줌",
                 "value": 18
             },
             {
-                "text": "의혹",
-                "value": 16
+                "text": "폭언",
+                "value": 17
             },
             {
-                "text": "청약",
-                "value": 13
+                "text": "의혹",
+                "value": 14
             },
             {
                 "text": "공개",
+                "value": 13
+            },
+            {
+                "text": "보좌",
+                "value": 12
+            },
+            {
+                "text": "특검",
                 "value": 10
             },
             {
@@ -96,53 +100,62 @@
                 "value": 9
             },
             {
-                "text": "개혁",
-                "value": 9
-            },
-            {
-                "text": "신당",
-                "value": 9
-            },
-            {
-                "text": "하람",
-                "value": 9
-            },
-            {
-                "text": "특검",
+                "text": "사형",
                 "value": 8
             },
             {
-                "text": "시절",
+                "text": "피고인",
                 "value": 8
             },
             {
                 "text": "아파트",
                 "value": 8
+            },
+            {
+                "text": "청약",
+                "value": 8
+            },
+            {
+                "text": "장관",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:17.641712",
+        "last_analyzed_at": "2026-01-15T18:30:05.342102",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
-                8,
+                7,
                 3,
                 4,
                 2,
                 2,
-                1
+                2,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968adce297082fcc2b18de5",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421449?sid=100",
+            "created_at": "2026-01-15T18:05:15.261000",
+            "description": "진입하려는 국회의원을 체포하려 하였으며, 계엄에 반대하는 국민의 정치적 의사표시를 제한하는 등 국민을... 이와 같은 사실은 국회 CCTV 영상, 피고인 김봉식과 서울청 경비부장 주진우, 피고인 목현태와 국회사무총장... ",
+            "originallink": "https://www.khan.co.kr/article/202601141130001",
+            "press": "경향신문",
+            "pubDate": "2026-01-14T11:30:00",
+            "related_members": [
+                "GJK57930"
+            ],
+            "title": "[전문]특검, 윤석열 사형 구형 논고문 “반성하지 않는 피고인에겐 사형..."
+        },
         {
             "_id": "6966ecbb887d07f7ba2fb33a",
             "link": "https://n.news.naver.com/mnews/article/028/0002786306?sid=102",
@@ -259,7 +272,7 @@
             "_id": "6964b543631fd17434996028",
             "link": "https://n.news.naver.com/mnews/article/022/0004096717?sid=100",
             "created_at": "2026-01-12T17:48:00.871000",
-            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회... 그러나 회의에서는 “‘룸살롱 의혹’이 제기된 지귀연 부장판사를 조치했어야”(추미애 법사위원장), “조희대... ",
+            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회... 공범”(주진우 의원)이라고 공세를 폈고, 범여권은 “검찰의 조작기소 탓”(이성윤 의원), “검사 난동”(박은정 의원)... ",
             "originallink": "https://www.segye.com/newsView/20260111508329?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-11T18:02:00",
@@ -299,7 +312,7 @@
             "_id": "6964b55d631fd1743499623b",
             "link": "https://n.news.naver.com/mnews/article/055/0001323095?sid=100",
             "created_at": "2026-01-12T17:48:26.570000",
-            "description": "이혜훈 기획예산처 장관 후보자가 국회의원이던 시절, 자신의 보좌진에게 전화해 폭언하는 내용의 녹음... 개혁신당 천하람 의원은 \"청약 당첨 이후 사후 검증을 의식해 의도적으로 위장전입, 위장 미혼을 유지한 정황... ",
+            "description": "&lt;기자&gt; 국민의힘 주진우 의원은 이혜훈 기획예산처 장관 후보자가 2017년 바른정당 국회의원일 때, 의원실 보좌진을 질책하는 내용의 녹음파일을 공개했습니다. [이혜훈/당시 바른정당 의원(지난 2017년) : 휴대전화로는... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008398868&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-10T06:45:00",
@@ -314,7 +327,7 @@
             "_id": "6964b54a631fd174349960be",
             "link": "https://n.news.naver.com/mnews/article/020/0003688283?sid=100",
             "created_at": "2026-01-12T17:48:07.785000",
-            "description": "● 한밤중 전화로 “똥오줌 못 가려” 국민의힘 주진우 의원은 9일 이 후보자가 국회의원 시절 전화로... 개혁신당 천하람 의원실이 KIEP로부터 제출받은 자료에 따르면 장남 김모 씨는 2022년 10월 이 기관 부연구위원 모집... ",
+            "description": "● 한밤중 전화로 “똥오줌 못 가려” 국민의힘 주진우 의원은 9일 이 후보자가 국회의원 시절 전화로 보좌진에게 폭언하는 내용이 담긴 녹음 파일을 공개했다. 이 녹취에서 이 후보자는 보좌진에게 “핸드폰으로 검색이... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260110/133128314/2",
             "press": "동아일보",
             "pubDate": "2026-01-10T01:43:00",
@@ -329,7 +342,7 @@
             "_id": "6964b55e631fd17434996259",
             "link": "https://n.news.naver.com/mnews/article/023/0003952110?sid=100",
             "created_at": "2026-01-12T17:48:27.171000",
-            "description": "이 후보자에 대해선 국회의원 시절 보좌진 갑질·폭언 논란, 결혼한 장남의 ‘위장 미혼’을 통한 70억원대... 개혁신당 천하람 의원은 이날 “이 후보자는 집 없는 설움을 겪고 있는 다른 가족의 입주 기회를 부정... ",
+            "description": "이 후보자에 대해선 국회의원 시절 보좌진 갑질·폭언 논란, 결혼한 장남의 ‘위장 미혼’을 통한 70억원대... 또한 이날 국민의힘 주진우 의원은 이 후보자가 과거 보좌진에게 심야에 전화를 걸어 “너 그렇게 똥오줌... ",
             "originallink": "https://www.chosun.com/politics/politics_general/2026/01/10/V74OTZFPBNEIJKNLPJPPIWSQDE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-10T00:48:00",
@@ -344,7 +357,7 @@
             "_id": "6964b556631fd174349961ae",
             "link": "https://n.news.naver.com/mnews/article/052/0002298571?sid=100",
             "created_at": "2026-01-12T17:48:19.834000",
-            "description": "[이혜훈 / 당시 바른정당 국회의원 : 너 언론 담당하는 애 맞니? 너 그렇게 똥오줌을 못 가려? 보면 모르겠어?... 국민의힘은 법 위반 여부를 엄정히 따져야 할 사안이라고 밝혔고, 개혁신당 천하람 원내대표도 당첨 취소는... ",
+            "description": "[기자] 국민의힘 주진우 의원이 공개한 녹취록입니다. 이혜훈 기획예산처 장관 후보자가 밤 10시 25분 한 보좌관에게 전화해 한 말입니다. [이혜훈 / 당시 바른정당 국회의원 : 너 언론 담당하는 애 맞니? 너 그렇게 똥오줌을... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601092132380879",
             "press": "YTN",
             "pubDate": "2026-01-09T21:32:00",
@@ -359,7 +372,7 @@
             "_id": "6964b55d631fd1743499623c",
             "link": "https://n.news.naver.com/mnews/article/055/0001323045?sid=100",
             "created_at": "2026-01-12T17:48:26.570000",
-            "description": "연일 논란이 잇따르고 있는 이혜훈 기획예산처 장관 후보자가, 국회의원일 때 자신의 보좌진에게 폭언하는... 개혁신당 천하람 의원은 \"청약 당첨 이후 사후 검증을 의식해 의도적으로 위장전입, 위장 미혼을 유지한 정황... ",
+            "description": "&lt;기자&gt; 국민의힘 주진우 의원은 이혜훈 기획예산처 장관 후보자가 2017년 바른정당 국회의원일 때, 의원실 보좌진을 질책하는 내용의 녹음파일을 오늘(9일) 공개했습니다. [이혜훈/당시 바른정당 의원(지난 2017년)... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008398724&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-09T20:31:00",
@@ -374,7 +387,7 @@
             "_id": "6964b54a631fd174349960c1",
             "link": "https://n.news.naver.com/mnews/article/020/0003688210?sid=100",
             "created_at": "2026-01-12T17:48:07.785000",
-            "description": "● 한밤중 전화로 “똥오줌 못 가려” 국민의힘 주진우 의원은 9일 이 후보자가 국회의원 시절 전화로... 개혁신당 천하람 의원실이 KIEP로부터 제출받은 자료에 따르면 장남 김모 씨는 2022년 10월 이 기관 부연구위원 모집... ",
+            "description": "● 한밤중 전화로 “똥오줌 못 가려” 국민의힘 주진우 의원은 9일 이 후보자가 국회의원 시절 전화로 보좌진에게 폭언하는 내용이 담긴 녹음 파일을 공개했다. 이 녹취에서 이 후보자는 보좌진에게 “핸드폰으로 검색이... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260109/133126844/1",
             "press": "동아일보",
             "pubDate": "2026-01-09T19:32:00",
@@ -403,7 +416,7 @@
             "_id": "6964b556631fd174349961af",
             "link": "https://n.news.naver.com/mnews/article/052/0002298506?sid=100",
             "created_at": "2026-01-12T17:48:19.834000",
-            "description": "[이혜훈 / 당시 바른정당 국회의원 : 너 언론 담당하는 애 맞니? 너 그렇게 똥오줌을 못 가려? 보면 모르겠어?... 국민의힘은 법 위반 여부를 엄정히 따져야 할 사안이라고 밝혔고, 개혁신당 천하람 원내대표도 당첨 취소는... ",
+            "description": "[이혜훈 / 당시 바른정당 국회의원 : 너 언론 담당하는 애 맞니? 너 그렇게 똥오줌을 못 가려? 보면 모르겠어?... 이해하지만 지금은 언론검증의 시간이라며 국회 인사청문회까지 지켜보겠다고 밝혔습니다. 영상편집 : 김희정",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601091754530134",
             "press": "YTN",
             "pubDate": "2026-01-09T17:54:00",
@@ -418,7 +431,7 @@
             "_id": "6964b54a631fd174349960c2",
             "link": "https://n.news.naver.com/mnews/article/055/0001323005?sid=100",
             "created_at": "2026-01-12T17:48:07.785000",
-            "description": "오늘 아침에는 &lt;한국일보&gt;가 이혜훈 후보자가 18대 국회의원 시절 통일교 관계자들로부터 후원금 최고액인... 국민의힘 주진우 의원이 오늘 공개한 녹음본은 후보자가 늦은 밤 보좌관에게 전화를 걸어 언론 모니터링에... ",
+            "description": "여당인 민주당에서마저 자진 사퇴를 요구하는 국회의원이 또 나왔습니다. 장철민 의원에 이어 오늘은 김상욱 의원이 \"후보자가 과락(科落)\"이라며 공개적으로 사퇴를 요구했습니다. 이혜훈 후보자가 앞으로 제기된... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008398638&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-09T17:25:00",
@@ -442,31 +455,17 @@
                 "GJK57930"
             ],
             "title": "국힘 \"이혜훈, 폭언·갑질에 불법·탈법 의혹까지…즉각 사퇴하라\""
-        },
-        {
-            "_id": "6964b58c631fd1743499649a",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096425?sid=110",
-            "created_at": "2026-01-12T17:49:13.639000",
-            "description": "뉴스1 개혁신당 천하람 의원실에 따르면 이 후보자는 청약 신청 7개월 전에 이미 결혼해 분가한 아들이... 한 자녀는 국회의원실에서 8일간 인턴을 하고 대학 입학 원서에 활용했다는 ‘엄마 찬스’ 의혹을 받고 있다.... ",
-            "originallink": "https://www.segye.com/newsView/20260109511871?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-09T16:22:00",
-            "related_members": [
-                "GJK57930",
-                "YGB8604T"
-            ],
-            "title": "폭언·갑질에 ‘꼼수’ 청약당첨 이혜훈, 더 버틸 명분 있나 [논설실의..."
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960ae0b631fd1743497dc9b",
-            "url": "https://www.youtube.com/watch?v=ebTFAntz6j0",
+            "_id": "6960ae0b631fd1743497dc98",
+            "url": "https://www.youtube.com/watch?v=ylgskruDcbo",
             "HG_NM": "주진우",
             "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:08.384000",
-            "duration": 60.0,
-            "title": "\"너 그렇게 똥오줌을 못 가려?\"…주진우, 이혜훈 '갑질 녹취' 추가 공개｜지금 이 쇼츠",
+            "collected_at": "2026-01-15T18:24:14.236000",
+            "duration": 41671.0,
+            "title": "[🔴이슈를 켜라] 김경, 텔레그램 재가입…주진우 \"증거인멸하라 광고하냐\" / 채널A",
             "upload_date": null
         },
         {
@@ -480,23 +479,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae0b631fd1743497dc96",
-            "url": "https://www.youtube.com/watch?v=qqi1_ogNqoc",
+            "_id": "6960ae0b631fd1743497dc94",
+            "url": "https://www.youtube.com/watch?v=fHMkuITlesQ",
             "HG_NM": "주진우",
             "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:07.698000",
-            "duration": 446.0,
-            "title": "주진우, \"장관님, 핸드폰 낼 수 있어요?\"... 호기롭게 빌드업.. 장관 답변에 '핵당황'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae0b631fd1743497dc9a",
-            "url": "https://www.youtube.com/watch?v=XHDPvbkxdzM",
-            "HG_NM": "주진우",
-            "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:08.384000",
-            "duration": 39627.0,
-            "title": "[🔴이슈를 켜라] 김경, 어젯밤(7일) 텔레그램 재가입…주진우 \"증거인멸하라 광고하냐\" / 채널A",
+            "collected_at": "2026-01-15T18:24:13.399000",
+            "duration": 159.0,
+            "title": "[현장영상] \"주진우 의원과 통화했어요?\" 유재은 직접 불러 물었더니.. / JTBC News",
             "upload_date": null
         },
         {
@@ -504,7 +493,7 @@
             "url": "https://www.youtube.com/watch?v=d_AIOioTwqQ",
             "HG_NM": "주진우",
             "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:07.698000",
+            "collected_at": "2026-01-15T18:24:13.399000",
             "duration": 364.0,
             "title": "\"주 의원, 김현지랑 이 대통령 얘기만 하나\"...따져묻는 주진우에 폭발한 강훈식",
             "upload_date": null
@@ -514,29 +503,9 @@
             "url": "https://www.youtube.com/watch?v=b4j-jvSwPgo",
             "HG_NM": "주진우",
             "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:07.698000",
+            "collected_at": "2026-01-15T18:24:13.399000",
             "duration": 556.0,
             "title": "[자막] 김현지 실세설 몰아가던 주진우, 강훈식 한마디에 침묵",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae0b631fd1743497dc94",
-            "url": "https://www.youtube.com/watch?v=fHMkuITlesQ",
-            "HG_NM": "주진우",
-            "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:07.698000",
-            "duration": 159.0,
-            "title": "[현장영상] \"주진우 의원과 통화했어요?\" 유재은 직접 불러 물었더니.. / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae0b631fd1743497dc91",
-            "url": "https://www.youtube.com/watch?v=xY_ROTGejrk",
-            "HG_NM": "주진우",
-            "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-14T10:24:15.556000",
-            "duration": 867.0,
-            "title": "🔴LIVE \"장경태 형사 고발합니다\" .. 주진우 의원 기자회견 '장경태방지법 법안 발의' | SBS 실시간 라이브",
             "upload_date": null
         },
         {
@@ -550,15 +519,46 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae0b631fd1743497dc98",
-            "url": "https://www.youtube.com/watch?v=ylgskruDcbo",
+            "_id": "6960ade5631fd1743497dbfe",
+            "url": "https://www.youtube.com/watch?v=ysLXit5GAw4",
             "HG_NM": "주진우",
             "MONA_CD": "GJK57930",
-            "collected_at": "2026-01-09T16:28:08.384000",
-            "duration": null,
-            "title": "[🔴이슈를 켜라] [LIVE] 김경, 텔레그램 재가입…주진우 \"증거인멸하라 광고하냐\" / 채널A",
+            "collected_at": "2026-01-15T18:24:13.399000",
+            "duration": 125.0,
+            "title": "[현장영상] 주진우 \"장난하고 있어요?\"... 정진욱 \"이렇게 할 거예요?\" / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a73a631fd1743497ce1a",
+            "url": "https://www.youtube.com/watch?v=jRSr4p5zlqw",
+            "HG_NM": "주진우",
+            "MONA_CD": "GJK57930",
+            "collected_at": "2026-01-15T18:24:13.399000",
+            "duration": 269.0,
+            "source": "국회방송",
+            "title": "주진우 빌드업하자 김병기 대폭발... 살기 느껴지는 분노에 주진우 '핵당황'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae0b631fd1743497dc91",
+            "url": "https://www.youtube.com/watch?v=xY_ROTGejrk",
+            "HG_NM": "주진우",
+            "MONA_CD": "GJK57930",
+            "collected_at": "2026-01-15T18:24:13.399000",
+            "duration": 867.0,
+            "title": "🔴LIVE \"장경태 형사 고발합니다\" .. 주진우 의원 기자회견 '장경태방지법 법안 발의' | SBS 실시간 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae0b631fd1743497dc96",
+            "url": "https://www.youtube.com/watch?v=qqi1_ogNqoc",
+            "HG_NM": "주진우",
+            "MONA_CD": "GJK57930",
+            "collected_at": "2026-01-09T16:28:07.698000",
+            "duration": 446.0,
+            "title": "주진우, \"장관님, 핸드폰 낼 수 있어요?\"... 호기롭게 빌드업.. 장관 답변에 '핵당황'",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:17.641712"
+    "exported_at": "2026-01-15T18:30:05.342102"
 }

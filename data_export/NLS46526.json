@@ -42,107 +42,276 @@
     },
     "analysis": {
         "keywords": [
-            "광주",
-            "여론조사",
-            "광주시",
-            "의혹",
-            "위원장",
-            "민형배",
-            "신년",
-            "국민",
-            "혁신",
-            "강기정",
-            "불법",
             "정치자금",
-            "경제",
-            "통합",
-            "단체"
+            "혐의",
+            "송치",
+            "불법",
+            "국민",
+            "검찰",
+            "수수",
+            "광주",
+            "위반",
+            "선거",
+            "경남",
+            "여론조사",
+            "경찰청",
+            "의혹",
+            "광주시"
         ],
         "keyword_frequency": [
             {
-                "text": "광주",
-                "value": 18
+                "text": "정치자금",
+                "value": 43
             },
             {
-                "text": "여론조사",
-                "value": 14
+                "text": "혐의",
+                "value": 40
             },
             {
-                "text": "광주시",
-                "value": 10
-            },
-            {
-                "text": "의혹",
-                "value": 9
-            },
-            {
-                "text": "위원장",
-                "value": 8
-            },
-            {
-                "text": "민형배",
-                "value": 7
-            },
-            {
-                "text": "신년",
-                "value": 7
-            },
-            {
-                "text": "국민",
-                "value": 6
-            },
-            {
-                "text": "혁신",
-                "value": 6
-            },
-            {
-                "text": "강기정",
-                "value": 6
+                "text": "송치",
+                "value": 31
             },
             {
                 "text": "불법",
-                "value": 6
+                "value": 30
             },
             {
-                "text": "정치자금",
-                "value": 6
+                "text": "국민",
+                "value": 27
             },
             {
-                "text": "경제",
-                "value": 5
+                "text": "검찰",
+                "value": 24
             },
             {
-                "text": "통합",
-                "value": 4
+                "text": "수수",
+                "value": 20
             },
             {
-                "text": "단체",
-                "value": 4
+                "text": "광주",
+                "value": 20
+            },
+            {
+                "text": "위반",
+                "value": 19
+            },
+            {
+                "text": "선거",
+                "value": 18
+            },
+            {
+                "text": "경남",
+                "value": 15
+            },
+            {
+                "text": "여론조사",
+                "value": 15
+            },
+            {
+                "text": "경찰청",
+                "value": 11
+            },
+            {
+                "text": "의혹",
+                "value": 11
+            },
+            {
+                "text": "광주시",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:11.480548",
+        "last_analyzed_at": "2026-01-15T18:29:58.746253",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 1,
-                1,
                 0,
                 1,
                 0,
                 0,
+                13,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968adbf297082fcc2b18dad",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105110?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "‘불법 정치자금 수수 혐의’ 이종욱 의원, 검찰 송치 경남경찰청은 정치자금법 위반 혐의로 국민의힘 이종욱 의원과 전 선거캠프 관계자 2명을 불구속 송치했다고 밝혔습니다. 이 의원은 2024년 4월, 22대 국회의원... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459148&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T20:02:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "[간추린 경남] 행정통합 찬성 이유 1순위 ‘수도권 대응 균형발전’ 외"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18dae",
+            "link": "https://n.news.naver.com/mnews/article/448/0000583674?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "경남경찰청은 14일 국민의힘 이종욱 의원(창원시 진해구)을 정치자금법 위반 혐의로 불구속 송치했다고 밝혔다. 이 의원은 국회의원 선거를 앞두고 선거 캠프 관계자로부터 불법 정치자금 4900만원을 수수한 혐의를... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/14/2026011490236.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-14T18:02:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "경찰, 국민의힘 이종욱 의원 정치자금법 위반 혐의로 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18daf",
+            "link": "https://n.news.naver.com/mnews/article/009/0005621850?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "22대 총선 당시 선거캠프 통해 5천만원대 자금 수수 대납·계좌 경유 사용 의혹 지난해 제22대 국회의원 총선 당시 불법 정치자금을 수수한 혐의를 받는 이종욱 국민의힘(경남 창원 진해) 국회의원이 검찰에 송치됐다.... ",
+            "originallink": "https://www.mk.co.kr/article/11933167",
+            "press": "매일경제",
+            "pubDate": "2026-01-14T17:53:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "‘불법 정치자금 수수’ 혐의 이종욱 의원 검찰 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db0",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104924?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "지난 총선 당시 국민의힘 이종욱 국회의원이 불법 선거자금을 받은 의혹에 대한 KBS 보도 이후 경찰이 이 의원을 검찰에 송치했습니다. 경남경찰청은 정치자금법 위반 혐의로 이 의원과 이 의원의 전 선거캠프 관계자... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458879&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T17:08:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "‘불법 정치자금 수수 혐의’ 이종욱 국회의원 검찰 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db1",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105138?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "국민의힘 소속 이종욱 국회의원(창원시 진해구)이 지난 국회의원 선거 과정에서 불법 선거자금을 받은 혐의로 검찰에 송치됐다. 경남경찰청은 정치자금법 위반 혐의로 이종욱 의원과 이 의원 전 선거캠프 관계자 총... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456316?utm_source=naver&utm_medium=article&utm_campaign=20260114044744",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-14T16:48:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "국민의힘 이종욱 의원, 불법 정치자금 수수 혐의 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db2",
+            "link": "https://n.news.naver.com/mnews/article/028/0002786444?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "이종욱 국민의힘 국회의원(경남 창원시 진해구)이 불법 정치자금을 받아서 사용한 혐의로 검찰에 넘겨졌다. 경남경찰청 반부패경제범죄수사대는 14일 “정치자금법 위반 혐의로 이종욱 의원과 관계자 2명 등 3명을... ",
+            "originallink": "https://www.hani.co.kr/arti/area/yeongnam/1239714.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-14T16:44:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "국힘 이종욱, 불법 정치자금 5000만원 수수·사용 혐의로 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db3",
+            "link": "https://n.news.naver.com/mnews/article/003/0013710888?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "불법 정치자금을 수수한 혐의로 경찰 조사를 받고 있는 국민의힘 이종욱 국회의원(창원시 진해구)이 검찰에 송치됐다. 경남경찰청 반부패경제범죄수사대는 이종욱 의원과 관련자 2명 등 3명에 대해 정치자금법 위반... ",
+            "originallink": "https://www.newsis.com/view/NISX20260114_0003477026",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T16:09:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "'불법 정치자금 수수' 혐의, 국힘 이종욱 의원 검찰 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db5",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097621?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "이종욱 국민의힘 국회의원(창원 진해)이 22대 총선 과정에서 불법 선거자금을 받은 혐의로 검찰에 넘겨졌다. 경남경찰청은 정치자금법 위반 혐의로 이 의원을 검찰에 송치했다고 14일 밝혔다. 경남경찰청 전경. 이... ",
+            "originallink": "https://www.segye.com/newsView/20260114514478?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-14T15:57:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "‘불법 정치자금 수수 혐의’ 이종욱 국민의힘 국회의원 검찰 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db4",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421524?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "국민의힘 소속 이종욱 국회의원(창원 진해)이 2024년 4월 22대 총선 과정에서 불법 선거자금을 받은 혐의로 검찰에 넘겨졌다. 14일 경남경찰청에 따르면 이날 정치자금법 위반 혐의로 이 의원을 검찰에 송치했다. 이... ",
+            "originallink": "https://www.khan.co.kr/article/202601141557011",
+            "press": "경향신문",
+            "pubDate": "2026-01-14T15:57:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "‘정치자금법 위반 혐의’ 국민의힘 이종욱 국회의원 검찰 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db6",
+            "link": "https://n.news.naver.com/mnews/article/052/0002300671?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "경남경찰청은 정치자금법 위반 혐의로 이종욱 국민의힘 국회의원을 불구속 상태로 검찰에 넘겼습니다. 이 의원은 지난 2024년 제22대 국회의원 선거를 앞두고 당시 선거 캠프 관계자에게서 정치자금 4천9백만 원가량을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0115_202601141553343863",
+            "press": "YTN",
+            "pubDate": "2026-01-14T15:53:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "이종욱 국민의힘 의원, 정치자금법 위반 혐의 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db7",
+            "link": "https://n.news.naver.com/mnews/article/021/0002763787?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "이종욱 국회의원 2024년 총선때 4970만원 받아 여론조사·인건비 사용한 혐의 돈 반환 소송으로 사건 불거져 창원=박영수 기자 이종욱(창원 진해구) 국민의힘 국회의원이 정치자금법 위반 혐의로 검찰에 송치됐다.... ",
+            "originallink": "https://www.munhwa.com/article/11560950?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-14T15:45:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "“선거때 쓴 돈 돌려줘” 소송에…이종욱 국힘 국회의원, 정자법 위반 ..."
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db8",
+            "link": "https://n.news.naver.com/mnews/article/421/0008714227?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "이종욱 국회의원(국민의힘·창원 진해)이 22대 총선 과정에서 불법 선거자금을 받은 혐의로 검찰에 넘겨졌다. 14일 뉴스1 취재를 종합하면 경남경찰청은 이날 정치자금법 위반 혐의로 이 의원을 검찰에 송치했다. 이... ",
+            "originallink": "https://www.news1.kr/local/busan-gyeongnam/6038999",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T15:11:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "[단독] 경찰, 이종욱 국힘 국회의원 송치…'불법 정치자금 수수 혐의'"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db9",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421494?sid=100",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "봉쇄, 국회의원 등 주요 인사에 대한 반국가세력 합동체포조 구성·운영 계획이 구체적으로 기재되어 있는바... 소속 이종욱 경감 등 경찰관 104명을 방첩사 지원 인력으로 편성하게 하고, 그중 81명의 경찰관들을 각자의... ",
+            "originallink": "https://www.khan.co.kr/article/202601141444001",
+            "press": "경향신문",
+            "pubDate": "2026-01-14T14:44:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "[전문]특검, 김용현 등 7명 구형 논고문 “윤석열과 한 몸처럼 움직였다..."
+        },
         {
             "_id": "6964b55d631fd1743499623f",
             "link": "https://n.news.naver.com/mnews/article/421/0008706694?sid=100",
@@ -163,7 +332,7 @@
             "_id": "6964b575631fd17434996384",
             "link": "https://n.news.naver.com/mnews/article/003/0013702453?sid=102",
             "created_at": "2026-01-12T17:48:50.913000",
-            "description": "9일 지역 정·관가에 따르면 이재명 대통령은 이날 광주시장과 전남지사, 지역구 국회의원들이 참석한... 재선 주철현 의원, 국민의힘 김화진 전남도당위원장, 조국혁신당 박필순 광양지역위원장 등이 자천타천 거론된다.... ",
+            "description": "9일 지역 정·관가에 따르면 이재명 대통령은 이날 광주시장과 전남지사, 지역구 국회의원들이 참석한... 진보당 이종욱 민주노총 광주본부장 등이고, 조국혁신당은 '염두에 둔 후보'가 있는 것으로 알려지고 있다.... ",
             "originallink": "https://www.newsis.com/view/NISX20260109_0003471866",
             "press": "뉴시스",
             "pubDate": "2026-01-09T19:03:00",
@@ -181,7 +350,7 @@
             "_id": "6964b57d631fd174349963df",
             "link": "https://n.news.naver.com/mnews/article/079/0004103116?sid=102",
             "created_at": "2026-01-12T17:48:58.472000",
-            "description": "이 자리에는 김재연 상임대표와 전종덕 국회의원도 참석했다. 이들은 기자회견문에서 \"호남은 산업화·민주화 과정에서 국가 발전에 헌신했지만, 그 결과는 차별과 배제, 인구 감소와 지방소멸 위기였다\"며 \"이제... ",
+            "description": "이종욱 진보당 광주광역시장 후보와 김주업 광주시당 위원장, 진보당 호남 3개 시도당 위원장과 지방선거... 이 자리에는 김재연 상임대표와 전종덕 국회의원도 참석했다. 이들은 기자회견문에서 \"호남은 산업화... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453409?utm_source=naver&utm_medium=article&utm_campaign=20260108020213",
             "press": "노컷뉴스",
             "pubDate": "2026-01-08T14:02:00",
@@ -254,19 +423,6 @@
                 "VRY5522V"
             ],
             "title": "광주시장 여론조사 민형배 33% vs 강기정 14% [광주MBC 신년 여론조사]"
-        },
-        {
-            "_id": "6964b57d631fd174349963e4",
-            "link": "https://n.news.naver.com/mnews/article/003/0013687748?sid=102",
-            "created_at": "2026-01-12T17:48:58.472000",
-            "description": "행사는 이충무공선양군항제위원회 주관으로 장금용 시장 권한대행, 이종욱 국회의원, 진해구 도·시의원, 유관 기관·단체장, 시민 등 3000여 명이 참석한 가운데 오전 6시30분부터 진행됐다. 식전공연은 해군교육사령부... ",
-            "originallink": "https://www.newsis.com/view/NISX20260101_0003462207",
-            "press": "뉴시스",
-            "pubDate": "2026-01-01T15:26:00",
-            "related_members": [
-                "NLS46526"
-            ],
-            "title": "창원시, 진해루서 '병오년 새해맞이 시민 소망 기원제'"
         }
     ],
     "recent_videos": [
@@ -275,7 +431,7 @@
             "url": "https://www.youtube.com/watch?v=UCQ_JilJCL_pEMTYRlscqwRw",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-14T10:22:27.600000",
+            "collected_at": "2026-01-15T18:22:05.212000",
             "duration": null,
             "title": "국회의원 이종욱",
             "upload_date": null
@@ -285,19 +441,9 @@
             "url": "https://www.youtube.com/watch?v=W67GrhyieVE",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-14T10:22:28.256000",
+            "collected_at": "2026-01-15T18:22:05.212000",
             "duration": 130.0,
             "title": "‘불법 정치자금 수수 의혹’ 이종욱 의원 입건 / KBS  2025.12.10.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad91631fd1743497dad4",
-            "url": "https://www.youtube.com/watch?v=vjVS0iVUgfA",
-            "HG_NM": "이종욱",
-            "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-14T10:22:27.600000",
-            "duration": 117.0,
-            "title": "‘불법 정치자금 수수 의혹’ 이종욱 의원 입건 / KBS  2025.12.09.",
             "upload_date": null
         },
         {
@@ -305,7 +451,7 @@
             "url": "https://www.youtube.com/watch?v=UjfwOo-2UfI",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-14T10:22:27.600000",
+            "collected_at": "2026-01-15T18:22:05.212000",
             "duration": 125.0,
             "title": "[단독] 여론조사비부터 연예인 사례비까지…이종욱 의원 불법 자금 수사 / KBS  2025.06.18.",
             "upload_date": null
@@ -318,6 +464,16 @@
             "collected_at": "2026-01-14T10:22:27.600000",
             "duration": 755.0,
             "title": "이종욱 국회의원 '사인간 금전거래 의혹' 철저한 수사 요구",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad91631fd1743497dad4",
+            "url": "https://www.youtube.com/watch?v=vjVS0iVUgfA",
+            "HG_NM": "이종욱",
+            "MONA_CD": "NLS46526",
+            "collected_at": "2026-01-14T10:22:27.600000",
+            "duration": 117.0,
+            "title": "‘불법 정치자금 수수 의혹’ 이종욱 의원 입건 / KBS  2025.12.09.",
             "upload_date": null
         },
         {
@@ -355,11 +511,11 @@
             "url": "https://www.youtube.com/watch?v=QKduYnhqN7U",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-13T09:49:47.851000",
+            "collected_at": "2026-01-15T18:22:06.008000",
             "duration": 76.0,
             "title": "[직설] '계엄 1년' 한국 경제 운 좋은 이재명 정부? #이종욱",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:11.480548"
+    "exported_at": "2026-01-15T18:29:58.746253"
 }

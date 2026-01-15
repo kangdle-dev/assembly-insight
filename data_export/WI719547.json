@@ -46,34 +46,42 @@
             "신당",
             "의료",
             "국정감사",
+            "정책",
+            "디지털",
             "릴스",
             "쇼츠",
+            "스케",
+            "회관",
+            "제도",
             "기자회견",
             "신년",
             "축사",
-            "기술",
-            "규제",
-            "제도",
-            "헬스",
-            "일정",
-            "촉구"
+            "헬스"
         ],
         "keyword_frequency": [
             {
                 "text": "개혁",
-                "value": 17
+                "value": 20
             },
             {
                 "text": "신당",
-                "value": 17
+                "value": 20
             },
             {
                 "text": "의료",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "국정감사",
                 "value": 12
+            },
+            {
+                "text": "정책",
+                "value": 10
+            },
+            {
+                "text": "디지털",
+                "value": 9
             },
             {
                 "text": "릴스",
@@ -82,6 +90,18 @@
             {
                 "text": "쇼츠",
                 "value": 8
+            },
+            {
+                "text": "스케",
+                "value": 7
+            },
+            {
+                "text": "회관",
+                "value": 6
+            },
+            {
+                "text": "제도",
+                "value": 6
             },
             {
                 "text": "기자회견",
@@ -96,53 +116,74 @@
                 "value": 6
             },
             {
-                "text": "기술",
-                "value": 5
-            },
-            {
-                "text": "규제",
-                "value": 4
-            },
-            {
-                "text": "제도",
-                "value": 4
-            },
-            {
                 "text": "헬스",
-                "value": 4
-            },
-            {
-                "text": "일정",
-                "value": 4
-            },
-            {
-                "text": "촉구",
-                "value": 4
+                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:11.585204",
+        "last_analyzed_at": "2026-01-15T18:29:58.859447",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                2,
                 1,
                 1,
                 0,
                 2,
                 1,
-                0
+                0,
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968adbf297082fcc2b18dba",
+            "link": "https://n.news.naver.com/mnews/article/003/0013711996?sid=102",
+            "created_at": "2026-01-15T18:05:00.682000",
+            "description": "15일 대웅제약에 따르면 개혁신당 이주영 의원(국회 보건복지위원회) 주최로 지난 12일 국회의원회관에서 열린 '대한민국 미래 바이오헬스 포럼'에선 디지털 헬스케어가 국가 보건의료 정책에서 어떤 역할을 수행해야... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003477868",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T10:34:00",
+            "related_members": [
+                "WI719547"
+            ],
+            "title": "\"통합돌봄 정책·만성질환관리, 핵심은 디지털 헬스케어\""
+        },
+        {
+            "_id": "6968ad8a297082fcc2b18cf6",
+            "link": "https://n.news.naver.com/mnews/article/346/0000103203?sid=004",
+            "created_at": "2026-01-15T18:04:07.359000",
+            "description": "국회 보건복지위원회 소속 이주영 개혁신당 의원이 오는 16일 오후 2시 국회의원회관 제6간담회의실에서 '급성림프모구 백혈병 치료 환경 개선 방안 정책토론회'를 개최한다. 이번 정책토론회는 급성림프모구 백혈병... ",
+            "originallink": "https://health.chosun.com/site/data/html_dir/2026/01/15/2026011501518.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-15T10:21:00",
+            "related_members": [
+                "ANS8383S",
+                "WI719547"
+            ],
+            "title": "'급성림프모구 백혈병 치료 환경 개선 방안 정책토론회' 16일 개최"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18dbb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008715210?sid=103",
+            "created_at": "2026-01-15T18:05:00.682000",
+            "description": "한편 이날 포럼에 앞서 국회의원회관 로비에서는 디지털 헬스케어 기기를 직접 체험할 수 있는 부스가 운영됐다. 이준석 개혁신당 대표를 비롯한 다양한 참관객이 방문해 대웅제약의 병상 모니터링 시스템 씽크, 웨어러블... ",
+            "originallink": "https://www.news1.kr/bio/pharmaceutical-bio/6039683",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T09:05:00",
+            "related_members": [
+                "WI719547",
+                "QWL7778X"
+            ],
+            "title": "\"통합돌봄·만성질환 관리 핵심 디지털 헬스케어\"…제도 보완 논의"
+        },
         {
             "_id": "6966ecad887d07f7ba2fb322",
             "link": "https://n.news.naver.com/mnews/article/346/0000103092?sid=004",
@@ -289,7 +330,7 @@
             "url": "https://www.youtube.com/watch?v=JuSWZueFDDo",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:30.701000",
+            "collected_at": "2026-01-15T18:22:08.610000",
             "duration": 91.0,
             "title": "[14/07/01 정오뉴스] 세월호 기관 보고...이주영 장관 \"책임 통감...거듭 사죄\"",
             "upload_date": null
@@ -305,13 +346,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad94631fd1743497dadd",
-            "url": "https://www.youtube.com/watch?v=9g2F5-pxqQ4",
+            "_id": "6960ad94631fd1743497dadc",
+            "url": "https://www.youtube.com/watch?v=302QW-brbjA",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:29.882000",
-            "duration": 952.0,
-            "title": "이주영 “시급한 건 응급실 ‘사법리스크 해소’…필수의료 낮은 전공의 복귀율, 정부 진지한 정책 고민 필요” (25.9.2.) | 이주영 개혁신당 의원 | 파워인터뷰 | 국회라이브6",
+            "collected_at": "2026-01-15T18:22:07.751000",
+            "duration": 496.0,
+            "title": "“매우 우수”라던 보건복지부, 현실은? #릴스 #개혁신당 #쇼츠 #이주영 #국회 #shorts ",
             "upload_date": null
         },
         {
@@ -319,19 +360,19 @@
             "url": "https://www.youtube.com/watch?v=yEFoYY9AI_0",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:30.701000",
+            "collected_at": "2026-01-15T18:22:08.610000",
             "duration": 86.0,
             "title": "[14/12/23 뉴스데스크] 이주영 해양수산부 장관 사표 수리…인적 개편 신호탄?",
             "upload_date": null
         },
         {
-            "_id": "6960ad94631fd1743497dade",
-            "url": "https://www.youtube.com/watch?v=vOyH64MTwLw",
+            "_id": "6960ad94631fd1743497dadd",
+            "url": "https://www.youtube.com/watch?v=9g2F5-pxqQ4",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:29.882000",
-            "duration": 215.0,
-            "title": "이주영 \"남의 일엔 서릿발, 자기 일엔 애매모호\"  [티조Clip]",
+            "collected_at": "2026-01-15T18:22:07.751000",
+            "duration": 952.0,
+            "title": "이주영 “시급한 건 응급실 ‘사법리스크 해소’…필수의료 낮은 전공의 복귀율, 정부 진지한 정책 고민 필요” (25.9.2.) | 이주영 개혁신당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
         },
         {
@@ -339,29 +380,9 @@
             "url": "https://www.youtube.com/watch?v=1i5UUQ1eF5M",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:29.882000",
+            "collected_at": "2026-01-15T18:22:07.751000",
             "duration": 223.0,
             "title": "[2025년 국정감사] 우리집 앞 약사, 어떤 약사일까? #약사 #개혁신당 #릴스 #쇼츠 #이주영 #국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad94631fd1743497dada",
-            "url": "https://www.youtube.com/watch?v=noNtXko2Zpw",
-            "HG_NM": "이주영",
-            "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:29.882000",
-            "duration": 234.0,
-            "title": "[2025년 국정감사] 우리도 못쓰는 긴급의료비, 외국인이 탕진? #개혁신당 #쇼츠 #이주영 #국회의원 #릴스 #국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad94631fd1743497dad8",
-            "url": "https://www.youtube.com/watch?v=70oZdChxXiI",
-            "HG_NM": "이주영",
-            "MONA_CD": "WI719547",
-            "collected_at": "2026-01-09T16:26:08.530000",
-            "duration": 60.0,
-            "title": "대패한 개혁신당 이주영 의원의 과거",
             "upload_date": null
         },
         {
@@ -375,15 +396,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad94631fd1743497dadc",
-            "url": "https://www.youtube.com/watch?v=302QW-brbjA",
+            "_id": "6960ad94631fd1743497dad8",
+            "url": "https://www.youtube.com/watch?v=70oZdChxXiI",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-13T09:49:49.514000",
-            "duration": 496.0,
-            "title": "“매우 우수”라던 보건복지부, 현실은? #릴스 #개혁신당 #쇼츠 #이주영 #국회 #shorts ",
+            "collected_at": "2026-01-15T18:22:07.751000",
+            "duration": 60.0,
+            "title": "대패한 개혁신당 이주영 의원의 과거",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad94631fd1743497dada",
+            "url": "https://www.youtube.com/watch?v=noNtXko2Zpw",
+            "HG_NM": "이주영",
+            "MONA_CD": "WI719547",
+            "collected_at": "2026-01-15T18:22:07.751000",
+            "duration": 234.0,
+            "title": "[2025년 국정감사] 우리도 못쓰는 긴급의료비, 외국인이 탕진? #개혁신당 #쇼츠 #이주영 #국회의원 #릴스 #국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad94631fd1743497dade",
+            "url": "https://www.youtube.com/watch?v=vOyH64MTwLw",
+            "HG_NM": "이주영",
+            "MONA_CD": "WI719547",
+            "collected_at": "2026-01-14T10:22:29.882000",
+            "duration": 215.0,
+            "title": "이주영 \"남의 일엔 서릿발, 자기 일엔 애매모호\"  [티조Clip]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:11.585204"
+    "exported_at": "2026-01-15T18:29:58.859447"
 }

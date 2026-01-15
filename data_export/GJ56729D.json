@@ -52,6 +52,7 @@
             "지방선거",
             "야담",
             "아파트",
+            "기준",
             "사회",
             "재초",
             "경제",
@@ -60,13 +61,12 @@
             "여론조사",
             "도지사",
             "접전",
-            "선택",
-            "서민"
+            "선택"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 14
+                "value": 17
             },
             {
                 "text": "여담",
@@ -83,6 +83,10 @@
             {
                 "text": "아파트",
                 "value": 8
+            },
+            {
+                "text": "기준",
+                "value": 7
             },
             {
                 "text": "사회",
@@ -119,35 +123,63 @@
             {
                 "text": "선택",
                 "value": 6
-            },
-            {
-                "text": "서민",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:01.580856",
+        "last_analyzed_at": "2026-01-15T18:29:48.112437",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 3,
                 0,
                 0,
                 0,
                 0,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9b297082fcc2b18d47",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421793?sid=100",
+            "created_at": "2026-01-15T18:04:24.723000",
+            "description": "특위에는 이정문 도당위원장이 상임총괄공동위원장을 맡고 어기구·문진석·박수현·복기왕·이재관·황명선 국회의원과 양승조(홍성·예산), 조한기(서산·태안) 지역위원장, 김하진(아산을), 조장현(보령·서천)... ",
+            "originallink": "https://www.khan.co.kr/article/202601151557001",
+            "press": "경향신문",
+            "pubDate": "2026-01-15T15:57:00",
+            "related_members": [
+                "GJ56729D",
+                "4U29186R",
+                "RKS3658I",
+                "RJH6314D",
+                "O0I2045I",
+                "8FB1535Y",
+                "5TQ6306B"
+            ],
+            "title": "“통합 동의 서명 100만명 이상 받을 것”···민주당 충남도당, 행정통..."
+        },
+        {
+            "_id": "6968ada7297082fcc2b18d68",
+            "link": "https://futurechosun.com/?p=142132",
+            "created_at": "2026-01-15T18:04:36.433000",
+            "description": "복기왕 의원, 도로 이격거리 폐지·주거지역 상한 100m 제시 복기왕 더불어민주당 의원은 14일 태양광... 복 의원은 “국회 국토교통위원회 간사로서 도로공사 국정감사를 통해 고속도로 내 492MW 규모의 태양광 설치 가능... ",
+            "originallink": "https://futurechosun.com/?p=142132",
+            "press": "조선일보",
+            "pubDate": "2026-01-15T10:34:00",
+            "related_members": [
+                "GJ56729D"
+            ],
+            "title": "고속도로 유휴부지 '태양광 길' 연다…이격거리 기준 법으로 통일"
+        },
         {
             "_id": "6964b565631fd174349962b2",
             "link": "https://n.news.naver.com/mnews/article/024/0000102664?sid=102",
@@ -479,13 +511,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960acca631fd1743497d7e1",
-            "url": "https://www.youtube.com/watch?v=Cb8gBh-8V34",
+            "_id": "6960acca631fd1743497d7e2",
+            "url": "https://www.youtube.com/watch?v=kOwQcD0TxYk",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.906000",
-            "duration": 136.0,
-            "title": "“15억이면 서민 아파트”…복기왕 막말 파문 / 채널A / 뉴스A",
+            "collected_at": "2026-01-15T18:18:33.158000",
+            "duration": 104.0,
+            "title": "[빠른뉴스 쨉] 與 복기왕 \"15억 정도면 서민 아파트\"... 청년층 민심 폭발!",
             "upload_date": null
         },
         {
@@ -499,23 +531,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960acca631fd1743497d7dc",
-            "url": "https://www.youtube.com/watch?v=04mlypfMo2U",
+            "_id": "6960acca631fd1743497d7de",
+            "url": "https://www.youtube.com/watch?v=8DuL4ujqxng",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.906000",
-            "duration": 1624.0,
-            "title": "[LIVE 생생뉴스] 정치와 세상을 잇는 시간, 정치잇수 - 복기왕 더불어민주당 의원 (2025년 10월 22일 수요일)",
+            "collected_at": "2026-01-15T18:18:32.402000",
+            "duration": 1076.0,
+            "title": "[여담야담] 복기왕 \"김병기, 선당후사 필요…탈당 후 소명한 뒤 복귀해야\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
-            "_id": "6960acca631fd1743497d7e0",
-            "url": "https://www.youtube.com/watch?v=8GntBzXaamk",
+            "_id": "6960acca631fd1743497d7e1",
+            "url": "https://www.youtube.com/watch?v=Cb8gBh-8V34",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-09T16:22:46.788000",
-            "duration": 560.0,
-            "title": "민주당 복기왕 의원1 11 2 합,전국지역공동체와 도시재생 사회적경제 마을주민 이재명 대선 후보 지지선언 기자회견",
+            "collected_at": "2026-01-15T18:18:33.158000",
+            "duration": 136.0,
+            "title": "“15억이면 서민 아파트”…복기왕 막말 파문 / 채널A / 뉴스A",
             "upload_date": null
         },
         {
@@ -529,33 +561,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960acca631fd1743497d7de",
-            "url": "https://www.youtube.com/watch?v=8DuL4ujqxng",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.160000",
-            "duration": 1076.0,
-            "title": "[여담야담] 복기왕 \"김병기, 선당후사 필요…탈당 후 소명한 뒤 복귀해야\" / SBS / 편상욱의 뉴스브리핑",
-            "upload_date": null
-        },
-        {
             "_id": "6960acca631fd1743497d7dd",
             "url": "https://www.youtube.com/watch?v=mRzB-O5fSEQ",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.160000",
+            "collected_at": "2026-01-15T18:18:32.402000",
             "duration": 281.0,
             "title": "복기왕 국회의원후보 TJB 방송연설",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acca631fd1743497d7da",
-            "url": "https://www.youtube.com/watch?v=UCUCSAJq6cBljLC3bYjUIQSw",
-            "HG_NM": "복기왕",
-            "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.160000",
-            "duration": null,
-            "title": "복기왕TV",
             "upload_date": null
         },
         {
@@ -563,21 +575,41 @@
             "url": "https://www.youtube.com/watch?v=GeG9rXJFppM",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.160000",
+            "collected_at": "2026-01-15T18:18:32.402000",
             "duration": 172.0,
             "title": "\"15억짜리가 서민 아파트?\" 분노…민주당 복기왕 \"저도 10억 아파트..\" 결국 사과 / SBS 8뉴스",
             "upload_date": null
         },
         {
-            "_id": "6960acca631fd1743497d7e2",
-            "url": "https://www.youtube.com/watch?v=kOwQcD0TxYk",
+            "_id": "6960acca631fd1743497d7da",
+            "url": "https://www.youtube.com/watch?v=UCUCSAJq6cBljLC3bYjUIQSw",
             "HG_NM": "복기왕",
             "MONA_CD": "GJ56729D",
-            "collected_at": "2026-01-14T10:19:11.906000",
-            "duration": 104.0,
-            "title": "[빠른뉴스 쨉] 與 복기왕 \"15억 정도면 서민 아파트\"... 청년층 민심 폭발!",
+            "collected_at": "2026-01-15T18:18:32.402000",
+            "duration": null,
+            "title": "복기왕TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7dc",
+            "url": "https://www.youtube.com/watch?v=04mlypfMo2U",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-15T18:18:33.158000",
+            "duration": 1624.0,
+            "title": "[LIVE 생생뉴스] 정치와 세상을 잇는 시간, 정치잇수 - 복기왕 더불어민주당 의원 (2025년 10월 22일 수요일)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acca631fd1743497d7e0",
+            "url": "https://www.youtube.com/watch?v=8GntBzXaamk",
+            "HG_NM": "복기왕",
+            "MONA_CD": "GJ56729D",
+            "collected_at": "2026-01-09T16:22:46.788000",
+            "duration": 560.0,
+            "title": "민주당 복기왕 의원1 11 2 합,전국지역공동체와 도시재생 사회적경제 마을주민 이재명 대선 후보 지지선언 기자회견",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:01.580856"
+    "exported_at": "2026-01-15T18:29:48.112437"
 }

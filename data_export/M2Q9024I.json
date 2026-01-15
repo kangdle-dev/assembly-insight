@@ -54,19 +54,19 @@
         "keywords": [
             "세종",
             "주유",
-            "민주당",
             "현장",
             "내란",
             "특검",
             "당선인",
             "추천",
-            "진짜",
-            "기상캐스터",
-            "전하",
-            "날씨",
-            "시작",
-            "레전드",
-            "탄생"
+            "민주당",
+            "압수수색",
+            "의혹",
+            "국민",
+            "경찰",
+            "수사",
+            "미적",
+            "김병기"
         ],
         "keyword_frequency": [
             {
@@ -75,10 +75,6 @@
             },
             {
                 "text": "주유",
-                "value": 4
-            },
-            {
-                "text": "민주당",
                 "value": 4
             },
             {
@@ -102,44 +98,48 @@
                 "value": 4
             },
             {
-                "text": "진짜",
+                "text": "민주당",
+                "value": 4
+            },
+            {
+                "text": "압수수색",
+                "value": 3
+            },
+            {
+                "text": "의혹",
+                "value": 3
+            },
+            {
+                "text": "국민",
+                "value": 3
+            },
+            {
+                "text": "경찰",
                 "value": 2
             },
             {
-                "text": "기상캐스터",
+                "text": "수사",
                 "value": 2
             },
             {
-                "text": "전하",
+                "text": "미적",
                 "value": 2
             },
             {
-                "text": "날씨",
-                "value": 2
-            },
-            {
-                "text": "시작",
-                "value": 2
-            },
-            {
-                "text": "레전드",
-                "value": 2
-            },
-            {
-                "text": "탄생",
+                "text": "김병기",
                 "value": 2
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:54.145654",
+        "last_analyzed_at": "2026-01-15T18:29:40.192298",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
@@ -148,30 +148,48 @@
                 0,
                 0,
                 0,
-                0
+                1
             ]
         }
     },
-    "recent_news": [],
-    "recent_videos": [
+    "recent_news": [
         {
-            "_id": "6960ac37631fd1743497d586",
-            "url": "https://www.youtube.com/watch?v=uaNmEcJq3h4",
-            "HG_NM": "김종민",
-            "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-14T10:16:45.459000",
-            "duration": 122.0,
-            "title": "진짜 기상캐스터인 줄?! 김종민이 전하는 날씨 / SBS",
-            "upload_date": null
-        },
+            "_id": "6968ad8b297082fcc2b18cff",
+            "link": "https://n.news.naver.com/mnews/article/023/0003953100?sid=102",
+            "created_at": "2026-01-15T18:04:08.844000",
+            "description": "압수수색 대상에는 김 의원의 국회 의원회관 사무실과 지역구 사무실, ‘숭실대 편입 특혜’ 의혹이 불거진... 김 시의원은 공천 헌금 의혹과는 별개의 의혹에도 휘말렸다. 작년 10월 국민의힘 진종오 의원은 “김씨가... ",
+            "originallink": "https://www.chosun.com/national/incident/2026/01/15/ZIHRMZRLLJBCVLYAZ3FMLPCRQI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-15T00:56:00",
+            "related_members": [
+                "QDU1100U",
+                "MLH1404S",
+                "8Q88373R",
+                "M2Q9024I",
+                "0R68099X"
+            ],
+            "title": "경찰, 두달간 수사 미적대다 김병기 제명되자 압수수색"
+        }
+    ],
+    "recent_videos": [
         {
             "_id": "6960ac37631fd1743497d585",
             "url": "https://www.youtube.com/watch?v=gG8rMPf_7Yc",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-14T10:16:45.459000",
+            "collected_at": "2026-01-15T18:15:58.420000",
             "duration": 252.0,
             "title": "김종민의 대환장 뉴스 시작! (ft. 레전드 짤 탄생) [1박 2일 시즌4/Two Days and One Night 4] 20200412",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac37631fd1743497d586",
+            "url": "https://www.youtube.com/watch?v=uaNmEcJq3h4",
+            "HG_NM": "김종민",
+            "MONA_CD": "M2Q9024I",
+            "collected_at": "2026-01-15T18:15:58.420000",
+            "duration": 122.0,
+            "title": "진짜 기상캐스터인 줄?! 김종민이 전하는 날씨 / SBS",
             "upload_date": null
         },
         {
@@ -179,19 +197,19 @@
             "url": "https://www.youtube.com/watch?v=yCvFVserPrY",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-09T16:20:20.309000",
+            "collected_at": "2026-01-15T18:15:57.559000",
             "duration": 327.0,
             "title": "2025 국감에서 미래형 주유모델, '배달주유앱' 제시한 김종민의원",
             "upload_date": null
         },
         {
-            "_id": "6960ac37631fd1743497d583",
-            "url": "https://www.youtube.com/watch?v=Igc0R4SqZ-0",
+            "_id": "6960ac37631fd1743497d584",
+            "url": "https://www.youtube.com/watch?v=7zZhY2uklfc",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
             "collected_at": "2026-01-09T16:20:20.309000",
-            "duration": 443.0,
-            "title": "김종민 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.11.)",
+            "duration": 140.0,
+            "title": "[현장영상] \"설마 했는데, 선 넘었어요!\" '새미래 출신' 김종민도 폭발 / JTBC News",
             "upload_date": null
         },
         {
@@ -209,7 +227,7 @@
             "url": "https://www.youtube.com/watch?v=AZ_R2XkHwdA",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-14T10:16:44.692000",
+            "collected_at": "2026-01-15T18:15:57.559000",
             "duration": 160.0,
             "title": "[현장연결] 내란특검, 김종민 의원 '계엄해제 방해' 참고인 조사 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -219,7 +237,7 @@
             "url": "https://www.youtube.com/watch?v=ynRM-Ejh5gM",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-14T10:16:44.692000",
+            "collected_at": "2026-01-15T18:15:57.559000",
             "duration": 438.0,
             "title": "“천운이 따랐다” 3선은 세종에서…김종민 당선인에게 듣는다 / KBS 뉴스7 대전 세종 충남 [당선인에게 듣는다] - 04월 16일 (화)",
             "upload_date": null
@@ -229,7 +247,7 @@
             "url": "https://www.youtube.com/watch?v=TJZPkr9-pnk",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-14T10:16:44.692000",
+            "collected_at": "2026-01-15T18:15:57.559000",
             "duration": 1374.0,
             "title": "\"특검 추천권, 국민 참여 추천제 검토 필요\" 김종민 무소속 의원 [시사스페셜-정운갑의 집중분석]",
             "upload_date": null
@@ -239,21 +257,21 @@
             "url": "https://www.youtube.com/watch?v=1pklfrrKmGo",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
-            "collected_at": "2026-01-14T10:16:44.692000",
+            "collected_at": "2026-01-15T18:15:57.559000",
             "duration": 873.0,
             "title": "김종민 \"반명 빅텐트? 내란연대일 뿐! 거길 왜 들어가나\"...민주당 복당엔 \"고민 중\"[질문하는 기자]",
             "upload_date": null
         },
         {
-            "_id": "6960ac37631fd1743497d584",
-            "url": "https://www.youtube.com/watch?v=7zZhY2uklfc",
+            "_id": "6960ac37631fd1743497d583",
+            "url": "https://www.youtube.com/watch?v=Igc0R4SqZ-0",
             "HG_NM": "김종민",
             "MONA_CD": "M2Q9024I",
             "collected_at": "2026-01-09T16:20:20.309000",
-            "duration": 140.0,
-            "title": "[현장영상] \"설마 했는데, 선 넘었어요!\" '새미래 출신' 김종민도 폭발 / JTBC News",
+            "duration": 443.0,
+            "title": "김종민 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.11.)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:54.145654"
+    "exported_at": "2026-01-15T18:29:40.192298"
 }

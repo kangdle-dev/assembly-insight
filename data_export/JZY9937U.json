@@ -55,23 +55,23 @@
             "장관",
             "참사",
             "여객기",
+            "민주당",
             "국토교통부",
             "유가족",
-            "민주당",
+            "공급",
+            "시민",
             "이전",
             "추모식",
-            "시민",
             "정부",
             "상속세",
-            "계획",
-            "공급",
-            "전북",
-            "진상"
+            "경산",
+            "분양",
+            "임박"
         ],
         "keyword_frequency": [
             {
                 "text": "장관",
-                "value": 17
+                "value": 19
             },
             {
                 "text": "참사",
@@ -82,6 +82,10 @@
                 "value": 10
             },
             {
+                "text": "민주당",
+                "value": 8
+            },
+            {
                 "text": "국토교통부",
                 "value": 8
             },
@@ -90,8 +94,12 @@
                 "value": 8
             },
             {
-                "text": "민주당",
-                "value": 7
+                "text": "공급",
+                "value": 6
+            },
+            {
+                "text": "시민",
+                "value": 6
             },
             {
                 "text": "이전",
@@ -102,10 +110,6 @@
                 "value": 6
             },
             {
-                "text": "시민",
-                "value": 5
-            },
-            {
                 "text": "정부",
                 "value": 5
             },
@@ -114,45 +118,74 @@
                 "value": 5
             },
             {
-                "text": "계획",
+                "text": "경산",
                 "value": 4
             },
             {
-                "text": "공급",
+                "text": "분양",
                 "value": 4
             },
             {
-                "text": "전북",
-                "value": 4
-            },
-            {
-                "text": "진상",
+                "text": "임박",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:53.323346",
+        "last_analyzed_at": "2026-01-15T18:29:39.331977",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 1,
                 0,
                 0,
                 1,
                 1,
-                0
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad87297082fcc2b18cdc",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101069?sid=101",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "지난해 12월 17일 조지연·권영진 국회의원, 조현일 경산시장, 김학홍 경북도 행정부지사, 안효대 울산시 경제부시장 등 관계 지자체 및 국회 관계자 20여 명은 경산~울산 고속도로 신설을 촉구하는 범시민 서명부(160... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202601152366b",
+            "press": "한국경제",
+            "pubDate": "2026-01-15T11:33:00",
+            "related_members": [
+                "3NI5978A",
+                "LYY5513O",
+                "5N65159P",
+                "JZY9937U"
+            ],
+            "title": "‘경산 아이파크’ 일부 해약세대 4년 전 분양가 공급에 ‘완판 임박’"
+        },
+        {
+            "_id": "6968ad92297082fcc2b18d1c",
+            "link": "https://n.news.naver.com/mnews/article/011/0004578725?sid=105",
+            "created_at": "2026-01-15T18:04:15.565000",
+            "description": "박상혁·김한규·김우영 더불어민주당 의원은 이날 국회에서 ‘테슬라 FSD 국내 상륙과 우리나라 모빌리티 산업의 미래’를 주제로 간담회를 열고 자율주행 규제 개선 방안을 논의했다. 김한규 의원은 “국민의 안전을... ",
+            "originallink": "https://www.sedaily.com/NewsView/2K7AUBLFKN",
+            "press": "서울경제",
+            "pubDate": "2026-01-14T17:34:00",
+            "related_members": [
+                "NUB4941Z",
+                "HXT76735",
+                "3UI95829",
+                "5N65159P",
+                "JZY9937U"
+            ],
+            "title": "[단독]타다 주역들 다시 뭉쳤다…자율주행으로 재도전 나선 쏘카"
+        },
         {
             "_id": "6966ec75887d07f7ba2fb27e",
             "link": "https://n.news.naver.com/mnews/article/016/0002585056?sid=101",
@@ -326,19 +359,9 @@
             "url": "https://www.youtube.com/watch?v=o7IgjswGHqs",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:28.510000",
+            "collected_at": "2026-01-15T18:15:40.030000",
             "duration": 248.0,
             "title": "관행·악습? 배현진 \"김윤덕 민주당 사무총장 '절도 입법'\"…김윤덕 \"결함 고친 것\"｜백브RE핑",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac27631fd1743497d53c",
-            "url": "https://www.youtube.com/watch?v=uDqhZ3AGI5U",
-            "HG_NM": "김윤덕",
-            "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:28.510000",
-            "duration": 776.0,
-            "title": "김윤덕에게 판단 틀리면 장관직 국회의원직 다 내려놓아라!!",
             "upload_date": null
         },
         {
@@ -352,13 +375,33 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac27631fd1743497d53c",
+            "url": "https://www.youtube.com/watch?v=uDqhZ3AGI5U",
+            "HG_NM": "김윤덕",
+            "MONA_CD": "JZY9937U",
+            "collected_at": "2026-01-15T18:15:40.030000",
+            "duration": 776.0,
+            "title": "김윤덕에게 판단 틀리면 장관직 국회의원직 다 내려놓아라!!",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac27631fd1743497d53f",
             "url": "https://www.youtube.com/watch?v=BFTiwujU_sQ",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-09T16:20:03.613000",
+            "collected_at": "2026-01-15T18:15:40.030000",
             "duration": 150.0,
             "title": "김윤덕 \"재초환 일단 진행\"...'아빠 찬스' 논란엔 \"겸허히 생각\" / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac27631fd1743497d53d",
+            "url": "https://www.youtube.com/watch?v=MLnMf8dDCe8",
+            "HG_NM": "김윤덕",
+            "MONA_CD": "JZY9937U",
+            "collected_at": "2026-01-15T18:15:40.030000",
+            "duration": 511.0,
+            "title": "국회 파행의 주범 '국토부 장관?‘... 국힘 맹폭에...김윤덕 장관 웃더니 '반격'",
             "upload_date": null
         },
         {
@@ -366,29 +409,9 @@
             "url": "https://www.youtube.com/watch?v=-OdL6SQzFDM",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:28.510000",
+            "collected_at": "2026-01-15T18:15:40.030000",
             "duration": 143.0,
             "title": "[뉴스데스크]김윤덕 의원이 불 지핀 도지사 경쟁",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac27631fd1743497d53a",
-            "url": "https://www.youtube.com/watch?v=hpfi9uMymR0",
-            "HG_NM": "김윤덕",
-            "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:28.510000",
-            "duration": 310.0,
-            "title": "김희정 \"관용차 6대 굴리는 분이..핑계는..\" 사과요구에 김윤덕 장관이 웃는 이유는?![G1현장뉴스]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac27631fd1743497d542",
-            "url": "https://www.youtube.com/watch?v=IRZpztPQzLo",
-            "HG_NM": "김윤덕",
-            "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:29.294000",
-            "duration": 140.0,
-            "title": "“대통령부터 집 팔아라” 묻자 김윤덕 장관 “검토” / 채널A / 특집 뉴스TOP 10",
             "upload_date": null
         },
         {
@@ -396,7 +419,7 @@
             "url": "https://www.youtube.com/watch?v=zOztX2SQaHw",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:28.510000",
+            "collected_at": "2026-01-15T18:15:40.030000",
             "duration": 94.0,
             "title": "국회와의 협력을 통해 실천해나가겠습니다 ㅣ 김윤덕 국토교통부 장관 국회 본회의 취임인사",
             "upload_date": null
@@ -406,9 +429,19 @@
             "url": "https://www.youtube.com/watch?v=UC4OAafeQilP01diUwREYnqA",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-14T10:16:28.510000",
+            "collected_at": "2026-01-15T18:15:40.030000",
             "duration": null,
             "title": "김윤덕TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac27631fd1743497d53a",
+            "url": "https://www.youtube.com/watch?v=hpfi9uMymR0",
+            "HG_NM": "김윤덕",
+            "MONA_CD": "JZY9937U",
+            "collected_at": "2026-01-15T18:15:40.030000",
+            "duration": 310.0,
+            "title": "김희정 \"관용차 6대 굴리는 분이..핑계는..\" 사과요구에 김윤덕 장관이 웃는 이유는?![G1현장뉴스]",
             "upload_date": null
         },
         {
@@ -422,5 +455,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:53.323346"
+    "exported_at": "2026-01-15T18:29:39.331977"
 }

@@ -70,50 +70,50 @@
             "다카",
             "이치",
             "총리",
-            "부의",
-            "협력",
-            "연맹",
-            "한일",
             "국민",
-            "중요",
+            "협력",
+            "부의",
+            "연맹",
             "민주당",
+            "중요",
+            "간사",
+            "한일",
+            "대구시",
             "원내대표",
-            "인터뷰",
-            "일본",
-            "이름",
-            "유권자"
+            "국힘",
+            "선거"
         ],
         "keyword_frequency": [
             {
                 "text": "다카",
-                "value": 26
+                "value": 28
             },
             {
                 "text": "이치",
-                "value": 26
+                "value": 28
             },
             {
                 "text": "총리",
-                "value": 20
+                "value": 24
             },
             {
-                "text": "부의",
-                "value": 17
+                "text": "국민",
+                "value": 20
             },
             {
                 "text": "협력",
                 "value": 17
             },
             {
+                "text": "부의",
+                "value": 15
+            },
+            {
                 "text": "연맹",
                 "value": 14
             },
             {
-                "text": "한일",
-                "value": 14
-            },
-            {
-                "text": "국민",
+                "text": "민주당",
                 "value": 13
             },
             {
@@ -121,53 +121,93 @@
                 "value": 12
             },
             {
-                "text": "민주당",
-                "value": 9
+                "text": "간사",
+                "value": 10
+            },
+            {
+                "text": "한일",
+                "value": 10
+            },
+            {
+                "text": "대구시",
+                "value": 8
             },
             {
                 "text": "원내대표",
                 "value": 8
             },
             {
-                "text": "인터뷰",
+                "text": "국힘",
                 "value": 7
             },
             {
-                "text": "일본",
+                "text": "선거",
                 "value": 7
-            },
-            {
-                "text": "이름",
-                "value": 6
-            },
-            {
-                "text": "유권자",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:17.775583",
+        "last_analyzed_at": "2026-01-15T18:30:05.617264",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
-                6,
+                4,
                 6,
                 0,
                 5,
                 3,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad87297082fcc2b18cd0",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324668?sid=100",
+            "created_at": "2026-01-15T18:04:04.184000",
+            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 그런데 그분들의 이야기, 이를테면 주호영 부의장 같은 경우에는 당이 길을 잃었을 때는 민심이라는 등대를... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405649&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-15T15:29:00",
+            "related_members": [
+                "LG63087O",
+                "KFM1081G",
+                "OWD1018N",
+                "DMP1439I",
+                "8UC4779G",
+                "6EN68926",
+                "4019850M",
+                "AEJ19639",
+                "7XY7109I",
+                "MSY7784L",
+                "8SV6917G"
+            ],
+            "title": "[여담야담] 전 윤리위 부위원장 전주혜 \"이 결정문으론 법원 통과 못한..."
+        },
+        {
+            "_id": "6968adb4297082fcc2b18d87",
+            "link": "https://n.news.naver.com/mnews/article/421/0008715912?sid=102",
+            "created_at": "2026-01-15T18:04:49.083000",
+            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 현역 의원 5명이 한꺼번에 출마 의사를 밝힌 건 전례가 없는 일이다. 앞서 국민의힘에선 추경호 의원(3선)과... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6040048",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T11:46:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "국힘 '6선' 주호영 출마선언 초읽기…판 커지는 대구시장 선거"
+        },
         {
             "_id": "6966ecb0887d07f7ba2fb328",
             "link": "http://andongmbc.co.kr/adboard/NewsView80172",
@@ -342,7 +382,7 @@
             "_id": "6964b55a631fd174349961eb",
             "link": "https://n.news.naver.com/mnews/article/374/0000485513?sid=104",
             "created_at": "2026-01-12T17:48:23.330000",
-            "description": "한일의원연맹 회장인 주호영 국회부의장은 \"어려운 사안은 차분히 관리해 나가고 좋은 기회는 윈윈과 상생으로 키워나가는 관계를 만들어 가야 한다\"며 \"지난해 한일 국교 정상화 60주년으로 다양한 기념행사가 이어졌고... ",
+            "description": "오늘(10일) 한일의원연맹은 어제(9일) 다카이치 총리가 도쿄 총리 관저에서 한일의원연맹 및 국회... 더불어민주당 의원, 경제과학 부위원장인 이성권 국민의힘 의원, 상임 간사 배현진 국민의힘 의원, 간사 이재강 민주당... ",
             "originallink": "https://biz.sbs.co.kr/article_hub/20000283939?division=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-10T10:36:00",
@@ -359,7 +399,7 @@
             "_id": "6964b55a631fd174349961ec",
             "link": "https://n.news.naver.com/mnews/article/005/0001825293?sid=104",
             "created_at": "2026-01-12T17:48:23.330000",
-            "description": "한일의원연맹 회장인 주호영 국회부의장은 다카이치 총리에게 “어려운 사안은 차분히 관리해 나가고 좋은 기회는 ‘윈윈’과 상생으로 키워나가는 관계를 만들어 가야 한다”며 “지난해 한·일 국교 정상화 60주년으로... ",
+            "description": "10일 한일의원연맹에 따르면 다카이치 총리는 전날 도쿄 총리관저에서 한일의원연맹 및 우리 국회... 이성권 국민의힘 의원, 상임 간사 배현진 국민의힘 의원, 간사인 이재강 민주당 의원 등도 다카이치 총리를 만났다.",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029228883&code=61131211&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-10T10:13:00",
@@ -376,7 +416,7 @@
             "_id": "6964b55a631fd174349961ed",
             "link": "https://n.news.naver.com/mnews/article/052/0002298690?sid=100",
             "created_at": "2026-01-12T17:48:23.330000",
-            "description": "한일의원연맹 회장인 주호영 국회부의장은 지난해 국교정상화 60주년을 언급하며 어려운 사안은 차분히 관리해가고 좋은 기회는 윈윈과 상생으로 키워나가는 관계를 만들어 가자고 화답했습니다. 다카이치 총리의 한일... ",
+            "description": "다카이치 총리는 어제(9일) 도쿄 총리 관저에서 한일의원연맹 및 국회 외교통일위원회 소속 의원들을 만난... 부위원장인 국민의힘 이성권 의원, 상임 간사 국민의힘 배현진 의원, 간사 민주당 이재강 의원 등이 참석했습니다.",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601100939576954",
             "press": "YTN",
             "pubDate": "2026-01-10T09:39:00",
@@ -479,50 +519,6 @@
                 "8SV6917G"
             ],
             "title": "[사사건건] 야당 탓, 부하 탓…윤 전 대통령 이번엔 무슨 탓?"
-        },
-        {
-            "_id": "6964b55a631fd174349961f1",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096387?sid=104",
-            "created_at": "2026-01-12T17:48:23.330000",
-            "description": "도쿄=유태영 특파원 한·일 의원연맹 회장인 주호영 국회부의장은 의원연맹 간사장인 더불어민주당 민홍철 의원, 상임간사인 국민의힘 배현진 의원 등 방일 의원단과 함께 연단에 올라 “모국을 떠나 이곳 일본 땅에서... ",
-            "originallink": "https://www.segye.com/newsView/20260109510483?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-09T15:03:00",
-            "related_members": [
-                "O6D8329R",
-                "4X525582",
-                "8SV6917G"
-            ],
-            "title": "현해탄 너머서 역경·도전 딛고 창단 80년 맞은 민단 “새로운 도약” ..."
-        },
-        {
-            "_id": "6964b548631fd1743499608a",
-            "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
-            "created_at": "2026-01-12T17:48:05.254000",
-            "description": "근데 장 대표가 사과를 한 지 하루 만에 지도부 인사가 났는데 이 인사를 보면 지금 정점식 정책위의장... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454621&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-09T10:00:00",
-            "related_members": [
-                "X7E7893P",
-                "ANS8383S",
-                "LH97552Q",
-                "9D939735",
-                "57B28032",
-                "DMP1439I",
-                "7XY7109I",
-                "8SV6917G",
-                "6EN68926",
-                "3OQ8273H",
-                "3249208I",
-                "KFM1081G",
-                "OWD1018N",
-                "EB16073M",
-                "IC499858",
-                "8UC4779G",
-                "LJK4960Z"
-            ],
-            "title": "[전격시사] 신영대 등 ‘의원직 상실’…지선 영향은? (김준일) “거의..."
         }
     ],
     "recent_videos": [
@@ -571,6 +567,17 @@
             "upload_date": null
         },
         {
+            "_id": "6960a768631fd1743497cf51",
+            "url": "https://www.youtube.com/watch?v=eIg4o4TOhGM",
+            "HG_NM": "주호영",
+            "MONA_CD": "8SV6917G",
+            "collected_at": "2026-01-15T18:24:18.360000",
+            "duration": 1695.0,
+            "source": "MBC뉴스",
+            "title": "국힘 중진 주호영 \"계엄? 김건희 특검 막으려던 것으로 짐작\" 작심 비판..보수의 심장서 반尹-반張..선거 앞두고 오죽하면 - [핫이슈PLAY] MBC뉴스 2025년 12월 08일",
+            "upload_date": null
+        },
+        {
             "_id": "6960a768631fd1743497cf4f",
             "url": "https://www.youtube.com/watch?v=PuWq11MQBFQ",
             "HG_NM": "주호영",
@@ -579,17 +586,6 @@
             "duration": 409.0,
             "source": "KBS뉴스",
             "title": "[인터뷰] 통합당 주호영 새 원내대표에게 듣는다 / KBS뉴스(News)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a768631fd1743497cf4e",
-            "url": "https://www.youtube.com/watch?v=XlJLhp15iQ4",
-            "HG_NM": "주호영",
-            "MONA_CD": "8SV6917G",
-            "collected_at": "2026-01-09T15:59:41.204000",
-            "duration": 448.0,
-            "source": "KBS뉴스",
-            "title": "[인터뷰] 통합당 주호영 원내대표…대여 투쟁 묘수는? / KBS뉴스(News)",
             "upload_date": null
         },
         {
@@ -615,14 +611,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a768631fd1743497cf51",
-            "url": "https://www.youtube.com/watch?v=eIg4o4TOhGM",
+            "_id": "6960a768631fd1743497cf4e",
+            "url": "https://www.youtube.com/watch?v=XlJLhp15iQ4",
             "HG_NM": "주호영",
             "MONA_CD": "8SV6917G",
-            "collected_at": "2026-01-13T09:51:45.749000",
-            "duration": 1695.0,
-            "source": "MBC뉴스",
-            "title": "국힘 중진 주호영 \"계엄? 김건희 특검 막으려던 것으로 짐작\" 작심 비판..보수의 심장서 반尹-반張..선거 앞두고 오죽하면 - [핫이슈PLAY] MBC뉴스 2025년 12월 08일",
+            "collected_at": "2026-01-09T15:59:41.204000",
+            "duration": 448.0,
+            "source": "KBS뉴스",
+            "title": "[인터뷰] 통합당 주호영 원내대표…대여 투쟁 묘수는? / KBS뉴스(News)",
             "upload_date": null
         },
         {
@@ -637,5 +633,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:17.775583"
+    "exported_at": "2026-01-15T18:30:05.617264"
 }

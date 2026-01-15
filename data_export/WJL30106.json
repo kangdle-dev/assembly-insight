@@ -50,18 +50,18 @@
             "일정",
             "토론회",
             "회관",
-            "답변",
             "국민",
+            "답변",
             "질문",
+            "수요일",
             "공군",
             "전투",
             "비행단",
             "세미나",
             "의료",
             "데이터",
-            "수요일",
             "신관",
-            "현장"
+            "울분"
         ],
         "keyword_frequency": [
             {
@@ -77,16 +77,20 @@
                 "value": 6
             },
             {
+                "text": "국민",
+                "value": 6
+            },
+            {
                 "text": "답변",
                 "value": 6
             },
             {
-                "text": "국민",
+                "text": "질문",
                 "value": 5
             },
             {
-                "text": "질문",
-                "value": 5
+                "text": "수요일",
+                "value": 4
             },
             {
                 "text": "공군",
@@ -113,71 +117,37 @@
                 "value": 4
             },
             {
-                "text": "수요일",
-                "value": 4
-            },
-            {
                 "text": "신관",
                 "value": 4
             },
             {
-                "text": "현장",
+                "text": "울분",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:17.410277",
+        "last_analyzed_at": "2026-01-15T18:30:05.107207",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 1,
                 1,
-                1,
                 0,
                 0,
                 0,
-                2
+                2,
+                0
             ]
         }
     },
     "recent_news": [
-        {
-            "_id": "6966ec77887d07f7ba2fb281",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
-            "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037918",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "WJL30106",
-                "IUX1829H",
-                "MSY7784L",
-                "9D939735",
-                "88O1334C",
-                "04T3751T",
-                "NPD75153",
-                "P8A4624C",
-                "5N65159P",
-                "D6U6678O",
-                "FU87526G",
-                "HXT76735",
-                "1A82234K",
-                "2KM3589W",
-                "25G2571T",
-                "BRU2690F",
-                "RBM5454A",
-                "WJG74792"
-            ],
-            "title": "[오늘의 국회일정] (14일, 수)"
-        },
         {
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
@@ -209,6 +179,36 @@
             "title": "[오늘의 주요일정]국회(1월14일 수요일)"
         },
         {
+            "_id": "6966ec77887d07f7ba2fb281",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037918",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "IUX1829H",
+                "MSY7784L",
+                "9D939735",
+                "88O1334C",
+                "04T3751T",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "RBM5454A",
+                "WJG74792"
+            ],
+            "title": "[오늘의 국회일정] (14일, 수)"
+        },
+        {
             "_id": "6964b547631fd17434996077",
             "link": "https://n.news.naver.com/mnews/article/016/0002583845?sid=100",
             "created_at": "2026-01-12T17:48:04.335000",
@@ -227,7 +227,7 @@
             "_id": "6964b556631fd174349961be",
             "link": "https://n.news.naver.com/mnews/article/005/0001825057?sid=100",
             "created_at": "2026-01-12T17:48:20.125000",
-            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 의원은 11억원 불법대출 의혹으로 3심이 진행 중이다. 1·2심에서 모두 당선무효형을 선고받았다. 허종식(인천... ",
+            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 전현희 의원 등이 출마를 선언했거나 준비 중이다. 국민의힘에선 나경원·신동욱·조은희·조정훈 의원이... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1767862243&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-09T00:06:00",
@@ -340,23 +340,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ae06631fd1743497dc7d",
-            "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
+            "_id": "6960ae06631fd1743497dc7e",
+            "url": "https://www.youtube.com/watch?v=5u-dS4A9iik",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-14T10:24:11.551000",
-            "duration": 1050.0,
-            "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
+            "collected_at": "2026-01-09T16:28:03.158000",
+            "duration": 1364.0,
+            "title": "조정훈 대정부질문ㅣ초선의원의 품격있는 질문ㅣ휴식 신분제, 한국판 뉴딜",
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc80",
-            "url": "https://www.youtube.com/watch?v=X7BJIFlzsmo",
+            "_id": "6960ae06631fd1743497dc7f",
+            "url": "https://www.youtube.com/watch?v=4VoGPTGOImM",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
             "collected_at": "2026-01-13T09:51:39.611000",
-            "duration": 1119.0,
-            "title": "국회방송 뉴스N | [파워인터뷰] 시대전환 조정훈 의원  - 2020년 12월 29일",
+            "duration": 325.0,
+            "title": "“학부모 의견 좀 들으라고요!” 고교학점제 대혼란에 울분 토한 조정훈",
             "upload_date": null
         },
         {
@@ -370,13 +370,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc7e",
-            "url": "https://www.youtube.com/watch?v=5u-dS4A9iik",
+            "_id": "6960ae06631fd1743497dc7d",
+            "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-09T16:28:03.158000",
-            "duration": 1364.0,
-            "title": "조정훈 대정부질문ㅣ초선의원의 품격있는 질문ㅣ휴식 신분제, 한국판 뉴딜",
+            "collected_at": "2026-01-15T18:24:07.506000",
+            "duration": 1050.0,
+            "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
             "upload_date": null
         },
         {
@@ -384,7 +384,7 @@
             "url": "https://www.youtube.com/watch?v=rvj8P65HngI",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-14T10:24:11.551000",
+            "collected_at": "2026-01-15T18:24:07.506000",
             "duration": 956.0,
             "title": "서울 성벽 틀어막은 민주당에 결국 울분터진 조정훈 의원 [펜앤현장]",
             "upload_date": null
@@ -404,7 +404,7 @@
             "url": "https://www.youtube.com/watch?v=4dZhzfF_VuA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-14T10:24:11.551000",
+            "collected_at": "2026-01-15T18:24:07.506000",
             "duration": 409.0,
             "title": "조정훈 \"무주택 국무위원 손 들어주세요\"하자 '정적' [현장영상] / 채널A",
             "upload_date": null
@@ -414,7 +414,7 @@
             "url": "https://www.youtube.com/watch?v=UCf8h3rgyIyV2_wmF5TiR85g",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-14T10:24:11.551000",
+            "collected_at": "2026-01-15T18:24:07.506000",
             "duration": null,
             "title": "조정훈",
             "upload_date": null
@@ -440,5 +440,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:17.410277"
+    "exported_at": "2026-01-15T18:30:05.107207"
 }

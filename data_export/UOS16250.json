@@ -45,23 +45,23 @@
             "국민",
             "대변인",
             "민주당",
+            "지원",
             "국힘",
             "이혜훈",
+            "자산",
+            "거래소",
+            "사회",
+            "인사",
             "의혹",
-            "논평",
             "민주",
             "대통령",
-            "지원",
-            "장애인",
-            "자산",
-            "통합",
-            "인사",
-            "후보자"
+            "공천",
+            "장애인"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 15
+                "value": 17
             },
             {
                 "text": "대변인",
@@ -72,6 +72,10 @@
                 "value": 9
             },
             {
+                "text": "지원",
+                "value": 8
+            },
+            {
                 "text": "국힘",
                 "value": 8
             },
@@ -80,11 +84,23 @@
                 "value": 8
             },
             {
-                "text": "의혹",
+                "text": "자산",
                 "value": 7
             },
             {
-                "text": "논평",
+                "text": "거래소",
+                "value": 6
+            },
+            {
+                "text": "사회",
+                "value": 6
+            },
+            {
+                "text": "인사",
+                "value": 6
+            },
+            {
+                "text": "의혹",
                 "value": 6
             },
             {
@@ -96,53 +112,70 @@
                 "value": 6
             },
             {
-                "text": "지원",
+                "text": "공천",
                 "value": 6
             },
             {
                 "text": "장애인",
                 "value": 6
-            },
-            {
-                "text": "자산",
-                "value": 5
-            },
-            {
-                "text": "통합",
-                "value": 5
-            },
-            {
-                "text": "인사",
-                "value": 5
-            },
-            {
-                "text": "후보자",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:19.275198",
+        "last_analyzed_at": "2026-01-15T18:30:07.034564",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
+                0,
+                1,
+                1,
+                0,
                 2,
-                0,
-                1,
-                1,
-                0,
                 2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad8d297082fcc2b18d0c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008714664?sid=101",
+            "created_at": "2026-01-15T18:04:10.324000",
+            "description": "일부 국회 정무위원회 소속 의원실에 전달했다. 자본시장 대체거래소(ATS)에 준하는 대주주 적격성 심사를 도입한다는 취지다. 특위 소속 최보윤 의원은 회의 후 브리핑에서 \"거래소 대주주 지분 제한은 국내에만 적용되는... ",
+            "originallink": "https://www.news1.kr/finance/blockchain-fintech/6039163",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T17:26:00",
+            "related_members": [
+                "1Y73132H",
+                "UOS16250"
+            ],
+            "title": "\"가상자산 거래소 지분 제한은 역차별…스테이블코인 민간이 발행해야..."
+        },
+        {
+            "_id": "6968ad8b297082fcc2b18cfb",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826152?sid=102",
+            "created_at": "2026-01-15T18:04:08.557000",
+            "description": "조배숙·나경원·서영교·진선미·김미애·최보윤 의원 등 여야 국회의원들도 축하 인사를 보냈다. 허 변호사는 연세대 법학과를 졸업하고 2001년 변호사로 개업했다. 이후 김장리법률사무소, 법무법인 화우 등을 거쳐... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029250118&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-14T15:59:00",
+            "related_members": [
+                "3BC6890E",
+                "TKJ4800F",
+                "SLW27496",
+                "UOS16250",
+                "68P7228G",
+                "IWK63872",
+                "X3170462"
+            ],
+            "title": "허윤정 여성변호사회 신임 회장 취임… “사회적 약자 법률지원 확대”"
+        },
         {
             "_id": "6966ec7b887d07f7ba2fb2ad",
             "link": "https://n.news.naver.com/mnews/article/421/0008712066?sid=101",
@@ -259,7 +292,7 @@
             "_id": "6964b590631fd174349964db",
             "link": "https://n.news.naver.com/mnews/article/003/0013694659?sid=100",
             "created_at": "2026-01-12T17:49:17.622000",
-            "description": "국회 재정경제기획위원회 야당 간사인 박수영 국민의힘 의원은 이날 오전 국회에서 열린 원내대책회의에서... 최수진 원내수석대변인도 논평에서 \"이 후보자는 경제 전문가가 아니라 본인 곳간만 불린 '사익 추구 전문가... ",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 국민의힘 의원은 이날 오전 국회에서 열린 원내대책회의에서... 최보윤 수석대변인은 논평에서 \"염치가 있다면 국민에 대한 최소한의 책임은 사과와 자진 사퇴\"라며 \"그렇지... ",
             "originallink": "https://www.newsis.com/view/NISX20260106_0003466643",
             "press": "뉴시스",
             "pubDate": "2026-01-06T10:56:00",
@@ -288,7 +321,7 @@
             "_id": "6964b564631fd174349962a7",
             "link": "https://n.news.naver.com/mnews/article/028/0002784732?sid=100",
             "created_at": "2026-01-12T17:48:33.475000",
-            "description": "최보윤 국민의힘 수석대변인은 4일 논평을 내어 “이 후보자를 둘러싼 보좌진 갑질·폭언 의혹은 대통령실... 하지만 당 일각에선 이 후보자가 국민의힘 계열 정당에서 다섯번이나 국회의원 공천을 받은 만큼, 공세... ",
+            "description": "하지만 당 일각에선 이 후보자가 국민의힘 계열 정당에서 다섯번이나 국회의원 공천을 받은 만큼, 공세... 백승아 원내대변인도 “국민의힘에서 다섯 차례나 공천을 받은 분이니 국민의힘 검증 시스템부터 봐야 하는 것... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1237973.html",
             "press": "한겨레",
             "pubDate": "2026-01-04T18:34:00",
@@ -332,7 +365,7 @@
             "url": "https://www.youtube.com/watch?v=fR5A5SXJUmI",
             "HG_NM": "최보윤",
             "MONA_CD": "UOS16250",
-            "collected_at": "2026-01-14T10:24:42.141000",
+            "collected_at": "2026-01-15T18:24:47.238000",
             "duration": 62.0,
             "title": "돌봄통합지원 시범사업, 장애인 대상 사업 예산 반영을 위해 적극적인 협조 촉구 #최보윤 #보건복지위",
             "upload_date": null
@@ -342,7 +375,7 @@
             "url": "https://www.youtube.com/watch?v=r1K9DBRFfZ4",
             "HG_NM": "최보윤",
             "MONA_CD": "UOS16250",
-            "collected_at": "2026-01-14T10:24:41.385000",
+            "collected_at": "2026-01-15T18:24:47.238000",
             "duration": 206.0,
             "title": "국회의원 최보윤의 법Talk! - 장애인 자립지원법 편 #최보윤의원  #장애인자립지원법",
             "upload_date": null
@@ -368,16 +401,6 @@
             "upload_date": null
         },
         {
-            "_id": "6965973f887d07f7ba2fae91",
-            "url": "https://www.youtube.com/watch?v=S_GrP2h8CWU",
-            "HG_NM": "최보윤",
-            "MONA_CD": "UOS16250",
-            "collected_at": "2026-01-13T09:52:12.974000",
-            "duration": 1154.0,
-            "title": "정은경, 눈도 못마주치고 질문하는 최보윤 국힘 의원에 “동의하기 어렵습니다” 소신 발언(이소영 민주당 의원, 최보윤)ㅣ국회 정은경 인사청문회",
-            "upload_date": null
-        },
-        {
             "_id": "6965973f887d07f7ba2fae92",
             "url": "https://www.youtube.com/watch?v=x1lbcKjyr98",
             "HG_NM": "최보윤",
@@ -396,7 +419,17 @@
             "duration": 106.0,
             "title": "국회의원 최보윤 의원님의 따뜻한 응원💙｜2025 세계자폐인의 날 축하 메시지",
             "upload_date": null
+        },
+        {
+            "_id": "6965973f887d07f7ba2fae91",
+            "url": "https://www.youtube.com/watch?v=S_GrP2h8CWU",
+            "HG_NM": "최보윤",
+            "MONA_CD": "UOS16250",
+            "collected_at": "2026-01-15T18:24:47.238000",
+            "duration": 1154.0,
+            "title": "정은경, 눈도 못마주치고 질문하는 최보윤 국힘 의원에 “동의하기 어렵습니다” 소신 발언(이소영 민주당 의원, 최보윤)ㅣ국회 정은경 인사청문회",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:19.275198"
+    "exported_at": "2026-01-15T18:30:07.035563"
 }

@@ -48,53 +48,49 @@
     "analysis": {
         "keywords": [
             "정복",
-            "최고",
             "민주당",
+            "최고",
             "위원",
             "원내대표",
-            "정청래",
             "한병도",
-            "신임",
+            "정청래",
             "김병기",
             "도부",
-            "대표",
             "보궐선거",
+            "신임",
             "청계",
-            "성윤문",
-            "징계"
+            "투표",
+            "징계",
+            "민주"
         ],
         "keyword_frequency": [
             {
                 "text": "정복",
-                "value": 32
-            },
-            {
-                "text": "최고",
-                "value": 24
+                "value": 31
             },
             {
                 "text": "민주당",
-                "value": 23
+                "value": 20
             },
             {
-                "text": "위원",
-                "value": 23
-            },
-            {
-                "text": "원내대표",
+                "text": "최고",
                 "value": 19
             },
             {
-                "text": "정청래",
-                "value": 14
+                "text": "위원",
+                "value": 18
+            },
+            {
+                "text": "원내대표",
+                "value": 17
             },
             {
                 "text": "한병도",
-                "value": 12
+                "value": 13
             },
             {
-                "text": "신임",
-                "value": 11
+                "text": "정청래",
+                "value": 13
             },
             {
                 "text": "김병기",
@@ -105,44 +101,48 @@
                 "value": 10
             },
             {
-                "text": "대표",
-                "value": 10
-            },
-            {
                 "text": "보궐선거",
                 "value": 10
             },
             {
-                "text": "청계",
-                "value": 8
+                "text": "신임",
+                "value": 10
             },
             {
-                "text": "성윤문",
+                "text": "청계",
+                "value": 9
+            },
+            {
+                "text": "투표",
                 "value": 8
             },
             {
                 "text": "징계",
                 "value": 7
+            },
+            {
+                "text": "민주",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:56.535829",
+        "last_analyzed_at": "2026-01-15T18:29:42.788807",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 0,
                 0,
                 4,
                 14,
                 2,
+                0,
                 0
             ]
         }
@@ -240,7 +240,7 @@
             "_id": "6964b541631fd17434995fdf",
             "link": "https://n.news.naver.com/mnews/article/056/0012102894?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "◇ 정길훈: 지난주에 초미의 관심을 끌었던 이재명 대통령과 광주·전남 시도지사, 지역구 국회의원들의 오찬... 그래서 일단 통합을 신속하게 추진하는 쪽으로 됐고 그러다 보니까 이제 주민투표, 주철현 의원이 그... ",
+            "description": "◇ 정길훈: 지난주에 초미의 관심을 끌었던 이재명 대통령과 광주·전남 시도지사, 지역구 국회의원들의 오찬... 한병도 의원은 처음부터 '친청계' 중심으로 똘똘 뭉쳐서 갔고 '친명계'의 구심점이 없다 보니까 백혜련이... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456295&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T11:32:00",
@@ -260,7 +260,7 @@
             "_id": "6964b541631fd17434995fe1",
             "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또... 왜냐하면 이준석 대표 측도 지방선거의 연대에 대해서 천하람 원내대표가 분명히 반대 입장을 냈잖아요. 그거는... ",
+            "description": "질문했는데 천준호 의원을 얘기하셨거든요. 천준호 의원 같은 경우도 이재명 당 대표 시절에 비서실장을... 공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또 공교롭게... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456250&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T10:48:00",
@@ -318,7 +318,7 @@
             "_id": "6964b541631fd17434995fe2",
             "link": "https://n.news.naver.com/mnews/article/003/0013704552?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "당직은 국회의원직'이라 하셨다. 정치는 도전이다. 저도 재도전해서 민주당 원대(원내대표)를 두 번 했다.... 민주당 최고위원회의는 당 대표와 한병도 신임 원내대표와 선출직 최고위원 5명(이언주·황명선·강득구... ",
+            "description": "이에 더해 원내대표 경선에서 한병도 의원에게 패해 \"백혜련, 박정, 진성준, 이건태 의원께 위로의 말을 드린다\"면서 \"DJ(김대중 전 대통령)는 '최고의 당직은 국회의원직'이라 하셨다. 정치는 도전이다. 저도 재도전해서... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003472792",
             "press": "뉴시스",
             "pubDate": "2026-01-12T10:43:00",
@@ -474,7 +474,7 @@
             "_id": "6964b541631fd17434995fe9",
             "link": "https://n.news.naver.com/mnews/article/421/0008707687?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "당직은 국회의원직이다'고 하셨다. 세월이 가면 기회는 오니 툭툭 털고 일어나라\"고 격려했다. 민주당 지도부인 최고위원회는 정청래 대표, 한병도 원내대표와 5명의 선출직 최고위원( 이언주·황명선·강득구·이성윤... ",
+            "description": "아울러 원내대표 경선에서 한병도 의원에게 패한 \"백혜련, 박정, 진성준, 이건태 의원께 위로의 말을 드린다\"면서 \"DJ(김대중 전 대통령)는 '최고의 당직은 국회의원직이다'고 하셨다. 세월이 가면 기회는 오니 툭툭 털고... ",
             "originallink": "https://www.news1.kr/politics/assembly/6035299",
             "press": "뉴스1",
             "pubDate": "2026-01-12T07:15:00",
@@ -499,7 +499,7 @@
             "_id": "6964b541631fd17434995feb",
             "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 앞서 이재명 당 대표 체제에서 비서실장, 전략기획위원장 등 요직을 맡았던 천준호 의원이 한 원내대표 출마... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133134653/2",
             "press": "동아일보",
             "pubDate": "2026-01-12T04:32:00",
@@ -528,7 +528,7 @@
             "_id": "6964b560631fd17434996285",
             "link": "https://n.news.naver.com/mnews/article/023/0003952328?sid=100",
             "created_at": "2026-01-12T17:48:30.115000",
-            "description": "전북 익산을의 3선 국회의원인 한 원내대표는 이재명 대통령이 당대표 시절 전략기획위원장을 맡아... 강득구 의원과 친청계 이성윤·문정복 의원이 당선됐다. 이번 선거는 전현희·한준호·김병주 의원이 지방선거... ",
+            "description": "친명계 이건태 의원이 떨어지면서 친청계의 승리란 평가가 나왔다. 이 대통령의 대장동 변호사 출신인 이 의원은 국회의원 표가 많은 중앙위원 투표에선 3위를 기록했으나 권리당원 투표에서 꼴등을 기록해 낙선했다.... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/12/NLNUVXZ3UZCJXAHA64DJHD7X5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-12T00:58:00",
@@ -550,7 +550,7 @@
             "_id": "6964b566631fd174349962d0",
             "link": "https://n.news.naver.com/mnews/article/011/0004577327?sid=100",
             "created_at": "2026-01-12T17:48:35.804000",
-            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 이날 선거는 6·3 지방선거 출마를 위해 사퇴한 전현희·한준호·김병주 전 최고위원의 공석을 메우기 위해... ",
+            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 친명(친이재명)계 이건태 후보는 유동철 후보의 사퇴로 지지표 결집을 노렸음에도 20.59% 득표에 그치면서... ",
             "originallink": "https://www.sedaily.com/NewsView/2K79GAIXQ6",
             "press": "서울경제",
             "pubDate": "2026-01-11T20:52:00",
@@ -647,13 +647,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac67631fd1743497d643",
-            "url": "https://www.youtube.com/watch?v=tnvIImRyJjU",
+            "_id": "6960ac67631fd1743497d644",
+            "url": "https://www.youtube.com/watch?v=A6ufnRfHQXc",
             "HG_NM": "문정복",
             "MONA_CD": "GOC54665",
-            "collected_at": "2026-01-14T10:17:31.638000",
-            "duration": 145.0,
-            "title": "\"장제원!\" \"왜 표창원!\"…류호정·문정복이 꺼낸 국회 반말의 역사",
+            "collected_at": "2026-01-09T16:21:07.666000",
+            "duration": 206.0,
+            "title": "\"USB 내라고요 그러니까!!\" 미뤄지는 자료제출에 호통치는 문정복 의원",
             "upload_date": null
         },
         {
@@ -667,11 +667,41 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac67631fd1743497d645",
+            "url": "https://www.youtube.com/watch?v=UBLo435vb7w",
+            "HG_NM": "문정복",
+            "MONA_CD": "GOC54665",
+            "collected_at": "2026-01-09T16:21:07.666000",
+            "duration": 225.0,
+            "title": "국민한테 미쳤다고 하는 문정복 의원.. 이유 들어보니",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac67631fd1743497d643",
+            "url": "https://www.youtube.com/watch?v=tnvIImRyJjU",
+            "HG_NM": "문정복",
+            "MONA_CD": "GOC54665",
+            "collected_at": "2026-01-14T10:17:31.638000",
+            "duration": 145.0,
+            "title": "\"장제원!\" \"왜 표창원!\"…류호정·문정복이 꺼낸 국회 반말의 역사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac67631fd1743497d641",
+            "url": "https://www.youtube.com/watch?v=9iNopahaBVY",
+            "HG_NM": "문정복",
+            "MONA_CD": "GOC54665",
+            "collected_at": "2026-01-15T18:16:48.076000",
+            "duration": 1230.0,
+            "title": "[생중계] 문정복 더불어민주당 의원, 최고위원 출마 선언 기자회견 (2025.12.16 오전)",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac67631fd1743497d640",
             "url": "https://www.youtube.com/watch?v=UCHqPIz08wKeJQMcWSKmX7zw",
             "HG_NM": "문정복",
             "MONA_CD": "GOC54665",
-            "collected_at": "2026-01-14T10:17:31.638000",
+            "collected_at": "2026-01-15T18:16:48.076000",
             "duration": null,
             "title": "문정복TV",
             "upload_date": null
@@ -681,29 +711,9 @@
             "url": "https://www.youtube.com/watch?v=T73F1y9U_FI",
             "HG_NM": "문정복",
             "MONA_CD": "GOC54665",
-            "collected_at": "2026-01-14T10:17:31.638000",
+            "collected_at": "2026-01-15T18:16:48.077000",
             "duration": 2351.0,
             "title": "문정복 ”강선우, 제명 직후 전화와 '언니 나 그렇게 살지 않았다'고 해“",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac67631fd1743497d644",
-            "url": "https://www.youtube.com/watch?v=A6ufnRfHQXc",
-            "HG_NM": "문정복",
-            "MONA_CD": "GOC54665",
-            "collected_at": "2026-01-09T16:21:07.666000",
-            "duration": 206.0,
-            "title": "\"USB 내라고요 그러니까!!\" 미뤄지는 자료제출에 호통치는 문정복 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac67631fd1743497d641",
-            "url": "https://www.youtube.com/watch?v=9iNopahaBVY",
-            "HG_NM": "문정복",
-            "MONA_CD": "GOC54665",
-            "collected_at": "2026-01-14T10:17:31.638000",
-            "duration": 1230.0,
-            "title": "[생중계] 문정복 더불어민주당 의원, 최고위원 출마 선언 기자회견 (2025.12.16 오전)",
             "upload_date": null
         },
         {
@@ -715,17 +725,7 @@
             "duration": 372.0,
             "title": "문정복 '미친 부모님' 발언에 교육위 고성 터졌다 [현장영상] / 채널A",
             "upload_date": null
-        },
-        {
-            "_id": "6960ac67631fd1743497d645",
-            "url": "https://www.youtube.com/watch?v=UBLo435vb7w",
-            "HG_NM": "문정복",
-            "MONA_CD": "GOC54665",
-            "collected_at": "2026-01-09T16:21:07.666000",
-            "duration": 225.0,
-            "title": "국민한테 미쳤다고 하는 문정복 의원.. 이유 들어보니",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:56.535829"
+    "exported_at": "2026-01-15T18:29:42.788807"
 }

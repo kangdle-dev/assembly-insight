@@ -43,64 +43,72 @@
     "analysis": {
         "keywords": [
             "남근",
-            "쿠팡",
             "민주당",
+            "쿠팡",
             "대표",
+            "금융",
             "보상",
             "서울",
             "정무",
-            "금융",
             "발의",
-            "방송",
             "집단소송",
+            "방송",
+            "제도",
+            "서영교",
             "베네수엘라",
-            "국제",
-            "청문회",
-            "가맹"
+            "국제"
         ],
         "keyword_frequency": [
             {
                 "text": "남근",
-                "value": 34
+                "value": 40
+            },
+            {
+                "text": "민주당",
+                "value": 20
             },
             {
                 "text": "쿠팡",
                 "value": 19
             },
             {
-                "text": "민주당",
-                "value": 17
-            },
-            {
                 "text": "대표",
-                "value": 9
-            },
-            {
-                "text": "보상",
-                "value": 9
-            },
-            {
-                "text": "서울",
-                "value": 8
-            },
-            {
-                "text": "정무",
-                "value": 8
+                "value": 14
             },
             {
                 "text": "금융",
-                "value": 8
+                "value": 12
+            },
+            {
+                "text": "보상",
+                "value": 11
+            },
+            {
+                "text": "서울",
+                "value": 11
+            },
+            {
+                "text": "정무",
+                "value": 11
             },
             {
                 "text": "발의",
-                "value": 7
+                "value": 9
+            },
+            {
+                "text": "집단소송",
+                "value": 8
             },
             {
                 "text": "방송",
                 "value": 7
             },
             {
-                "text": "집단소송",
+                "text": "제도",
+                "value": 6
+            },
+            {
+                "text": "서영교",
                 "value": 6
             },
             {
@@ -110,39 +118,91 @@
             {
                 "text": "국제",
                 "value": 6
-            },
-            {
-                "text": "청문회",
-                "value": 6
-            },
-            {
-                "text": "가맹",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:49.208934",
+        "last_analyzed_at": "2026-01-15T18:29:35.044439",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
                 1,
-                2
+                3,
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad89297082fcc2b18cf0",
+            "link": "https://n.news.naver.com/mnews/article/009/0005622489?sid=100",
+            "created_at": "2026-01-15T18:04:06.800000",
+            "description": "경제더하기연구소 대표를 맡고 있는 이용우 전 의원은 15일 국회에서 오기형·김남근·이강일 민주당 의원이 주최한 '상법 개정에 따른 기업 공시 개정 방안' 토론회에서 \"이사·감사·집행임원의 보수 총액에 대해 급여... ",
+            "originallink": "https://www.mk.co.kr/article/11934296",
+            "press": "매일경제",
+            "pubDate": "2026-01-15T17:51:00",
+            "related_members": [
+                "OIA3741M",
+                "IUX1829H",
+                "6K79158C",
+                "AEO5706C"
+            ],
+            "title": "\"임원 겸직보수까지 다 공개해야 … 주식보상도 공시를\""
+        },
+        {
+            "_id": "6968ad89297082fcc2b18cf1",
+            "link": "https://n.news.naver.com/mnews/article/015/0005237813?sid=100",
+            "created_at": "2026-01-15T18:04:06.800000",
+            "description": "이날 발제자는 카카오뱅크 대표 출신이자 21대 국회에서 소액주주 보호 법안을 주로 발의한 이용우 전 민주당 의원(현 경제더하기연구소 대표)이 맡았다. 이 전 의원은 “실무적인 공시 제도 개편이 맞물리지 않으면 개정... ",
+            "originallink": "https://www.hankyung.com/article/2026011535181",
+            "press": "한국경제",
+            "pubDate": "2026-01-15T17:33:00",
+            "related_members": [
+                "OIA3741M",
+                "IUX1829H",
+                "AEO5706C",
+                "6K79158C"
+            ],
+            "title": "與, 자사주 소각 이어 공시제도까지 손댄다"
+        },
+        {
+            "_id": "6968ad89297082fcc2b18cf2",
+            "link": "https://n.news.naver.com/mnews/article/016/0002586402?sid=100",
+            "created_at": "2026-01-15T18:04:06.800000",
+            "description": "김남근·서미화 등 동료 의원 및 각계 인사 참석 회견장 밖 지지자 300여명 운집 더불어민주당 서영교 의원이 15일 국회 소통관에서 서울시장 출마 선언 기자회견을 하고 있다. [연합] [헤럴드경제=양대근 기자] 서영교... ",
+            "originallink": "https://biz.heraldcorp.com/article/10656341?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-15T15:02:00",
+            "related_members": [
+                "IUX1829H",
+                "51A45980",
+                "TKJ4800F"
+            ],
+            "title": "“서울의 심장을 다시 뛰게 하겠다”…서영교 의원, 서울시장 출마 공식..."
+        },
+        {
+            "_id": "6968ad89297082fcc2b18cf3",
+            "link": "https://n.news.naver.com/mnews/article/016/0002585757?sid=100",
+            "created_at": "2026-01-15T18:04:06.800000",
+            "description": "“산업의 특수성 반영한 법안으로 봉제산업의 지속가능한 성장 기대” 김남근 의원실 제공 국회 정무위원회 소속 김남근 국회의원(더불어민주당, 서울 성북구을)은 14일 급변하는 산업 환경과 인력난, 영세성 등으로... ",
+            "originallink": "https://biz.heraldcorp.com/article/10655457?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-14T14:37:00",
+            "related_members": [
+                "IUX1829H"
+            ],
+            "title": "“패션봉제산업 생태계 살린다”…김남근 의원, 패션봉제 특별법 대표발..."
+        },
         {
             "_id": "6966ec77887d07f7ba2fb281",
             "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
@@ -234,7 +294,7 @@
             "_id": "6964b547631fd17434996081",
             "link": "https://n.news.naver.com/mnews/article/009/0005617318?sid=100",
             "created_at": "2026-01-12T17:48:04.685000",
-            "description": "6일 오기형 민주당 의원은 국회에서 기자회견을 열고 대규모 소비자 피해를 구제하기 위해 개인정보 유출... 백혜련·박주민·전용기·이학영 민주당 의원이 관련 법안을 마련한 상태다. 오 의원은 “쿠팡이 오만한 이유는... ",
+            "description": "6일 오기형 민주당 의원은 국회에서 기자회견을 열고 대규모 소비자 피해를 구제하기 위해 개인정보 유출·소비재 분쟁 등 분야로 집단소송 범위를 넓히는 집단소송법안을 발의했다고 밝혔다. 오 의원은 “쿠팡 사태... ",
             "originallink": "https://www.mk.co.kr/article/11924683",
             "press": "매일경제",
             "pubDate": "2026-01-06T16:20:00",
@@ -533,23 +593,73 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960abd4631fd1743497d3f8",
-            "url": "https://www.youtube.com/watch?v=PJ1eMvS0Xbc",
+            "_id": "6960abd4631fd1743497d3f5",
+            "url": "https://www.youtube.com/watch?v=KCby-7GXqC0",
             "HG_NM": "김남근",
             "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:09.126000",
-            "duration": 449.0,
-            "title": "[인터뷰] 김남근 민변 부회장 (2018.02.06)",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": 1511.0,
+            "title": "김남근 \"상법 개정…정부·여당 최근까지 찬성, 할 듯 말 듯 말 바꾸기 아닌 입장 명확히 해야\" (24.11.18.) | 더불어민주당 김남근 의원 | 파워인터뷰 | 국회방송",
             "upload_date": null
         },
         {
-            "_id": "6960abd4631fd1743497d3ef",
-            "url": "https://www.youtube.com/watch?v=UCsU2AQVZjYh-jJ9_9d87fSA",
+            "_id": "6960abd4631fd1743497d3f6",
+            "url": "https://www.youtube.com/watch?v=3GAjd_MKskc",
             "HG_NM": "김남근",
             "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:08.353000",
-            "duration": null,
-            "title": "김남근TV",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": 189.0,
+            "title": "김남근 의원, 티몬 사태, 소비자 경고 왜 없었나?\" 김병환 금융위원장, 2년전 인지, 밝히지 않은 이유 있다\" / KNN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd4631fd1743497d3f1",
+            "url": "https://www.youtube.com/watch?v=grAMzycrIFM",
+            "HG_NM": "김남근",
+            "MONA_CD": "IUX1829H",
+            "collected_at": "2026-01-15T18:14:15.266000",
+            "duration": 1026.0,
+            "title": "[시선집중] 새벽배송, 금지 아닌 건강관리에 초점두고 논의중...'한강버스 사고' 중앙정부 나서야 - 김남근 더불어민주당 의원, MBC 251117 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd4631fd1743497d3f4",
+            "url": "https://www.youtube.com/watch?v=8e6Gph5RoNc",
+            "HG_NM": "김남근",
+            "MONA_CD": "IUX1829H",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": 1718.0,
+            "title": "민주당 김남근 의원1 11 2 합 온라안픔랫품 독과점 해소 및 거래공정화를 위한 온라인플랫폼법 발의 공동기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd4631fd1743497d3f2",
+            "url": "https://www.youtube.com/watch?v=QXs4RfpA-sI",
+            "HG_NM": "김남근",
+            "MONA_CD": "IUX1829H",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": 223.0,
+            "title": "[풀버전] \"의지를 묻잖아요, 의지를!\" 김남근 폭발, 국회 정무위 국정감사 2일차 MBK 김병주 회장, 홈플러스 김광일 대표 질의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd4631fd1743497d3f0",
+            "url": "https://www.youtube.com/watch?v=5ClyDjlcb6o",
+            "HG_NM": "김남근",
+            "MONA_CD": "IUX1829H",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": 348.0,
+            "title": "\"쿠팡, 배민…독과점 폐해 심각\" 국회 정무위 비금융 종합감사 국회의원 김남근",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd4631fd1743497d3ee",
+            "url": "https://www.youtube.com/watch?v=N68gTZLs4UY",
+            "HG_NM": "김남근",
+            "MONA_CD": "IUX1829H",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": 65.0,
+            "title": "\"MBK-홈플러스 청문회 열어야\" 국회 정무위 비금융 종합감사 국회의원 김남근",
             "upload_date": null
         },
         {
@@ -557,9 +667,19 @@
             "url": "https://www.youtube.com/watch?v=HXZcuRDl_qU",
             "HG_NM": "김남근",
             "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:08.353000",
+            "collected_at": "2026-01-15T18:14:14.528000",
             "duration": 215.0,
             "title": "금융위원장 답변모음 - 2025 정무위 국정감사zip 하이라이트 국회의원 김남근",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd4631fd1743497d3ef",
+            "url": "https://www.youtube.com/watch?v=UCsU2AQVZjYh-jJ9_9d87fSA",
+            "HG_NM": "김남근",
+            "MONA_CD": "IUX1829H",
+            "collected_at": "2026-01-15T18:14:14.528000",
+            "duration": null,
+            "title": "김남근TV",
             "upload_date": null
         },
         {
@@ -571,67 +691,7 @@
             "duration": 1280.0,
             "title": "[전격시사] 여야, 대치 계속…‘온라인 플랫폼법’ 입장은?-김남근 의원 (더불어민주당)｜KBS 240708 방송",
             "upload_date": null
-        },
-        {
-            "_id": "6960abd4631fd1743497d3ee",
-            "url": "https://www.youtube.com/watch?v=N68gTZLs4UY",
-            "HG_NM": "김남근",
-            "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:08.353000",
-            "duration": 65.0,
-            "title": "\"MBK-홈플러스 청문회 열어야\" 국회 정무위 비금융 종합감사 국회의원 김남근",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abd4631fd1743497d3f5",
-            "url": "https://www.youtube.com/watch?v=KCby-7GXqC0",
-            "HG_NM": "김남근",
-            "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-09T16:18:41.433000",
-            "duration": 1511.0,
-            "title": "김남근 \"상법 개정…정부·여당 최근까지 찬성, 할 듯 말 듯 말 바꾸기 아닌 입장 명확히 해야\" (24.11.18.) | 더불어민주당 김남근 의원 | 파워인터뷰 | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abd4631fd1743497d3f2",
-            "url": "https://www.youtube.com/watch?v=QXs4RfpA-sI",
-            "HG_NM": "김남근",
-            "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:08.353000",
-            "duration": 223.0,
-            "title": "[풀버전] \"의지를 묻잖아요, 의지를!\" 김남근 폭발, 국회 정무위 국정감사 2일차 MBK 김병주 회장, 홈플러스 김광일 대표 질의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abd4631fd1743497d3f1",
-            "url": "https://www.youtube.com/watch?v=grAMzycrIFM",
-            "HG_NM": "김남근",
-            "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:09.126000",
-            "duration": 1026.0,
-            "title": "[시선집중] 새벽배송, 금지 아닌 건강관리에 초점두고 논의중...'한강버스 사고' 중앙정부 나서야 - 김남근 더불어민주당 의원, MBC 251117 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abd4631fd1743497d3f4",
-            "url": "https://www.youtube.com/watch?v=8e6Gph5RoNc",
-            "HG_NM": "김남근",
-            "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:08.353000",
-            "duration": 1718.0,
-            "title": "민주당 김남근 의원1 11 2 합 온라안픔랫품 독과점 해소 및 거래공정화를 위한 온라인플랫폼법 발의 공동기자회견",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abd4631fd1743497d3f7",
-            "url": "https://www.youtube.com/watch?v=JBPlDu0opcA",
-            "HG_NM": "김남근",
-            "MONA_CD": "IUX1829H",
-            "collected_at": "2026-01-14T10:15:09.126000",
-            "duration": 484.0,
-            "title": "보복소송 앞으로 안 할겁니까?...무성의 답변에 김남근 쿠팡 맹폭",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:49.208934"
+    "exported_at": "2026-01-15T18:29:35.044439"
 }

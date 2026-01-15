@@ -52,8 +52,8 @@
     },
     "analysis": {
         "keywords": [
-            "박찬",
             "민주당",
+            "박찬",
             "인천",
             "대표",
             "기자회견",
@@ -70,16 +70,16 @@
         ],
         "keyword_frequency": [
             {
-                "text": "박찬",
-                "value": 28
+                "text": "민주당",
+                "value": 29
             },
             {
-                "text": "민주당",
-                "value": 25
+                "text": "박찬",
+                "value": 29
             },
             {
                 "text": "인천",
-                "value": 20
+                "value": 23
             },
             {
                 "text": "대표",
@@ -91,7 +91,7 @@
             },
             {
                 "text": "김교흥",
-                "value": 12
+                "value": 13
             },
             {
                 "text": "후보",
@@ -130,29 +130,44 @@
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:00.076210",
+        "last_analyzed_at": "2026-01-15T18:29:46.472872",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 2,
                 0,
                 1,
                 2,
                 1,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad88297082fcc2b18ce5",
+            "link": "https://n.news.naver.com/mnews/article/003/0013712907?sid=102",
+            "created_at": "2026-01-15T18:04:05.621000",
+            "description": "15일 더불어민주당 인천시당에 따르면 이날 고남석 시당위원장과 김교흥, 박찬대, 허종식 국회의원 등은 인천 송도 재외동포청 대회의실에서 김 청장 등 간부들과 면담을 가졌다. 이 자리에서 민주당 의원들은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478371",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T14:45:00",
+            "related_members": [
+                "BT62420K",
+                "VCP96419",
+                "X1K3667J"
+            ],
+            "title": "인천시·민주당 \"재외동포청 서울 이전 없을 것\""
+        },
         {
             "_id": "6965949e887d07f7ba2fab25",
             "link": "https://n.news.naver.com/mnews/article/011/0004577866?sid=102",
@@ -172,7 +187,7 @@
             "_id": "6964b541631fd17434995fe1",
             "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또... 왜냐하면 이준석 대표 측도 지방선거의 연대에 대해서 천하람 원내대표가 분명히 반대 입장을 냈잖아요. 그거는... ",
+            "description": "질문했는데 천준호 의원을 얘기하셨거든요. 천준호 의원 같은 경우도 이재명 당 대표 시절에 비서실장을... 공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또 공교롭게... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456250&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T10:48:00",
@@ -532,7 +547,7 @@
             "url": "https://www.youtube.com/watch?v=wYeD_DJ2Y5Y",
             "HG_NM": "박찬대",
             "MONA_CD": "BT62420K",
-            "collected_at": "2026-01-14T10:18:40.769000",
+            "collected_at": "2026-01-15T18:18:00.907000",
             "duration": 608.0,
             "source": "MBC뉴스",
             "title": "[모닝콜] 박찬대 \"국민 시각으로 보면 추경호 영장 발부될 것\" (2025.12.02/뉴스투데이/MBC)",
@@ -550,14 +565,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7a3631fd1743497d0ca",
-            "url": "https://www.youtube.com/watch?v=l2PtwWSLig4",
+            "_id": "6960a7a3631fd1743497d0cc",
+            "url": "https://www.youtube.com/watch?v=eWGCyucDjQ0",
             "HG_NM": "박찬대",
             "MONA_CD": "BT62420K",
             "collected_at": "2026-01-09T16:00:39.365000",
-            "duration": 644.0,
+            "duration": 819.0,
             "source": "KBS뉴스",
-            "title": "[LIVE] '당 대표 후보' 박찬대 더불어민주당 의원 '현안 관련' 기자회견 생중계/2025년 7월 24일(목)/KBS",
+            "title": "[LIVE] 더불어민주당 박찬대 당대표 후보 현안 관련 기자회견 생중계/2025년 7월 29일(화)/KBS",
             "upload_date": null
         },
         {
@@ -572,25 +587,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7a3631fd1743497d0ce",
-            "url": "https://www.youtube.com/watch?v=7r4Y1NN0UO4",
+            "_id": "6960a7a3631fd1743497d0cd",
+            "url": "https://www.youtube.com/watch?v=urhob9o3jkk",
             "HG_NM": "박찬대",
             "MONA_CD": "BT62420K",
             "collected_at": "2026-01-09T16:00:39.365000",
-            "duration": 685.0,
+            "duration": 908.0,
             "source": "KBS뉴스",
-            "title": "[이런뉴스] ‘퇴임’ 박찬대 “아재 개그할 때마다 이재명 대통령이…” / KBS 2025.06.12.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a7a3631fd1743497d0c9",
-            "url": "https://www.youtube.com/watch?v=HMJfhFBXWIA",
-            "HG_NM": "박찬대",
-            "MONA_CD": "BT62420K",
-            "collected_at": "2026-01-09T16:00:39.365000",
-            "duration": 975.0,
-            "source": "KBS뉴스",
-            "title": "[LIVE] 박찬대 민주당 의원 '내란 방패' 국민의힘 의원 45인 제명촉구 기자회견/2025년 7월 25일(금)/KBS",
+            "title": "[LIVE] 더불어민주당 박찬대 당 대표 후보, 지귀연 판사 관련 입장발표 기자회견/2025년 7월 27일(일)/KBS",
             "upload_date": null
         },
         {
@@ -605,6 +609,17 @@
             "upload_date": null
         },
         {
+            "_id": "6960a7a3631fd1743497d0c9",
+            "url": "https://www.youtube.com/watch?v=HMJfhFBXWIA",
+            "HG_NM": "박찬대",
+            "MONA_CD": "BT62420K",
+            "collected_at": "2026-01-09T16:00:39.365000",
+            "duration": 975.0,
+            "source": "KBS뉴스",
+            "title": "[LIVE] 박찬대 민주당 의원 '내란 방패' 국민의힘 의원 45인 제명촉구 기자회견/2025년 7월 25일(금)/KBS",
+            "upload_date": null
+        },
+        {
             "_id": "6960a723631fd1743497cd6f",
             "url": "https://www.youtube.com/watch?v=5l37Gsy9V6Y",
             "HG_NM": "박찬대",
@@ -616,27 +631,27 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7a3631fd1743497d0cd",
-            "url": "https://www.youtube.com/watch?v=urhob9o3jkk",
+            "_id": "6960a7a3631fd1743497d0ca",
+            "url": "https://www.youtube.com/watch?v=l2PtwWSLig4",
             "HG_NM": "박찬대",
             "MONA_CD": "BT62420K",
             "collected_at": "2026-01-09T16:00:39.365000",
-            "duration": 908.0,
+            "duration": 644.0,
             "source": "KBS뉴스",
-            "title": "[LIVE] 더불어민주당 박찬대 당 대표 후보, 지귀연 판사 관련 입장발표 기자회견/2025년 7월 27일(일)/KBS",
+            "title": "[LIVE] '당 대표 후보' 박찬대 더불어민주당 의원 '현안 관련' 기자회견 생중계/2025년 7월 24일(목)/KBS",
             "upload_date": null
         },
         {
-            "_id": "6960a7a3631fd1743497d0cc",
-            "url": "https://www.youtube.com/watch?v=eWGCyucDjQ0",
+            "_id": "6960a7a3631fd1743497d0ce",
+            "url": "https://www.youtube.com/watch?v=7r4Y1NN0UO4",
             "HG_NM": "박찬대",
             "MONA_CD": "BT62420K",
             "collected_at": "2026-01-09T16:00:39.365000",
-            "duration": 819.0,
+            "duration": 685.0,
             "source": "KBS뉴스",
-            "title": "[LIVE] 더불어민주당 박찬대 당대표 후보 현안 관련 기자회견 생중계/2025년 7월 29일(화)/KBS",
+            "title": "[이런뉴스] ‘퇴임’ 박찬대 “아재 개그할 때마다 이재명 대통령이…” / KBS 2025.06.12.",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:00.076210"
+    "exported_at": "2026-01-15T18:29:46.473873"
 }

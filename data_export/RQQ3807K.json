@@ -57,44 +57,68 @@
             "선거",
             "제주",
             "인터뷰",
-            "지사",
-            "도지사",
-            "희망",
+            "대림",
             "영훈",
-            "출마",
-            "서귀포시",
+            "지사",
+            "방송",
+            "도지사",
+            "현안",
+            "현직",
             "토론회",
-            "벌써",
-            "참석",
-            "회관"
+            "희망",
+            "송재호"
         ],
         "keyword_frequency": [
             {
                 "text": "위성",
-                "value": 35
+                "value": 39
             },
             {
                 "text": "민주당",
-                "value": 20
+                "value": 25
             },
             {
                 "text": "선거",
-                "value": 11
+                "value": 13
             },
             {
                 "text": "제주",
-                "value": 9
+                "value": 12
             },
             {
                 "text": "인터뷰",
-                "value": 8
+                "value": 10
+            },
+            {
+                "text": "대림",
+                "value": 9
+            },
+            {
+                "text": "영훈",
+                "value": 9
             },
             {
                 "text": "지사",
+                "value": 9
+            },
+            {
+                "text": "방송",
                 "value": 7
             },
             {
                 "text": "도지사",
+                "value": 7
+            },
+            {
+                "text": "현안",
+                "value": 6
+            },
+            {
+                "text": "현직",
+                "value": 6
+            },
+            {
+                "text": "토론회",
                 "value": 6
             },
             {
@@ -102,57 +126,92 @@
                 "value": 6
             },
             {
-                "text": "영훈",
+                "text": "송재호",
                 "value": 5
-            },
-            {
-                "text": "출마",
-                "value": 5
-            },
-            {
-                "text": "서귀포시",
-                "value": 5
-            },
-            {
-                "text": "토론회",
-                "value": 5
-            },
-            {
-                "text": "벌써",
-                "value": 4
-            },
-            {
-                "text": "참석",
-                "value": 4
-            },
-            {
-                "text": "회관",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:06.483260",
+        "last_analyzed_at": "2026-01-15T18:29:53.447577",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
                 1,
-                0
+                3,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9b297082fcc2b18d45",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105666?sid=100",
+            "created_at": "2026-01-15T18:04:24.149000",
+            "description": "문대림 국회의원(제주시갑) * 인터뷰 내용 인용 보도 시 프로그램명 [KBS제주 7시 뉴스]를 밝혀주시기... ■ 송재호-문대림 포럼에 이름 올리지 않은 위성곤 의원…어떤 상황? ▷ 문준영 : 알겠습니다. 또 KBS와의 인터뷰에서... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459960&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T14:33:00",
+            "related_members": [
+                "D9I3309M",
+                "6I88973D",
+                "RQQ3807K"
+            ],
+            "title": "문대림 “오영훈, 민주당 정체성 상실한 지도자”"
+        },
+        {
+            "_id": "6968ad9b297082fcc2b18d46",
+            "link": "https://n.news.naver.com/mnews/article/056/0012105116?sid=100",
+            "created_at": "2026-01-15T18:04:24.149000",
+            "description": "문대림, 위성곤 의원 3인방 경선은 없을 것이다 라고 이야기했습니다. 현직 오영훈 지사를 두고 세 분이 합의를 하겠다는 취지인 건가요? [앵커] 2년 전 제주도선거방송토론위원회 국회의원 후보자 토론회에서 2년 뒤 도지사... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459147&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T20:01:00",
+            "related_members": [
+                "D9I3309M",
+                "6I88973D",
+                "RQQ3807K"
+            ],
+            "title": "[대담] 문대림 의원에게 듣는 제주 현안 해법과 지방선거 행보는?"
+        },
+        {
+            "_id": "6968adb3297082fcc2b18d86",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324340?sid=102",
+            "created_at": "2026-01-15T18:04:48.237000",
+            "description": "[위성곤/더불어민주당 국회의원 : 융자를 받는 데도 어렵고 선박을 등록하는 데도 많은 어려움이 있었습니다. 그런 제도들이 보완돼야 하겠고, 항만 내에는 전기 공급 시설들을 대폭 확충함으로써….] 제주에서 처음 전기... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404409&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T17:30:00",
+            "related_members": [
+                "RQQ3807K"
+            ],
+            "title": "\"24시간 충전 없이\"…국내 첫 전기 유람선 취항"
+        },
+        {
+            "_id": "6968ad98297082fcc2b18d30",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104565?sid=102",
+            "created_at": "2026-01-15T18:04:20.980000",
+            "description": "■ \"지방선거, 치열하되 과열되지 않게 관리\" ▷ 문준영 앵커 : 현재 이른바 송재호, 문대림 또 부승찬 제주 출신 전·현직 국회의원들의 연대, 또 서귀포 위성곤 의원과 또 현직인 오영훈 지사의 연대 등 선거를 앞두고 벌써... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458502&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T10:10:00",
+            "related_members": [
+                "NUB4941Z",
+                "D9I3309M",
+                "6I88973D",
+                "RQQ3807K"
+            ],
+            "title": "김한규 “조직력만 갖고 경선 통과하는 일 막을 것”"
+        },
         {
             "_id": "6966ec85887d07f7ba2fb2d6",
             "link": "https://n.news.naver.com/mnews/article/056/0012104143?sid=100",
@@ -326,16 +385,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6966ef70887d07f7ba2fb49f",
-            "url": "https://www.youtube.com/watch?v=a5mabxNjCDA",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:49.143000",
-            "duration": 1081.0,
-            "title": "[7시뉴스제주/200421 당선자에게 듣는다] 서귀포시 위성곤 당선인",
-            "upload_date": null
-        },
-        {
             "_id": "6966ef70887d07f7ba2fb4a0",
             "url": "https://www.youtube.com/watch?v=D4mLYmbz18k",
             "HG_NM": "위성곤",
@@ -346,23 +395,13 @@
             "upload_date": null
         },
         {
-            "_id": "6966ef70887d07f7ba2fb49b",
-            "url": "https://www.youtube.com/watch?v=xNOyJAg78uQ",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:48.399000",
-            "duration": 430.0,
-            "title": "위성곤 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.12.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49e",
-            "url": "https://www.youtube.com/watch?v=uDK-v4znQ2s",
+            "_id": "6966ef70887d07f7ba2fb4a1",
+            "url": "https://www.youtube.com/watch?v=r3yNyiCichg",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
             "collected_at": "2026-01-14T10:20:49.143000",
-            "duration": 495.0,
-            "title": "[생중계] 위성곤 더불어민주당 의원, 법안 발의 기자회견 (2025.11.19 오후)",
+            "duration": 712.0,
+            "title": "[시선집중] 국제 기준은 '이원화', 251억 반영했던 예산 행안부가 253억 삭감해...국정감사 전 현안논의할 것 - 위성곤 더불어민주당 의원, MBC 250929 방송",
             "upload_date": null
         },
         {
@@ -376,6 +415,26 @@
             "upload_date": null
         },
         {
+            "_id": "6966ef70887d07f7ba2fb49e",
+            "url": "https://www.youtube.com/watch?v=uDK-v4znQ2s",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-15T18:20:18.684000",
+            "duration": 495.0,
+            "title": "[생중계] 위성곤 더불어민주당 의원, 법안 발의 기자회견 (2025.11.19 오후)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49b",
+            "url": "https://www.youtube.com/watch?v=xNOyJAg78uQ",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-15T18:20:17.697000",
+            "duration": 430.0,
+            "title": "위성곤 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.12.)",
+            "upload_date": null
+        },
+        {
             "_id": "6966ef70887d07f7ba2fb49a",
             "url": "https://www.youtube.com/watch?v=2oNdaOFSMe4",
             "HG_NM": "위성곤",
@@ -386,13 +445,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad2c631fd1743497d953",
-            "url": "https://www.youtube.com/watch?v=M-zrwRQCCXE",
+            "_id": "6960ad2c631fd1743497d952",
+            "url": "https://www.youtube.com/watch?v=wLZEMj-YAvM",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:48.399000",
-            "duration": 614.0,
-            "title": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
+            "collected_at": "2026-01-15T18:20:18.684000",
+            "duration": 69.0,
+            "title": "TV자막에 ’비상계엄‘ 오보인 줄 알았다 | 국회의원 위성곤 #계엄 #겸공 #김어준 #뉴스공장 #예결위",
             "upload_date": null
         },
         {
@@ -400,31 +459,31 @@
             "url": "https://www.youtube.com/watch?v=UCAFjsCaWERftqIbP_OjZU7Q",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:48.399000",
+            "collected_at": "2026-01-15T18:20:17.697000",
             "duration": null,
             "title": "위성곤TV",
             "upload_date": null
         },
         {
-            "_id": "6960ad2c631fd1743497d952",
-            "url": "https://www.youtube.com/watch?v=wLZEMj-YAvM",
+            "_id": "6960ad2c631fd1743497d953",
+            "url": "https://www.youtube.com/watch?v=M-zrwRQCCXE",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-13T09:48:10.046000",
-            "duration": 69.0,
-            "title": "TV자막에 ’비상계엄‘ 오보인 줄 알았다 | 국회의원 위성곤 #계엄 #겸공 #김어준 #뉴스공장 #예결위",
+            "collected_at": "2026-01-15T18:20:17.697000",
+            "duration": 614.0,
+            "title": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
             "upload_date": null
         },
         {
-            "_id": "6966ef70887d07f7ba2fb49d",
-            "url": "https://www.youtube.com/watch?v=RFpw3yzAsMY",
+            "_id": "6966ef70887d07f7ba2fb49f",
+            "url": "https://www.youtube.com/watch?v=a5mabxNjCDA",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:48.399000",
-            "duration": 313.0,
-            "title": "본회의장에서 울분 토한 제주 국회의원 위성곤 \"왜 방류 말고 다른 대안 내놓으라 요구 못하나\"",
+            "collected_at": "2026-01-14T10:20:49.143000",
+            "duration": 1081.0,
+            "title": "[7시뉴스제주/200421 당선자에게 듣는다] 서귀포시 위성곤 당선인",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:06.483260"
+    "exported_at": "2026-01-15T18:29:53.447577"
 }

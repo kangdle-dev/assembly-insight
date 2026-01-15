@@ -42,34 +42,38 @@
     },
     "analysis": {
         "keywords": [
+            "대표",
             "민주당",
             "국민",
-            "대표",
+            "장동혁",
             "취재",
             "그래픽",
             "지방선거",
             "대통령",
-            "통일교",
+            "단식",
+            "비서실",
             "이름",
             "유권자",
             "윤수",
             "방송",
-            "광역단체장",
-            "논란",
-            "교회"
+            "광역단체장"
         ],
         "keyword_frequency": [
             {
+                "text": "대표",
+                "value": 11
+            },
+            {
                 "text": "민주당",
-                "value": 14
+                "value": 11
             },
             {
                 "text": "국민",
-                "value": 12
+                "value": 11
             },
             {
-                "text": "대표",
-                "value": 11
+                "text": "장동혁",
+                "value": 8
             },
             {
                 "text": "취재",
@@ -88,8 +92,12 @@
                 "value": 8
             },
             {
-                "text": "통일교",
-                "value": 7
+                "text": "단식",
+                "value": 6
+            },
+            {
+                "text": "비서실",
+                "value": 6
             },
             {
                 "text": "이름",
@@ -110,39 +118,71 @@
             {
                 "text": "광역단체장",
                 "value": 6
-            },
-            {
-                "text": "논란",
-                "value": 6
-            },
-            {
-                "text": "교회",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:20.234885",
+        "last_analyzed_at": "2026-01-15T18:30:08.061029",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
                 0,
                 2,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad98297082fcc2b18d31",
+            "link": "https://n.news.naver.com/mnews/article/448/0000583917?sid=100",
+            "created_at": "2026-01-15T18:04:21.548000",
+            "description": "앞서 김현정 원내대변인도 국회에서 열린 정책의원총회 직후 기자들과 만나 “통일교 특검을 하지 않겠다는... 한민수 당대표 비서실장도 페이스북을 통해 “단식하든 삭발하든 내란 정당이라는 낙인은 지워지지 않는다”... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/15/2026011590211.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-15T16:53:00",
+            "related_members": [
+                "7YL9580G",
+                "KFM1081G",
+                "S824682L",
+                "6VC83722",
+                "GRP3908I",
+                "ZW43496R",
+                "YN160848",
+                "8JG4358H"
+            ],
+            "title": "與 \"장동혁 단식은 책임회피용 정치쇼…얄팍한 꼼수\""
+        },
+        {
+            "_id": "6968ad98297082fcc2b18d32",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716930?sid=100",
+            "created_at": "2026-01-15T18:04:21.548000",
+            "description": "앞서 김현정 원내대변인도 국회에서 열린 정책의원총회가 끝나고 기자들과 만나 \"민주당에서 봤을 때는... 한민수 당대표 비서실장도 페이스북을 통해 \"단식하든, 삭발하든, 뭘 해도 내란 정당이라는 낙인은 결코 지워지지... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040599",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T16:46:00",
+            "related_members": [
+                "7YL9580G",
+                "KFM1081G",
+                "S824682L",
+                "6VC83722",
+                "GRP3908I",
+                "ZW43496R",
+                "YN160848",
+                "8JG4358H"
+            ],
+            "title": "與 \"장동혁 단식, 책임회피용 정치쇼…얄팍한 꼼수\"(종합)"
+        },
         {
             "_id": "6966ecb0887d07f7ba2fb328",
             "link": "http://andongmbc.co.kr/adboard/NewsView80172",
@@ -415,36 +455,19 @@
                 "8JG4358H"
             ],
             "title": "국정원 “노동신문 등 북한 사이트 접속 전향적 검토”"
-        },
-        {
-            "_id": "6964b592631fd174349964fe",
-            "link": "https://n.news.naver.com/mnews/article/023/0003949024?sid=100",
-            "created_at": "2026-01-12T17:49:20.082000",
-            "description": "양당은 수사 대상에 통일교의 여야 정치권 로비 의혹과 함께 통일교 측으로부터 민주당 전현직 국회의원의... 국민의힘 의원을 거론하며 “나 의원은 천정궁에 갔는가, 안 갔는가”라고도 했다. 당대표비서실장인 한민수... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2025/12/25/77BNM5OAGJCZJC7PCCXIURHH6A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2025-12-25T00:57:00",
-            "related_members": [
-                "8JG4358H"
-            ],
-            "title": "공소시효 끝나길 기다리나… 민주당, 통일교 특검 ‘침대 축구’"
-        },
-        {
-            "_id": "6964b592631fd174349964ff",
-            "link": "https://n.news.naver.com/mnews/article/055/0001318857?sid=100",
-            "created_at": "2026-01-12T17:49:20.082000",
-            "description": "서울 강북을 국회의원 한민수입니다. ▷김태현 : 의원님, 민주당에서 통일교 특검 추진하기로 하셨잖아요. ▶한민수 : 그렇습니다. ▷김태현 : 원래 며칠 전까지만 해도 정청래 대표가 일고의 가치도 없다 이렇게 했었는데... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008380277&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2025-12-24T08:51:00",
-            "related_members": [
-                "8JG4358H",
-                "2385336L"
-            ],
-            "title": "[정치쇼] 한민수 \"野, 통일교 특검 패트 태우자? 하지 말자는 건가\""
         }
     ],
     "recent_videos": [
+        {
+            "_id": "69659751887d07f7ba2faeb0",
+            "url": "https://www.youtube.com/watch?v=Rp5HPtGc0Vs",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:24:59.770000",
+            "duration": 282.0,
+            "title": "민주당 한민수 의원 \"컴퓨터는 켜보셨어요?\"라는 질문에 이진숙의 답변 \"직무와 관련된 것이어서 답변 못하겠습니다\"",
+            "upload_date": null
+        },
         {
             "_id": "69659751887d07f7ba2faeb1",
             "url": "https://www.youtube.com/watch?v=5Ttx502TwUg",
@@ -453,6 +476,16 @@
             "collected_at": "2026-01-14T10:24:59.770000",
             "duration": 73.0,
             "title": "장동혁, 한민수 '사이코패스' 발언에 \"뭐 눈에 뭐만 보여\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae3d631fd1743497dd4f",
+            "url": "https://www.youtube.com/watch?v=_NZf7lem7Ag",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-15T18:25:08.648000",
+            "duration": 2700.0,
+            "title": "[뉴스하이킥] 2026년 한국정치, 무슨 일이 펼쳐질까? - 한민수&정성국, MBC 260101방송",
             "upload_date": null
         },
         {
@@ -466,43 +499,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4d",
-            "url": "https://www.youtube.com/watch?v=4i2SqcgwJeg",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:24:59.770000",
-            "duration": 328.0,
-            "title": "\"대통령 권력 5년, 뭐가 대단하다고 겁이 없나?\"...한민수 의원, 본회의 5분 자유 발언",
-            "upload_date": null
-        },
-        {
-            "_id": "69659751887d07f7ba2faeb0",
-            "url": "https://www.youtube.com/watch?v=Rp5HPtGc0Vs",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:24:59.770000",
-            "duration": 282.0,
-            "title": "민주당 한민수 의원 \"컴퓨터는 켜보셨어요?\"라는 질문에 이진숙의 답변 \"직무와 관련된 것이어서 답변 못하겠습니다\"",
-            "upload_date": null
-        },
-        {
             "_id": "6960ae3d631fd1743497dd50",
             "url": "https://www.youtube.com/watch?v=obu7mP8dHhs",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-09T16:28:58.276000",
+            "collected_at": "2026-01-15T18:25:08.648000",
             "duration": 68.0,
             "title": "오전 일정만 5개(?!)인 #한민수 의원",
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4f",
-            "url": "https://www.youtube.com/watch?v=_NZf7lem7Ag",
+            "_id": "6960ae3d631fd1743497dd4e",
+            "url": "https://www.youtube.com/watch?v=ZyPjXn27S1M",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:25:00.460000",
-            "duration": 2700.0,
-            "title": "[뉴스하이킥] 2026년 한국정치, 무슨 일이 펼쳐질까? - 한민수&정성국, MBC 260101방송",
+            "collected_at": "2026-01-15T18:25:07.789000",
+            "duration": 220.0,
+            "title": "빵 터진 최민희 위원장 ...한민수 의원, 뭐라 말했길래",
             "upload_date": null
         },
         {
@@ -520,19 +533,19 @@
             "url": "https://www.youtube.com/watch?v=UCwe6Y_E-TW9hSc395jWCpSQ",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:24:59.770000",
+            "collected_at": "2026-01-15T18:25:07.789000",
             "duration": null,
             "title": "한민수TV",
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4e",
-            "url": "https://www.youtube.com/watch?v=ZyPjXn27S1M",
+            "_id": "6960ae3d631fd1743497dd4d",
+            "url": "https://www.youtube.com/watch?v=4i2SqcgwJeg",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:24:59.770000",
-            "duration": 220.0,
-            "title": "빵 터진 최민희 위원장 ...한민수 의원, 뭐라 말했길래",
+            "collected_at": "2026-01-15T18:25:07.789000",
+            "duration": 328.0,
+            "title": "\"대통령 권력 5년, 뭐가 대단하다고 겁이 없나?\"...한민수 의원, 본회의 5분 자유 발언",
             "upload_date": null
         },
         {
@@ -546,5 +559,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:20.234885"
+    "exported_at": "2026-01-15T18:30:08.061029"
 }

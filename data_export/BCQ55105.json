@@ -51,49 +51,49 @@
             "위원",
             "민주당",
             "토론회",
-            "공간",
             "국가",
-            "건축",
             "정책",
+            "공간",
+            "건축",
             "민주주의",
             "정청래",
-            "김병주",
             "개최",
             "대통령",
-            "정복",
-            "선출"
+            "선출",
+            "회관",
+            "김병주"
         ],
         "keyword_frequency": [
             {
                 "text": "최고",
-                "value": 38
+                "value": 33
             },
             {
                 "text": "위원",
-                "value": 36
+                "value": 32
             },
             {
                 "text": "민주당",
-                "value": 25
+                "value": 26
             },
             {
                 "text": "토론회",
-                "value": 19
+                "value": 18
+            },
+            {
+                "text": "국가",
+                "value": 14
+            },
+            {
+                "text": "정책",
+                "value": 14
             },
             {
                 "text": "공간",
                 "value": 14
             },
             {
-                "text": "국가",
-                "value": 13
-            },
-            {
                 "text": "건축",
-                "value": 13
-            },
-            {
-                "text": "정책",
                 "value": 13
             },
             {
@@ -105,10 +105,6 @@
                 "value": 13
             },
             {
-                "text": "김병주",
-                "value": 12
-            },
-            {
                 "text": "개최",
                 "value": 11
             },
@@ -117,37 +113,59 @@
                 "value": 11
             },
             {
-                "text": "정복",
+                "text": "선출",
                 "value": 11
             },
             {
-                "text": "선출",
-                "value": 11
+                "text": "회관",
+                "value": 10
+            },
+            {
+                "text": "김병주",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:20.634176",
+        "last_analyzed_at": "2026-01-15T18:30:08.484956",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
-                0,
-                2,
+                1,
                 8,
                 2,
                 3,
-                5
+                5,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9a297082fcc2b18d3f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421670?sid=100",
+            "created_at": "2026-01-15T18:04:23.294000",
+            "description": "14일 민주당에 따르면 용인 반도체 클러스터의 전북 새만금 이전을 주장해온 안호영 의원(국회... 앞서 한준호 의원은 같은 날 페이스북에 “클러스터 이전 주장은 국가전략산업의 현실과 그간 축적된 정책 결정을 외면한... ",
+            "originallink": "https://www.khan.co.kr/article/202601150600031",
+            "press": "경향신문",
+            "pubDate": "2026-01-15T06:00:00",
+            "related_members": [
+                "FJK3396E",
+                "XEF29171",
+                "JC14718Q",
+                "FYI20317",
+                "JG77046J",
+                "BCQ55105"
+            ],
+            "title": "청와대 “검토 안 해” 발표에도…여당 일각 ‘용인 반도체 이전’ 계속..."
+        },
         {
             "_id": "6966ec7d887d07f7ba2fb2b0",
             "link": "https://n.news.naver.com/mnews/article/011/0004578383?sid=101",
@@ -162,21 +180,6 @@
                 "BCQ55105"
             ],
             "title": "국가건축정책위, 지방자치 30년 맞아 '공간 민주주의' 토론회 개최"
-        },
-        {
-            "_id": "6966ec7d887d07f7ba2fb2b1",
-            "link": "https://n.news.naver.com/mnews/article/366/0001136023?sid=101",
-            "created_at": "2026-01-14T10:08:13.391000",
-            "description": "대통령 소속 국가건축정책위원회가 14일 국회의원회관에서 더불어민주당 한준호·김성회·조계원 국회의원과 공동으로 ‘지방자치 30년, 공간민주주의’를 주제로 토론회를 개최한다. 국토교통부에 따르면 이번 토론회는... ",
-            "originallink": "https://biz.chosun.com/real_estate/real_estate_general/2026/01/14/WWUOLWQYQVBNBOFJOP4SL33K6Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-14T06:01:00",
-            "related_members": [
-                "8TU8443O",
-                "88O1334C",
-                "BCQ55105"
-            ],
-            "title": "국가건축정책위, 토론회 개최… “공간 영역에서도 민주주의 실현해야..."
         },
         {
             "_id": "6966ec7d887d07f7ba2fb2b2",
@@ -194,19 +197,19 @@
             "title": "\"도시공간의 주인이 누구인가? 의사결정부터 시민참여 강화\""
         },
         {
-            "_id": "6966ec7d887d07f7ba2fb2b3",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708851?sid=101",
+            "_id": "6966ec7d887d07f7ba2fb2b1",
+            "link": "https://n.news.naver.com/mnews/article/366/0001136023?sid=101",
             "created_at": "2026-01-14T10:08:13.391000",
-            "description": "대통령 소속 국가건축정책위원회는 14일 서울 여의도 국회의원회관에서 더불어민주당 한준호·김성회·조계원 국회의원과 공동으로 '지방자치 30년, 공간민주주의'를 주제로 토론회를 개최한다고 밝혔다. 이번 토론회는... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475157",
-            "press": "뉴시스",
-            "pubDate": "2026-01-14T06:00:00",
+            "description": "대통령 소속 국가건축정책위원회가 14일 국회의원회관에서 더불어민주당 한준호·김성회·조계원 국회의원과 공동으로 ‘지방자치 30년, 공간민주주의’를 주제로 토론회를 개최한다. 국토교통부에 따르면 이번 토론회는... ",
+            "originallink": "https://biz.chosun.com/real_estate/real_estate_general/2026/01/14/WWUOLWQYQVBNBOFJOP4SL33K6Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-14T06:01:00",
             "related_members": [
                 "8TU8443O",
                 "88O1334C",
                 "BCQ55105"
             ],
-            "title": "국가건축정책위, 공간민주주의 주제 토론회 개최"
+            "title": "국가건축정책위, 토론회 개최… “공간 영역에서도 민주주의 실현해야..."
         },
         {
             "_id": "6966ec7d887d07f7ba2fb2b4",
@@ -222,6 +225,21 @@
                 "BCQ55105"
             ],
             "title": "국가건축정책위, 대통령 청와대 복귀 기념 ‘공간민주주의’ 토론회"
+        },
+        {
+            "_id": "6966ec7d887d07f7ba2fb2b3",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708851?sid=101",
+            "created_at": "2026-01-14T10:08:13.391000",
+            "description": "대통령 소속 국가건축정책위원회는 14일 서울 여의도 국회의원회관에서 더불어민주당 한준호·김성회·조계원 국회의원과 공동으로 '지방자치 30년, 공간민주주의'를 주제로 토론회를 개최한다고 밝혔다. 이번 토론회는... ",
+            "originallink": "https://www.newsis.com/view/NISX20260113_0003475157",
+            "press": "뉴시스",
+            "pubDate": "2026-01-14T06:00:00",
+            "related_members": [
+                "8TU8443O",
+                "88O1334C",
+                "BCQ55105"
+            ],
+            "title": "국가건축정책위, 공간민주주의 주제 토론회 개최"
         },
         {
             "_id": "6966ec84887d07f7ba2fb2d3",
@@ -293,7 +311,7 @@
             "_id": "6964b541631fd17434995feb",
             "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 앞서 이재명 당 대표 체제에서 비서실장, 전략기획위원장 등 요직을 맡았던 천준호 의원이 한 원내대표 출마... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133134653/2",
             "press": "동아일보",
             "pubDate": "2026-01-12T04:32:00",
@@ -322,7 +340,7 @@
             "_id": "6964b560631fd17434996285",
             "link": "https://n.news.naver.com/mnews/article/023/0003952328?sid=100",
             "created_at": "2026-01-12T17:48:30.115000",
-            "description": "전북 익산을의 3선 국회의원인 한 원내대표는 이재명 대통령이 당대표 시절 전략기획위원장을 맡아... 강득구 의원과 친청계 이성윤·문정복 의원이 당선됐다. 이번 선거는 전현희·한준호·김병주 의원이 지방선거... ",
+            "description": "친명계 이건태 의원이 떨어지면서 친청계의 승리란 평가가 나왔다. 이 대통령의 대장동 변호사 출신인 이 의원은 국회의원 표가 많은 중앙위원 투표에선 3위를 기록했으나 권리당원 투표에서 꼴등을 기록해 낙선했다.... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/12/NLNUVXZ3UZCJXAHA64DJHD7X5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-12T00:58:00",
@@ -344,7 +362,7 @@
             "_id": "6964b566631fd174349962d0",
             "link": "https://n.news.naver.com/mnews/article/011/0004577327?sid=100",
             "created_at": "2026-01-12T17:48:35.804000",
-            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 이날 선거는 6·3 지방선거 출마를 위해 사퇴한 전현희·한준호·김병주 전 최고위원의 공석을 메우기 위해... ",
+            "description": "민주당은 11일 국회 의원회관에서 최고위원 보궐선거를 진행해 이들 세 후보를 새 지도부로 선출했다.... 친명(친이재명)계 이건태 후보는 유동철 후보의 사퇴로 지지표 결집을 노렸음에도 20.59% 득표에 그치면서... ",
             "originallink": "https://www.sedaily.com/NewsView/2K79GAIXQ6",
             "press": "서울경제",
             "pubDate": "2026-01-11T20:52:00",
@@ -365,7 +383,7 @@
             "_id": "6964b566631fd174349962d1",
             "link": "https://n.news.naver.com/mnews/article/020/0003688426?sid=100",
             "created_at": "2026-01-12T17:48:35.804000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련(3선·경기 수원을)과의 결선 투표를 거쳐... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련(3선·경기 수원을)과의 결선 투표를 거쳐 당선됐다. 진성준(3선·서울 강서을) 박정 의원(3선·경기 파주을)(기호순)는 1차 투표에서 낙선했다. 원내대표... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260111/133133887/1",
             "press": "동아일보",
             "pubDate": "2026-01-11T20:28:00",
@@ -522,27 +540,6 @@
                 "URV1689Q"
             ],
             "title": "김병주 \"박정훈 준장 진급, 軍 정의 살아있다는 증거\"[한판승부]"
-        },
-        {
-            "_id": "6964b54d631fd174349960f9",
-            "link": "https://n.news.naver.com/mnews/article/382/0001247120?sid=102",
-            "created_at": "2026-01-12T17:48:10.636000",
-            "description": "이날 토론회에는 김동연 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원과 도민, 시군 관계자, 연구기관 및 교통 전문가 등 100여 명이 참석했다. 김 지사는 환영사에서... ",
-            "originallink": "https://sports.donga.com/region/article/all/20260110/133128761/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-10T05:31:00",
-            "related_members": [
-                "HSS7466Y",
-                "W8L9421K",
-                "0R68099X",
-                "6I88973D",
-                "W3U3344O",
-                "BCQ55105",
-                "YM42715P",
-                "ATB59635",
-                "1WE5693J"
-            ],
-            "title": "김동연 지사 “도민 출퇴근 여유 1시간”…도시철도 예타 통과 총력"
         }
     ],
     "recent_videos": [
@@ -561,19 +558,19 @@
             "url": "https://www.youtube.com/watch?v=rqJ7YuTR_iM",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-14T10:25:06.810000",
+            "collected_at": "2026-01-15T18:25:15.806000",
             "duration": 94.0,
             "title": "최고위원 사퇴한 한준호 \"이재명 대통령 죽이려 했던 이들의 무도함 밝히겠다”",
             "upload_date": null
         },
         {
-            "_id": "6960ae44631fd1743497dd71",
-            "url": "https://www.youtube.com/watch?v=GKJVT7LWgc4",
+            "_id": "6960ae44631fd1743497dd70",
+            "url": "https://www.youtube.com/watch?v=FZNjEXUj8T4",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-14T10:25:06.810000",
-            "duration": 76.0,
-            "title": "한준호 최고위원 “계엄? 없다” 선언…한동훈 향한 일침",
+            "collected_at": "2026-01-14T10:25:07.545000",
+            "duration": 89.0,
+            "title": "한준호의 국힘저격에 웃참실패한 민주당 의원들",
             "upload_date": null
         },
         {
@@ -587,13 +584,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae44631fd1743497dd70",
-            "url": "https://www.youtube.com/watch?v=FZNjEXUj8T4",
+            "_id": "6960ae44631fd1743497dd71",
+            "url": "https://www.youtube.com/watch?v=GKJVT7LWgc4",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-14T10:25:07.545000",
-            "duration": 89.0,
-            "title": "한준호의 국힘저격에 웃참실패한 민주당 의원들",
+            "collected_at": "2026-01-14T10:25:06.810000",
+            "duration": 76.0,
+            "title": "한준호 최고위원 “계엄? 없다” 선언…한동훈 향한 일침",
             "upload_date": null
         },
         {
@@ -611,7 +608,7 @@
             "url": "https://www.youtube.com/watch?v=UC6yHD0Zc6bOt2BDzH2GkR2g",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-14T10:25:06.810000",
+            "collected_at": "2026-01-15T18:25:15.806000",
             "duration": null,
             "title": "한준호tv",
             "upload_date": null
@@ -621,7 +618,7 @@
             "url": "https://www.youtube.com/watch?v=8nqtG8kmeEQ",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-14T10:25:06.810000",
+            "collected_at": "2026-01-15T18:25:15.806000",
             "duration": 641.0,
             "title": "[EP.15] 한준호 의원의 대항마 박주민 의원 등판!! 입법 프린스 꽃주민의 미모 대반격 | 국집소2 | 국회방송",
             "upload_date": null
@@ -631,7 +628,7 @@
             "url": "https://www.youtube.com/watch?v=jEoY5K1BvMg",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:04.778000",
+            "collected_at": "2026-01-15T18:25:15.806000",
             "duration": 3142.0,
             "title": "(꿀잼) 한준호 의원의 믿을 수 없는 인생 스토리! 서울역 노숙부터 호감있는 여자한테 무시당한 이야기까지!! #한준호 | 인생책방 | 국회방송",
             "upload_date": null
@@ -641,11 +638,11 @@
             "url": "https://www.youtube.com/watch?v=YOzO5DhAVbc",
             "HG_NM": "한준호",
             "MONA_CD": "BCQ55105",
-            "collected_at": "2026-01-09T16:29:04.778000",
+            "collected_at": "2026-01-15T18:25:15.806000",
             "duration": 737.0,
             "title": "[박정호의 핫스팟] 한준호 \"다음주 최고위원 사퇴, 이재명 정부 성공 위해 경기도지사 출마 고민 중\"",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:20.634176"
+    "exported_at": "2026-01-15T18:30:08.484956"
 }

@@ -42,107 +42,341 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
-            "안도",
-            "디지털",
-            "자산",
+            "통합",
             "광주",
-            "경제",
-            "법안",
-            "발의",
-            "퇴직",
-            "미니",
-            "총선",
-            "방산",
-            "컬처",
-            "정부",
-            "연금"
+            "전남",
+            "행정",
+            "민주당",
+            "공청회",
+            "안도",
+            "광주시",
+            "전남도",
+            "추진",
+            "특별법",
+            "논의",
+            "시장",
+            "김영록",
+            "특별"
         ],
         "keyword_frequency": [
             {
+                "text": "통합",
+                "value": 42
+            },
+            {
+                "text": "광주",
+                "value": 29
+            },
+            {
+                "text": "전남",
+                "value": 29
+            },
+            {
+                "text": "행정",
+                "value": 29
+            },
+            {
                 "text": "민주당",
-                "value": 20
+                "value": 21
+            },
+            {
+                "text": "공청회",
+                "value": 19
             },
             {
                 "text": "안도",
                 "value": 18
             },
             {
-                "text": "디지털",
-                "value": 11
+                "text": "광주시",
+                "value": 16
             },
             {
-                "text": "자산",
-                "value": 11
+                "text": "전남도",
+                "value": 13
             },
             {
-                "text": "광주",
+                "text": "추진",
+                "value": 12
+            },
+            {
+                "text": "특별법",
                 "value": 10
             },
             {
-                "text": "경제",
+                "text": "논의",
                 "value": 9
             },
             {
-                "text": "법안",
+                "text": "시장",
+                "value": 9
+            },
+            {
+                "text": "김영록",
+                "value": 8
+            },
+            {
+                "text": "특별",
                 "value": 7
-            },
-            {
-                "text": "발의",
-                "value": 7
-            },
-            {
-                "text": "퇴직",
-                "value": 6
-            },
-            {
-                "text": "미니",
-                "value": 6
-            },
-            {
-                "text": "총선",
-                "value": 6
-            },
-            {
-                "text": "방산",
-                "value": 6
-            },
-            {
-                "text": "컬처",
-                "value": 6
-            },
-            {
-                "text": "정부",
-                "value": 6
-            },
-            {
-                "text": "연금",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:04.710431",
+        "last_analyzed_at": "2026-01-15T18:29:51.557924",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                2,
                 2,
                 0,
                 0,
                 0,
                 1,
-                0
+                0,
+                12
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad92297082fcc2b18d1d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013713512?sid=102",
+            "created_at": "2026-01-15T18:04:15.850000",
+            "description": "민주당 광주·전남 통합추친 특별위원회와 광주시, 전남도는 이날 국회 의원회관에서 '광주·전남 행정통합 추진 공청회'를 열고 다양한 각계 의견을 수렴했다. 통합특위 공동위원장 겸 민주당 광주시당위원장인 양부남... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478693",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T16:51:00",
+            "related_members": [
+                "4L695580",
+                "EB16073M",
+                "CK143054"
+            ],
+            "title": "與 국회서 광주·전남 통합 공청회…\"갈등 조정하고 단결\"(종합)"
+        },
+        {
+            "_id": "6968ad92297082fcc2b18d1e",
+            "link": "https://n.news.naver.com/mnews/article/003/0013713238?sid=102",
+            "created_at": "2026-01-15T18:04:15.850000",
+            "description": "민주당 광주전남행정통합추진특별위원회 공동위원장인 양부남·김원이 국회의원은 \"국가균형발전과 자치분권 실현이라는 행정통합의 대의를 위해 서로 양보와 이해, 배려 속에서 뜻을 모으자\"고 말했다.",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478519",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T15:50:00",
+            "related_members": [
+                "CK143054",
+                "4L695580",
+                "EB16073M"
+            ],
+            "title": "광주·전남 행정통합 입법활동 본격 돌입"
+        },
+        {
+            "_id": "6968ad92297082fcc2b18d1f",
+            "link": "https://n.news.naver.com/mnews/article/003/0013713210?sid=100",
+            "created_at": "2026-01-15T18:04:15.850000",
+            "description": "민주당 광주·전남 통합추친 특별위원회와 광주시, 전남도는 이날 국회 의원회관에서 '광주·전남 행정통합 추진 공청회'를 열고 각계 의견을 수렴했다. 민주당 광주전남행정통합추진특별위원회 공동위원장인 양부남... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478507",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T15:43:00",
+            "related_members": [
+                "4L695580",
+                "EB16073M",
+                "CK143054"
+            ],
+            "title": "與 국회서 광주·전남 통합 공청회…\"갈등 조정하고 단결\""
+        },
+        {
+            "_id": "6968adae297082fcc2b18d7c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716581?sid=102",
+            "created_at": "2026-01-15T18:04:43.862000",
+            "description": "광주시와 전남도는 15일 국회 의원회관에서 광주·전남 행정통합 추진 공청회를 열어 행정통합 추진 배경과... 한편 김 지사는 이날 한병도 더불어민주당 원내대표를 만나 (가칭)광주·전남특별시 설치를 위한 특별법... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6040383",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:20:00",
+            "related_members": [
+                "EB16073M",
+                "H5476989"
+            ],
+            "title": "광주시-전남도, 국회서 행정통합 추진 공청회"
+        },
+        {
+            "_id": "6968ad8b297082fcc2b18cfd",
+            "link": "https://n.news.naver.com/mnews/article/366/0001136448?sid=102",
+            "created_at": "2026-01-15T18:04:08.844000",
+            "description": "것이다.” 안도걸 더불어민주당 의원은 15일 국회 의원회관에서 열린 광주·전남 행정통합 추진 공청회 기조연설에서 “행정통합을 통해 광역교통망 확충과 의료·교육·문화·복지서비스 통합 제공, 행정절차 간소화가... ",
+            "originallink": "https://biz.chosun.com/topics/topics_social/2026/01/15/2ROYQZQKZRGRRCI32CYO6ROCBE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-15T15:07:00",
+            "related_members": [
+                "MLH1404S",
+                "EB16073M"
+            ],
+            "title": "국회서 광주·전남 통합 공청회… 안도걸 “지방정부 권한·재정 실질적..."
+        },
+        {
+            "_id": "6968ad92297082fcc2b18d20",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826384?sid=102",
+            "created_at": "2026-01-15T18:04:15.850000",
+            "description": "김영록 전남도지사와 양부남, 김원이, 안도걸 국회의원 등이 참석했다. 김영선 전남연구원장이 좌장을 맡아 진행된 이번 행사에는 전남연구원과 광주연구원, 학계, 국회 입법지원기관 관계자들이 패널로 참여해 다양한... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029255420&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-15T14:59:00",
+            "related_members": [
+                "CK143054",
+                "EB16073M",
+                "4L695580"
+            ],
+            "title": "전남도-광주시, 국회서 행정통합 공청회…지방 주도 성장 새 모델 논의"
+        },
+        {
+            "_id": "6968ad92297082fcc2b18d21",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105538?sid=102",
+            "created_at": "2026-01-15T18:04:15.850000",
+            "description": "이번 공청회는 더불어민주당 광주·전남 통합 추진 특별위원회와 전남도·광주시가 공동으로 개최했으며, 김영록 전남도지사와 양부남·김원이·안도걸 국회의원 등이 참석했다. 공청회는 김영선 전남연구원장이 좌장을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456875?utm_source=naver&utm_medium=article&utm_campaign=20260115025004",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-15T14:51:00",
+            "related_members": [
+                "CK143054",
+                "EB16073M",
+                "4L695580"
+            ],
+            "title": "전남도-광주시, 국회서 행정통합 공청회"
+        },
+        {
+            "_id": "6968adaf297082fcc2b18d7d",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826381?sid=100",
+            "created_at": "2026-01-15T18:04:43.862000",
+            "description": "공청회 발제자로 나선 민주당 안도걸 국회의원(광주 동남을)은 “고도의 자치권과 실질적인 권한 이양을 통해 광주·전남이 지방분권과 국가균형발전을 선도해야 한다”고 강조했다. 이날 초안이 공개된 해당 특별법은... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029255342&code=61111111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-15T14:48:00",
+            "related_members": [
+                "EB16073M"
+            ],
+            "title": "광주·전남 행정통합 ‘특별법’ 논의 속도…핵심은 재정 특례"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18cdd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013712342?sid=102",
+            "created_at": "2026-01-15T18:04:05.049000",
+            "description": "박지원·신정훈·이개호·서삼석·주철현·조계원·문금주·권향엽·김문수 국회의원 전원, 광주시구청장협의회장인 임택 동구청장이 참석했다. 간담회는 시·도와 교육청이 함께 만든 특별법 초안을 공유하고, 행정통합에... ",
+            "originallink": "https://www.newsis.com/view/NISX20260115_0003478066",
+            "press": "뉴시스",
+            "pubDate": "2026-01-15T11:37:00",
+            "related_members": [
+                "EFU76868",
+                "86R9476S",
+                "8TU8443O",
+                "T465023H",
+                "M7O7878U",
+                "GRP3908I",
+                "8BF5855P",
+                "FOK3459D",
+                "I7R13867",
+                "9HE7226N",
+                "VRY5522V",
+                "QUR40502",
+                "IWR8966I",
+                "ZKB18611",
+                "EB16073M",
+                "IC499858",
+                "4L695580",
+                "CK143054"
+            ],
+            "title": "광주시·전남도·지역 국회의원, 행정통합 특별법안 맞손(종합)"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18cde",
+            "link": "https://n.news.naver.com/mnews/article/016/0002586219?sid=102",
+            "created_at": "2026-01-15T18:04:05.049000",
+            "description": "박지원·신정훈·이개호·서삼석·주철현·조계원·문금주·권향엽·김문수 국회의원 전원, 광주시구청장협의회장인 임택 동구청장이 참석했다. 이들은 행정통합의 방향성과 함께 특별법의 주요 내용, 지역 현안과 관련한... ",
+            "originallink": "https://biz.heraldcorp.com/article/10656076?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-15T11:17:00",
+            "related_members": [
+                "EFU76868",
+                "86R9476S",
+                "8TU8443O",
+                "T465023H",
+                "M7O7878U",
+                "GRP3908I",
+                "8BF5855P",
+                "FOK3459D",
+                "I7R13867",
+                "9HE7226N",
+                "VRY5522V",
+                "QUR40502",
+                "IWR8966I",
+                "ZKB18611",
+                "EB16073M",
+                "IC499858",
+                "4L695580",
+                "CK143054"
+            ],
+            "title": "강기정 시장 “행정통합, 시민 체감 통합모델 만들 것”"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18cdf",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097835?sid=102",
+            "created_at": "2026-01-15T18:04:05.049000",
+            "description": "박지원·신정훈·이개호·서삼석·주철현·조계원·문금주·권향엽·김문수·민형배·조인철·정진욱·안도걸·박균택·전진숙·정준호 의원 등 광주·전남 지역 국회의원들이 참석했다. 김영록 전남도지사가 15일 서울... ",
+            "originallink": "https://www.segye.com/newsView/20260115506614?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-15T10:45:00",
+            "related_members": [
+                "9HE7226N",
+                "VRY5522V",
+                "EFU76868",
+                "86R9476S",
+                "QUR40502",
+                "IWR8966I",
+                "ZKB18611",
+                "8TU8443O",
+                "T465023H",
+                "EB16073M",
+                "IC499858",
+                "M7O7878U",
+                "GRP3908I",
+                "8BF5855P",
+                "FOK3459D",
+                "I7R13867"
+            ],
+            "title": "김영록 지사·강기정 시장, 국회서 광주·전남 행정통합 특별법 논의"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18ce0",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105281?sid=102",
+            "created_at": "2026-01-15T18:04:05.049000",
+            "description": "간담회에는 김영록 전남도지사와 강기정 광주광역시장, 김원이 국회의원(전남도당위원장), 양부남 국회의원(광주시당위원장) 박지원, 신정훈, 이개호, 서삼석, 주철현, 조계원, 문금주, 권향엽, 김문수, 민형배, 조인철... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456517?utm_source=naver&utm_medium=article&utm_campaign=20260115024504",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-15T09:17:00",
+            "related_members": [
+                "VRY5522V",
+                "EFU76868",
+                "86R9476S",
+                "ZKB18611",
+                "8TU8443O",
+                "T465023H",
+                "4L695580",
+                "M7O7878U",
+                "GRP3908I",
+                "CK143054",
+                "8BF5855P",
+                "FOK3459D",
+                "I7R13867",
+                "9HE7226N",
+                "QUR40502",
+                "IWR8966I",
+                "EB16073M",
+                "IC499858"
+            ],
+            "title": "김영록 지사-강기정 시장, 국회서 광주·전남 행정통합 특별법 논의"
+        },
         {
             "_id": "6966ec93887d07f7ba2fb2fd",
             "link": "https://n.news.naver.com/mnews/article/366/0001135913?sid=100",
@@ -162,7 +396,7 @@
             "_id": "6964b548631fd1743499608a",
             "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
             "created_at": "2026-01-12T17:48:05.254000",
-            "description": "근데 장 대표가 사과를 한 지 하루 만에 지도부 인사가 났는데 이 인사를 보면 지금 정점식 정책위의장... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
+            "description": "양향자, 우재준 이분들은 조금 다른 결이잖아요. 그럼 이 세 분들이 하는 메시지가 당 대표의 메시지라고... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454621&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-09T10:00:00",
@@ -191,7 +425,7 @@
             "_id": "6964b556631fd174349961be",
             "link": "https://n.news.naver.com/mnews/article/005/0001825057?sid=100",
             "created_at": "2026-01-12T17:48:20.125000",
-            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 의원은 11억원 불법대출 의혹으로 3심이 진행 중이다. 1·2심에서 모두 당선무효형을 선고받았다. 허종식(인천... ",
+            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 전현희 의원 등이 출마를 선언했거나 준비 중이다. 국민의힘에선 나경원·신동욱·조은희·조정훈 의원이... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1767862243&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-09T00:06:00",
@@ -295,155 +529,6 @@
                 "EB16073M"
             ],
             "title": "당정 \"반도체 2强 도약 뒷받침 기본계획 추진…방산·K컬처 등 육성\"(종..."
-        },
-        {
-            "_id": "6964b57d631fd174349963e0",
-            "link": "https://n.news.naver.com/mnews/article/011/0004575539?sid=102",
-            "created_at": "2026-01-12T17:48:58.472000",
-            "description": "박지원 ·양부남·안도걸·민형배·정진욱·정준호 국회의원의 건배 제의, 민주노총 광주지역본부의 이종욱 본부장과 각 구청장 및 주요 기관·단체장의 신년 덕담 순으로 진행됐다. 한편 광주상공회의소가 주최하는... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K775HWESA",
-            "press": "서울경제",
-            "pubDate": "2026-01-06T20:40:00",
-            "related_members": [
-                "IC499858",
-                "8BF5855P",
-                "NLS46526",
-                "VRY5522V",
-                "EB16073M",
-                "9HE7226N",
-                "CK143054"
-            ],
-            "title": "차원이 달랐던 광주상공회의소 신년인사회 “AI혁신…미래 성장 경제도..."
-        },
-        {
-            "_id": "6964b58b631fd17434996495",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784544?sid=102",
-            "created_at": "2026-01-12T17:49:12.508000",
-            "description": "26일 국회 행정안전위원회에 회부됐다. 발의에는 정 의원을 비롯한 안도걸·조인철·박지원·문금주·박균택·이개호·정진욱·전진숙·양부남 등 광주·전남 국회의원 10명이 이름을 올렸다. 해당 법안의 주요 내용은... ",
-            "originallink": "https://www.hani.co.kr/arti/area/honam/1237784.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-02T17:28:00",
-            "related_members": [
-                "8BF5855P",
-                "QUR40502",
-                "EB16073M",
-                "9HE7226N",
-                "I7R13867",
-                "IWR8966I",
-                "GRP3908I",
-                "CK143054",
-                "ZKB18611"
-            ],
-            "title": "‘6월 지방선거 목표’ 광주·전남 통합, 대전·충남보다 빠를까"
-        },
-        {
-            "_id": "6964b58b631fd17434996496",
-            "link": "https://n.news.naver.com/mnews/article/421/0008692104?sid=102",
-            "created_at": "2026-01-12T17:49:12.508000",
-            "description": "광주시와 전남도의 행정통합이 속도를 내면서 정준호 더불어민주당 국회의원(광주 북구갑)이 대표 발의한... 이 법안 발의엔 안도걸·박지원·민형배·전진숙·양부남·조인철·정진욱·박균택·이개호 의원이 함께했다. 해당... ",
-            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6026664",
-            "press": "뉴스1",
-            "pubDate": "2026-01-02T12:07:00",
-            "related_members": [
-                "IC499858",
-                "8BF5855P",
-                "QUR40502",
-                "VRY5522V",
-                "EB16073M",
-                "9HE7226N",
-                "IWR8966I",
-                "CK143054",
-                "I7R13867",
-                "ZKB18611"
-            ],
-            "title": "'광주·전남 행정통합'…정준호 발의 특별법안에 담긴 내용은?"
-        },
-        {
-            "_id": "6964b584631fd17434996446",
-            "link": "https://n.news.naver.com/mnews/article/421/0008682185?sid=102",
-            "created_at": "2026-01-12T17:49:05.339000",
-            "description": "이날 추모행사에 참석한 박지원·권향엽·민형배·안도걸·양부남·전진숙·정준호·조계원·조인철·주철현·서왕진·전종덕 국회의원은 유족들 앞에서 \"지금까지 진상규명이 이뤄지지 못해 송구스럽다\"며 고개를 숙였다.... ",
-            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6021332",
-            "press": "뉴스1",
-            "pubDate": "2025-12-27T16:09:00",
-            "related_members": [
-                "IC499858",
-                "8BF5855P",
-                "EFU76868",
-                "QUR40502",
-                "80C5885Z",
-                "VRY5522V",
-                "8TU8443O",
-                "T465023H",
-                "EB16073M",
-                "CK143054",
-                "ZKB18611",
-                "P8A4624C"
-            ],
-            "title": "\"진상규명 이행하라\" 12·29 제주항공 여객기 참사 추모대회 엄수"
-        },
-        {
-            "_id": "6964b55b631fd1743499620a",
-            "link": "https://n.news.naver.com/mnews/article/016/0002575946?sid=101",
-            "created_at": "2026-01-12T17:48:24.583000",
-            "description": "22일 국회에서 ‘민주당 디지털자산 TF – 자문위원 간담회’를 열고 디지털자산 기본법을 둘러싼 쟁점을... 이날 간담회는 TF 소속 이주희(앞줄 왼쪽부터)·김현정·이강일·강준현·이정문·안도걸·민병덕·박민규 의원 등... ",
-            "originallink": "https://biz.heraldcorp.com/article/10641859?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-23T07:13:00",
-            "related_members": [
-                "TZ228122",
-                "AEO5706C",
-                "M4O5221T",
-                "6VC83722",
-                "O0I2045I",
-                "EB16073M",
-                "RBM5454A",
-                "7YL9580G",
-                "5KV96424"
-            ],
-            "title": "민주당, 스테이블코인 ‘은행 51% 지분’ 반대…디지털자산법 다시 격돌..."
-        },
-        {
-            "_id": "6964b55b631fd1743499620b",
-            "link": "https://n.news.naver.com/mnews/article/011/0004570218?sid=101",
-            "created_at": "2026-01-12T17:48:24.583000",
-            "description": "이정문 민주당 디지털자산 태스크포스(TF) 위원장은 22일 오후 국회의원회관 제2세미나실에서 열린 민간... 이날 간담회에는 이정문 위원장을 비롯해 안도걸·강준현·민병덕·김현정·이강일·이주희·박민규 의원 등 특위... ",
-            "originallink": "https://www.sedaily.com/NewsView/2H1TVIAJF0",
-            "press": "서울경제",
-            "pubDate": "2025-12-22T16:01:00",
-            "related_members": [
-                "TZ228122",
-                "AEO5706C",
-                "M4O5221T",
-                "6VC83722",
-                "O0I2045I",
-                "EB16073M",
-                "RBM5454A",
-                "7YL9580G",
-                "5KV96424"
-            ],
-            "title": "\"정부안 아직도 안 나와\"…디지털자산 2단계법 국회 주도로 속도 낸다"
-        },
-        {
-            "_id": "6964b55b631fd1743499620c",
-            "link": "https://n.news.naver.com/mnews/article/009/0005610137?sid=101",
-            "created_at": "2026-01-12T17:48:24.583000",
-            "description": "더불어민주당 디지털자산 전담조직(TF)인 ‘디지털자산특위’는 22일 오후 국회의원회관 제2세미나실에서... 이날 간담회에는 이정문 위원장을 비롯해 안도걸·강준현·민병덕·김현정·이강일·이주희·박민규 의원 등 특위... ",
-            "originallink": "https://www.mk.co.kr/article/11504186",
-            "press": "매일경제",
-            "pubDate": "2025-12-22T15:39:00",
-            "related_members": [
-                "TZ228122",
-                "AEO5706C",
-                "M4O5221T",
-                "6VC83722",
-                "O0I2045I",
-                "EB16073M",
-                "RBM5454A",
-                "7YL9580G",
-                "5KV96424"
-            ],
-            "title": "“정부안 더는 못 기다려”… 민주당, 디지털자산 2단계 입법 ‘속도전..."
         }
     ],
     "recent_videos": [
@@ -452,7 +537,7 @@
             "url": "https://www.youtube.com/watch?v=2LQEOTyzQzA",
             "HG_NM": "안도걸",
             "MONA_CD": "EB16073M",
-            "collected_at": "2026-01-14T10:20:11.949000",
+            "collected_at": "2026-01-15T18:19:38.730000",
             "duration": 1111.0,
             "title": "🔴LIVE 더불어민주당 안도걸 의원 퇴직 연금 관련 기자회견 l 25.07.22 / KNN",
             "upload_date": null
@@ -482,11 +567,11 @@
             "url": "https://www.youtube.com/watch?v=6DDOmraYh28",
             "HG_NM": "안도걸",
             "MONA_CD": "EB16073M",
-            "collected_at": "2026-01-14T10:20:11.949000",
+            "collected_at": "2026-01-15T18:19:38.730000",
             "duration": 60.0,
             "title": "다 안도걸 차관에게 신세 져서 예산 따왔습니다!",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:04.710431"
+    "exported_at": "2026-01-15T18:29:51.557924"
 }

@@ -62,23 +62,55 @@
     },
     "analysis": {
         "keywords": [
+            "경찰",
+            "국민소환제",
+            "금품",
+            "수수",
+            "의혹",
+            "김병기",
+            "자택",
+            "압수수색",
             "베네수엘라",
             "국제",
-            "연합뉴스",
-            "국민소환제",
+            "제안",
             "검찰",
-            "군사작전",
-            "평화",
-            "위협",
-            "경찰",
             "민주당",
-            "미국",
-            "회장",
-            "페널티",
-            "아들",
-            "청문회"
+            "개혁",
+            "군사작전"
         ],
         "keyword_frequency": [
+            {
+                "text": "경찰",
+                "value": 10
+            },
+            {
+                "text": "국민소환제",
+                "value": 10
+            },
+            {
+                "text": "금품",
+                "value": 6
+            },
+            {
+                "text": "수수",
+                "value": 6
+            },
+            {
+                "text": "의혹",
+                "value": 6
+            },
+            {
+                "text": "김병기",
+                "value": 6
+            },
+            {
+                "text": "자택",
+                "value": 6
+            },
+            {
+                "text": "압수수색",
+                "value": 6
+            },
             {
                 "text": "베네수엘라",
                 "value": 6
@@ -88,11 +120,7 @@
                 "value": 6
             },
             {
-                "text": "연합뉴스",
-                "value": 6
-            },
-            {
-                "text": "국민소환제",
+                "text": "제안",
                 "value": 6
             },
             {
@@ -100,69 +128,69 @@
                 "value": 5
             },
             {
+                "text": "민주당",
+                "value": 5
+            },
+            {
+                "text": "개혁",
+                "value": 5
+            },
+            {
                 "text": "군사작전",
                 "value": 5
-            },
-            {
-                "text": "평화",
-                "value": 5
-            },
-            {
-                "text": "위협",
-                "value": 5
-            },
-            {
-                "text": "경찰",
-                "value": 4
-            },
-            {
-                "text": "민주당",
-                "value": 4
-            },
-            {
-                "text": "미국",
-                "value": 4
-            },
-            {
-                "text": "회장",
-                "value": 4
-            },
-            {
-                "text": "페널티",
-                "value": 4
-            },
-            {
-                "text": "아들",
-                "value": 4
-            },
-            {
-                "text": "청문회",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:10.623877",
+        "last_analyzed_at": "2026-01-15T18:29:57.796343",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
                 1,
-                1
+                3,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968adbd297082fcc2b18dab",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104724?sid=102",
+            "created_at": "2026-01-15T18:04:58.371000",
+            "description": "서울경찰청 공공범죄수사대는 오늘(14일) 오전부터 김 의원의 주거지와 국회의원 사무실, 이지희 동작구의회... 내일 경찰에 다시 출석해 조사받을 것으로 보입니다. KBS 뉴스 김영훈입니다. 취재기자:김경민/영상편집:이인영",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458716&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T12:07:00",
+            "related_members": [
+                "8Q88373R",
+                "3ZR4438W"
+            ],
+            "title": "경찰, ‘금품 수수 의혹’ 김병기 의원 자택 등 6곳 압수수색"
+        },
+        {
+            "_id": "6968adbd297082fcc2b18dac",
+            "link": "https://n.news.naver.com/mnews/article/056/0012104604?sid=102",
+            "created_at": "2026-01-15T18:04:58.371000",
+            "description": "서울경찰청 공공범죄수사대는 오늘(14일) 오전부터 김 의원의 주거지와 국회의원 사무실, 이지희 동작구의회... 김경 시의원은 내일 경찰에 다시 소환돼 조사받을 것으로 보입니다. KBS 뉴스 김영훈입니다. 영상편집:이인영",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458509&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-14T10:17:00",
+            "related_members": [
+                "8Q88373R",
+                "3ZR4438W"
+            ],
+            "title": "경찰, ‘금품 수수 의혹’ 김병기 의원 자택 등 6곳 압수수색"
+        },
         {
             "_id": "6966ec72887d07f7ba2fb26e",
             "link": "https://n.news.naver.com/mnews/article/056/0012104522?sid=102",
@@ -182,7 +210,7 @@
             "_id": "696594a7887d07f7ba2fab3d",
             "link": "https://n.news.naver.com/mnews/article/020/0003688851?sid=100",
             "created_at": "2026-01-13T09:41:09.344000",
-            "description": "민주당 김용민 의원이 이날 국회 법제사법위원회에서 “검찰 세력이 검찰개혁안을 만든 것 아니냐는 국민의 우려가 크다”고 하자 정성호 법무부 장관은 “검찰 구성원 모두가 범죄자라는 시각을 갖지 않았으면 좋겠다”... ",
+            "description": "민주당 이인영 의원은 “똑같은 사람 데려다 똑같은 구조로 중수청을 만들면 ‘검찰 특수부 시즌 2’”라고... 민주당 김용민 의원이 이날 국회 법제사법위원회에서 “검찰 세력이 검찰개혁안을 만든 것 아니냐는 국민의... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260113/133143118/2",
             "press": "동아일보",
             "pubDate": "2026-01-13T04:35:00",
@@ -369,83 +397,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ad80631fd1743497da92",
-            "url": "https://www.youtube.com/watch?v=kgaaKacCH5g",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
-            "duration": 113.0,
-            "title": "이인영 \"일 안 하는 의원 페널티\"…한국당, 예결위원장 놓고 갈등[굿모닝MBN]",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad80631fd1743497da93",
             "url": "https://www.youtube.com/watch?v=xzblCkafOWs",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
+            "collected_at": "2026-01-15T18:21:47.429000",
             "duration": 557.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 이인영 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da98",
-            "url": "https://www.youtube.com/watch?v=_YP-B7k_GbA",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.948000",
-            "duration": 154.0,
-            "title": "이인영 아들 '스위스 호화 유학?'…\"악의적 왜곡\" (2020.07.15/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da8f",
-            "url": "https://www.youtube.com/watch?v=j3GqwMxbTfo",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
-            "duration": 361.0,
-            "title": "'물통' 청문회...이인영 아들 군 면제 때문이라고?",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da95",
-            "url": "https://www.youtube.com/watch?v=YybNGR5a8WA",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.948000",
-            "duration": 110.0,
-            "title": "색깔론 총공세장된 이인영 청문회…태영호 “사상 전향 했냐” | 뉴스A 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da96",
-            "url": "https://www.youtube.com/watch?v=t8YcXzbTJj4",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.948000",
-            "duration": 520.0,
-            "title": "[현장연결] 이인영 \"과거에도 지금도 주체사상 신봉자 아니야\" / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da90",
-            "url": "https://www.youtube.com/watch?v=nHsjDDbsMjQ",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
-            "duration": 2318.0,
-            "title": "[풀영상] 이인영 \"일 안하는 국회의원에 페널티…국민소환제 도입해야\" / 연합뉴스 (Yonhapnews)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da8b",
-            "url": "https://www.youtube.com/watch?v=TPmjlbvGVTo",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
-            "duration": 184.0,
-            "title": "2014년 추석인사_국회의원이인영",
             "upload_date": null
         },
         {
@@ -459,15 +417,85 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad80631fd1743497da8f",
+            "url": "https://www.youtube.com/watch?v=j3GqwMxbTfo",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 361.0,
+            "title": "'물통' 청문회...이인영 아들 군 면제 때문이라고?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da92",
+            "url": "https://www.youtube.com/watch?v=kgaaKacCH5g",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 113.0,
+            "title": "이인영 \"일 안 하는 의원 페널티\"…한국당, 예결위원장 놓고 갈등[굿모닝MBN]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da90",
+            "url": "https://www.youtube.com/watch?v=nHsjDDbsMjQ",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 2318.0,
+            "title": "[풀영상] 이인영 \"일 안하는 국회의원에 페널티…국민소환제 도입해야\" / 연합뉴스 (Yonhapnews)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8e",
+            "url": "https://www.youtube.com/watch?v=H6suMP1z78w",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 907.0,
+            "title": "[MBN 프레스룸] 태영호 통합당 의원 \"이인영 주체사상 질의, 지금도 적합했다 생각\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8c",
+            "url": "https://www.youtube.com/watch?v=A9kCsskh644",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 136.0,
+            "title": "이인영 첫 교섭단체 연설...\"선거제 개혁 전력·국회의원 국민소환제 제안\" / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8b",
+            "url": "https://www.youtube.com/watch?v=TPmjlbvGVTo",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 184.0,
+            "title": "2014년 추석인사_국회의원이인영",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad80631fd1743497da8d",
             "url": "https://www.youtube.com/watch?v=1_wF68n_HTA",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
+            "collected_at": "2026-01-15T18:21:47.429000",
             "duration": 139.0,
             "title": "이인영 첫 교섭단체 연설...\"선거제 개혁 전력·국회의원 국민소환제 제안\" / YTN",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da91",
+            "url": "https://www.youtube.com/watch?v=B6WAA0QJkzU",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 188.0,
+            "title": "이인영 첫 국회 대표연설 “365일 일하는 상시국회,국회의원 국민소환제 제안\"",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:10.623877"
+    "exported_at": "2026-01-15T18:29:57.796343"
 }

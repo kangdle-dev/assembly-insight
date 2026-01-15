@@ -45,18 +45,18 @@
             "국민",
             "국힘",
             "계엄",
-            "사과",
             "재선",
-            "대표",
             "모임",
-            "공천",
-            "이상",
-            "민심",
-            "위원장",
+            "사과",
+            "대표",
             "대안",
-            "사사건건",
-            "비상계엄",
-            "경선"
+            "이상",
+            "위원장",
+            "미래",
+            "대통령",
+            "한국",
+            "한동훈",
+            "회관"
         ],
         "keyword_frequency": [
             {
@@ -65,18 +65,22 @@
             },
             {
                 "text": "국힘",
-                "value": 14
+                "value": 13
             },
             {
                 "text": "계엄",
                 "value": 11
             },
             {
-                "text": "사과",
+                "text": "재선",
                 "value": 10
             },
             {
-                "text": "재선",
+                "text": "모임",
+                "value": 10
+            },
+            {
+                "text": "사과",
                 "value": 10
             },
             {
@@ -84,11 +88,7 @@
                 "value": 9
             },
             {
-                "text": "모임",
-                "value": 9
-            },
-            {
-                "text": "공천",
+                "text": "대안",
                 "value": 8
             },
             {
@@ -96,53 +96,138 @@
                 "value": 8
             },
             {
-                "text": "민심",
+                "text": "위원장",
                 "value": 8
             },
             {
-                "text": "위원장",
+                "text": "미래",
                 "value": 7
             },
             {
-                "text": "대안",
+                "text": "대통령",
                 "value": 7
             },
             {
-                "text": "사사건건",
+                "text": "한국",
                 "value": 6
             },
             {
-                "text": "비상계엄",
+                "text": "한동훈",
                 "value": 6
             },
             {
-                "text": "경선",
+                "text": "회관",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:52.717572",
+        "last_analyzed_at": "2026-01-15T18:29:38.691067",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 2,
                 0,
                 0,
                 0,
                 0,
+                3,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad92297082fcc2b18d1b",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324393?sid=104",
+            "created_at": "2026-01-15T18:04:15.284000",
+            "description": "워싱턴 김용태 특파원입니다. &lt;기자&gt; '해외 디지털 규제'를 주제로 한 미국 하원 청문회가 한국 성토장으로... [캐롤 밀러/미 공화당 하원의원 : 한국 국회는 미국 기업을 겨냥한 입법을 계속 추진하고 있습니다. 최근 미국... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404614&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T21:03:00",
+            "related_members": [
+                "EPI69383"
+            ],
+            "title": "\"한국이 마녀 사냥\"…미 의회, 왜 쿠팡 편드나"
+        },
+        {
+            "_id": "6968ad85297082fcc2b18cc9",
+            "link": "https://n.news.naver.com/mnews/article/055/0001324240?sid=100",
+            "created_at": "2026-01-15T18:04:02.464000",
+            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 권영진·김형동·박정하·배준영·서범수·엄태영·이성권·조은희·최형두(이상 재선), 고동진·김건·김소희·김용태... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404024&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-14T13:29:00",
+            "related_members": [
+                "8XE7026P",
+                "KBK8836C",
+                "TQP7167T",
+                "QDU1100U",
+                "1SR94244",
+                "4019850M",
+                "AEJ19639",
+                "PYA8594I",
+                "HS39431V",
+                "EPI69383",
+                "8UC4779G",
+                "57B28032",
+                "CNW5754J",
+                "JEZ3130Q",
+                "LYY5513O",
+                "9D939735",
+                "L7J93733",
+                "6RD62559",
+                "QQP4727N",
+                "RMC1840P",
+                "8348421R",
+                "MQU41854",
+                "WXJ8352N",
+                "A0P4646G"
+            ],
+            "title": "국힘 초·재선 모임 \"한동훈 제명 결정, 반헌법적…재고해야\""
+        },
+        {
+            "_id": "6968ad85297082fcc2b18cca",
+            "link": "https://n.news.naver.com/mnews/article/020/0003689296?sid=100",
+            "created_at": "2026-01-15T18:04:02.464000",
+            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위 결정에... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133154308/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-14T12:54:00",
+            "related_members": [
+                "9D939735",
+                "HS39431V",
+                "LYY5513O",
+                "TQP7167T",
+                "JEZ3130Q",
+                "1SR94244",
+                "4019850M",
+                "EPI69383",
+                "6RD62559",
+                "57B28032",
+                "AEJ19639",
+                "8XE7026P",
+                "8348421R",
+                "8UC4779G",
+                "MQU41854",
+                "CNW5754J",
+                "KBK8836C",
+                "QDU1100U",
+                "WXJ8352N",
+                "PYA8594I",
+                "L7J93733",
+                "QQP4727N",
+                "RMC1840P",
+                "A0P4646G"
+            ],
+            "title": "국힘 소장파 “한동훈 제명, 비겁하고 저열…재고해야” 의총소집 요구"
+        },
         {
             "_id": "6964b54f631fd17434996124",
             "link": "https://n.news.naver.com/mnews/article/056/0012101935?sid=100",
@@ -208,7 +293,7 @@
             "_id": "6964b54f631fd17434996126",
             "link": "https://n.news.naver.com/mnews/article/421/0008699666?sid=100",
             "created_at": "2026-01-12T17:48:12.945000",
-            "description": "한상희 홍유진 기자 = 신동욱 국민의힘 수석최고위원은 당 일각의 외연 확장 요구와 관련해 \"지방선거를... 신 최고위원은 6일 국회의원회관 의원실에서 진행한 뉴스1과의 인터뷰에서 \"코어를 단단하게 다저야 외연확장이... ",
+            "description": "신 최고위원은 6일 국회의원회관 의원실에서 진행한 뉴스1과의 인터뷰에서 \"코어를 단단하게 다저야... 또 김용태 비상대책위원장 시절 윤 전 대통령에게 당을 떠나라고 해서 윤 전 대통령이 탈당했다. 공당과 특정인의... ",
             "originallink": "https://www.news1.kr/politics/assembly/6030633",
             "press": "뉴스1",
             "pubDate": "2026-01-07T06:00:00",
@@ -440,62 +525,6 @@
                 "EPI69383"
             ],
             "title": "野 주최 교사 정치기본권 토론회…김용태 “충분한 공론화 거쳐야”"
-        },
-        {
-            "_id": "6964b550631fd17434996143",
-            "link": "https://n.news.naver.com/mnews/article/003/0013660494?sid=100",
-            "created_at": "2026-01-12T17:48:13.806000",
-            "description": "재선 의원 공부모임 '대안과 책임'은 이날 오전 국회의원회관에서 '지방선거 D-6개월, 어떻게 해야 승리할 수... 김기현·안철수 의원 등도 함께했다. 또 김건·김소희·김용태·김위상·김재섭·조승환 의원 등도 자리했다.... ",
-            "originallink": "https://www.newsis.com/view/NISX20251216_0003442873",
-            "press": "뉴시스",
-            "pubDate": "2025-12-16T12:45:00",
-            "related_members": [
-                "ME83002L",
-                "LCZ1711I",
-                "1SR94244",
-                "57B28032",
-                "X7I4680R",
-                "YOG1280B",
-                "TQP7167T",
-                "EPI69383"
-            ],
-            "title": "국힘 재선의원, '당심 70% 경선룰' 반대 \"민심 반영한 공천룰 만들어야..."
-        },
-        {
-            "_id": "6964b56c631fd17434996329",
-            "link": "https://n.news.naver.com/mnews/article/022/0004090013?sid=100",
-            "created_at": "2026-01-12T17:48:42.153000",
-            "description": "그는 “‘당 안에서 혁신하겠다’는 말은 ‘국회의원직만은 유지하겠다’는 비겁한 자기변명에 불과하다”... 최형두 의원이 참여했다. 초선 고동진·김용태·김재섭·박정훈·안상훈·우재준·이상휘·정연욱 의원... ",
-            "originallink": "https://www.segye.com/newsView/20251214503778?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2025-12-14T10:59:00",
-            "related_members": [
-                "8L52480G",
-                "A0P4646G",
-                "HS39431V",
-                "AEJ19639",
-                "8XE7026P",
-                "57B28032",
-                "4019850M",
-                "8UC4779G",
-                "PYA8594I",
-                "EPI69383"
-            ],
-            "title": "조국 “尹과 단절 선언한 국힘 의원 25명, 탈당하라”"
-        },
-        {
-            "_id": "6964b58e631fd174349964c0",
-            "link": "https://n.news.naver.com/mnews/article/421/0008641822?sid=100",
-            "created_at": "2026-01-12T17:49:15.765000",
-            "description": "송년행사 (국회 사랑재) 14:00 차지호 의원실 등, AI 기반 의료디지털전환: 의학한림원 정책보고·디지털전환특별위원회 심포지엄 (국회도서관 국가전략정보센터) 14:00 김용태 의원실, 접경지 경기북부 물부족... ",
-            "originallink": "https://www.news1.kr/politics/assembly/5997373",
-            "press": "뉴스1",
-            "pubDate": "2025-12-04T05:00:00",
-            "related_members": [
-                "RC885085",
-                "EPI69383"
-            ],
-            "title": "[오늘의 국회일정] (4일, 목)"
         }
     ],
     "recent_videos": [
@@ -514,79 +543,9 @@
             "url": "https://www.youtube.com/watch?v=Ceb8JsjmJHA",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-14T10:16:16.538000",
+            "collected_at": "2026-01-15T18:15:27.045000",
             "duration": 513.0,
             "title": "국힘 막내 삐약이 김용태 의원의 달콤살벌 모두까기(?) 진실 토크 | 국집소 | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d50a",
-            "url": "https://www.youtube.com/watch?v=xIJZ_691nQ8",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-14T10:16:16.538000",
-            "duration": 241.0,
-            "title": "김용태, 이주영의 '헤어게이트'..누가 머리에 정치자금을 썼나?",
-            "upload_date": null
-        },
-        {
-            "_id": "69659559887d07f7ba2fac15",
-            "url": "https://www.youtube.com/watch?v=Fa7SocGq5T0",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-13T09:44:07.232000",
-            "duration": 1112.0,
-            "title": "[시선집중] 오늘 국힘 정기국회서 '상복' 입을까...비상계엄 옹호 세력은 당 나가야 - 김용태 국민의힘 의원, MBC 250901 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d507",
-            "url": "https://www.youtube.com/watch?v=UCYcr6XoZ5-CBBDdQFtq687g",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-14T10:16:16.538000",
-            "duration": null,
-            "title": "김용태TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d50d",
-            "url": "https://www.youtube.com/watch?v=cS-hU2i78SY",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-13T09:44:07.757000",
-            "duration": 108.0,
-            "title": "\"쌍전 절연하자\"…김용태 \"당 지도부, 전한길·전광훈에 결단 내려야\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d509",
-            "url": "https://www.youtube.com/watch?v=3W5w7l3SHDE",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-14T10:16:17.296000",
-            "duration": 1277.0,
-            "title": "[뉴스직격]김용태 의원 인터뷰/윤어게인 포퓰리즘 그만/장대표 계엄사과 했어야/탄핵 후에도 윤석열에 종속된 꼴",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d508",
-            "url": "https://www.youtube.com/watch?v=CP6MohdltRI",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-14T10:16:16.538000",
-            "duration": 1732.0,
-            "title": "[국회의원 25시] 1회 새 바람을 꿈꾸는 소신 정치 - 김용태 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d50c",
-            "url": "https://www.youtube.com/watch?v=2G8yYFIU9Ow",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-13T09:44:07.232000",
-            "duration": 213.0,
-            "title": "국회의원 김용태 - 희망(Hope) M/V",
             "upload_date": null
         },
         {
@@ -594,11 +553,81 @@
             "url": "https://www.youtube.com/watch?v=OAsseHMom7A",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-14T10:16:16.538000",
+            "collected_at": "2026-01-15T18:15:27.045000",
             "duration": 105.0,
             "title": "김용태 의원에게 계엄 당일 추경호 행적 의문 제기하자 \"이 방송에서 이야기 다 해, 특검 가서 할 이야기 없어\"",
             "upload_date": null
+        },
+        {
+            "_id": "69659559887d07f7ba2fac15",
+            "url": "https://www.youtube.com/watch?v=Fa7SocGq5T0",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.045000",
+            "duration": 1112.0,
+            "title": "[시선집중] 오늘 국힘 정기국회서 '상복' 입을까...비상계엄 옹호 세력은 당 나가야 - 김용태 국민의힘 의원, MBC 250901 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d50c",
+            "url": "https://www.youtube.com/watch?v=2G8yYFIU9Ow",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.045000",
+            "duration": 213.0,
+            "title": "국회의원 김용태 - 희망(Hope) M/V",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d50a",
+            "url": "https://www.youtube.com/watch?v=xIJZ_691nQ8",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.896000",
+            "duration": 241.0,
+            "title": "김용태, 이주영의 '헤어게이트'..누가 머리에 정치자금을 썼나?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d508",
+            "url": "https://www.youtube.com/watch?v=CP6MohdltRI",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.045000",
+            "duration": 1732.0,
+            "title": "[국회의원 25시] 1회 새 바람을 꿈꾸는 소신 정치 - 김용태 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d507",
+            "url": "https://www.youtube.com/watch?v=UCYcr6XoZ5-CBBDdQFtq687g",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.045000",
+            "duration": null,
+            "title": "김용태TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d509",
+            "url": "https://www.youtube.com/watch?v=3W5w7l3SHDE",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.896000",
+            "duration": 1277.0,
+            "title": "[뉴스직격]김용태 의원 인터뷰/윤어게인 포퓰리즘 그만/장대표 계엄사과 했어야/탄핵 후에도 윤석열에 종속된 꼴",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d50d",
+            "url": "https://www.youtube.com/watch?v=cS-hU2i78SY",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-15T18:15:27.896000",
+            "duration": 108.0,
+            "title": "\"쌍전 절연하자\"…김용태 \"당 지도부, 전한길·전광훈에 결단 내려야\"｜지금 이 뉴스",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:52.717572"
+    "exported_at": "2026-01-15T18:29:38.691067"
 }

@@ -52,37 +52,37 @@
     },
     "analysis": {
         "keywords": [
-            "최고",
             "민주당",
-            "위원",
+            "최고",
             "정청래",
+            "위원",
             "청계",
-            "대표",
+            "대통령",
             "도부",
-            "혁신",
             "원내대표",
-            "박지원",
+            "반도체",
+            "혁신",
+            "청와대",
+            "용인",
+            "이전",
             "한병도",
-            "선출",
-            "정부",
-            "추진",
             "위원장"
         ],
         "keyword_frequency": [
             {
-                "text": "최고",
-                "value": 23
-            },
-            {
                 "text": "민주당",
-                "value": 22
+                "value": 18
             },
             {
-                "text": "위원",
-                "value": 22
+                "text": "최고",
+                "value": 17
             },
             {
                 "text": "정청래",
+                "value": 16
+            },
+            {
+                "text": "위원",
                 "value": 15
             },
             {
@@ -90,23 +90,35 @@
                 "value": 10
             },
             {
-                "text": "대표",
-                "value": 9
+                "text": "대통령",
+                "value": 10
             },
             {
                 "text": "도부",
                 "value": 8
             },
             {
+                "text": "원내대표",
+                "value": 8
+            },
+            {
+                "text": "반도체",
+                "value": 7
+            },
+            {
                 "text": "혁신",
                 "value": 7
             },
             {
-                "text": "원내대표",
-                "value": 7
+                "text": "청와대",
+                "value": 6
             },
             {
-                "text": "박지원",
+                "text": "용인",
+                "value": 6
+            },
+            {
+                "text": "이전",
                 "value": 6
             },
             {
@@ -114,45 +126,51 @@
                 "value": 6
             },
             {
-                "text": "선출",
-                "value": 6
-            },
-            {
-                "text": "정부",
-                "value": 6
-            },
-            {
-                "text": "추진",
-                "value": 6
-            },
-            {
                 "text": "위원장",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:10.036373",
+        "last_analyzed_at": "2026-01-15T18:29:57.048390",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                3,
                 1,
                 1,
                 5,
                 3,
                 1,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9a297082fcc2b18d3f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421670?sid=100",
+            "created_at": "2026-01-15T18:04:23.294000",
+            "description": "14일 민주당에 따르면 용인 반도체 클러스터의 전북 새만금 이전을 주장해온 안호영 의원(국회... 앞서 한준호 의원은 같은 날 페이스북에 “클러스터 이전 주장은 국가전략산업의 현실과 그간 축적된 정책 결정을 외면한... ",
+            "originallink": "https://www.khan.co.kr/article/202601150600031",
+            "press": "경향신문",
+            "pubDate": "2026-01-15T06:00:00",
+            "related_members": [
+                "FJK3396E",
+                "XEF29171",
+                "JC14718Q",
+                "FYI20317",
+                "JG77046J",
+                "BCQ55105"
+            ],
+            "title": "청와대 “검토 안 해” 발표에도…여당 일각 ‘용인 반도체 이전’ 계속..."
+        },
         {
             "_id": "6966ec71887d07f7ba2fb267",
             "link": "https://n.news.naver.com/mnews/article/421/0008712031?sid=100",
@@ -176,7 +194,7 @@
             "_id": "6964b541631fd17434995fe2",
             "link": "https://n.news.naver.com/mnews/article/003/0013704552?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "당직은 국회의원직'이라 하셨다. 정치는 도전이다. 저도 재도전해서 민주당 원대(원내대표)를 두 번 했다.... 민주당 최고위원회의는 당 대표와 한병도 신임 원내대표와 선출직 최고위원 5명(이언주·황명선·강득구... ",
+            "description": "이에 더해 원내대표 경선에서 한병도 의원에게 패해 \"백혜련, 박정, 진성준, 이건태 의원께 위로의 말을 드린다\"면서 \"DJ(김대중 전 대통령)는 '최고의 당직은 국회의원직'이라 하셨다. 정치는 도전이다. 저도 재도전해서... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003472792",
             "press": "뉴시스",
             "pubDate": "2026-01-12T10:43:00",
@@ -201,7 +219,7 @@
             "_id": "6964b541631fd17434995fe9",
             "link": "https://n.news.naver.com/mnews/article/421/0008707687?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "당직은 국회의원직이다'고 하셨다. 세월이 가면 기회는 오니 툭툭 털고 일어나라\"고 격려했다. 민주당 지도부인 최고위원회는 정청래 대표, 한병도 원내대표와 5명의 선출직 최고위원( 이언주·황명선·강득구·이성윤... ",
+            "description": "아울러 원내대표 경선에서 한병도 의원에게 패한 \"백혜련, 박정, 진성준, 이건태 의원께 위로의 말을 드린다\"면서 \"DJ(김대중 전 대통령)는 '최고의 당직은 국회의원직이다'고 하셨다. 세월이 가면 기회는 오니 툭툭 털고... ",
             "originallink": "https://www.news1.kr/politics/assembly/6035299",
             "press": "뉴스1",
             "pubDate": "2026-01-12T07:15:00",
@@ -226,7 +244,7 @@
             "_id": "6964b541631fd17434995feb",
             "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 앞서 이재명 당 대표 체제에서 비서실장, 전략기획위원장 등 요직을 맡았던 천준호 의원이 한 원내대표 출마... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133134653/2",
             "press": "동아일보",
             "pubDate": "2026-01-12T04:32:00",
@@ -255,7 +273,7 @@
             "_id": "6964b566631fd174349962d1",
             "link": "https://n.news.naver.com/mnews/article/020/0003688426?sid=100",
             "created_at": "2026-01-12T17:48:35.804000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련(3선·경기 수원을)과의 결선 투표를 거쳐... 현재 정 대표와 지명직인 서삼석 박지원 최고위원 등 정 대표 측이 3명, 이언주 황명선 최고위원 등 친명계가... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련(3선·경기 수원을)과의 결선 투표를 거쳐 당선됐다. 진성준(3선·서울 강서을) 박정 의원(3선·경기 파주을)(기호순)는 1차 투표에서 낙선했다. 원내대표... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260111/133133887/1",
             "press": "동아일보",
             "pubDate": "2026-01-11T20:28:00",
@@ -366,7 +384,7 @@
             "_id": "6964b54c631fd174349960e3",
             "link": "https://n.news.naver.com/mnews/article/022/0004096556?sid=102",
             "created_at": "2026-01-12T17:48:09.496000",
-            "description": "이언주 의원(가운데) 등 민주당 용인지역 국회의원들이 지난달 30일 국회 소통관에서 ‘용인 반도체 클러스터 이전’ 주장에 대한 입장문을 발표하고 있다. 이언주 의원실 제공 이 시장은 인력도 언급했습니다. “반도체... ",
+            "description": "논란에 기름을 부은 건 김성환 기후에너지환경부 장관이었습니다. 김 장관은 “용인 반도체 산단의 이전을... 전북지역 국회의원은 왜 흔들고 있나. 이게 뭐 하는 것인가.” 그러면서 이 시장은 “당시 발표 때는 왜... ",
             "originallink": "https://www.segye.com/newsView/20260110504760?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-10T14:06:00",
@@ -381,7 +399,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주·정성호·조정식... ",
+            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -483,7 +501,7 @@
             "_id": "6964b555631fd17434996198",
             "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
             "created_at": "2026-01-12T17:48:18.699000",
-            "description": "국회의원들의 발길도 이어졌다. 과학기술정보방송통신위원회 위원장 최민희 더불어민주당 의원을 비롯해 김현 더불어민주당 의원(과방위), 산업통상자원중소벤처기업위원회 위원장 이철규 국민의힘 의원, 정동만... ",
+            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 더불어민주당 의원(과방위), 산업통상자원중소벤처기업위원회 위원장 이철규 국민의힘 의원, 정동만... ",
             "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
             "press": "조선일보",
             "pubDate": "2026-01-07T14:52:00",
@@ -575,13 +593,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad72631fd1743497da4f",
-            "url": "https://www.youtube.com/watch?v=TTTZpKuTmzM",
+            "_id": "6960ad72631fd1743497da4e",
+            "url": "https://www.youtube.com/watch?v=hqKGB8t89_4",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
             "collected_at": "2026-01-09T16:25:35.574000",
-            "duration": 67.0,
-            "title": "외국산 전기차 지원금 사라지나…이언주 \"국내생산만 지원해야\"",
+            "duration": 74.0,
+            "title": "\"왜 대통령 순방 중에?\"…이언주, 정청래 면전서 직격 / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -589,19 +607,19 @@
             "url": "https://www.youtube.com/watch?v=DUt661ucqpY",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-14T10:21:59.619000",
+            "collected_at": "2026-01-15T18:21:32.454000",
             "duration": 3643.0,
             "title": "10월 24일 [송영길의 뉴스비평] 이언주 의원과 함께!",
             "upload_date": null
         },
         {
-            "_id": "6960ad72631fd1743497da4b",
-            "url": "https://www.youtube.com/watch?v=VRcyPkFFhPM",
+            "_id": "6960ad72631fd1743497da4c",
+            "url": "https://www.youtube.com/watch?v=BWbqFduCkGU",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-09T16:25:34.768000",
-            "duration": 64.0,
-            "title": "이언주 의원 재혼 최원재 교수 논란",
+            "collected_at": "2026-01-15T18:21:32.454000",
+            "duration": 164.0,
+            "title": "[비하인드 뉴스] 의총 입장 제지에 이언주 분노 \"나 국회의원이야!\"",
             "upload_date": null
         },
         {
@@ -609,7 +627,7 @@
             "url": "https://www.youtube.com/watch?v=nsIEFa-0o8c",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-14T10:21:59.619000",
+            "collected_at": "2026-01-15T18:21:32.454000",
             "duration": 387.0,
             "title": "[현장영상] 대정부질문 중 3단 '사자후'...한덕수-이언주, 티메프 사태로 설전",
             "upload_date": null
@@ -619,7 +637,7 @@
             "url": "https://www.youtube.com/watch?v=2HgyMQc0zvQ",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-14T10:21:59.619000",
+            "collected_at": "2026-01-15T18:21:32.454000",
             "duration": 286.0,
             "title": "SNL 코리아 시즌5 | 하이라이트 | 맑눈광이 간다 | 이언주 더불어민주당 국회의원 당선인 | 쿠팡플레이 | 쿠팡",
             "upload_date": null
@@ -639,7 +657,7 @@
             "url": "https://www.youtube.com/watch?v=BxoOoYexvBg",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-14T10:22:00.323000",
+            "collected_at": "2026-01-15T18:21:33.338000",
             "duration": 3410.0,
             "source": "채널A",
             "title": "[🔴이슈를 켜라] 친명 \"1인 1표, 정청래 독단\"…이언주, 정청래 면전서 공개 비판 / 채널A",
@@ -650,21 +668,21 @@
             "url": "https://www.youtube.com/watch?v=BtdEyDgL2b0",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-14T10:21:59.619000",
+            "collected_at": "2026-01-15T18:21:32.454000",
             "duration": 413.0,
             "title": "초유의 사태.. 이언주 발언 중 잠시 '침묵'... 이 꽉 깨물더니 나경원 향해 작심 발언",
             "upload_date": null
         },
         {
-            "_id": "6960ad72631fd1743497da4c",
-            "url": "https://www.youtube.com/watch?v=BWbqFduCkGU",
+            "_id": "6960ad72631fd1743497da4b",
+            "url": "https://www.youtube.com/watch?v=VRcyPkFFhPM",
             "HG_NM": "이언주",
             "MONA_CD": "JG77046J",
-            "collected_at": "2026-01-14T10:21:59.619000",
-            "duration": 164.0,
-            "title": "[비하인드 뉴스] 의총 입장 제지에 이언주 분노 \"나 국회의원이야!\"",
+            "collected_at": "2026-01-09T16:25:34.768000",
+            "duration": 64.0,
+            "title": "이언주 의원 재혼 최원재 교수 논란",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:10.036373"
+    "exported_at": "2026-01-15T18:29:57.048390"
 }

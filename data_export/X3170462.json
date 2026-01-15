@@ -48,8 +48,8 @@
     "analysis": {
         "keywords": [
             "국민",
-            "울산",
             "대표",
+            "울산",
             "시장",
             "중구",
             "여론조사",
@@ -66,14 +66,14 @@
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 29
-            },
-            {
-                "text": "울산",
-                "value": 15
+                "value": 30
             },
             {
                 "text": "대표",
+                "value": 16
+            },
+            {
+                "text": "울산",
                 "value": 15
             },
             {
@@ -125,29 +125,64 @@
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:58.115182",
+        "last_analyzed_at": "2026-01-15T18:29:44.430339",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
                 1,
                 0,
-                0
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9f297082fcc2b18d4f",
+            "link": "https://n.news.naver.com/mnews/article/023/0003953102?sid=100",
+            "created_at": "2026-01-15T18:04:28.133000",
+            "description": "친한계인 박정훈 국민의힘 의원은 MBC라디오에서 “장동혁 체제로는 선거를 치를 수 없다는 논의가 확 번져갈... 결국 한 전 대표 혼자서 탈당한 뒤 오는 6월 지방선거 또는 국회의원 재·보궐 선거에 나가 당선되는... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/01/15/YNJLREKKKZH3ZGFEIPZMFP4HPI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-15T00:57:00",
+            "related_members": [
+                "X3170462",
+                "4019850M",
+                "KFM1081G",
+                "AEJ19639"
+            ],
+            "title": "韓, 일단 징계무효 소송으로 대응… 張, 강성 지지층 결집해 선거전"
+        },
+        {
+            "_id": "6968ad8b297082fcc2b18cfb",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826152?sid=102",
+            "created_at": "2026-01-15T18:04:08.557000",
+            "description": "조배숙·나경원·서영교·진선미·김미애·최보윤 의원 등 여야 국회의원들도 축하 인사를 보냈다. 허 변호사는 연세대 법학과를 졸업하고 2001년 변호사로 개업했다. 이후 김장리법률사무소, 법무법인 화우 등을 거쳐... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029250118&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-14T15:59:00",
+            "related_members": [
+                "3BC6890E",
+                "TKJ4800F",
+                "SLW27496",
+                "UOS16250",
+                "68P7228G",
+                "IWK63872",
+                "X3170462"
+            ],
+            "title": "허윤정 여성변호사회 신임 회장 취임… “사회적 약자 법률지원 확대”"
+        },
         {
             "_id": "6964b547631fd17434996076",
             "link": "https://n.news.naver.com/mnews/article/421/0008709054?sid=102",
@@ -247,32 +282,6 @@
             "title": "국힘 초재선모임 “민심의 명령 고민해야…당 자기객관화 필요”"
         },
         {
-            "_id": "6964b55c631fd17434996222",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696484?sid=100",
-            "created_at": "2026-01-12T17:48:25.965000",
-            "description": "박성민 정치컨설팅 민 대표가 7일 서울 여의도 국회 의원회관에서 열린 '지금 국민의힘은 어디에 있나? 여론조사를 통해 알아보는 국민의힘 현주소와 나아갈 방향' 토론회에서 발언하고 있다. 2026.01.07.... ",
-            "originallink": "https://www.newsis.com/view/NISI20260107_0021118157",
-            "press": "뉴시스",
-            "pubDate": "2026-01-07T08:37:00",
-            "related_members": [
-                "X3170462"
-            ],
-            "title": "'지금 국민의힘은 어디에 있나?'"
-        },
-        {
-            "_id": "6964b55c631fd1743499621f",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696490?sid=100",
-            "created_at": "2026-01-12T17:48:25.965000",
-            "description": "박성민 정치컨설팅 민 대표가 7일 서울 여의도 국회 의원회관에서 열린 '지금 국민의힘은 어디에 있나? 여론조사를 통해 알아보는 국민의힘 현주소와 나아갈 방향' 토론회에서 발언하고 있다. 2026.01.07.... ",
-            "originallink": "https://www.newsis.com/view/NISI20260107_0021118153",
-            "press": "뉴시스",
-            "pubDate": "2026-01-07T08:37:00",
-            "related_members": [
-                "X3170462"
-            ],
-            "title": "발언하는 박성민 정치컨설팅 민 대표"
-        },
-        {
             "_id": "6964b55c631fd17434996220",
             "link": "https://n.news.naver.com/mnews/article/003/0013696489?sid=100",
             "created_at": "2026-01-12T17:48:25.965000",
@@ -297,6 +306,32 @@
                 "X3170462"
             ],
             "title": "'지금 국민의힘은 어디에 있나?'"
+        },
+        {
+            "_id": "6964b55c631fd17434996222",
+            "link": "https://n.news.naver.com/mnews/article/003/0013696484?sid=100",
+            "created_at": "2026-01-12T17:48:25.965000",
+            "description": "박성민 정치컨설팅 민 대표가 7일 서울 여의도 국회 의원회관에서 열린 '지금 국민의힘은 어디에 있나? 여론조사를 통해 알아보는 국민의힘 현주소와 나아갈 방향' 토론회에서 발언하고 있다. 2026.01.07.... ",
+            "originallink": "https://www.newsis.com/view/NISI20260107_0021118157",
+            "press": "뉴시스",
+            "pubDate": "2026-01-07T08:37:00",
+            "related_members": [
+                "X3170462"
+            ],
+            "title": "'지금 국민의힘은 어디에 있나?'"
+        },
+        {
+            "_id": "6964b55c631fd1743499621f",
+            "link": "https://n.news.naver.com/mnews/article/003/0013696490?sid=100",
+            "created_at": "2026-01-12T17:48:25.965000",
+            "description": "박성민 정치컨설팅 민 대표가 7일 서울 여의도 국회 의원회관에서 열린 '지금 국민의힘은 어디에 있나? 여론조사를 통해 알아보는 국민의힘 현주소와 나아갈 방향' 토론회에서 발언하고 있다. 2026.01.07.... ",
+            "originallink": "https://www.newsis.com/view/NISI20260107_0021118153",
+            "press": "뉴시스",
+            "pubDate": "2026-01-07T08:37:00",
+            "related_members": [
+                "X3170462"
+            ],
+            "title": "발언하는 박성민 정치컨설팅 민 대표"
         },
         {
             "_id": "6964b55c631fd17434996223",
@@ -368,7 +403,7 @@
             "_id": "6964b55c631fd17434996228",
             "link": "https://n.news.naver.com/mnews/article/052/0002296675?sid=100",
             "created_at": "2026-01-12T17:48:25.965000",
-            "description": "아무래도 국회의원실에서 인턴을 하는 것 자체가 여러 면에서 본인에게 스펙을 업그레이드하는 차원일 수... 국민의힘에서는 경찰이 수사를 일부러 안 하는 거 아니냐, 특히 진종오 의원이 강력하게 얘기하고 있는데... ",
+            "description": "■ 진행 : 윤재희 앵커 ■ 출연 : 박성민 전 더불어민주당 최고위원, 이재영 국민의힘 강동을 당협위원장... 아무래도 국회의원실에서 인턴을 하는 것 자체가 여러 면에서 본인에게 스펙을 업그레이드하는 차원일 수 있는... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601060859300720",
             "press": "YTN",
             "pubDate": "2026-01-06T08:59:00",
@@ -447,9 +482,69 @@
             "url": "https://www.youtube.com/watch?v=hI7mi1k3Mto",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:02.479000",
+            "collected_at": "2026-01-15T18:17:20.839000",
             "duration": 123.0,
             "title": "\"박성민 자격 없다\"…해임·자진사퇴 촉구 사이트 등장 [MBN 뉴스와이드 주말]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac85631fd1743497d6d8",
+            "url": "https://www.youtube.com/watch?v=9Kgp3DYTuEo",
+            "HG_NM": "박성민",
+            "MONA_CD": "X3170462",
+            "collected_at": "2026-01-15T18:17:20.054000",
+            "duration": 112.0,
+            "title": "[단독]‘친윤 핵심’ 박성민, 경선 간다 | 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac85631fd1743497d6db",
+            "url": "https://www.youtube.com/watch?v=_Yygd-kfLnQ",
+            "HG_NM": "박성민",
+            "MONA_CD": "X3170462",
+            "collected_at": "2026-01-15T18:17:20.839000",
+            "duration": 3021.0,
+            "title": "[일타 박성민]   \"한동훈, 화법만은 노무현 스타일\" \"1차로 끝? 갤럽 조사 보면 글쎄... \"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac85631fd1743497d6d9",
+            "url": "https://www.youtube.com/watch?v=1TsUvxqoEf0",
+            "HG_NM": "박성민",
+            "MONA_CD": "X3170462",
+            "collected_at": "2026-01-15T18:17:20.054000",
+            "duration": 92.0,
+            "title": "친윤 박성민 \"대통령 밤새도록 내게 전화\" 발언 논란…與 친윤계 잇단 구설",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac85631fd1743497d6d7",
+            "url": "https://www.youtube.com/watch?v=U43i2jdxY7k",
+            "HG_NM": "박성민",
+            "MONA_CD": "X3170462",
+            "collected_at": "2026-01-15T18:17:20.054000",
+            "duration": 91.0,
+            "title": "D-17 박성민 울산 중구 국회의원 후보 길거리인사(구역전시장)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac85631fd1743497d6d5",
+            "url": "https://www.youtube.com/watch?v=leJn-j9i6fk",
+            "HG_NM": "박성민",
+            "MONA_CD": "X3170462",
+            "collected_at": "2026-01-15T18:17:20.054000",
+            "duration": 1778.0,
+            "title": "[뉴스포커스] 박성민 국회의원(국민의힘 전략기획부총장)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac85631fd1743497d6d4",
+            "url": "https://www.youtube.com/watch?v=-z8tjZGkOAE",
+            "HG_NM": "박성민",
+            "MONA_CD": "X3170462",
+            "collected_at": "2026-01-15T18:17:20.054000",
+            "duration": 592.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 박성민 의원(국민의힘)",
             "upload_date": null
         },
         {
@@ -457,7 +552,7 @@
             "url": "https://www.youtube.com/watch?v=u5W3th-rOik",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:01.648000",
+            "collected_at": "2026-01-15T18:17:20.054000",
             "duration": 297.0,
             "title": "큰 일꾼 박성민 울산 중구 국회의원 출정식",
             "upload_date": null
@@ -471,67 +566,7 @@
             "duration": 744.0,
             "title": "21대 국회의원 당선자 초청대담 - 중구 박성민",
             "upload_date": null
-        },
-        {
-            "_id": "6960ac85631fd1743497d6d9",
-            "url": "https://www.youtube.com/watch?v=1TsUvxqoEf0",
-            "HG_NM": "박성민",
-            "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:01.648000",
-            "duration": 92.0,
-            "title": "친윤 박성민 \"대통령 밤새도록 내게 전화\" 발언 논란…與 친윤계 잇단 구설",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac85631fd1743497d6d8",
-            "url": "https://www.youtube.com/watch?v=9Kgp3DYTuEo",
-            "HG_NM": "박성민",
-            "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:01.648000",
-            "duration": 112.0,
-            "title": "[단독]‘친윤 핵심’ 박성민, 경선 간다 | 뉴스A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac85631fd1743497d6d5",
-            "url": "https://www.youtube.com/watch?v=leJn-j9i6fk",
-            "HG_NM": "박성민",
-            "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:01.648000",
-            "duration": 1778.0,
-            "title": "[뉴스포커스] 박성민 국회의원(국민의힘 전략기획부총장)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac85631fd1743497d6d4",
-            "url": "https://www.youtube.com/watch?v=-z8tjZGkOAE",
-            "HG_NM": "박성민",
-            "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:01.648000",
-            "duration": 592.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 박성민 의원(국민의힘)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac85631fd1743497d6d7",
-            "url": "https://www.youtube.com/watch?v=U43i2jdxY7k",
-            "HG_NM": "박성민",
-            "MONA_CD": "X3170462",
-            "collected_at": "2026-01-14T10:18:01.648000",
-            "duration": 91.0,
-            "title": "D-17 박성민 울산 중구 국회의원 후보 길거리인사(구역전시장)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac85631fd1743497d6db",
-            "url": "https://www.youtube.com/watch?v=_Yygd-kfLnQ",
-            "HG_NM": "박성민",
-            "MONA_CD": "X3170462",
-            "collected_at": "2026-01-09T16:21:38.997000",
-            "duration": 3021.0,
-            "title": "[일타 박성민]   \"한동훈, 화법만은 노무현 스타일\" \"1차로 끝? 갤럽 조사 보면 글쎄... \"",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:58.115687"
+    "exported_at": "2026-01-15T18:29:44.430339"
 }

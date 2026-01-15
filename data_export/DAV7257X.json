@@ -48,24 +48,28 @@
     "analysis": {
         "keywords": [
             "전북",
+            "반도체",
             "군산",
             "민주당",
             "조선소",
+            "용인",
             "안호영",
+            "송전탑",
+            "정치권",
+            "출마",
             "정부",
             "김민석",
             "총리",
-            "반도체",
-            "위원장",
-            "후보",
-            "투자",
-            "출마",
-            "차원",
-            "이전"
+            "전북도지사",
+            "대통령"
         ],
         "keyword_frequency": [
             {
                 "text": "전북",
+                "value": 15
+            },
+            {
+                "text": "반도체",
                 "value": 10
             },
             {
@@ -81,8 +85,24 @@
                 "value": 8
             },
             {
+                "text": "용인",
+                "value": 7
+            },
+            {
                 "text": "안호영",
                 "value": 7
+            },
+            {
+                "text": "송전탑",
+                "value": 6
+            },
+            {
+                "text": "정치권",
+                "value": 6
+            },
+            {
+                "text": "출마",
+                "value": 6
             },
             {
                 "text": "정부",
@@ -97,57 +117,64 @@
                 "value": 6
             },
             {
-                "text": "반도체",
+                "text": "전북도지사",
                 "value": 5
             },
             {
-                "text": "위원장",
+                "text": "대통령",
                 "value": 5
-            },
-            {
-                "text": "후보",
-                "value": 5
-            },
-            {
-                "text": "투자",
-                "value": 5
-            },
-            {
-                "text": "출마",
-                "value": 5
-            },
-            {
-                "text": "차원",
-                "value": 4
-            },
-            {
-                "text": "이전",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:10.391061",
+        "last_analyzed_at": "2026-01-15T18:29:57.561057",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
-                0,
                 5,
                 0,
                 0,
                 1,
                 0,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968adbc297082fcc2b18da9",
+            "link": "https://n.news.naver.com/mnews/article/659/0000040476?sid=102",
+            "created_at": "2026-01-15T18:04:57.791000",
+            "description": "전북도지사 출마를 선언한 이원택 국회의원은 용인과 새만금의 동반 성장을 내세워 전북은 후공정을 담당하는 방안을 제시했습니다. 대책위는 이재명 대통령이 언급한 용인 산단의 전력 문제를 강조하는 한편, 오는 20일... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/61526",
+            "press": "MBC",
+            "pubDate": "2026-01-15T16:31:00",
+            "related_members": [
+                "DAV7257X"
+            ],
+            "title": "송전탑반대전북대책위 \"반도체 산단.. 지역 정치권 타협은 패배주의\""
+        },
+        {
+            "_id": "6968adb6297082fcc2b18d93",
+            "link": "https://n.news.naver.com/mnews/article/079/0004105425?sid=102",
+            "created_at": "2026-01-15T18:04:51.436000",
+            "description": "전북 지역 시민사회단체가 김관영 전북도지사와 이원택 국회의원을 향해 용인 반도체 국가산업단지 전면 재검토와 송전탑 건설 백지화 입장을 명확히 밝힐 것을 촉구하고 나섰다. '송전탑건설백지화전북대책위(이하... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6456732?utm_source=naver&utm_medium=article&utm_campaign=20260115113301",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-15T11:34:00",
+            "related_members": [
+                "JC14718Q",
+                "DAV7257X"
+            ],
+            "title": "\"용인 반도체 위한 송전탑 결사 반대\"…시민사회, 정치권 압박"
+        },
         {
             "_id": "6964b551631fd1743499614b",
             "link": "https://n.news.naver.com/mnews/article/003/0013705154?sid=102",
@@ -244,7 +271,7 @@
             "url": "https://www.youtube.com/watch?v=X43-CsiXQ-c",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:44.296000",
+            "collected_at": "2026-01-15T18:21:42.467000",
             "duration": 217.0,
             "title": "이원택은 누구인가",
             "upload_date": null
@@ -254,9 +281,19 @@
             "url": "https://www.youtube.com/watch?v=4dYA_QeyOuk",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-14T10:22:07.477000",
+            "collected_at": "2026-01-15T18:21:43.214000",
             "duration": 112.0,
             "title": "이원택 첫 발전 전략 발표... 선거전 '시동'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7b631fd1743497da78",
+            "url": "https://www.youtube.com/watch?v=UCJzkFirmxeFSFeMpgpDeX3w",
+            "HG_NM": "이원택",
+            "MONA_CD": "DAV7257X",
+            "collected_at": "2026-01-15T18:21:42.467000",
+            "duration": null,
+            "title": "이원택TV",
             "upload_date": null
         },
         {
@@ -264,9 +301,29 @@
             "url": "https://www.youtube.com/watch?v=7ntpheV0Ezc",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-14T10:22:06.712000",
+            "collected_at": "2026-01-15T18:21:42.467000",
             "duration": 2441.0,
             "title": "[LIVE] 팩트체크, 양곡관리법! (w.이원택 국회의원/더불어민주당 전국농어민위원장)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7b631fd1743497da7a",
+            "url": "https://www.youtube.com/watch?v=7DgLca_r2T8",
+            "HG_NM": "이원택",
+            "MONA_CD": "DAV7257X",
+            "collected_at": "2026-01-15T18:21:42.467000",
+            "duration": 123.0,
+            "title": "이원택 “가장 강력한 전북”…도지사 첫 출마 선언 / KBS  2025.10.13.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad7b631fd1743497da7b",
+            "url": "https://www.youtube.com/watch?v=jkEU5KWGnhk",
+            "HG_NM": "이원택",
+            "MONA_CD": "DAV7257X",
+            "collected_at": "2026-01-15T18:21:42.467000",
+            "duration": 115.0,
+            "title": "이원택 도당위원장 사퇴... 전북지사 출마할 듯 (JTV)",
             "upload_date": null
         },
         {
@@ -280,33 +337,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad7b631fd1743497da7a",
-            "url": "https://www.youtube.com/watch?v=7DgLca_r2T8",
+            "_id": "6960ad7b631fd1743497da7d",
+            "url": "https://www.youtube.com/watch?v=r4z0A3EQILc",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-14T10:22:06.712000",
-            "duration": 123.0,
-            "title": "이원택 “가장 강력한 전북”…도지사 첫 출마 선언 / KBS  2025.10.13.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7b631fd1743497da7b",
-            "url": "https://www.youtube.com/watch?v=jkEU5KWGnhk",
-            "HG_NM": "이원택",
-            "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-14T10:22:06.712000",
-            "duration": 115.0,
-            "title": "이원택 도당위원장 사퇴... 전북지사 출마할 듯 (JTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad7b631fd1743497da78",
-            "url": "https://www.youtube.com/watch?v=UCJzkFirmxeFSFeMpgpDeX3w",
-            "HG_NM": "이원택",
-            "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:44.296000",
-            "duration": null,
-            "title": "이원택TV",
+            "collected_at": "2026-01-15T18:21:43.214000",
+            "duration": 192.0,
+            "title": "수능 응원 빙자한 ‘이원택' 홍보?‥ 불법 현수막 논란 (2025.11.06/뉴스데스크/전주MBC)",
             "upload_date": null
         },
         {
@@ -314,21 +351,11 @@
             "url": "https://www.youtube.com/watch?v=fPFJ_SiBcJY",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-09T16:25:45.042000",
+            "collected_at": "2026-01-15T18:21:43.214000",
             "duration": 140.0,
             "title": "[JTV 8 뉴스]  이원택 1심 '면소'...\"처벌 대상 안 돼\"",
             "upload_date": null
-        },
-        {
-            "_id": "6960ad7b631fd1743497da7d",
-            "url": "https://www.youtube.com/watch?v=r4z0A3EQILc",
-            "HG_NM": "이원택",
-            "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-14T10:22:07.477000",
-            "duration": 192.0,
-            "title": "수능 응원 빙자한 ‘이원택' 홍보?‥ 불법 현수막 논란 (2025.11.06/뉴스데스크/전주MBC)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:10.391061"
+    "exported_at": "2026-01-15T18:29:57.561057"
 }

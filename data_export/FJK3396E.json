@@ -52,30 +52,30 @@
     },
     "analysis": {
         "keywords": [
-            "원내대표",
             "민주당",
+            "원내대표",
             "진성준",
             "회의",
+            "국토",
             "전체",
             "출마",
             "원내",
-            "국토",
             "원희룡",
             "양평",
             "고속도로",
             "방문",
             "위원회",
-            "강원",
-            "출사표"
+            "임기",
+            "전략"
         ],
         "keyword_frequency": [
             {
-                "text": "원내대표",
+                "text": "민주당",
                 "value": 22
             },
             {
-                "text": "민주당",
-                "value": 21
+                "text": "원내대표",
+                "value": 20
             },
             {
                 "text": "진성준",
@@ -84,6 +84,10 @@
             {
                 "text": "회의",
                 "value": 11
+            },
+            {
+                "text": "국토",
+                "value": 10
             },
             {
                 "text": "전체",
@@ -95,10 +99,6 @@
             },
             {
                 "text": "원내",
-                "value": 9
-            },
-            {
-                "text": "국토",
                 "value": 9
             },
             {
@@ -122,37 +122,69 @@
                 "value": 7
             },
             {
-                "text": "강원",
-                "value": 6
+                "text": "임기",
+                "value": 7
             },
             {
-                "text": "출사표",
+                "text": "전략",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:26:56.179275",
+        "last_analyzed_at": "2026-01-15T18:29:42.283732",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
                 1,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6968ad9a297082fcc2b18d3f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003421670?sid=100",
+            "created_at": "2026-01-15T18:04:23.294000",
+            "description": "14일 민주당에 따르면 용인 반도체 클러스터의 전북 새만금 이전을 주장해온 안호영 의원(국회... 앞서 한준호 의원은 같은 날 페이스북에 “클러스터 이전 주장은 국가전략산업의 현실과 그간 축적된 정책 결정을 외면한... ",
+            "originallink": "https://www.khan.co.kr/article/202601150600031",
+            "press": "경향신문",
+            "pubDate": "2026-01-15T06:00:00",
+            "related_members": [
+                "FJK3396E",
+                "XEF29171",
+                "JC14718Q",
+                "FYI20317",
+                "JG77046J",
+                "BCQ55105"
+            ],
+            "title": "청와대 “검토 안 해” 발표에도…여당 일각 ‘용인 반도체 이전’ 계속..."
+        },
+        {
+            "_id": "6968ad9a297082fcc2b18d40",
+            "link": "https://n.news.naver.com/mnews/article/421/0008714552?sid=101",
+            "created_at": "2026-01-15T18:04:23.294000",
+            "description": "이날 행사에는 김민석 국무총리와 김이탁 국토교통부 차관, 맹성규 국회 국토교통위원장, 여야 국회의원, 조달청장, 건설단체장 및 건설사 대표 등 700여 명이 참석했다. 행사는 신년 인사 영상 상영, 건설인 격려 덕담... ",
+            "originallink": "https://www.news1.kr/realestate/general/6039205",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T16:38:00",
+            "related_members": [
+                "FJK3396E",
+                "MLH1404S"
+            ],
+            "title": "건설업계, 위기 극복·재도약 다짐…\"안전·디지털·주택 안정 집중\""
+        },
         {
             "_id": "6964b544631fd17434996049",
             "link": "https://n.news.naver.com/mnews/article/079/0004102984?sid=102",
@@ -249,7 +281,7 @@
             "_id": "6964b557631fd174349961cd",
             "link": "https://n.news.naver.com/mnews/article/032/0003418685?sid=100",
             "created_at": "2026-01-12T17:48:21.005000",
-            "description": "권리당원 온라인 투표(20% 비중)는 10~11일, 국회의원 투표(80% 비중)는 11일에 진행하며, 합산한 최종 결과는... 진선미 원내대표 보궐선거관리위원장은 “(지방선거) 공천 과정까지 (이번에 선출되는) 원내대표가 관여하지... ",
+            "description": "권리당원 온라인 투표(20% 비중)는 10~11일, 국회의원 투표(80% 비중)는 11일에 진행하며, 합산한 최종 결과는... 정비하자”(맹성규 의원)는 제안도 나왔다. 당 핵심 관계자는 통화에서 “절차가 진행 중인 상황에서 임기를... ",
             "originallink": "https://www.khan.co.kr/article/202512311708001",
             "press": "경향신문",
             "pubDate": "2025-12-31T17:08:00",
@@ -362,29 +394,19 @@
             "url": "https://www.youtube.com/watch?v=XvlT_Y9XRBY",
             "HG_NM": "맹성규",
             "MONA_CD": "FJK3396E",
-            "collected_at": "2026-01-14T10:17:25.674000",
+            "collected_at": "2026-01-15T18:16:38.959000",
             "duration": 1087.0,
             "title": "[현장연결] 맹성규 \"정부의 운영 패러다임 근본 변화시켜야\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
-            "_id": "6960ac5d631fd1743497d61f",
-            "url": "https://www.youtube.com/watch?v=3rmGMSVkDRE",
-            "HG_NM": "맹성규",
-            "MONA_CD": "FJK3396E",
-            "collected_at": "2026-01-13T09:45:00.763000",
-            "duration": 222.0,
-            "title": "사람을 찾습니다 #더불어민주당 #국회의원 #맹성규 #원희룡 #양평 #고속도로 (국토위 전체회의 2023.09.07)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac5d631fd1743497d61c",
-            "url": "https://www.youtube.com/watch?v=RtwPC6Fp8AM",
+            "_id": "6960ac5d631fd1743497d61d",
+            "url": "https://www.youtube.com/watch?v=MI6RgQeAtco",
             "HG_NM": "맹성규",
             "MONA_CD": "FJK3396E",
             "collected_at": "2026-01-14T10:17:25.044000",
-            "duration": 318.0,
-            "title": "폭탄돌리기 #더불어민주당 #국회의원 #맹성규 #원희룡 #양평 #고속도로 (국토위 전체회의 2023.09.01)",
+            "duration": 214.0,
+            "title": "선택적 카르텔 #더불어민주당 #국회의원 #맹성규 #원희룡 #양평 #고속도로 (국토위 전체회의 2023.09.01)",
             "upload_date": null
         },
         {
@@ -408,11 +430,21 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac5d631fd1743497d61c",
+            "url": "https://www.youtube.com/watch?v=RtwPC6Fp8AM",
+            "HG_NM": "맹성규",
+            "MONA_CD": "FJK3396E",
+            "collected_at": "2026-01-14T10:17:25.044000",
+            "duration": 318.0,
+            "title": "폭탄돌리기 #더불어민주당 #국회의원 #맹성규 #원희룡 #양평 #고속도로 (국토위 전체회의 2023.09.01)",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac5d631fd1743497d61a",
             "url": "https://www.youtube.com/watch?v=GjZc6tLSBgM",
             "HG_NM": "맹성규",
             "MONA_CD": "FJK3396E",
-            "collected_at": "2026-01-14T10:17:25.674000",
+            "collected_at": "2026-01-15T18:16:38.091000",
             "duration": 566.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 맹성규 의원(더불어민주당)",
             "upload_date": null
@@ -422,19 +454,9 @@
             "url": "https://www.youtube.com/watch?v=UCtkD6GdkZG_b9fv2HN5rW_A",
             "HG_NM": "맹성규",
             "MONA_CD": "FJK3396E",
-            "collected_at": "2026-01-14T10:17:25.044000",
+            "collected_at": "2026-01-15T18:16:38.091000",
             "duration": null,
             "title": "맹성규TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac5d631fd1743497d61d",
-            "url": "https://www.youtube.com/watch?v=MI6RgQeAtco",
-            "HG_NM": "맹성규",
-            "MONA_CD": "FJK3396E",
-            "collected_at": "2026-01-14T10:17:25.044000",
-            "duration": 214.0,
-            "title": "선택적 카르텔 #더불어민주당 #국회의원 #맹성규 #원희룡 #양평 #고속도로 (국토위 전체회의 2023.09.01)",
             "upload_date": null
         },
         {
@@ -442,11 +464,21 @@
             "url": "https://www.youtube.com/watch?v=uF9nQoPNJ5w",
             "HG_NM": "맹성규",
             "MONA_CD": "FJK3396E",
-            "collected_at": "2026-01-14T10:17:25.044000",
+            "collected_at": "2026-01-15T18:16:38.091000",
             "duration": 1448.0,
             "title": "국회의원25시_339회 맹성규 의원 편[2018.12.19]",
             "upload_date": null
+        },
+        {
+            "_id": "6960ac5d631fd1743497d61f",
+            "url": "https://www.youtube.com/watch?v=3rmGMSVkDRE",
+            "HG_NM": "맹성규",
+            "MONA_CD": "FJK3396E",
+            "collected_at": "2026-01-13T09:45:00.763000",
+            "duration": 222.0,
+            "title": "사람을 찾습니다 #더불어민주당 #국회의원 #맹성규 #원희룡 #양평 #고속도로 (국토위 전체회의 2023.09.07)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:26:56.179275"
+    "exported_at": "2026-01-15T18:29:42.283732"
 }

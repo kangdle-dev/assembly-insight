@@ -57,29 +57,33 @@
     },
     "analysis": {
         "keywords": [
-            "국힘",
             "국민",
-            "한동훈",
             "대표",
-            "일화",
-            "선언",
+            "국힘",
+            "한동훈",
             "계엄",
-            "지방선거",
-            "특검",
+            "의총",
             "재선",
-            "예찬",
-            "존재",
-            "가장",
-            "약점",
-            "이자"
+            "지방선거",
+            "일화",
+            "출마",
+            "선언",
+            "제명",
+            "징계",
+            "반대",
+            "예찬"
         ],
         "keyword_frequency": [
             {
-                "text": "국힘",
-                "value": 9
+                "text": "국민",
+                "value": 11
             },
             {
-                "text": "국민",
+                "text": "대표",
+                "value": 10
+            },
+            {
+                "text": "국힘",
                 "value": 9
             },
             {
@@ -87,27 +91,11 @@
                 "value": 8
             },
             {
-                "text": "대표",
-                "value": 8
-            },
-            {
-                "text": "일화",
-                "value": 8
-            },
-            {
-                "text": "선언",
-                "value": 8
-            },
-            {
                 "text": "계엄",
                 "value": 7
             },
             {
-                "text": "지방선거",
-                "value": 6
-            },
-            {
-                "text": "특검",
+                "text": "의총",
                 "value": 6
             },
             {
@@ -115,54 +103,106 @@
                 "value": 6
             },
             {
+                "text": "지방선거",
+                "value": 6
+            },
+            {
+                "text": "일화",
+                "value": 6
+            },
+            {
+                "text": "출마",
+                "value": 6
+            },
+            {
+                "text": "선언",
+                "value": 6
+            },
+            {
+                "text": "제명",
+                "value": 5
+            },
+            {
+                "text": "징계",
+                "value": 5
+            },
+            {
+                "text": "반대",
+                "value": 4
+            },
+            {
                 "text": "예찬",
-                "value": 4
-            },
-            {
-                "text": "존재",
-                "value": 4
-            },
-            {
-                "text": "가장",
-                "value": 4
-            },
-            {
-                "text": "약점",
-                "value": 4
-            },
-            {
-                "text": "이자",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-14T10:27:05.070381",
+        "last_analyzed_at": "2026-01-15T18:29:51.821291",
         "trend_news": {
             "labels": [
-                "01-08",
                 "01-09",
                 "01-10",
                 "01-11",
                 "01-12",
                 "01-13",
-                "01-14"
+                "01-14",
+                "01-15"
             ],
             "data": [
                 1,
                 1,
                 1,
                 1,
-                1,
                 3,
-                0
+                0,
+                2
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6968ad87297082fcc2b18cd9",
+            "link": "https://n.news.naver.com/mnews/article/009/0005622308?sid=100",
+            "created_at": "2026-01-15T18:04:04.490000",
+            "description": "이날 최고위 회의 이후 열린 국회에서 열린 의원총회에선 한 전 대표 징계안에 대한 우려가 터져 나왔다.... 의총 첫 발언자로 나선 조경태 국민의힘 의원도 기자들과 만나 “지금 통합과 단합의 시간인데 한 전 대표 제명이... ",
+            "originallink": "https://www.mk.co.kr/article/11934040",
+            "press": "매일경제",
+            "pubDate": "2026-01-15T15:58:00",
+            "related_members": [
+                "LYY5513O",
+                "4019850M",
+                "AEJ19639",
+                "YOG1280B",
+                "MSY7784L",
+                "WXJ8352N",
+                "KFM1081G",
+                "CGW7415Z",
+                "5KV82250"
+            ],
+            "title": "‘韓 제명 의결’ 일단 멈춤…의총은 징계 반대 성토장"
+        },
+        {
+            "_id": "6968ad96297082fcc2b18d2b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008716559?sid=100",
+            "created_at": "2026-01-15T18:04:19.023000",
+            "description": "복수의 참석자에 따르면 이날 오전 국회에서 열린 비공개 의원총회에서 발언에 나선 대다수 의원은 윤리위... 친한계 정성국 의원은 \"(의총 내에서) '지각한 학생을 퇴학시키려는 상황 아니겠나'라는 표현을 하신 분도... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6040343",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T15:13:00",
+            "related_members": [
+                "N378078V",
+                "QWL7778X",
+                "YOG1280B",
+                "MSY7784L",
+                "ZRF3039U",
+                "KFM1081G",
+                "CGW7415Z"
+            ],
+            "title": "\"지각생 퇴학시키나\" 韓 제명, 의총서 우려…張 절차적 '명분 쌓기'"
+        },
+        {
             "_id": "6966ec72887d07f7ba2fb274",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106856&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "부원장 - 장동혁·이준석 만남, 지방선거연대 해석은 앞서간 얘기 - 장동혁, 통일교 특검 미뤄지면 단식 등... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단 어르신들보다... ",
+            "description": "그리고 본질은 안철수 의원이 지적한 것처럼 어떻게 2개의 IP에서 가족 명의 5개의 글이 천 개 이상 나오느냐.... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106856&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-13T20:30:00",
@@ -182,7 +222,7 @@
             "_id": "6966ec72887d07f7ba2fb277",
             "link": "https://n.news.naver.com/mnews/article/052/0002300197?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "부원장 - 장동혁·이준석 만남, 지방선거연대 해석은 앞서간 얘기 - 장동혁, 통일교 특검 미뤄지면 단식 등... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단 어르신들보다... ",
+            "description": "그리고 본질은 안철수 의원이 지적한 것처럼 어떻게 2개의 IP에서 가족 명의 5개의 글이 천 개 이상 나오느냐.... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601131948268946",
             "press": "YTN",
             "pubDate": "2026-01-13T19:48:00",
@@ -271,7 +311,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주·정성호·조정식... ",
+            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -392,36 +432,14 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960a797631fd1743497d076",
-            "url": "https://www.youtube.com/watch?v=CzbiDSkgqks",
-            "HG_NM": "안철수",
-            "MONA_CD": "YOG1280B",
-            "collected_at": "2026-01-09T16:00:28.057000",
-            "duration": 1162.0,
-            "source": "MBC뉴스",
-            "title": "국민의힘 안철수, 내란 특검 출석 요구에 \"협조 생각 없다, 영장 청구하라\" - [끝까지LIVE] MBC 중계방송 2025년 07월 29일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a797631fd1743497d079",
-            "url": "https://www.youtube.com/watch?v=PkeFydR1ZaI",
-            "HG_NM": "안철수",
-            "MONA_CD": "YOG1280B",
-            "collected_at": "2026-01-09T16:00:28.057000",
-            "duration": 475.0,
-            "source": "MBC뉴스",
-            "title": "안철수, '여론조사 통한 단일화' 공식 제안 - [LIVE] MBC 뉴스 2022년 02월 13일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a797631fd1743497d06c",
-            "url": "https://www.youtube.com/watch?v=NWNA4qnCRSE",
+            "_id": "6960a797631fd1743497d073",
+            "url": "https://www.youtube.com/watch?v=EuCY7znew-0",
             "HG_NM": "안철수",
             "MONA_CD": "YOG1280B",
             "collected_at": "2026-01-09T16:00:27.256000",
-            "duration": 831.0,
+            "duration": 342.0,
             "source": "KBS뉴스",
-            "title": "[LIVE] 국민의힘 안철수 당 대표 후보, 긴급 기자회견...내란 특검 관련 및 당 대표 출마 선언 관련/2025년 7월 29일(화)/KBS",
+            "title": "안철수 정계 복귀…이번엔 어떤 길 갈까? / KBS뉴스(News)",
             "upload_date": null
         },
         {
@@ -436,14 +454,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960a797631fd1743497d06d",
-            "url": "https://www.youtube.com/watch?v=n8iw7iacLQI",
+            "_id": "6960a797631fd1743497d06f",
+            "url": "https://www.youtube.com/watch?v=Pz355Sy8gjU",
             "HG_NM": "안철수",
             "MONA_CD": "YOG1280B",
             "collected_at": "2026-01-09T16:00:27.256000",
-            "duration": 2199.0,
+            "duration": 2430.0,
             "source": "KBS뉴스",
-            "title": "[풀영상] 뉴스9 : 안철수, 단일화 제안 일주일 만에 결렬 선언 – 2022년 2월 20일(일) / KBS",
+            "title": "[풀영상] 뉴스7 : 윤석열-안철수 단일화…이재명 “국민 믿어” - 2022년 3월 3일(목) / KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a797631fd1743497d072",
+            "url": "https://www.youtube.com/watch?v=PQGkx204z5w",
+            "HG_NM": "안철수",
+            "MONA_CD": "YOG1280B",
+            "collected_at": "2026-01-09T16:00:27.256000",
+            "duration": 1108.0,
+            "source": "KBS뉴스",
+            "title": "지방선거 대진 윤곽, 안철수 출마 예정…파장은? | KBS뉴스 | KBS NEWS",
             "upload_date": null
         },
         {
@@ -458,14 +487,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960a797631fd1743497d078",
-            "url": "https://www.youtube.com/watch?v=1fl2LRA3els",
+            "_id": "6960a797631fd1743497d06e",
+            "url": "https://www.youtube.com/watch?v=tZfxmXlDy4I",
             "HG_NM": "안철수",
             "MONA_CD": "YOG1280B",
-            "collected_at": "2026-01-09T16:00:28.057000",
-            "duration": 1294.0,
-            "source": "MBC뉴스",
-            "title": "안철수 '단일화 결렬' 선언‥\"나의 길 가겠다\" - [풀영상] MBC 뉴스데스크 2022년 02월 20일",
+            "collected_at": "2026-01-09T16:00:27.256000",
+            "duration": 1151.0,
+            "source": "KBS뉴스",
+            "title": "지방선거 대진표 윤곽, 안철수 출마론…‘야권 연대’ 솔솔? | KBS뉴스 | KBS NEWS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a797631fd1743497d06c",
+            "url": "https://www.youtube.com/watch?v=NWNA4qnCRSE",
+            "HG_NM": "안철수",
+            "MONA_CD": "YOG1280B",
+            "collected_at": "2026-01-09T16:00:27.256000",
+            "duration": 831.0,
+            "source": "KBS뉴스",
+            "title": "[LIVE] 국민의힘 안철수 당 대표 후보, 긴급 기자회견...내란 특검 관련 및 당 대표 출마 선언 관련/2025년 7월 29일(화)/KBS",
             "upload_date": null
         },
         {
@@ -480,27 +520,27 @@
             "upload_date": null
         },
         {
-            "_id": "6960a797631fd1743497d06e",
-            "url": "https://www.youtube.com/watch?v=tZfxmXlDy4I",
+            "_id": "6960a797631fd1743497d06d",
+            "url": "https://www.youtube.com/watch?v=n8iw7iacLQI",
             "HG_NM": "안철수",
             "MONA_CD": "YOG1280B",
             "collected_at": "2026-01-09T16:00:27.256000",
-            "duration": 1151.0,
+            "duration": 2199.0,
             "source": "KBS뉴스",
-            "title": "지방선거 대진표 윤곽, 안철수 출마론…‘야권 연대’ 솔솔? | KBS뉴스 | KBS NEWS",
+            "title": "[풀영상] 뉴스9 : 안철수, 단일화 제안 일주일 만에 결렬 선언 – 2022년 2월 20일(일) / KBS",
             "upload_date": null
         },
         {
-            "_id": "6960a797631fd1743497d073",
-            "url": "https://www.youtube.com/watch?v=EuCY7znew-0",
+            "_id": "6960a797631fd1743497d071",
+            "url": "https://www.youtube.com/watch?v=SbbcCp4JSFQ",
             "HG_NM": "안철수",
             "MONA_CD": "YOG1280B",
             "collected_at": "2026-01-09T16:00:27.256000",
-            "duration": 342.0,
+            "duration": 336.0,
             "source": "KBS뉴스",
-            "title": "안철수 정계 복귀…이번엔 어떤 길 갈까? / KBS뉴스(News)",
+            "title": "“보수 통합 관심 없다”…앞으로 안철수의 길은? / KBS뉴스(News)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-14T10:27:05.070381"
+    "exported_at": "2026-01-15T18:29:51.821291"
 }
