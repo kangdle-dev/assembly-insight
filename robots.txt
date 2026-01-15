@@ -1,0 +1,13 @@
+# 모든 검색 엔진 로봇에 대해 허용
+User-agent: *
+
+# 전체 페이지 크롤링 허용
+Allow: /
+
+# 검색에 노출될 필요가 없는 관리자용 혹은 시스템 폴더 제외 (필요 시)
+Disallow: /build.js
+Disallow: /detail_template.html
+Disallow: /data_export/
+
+# 사이트맵 경로 명시 (검색 엔진이 모든 의원 페이지를 찾는 지도 역할을 함)
+# Sitemap: https://yourdomain.com/sitemap.xml
