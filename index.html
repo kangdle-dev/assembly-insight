@@ -95,9 +95,9 @@
 </div>
 
 <nav class="fixed bottom-0 left-0 right-0 bg-white/90 backdrop-blur-md border-t border-slate-100 flex justify-around py-3 z-50 md:hidden">
-    <button class="flex flex-col items-center gap-1 text-blue-600"><i class="fa-solid fa-home text-lg"></i><span class="text-[9px] font-bold">홈</span></button>
-    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-bolt text-lg"></i><span class="text-[9px]">정책대립</span></button>
-    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-user-shield text-lg"></i><span class="text-[9px]">범죄이력</span></button>
+    <button class="flex flex-col items-center gap-1 text-blue-600"><i class="fa-solid fa-home text-lg"></i><span class="text-[10px] font-bold">홈</span></button>
+    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-bolt text-lg"></i><span class="text-[10px]">정책대립</span></button>
+    <button class="flex flex-col items-center gap-1 text-slate-400"><i class="fa-solid fa-user-shield text-lg"></i><span class="text-[10px]">범죄이력</span></button>
 </nav>
 
 <script>
@@ -270,9 +270,9 @@
                         <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/150x200?text=👤'">
                     </div>
                     <div>
-                        <div class="text-[10px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">${m.CURR_PLPT_NM}</div>
-                        <div class="font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
-                        <div class="text-[9px] text-slate-400 font-bold">${m.CURR_ELECD_NM}</div>
+                        <div class="text-[11px] font-black" style="color: ${getPartyColor(m.CURR_PLPT_NM)}">${m.CURR_PLPT_NM}</div>
+                        <div class="text-[14px] font-bold text-slate-800">${m.NAAS_NM || m.HG_NM}</div>
+                        <div class="text-[10px] text-slate-400 font-bold">${m.CURR_ELECD_NM}</div>
                     </div>
                 </div>
             `;
