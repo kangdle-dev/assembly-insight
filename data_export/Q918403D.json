@@ -42,38 +42,30 @@
     },
     "analysis": {
         "keywords": [
-            "한지",
             "국민",
-            "지아",
-            "국힘",
+            "한지",
             "의료",
             "신년",
             "김병기",
-            "한동훈",
+            "지아",
             "축사",
+            "한동훈",
             "계엄",
-            "방송",
             "서울",
             "회관",
             "토론회",
-            "하례"
+            "하례",
+            "김태현",
+            "동지"
         ],
         "keyword_frequency": [
             {
-                "text": "한지",
-                "value": 24
-            },
-            {
                 "text": "국민",
-                "value": 17
+                "value": 19
             },
             {
-                "text": "지아",
-                "value": 12
-            },
-            {
-                "text": "국힘",
-                "value": 10
+                "text": "한지",
+                "value": 13
             },
             {
                 "text": "의료",
@@ -88,7 +80,7 @@
                 "value": 7
             },
             {
-                "text": "한동훈",
+                "text": "지아",
                 "value": 7
             },
             {
@@ -96,11 +88,11 @@
                 "value": 6
             },
             {
-                "text": "계엄",
+                "text": "한동훈",
                 "value": 6
             },
             {
-                "text": "방송",
+                "text": "계엄",
                 "value": 6
             },
             {
@@ -118,25 +110,33 @@
             {
                 "text": "하례",
                 "value": 5
+            },
+            {
+                "text": "김태현",
+                "value": 5
+            },
+            {
+                "text": "동지",
+                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:08.612896",
+        "last_analyzed_at": "2026-01-18T13:56:47.140549",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 1,
+                0,
+                0,
+                0,
                 0,
                 0
             ]
@@ -345,11 +345,91 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ae46631fd1743497dd75",
+            "url": "https://www.youtube.com/watch?v=8OwPpRzp1I8",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 1035.0,
+            "title": "＂빨리 음성 검사 받으세요!＂ 재활의학과 출신 한지아 의원의 의사식 조크에 당황한 의원들ㅋㅋ｜특집 썰전｜JTBC 250226 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae46631fd1743497dd76",
+            "url": "https://www.youtube.com/watch?v=HYalOXAShlc",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:10.510000",
+            "duration": 987.0,
+            "title": "[뉴스하이킥] '계엄해제 표결 참여' 국민의힘 한지아가 말하는 계엄 그리고 지난 1년 - 한지아, MBC 251201 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae46631fd1743497dd77",
+            "url": "https://www.youtube.com/watch?v=moe114d2sdk",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 313.0,
+            "title": "\"'스쿨존 가중처벌' 발의했는데 본인 과태료는 장관 지명 이후 납부?\" 한지아 국민의힘 의원 | 강선우 여가부 장관 후보자 인사청문회 (25.7.14.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae46631fd1743497dd78",
+            "url": "https://www.youtube.com/watch?v=LNQ5upucbFE",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 338.0,
+            "title": "강선우 \"존경하는 위원님께서...\" 한지아 \"저를 존경하지 마세요, 보좌진을 존중하세요\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae46631fd1743497dd79",
+            "url": "https://www.youtube.com/watch?v=tLNt3BvOYRc",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 1721.0,
+            "title": "한지아 “107명 국힘의원, 함께 사과 메시지 내야” 이재영 \"당원 7 공천룰, 박절한 사과에 회의적\" [한판승부]",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f075887d07f7ba2fb560",
+            "url": "https://www.youtube.com/watch?v=wnV50K_LjoE",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 892.0,
+            "title": "비상계엄부터 탄핵까지, 국민의힘 한지아 의원이 거쳐온 선택의 순간들 | 그날그곳",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f075887d07f7ba2fb562",
+            "url": "https://www.youtube.com/watch?v=zQCI2_3ZaqE",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 1181.0,
+            "title": "[단도직입] 한지아가 말하는 '국힘 쇄신'…한동훈 당권 도전? 예상은 / JTBC 오대영 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f075887d07f7ba2fb561",
+            "url": "https://www.youtube.com/watch?v=9pbtGKDaaT4",
+            "HG_NM": "한지아",
+            "MONA_CD": "Q918403D",
+            "collected_at": "2026-01-18T13:22:09.478000",
+            "duration": 1043.0,
+            "title": "[김태현의 정치쇼] 한지아 \"9월 전 전대 해야…한동훈 당권도전? 친한계도 6:4\" | 이너:뷰 250611(수)",
+            "upload_date": null
+        },
+        {
             "_id": "6966f075887d07f7ba2fb563",
             "url": "https://www.youtube.com/watch?v=R5GIG3dLacI",
             "HG_NM": "한지아",
             "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:20.771000",
+            "collected_at": "2026-01-18T13:22:10.510000",
             "duration": 1042.0,
             "title": "[김태현의 정치쇼] 한지아 \"한동훈, 장동혁에 '동지가 되자'는 것…본인이 당게 매듭지을듯\" |이너:뷰 251225(목)",
             "upload_date": null
@@ -359,91 +439,31 @@
             "url": "https://www.youtube.com/watch?v=JGuU0n1ouWQ",
             "HG_NM": "한지아",
             "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:20.771000",
+            "collected_at": "2026-01-18T13:22:10.510000",
             "duration": 71.0,
             "title": "한지아 국힘 의원 \"계엄 해제, 국회 반드시 모이자 했더니...어떤 의원은 선동하면 안된다고 하더라\"｜지금 이 장면",
             "upload_date": null
         },
         {
-            "_id": "6960ae46631fd1743497dd79",
-            "url": "https://www.youtube.com/watch?v=tLNt3BvOYRc",
+            "_id": "6966f075887d07f7ba2fb565",
+            "url": "https://www.youtube.com/watch?v=ti0Fp6GN9mA",
             "HG_NM": "한지아",
             "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 1721.0,
-            "title": "한지아 “107명 국힘의원, 함께 사과 메시지 내야” 이재영 \"당원 7 공천룰, 박절한 사과에 회의적\" [한판승부]",
+            "collected_at": "2026-01-14T10:25:09.778000",
+            "duration": 118.0,
+            "title": "친한동훈계 한지아 \"지금이 정중하게 윤석열 탈당 권고할 때인가? 김문수가 출당 결단 내려야\"｜지금 이 뉴스",
             "upload_date": null
         },
         {
-            "_id": "6966f075887d07f7ba2fb561",
-            "url": "https://www.youtube.com/watch?v=9pbtGKDaaT4",
+            "_id": "6966f075887d07f7ba2fb566",
+            "url": "https://www.youtube.com/watch?v=FOfZAcoTuog",
             "HG_NM": "한지아",
             "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 1043.0,
-            "title": "[김태현의 정치쇼] 한지아 \"9월 전 전대 해야…한동훈 당권도전? 친한계도 6:4\" | 이너:뷰 250611(수)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f075887d07f7ba2fb560",
-            "url": "https://www.youtube.com/watch?v=wnV50K_LjoE",
-            "HG_NM": "한지아",
-            "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 892.0,
-            "title": "비상계엄부터 탄핵까지, 국민의힘 한지아 의원이 거쳐온 선택의 순간들 | 그날그곳",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae46631fd1743497dd78",
-            "url": "https://www.youtube.com/watch?v=LNQ5upucbFE",
-            "HG_NM": "한지아",
-            "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 338.0,
-            "title": "강선우 \"존경하는 위원님께서...\" 한지아 \"저를 존경하지 마세요, 보좌진을 존중하세요\" [현장영상] / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae46631fd1743497dd76",
-            "url": "https://www.youtube.com/watch?v=HYalOXAShlc",
-            "HG_NM": "한지아",
-            "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:20.771000",
-            "duration": 987.0,
-            "title": "[뉴스하이킥] '계엄해제 표결 참여' 국민의힘 한지아가 말하는 계엄 그리고 지난 1년 - 한지아, MBC 251201 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae46631fd1743497dd75",
-            "url": "https://www.youtube.com/watch?v=8OwPpRzp1I8",
-            "HG_NM": "한지아",
-            "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 1035.0,
-            "title": "＂빨리 음성 검사 받으세요!＂ 재활의학과 출신 한지아 의원의 의사식 조크에 당황한 의원들ㅋㅋ｜특집 썰전｜JTBC 250226 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae46631fd1743497dd77",
-            "url": "https://www.youtube.com/watch?v=moe114d2sdk",
-            "HG_NM": "한지아",
-            "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 313.0,
-            "title": "\"'스쿨존 가중처벌' 발의했는데 본인 과태료는 장관 지명 이후 납부?\" 한지아 국민의힘 의원 | 강선우 여가부 장관 후보자 인사청문회 (25.7.14.) | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f075887d07f7ba2fb562",
-            "url": "https://www.youtube.com/watch?v=zQCI2_3ZaqE",
-            "HG_NM": "한지아",
-            "MONA_CD": "Q918403D",
-            "collected_at": "2026-01-15T18:25:19.931000",
-            "duration": 1181.0,
-            "title": "[단도직입] 한지아가 말하는 '국힘 쇄신'…한동훈 당권 도전? 예상은 / JTBC 오대영 라이브",
+            "collected_at": "2026-01-18T13:22:10.510000",
+            "duration": 1235.0,
+            "title": "[더in터뷰] 한지아 국민의힘 의원 \"3대특검, 당론에도 찬성표…결과에 의문 들어 안타깝다\" / JTBC 이가혁 라이브",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:08.612896"
+    "exported_at": "2026-01-18T13:56:47.140628"
 }

@@ -53,28 +53,28 @@
     "analysis": {
         "keywords": [
             "윤한",
-            "장동혁",
+            "장동",
             "계엄",
             "윤석열",
             "국민",
             "사과",
-            "단독",
-            "면전",
-            "원조",
-            "친윤",
-            "정무",
-            "이상",
             "계약",
-            "쿠팡",
-            "이후"
+            "단독",
+            "원조",
+            "업체",
+            "지시",
+            "의결",
+            "대표",
+            "이상",
+            "쿠팡"
         ],
         "keyword_frequency": [
             {
                 "text": "윤한",
-                "value": 29
+                "value": 17
             },
             {
-                "text": "장동혁",
+                "text": "장동",
                 "value": 13
             },
             {
@@ -94,11 +94,11 @@
                 "value": 7
             },
             {
-                "text": "단독",
-                "value": 6
+                "text": "계약",
+                "value": 7
             },
             {
-                "text": "면전",
+                "text": "단독",
                 "value": 6
             },
             {
@@ -106,11 +106,19 @@
                 "value": 6
             },
             {
-                "text": "친윤",
+                "text": "업체",
                 "value": 6
             },
             {
-                "text": "정무",
+                "text": "지시",
+                "value": 6
+            },
+            {
+                "text": "의결",
+                "value": 5
+            },
+            {
+                "text": "대표",
                 "value": 5
             },
             {
@@ -118,37 +126,29 @@
                 "value": 5
             },
             {
-                "text": "계약",
-                "value": 5
-            },
-            {
                 "text": "쿠팡",
-                "value": 4
-            },
-            {
-                "text": "이후",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:54.895935",
+        "last_analyzed_at": "2026-01-18T13:56:31.706742",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 1,
+                0,
+                0,
                 1,
                 0,
-                1,
                 0,
-                0,
-                1
+                0
             ]
         }
     },
@@ -351,11 +351,91 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad48631fd1743497d9c3",
+            "url": "https://www.youtube.com/watch?v=spHNeCj9JFg",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:22.966000",
+            "duration": 466.0,
+            "title": "[현장영상] 윤한홍 뜻밖의 발언에 '당황'…옆 의원 표정이 점점 굳더니 / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9c4",
+            "url": "https://www.youtube.com/watch?v=6rHkLAeAoF0",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:22.966000",
+            "duration": 1059.0,
+            "title": "윤한홍, '의대 정원 사과' 건의 하자 \"윤, 격노하며 욕해\"  / JTBC 이가혁 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9c5",
+            "url": "https://www.youtube.com/watch?v=PQ3XQVIq5XA",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:22.966000",
+            "duration": 529.0,
+            "title": "'원조 친윤' 윤한홍 장동혁 면전서 “똥 묻은 개” [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9c6",
+            "url": "https://www.youtube.com/watch?v=6n3pzkmKlI0",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:22.966000",
+            "duration": 122.0,
+            "title": "\"이런 얘기 더 이상 안 된다\"…윤한홍, 장동혁 면전서 \"계엄 사과·윤 절연하라\"｜지금 이 장면",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9c7",
+            "url": "https://www.youtube.com/watch?v=Aesp0XenRuY",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:23.918000",
+            "duration": 2039.0,
+            "title": "\"똥 묻은 개가…\" 장동혁 면전서 면박 준 '원조 친윤' 윤한홍 [뉴스와이드]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9c8",
+            "url": "https://www.youtube.com/watch?v=8UWMoTP2rVg",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:23.918000",
+            "duration": 460.0,
+            "title": "[지금뉴스] 원조 ‘친윤’ 윤한홍 “윤석열과 절연이 이재명에 복수하는 것” / KBS 2025.12.05.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9c9",
+            "url": "https://www.youtube.com/watch?v=UCwAQlslOvR_fCKJ8qYdee6w",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:22.966000",
+            "duration": null,
+            "title": "윤한홍희망TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad48631fd1743497d9ca",
+            "url": "https://www.youtube.com/watch?v=N7d95wGGv_c",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-01-18T13:17:23.918000",
+            "duration": 119.0,
+            "title": "윤한홍 \"윤석열에게 사과하고 의대 정원 수정하라 했더니 전화기 못 들 정도로 화내면서 욕하더라\"｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
             "_id": "69659667887d07f7ba2fad54",
             "url": "https://www.youtube.com/watch?v=1k-n8j7QJDg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:49.051000",
+            "collected_at": "2026-01-18T13:17:23.918000",
             "duration": 132.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" / JTBC 뉴스룸",
             "upload_date": null
@@ -365,91 +445,21 @@
             "url": "https://www.youtube.com/watch?v=vGHYN3pKR0I",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:49.051000",
+            "collected_at": "2026-01-18T13:17:23.918000",
             "duration": 747.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" [이슈PLAY] / JTBC News",
             "upload_date": null
         },
         {
-            "_id": "6960ad48631fd1743497d9c7",
-            "url": "https://www.youtube.com/watch?v=Aesp0XenRuY",
+            "_id": "69659667887d07f7ba2fad56",
+            "url": "https://www.youtube.com/watch?v=0G9GmfxS-Po",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:49.051000",
-            "duration": 2039.0,
-            "title": "\"똥 묻은 개가…\" 장동혁 면전서 면박 준 '원조 친윤' 윤한홍 [뉴스와이드]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9ca",
-            "url": "https://www.youtube.com/watch?v=N7d95wGGv_c",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:49.051000",
-            "duration": 119.0,
-            "title": "윤한홍 \"윤석열에게 사과하고 의대 정원 수정하라 했더니 전화기 못 들 정도로 화내면서 욕하더라\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9c8",
-            "url": "https://www.youtube.com/watch?v=8UWMoTP2rVg",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:49.051000",
-            "duration": 460.0,
-            "title": "[지금뉴스] 원조 ‘친윤’ 윤한홍 “윤석열과 절연이 이재명에 복수하는 것” / KBS 2025.12.05.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9c6",
-            "url": "https://www.youtube.com/watch?v=6n3pzkmKlI0",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:48.242000",
-            "duration": 122.0,
-            "title": "\"이런 얘기 더 이상 안 된다\"…윤한홍, 장동혁 면전서 \"계엄 사과·윤 절연하라\"｜지금 이 장면",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9c4",
-            "url": "https://www.youtube.com/watch?v=6rHkLAeAoF0",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:48.242000",
-            "duration": 1059.0,
-            "title": "윤한홍, '의대 정원 사과' 건의 하자 \"윤, 격노하며 욕해\"  / JTBC 이가혁 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9c3",
-            "url": "https://www.youtube.com/watch?v=spHNeCj9JFg",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:48.242000",
-            "duration": 466.0,
-            "title": "[현장영상] 윤한홍 뜻밖의 발언에 '당황'…옆 의원 표정이 점점 굳더니 / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9c5",
-            "url": "https://www.youtube.com/watch?v=PQ3XQVIq5XA",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:48.242000",
-            "duration": 529.0,
-            "title": "'원조 친윤' 윤한홍 장동혁 면전서 “똥 묻은 개” [현장영상] / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad48631fd1743497d9c9",
-            "url": "https://www.youtube.com/watch?v=UCwAQlslOvR_fCKJ8qYdee6w",
-            "HG_NM": "윤한홍",
-            "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-15T18:20:48.242000",
-            "duration": null,
-            "title": "윤한홍희망TV",
+            "collected_at": "2026-01-13T09:48:37.970000",
+            "duration": 83.0,
+            "title": "\"김건희가 찍은 업체\"…21그램 계약 지시한 윤한홍 #JTBC #Shorts",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:54.895935"
+    "exported_at": "2026-01-18T13:56:31.706819"
 }

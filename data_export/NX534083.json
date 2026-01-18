@@ -42,107 +42,287 @@
     },
     "analysis": {
         "keywords": [
-            "이혜훈",
-            "후보자",
-            "국민",
             "댓글",
+            "이혜훈",
+            "국민",
+            "녹취",
+            "후보자",
+            "지시",
+            "선거",
+            "단독",
             "투표",
+            "작업",
+            "입수",
             "국적",
-            "병역",
-            "조국",
-            "의혹",
-            "폭언",
-            "논란",
-            "청문",
-            "장동혁",
-            "혁신",
-            "대표"
+            "수석",
+            "보좌진",
+            "논란"
         ],
         "keyword_frequency": [
             {
-                "text": "이혜훈",
-                "value": 22
+                "text": "댓글",
+                "value": 47
             },
             {
-                "text": "후보자",
-                "value": 20
+                "text": "이혜훈",
+                "value": 38
             },
             {
                 "text": "국민",
-                "value": 15
+                "value": 26
             },
             {
-                "text": "댓글",
-                "value": 15
+                "text": "녹취",
+                "value": 23
+            },
+            {
+                "text": "후보자",
+                "value": 21
+            },
+            {
+                "text": "지시",
+                "value": 18
+            },
+            {
+                "text": "선거",
+                "value": 17
+            },
+            {
+                "text": "단독",
+                "value": 16
             },
             {
                 "text": "투표",
                 "value": 15
             },
             {
+                "text": "작업",
+                "value": 14
+            },
+            {
+                "text": "입수",
+                "value": 14
+            },
+            {
                 "text": "국적",
                 "value": 14
             },
             {
-                "text": "병역",
+                "text": "수석",
                 "value": 12
             },
             {
-                "text": "조국",
+                "text": "보좌진",
                 "value": 12
-            },
-            {
-                "text": "의혹",
-                "value": 12
-            },
-            {
-                "text": "폭언",
-                "value": 11
             },
             {
                 "text": "논란",
-                "value": 10
-            },
-            {
-                "text": "청문",
-                "value": 10
-            },
-            {
-                "text": "장동혁",
-                "value": 10
-            },
-            {
-                "text": "혁신",
-                "value": 9
-            },
-            {
-                "text": "대표",
-                "value": 9
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:44.701324",
+        "last_analyzed_at": "2026-01-18T13:56:20.443273",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                4,
-                6,
-                1,
                 5,
                 2,
                 0,
-                0
+                3,
+                6,
+                3,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c02297082fcc2b19bab",
+            "link": "https://n.news.naver.com/mnews/article/421/0008720052?sid=100",
+            "created_at": "2026-01-18T13:05:22.347000",
+            "description": "김남준 청와대 대변인은 이 대통령의 지역구였던 인천 계양을 국회의원 보궐선거에 출마할 것으로 예상된다.... 반면 국민의힘 박성훈 수석대변인은 논평을 통해 \"청와대 인사들이 지방선거 출마를 위해 사퇴 시점을... ",
+            "originallink": "https://www.news1.kr/politics/president/6042476",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T10:43:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "'강원지사 도전' 우상호 사퇴 임박…李청와대 1기 지각변동"
+        },
+        {
+            "_id": "696c5be4297082fcc2b19b5f",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302177?sid=100",
+            "created_at": "2026-01-18T13:04:52.147000",
+            "description": "[정광재] 저는 정청래 민주당 대표가 정말 거대 여당의 대표로서 그리고 같이 국회에서 입법활동을 하고 있는 국회의원으로서 과연 동업자 정신이라는 게 있는지 물어보지 않을 수 없을 것 같습니다. 지금 야당 대표는... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601172224508956",
+            "press": "YTN",
+            "pubDate": "2026-01-17T22:24:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "NX534083",
+                "4X525582",
+                "MDC3257K",
+                "6EN68926",
+                "EH27538E",
+                "KFM1081G",
+                "2385336L"
+            ],
+            "title": "윤 '징역 5년' 첫 법적 판단...\"2차 특검\" vs \"쌍특검\""
+        },
+        {
+            "_id": "696c5c02297082fcc2b19bac",
+            "link": "https://n.news.naver.com/mnews/article/016/0002587161?sid=100",
+            "created_at": "2026-01-18T13:05:22.347000",
+            "description": "김남준 청와대 대변인은 이 대통령의 지역구였던 인천 계양을 국회의원 보궐선거 출마가 점쳐진다.... 박성훈 국민의힘 수석대변인은 이날 논평에서 “국정을 총괄하는 청와대 참모들이 일은 뒷전이고 마음은 콩밭에 가... ",
+            "originallink": "https://biz.heraldcorp.com/article/10657457?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-17T12:35:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "지방선거 靑 ‘이재명 1기 참모진’ 출마설 솔솔…野 “공직=스펙?”"
+        },
+        {
+            "_id": "696c5bec297082fcc2b19b82",
+            "link": "https://n.news.naver.com/mnews/article/023/0003953617?sid=100",
+            "created_at": "2026-01-18T13:05:00.172000",
+            "description": "당초 정부 측은 일부 여야 국회의원에게 대전과 충남에 각각 연 1조2000억원가량 지원하는 통합 인센티브안을... 국민의힘 박성훈 수석대변인은 “파격적인 지원책을 내놨다지만 내용을 뜯어보면 지방이 요구해온 권한... ",
+            "originallink": "https://www.chosun.com/politics/goverment/2026/01/17/HTKTB7PZCRHS7EP2UQTCU4R53I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-17T05:05:00",
+            "related_members": [
+                "MLH1404S",
+                "NX534083"
+            ],
+            "title": "[단독] 통합 특별시에 4년간 40조… 靑 한마디에 지원액 2배됐다"
+        },
+        {
+            "_id": "6969b972297082fcc2b19473",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106488?sid=100",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "측은 기억이 안난다면서도 상처를 받은 분께 사과드리고 반성한다고 밝혔습니다. KBS 뉴스 이유민입니다. 촬영기자:유용규/영상편집:신남규/그래픽:박미주/자료제공:국민의힘 박성훈 의원실(국회 재정경제기획위원회)",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8461087&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-16T12:30:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, ‘댓글 작업’ 지시 녹취 입수…“○○한 댓글을 달아야..."
+        },
+        {
+            "_id": "6969b972297082fcc2b19472",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101123?sid=101",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "이혜훈 기획예산처 장관 후보자가 국회의원 재직 시절 보좌진에게 자신에게 유리하도록 인터넷 댓글을 달도록 지시했다는 녹취가 공개됐다. 박성훈 국민의힘 의원실이 확보한 통화 녹취에 따르면, 이 후보자는 자신의... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202601165040b",
+            "press": "한국경제",
+            "pubDate": "2026-01-16T12:30:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "\"댓글 지시했는데 보좌관들이 뭐하나\"···이혜훈, 이번엔 '댓글 조작'..."
+        },
+        {
+            "_id": "6969b972297082fcc2b19474",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106361?sid=100",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "측은 기억이 안난다면서도 상처를 받은 분께 사과드리고 반성한다고 밝혔습니다. KBS 뉴스 이유민입니다. 촬영기자:유용규/영상편집:신남규/그래픽:박미주/자료제공:국민의힘 박성훈 의원실(국회 재정경제기획위원회)",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460877&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-16T10:18:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, ‘댓글 작업’ 지시 녹취 입수…“OO한 댓글을 달아야지..."
+        },
+        {
+            "_id": "6969b972297082fcc2b19475",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106299?sid=100",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "측은 기억이 안난다면서도 상처를 받은 분께 사과드리고 반성한다고 밝혔습니다. KBS 뉴스 이유민입니다. 촬영기자:유용규/영상편집:신남규/그래픽:박미주/자료제공:국민의힘 박성훈 의원실(국회 재정경제기획위원회)",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460843&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-16T09:38:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, ‘댓글 작업’ 지시 녹취 입수…“○○한 댓글을 달아야..."
+        },
+        {
+            "_id": "6969b972297082fcc2b19476",
+            "link": "https://n.news.naver.com/mnews/article/009/0005622573?sid=100",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "국민의힘 소속 재정경제기획위원회 위원인 박수영·이종욱·박성훈 의원은 이날 국회에서 기자회견을 열고 “이 후보자가 빈껍데기 자료로 국민과 국회를 기만하고 있다”며 “인사청문회를 연기할 것을 여당에... ",
+            "originallink": "https://www.mk.co.kr/article/11934704",
+            "press": "매일경제",
+            "pubDate": "2026-01-16T07:39:00",
+            "related_members": [
+                "NLS46526",
+                "FU87526G",
+                "NX534083"
+            ],
+            "title": "‘부정청약 논란’ 이혜훈 “국가기관 조사 결과 따르겠다”…자녀의혹..."
+        },
+        {
+            "_id": "6969b972297082fcc2b19477",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106238?sid=100",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "측은 기억이 안난다면서도 상처를 받은 분께 사과드리고 반성한다고 밝혔습니다. KBS 뉴스 이유민입니다. 촬영기자:유용규/영상편집:신남규/그래픽:박미주/자료제공:국민의힘 박성훈 의원실(국회 재정경제기획위원회)",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460637&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-16T06:25:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, ‘댓글 작업’ 지시 녹취 입수…“○○한 댓글을 달아야..."
+        },
+        {
+            "_id": "696902ce297082fcc2b19281",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106178?sid=100",
+            "created_at": "2026-01-16T00:07:57.983000",
+            "description": "측은 기억이 안난다면서도 상처를 받은 분께 사과드리고 반성한다고 밝혔습니다. KBS 뉴스 이유민입니다. 촬영기자:유용규/영상편집:신남규/그래픽:박미주/자료제공:국민의힘 박성훈 의원실(국회 재정경제기획위원회)",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460544&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T22:56:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, ‘댓글 작업’ 지시 녹취 입수…“○○한 댓글을 달아야..."
+        },
+        {
+            "_id": "696902ce297082fcc2b19282",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106025?sid=100",
+            "created_at": "2026-01-16T00:07:57.983000",
+            "description": "측은 기억이 안난다면서도 상처를 받은 분께 사과드리고 반성한다고 밝혔습니다. KBS 뉴스 이유민입니다. 촬영기자:유용규/영상편집:신남규/그래픽:박미주/자료제공:국민의힘 박성훈 의원실(국회 재정경제기획위원회)",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460359&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T21:12:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, ‘댓글 작업’ 지시 녹취 입수…“○○한 댓글을 달아야..."
+        },
+        {
+            "_id": "696902ce297082fcc2b19283",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106017?sid=100",
+            "created_at": "2026-01-16T00:07:57.983000",
+            "description": "이혜훈 기획예산처 장관 후보자가 국회의원 시절 보좌진을 동원해 자신에게 유리하도록 댓글로 여론조성을 지시한 것으로 확인됐습니다. 국민의힘 박성훈 의원실과 KBS가 확보한 이 후보자와 보좌진간의 통화 녹취에서 이... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460350&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-15T20:45:00",
+            "related_members": [
+                "NX534083"
+            ],
+            "title": "[단독] 이혜훈, 보좌진 ‘댓글 작업’ 지시 녹취 입수"
+        },
         {
             "_id": "6966ec8d887d07f7ba2fb2e4",
             "link": "https://n.news.naver.com/mnews/article/056/0012103611?sid=100",
@@ -398,52 +578,6 @@
                 "YGB8604T"
             ],
             "title": "한밤중 전화로 \"똥오줌 못 가려?…이혜훈 폭언 또 공개"
-        },
-        {
-            "_id": "6964b55d631fd1743499623d",
-            "link": "https://n.news.naver.com/mnews/article/003/0013702278?sid=100",
-            "created_at": "2026-01-12T17:48:26.570000",
-            "description": "박성훈 수석대변인은 이날 논평에서 \"관계 당국은 이 후보자의 부정 청약 여부와 재산 축소 신고 의혹에 대해... 주진우 국민의힘 의원이 공개한 파일에 따르면, 이 후보자는 과거 국회의원 시절 자신의 이름이 언급된 언론... ",
-            "originallink": "https://www.newsis.com/view/NISX20260109_0003471699",
-            "press": "뉴시스",
-            "pubDate": "2026-01-09T16:48:00",
-            "related_members": [
-                "NX534083",
-                "GJK57930"
-            ],
-            "title": "국힘 \"이혜훈, 폭언·갑질에 불법·탈법 의혹까지…즉각 사퇴하라\""
-        },
-        {
-            "_id": "6964b55d631fd1743499623e",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696009?sid=101",
-            "created_at": "2026-01-12T17:48:26.570000",
-            "description": "아울러 이날 이 후보자에게는 국회 산하 법인 '한국여성의정' 대표를 맡았던 2024년 당시 '고역 연구용역'을 남발해 예산을 방만하게 운용했다는 의혹도 제기됐다. 박성훈 국민의힘 의원실에 따르면 이 후보자는... ",
-            "originallink": "https://www.newsis.com/view/NISX20260106_0003467362",
-            "press": "뉴시스",
-            "pubDate": "2026-01-06T17:17:00",
-            "related_members": [
-                "NX534083"
-            ],
-            "title": "이혜훈, 자녀 증여세 의혹 \"세금 완납\"…부실 연구용역 지적 \"사실 아냐..."
-        },
-        {
-            "_id": "6964b568631fd174349962e7",
-            "link": "https://n.news.naver.com/mnews/article/079/0004099570?sid=102",
-            "created_at": "2026-01-12T17:48:37.294000",
-            "description": "부산 초선 국회의원은 곽규택(서·동구), 박성훈(북구을), 서지영(동래), 정성국(부산진갑), 정연욱(수영), 조승환(중·영도), 주진우(해운대갑) 의원이다. 이들 중 다수는 2022년 지방선거로 당선된 현 기초단체장들과 정치적... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6448320?utm_source=naver&utm_medium=article&utm_campaign=20251226082841",
-            "press": "노컷뉴스",
-            "pubDate": "2025-12-26T17:27:00",
-            "related_members": [
-                "CGW7415Z",
-                "P7U7800Z",
-                "ME83002L",
-                "8XE7026P",
-                "GJK57930",
-                "NX534083",
-                "REG96285"
-            ],
-            "title": "현역 프리미엄 흔들리는 기초단체장 평가…당협위원장 '셈법' 달라졌다"
         }
     ],
     "recent_videos": [
@@ -452,7 +586,7 @@
             "url": "https://www.youtube.com/watch?v=UC0g4nQxN7lc0DNut2vUGFcQ",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-15T18:17:25.035000",
+            "collected_at": "2026-01-18T13:13:40.105000",
             "duration": null,
             "title": "국회의원 박성훈",
             "upload_date": null
@@ -462,7 +596,7 @@
             "url": "https://www.youtube.com/watch?v=ZjYC0fuKzzc",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-15T18:17:25.035000",
+            "collected_at": "2026-01-18T13:13:40.105000",
             "duration": 72.0,
             "title": "예비경선 결과발표! 예비후보 박성훈의 반응은??",
             "upload_date": null
@@ -472,7 +606,7 @@
             "url": "https://www.youtube.com/watch?v=YEP4eBfFmSk",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-15T18:17:26.076000",
+            "collected_at": "2026-01-18T13:13:41.163000",
             "duration": 257.0,
             "title": "[스타뉴스룸] '드라마 하차' 박성훈, “‘오겜2’ 음란물, 본 적 없다!” 눈물의 3차 해명에도...  / YTN star",
             "upload_date": null
@@ -482,7 +616,7 @@
             "url": "https://www.youtube.com/watch?v=KjaqkYwzzrc",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-14T10:18:06.456000",
+            "collected_at": "2026-01-18T13:13:40.105000",
             "duration": 604.0,
             "title": "흙수저 고백 , #박성훈 의원",
             "upload_date": null
@@ -492,7 +626,7 @@
             "url": "https://www.youtube.com/watch?v=Rf2ZJ8ffai8",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-14T10:18:06.456000",
+            "collected_at": "2026-01-18T13:13:40.105000",
             "duration": 101.0,
             "title": "[현장영상+] 박성훈 \"제자 논문 도둑질 이진숙 후보자 등 질타 목소리\" / YTN",
             "upload_date": null
@@ -502,7 +636,7 @@
             "url": "https://www.youtube.com/watch?v=ddb_HFpWakQ",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-14T10:18:06.456000",
+            "collected_at": "2026-01-18T13:13:40.105000",
             "duration": 211.0,
             "title": "국민의힘 박성훈 의원,장관 인선 관련 기자회견 2",
             "upload_date": null
@@ -512,7 +646,7 @@
             "url": "https://www.youtube.com/watch?v=MjjC2veS7Z0",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-14T10:18:06.456000",
+            "collected_at": "2026-01-18T13:13:40.105000",
             "duration": 99.0,
             "title": "원희룡 (전)국토부 장관, 나경원 (전)의원 응원메시지 [박성훈 북구을 국회의원 예비후보]",
             "upload_date": null
@@ -522,7 +656,7 @@
             "url": "https://www.youtube.com/watch?v=VHoQnaKqme8",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-14T10:18:07.274000",
+            "collected_at": "2026-01-18T13:13:41.163000",
             "duration": 61.0,
             "title": "‘성인물 게시 논란’ 박성훈, 드라마 하차 [잇슈 컬처] / KBS  2025.01.13.",
             "upload_date": null
@@ -532,11 +666,11 @@
             "url": "https://www.youtube.com/watch?v=tWdR00rOUJ4",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-14T10:18:07.274000",
+            "collected_at": "2026-01-18T13:13:41.163000",
             "duration": 122.0,
             "title": "'더 글로리' 배우 박성훈과 케미는?…\"여고생 토크에 걸맞은 분\" #티키타카 / JTBC 뉴스5후",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:44.701324"
+    "exported_at": "2026-01-18T13:56:20.443392"
 }

@@ -42,31 +42,23 @@
     },
     "analysis": {
         "keywords": [
-            "종군",
-            "민주당",
             "이재명",
             "최고",
             "위원",
+            "민주당",
+            "더불어민주당",
             "부모",
             "상속세",
             "참사",
-            "강득구",
             "출마",
             "회의",
             "여객기",
-            "친청",
-            "대표",
-            "이재강"
+            "대통령",
+            "이재",
+            "박성",
+            "회견"
         ],
         "keyword_frequency": [
-            {
-                "text": "종군",
-                "value": 32
-            },
-            {
-                "text": "민주당",
-                "value": 16
-            },
             {
                 "text": "이재명",
                 "value": 11
@@ -78,6 +70,14 @@
             {
                 "text": "위원",
                 "value": 11
+            },
+            {
+                "text": "민주당",
+                "value": 11
+            },
+            {
+                "text": "더불어민주당",
+                "value": 10
             },
             {
                 "text": "부모",
@@ -92,12 +92,8 @@
                 "value": 10
             },
             {
-                "text": "강득구",
-                "value": 10
-            },
-            {
                 "text": "출마",
-                "value": 10
+                "value": 9
             },
             {
                 "text": "회의",
@@ -108,28 +104,32 @@
                 "value": 8
             },
             {
-                "text": "친청",
+                "text": "대통령",
                 "value": 8
             },
             {
-                "text": "대표",
+                "text": "이재",
                 "value": 7
             },
             {
-                "text": "이재강",
+                "text": "박성",
+                "value": 7
+            },
+            {
+                "text": "회견",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:54.525553",
+        "last_analyzed_at": "2026-01-18T13:56:31.295553",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
@@ -167,7 +167,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -247,7 +247,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -559,11 +559,91 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad41631fd1743497d9a0",
+            "url": "https://www.youtube.com/watch?v=UCBlY5ahOJU8SAz3g85MYV_w",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": null,
+            "title": "안성 윤종군 TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a1",
+            "url": "https://www.youtube.com/watch?v=kPSYBtmmy2U",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": 177.0,
+            "title": "30년 간 윤종군을 지켜봐 온 박홍근 국회의원 이야기 20191224",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a2",
+            "url": "https://www.youtube.com/watch?v=uy7dMG5kPYY",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": 466.0,
+            "title": "윤종군, 시원시원한 발제...당원들 박수터진 입장 발표",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a3",
+            "url": "https://www.youtube.com/watch?v=IoS9Kc3eIHk",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": 67.0,
+            "title": "윤종군 의원 대표발의 법안 2건 본회의 통과! [더불어민주당 안성시 국회의원 윤종군]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a4",
+            "url": "https://www.youtube.com/watch?v=d6r87fjgXdU",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": 553.0,
+            "title": "민주당 윤종군 의원1 11 2 합 국회 거부 대통령실 규탄 관련 국회운영위원회 야3당 국회의원 공동 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a5",
+            "url": "https://www.youtube.com/watch?v=KSxRST-UYgU",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": 133.0,
+            "title": "민주당 윤종군 의원1 11 2 합 국민의힘 서천호 의원 등 극우 망언 관련 브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a6",
+            "url": "https://www.youtube.com/watch?v=NnA6E-017L4",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:14.802000",
+            "duration": 470.0,
+            "title": "화성-안성간 민자고속도로 적격성 통과 관련 윤종군 국회의원 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad41631fd1743497d9a7",
+            "url": "https://www.youtube.com/watch?v=blTcfk839H8",
+            "HG_NM": "윤종군",
+            "MONA_CD": "MQK9493H",
+            "collected_at": "2026-01-18T13:17:15.812000",
+            "duration": 502.0,
+            "title": "\"만약에.. 윤석열이 돌아온다면?\" 질문에 먹먹해진 윤종군..답변은?",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad41631fd1743497d9a8",
             "url": "https://www.youtube.com/watch?v=uxc9VygrkZk",
             "HG_NM": "윤종군",
             "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:41.364000",
+            "collected_at": "2026-01-18T13:17:15.812000",
             "duration": 367.0,
             "title": "윤종군 교수_YTN 뉴스라이트_ 2020 07 07(부동산정책 편집본)",
             "upload_date": null
@@ -573,91 +653,41 @@
             "url": "https://www.youtube.com/watch?v=DVkaFkkJhZE",
             "HG_NM": "윤종군",
             "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:41.364000",
+            "collected_at": "2026-01-18T13:17:15.812000",
             "duration": 418.0,
             "title": "이재명의 눈물의 출마 선언..윤종군이 깜짝 놀란 이재명의 발언은?",
             "upload_date": null
         },
         {
-            "_id": "6960ad41631fd1743497d9a4",
-            "url": "https://www.youtube.com/watch?v=d6r87fjgXdU",
+            "_id": "6960ad41631fd1743497d9aa",
+            "url": "https://www.youtube.com/watch?v=98nLCyN-HMs",
             "HG_NM": "윤종군",
             "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": 553.0,
-            "title": "민주당 윤종군 의원1 11 2 합 국회 거부 대통령실 규탄 관련 국회운영위원회 야3당 국회의원 공동 기자회견",
+            "collected_at": "2026-01-18T13:17:15.812000",
+            "duration": 275.0,
+            "title": "[김어준의 뉴스공장] 모두 놀라 출연 거부당한 윤종군 후보",
             "upload_date": null
         },
         {
-            "_id": "6960ad41631fd1743497d9a7",
-            "url": "https://www.youtube.com/watch?v=blTcfk839H8",
+            "_id": "6966ef85887d07f7ba2fb4b3",
+            "url": "https://www.youtube.com/watch?v=KlqjgehlrLg",
             "HG_NM": "윤종군",
             "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:41.364000",
-            "duration": 502.0,
-            "title": "\"만약에.. 윤석열이 돌아온다면?\" 질문에 먹먹해진 윤종군..답변은?",
+            "collected_at": "2026-01-14T10:21:09.090000",
+            "duration": 170.0,
+            "title": "민주당 윤종군 의원,한덕수 대통령 권한대행 비판 브리핑",
             "upload_date": null
         },
         {
-            "_id": "6960ad41631fd1743497d9a5",
-            "url": "https://www.youtube.com/watch?v=KSxRST-UYgU",
+            "_id": "6968b16c297082fcc2b190da",
+            "url": "https://www.youtube.com/watch?v=4_TzotEb0PA",
             "HG_NM": "윤종군",
             "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": 133.0,
-            "title": "민주당 윤종군 의원1 11 2 합 국민의힘 서천호 의원 등 극우 망언 관련 브리핑",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad41631fd1743497d9a3",
-            "url": "https://www.youtube.com/watch?v=IoS9Kc3eIHk",
-            "HG_NM": "윤종군",
-            "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": 67.0,
-            "title": "윤종군 의원 대표발의 법안 2건 본회의 통과! [더불어민주당 안성시 국회의원 윤종군]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad41631fd1743497d9a1",
-            "url": "https://www.youtube.com/watch?v=kPSYBtmmy2U",
-            "HG_NM": "윤종군",
-            "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": 177.0,
-            "title": "30년 간 윤종군을 지켜봐 온 박홍근 국회의원 이야기 20191224",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad41631fd1743497d9a0",
-            "url": "https://www.youtube.com/watch?v=UCBlY5ahOJU8SAz3g85MYV_w",
-            "HG_NM": "윤종군",
-            "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": null,
-            "title": "안성 윤종군 TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad41631fd1743497d9a2",
-            "url": "https://www.youtube.com/watch?v=uy7dMG5kPYY",
-            "HG_NM": "윤종군",
-            "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": 466.0,
-            "title": "윤종군, 시원시원한 발제...당원들 박수터진 입장 발표",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad41631fd1743497d9a6",
-            "url": "https://www.youtube.com/watch?v=NnA6E-017L4",
-            "HG_NM": "윤종군",
-            "MONA_CD": "MQK9493H",
-            "collected_at": "2026-01-15T18:20:40.449000",
-            "duration": 470.0,
-            "title": "화성-안성간 민자고속도로 적격성 통과 관련 윤종군 국회의원 기자회견",
+            "collected_at": "2026-01-18T13:17:15.812000",
+            "duration": 446.0,
+            "title": "민주당 윤종군, \"1인1표제 지금 당장은 무리....\" [G1현장영상]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:54.525553"
+    "exported_at": "2026-01-18T13:56:31.295663"
 }

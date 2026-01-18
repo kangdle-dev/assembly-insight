@@ -48,29 +48,37 @@
     "analysis": {
         "keywords": [
             "쿠팡",
-            "민주당",
+            "국정",
+            "질의",
+            "감사",
             "대표",
             "한국",
             "국민",
             "로저스",
-            "질의",
-            "국정감사",
+            "보충",
+            "더불어민주당",
             "외국인",
+            "오만",
             "청문회",
-            "방자",
-            "위증",
-            "태도",
-            "오유경",
-            "인생"
+            "민주당",
+            "위증"
         ],
         "keyword_frequency": [
             {
                 "text": "쿠팡",
-                "value": 23
+                "value": 25
             },
             {
-                "text": "민주당",
-                "value": 15
+                "text": "국정",
+                "value": 20
+            },
+            {
+                "text": "질의",
+                "value": 17
+            },
+            {
+                "text": "감사",
+                "value": 16
             },
             {
                 "text": "대표",
@@ -89,15 +97,19 @@
                 "value": 11
             },
             {
-                "text": "질의",
-                "value": 11
-            },
-            {
-                "text": "국정감사",
+                "text": "보충",
                 "value": 10
             },
             {
+                "text": "더불어민주당",
+                "value": 9
+            },
+            {
                 "text": "외국인",
+                "value": 8
+            },
+            {
+                "text": "오만",
                 "value": 8
             },
             {
@@ -105,42 +117,30 @@
                 "value": 8
             },
             {
-                "text": "방자",
-                "value": 7
+                "text": "민주당",
+                "value": 8
             },
             {
                 "text": "위증",
                 "value": 7
-            },
-            {
-                "text": "태도",
-                "value": 7
-            },
-            {
-                "text": "오유경",
-                "value": 6
-            },
-            {
-                "text": "인생",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:02.939652",
+        "last_analyzed_at": "2026-01-18T13:56:40.716177",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -148,6 +148,23 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "696902f1297082fcc2b19290",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473701?sid=100",
+            "created_at": "2026-01-16T00:08:33.735000",
+            "description": "김영원이라는 사람을 최민희 의원실 국회 등록 보좌진에 찾아봐야 되는데 안 찾아봤잖아요. 시간이 없어서 못했어요. 이렇게 했을 경우 판사가 그것을 고의로 인정해 줄 것이냐. 이 문제가 남는 거예요. 그래서 누가 봐도... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280170?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-15T18:43:00",
+            "related_members": [
+                "YS38221N",
+                "RBM5454A",
+                "2S73768V",
+                "V429892C",
+                "LT72093S"
+            ],
+            "title": "[더in터뷰] 최민희 \"쿠팡 쿠폰? 얼토당토않은 '눈속임' 보상책\""
+        },
         {
             "_id": "6964b586631fd1743499646c",
             "link": "https://n.news.naver.com/mnews/article/056/0012098672?sid=100",
@@ -307,23 +324,43 @@
     ],
     "recent_videos": [
         {
-            "_id": "696596f7887d07f7ba2fae2d",
-            "url": "https://www.youtube.com/watch?v=qgVPiV7km0I",
+            "_id": "6960adde631fd1743497dbe8",
+            "url": "https://www.youtube.com/watch?v=UC9J1VAzaDZ5mS9Frfyk0lHg",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.208000",
-            "duration": 501.0,
-            "title": "[국회의원 정일영] 2025 국정감사 5일차 - 수출입은행 등 주질의",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": null,
+            "title": "정일영TV",
             "upload_date": null
         },
         {
-            "_id": "696596f7887d07f7ba2fae2e",
-            "url": "https://www.youtube.com/watch?v=7cjse_PHigM",
+            "_id": "6960adde631fd1743497dbe9",
+            "url": "https://www.youtube.com/watch?v=tFutsZKQH2A",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.208000",
-            "duration": 433.0,
-            "title": "[국회의원 정일영] 2025 국정감사 종합국감1 - 기획재정부 외 모든 기관 - 보충질의1",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 118.0,
+            "title": "[일영TV] 설득의 기술이 꼭 필요한 국회, 정일영 국회의원만의 '설득의 기술'이 있다? (오유경의 인생책방 EP.01)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adde631fd1743497dbea",
+            "url": "https://www.youtube.com/watch?v=r9mEIwiMoyo",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:11.503000",
+            "duration": 497.0,
+            "title": "정일영, 로저스 대표 답변 도중 \"스톱, 설교하지 마\" 고성",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adde631fd1743497dbeb",
+            "url": "https://www.youtube.com/watch?v=e6lNLTCM8Ng",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:11.503000",
+            "duration": 614.0,
+            "title": "쿠팡, 언론사 광고 중단 협박?...정일영 폭발하더니 '박살'",
             "upload_date": null
         },
         {
@@ -337,63 +374,13 @@
             "upload_date": null
         },
         {
-            "_id": "696596f7887d07f7ba2fae2c",
-            "url": "https://www.youtube.com/watch?v=m1QO2X2DVDU",
-            "HG_NM": "정일영",
-            "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.208000",
-            "duration": 272.0,
-            "title": "[국회의원 정일영] 2025 국정감사 4일차 - 국가데이터처, 관세청, 조달청 보충질의2",
-            "upload_date": null
-        },
-        {
             "_id": "696596f7887d07f7ba2fae2a",
             "url": "https://www.youtube.com/watch?v=NmUVpU3D0Mg",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.207000",
+            "collected_at": "2026-01-18T13:20:10.541000",
             "duration": 493.0,
             "title": "[국회의원 정일영] 2025 국정감사 4일차 - 국가데이터처, 관세청, 조달청 주질의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adde631fd1743497dbeb",
-            "url": "https://www.youtube.com/watch?v=e6lNLTCM8Ng",
-            "HG_NM": "정일영",
-            "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.970000",
-            "duration": 614.0,
-            "title": "쿠팡, 언론사 광고 중단 협박?...정일영 폭발하더니 '박살'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adde631fd1743497dbe9",
-            "url": "https://www.youtube.com/watch?v=tFutsZKQH2A",
-            "HG_NM": "정일영",
-            "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.207000",
-            "duration": 118.0,
-            "title": "[일영TV] 설득의 기술이 꼭 필요한 국회, 정일영 국회의원만의 '설득의 기술'이 있다? (오유경의 인생책방 EP.01)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adde631fd1743497dbe8",
-            "url": "https://www.youtube.com/watch?v=UC9J1VAzaDZ5mS9Frfyk0lHg",
-            "HG_NM": "정일영",
-            "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.207000",
-            "duration": null,
-            "title": "정일영TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adde631fd1743497dbea",
-            "url": "https://www.youtube.com/watch?v=r9mEIwiMoyo",
-            "HG_NM": "정일영",
-            "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.970000",
-            "duration": 497.0,
-            "title": "정일영, 로저스 대표 답변 도중 \"스톱, 설교하지 마\" 고성",
             "upload_date": null
         },
         {
@@ -401,11 +388,101 @@
             "url": "https://www.youtube.com/watch?v=kwsdp3SDWqM",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-15T18:23:24.208000",
+            "collected_at": "2026-01-18T13:20:10.541000",
             "duration": 96.0,
             "title": "[일영TV] 국회의원 정일영, 어떤 정치인으로 기억되고싶으세요? (오유경의 인생책방 Chapter.6)",
             "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae2c",
+            "url": "https://www.youtube.com/watch?v=m1QO2X2DVDU",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 272.0,
+            "title": "[국회의원 정일영] 2025 국정감사 4일차 - 국가데이터처, 관세청, 조달청 보충질의2",
+            "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae2d",
+            "url": "https://www.youtube.com/watch?v=qgVPiV7km0I",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 501.0,
+            "title": "[국회의원 정일영] 2025 국정감사 5일차 - 수출입은행 등 주질의",
+            "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae2e",
+            "url": "https://www.youtube.com/watch?v=7cjse_PHigM",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 433.0,
+            "title": "[국회의원 정일영] 2025 국정감사 종합국감1 - 기획재정부 외 모든 기관 - 보충질의1",
+            "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae31",
+            "url": "https://www.youtube.com/watch?v=t1WM48u_hxU",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:11.503000",
+            "duration": 1393.0,
+            "title": "[더 인터뷰] 침투부 휩쓸고 간 유난히 내성적인 ‘파리민수’ 정일영, 라디오 생방 중 삘 받아서 라이브! 락커 정일영의 탄생 비화 #파리민수 #정일영 #침착맨 251024",
+            "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae32",
+            "url": "https://www.youtube.com/watch?v=mLeAy9MWJv4",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:11.503000",
+            "duration": 702.0,
+            "title": "[하] 정치인 정일영...\"제가 당선되면 다~~~~됩니다\" / 경인방송 정말뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae30",
+            "url": "https://www.youtube.com/watch?v=IVHtwA8dMk8",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-15T18:23:24.208000",
+            "duration": 299.0,
+            "title": "[국회의원 정일영] 2025 국정감사 종합국감2 - 기획재정부 보충질의3",
+            "upload_date": null
+        },
+        {
+            "_id": "696596f7887d07f7ba2fae2f",
+            "url": "https://www.youtube.com/watch?v=ylt_WHZ0NEU",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 277.0,
+            "title": "[국회의원 정일영] 2025 국정감사 5일차 - 수출입은행 등 보충질의2",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b210297082fcc2b19126",
+            "url": "https://www.youtube.com/watch?v=-UKrB-fA9Oc",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 357.0,
+            "title": "[국회의원 정일영] 2025 국정감사 5일차 - 수출입은행 등 보충질의1",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5f7b297082fcc2b19d10",
+            "url": "https://www.youtube.com/watch?v=ZlDRj-WpKzs",
+            "HG_NM": "정일영",
+            "MONA_CD": "LT72093S",
+            "collected_at": "2026-01-18T13:20:10.541000",
+            "duration": 583.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 정일영 의원(더불어민주당)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:02.939652"
+    "exported_at": "2026-01-18T13:56:40.716266"
 }

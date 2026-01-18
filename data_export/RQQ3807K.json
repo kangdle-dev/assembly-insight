@@ -53,68 +53,56 @@
     "analysis": {
         "keywords": [
             "위성",
-            "민주당",
-            "선거",
+            "더불어민주당",
             "제주",
+            "선거",
             "인터뷰",
-            "대림",
-            "영훈",
             "지사",
-            "방송",
             "도지사",
+            "민주당",
             "현안",
-            "현직",
             "토론회",
             "희망",
-            "송재호"
+            "문대",
+            "송재호",
+            "지방",
+            "출마"
         ],
         "keyword_frequency": [
             {
                 "text": "위성",
-                "value": 39
+                "value": 34
             },
             {
-                "text": "민주당",
-                "value": 25
-            },
-            {
-                "text": "선거",
-                "value": 13
+                "text": "더불어민주당",
+                "value": 19
             },
             {
                 "text": "제주",
-                "value": 12
+                "value": 18
+            },
+            {
+                "text": "선거",
+                "value": 16
             },
             {
                 "text": "인터뷰",
                 "value": 10
             },
             {
-                "text": "대림",
-                "value": 9
-            },
-            {
-                "text": "영훈",
-                "value": 9
-            },
-            {
                 "text": "지사",
                 "value": 9
-            },
-            {
-                "text": "방송",
-                "value": 7
             },
             {
                 "text": "도지사",
                 "value": 7
             },
             {
-                "text": "현안",
+                "text": "민주당",
                 "value": 6
             },
             {
-                "text": "현직",
+                "text": "현안",
                 "value": 6
             },
             {
@@ -126,29 +114,41 @@
                 "value": 6
             },
             {
+                "text": "문대",
+                "value": 5
+            },
+            {
                 "text": "송재호",
+                "value": 5
+            },
+            {
+                "text": "지방",
+                "value": 5
+            },
+            {
+                "text": "출마",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:53.447577",
+        "last_analyzed_at": "2026-01-18T13:56:30.086121",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 1,
                 3,
-                1
+                1,
+                0,
+                0,
+                0
             ]
         }
     },
@@ -385,6 +385,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad2c631fd1743497d951",
+            "url": "https://www.youtube.com/watch?v=UCAFjsCaWERftqIbP_OjZU7Q",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-18T13:16:50.294000",
+            "duration": null,
+            "title": "위성곤TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2c631fd1743497d952",
+            "url": "https://www.youtube.com/watch?v=wLZEMj-YAvM",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-18T13:16:51.487000",
+            "duration": 69.0,
+            "title": "TV자막에 ’비상계엄‘ 오보인 줄 알았다 | 국회의원 위성곤 #계엄 #겸공 #김어준 #뉴스공장 #예결위",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2c631fd1743497d953",
+            "url": "https://www.youtube.com/watch?v=M-zrwRQCCXE",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-18T13:16:50.294000",
+            "duration": 614.0,
+            "title": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49a",
+            "url": "https://www.youtube.com/watch?v=2oNdaOFSMe4",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-14T10:20:48.399000",
+            "duration": 358.0,
+            "title": "국회의원위성곤 의정보고회 하이라이트",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49c",
+            "url": "https://www.youtube.com/watch?v=sO8QOXblEls",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-14T10:20:48.399000",
+            "duration": 542.0,
+            "title": "위성곤 의원 더불어민주당_NATV 국회방송 300인의 희망인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49b",
+            "url": "https://www.youtube.com/watch?v=xNOyJAg78uQ",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-15T18:20:17.697000",
+            "duration": 430.0,
+            "title": "위성곤 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.12.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49f",
+            "url": "https://www.youtube.com/watch?v=a5mabxNjCDA",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-14T10:20:49.143000",
+            "duration": 1081.0,
+            "title": "[7시뉴스제주/200421 당선자에게 듣는다] 서귀포시 위성곤 당선인",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49e",
+            "url": "https://www.youtube.com/watch?v=uDK-v4znQ2s",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-15T18:20:18.684000",
+            "duration": 495.0,
+            "title": "[생중계] 위성곤 더불어민주당 의원, 법안 발의 기자회견 (2025.11.19 오후)",
+            "upload_date": null
+        },
+        {
             "_id": "6966ef70887d07f7ba2fb4a0",
             "url": "https://www.youtube.com/watch?v=D4mLYmbz18k",
             "HG_NM": "위성곤",
@@ -405,85 +485,15 @@
             "upload_date": null
         },
         {
-            "_id": "6966ef70887d07f7ba2fb49c",
-            "url": "https://www.youtube.com/watch?v=sO8QOXblEls",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:48.399000",
-            "duration": 542.0,
-            "title": "위성곤 의원 더불어민주당_NATV 국회방송 300인의 희망인터뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49e",
-            "url": "https://www.youtube.com/watch?v=uDK-v4znQ2s",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-15T18:20:18.684000",
-            "duration": 495.0,
-            "title": "[생중계] 위성곤 더불어민주당 의원, 법안 발의 기자회견 (2025.11.19 오후)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49b",
-            "url": "https://www.youtube.com/watch?v=xNOyJAg78uQ",
+            "_id": "6966ef70887d07f7ba2fb49d",
+            "url": "https://www.youtube.com/watch?v=RFpw3yzAsMY",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
             "collected_at": "2026-01-15T18:20:17.697000",
-            "duration": 430.0,
-            "title": "위성곤 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.12.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49a",
-            "url": "https://www.youtube.com/watch?v=2oNdaOFSMe4",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:48.399000",
-            "duration": 358.0,
-            "title": "국회의원위성곤 의정보고회 하이라이트",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2c631fd1743497d952",
-            "url": "https://www.youtube.com/watch?v=wLZEMj-YAvM",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-15T18:20:18.684000",
-            "duration": 69.0,
-            "title": "TV자막에 ’비상계엄‘ 오보인 줄 알았다 | 국회의원 위성곤 #계엄 #겸공 #김어준 #뉴스공장 #예결위",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2c631fd1743497d951",
-            "url": "https://www.youtube.com/watch?v=UCAFjsCaWERftqIbP_OjZU7Q",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-15T18:20:17.697000",
-            "duration": null,
-            "title": "위성곤TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad2c631fd1743497d953",
-            "url": "https://www.youtube.com/watch?v=M-zrwRQCCXE",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-15T18:20:17.697000",
-            "duration": 614.0,
-            "title": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49f",
-            "url": "https://www.youtube.com/watch?v=a5mabxNjCDA",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-14T10:20:49.143000",
-            "duration": 1081.0,
-            "title": "[7시뉴스제주/200421 당선자에게 듣는다] 서귀포시 위성곤 당선인",
+            "duration": 313.0,
+            "title": "본회의장에서 울분 토한 제주 국회의원 위성곤 \"왜 방류 말고 다른 대안 내놓으라 요구 못하나\"",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:53.447577"
+    "exported_at": "2026-01-18T13:56:30.086204"
 }

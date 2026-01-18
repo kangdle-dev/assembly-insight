@@ -42,49 +42,73 @@
     },
     "analysis": {
         "keywords": [
-            "송재",
-            "민주당",
-            "개정안",
-            "충북도",
+            "재봉",
+            "더불어민주당",
             "이연희",
-            "강득구",
-            "대표",
-            "발의",
-            "위원",
-            "출마",
-            "위원장",
-            "지방선거",
+            "충북도",
+            "지방",
             "충북",
-            "벤처기업",
-            "폐기물관리법"
+            "대표",
+            "개정안",
+            "청주",
+            "선거",
+            "위원장",
+            "인사",
+            "이강",
+            "발의",
+            "위원"
         ],
         "keyword_frequency": [
             {
-                "text": "송재",
-                "value": 45
+                "text": "재봉",
+                "value": 47
             },
             {
-                "text": "민주당",
+                "text": "더불어민주당",
                 "value": 15
+            },
+            {
+                "text": "이연희",
+                "value": 14
+            },
+            {
+                "text": "충북도",
+                "value": 13
+            },
+            {
+                "text": "지방",
+                "value": 12
+            },
+            {
+                "text": "충북",
+                "value": 12
+            },
+            {
+                "text": "대표",
+                "value": 11
             },
             {
                 "text": "개정안",
                 "value": 11
             },
             {
-                "text": "충북도",
+                "text": "청주",
+                "value": 11
+            },
+            {
+                "text": "선거",
+                "value": 11
+            },
+            {
+                "text": "위원장",
                 "value": 10
             },
             {
-                "text": "이연희",
+                "text": "인사",
                 "value": 10
             },
             {
-                "text": "강득구",
-                "value": 10
-            },
-            {
-                "text": "대표",
+                "text": "이강",
                 "value": 9
             },
             {
@@ -94,55 +118,65 @@
             {
                 "text": "위원",
                 "value": 9
-            },
-            {
-                "text": "출마",
-                "value": 8
-            },
-            {
-                "text": "위원장",
-                "value": 8
-            },
-            {
-                "text": "지방선거",
-                "value": 8
-            },
-            {
-                "text": "충북",
-                "value": 8
-            },
-            {
-                "text": "벤처기업",
-                "value": 8
-            },
-            {
-                "text": "폐기물관리법",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:50.747858",
+        "last_analyzed_at": "2026-01-18T13:56:27.012448",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
                 0,
-                0,
-                0,
-                0,
                 2,
+                1,
+                0,
+                1,
                 1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c11297082fcc2b19bba",
+            "link": "https://n.news.naver.com/mnews/article/421/0008719885?sid=102",
+            "created_at": "2026-01-18T13:05:37.364000",
+            "description": "이날 행사에는 이광희 더불어민주당 충북도당위원장, 이연희·이강일·송재봉 국회의원, 김두관 전... 정청래 민주당 당대표는 \"길이 아닌 곳도 길로 바꾸는 의지의 리더십이 진천의 성장을 이끌었다\"라고 격려 영상을... ",
+            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6042390",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T08:28:00",
+            "related_members": [
+                "EBH1101V",
+                "95J3282H",
+                "AEO5706C",
+                "RG972910",
+                "2385336L"
+            ],
+            "title": "송기섭 진천군수 '벽을 뚫어 길을내다' 출판전시회 성료"
+        },
+        {
+            "_id": "696c5c11297082fcc2b19bbb",
+            "link": "https://n.news.naver.com/mnews/article/003/0013716022?sid=102",
+            "created_at": "2026-01-18T13:05:37.364000",
+            "description": "행사에는 이광희 더불어민주당 충북도당위원장, 이연희· 이강일· 송재봉 국회의원, 이종찬 광복회장, 김광수·박문희 전 충북도의회 의장 등 정계 관계자를 비롯한 주민 등 3500여명이 참석했다. 정청래 민주당 대표 등... ",
+            "originallink": "https://www.newsis.com/view/NISX20260117_0003480585",
+            "press": "뉴시스",
+            "pubDate": "2026-01-17T19:33:00",
+            "related_members": [
+                "2385336L",
+                "RG972910",
+                "95J3282H",
+                "EBH1101V",
+                "AEO5706C"
+            ],
+            "title": "송기섭 진천군수, '벽을 뚫어 길을 내다' 출판전시회"
+        },
         {
             "_id": "6968adad297082fcc2b18d73",
             "link": "https://n.news.naver.com/mnews/article/056/0012105703?sid=100",
@@ -219,7 +253,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -299,7 +333,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -584,16 +618,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960acf9631fd1743497d89a",
-            "url": "https://www.youtube.com/watch?v=BUqounPWjW4",
-            "HG_NM": "송재봉",
-            "MONA_CD": "RG972910",
-            "collected_at": "2026-01-15T18:19:23.559000",
-            "duration": 1796.0,
-            "title": "[국회의원 송재봉] 더불어민주당 원내대책회의",
-            "upload_date": null
-        },
-        {
             "_id": "6960acf9631fd1743497d89b",
             "url": "https://www.youtube.com/watch?v=ckalqsevlfE",
             "HG_NM": "송재봉",
@@ -604,13 +628,103 @@
             "upload_date": null
         },
         {
-            "_id": "6960acf9631fd1743497d896",
-            "url": "https://www.youtube.com/watch?v=1Hcd7V9a_uo",
+            "_id": "696c5e77297082fcc2b19ca5",
+            "url": "https://www.youtube.com/watch?v=f9jBXLk38PQ",
             "HG_NM": "송재봉",
             "MONA_CD": "RG972910",
-            "collected_at": "2026-01-09T16:23:33.586000",
-            "duration": 189.0,
-            "title": "[오늘, 이 사람] 송재봉 국회의원 편ㅣMBC충북NEWS",
+            "collected_at": "2026-01-18T13:15:51.105000",
+            "duration": 941.0,
+            "title": "[0401 송재봉TV] 청주 국회의원후보, 김어준의 뉴스공장에 떴다!",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e77297082fcc2b19ca4",
+            "url": "https://www.youtube.com/watch?v=bYhERhnNmO0",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:51.105000",
+            "duration": 1246.0,
+            "title": "[BBS NEWS] 송재봉 당선인 출연!",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e77297082fcc2b19ca3",
+            "url": "https://www.youtube.com/watch?v=awiTeYOlIRI",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:50.053000",
+            "duration": 89.0,
+            "title": "[국회의원 송재봉] 250225 더불어민주당 명태균게이트 진상조사단 긴급 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e77297082fcc2b19ca2",
+            "url": "https://www.youtube.com/watch?v=ozQbKitxv-w",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:50.053000",
+            "duration": 2757.0,
+            "title": "[충북 시사토론 창] 국회의원 당선인(이광희·송재봉)에게 듣는다ㅣMBC충북ㅣ240504",
+            "upload_date": null
+        },
+        {
+            "_id": "6965961a887d07f7ba2fad0d",
+            "url": "https://www.youtube.com/watch?v=pBM2MaSmxk4",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-13T09:47:19.523000",
+            "duration": 62.0,
+            "title": "[국회의원 송재봉] 대통령 선거 D-1! 마지막 순간까지 최선을 다하겠습니다!",
+            "upload_date": null
+        },
+        {
+            "_id": "6965961a887d07f7ba2fad0e",
+            "url": "https://www.youtube.com/watch?v=cKEnuhJnwHI",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-15T18:19:24.500000",
+            "duration": 60.0,
+            "title": "[국회의원 송재봉] 국회 산자위 의사진행발언",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acf9631fd1743497d89d",
+            "url": "https://www.youtube.com/watch?v=0UnuPA5ugh8",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-09T16:23:34.359000",
+            "duration": 498.0,
+            "title": "2탄 #송재봉  전 청와대 행정관 알아보기",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acf9631fd1743497d89c",
+            "url": "https://www.youtube.com/watch?v=IZpsjTcI7cg",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-09T16:23:34.359000",
+            "duration": 1044.0,
+            "title": "김어준의 겸손은힘들다 뉴스공장ㅣ송재봉, 이강일, 이광희, 이연희",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acf9631fd1743497d892",
+            "url": "https://www.youtube.com/watch?v=UCLAW7m7Z3JAGh5HdHGCKO_w",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:50.053000",
+            "duration": null,
+            "title": "송재봉 TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acf9631fd1743497d89a",
+            "url": "https://www.youtube.com/watch?v=BUqounPWjW4",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:50.053000",
+            "duration": 1796.0,
+            "title": "[국회의원 송재봉] 더불어민주당 원내대책회의",
             "upload_date": null
         },
         {
@@ -618,9 +732,19 @@
             "url": "https://www.youtube.com/watch?v=tTntPiUt_pk",
             "HG_NM": "송재봉",
             "MONA_CD": "RG972910",
-            "collected_at": "2026-01-15T18:19:23.559000",
+            "collected_at": "2026-01-18T13:15:50.053000",
             "duration": 475.0,
             "title": "[국회의원 송재봉] 2025.09.17ㅣ국회 산업통상자원중소벤처기업위원회 한·미 관세협상 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acf9631fd1743497d898",
+            "url": "https://www.youtube.com/watch?v=MeSdoBp9ywg",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:50.053000",
+            "duration": 130.0,
+            "title": "[국회의원 송재봉] 2025.09.25ㅣ산업통상자원중소벤처기업위원회 송재봉 위원 발언",
             "upload_date": null
         },
         {
@@ -634,33 +758,23 @@
             "upload_date": null
         },
         {
+            "_id": "6960acf9631fd1743497d896",
+            "url": "https://www.youtube.com/watch?v=1Hcd7V9a_uo",
+            "HG_NM": "송재봉",
+            "MONA_CD": "RG972910",
+            "collected_at": "2026-01-18T13:15:50.053000",
+            "duration": 189.0,
+            "title": "[오늘, 이 사람] 송재봉 국회의원 편ㅣMBC충북NEWS",
+            "upload_date": null
+        },
+        {
             "_id": "6960acf9631fd1743497d895",
             "url": "https://www.youtube.com/watch?v=mDndKwFC9DE",
             "HG_NM": "송재봉",
             "MONA_CD": "RG972910",
-            "collected_at": "2026-01-15T18:19:23.559000",
+            "collected_at": "2026-01-18T13:15:50.053000",
             "duration": 7530.0,
             "title": "[국회의원 송재봉] 지역공공은행 특별법 국회토론회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acf9631fd1743497d893",
-            "url": "https://www.youtube.com/watch?v=GVpig0hvH5w",
-            "HG_NM": "송재봉",
-            "MONA_CD": "RG972910",
-            "collected_at": "2026-01-15T18:19:23.559000",
-            "duration": 129.0,
-            "title": "시민운동가 출신, 民 송재봉 당선…이번에도 오창이 승부처//HCN충북방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acf9631fd1743497d892",
-            "url": "https://www.youtube.com/watch?v=UCLAW7m7Z3JAGh5HdHGCKO_w",
-            "HG_NM": "송재봉",
-            "MONA_CD": "RG972910",
-            "collected_at": "2026-01-15T18:19:23.559000",
-            "duration": null,
-            "title": "송재봉 TV",
             "upload_date": null
         },
         {
@@ -668,21 +782,21 @@
             "url": "https://www.youtube.com/watch?v=dt7hcDysswQ",
             "HG_NM": "송재봉",
             "MONA_CD": "RG972910",
-            "collected_at": "2026-01-15T18:19:23.559000",
+            "collected_at": "2026-01-18T13:15:50.053000",
             "duration": 434.0,
             "title": "[국회의원 송재봉] 중소벤처기업부 장관 인사청문회 송재봉 의원 질의",
             "upload_date": null
         },
         {
-            "_id": "6960acf9631fd1743497d898",
-            "url": "https://www.youtube.com/watch?v=MeSdoBp9ywg",
+            "_id": "6960acf9631fd1743497d893",
+            "url": "https://www.youtube.com/watch?v=GVpig0hvH5w",
             "HG_NM": "송재봉",
             "MONA_CD": "RG972910",
-            "collected_at": "2026-01-09T16:23:33.586000",
-            "duration": 130.0,
-            "title": "[국회의원 송재봉] 2025.09.25ㅣ산업통상자원중소벤처기업위원회 송재봉 위원 발언",
+            "collected_at": "2026-01-18T13:15:51.105000",
+            "duration": 129.0,
+            "title": "시민운동가 출신, 民 송재봉 당선…이번에도 오창이 승부처//HCN충북방송",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:50.747858"
+    "exported_at": "2026-01-18T13:56:27.012580"
 }

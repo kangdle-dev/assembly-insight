@@ -48,32 +48,24 @@
     "analysis": {
         "keywords": [
             "용선",
-            "민주당",
-            "국제",
             "베네수엘라",
-            "방송",
+            "이용",
+            "더불어민주당",
             "작전",
+            "군사",
+            "국제",
+            "국제법",
+            "인터뷰",
             "미국",
+            "민주당",
             "평화",
             "위협",
             "무력",
-            "사용",
-            "인터뷰",
-            "절차",
-            "군사작전",
-            "양천"
+            "사용"
         ],
         "keyword_frequency": [
             {
                 "text": "용선",
-                "value": 25
-            },
-            {
-                "text": "민주당",
-                "value": 22
-            },
-            {
-                "text": "국제",
                 "value": 18
             },
             {
@@ -81,11 +73,31 @@
                 "value": 15
             },
             {
-                "text": "방송",
-                "value": 10
+                "text": "이용",
+                "value": 15
+            },
+            {
+                "text": "더불어민주당",
+                "value": 14
             },
             {
                 "text": "작전",
+                "value": 13
+            },
+            {
+                "text": "군사",
+                "value": 9
+            },
+            {
+                "text": "국제",
+                "value": 9
+            },
+            {
+                "text": "국제법",
+                "value": 8
+            },
+            {
+                "text": "인터뷰",
                 "value": 8
             },
             {
@@ -93,48 +105,36 @@
                 "value": 7
             },
             {
-                "text": "평화",
+                "text": "민주당",
                 "value": 7
+            },
+            {
+                "text": "평화",
+                "value": 6
             },
             {
                 "text": "위협",
-                "value": 7
+                "value": 6
             },
             {
                 "text": "무력",
-                "value": 6
+                "value": 5
             },
             {
                 "text": "사용",
-                "value": 6
-            },
-            {
-                "text": "인터뷰",
-                "value": 6
-            },
-            {
-                "text": "절차",
-                "value": 5
-            },
-            {
-                "text": "군사작전",
-                "value": 5
-            },
-            {
-                "text": "양천",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:57.304981",
+        "last_analyzed_at": "2026-01-18T13:56:34.405868",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
@@ -180,7 +180,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -260,7 +260,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -371,7 +371,7 @@
             "_id": "6964b546631fd1743499606b",
             "link": "https://n.news.naver.com/mnews/article/028/0002783251?sid=100",
             "created_at": "2026-01-12T17:48:03.765000",
-            "description": "국회에는 북한 사이트에 대한 단순 접근·열람을 가능하게 하는 정보통신방법 개정안도 한민수 민주당 의원 대표발의로 국회 과학기술정보통신위원회에서 심사 중이다.",
+            "description": "국회 외교통일위원회에서 ‘북한 자료의 관리·이용에 관한 법률 제정안’ 2건(민주당 이용선 의원 대표발의, 국민의힘 김기웅 의원 대표발의)을 심사하고 있는 데 협조하겠단 뜻이다. 이 법률안이 병합 심사를 거쳐... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1236496.html",
             "press": "한겨레",
             "pubDate": "2025-12-25T11:12:00",
@@ -399,11 +399,91 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad77631fd1743497da5e",
+            "url": "https://www.youtube.com/watch?v=UC4hABUy5DQWJNQvx1B9KGjg",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": null,
+            "title": "이용선TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da5f",
+            "url": "https://www.youtube.com/watch?v=tgnsMdn5CY8",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": 558.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 이용선 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da60",
+            "url": "https://www.youtube.com/watch?v=Vbg85Abd6fU",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": 60.0,
+            "title": "2022.12.13. 국회방송, 국회의원25시 440회 #플랭크 #이용선 #국회의원 #더불어민주당 #양천을 #국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da61",
+            "url": "https://www.youtube.com/watch?v=k6ApoIEfQRo",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": 801.0,
+            "title": "[주진우 라이브] 이용선 의원 \"아프간 난민 국내 미군기지 고려는 사실 무관\" | KBS 210823 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da62",
+            "url": "https://www.youtube.com/watch?v=K-KQK55-qDo",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": 1088.0,
+            "title": "인터뷰 릴레이 칭찬 293회 이용선 의원더불어민주당",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da63",
+            "url": "https://www.youtube.com/watch?v=aSYcPtiHPMM",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": 75.0,
+            "title": "선배시민의 경험과 지혜가 필요합니다! #86 (국회의원 이용선)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da64",
+            "url": "https://www.youtube.com/watch?v=gloOT1avHp0",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:14.493000",
+            "duration": 792.0,
+            "title": "민주당 이용선 의원1 1 21 2 합,남북경헙경제인 이재명 대선후보 지지선언 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad77631fd1743497da65",
+            "url": "https://www.youtube.com/watch?v=v72bc5u0Zbo",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-18T13:18:15.496000",
+            "duration": 159.0,
+            "title": "대선을 보는 전지적 의원 시점…이용선 국회의원ㅣ#헬로tv뉴스",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad77631fd1743497da67",
             "url": "https://www.youtube.com/watch?v=7WNLO7csLjU",
             "HG_NM": "이용선",
             "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-09T16:25:40.353000",
+            "collected_at": "2026-01-18T13:18:15.496000",
             "duration": 60.0,
             "title": "2022.12.13. 국회방송, 국회의원25시 440회 #예산안 #이용선 #국회의원 #더불어민주당 #양천을 #국회방송",
             "upload_date": null
@@ -413,91 +493,71 @@
             "url": "https://www.youtube.com/watch?v=tbNxo4q48FI",
             "HG_NM": "이용선",
             "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-15T18:21:38.341000",
+            "collected_at": "2026-01-18T13:18:15.496000",
             "duration": 1138.0,
             "title": "뉴스N | [파워인터뷰] 이용선 더불어민주당 의원 (서울 양천구을) - 2022년 5월 23일",
             "upload_date": null
         },
         {
-            "_id": "6960ad77631fd1743497da62",
-            "url": "https://www.youtube.com/watch?v=K-KQK55-qDo",
+            "_id": "69659693887d07f7ba2fad97",
+            "url": "https://www.youtube.com/watch?v=HL4iU4AMUlk",
             "HG_NM": "이용선",
             "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-15T18:21:38.341000",
+            "collected_at": "2026-01-15T18:21:37.542000",
+            "duration": 290.0,
+            "title": "이용선 의원 '소음 피해 지역에 아파트 분양 기회 제공해야'",
+            "upload_date": null
+        },
+        {
+            "_id": "69659693887d07f7ba2fad98",
+            "url": "https://www.youtube.com/watch?v=6sSfcR3C3mA",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-15T18:21:37.542000",
             "duration": 1088.0,
-            "title": "인터뷰 릴레이 칭찬 293회 이용선 의원더불어민주당",
+            "title": "인터뷰 릴레이 칭찬 293회 이용선 의원(더불어민주당)",
             "upload_date": null
         },
         {
-            "_id": "6960ad77631fd1743497da65",
-            "url": "https://www.youtube.com/watch?v=v72bc5u0Zbo",
+            "_id": "69659693887d07f7ba2fad9a",
+            "url": "https://www.youtube.com/watch?v=4gIC_OC9Tzw",
             "HG_NM": "이용선",
             "MONA_CD": "9JF4562W",
             "collected_at": "2026-01-15T18:21:38.341000",
-            "duration": 159.0,
-            "title": "대선을 보는 전지적 의원 시점…이용선 국회의원ㅣ#헬로tv뉴스",
+            "duration": 307.0,
+            "title": "2023.07.21 통일부장관 인사청문회 #이용선 #국회의원 #통일부장관 #인사청문회",
             "upload_date": null
         },
         {
-            "_id": "6960ad77631fd1743497da63",
-            "url": "https://www.youtube.com/watch?v=aSYcPtiHPMM",
+            "_id": "69659693887d07f7ba2fad99",
+            "url": "https://www.youtube.com/watch?v=1SYM4Sj0VRI",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-13T09:49:21.131000",
+            "duration": 306.0,
+            "title": "나도 강제징집을 당한 피해자입니다 국회의원 이용선",
+            "upload_date": null
+        },
+        {
+            "_id": "69659693887d07f7ba2fad9b",
+            "url": "https://www.youtube.com/watch?v=q1_uLOsb5yM",
+            "HG_NM": "이용선",
+            "MONA_CD": "9JF4562W",
+            "collected_at": "2026-01-14T10:22:02.634000",
+            "duration": 341.0,
+            "title": "[현장연결] 경제 윤종원ㆍ일자리 정태호ㆍ시민사회 이용선…靑수석 인사 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966efba887d07f7ba2fb4d7",
+            "url": "https://www.youtube.com/watch?v=U_W3RpXAJaQ",
             "HG_NM": "이용선",
             "MONA_CD": "9JF4562W",
             "collected_at": "2026-01-15T18:21:37.542000",
-            "duration": 75.0,
-            "title": "선배시민의 경험과 지혜가 필요합니다! #86 (국회의원 이용선)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad77631fd1743497da61",
-            "url": "https://www.youtube.com/watch?v=k6ApoIEfQRo",
-            "HG_NM": "이용선",
-            "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-15T18:21:37.542000",
-            "duration": 801.0,
-            "title": "[주진우 라이브] 이용선 의원 \"아프간 난민 국내 미군기지 고려는 사실 무관\" | KBS 210823 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad77631fd1743497da5f",
-            "url": "https://www.youtube.com/watch?v=tgnsMdn5CY8",
-            "HG_NM": "이용선",
-            "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-15T18:21:37.542000",
-            "duration": 558.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 이용선 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad77631fd1743497da5e",
-            "url": "https://www.youtube.com/watch?v=UC4hABUy5DQWJNQvx1B9KGjg",
-            "HG_NM": "이용선",
-            "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-15T18:21:37.542000",
-            "duration": null,
-            "title": "이용선TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad77631fd1743497da60",
-            "url": "https://www.youtube.com/watch?v=Vbg85Abd6fU",
-            "HG_NM": "이용선",
-            "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-09T16:25:39.564000",
-            "duration": 60.0,
-            "title": "2022.12.13. 국회방송, 국회의원25시 440회 #플랭크 #이용선 #국회의원 #더불어민주당 #양천을 #국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad77631fd1743497da64",
-            "url": "https://www.youtube.com/watch?v=gloOT1avHp0",
-            "HG_NM": "이용선",
-            "MONA_CD": "9JF4562W",
-            "collected_at": "2026-01-15T18:21:37.542000",
-            "duration": 792.0,
-            "title": "민주당 이용선 의원1 1 21 2 합,남북경헙경제인 이재명 대선후보 지지선언 기자회견",
+            "duration": 1666.0,
+            "title": "국회의원25시_440회 이용선 의원 편 [2022.12.13]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:57.304981"
+    "exported_at": "2026-01-18T13:56:34.405954"
 }

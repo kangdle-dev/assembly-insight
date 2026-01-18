@@ -42,29 +42,29 @@
     },
     "analysis": {
         "keywords": [
-            "생각",
             "백골단",
+            "회견",
             "김형석",
+            "생각",
             "토론회",
-            "교육",
             "당원",
-            "제명",
-            "지금",
             "일정",
-            "기자회견",
-            "뉴스룸",
+            "의원실",
+            "위원장",
             "발언",
-            "자가",
+            "뉴스룸",
+            "이재명",
             "사태",
+            "제명",
             "위원"
         ],
         "keyword_frequency": [
             {
-                "text": "생각",
-                "value": 6
+                "text": "백골단",
+                "value": 10
             },
             {
-                "text": "백골단",
+                "text": "회견",
                 "value": 6
             },
             {
@@ -72,11 +72,11 @@
                 "value": 6
             },
             {
-                "text": "토론회",
-                "value": 5
+                "text": "생각",
+                "value": 6
             },
             {
-                "text": "교육",
+                "text": "토론회",
                 "value": 5
             },
             {
@@ -84,23 +84,15 @@
                 "value": 4
             },
             {
-                "text": "제명",
-                "value": 4
-            },
-            {
-                "text": "지금",
-                "value": 4
-            },
-            {
                 "text": "일정",
                 "value": 4
             },
             {
-                "text": "기자회견",
+                "text": "의원실",
                 "value": 4
             },
             {
-                "text": "뉴스룸",
+                "text": "위원장",
                 "value": 4
             },
             {
@@ -108,7 +100,11 @@
                 "value": 4
             },
             {
-                "text": "자가",
+                "text": "뉴스룸",
+                "value": 4
+            },
+            {
+                "text": "이재명",
                 "value": 4
             },
             {
@@ -116,28 +112,32 @@
                 "value": 3
             },
             {
+                "text": "제명",
+                "value": 3
+            },
+            {
                 "text": "위원",
                 "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:36.055514",
+        "last_analyzed_at": "2026-01-18T13:56:09.320331",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                0,
-                0,
                 0,
                 0,
                 2,
+                0,
+                0,
+                0,
                 0
             ]
         }
@@ -257,23 +257,43 @@
     ],
     "recent_videos": [
         {
-            "_id": "6966ee2f887d07f7ba2fb390",
-            "url": "https://www.youtube.com/watch?v=_U7dfmCkbfQ",
+            "_id": "6960abe8631fd1743497d43e",
+            "url": "https://www.youtube.com/watch?v=UCyEOmlwuisAFcHfvz65IinQ",
             "HG_NM": "김민전",
             "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:35.132000",
-            "duration": 140.0,
-            "title": "\"웃으며 팔짱, 뭔 생각?\" 고성…김민전 \"백골단 좀 찜찜하다 생각했다\" / JTBC 뉴스룸",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": null,
+            "title": "김민전TV",
             "upload_date": null
         },
         {
-            "_id": "6966ee2f887d07f7ba2fb391",
-            "url": "https://www.youtube.com/watch?v=3FNK8XfHcQc",
+            "_id": "6960abe8631fd1743497d43f",
+            "url": "https://www.youtube.com/watch?v=On32POgUhFg",
             "HG_NM": "김민전",
             "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:34.372000",
-            "duration": 164.0,
-            "title": "본회의에서 잠 안 잤다는 김민전 의원.. 솔직하게 말하는 박지원 의원에 웃음터진 법사위장",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": 905.0,
+            "title": "[현장쏙] \"김민전 의원님 또 정회해야 합니다\" 죽창 발언에 일촉즉발 교육위 / 연합뉴스TV(YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe8631fd1743497d440",
+            "url": "https://www.youtube.com/watch?v=x_WHCSdH_LE",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": 895.0,
+            "title": "백골단, 김형석...또 김민전...\"국회의원이라는 자가...\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe8631fd1743497d441",
+            "url": "https://www.youtube.com/watch?v=1tgk6d0lSFM",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": 553.0,
+            "title": "김민전 장동혁 관련 폭탄 발언/각성 당원 난리났다/한동훈 발칵",
             "upload_date": null
         },
         {
@@ -281,19 +301,9 @@
             "url": "https://www.youtube.com/watch?v=PVpNEBxtfOY",
             "HG_NM": "김민전",
             "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:35.132000",
+            "collected_at": "2026-01-18T13:10:28.245000",
             "duration": 129.0,
             "title": "'또 김민전' 백골단 논란 8개월 만에 김형석 기자회견 #비하인드뉴스 / JTBC 뉴스룸",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee2f887d07f7ba2fb38f",
-            "url": "https://www.youtube.com/watch?v=Ixb97hF7MLk",
-            "HG_NM": "김민전",
-            "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:34.372000",
-            "duration": 191.0,
-            "title": "\"누가 국회의원 뱃지 때라고 했습니까?\" 김민전의원 교육위원 사퇴 요구하는 고민정의원",
             "upload_date": null
         },
         {
@@ -307,55 +317,95 @@
             "upload_date": null
         },
         {
-            "_id": "6960abe8631fd1743497d441",
-            "url": "https://www.youtube.com/watch?v=1tgk6d0lSFM",
-            "HG_NM": "김민전",
-            "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:34.372000",
-            "duration": 553.0,
-            "title": "김민전 장동혁 관련 폭탄 발언/각성 당원 난리났다/한동훈 발칵",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe8631fd1743497d43f",
-            "url": "https://www.youtube.com/watch?v=On32POgUhFg",
-            "HG_NM": "김민전",
-            "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:35.132000",
-            "duration": 905.0,
-            "title": "[현장쏙] \"김민전 의원님 또 정회해야 합니다\" 죽창 발언에 일촉즉발 교육위 / 연합뉴스TV(YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe8631fd1743497d43e",
-            "url": "https://www.youtube.com/watch?v=UCyEOmlwuisAFcHfvz65IinQ",
-            "HG_NM": "김민전",
-            "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:34.372000",
-            "duration": null,
-            "title": "김민전TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe8631fd1743497d440",
-            "url": "https://www.youtube.com/watch?v=x_WHCSdH_LE",
-            "HG_NM": "김민전",
-            "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:34.372000",
-            "duration": 895.0,
-            "title": "백골단, 김형석...또 김민전...\"국회의원이라는 자가...\"",
-            "upload_date": null
-        },
-        {
             "_id": "6966ee2f887d07f7ba2fb38e",
             "url": "https://www.youtube.com/watch?v=yRmVqzAi2-8",
             "HG_NM": "김민전",
             "MONA_CD": "TCP9838Y",
-            "collected_at": "2026-01-15T18:14:34.372000",
+            "collected_at": "2026-01-18T13:10:27.189000",
             "duration": 105.0,
             "title": "\"김민전이라는 자가 김형석 불러\"…서영교 \"국회의원 자격 없다고 생각\"｜지금 이 장면",
             "upload_date": null
+        },
+        {
+            "_id": "6966ee2f887d07f7ba2fb38f",
+            "url": "https://www.youtube.com/watch?v=Ixb97hF7MLk",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": 191.0,
+            "title": "\"누가 국회의원 뱃지 때라고 했습니까?\" 김민전의원 교육위원 사퇴 요구하는 고민정의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee2f887d07f7ba2fb390",
+            "url": "https://www.youtube.com/watch?v=_U7dfmCkbfQ",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": 140.0,
+            "title": "\"웃으며 팔짱, 뭔 생각?\" 고성…김민전 \"백골단 좀 찜찜하다 생각했다\" / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee2f887d07f7ba2fb391",
+            "url": "https://www.youtube.com/watch?v=3FNK8XfHcQc",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:27.189000",
+            "duration": 164.0,
+            "title": "본회의에서 잠 안 잤다는 김민전 의원.. 솔직하게 말하는 박지원 의원에 웃음터진 법사위장",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee2f887d07f7ba2fb393",
+            "url": "https://www.youtube.com/watch?v=shACeBRleus",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-15T18:14:35.132000",
+            "duration": 293.0,
+            "title": "김민전 \"외국인 부동산 취득에 역차별!\"…김민석의 답은? [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee2f887d07f7ba2fb392",
+            "url": "https://www.youtube.com/watch?v=VDurToSX5-4",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:28.245000",
+            "duration": 382.0,
+            "title": "[비하인드 뉴스] ①기승전 특검 탓 ②또 김민전! / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5d34297082fcc2b19c10",
+            "url": "https://www.youtube.com/watch?v=DrNiKcWEYSQ",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:28.245000",
+            "duration": 369.0,
+            "title": "극우 유튜버 행사 '예약 대행'에 \"김민전과 백골단 떠올라\" [뉴스.zip/MBC뉴스]",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5d34297082fcc2b19c11",
+            "url": "https://www.youtube.com/watch?v=JqELsNk_fig",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:28.245000",
+            "duration": 419.0,
+            "title": "국회 초토화 시킨 독립기념관장 기자회견..\"백골단 불러오더니 이번에도\" 주선자는 김민전 의원 / SBS / 모아보는 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5d34297082fcc2b19c12",
+            "url": "https://www.youtube.com/watch?v=cX83aA0FNU8",
+            "HG_NM": "김민전",
+            "MONA_CD": "TCP9838Y",
+            "collected_at": "2026-01-18T13:10:28.245000",
+            "duration": 1312.0,
+            "title": "[뉴스파이팅] 이재명 변호인 → 국회 입성 → 이재명 검사 탄핵 #김민전 #배승희 _240704",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:36.055514"
+    "exported_at": "2026-01-18T13:56:09.320401"
 }

@@ -42,37 +42,41 @@
     },
     "analysis": {
         "keywords": [
+            "한민",
+            "국민",
             "대표",
             "민주당",
-            "국민",
-            "장동혁",
+            "통일교",
             "취재",
             "그래픽",
-            "지방선거",
+            "지방",
+            "선거",
             "대통령",
+            "장동",
+            "비서실장",
             "단식",
-            "비서실",
-            "이름",
-            "유권자",
-            "윤수",
-            "방송",
-            "광역단체장"
+            "특검",
+            "이름"
         ],
         "keyword_frequency": [
             {
-                "text": "대표",
-                "value": 11
-            },
-            {
-                "text": "민주당",
-                "value": 11
+                "text": "한민",
+                "value": 53
             },
             {
                 "text": "국민",
-                "value": 11
+                "value": 20
             },
             {
-                "text": "장동혁",
+                "text": "대표",
+                "value": 15
+            },
+            {
+                "text": "민주당",
+                "value": 14
+            },
+            {
+                "text": "통일교",
                 "value": 8
             },
             {
@@ -84,7 +88,11 @@
                 "value": 8
             },
             {
-                "text": "지방선거",
+                "text": "지방",
+                "value": 8
+            },
+            {
+                "text": "선거",
                 "value": 8
             },
             {
@@ -92,57 +100,81 @@
                 "value": 8
             },
             {
+                "text": "장동",
+                "value": 7
+            },
+            {
+                "text": "비서실장",
+                "value": 7
+            },
+            {
                 "text": "단식",
                 "value": 6
             },
             {
-                "text": "비서실",
+                "text": "특검",
                 "value": 6
             },
             {
                 "text": "이름",
                 "value": 6
-            },
-            {
-                "text": "유권자",
-                "value": 6
-            },
-            {
-                "text": "윤수",
-                "value": 6
-            },
-            {
-                "text": "방송",
-                "value": 6
-            },
-            {
-                "text": "광역단체장",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:08.061029",
+        "last_analyzed_at": "2026-01-18T13:56:46.535879",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 2,
                 0,
-                2
+                2,
+                1,
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c13297082fcc2b19bc2",
+            "link": "https://n.news.naver.com/mnews/article/016/0002587262?sid=101",
+            "created_at": "2026-01-18T13:05:39.368000",
+            "description": "이강일 의원, 안도걸 의원, 한민수 의원, 이정수 서울대 교수, 김윤경 인천대 교수, 안수현 한국외대 교수... 지난 16일 국회의원회관에서 한국핀테산업협회와 디지털자산금융학회가 주관한 ‘디지털자산 제도화가 여는... ",
+            "originallink": "https://biz.heraldcorp.com/article/10657566?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-18T09:35:00",
+            "related_members": [
+                "EB16073M",
+                "AEO5706C",
+                "8JG4358H",
+                "5N65159P"
+            ],
+            "title": "“은행 중심 원화스테이블코인 발행…코인런 리스크 확산, 기형적 구조..."
+        },
+        {
+            "_id": "696c5bed297082fcc2b19b92",
+            "link": "https://n.news.naver.com/mnews/article/015/0005238385?sid=101",
+            "created_at": "2026-01-18T13:05:01.840000",
+            "description": "이날 토론회에는 안 의원을 비롯해 이강일 민주당 의원, 한민수 민주당 의원 등 TF 소속 의원들이 참석했다. 안 의원의 이번 발언은 금융당국의 방침을 겨냥한 것으로 보인다. 금융위원회는 최근 국회에 스테이블코인 발행... ",
+            "originallink": "https://www.hankyung.com/article/202601165823g",
+            "press": "한국경제",
+            "pubDate": "2026-01-16T18:06:00",
+            "related_members": [
+                "1Y73132H",
+                "EB16073M",
+                "8JG4358H",
+                "AEO5706C"
+            ],
+            "title": "디지털자산기본법 고삐 죄는 與…\"은행 중심은 혁신 저해\""
+        },
         {
             "_id": "6968ad98297082fcc2b18d31",
             "link": "https://n.news.naver.com/mnews/article/448/0000583917?sid=100",
@@ -445,7 +477,7 @@
             "_id": "6964b546631fd1743499606b",
             "link": "https://n.news.naver.com/mnews/article/028/0002783251?sid=100",
             "created_at": "2026-01-12T17:48:03.765000",
-            "description": "국회에는 북한 사이트에 대한 단순 접근·열람을 가능하게 하는 정보통신방법 개정안도 한민수 민주당 의원 대표발의로 국회 과학기술정보통신위원회에서 심사 중이다.",
+            "description": "국회 외교통일위원회에서 ‘북한 자료의 관리·이용에 관한 법률 제정안’ 2건(민주당 이용선 의원 대표발의, 국민의힘 김기웅 의원 대표발의)을 심사하고 있는 데 협조하겠단 뜻이다. 이 법률안이 병합 심사를 거쳐... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1236496.html",
             "press": "한겨레",
             "pubDate": "2025-12-25T11:12:00",
@@ -455,6 +487,46 @@
                 "8JG4358H"
             ],
             "title": "국정원 “노동신문 등 북한 사이트 접속 전향적 검토”"
+        },
+        {
+            "_id": "6964b592631fd174349964fe",
+            "link": "https://n.news.naver.com/mnews/article/023/0003949024?sid=100",
+            "created_at": "2026-01-12T17:49:20.082000",
+            "description": "양당은 수사 대상에 통일교의 여야 정치권 로비 의혹과 함께 통일교 측으로부터 민주당 전현직 국회의원의... 국민의힘 의원을 거론하며 “나 의원은 천정궁에 갔는가, 안 갔는가”라고도 했다. 당대표비서실장인 한민수... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2025/12/25/77BNM5OAGJCZJC7PCCXIURHH6A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2025-12-25T00:57:00",
+            "related_members": [
+                "8JG4358H"
+            ],
+            "title": "공소시효 끝나길 기다리나… 민주당, 통일교 특검 ‘침대 축구’"
+        },
+        {
+            "_id": "6964b592631fd174349964ff",
+            "link": "https://n.news.naver.com/mnews/article/055/0001318857?sid=100",
+            "created_at": "2026-01-12T17:49:20.082000",
+            "description": "서울 강북을 국회의원 한민수입니다. ▷김태현 : 의원님, 민주당에서 통일교 특검 추진하기로 하셨잖아요. ▶한민수 : 그렇습니다. ▷김태현 : 원래 며칠 전까지만 해도 정청래 대표가 일고의 가치도 없다 이렇게 했었는데... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008380277&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2025-12-24T08:51:00",
+            "related_members": [
+                "8JG4358H",
+                "2385336L"
+            ],
+            "title": "[정치쇼] 한민수 \"野, 통일교 특검 패트 태우자? 하지 말자는 건가\""
+        },
+        {
+            "_id": "6964b592631fd17434996500",
+            "link": "https://n.news.naver.com/mnews/article/055/0001317057?sid=100",
+            "created_at": "2026-01-12T17:49:20.082000",
+            "description": "대표가 국회에 나왔다는 점인데요. 여야 의원들은 한 목소리로 비판했습니다. ▷ 편상욱 / 앵커 : 지금 이 쿠팡 사태에 사실상 전 국민적인 분노 사안인데요. 한민수 의원의 지적대로 쿠팡의 연간 매출액 중 90% 이상이... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008372207&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2025-12-17T15:25:00",
+            "related_members": [
+                "8JG4358H"
+            ],
+            "title": "[여담야담] \"저커버그도 사과했는데\"…김범석 불출석에 \"국민이 호구냐..."
         }
     ],
     "recent_videos": [
@@ -469,6 +541,76 @@
             "upload_date": null
         },
         {
+            "_id": "6966f06c887d07f7ba2fb559",
+            "url": "https://www.youtube.com/watch?v=ABk_lTMZNEk",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:25:00.460000",
+            "duration": 130.0,
+            "title": "오세훈 시장 쉴드치는 박정훈에 직격탄 날리는 한민수 \"1도 관심없어요!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb8",
+            "url": "https://www.youtube.com/watch?v=0EX7AzGIkqI",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:25:00.460000",
+            "duration": 1427.0,
+            "title": "[정면승부] 윤희석 “당의 주인은 국민”  vs 한민수 “당의 주인은 당원”_230926",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb7",
+            "url": "https://www.youtube.com/watch?v=zXiejVyM238",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-13T09:52:32.031000",
+            "duration": 223.0,
+            "title": "하루 만에 사과문 '슬쩍' 내린 쿠팡에 \"국민 무시하나?\" 한민수 질타 / SBS / 바로이뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb6",
+            "url": "https://www.youtube.com/watch?v=GLDbtmsxBK8",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:25:00.460000",
+            "duration": 1218.0,
+            "title": "한민수 \"李 마지막 시정연설이라니… 국힘, 저러다 망할 것\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb4",
+            "url": "https://www.youtube.com/watch?v=GW10n73PXeg",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-13T09:52:31.338000",
+            "duration": 142.0,
+            "title": "윤석열 검찰총장 특활비 사용내역 비판하는 한민수 의원...\"특활비로 수백만원 어치 소고기 먹었습니다! 폭탄주 곁들여서!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb5",
+            "url": "https://www.youtube.com/watch?v=ui4zv0p5jgY",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:25:00.460000",
+            "duration": 635.0,
+            "title": "[모닝콜] 한민수 \"이진숙, '여자 윤석열' 아니냐는 말 나와\" (2025.07.23/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb3",
+            "url": "https://www.youtube.com/watch?v=vIkTsEu4b70",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:24:59.770000",
+            "duration": 200.0,
+            "title": "내란수괴 동의 못한다? 대폭발한 한민수.. 날이 서는 과방위 회의장",
+            "upload_date": null
+        },
+        {
             "_id": "69659751887d07f7ba2faeb1",
             "url": "https://www.youtube.com/watch?v=5Ttx502TwUg",
             "HG_NM": "한민수",
@@ -479,13 +621,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4f",
-            "url": "https://www.youtube.com/watch?v=_NZf7lem7Ag",
+            "_id": "6960ae3d631fd1743497dd4b",
+            "url": "https://www.youtube.com/watch?v=UCwe6Y_E-TW9hSc395jWCpSQ",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-15T18:25:08.648000",
-            "duration": 2700.0,
-            "title": "[뉴스하이킥] 2026년 한국정치, 무슨 일이 펼쳐질까? - 한민수&정성국, MBC 260101방송",
+            "collected_at": "2026-01-18T13:21:58.539000",
+            "duration": null,
+            "title": "한민수TV",
             "upload_date": null
         },
         {
@@ -499,6 +641,16 @@
             "upload_date": null
         },
         {
+            "_id": "696595c1887d07f7ba2facaa",
+            "url": "https://www.youtube.com/watch?v=gFnQQkSFllI",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:24:59.770000",
+            "duration": 369.0,
+            "title": "“인간 같지도 않은 게 진짜 씨” 박정훈, 한민수에 역대급 반말 폭격",
+            "upload_date": null
+        },
+        {
             "_id": "6960ae3d631fd1743497dd50",
             "url": "https://www.youtube.com/watch?v=obu7mP8dHhs",
             "HG_NM": "한민수",
@@ -509,13 +661,33 @@
             "upload_date": null
         },
         {
+            "_id": "6960ae3d631fd1743497dd4f",
+            "url": "https://www.youtube.com/watch?v=_NZf7lem7Ag",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-18T13:21:59.667000",
+            "duration": 2700.0,
+            "title": "[뉴스하이킥] 2026년 한국정치, 무슨 일이 펼쳐질까? - 한민수&정성국, MBC 260101방송",
+            "upload_date": null
+        },
+        {
             "_id": "6960ae3d631fd1743497dd4e",
             "url": "https://www.youtube.com/watch?v=ZyPjXn27S1M",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-15T18:25:07.789000",
+            "collected_at": "2026-01-18T13:21:58.539000",
             "duration": 220.0,
             "title": "빵 터진 최민희 위원장 ...한민수 의원, 뭐라 말했길래",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae3d631fd1743497dd4d",
+            "url": "https://www.youtube.com/watch?v=4i2SqcgwJeg",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-18T13:21:58.539000",
+            "duration": 328.0,
+            "title": "\"대통령 권력 5년, 뭐가 대단하다고 겁이 없나?\"...한민수 의원, 본회의 5분 자유 발언",
             "upload_date": null
         },
         {
@@ -527,37 +699,7 @@
             "duration": 611.0,
             "title": "국회의원 300명에겐 흔템! 한민수 의원에게는 최애템인 이유 듣고 유정의 뱉은 한마디는? | 국집소 | 국회방송",
             "upload_date": null
-        },
-        {
-            "_id": "6960ae3d631fd1743497dd4b",
-            "url": "https://www.youtube.com/watch?v=UCwe6Y_E-TW9hSc395jWCpSQ",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-15T18:25:07.789000",
-            "duration": null,
-            "title": "한민수TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae3d631fd1743497dd4d",
-            "url": "https://www.youtube.com/watch?v=4i2SqcgwJeg",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-15T18:25:07.789000",
-            "duration": 328.0,
-            "title": "\"대통령 권력 5년, 뭐가 대단하다고 겁이 없나?\"...한민수 의원, 본회의 5분 자유 발언",
-            "upload_date": null
-        },
-        {
-            "_id": "696595c1887d07f7ba2facaa",
-            "url": "https://www.youtube.com/watch?v=gFnQQkSFllI",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:24:59.770000",
-            "duration": 369.0,
-            "title": "“인간 같지도 않은 게 진짜 씨” 박정훈, 한민수에 역대급 반말 폭격",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:08.061029"
+    "exported_at": "2026-01-18T13:56:46.535998"
 }

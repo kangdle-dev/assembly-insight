@@ -47,41 +47,73 @@
     },
     "analysis": {
         "keywords": [
+            "원내",
             "한판",
             "승부",
-            "한병도",
-            "준호",
-            "원내대표",
-            "일정",
+            "대표",
             "제주",
-            "정청",
-            "전용기",
-            "민주당",
-            "한국",
+            "수석",
+            "더불어민주당",
+            "자율",
+            "주행",
             "산업",
-            "위성",
-            "핫라인",
-            "가동"
+            "국민",
+            "출신",
+            "선거",
+            "일정",
+            "이날"
         ],
         "keyword_frequency": [
             {
+                "text": "원내",
+                "value": 14
+            },
+            {
                 "text": "한판",
-                "value": 9
+                "value": 11
             },
             {
                 "text": "승부",
+                "value": 11
+            },
+            {
+                "text": "대표",
                 "value": 9
             },
             {
-                "text": "한병도",
+                "text": "제주",
+                "value": 9
+            },
+            {
+                "text": "수석",
+                "value": 8
+            },
+            {
+                "text": "더불어민주당",
                 "value": 7
             },
             {
-                "text": "준호",
-                "value": 7
+                "text": "자율",
+                "value": 6
             },
             {
-                "text": "원내대표",
+                "text": "주행",
+                "value": 6
+            },
+            {
+                "text": "산업",
+                "value": 6
+            },
+            {
+                "text": "국민",
+                "value": 6
+            },
+            {
+                "text": "출신",
+                "value": 6
+            },
+            {
+                "text": "선거",
                 "value": 6
             },
             {
@@ -89,65 +121,111 @@
                 "value": 6
             },
             {
-                "text": "제주",
-                "value": 6
-            },
-            {
-                "text": "정청",
-                "value": 6
-            },
-            {
-                "text": "전용기",
-                "value": 5
-            },
-            {
-                "text": "민주당",
-                "value": 5
-            },
-            {
-                "text": "한국",
-                "value": 5
-            },
-            {
-                "text": "산업",
-                "value": 5
-            },
-            {
-                "text": "위성",
-                "value": 5
-            },
-            {
-                "text": "핫라인",
-                "value": 5
-            },
-            {
-                "text": "가동",
+                "text": "이날",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:41.195523",
+        "last_analyzed_at": "2026-01-18T13:56:16.456763",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
-                0,
-                0,
                 3,
                 2,
                 2,
-                3
+                3,
+                1,
+                2,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bf3297082fcc2b19b95",
+            "link": "https://n.news.naver.com/mnews/article/011/0004579945?sid=105",
+            "created_at": "2026-01-18T13:05:07.542000",
+            "description": "박상혁·김한규·김우영 더불어민주당 의원은 이날 국회에서 ‘테슬라 FSD 국내 상륙과 우리나라 모빌리티 산업의 미래’를 주제로 간담회를 열고 자율주행 규제 개선 방안을 논의했다. 김한규 의원은 “국민의 안전을... ",
+            "originallink": "https://www.sedaily.com/NewsView/2K7CMZFAG2",
+            "press": "서울경제",
+            "pubDate": "2026-01-18T09:36:00",
+            "related_members": [
+                "NUB4941Z",
+                "HXT76735",
+                "3UI95829",
+                "JZY9937U",
+                "5N65159P"
+            ],
+            "title": "\"K-자율주행, 도태 우려\"…美中 추격하려면? [김성태의 딥테크 트렌드]"
+        },
+        {
+            "_id": "696c5be4297082fcc2b19b5c",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474036?sid=100",
+            "created_at": "2026-01-18T13:04:52.147000",
+            "description": "민주당에서 정청래 당대표가 긴급 징계권을 발동할 수 있다라고 했는데 여전히 또 밍기적거리면서 재심을... 의원 : 국회의원에 대한 수사는 다 특검이 해야 하는 건가요? 그건 아니지 않습니까? 그리고 만약에 저희가... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280253?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-18T09:01:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "KFM1081G",
+                "NUB4941Z",
+                "0R68099X",
+                "2385336L"
+            ],
+            "title": "안기부 출신 김병기 '캐비넷' 의문에…정색하고 날린 말 [논/쟁]"
+        },
+        {
+            "_id": "696c5bf9297082fcc2b19ba3",
+            "link": "https://n.news.naver.com/mnews/article/437/0000473984?sid=100",
+            "created_at": "2026-01-18T13:05:13.648000",
+            "description": "[김한규/더불어민주당 의원 : 자 그 정도로 부끄러운 사건이죠. 전 세계에서 없는 일이 대한민국에서 전 세계... 이 사건은 국민들이 그냥 국회의원들이 국회에 못 들어가는 장면 그다음에 군인들이 국회 문을 부수고... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280254?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-17T10:01:00",
+            "related_members": [
+                "NUB4941Z"
+            ],
+            "title": "\"국민이 다 봤다, 내란 무죄 가능?\" \"빅뱅 이래 전무후무\" [논/쟁]"
+        },
+        {
+            "_id": "696c5bf9297082fcc2b19ba4",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106179?sid=100",
+            "created_at": "2026-01-18T13:05:13.649000",
+            "description": "제주시을 국회의원 김한규입니다. ◇ 박재홍&gt; 원내정책수석이 되셨습니다. ◆ 김한규&gt; 당연히 정치권에 원체 자리가 많아서요. 근데 한병도 원내대표가 새로 취임하고 나서 제가 정책 업무를 도와서 해드리는 역할을 맡게... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457807?utm_source=naver&utm_medium=article&utm_campaign=20260117080042",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-17T08:01:00",
+            "related_members": [
+                "NUB4941Z",
+                "H5476989",
+                "KFM1081G",
+                "V429892C",
+                "2385336L"
+            ],
+            "title": "김한규 \"尹 초범이라 감형? 내란재판땐 아냐\"[한판승부]"
+        },
+        {
+            "_id": "696c5bf9297082fcc2b19ba5",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106122?sid=102",
+            "created_at": "2026-01-18T13:05:13.649000",
+            "description": "핵심요약 ■ 방송 : CBS 라디오 &lt;시사매거진 제주&gt; FM 제주시 93.3MHz, 서귀포 90.9MHz (17:00~17:30) ■ 진행자 : 박혜진 아나운서 ■ 대담자 : 김한규 국회의원 ◇박혜진&gt; 신년대담 오늘은 제주시 을 지역구 국회의원인 김한규 의원을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457758?utm_source=naver&utm_medium=article&utm_campaign=20260116055629",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-16T17:57:00",
+            "related_members": [
+                "NUB4941Z"
+            ],
+            "title": "김한규 의원 \"지방선거 민주당 후보 철저히 검증할 것\""
+        },
         {
             "_id": "6968ad98297082fcc2b18d2f",
             "link": "https://n.news.naver.com/mnews/article/003/0013712693?sid=100",
@@ -163,27 +241,6 @@
                 "TJW93720"
             ],
             "title": "국민의례 하는 한병도-천준호-김한규-전용기"
-        },
-        {
-            "_id": "6968ad88297082fcc2b18ce1",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714876?sid=100",
-            "created_at": "2026-01-15T18:04:05.328000",
-            "description": "= ◇국회의장 10:00 윤종빈 한국정치학회 회장 접견 (의장집무실) ◇상임위원회 10:00 12·29 여객기참사... (의원회관 신관 제2세미나실) 12:00 이용우 의원실, (보좌진 브라운백 미팅) K-스틸법·철강 탈탄소 알아보기... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039443",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T05:00:00",
-            "related_members": [
-                "TQP7167T",
-                "SLW27496",
-                "NUB4941Z",
-                "YN160848",
-                "04T3751T",
-                "L7J93733",
-                "TKJ4800F",
-                "OIA3741M",
-                "6K79158C"
-            ],
-            "title": "[오늘의 국회일정] (15일, 목)"
         },
         {
             "_id": "6968ad88297082fcc2b18ce2",
@@ -205,6 +262,27 @@
                 "6K79158C"
             ],
             "title": "[오늘의 주요일정]국회(1월15일 목요일)"
+        },
+        {
+            "_id": "6968ad88297082fcc2b18ce1",
+            "link": "https://n.news.naver.com/mnews/article/421/0008714876?sid=100",
+            "created_at": "2026-01-15T18:04:05.328000",
+            "description": "= ◇국회의장 10:00 윤종빈 한국정치학회 회장 접견 (의장집무실) ◇상임위원회 10:00 12·29 여객기참사... (의원회관 신관 제2세미나실) 12:00 이용우 의원실, (보좌진 브라운백 미팅) K-스틸법·철강 탈탄소 알아보기... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6039443",
+            "press": "뉴스1",
+            "pubDate": "2026-01-15T05:00:00",
+            "related_members": [
+                "TQP7167T",
+                "SLW27496",
+                "NUB4941Z",
+                "YN160848",
+                "04T3751T",
+                "L7J93733",
+                "TKJ4800F",
+                "OIA3741M",
+                "6K79158C"
+            ],
+            "title": "[오늘의 국회일정] (15일, 목)"
         },
         {
             "_id": "6968ad92297082fcc2b18d1c",
@@ -259,7 +337,7 @@
             "_id": "69659499887d07f7ba2fab15",
             "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
             "created_at": "2026-01-13T09:40:55.415000",
-            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 지금 추미애 한준호 염태영 김병주 양기대 이런 분들까지 지금 함께 나오고 있습니다만. ◆ 이동형... ",
+            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 원내 운영 수석부대표로 천준호 의원이 임명됐는데 이분이 이재명 대표 시절에 비서실장했던... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T08:01:00",
@@ -450,11 +528,91 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ac2e631fd1743497d558",
+            "url": "https://www.youtube.com/watch?v=OPtuSlXPTo8",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 1552.0,
+            "title": "김한규 “계엄 직후 국힘 단톡방, 본회의 표결 얘기 없어” 김재섭 “계엄 날, 추경호 표결 방해 없었다” [한판승부]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d1",
+            "url": "https://www.youtube.com/watch?v=UCbSEuksiYgUh7rJmCt_C8sQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": null,
+            "title": "한큐에 김한규",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d2",
+            "url": "https://www.youtube.com/watch?v=HyDUUuom3qs",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 323.0,
+            "title": "[한큐위키] 김한규는 누구인가",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d3",
+            "url": "https://www.youtube.com/watch?v=14NZ0BSubPc",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 148.0,
+            "title": "차기 도지사는?…김한규 19%, 오영훈 11% [여론조사] / KBS  2025.10.06.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d4",
+            "url": "https://www.youtube.com/watch?v=EtODqLMb5JQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 465.0,
+            "title": "[뉴스파다 외전] 발표할 땐 135억 배럴...지금은 35억? 답답해서 고함치는 #김한규의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d5",
+            "url": "https://www.youtube.com/watch?v=MEIIJmJ6p28",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 186.0,
+            "title": "Ep.7 김한규 의원을 16시간 동안 따라다녀 봤다 #이재명 #대통령",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d6",
+            "url": "https://www.youtube.com/watch?v=hAJdc4gZxa4",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 61.0,
+            "title": "김한규 국회의원, '국회 개점휴업 방지법' 발의…\"업무공백 없어야\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d7",
+            "url": "https://www.youtube.com/watch?v=mOe-HylkugQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-18T13:12:24.291000",
+            "duration": 87.0,
+            "title": "예고) 김한규 의원의 \"권리는 올리고 책임은 더하고” - 알면 당신도 법테랑 - 97회",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac4a631fd1743497d5d8",
             "url": "https://www.youtube.com/watch?v=WLTVyAR6JDc",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-15T18:16:18.564000",
+            "collected_at": "2026-01-18T13:12:25.367000",
             "duration": 117.0,
             "title": "장경태에 野 \"사퇴하고 포토라인 서라\"…與 김한규 \"당에서 장경태 보호식 발언 안 해야\" [뉴스7]",
             "upload_date": null
@@ -464,91 +622,41 @@
             "url": "https://www.youtube.com/watch?v=GwGF1FlLriQ",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-15T18:16:18.564000",
+            "collected_at": "2026-01-18T13:12:25.367000",
             "duration": 310.0,
             "title": "김한규도 편법 농지 의혹 \"투기 아냐…깻잎 키운다\" | 뉴스A 라이브",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5d4",
-            "url": "https://www.youtube.com/watch?v=EtODqLMb5JQ",
+            "_id": "6960ac4a631fd1743497d5da",
+            "url": "https://www.youtube.com/watch?v=pNy4jG-iuG8",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-13T09:44:43.816000",
-            "duration": 465.0,
-            "title": "[뉴스파다 외전] 발표할 땐 135억 배럴...지금은 35억? 답답해서 고함치는 #김한규의원",
+            "collected_at": "2026-01-13T09:44:44.310000",
+            "duration": 1047.0,
+            "title": "[뉴스킹] 코인 의혹, 문제 있다면 \"길거리 노숙 불사!\" with 김한규_230511",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5d7",
-            "url": "https://www.youtube.com/watch?v=mOe-HylkugQ",
+            "_id": "6966ee90887d07f7ba2fb3f0",
+            "url": "https://www.youtube.com/watch?v=qwI7JSWoIuc",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-13T09:44:43.816000",
-            "duration": 87.0,
-            "title": "예고) 김한규 의원의 \"권리는 올리고 책임은 더하고” - 알면 당신도 법테랑 - 97회",
+            "collected_at": "2026-01-14T10:17:04.574000",
+            "duration": 671.0,
+            "title": "\"부총리 된 뒤 대통령 부인께 선물?\"...김한규의 면전 돌직구에...",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5d5",
-            "url": "https://www.youtube.com/watch?v=MEIIJmJ6p28",
+            "_id": "696c5da9297082fcc2b19c44",
+            "url": "https://www.youtube.com/watch?v=Ciu27Mkmw_8",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-13T09:44:43.816000",
-            "duration": 186.0,
-            "title": "Ep.7 김한규 의원을 16시간 동안 따라다녀 봤다 #이재명 #대통령",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d3",
-            "url": "https://www.youtube.com/watch?v=14NZ0BSubPc",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-13T09:44:43.816000",
-            "duration": 148.0,
-            "title": "차기 도지사는?…김한규 19%, 오영훈 11% [여론조사] / KBS  2025.10.06.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d1",
-            "url": "https://www.youtube.com/watch?v=UCbSEuksiYgUh7rJmCt_C8sQ",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-15T18:16:17.633000",
-            "duration": null,
-            "title": "한큐에 김한규",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac2e631fd1743497d558",
-            "url": "https://www.youtube.com/watch?v=OPtuSlXPTo8",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-15T18:16:17.633000",
-            "duration": 1552.0,
-            "title": "김한규 “계엄 직후 국힘 단톡방, 본회의 표결 얘기 없어” 김재섭 “계엄 날, 추경호 표결 방해 없었다” [한판승부]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d2",
-            "url": "https://www.youtube.com/watch?v=HyDUUuom3qs",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-15T18:16:17.633000",
-            "duration": 323.0,
-            "title": "[한큐위키] 김한규는 누구인가",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d6",
-            "url": "https://www.youtube.com/watch?v=hAJdc4gZxa4",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-13T09:44:43.816000",
-            "duration": 61.0,
-            "title": "김한규 국회의원, '국회 개점휴업 방지법' 발의…\"업무공백 없어야\"",
+            "collected_at": "2026-01-18T13:12:25.367000",
+            "duration": 143.0,
+            "title": "김한규에게 꼭 투표 부탁드립니다!",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:41.195523"
+    "exported_at": "2026-01-18T13:56:16.456884"
 }

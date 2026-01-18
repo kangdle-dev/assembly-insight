@@ -42,57 +42,61 @@
     },
     "analysis": {
         "keywords": [
-            "전진",
             "광주",
             "통합",
-            "민주당",
+            "전진",
             "행정",
             "전남",
-            "무안공항",
-            "판다",
-            "국정감사",
+            "더불어민주당",
+            "특별법",
+            "무안",
+            "공항",
+            "관리",
             "참사",
-            "박지원",
-            "강기정",
-            "대통령",
-            "여객기",
-            "광주시"
+            "북구",
+            "조류",
+            "시장",
+            "조인철"
         ],
         "keyword_frequency": [
             {
-                "text": "전진",
-                "value": 38
-            },
-            {
                 "text": "광주",
-                "value": 29
+                "value": 35
             },
             {
                 "text": "통합",
-                "value": 19
+                "value": 25
             },
             {
-                "text": "민주당",
-                "value": 17
+                "text": "전진",
+                "value": 23
             },
             {
                 "text": "행정",
-                "value": 16
+                "value": 22
             },
             {
                 "text": "전남",
-                "value": 14
+                "value": 19
             },
             {
-                "text": "무안공항",
+                "text": "더불어민주당",
+                "value": 13
+            },
+            {
+                "text": "특별법",
+                "value": 11
+            },
+            {
+                "text": "무안",
                 "value": 10
             },
             {
-                "text": "판다",
+                "text": "공항",
                 "value": 10
             },
             {
-                "text": "국정감사",
+                "text": "관리",
                 "value": 10
             },
             {
@@ -100,49 +104,85 @@
                 "value": 9
             },
             {
-                "text": "박지원",
+                "text": "북구",
                 "value": 8
             },
             {
-                "text": "강기정",
+                "text": "조류",
                 "value": 8
             },
             {
-                "text": "대통령",
-                "value": 8
-            },
-            {
-                "text": "여객기",
+                "text": "시장",
                 "value": 7
             },
             {
-                "text": "광주시",
+                "text": "조인철",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:01.910325",
+        "last_analyzed_at": "2026-01-18T13:56:39.587608",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                0,
-                0,
                 0,
                 0,
                 3,
-                5
+                5,
+                1,
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bfd297082fcc2b19ba9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008719936?sid=102",
+            "created_at": "2026-01-18T13:05:17.542000",
+            "description": "북구갑) 국회의원 등 행정통합을 앞두고 광주·전남특별시장 출마 후보군들도 대거 참석했다. 이개호 의원은... 연수갑) 의원과 문정복 최고위원(시흥갑), 전용기 의언, 양부남 광주시당위원장(광주 서구을), 조인철 의원... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6042401",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T09:16:00",
+            "related_members": [
+                "BT62420K",
+                "7R156073",
+                "GOC54665",
+                "I7R13867",
+                "VRY5522V",
+                "IC499858",
+                "80C5885Z",
+                "EB16073M",
+                "IWR8966I",
+                "QUR40502",
+                "7YC6702R",
+                "9HE7226N",
+                "TJW93720",
+                "CK143054",
+                "ZKB18611"
+            ],
+            "title": "이정선 광주교육감 출판기념회…\"단 한 명의 아이도 포기 않는다\""
+        },
+        {
+            "_id": "696c5c2e297082fcc2b19bda",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106029?sid=102",
+            "created_at": "2026-01-18T13:06:06.002000",
+            "description": "전진숙 국회의원은 이번 발표를 \"행정통합을 국가균형발전의 핵심 과제로 분명히 한 결정적 전환점\"이라고 평가했다. 더불어민주당 전진숙 의원은 16일 성명서를 통해 \"정부의 행정통합 인센티브 발표를 광주·전남... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457594?utm_source=naver&utm_medium=article&utm_campaign=20260116034227",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-16T15:43:00",
+            "related_members": [
+                "QUR40502"
+            ],
+            "title": "전진숙 의원, 정부 행정통합 인센티브 발표 환영"
+        },
         {
             "_id": "6968adc6297082fcc2b18dd5",
             "link": "https://n.news.naver.com/mnews/article/421/0008716134?sid=102",
@@ -248,7 +288,7 @@
             "_id": "6968ad88297082fcc2b18ce0",
             "link": "https://n.news.naver.com/mnews/article/079/0004105281?sid=102",
             "created_at": "2026-01-15T18:04:05.049000",
-            "description": "간담회에는 김영록 전남도지사와 강기정 광주광역시장, 김원이 국회의원(전남도당위원장), 양부남 국회의원(광주시당위원장) 박지원, 신정훈, 이개호, 서삼석, 주철현, 조계원, 문금주, 권향엽, 김문수, 민형배, 조인철... ",
+            "description": "민형배, 조인철, 정진욱, 안도걸, 박균택, 전진숙, 정준호 등 광주·전남 지역 국회의원이 대거 참석해 행정통합의 방향성과 함께 특별법의 주요 내용, 쟁점 사항에 의견을 나눴다. 전남도와 광주시가 함께 마련한 이번... ",
             "originallink": "https://www.nocutnews.co.kr/news/6456517?utm_source=naver&utm_medium=article&utm_campaign=20260115024504",
             "press": "노컷뉴스",
             "pubDate": "2026-01-15T09:17:00",
@@ -357,7 +397,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -437,7 +477,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -617,6 +657,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ace1631fd1743497d837",
+            "url": "https://www.youtube.com/watch?v=rBkmbU9hM60",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:50.086000",
+            "duration": 231.0,
+            "title": "전진숙, '이재명 대통령 범죄 역사' 서지영 발언에 분개 \"사과 안 하면 윤리위 제소\" 경고",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb3",
+            "url": "https://www.youtube.com/watch?v=f0uZIXAasao",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:49.029000",
+            "duration": 1159.0,
+            "title": "현장인터뷰 이사람 - 전진숙 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb4",
+            "url": "https://www.youtube.com/watch?v=zUl7ULniMEo",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:50.086000",
+            "duration": 60.0,
+            "title": "#윤석열 #대통령 #파면을 #촉구하며 #삭발을 #감행한 #더불어민주당 #국회의원 #전진숙",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb5",
+            "url": "https://www.youtube.com/watch?v=rufhbvvlqiQ",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:49.029000",
+            "duration": 294.0,
+            "title": "2025 #국정감사 #국정감사 #보건복지부 3차시 #전진숙국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb7",
+            "url": "https://www.youtube.com/watch?v=LLJdCr-_Ays",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:49.029000",
+            "duration": 340.0,
+            "title": "민주당 전진숙 의원,노인 인권 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb8",
+            "url": "https://www.youtube.com/watch?v=bBs31NfXkxc",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:49.029000",
+            "duration": 421.0,
+            "title": "#2025국정감사 #성평등가족부 #전진숙국회의원 #더불어민주당 #돌봄 #아이돌보미 #온라인도박 #초등학생도박 #진짜대한민국 #국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbb9",
+            "url": "https://www.youtube.com/watch?v=QHld9RW75TA",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-15T18:23:04.894000",
+            "duration": 81.0,
+            "title": "[전진숙 국회의원] 제22대 국회 보건복지위원회 첫 전체회의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcb631fd1743497dbba",
+            "url": "https://www.youtube.com/watch?v=x8k0BOiBqDU",
+            "HG_NM": "전진숙",
+            "MONA_CD": "QUR40502",
+            "collected_at": "2026-01-18T13:19:50.086000",
+            "duration": 487.0,
+            "title": "전진숙, 운영위 국감에서 김건희 관련 초대형 의혹 제기 [G1현장영상]",
+            "upload_date": null
+        },
+        {
             "_id": "696596e5887d07f7ba2fae0a",
             "url": "https://www.youtube.com/watch?v=oDqy5KY1tOI",
             "HG_NM": "전진숙",
@@ -637,85 +757,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960adcb631fd1743497dbb7",
-            "url": "https://www.youtube.com/watch?v=LLJdCr-_Ays",
+            "_id": "696596e5887d07f7ba2fae0c",
+            "url": "https://www.youtube.com/watch?v=XdB_ZRRUSgc",
             "HG_NM": "전진숙",
             "MONA_CD": "QUR40502",
             "collected_at": "2026-01-15T18:23:04.894000",
-            "duration": 340.0,
-            "title": "민주당 전진숙 의원,노인 인권 관련 기자회견",
+            "duration": 482.0,
+            "title": "#2025국정감사  #보건복지부  #종합감사 #전진숙국회의원 국가트라우마센터 전면개편요구",
             "upload_date": null
         },
         {
-            "_id": "6960adcb631fd1743497dbba",
-            "url": "https://www.youtube.com/watch?v=x8k0BOiBqDU",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-15T18:23:05.620000",
-            "duration": 487.0,
-            "title": "전진숙, 운영위 국감에서 김건희 관련 초대형 의혹 제기 [G1현장영상]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbb8",
-            "url": "https://www.youtube.com/watch?v=bBs31NfXkxc",
+            "_id": "696596e5887d07f7ba2fae0b",
+            "url": "https://www.youtube.com/watch?v=ZpGnH7BC15c",
             "HG_NM": "전진숙",
             "MONA_CD": "QUR40502",
             "collected_at": "2026-01-15T18:23:04.894000",
-            "duration": 421.0,
-            "title": "#2025국정감사 #성평등가족부 #전진숙국회의원 #더불어민주당 #돌봄 #아이돌보미 #온라인도박 #초등학생도박 #진짜대한민국 #국정감사",
+            "duration": 502.0,
+            "title": "#2025국정감사 #성평등가족부 #성평등가족위원회 #전진숙국회의원 #1인가구 #돌봄 #친밀한관계폭력 #가족연인폭력 #더불어민주당 #국정감사 #전진숙",
             "upload_date": null
         },
         {
-            "_id": "6960adcb631fd1743497dbb5",
-            "url": "https://www.youtube.com/watch?v=rufhbvvlqiQ",
+            "_id": "696596e5887d07f7ba2fae0d",
+            "url": "https://www.youtube.com/watch?v=ATy4NmwYOY0",
             "HG_NM": "전진숙",
             "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-15T18:23:04.894000",
-            "duration": 294.0,
-            "title": "2025 #국정감사 #국정감사 #보건복지부 3차시 #전진숙국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbb3",
-            "url": "https://www.youtube.com/watch?v=f0uZIXAasao",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-15T18:23:04.894000",
-            "duration": 1159.0,
-            "title": "현장인터뷰 이사람 - 전진숙 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace1631fd1743497d837",
-            "url": "https://www.youtube.com/watch?v=rBkmbU9hM60",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-15T18:23:05.620000",
-            "duration": 231.0,
-            "title": "전진숙, '이재명 대통령 범죄 역사' 서지영 발언에 분개 \"사과 안 하면 윤리위 제소\" 경고",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbb4",
-            "url": "https://www.youtube.com/watch?v=zUl7ULniMEo",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-09T16:27:04.275000",
-            "duration": 60.0,
-            "title": "#윤석열 #대통령 #파면을 #촉구하며 #삭발을 #감행한 #더불어민주당 #국회의원 #전진숙",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcb631fd1743497dbb9",
-            "url": "https://www.youtube.com/watch?v=QHld9RW75TA",
-            "HG_NM": "전진숙",
-            "MONA_CD": "QUR40502",
-            "collected_at": "2026-01-15T18:23:04.894000",
-            "duration": 81.0,
-            "title": "[전진숙 국회의원] 제22대 국회 보건복지위원회 첫 전체회의",
+            "collected_at": "2026-01-14T10:23:21.819000",
+            "duration": 922.0,
+            "title": "[민동기의뉴스바] 전진숙'나라 곳간 지킨다는 자유한국당?\"정신 차려라\"'(2017.12.04)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:01.910325"
+    "exported_at": "2026-01-18T13:56:39.587728"
 }

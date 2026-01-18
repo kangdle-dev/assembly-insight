@@ -47,29 +47,49 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
-            "광역단체장",
+            "장관",
+            "의원실",
+            "공공",
+            "더불어민주당",
+            "지방",
+            "광역",
+            "단체장",
             "이혜훈",
-            "자리야",
+            "자리",
             "녹취",
             "폭로",
-            "공공",
             "경영",
             "국민",
             "인턴",
-            "후보자",
-            "영상편집",
-            "장관",
-            "국힘",
-            "지방선거"
+            "후보자"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
+                "text": "장관",
+                "value": 11
+            },
+            {
+                "text": "의원실",
                 "value": 9
             },
             {
-                "text": "광역단체장",
+                "text": "공공",
+                "value": 9
+            },
+            {
+                "text": "더불어민주당",
+                "value": 8
+            },
+            {
+                "text": "지방",
+                "value": 6
+            },
+            {
+                "text": "광역",
+                "value": 6
+            },
+            {
+                "text": "단체장",
                 "value": 6
             },
             {
@@ -77,7 +97,7 @@
                 "value": 6
             },
             {
-                "text": "자리야",
+                "text": "자리",
                 "value": 6
             },
             {
@@ -86,10 +106,6 @@
             },
             {
                 "text": "폭로",
-                "value": 6
-            },
-            {
-                "text": "공공",
                 "value": 6
             },
             {
@@ -107,34 +123,18 @@
             {
                 "text": "후보자",
                 "value": 5
-            },
-            {
-                "text": "영상편집",
-                "value": 5
-            },
-            {
-                "text": "장관",
-                "value": 5
-            },
-            {
-                "text": "국힘",
-                "value": 4
-            },
-            {
-                "text": "지방선거",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:56.645140",
+        "last_analyzed_at": "2026-01-18T13:56:33.649927",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
@@ -142,12 +142,52 @@
                 0,
                 0,
                 0,
-                0,
-                0
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5be4297082fcc2b19b5d",
+            "link": "https://n.news.naver.com/mnews/article/032/0003422141?sid=100",
+            "created_at": "2026-01-18T13:04:52.147000",
+            "description": "더불어민주당 원내대표였던 김병기 의원의 공천 헌금 의혹이 불거진 지난 1월 6일, 정청래 당대표는... 국회의원이 갖는 지방의원 공천권은 지방정치를 중앙정치에 종속되게 만들고, 국회의원이 지역에서 왕 노릇을 하게끔... ",
+            "originallink": "https://www.khan.co.kr/article/202601180900021",
+            "press": "경향신문",
+            "pubDate": "2026-01-18T09:00:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "WTR5885Y",
+                "QWL7778X",
+                "2385336L"
+            ],
+            "title": "거대 양당이 독점한 공천권, ‘김병기 사태’ 불렀다"
+        },
+        {
+            "_id": "696c5bed297082fcc2b19b8e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
+            "created_at": "2026-01-18T13:05:01.197000",
+            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-17T22:24:00",
+            "related_members": [
+                "HSS7466Y",
+                "URV1689Q",
+                "88O1334C",
+                "ATB59635",
+                "BCQ55105",
+                "WTR5885Y",
+                "3ZR4438W",
+                "5765663F",
+                "GF286398",
+                "1WE5693J",
+                "UQ282145"
+            ],
+            "title": "\"숨 막힌 학교에 숨을\"…유은혜, '적자생존 교육'에 직격탄"
+        },
         {
             "_id": "6964b578631fd17434996396",
             "link": "http://andongmbc.co.kr/adboard/NewsView80041",
@@ -310,6 +350,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad6a631fd1743497da2c",
+            "url": "https://www.youtube.com/watch?v=UCWw2YRY-nQFi6MrFVI30jkA",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-18T13:18:01.090000",
+            "duration": null,
+            "title": "이소영 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad6a631fd1743497da2d",
+            "url": "https://www.youtube.com/watch?v=mK91IXe_Lfw",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-18T13:18:01.090000",
+            "duration": 331.0,
+            "title": "\"이소영 의원, 어딨습니까?\".. 시작부터 '화기애애' 민주당 의총, 이유는?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad6a631fd1743497da2e",
+            "url": "https://www.youtube.com/watch?v=UVkkglnRhk4",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-18T13:18:01.090000",
+            "duration": 71.0,
+            "title": "개미가 국회의원을 이용하는 가장 쉬운 방법 #이소영 #의원 #국회 #법안 #개미 #소득세 #조특법",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad6a631fd1743497da2f",
+            "url": "https://www.youtube.com/watch?v=D-WYp3ZC_4g",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-18T13:18:02.135000",
+            "duration": 286.0,
+            "title": "[오늘 이 뉴스] \"장관들, 막을 힘이 없었다고요\", 이소영 칼날 같은 연설에 '숙연' (2024.12.11/MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad6a631fd1743497da30",
+            "url": "https://www.youtube.com/watch?v=yqszs5EMIMw",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-18T13:18:02.135000",
+            "duration": 461.0,
+            "title": "[오늘 이 뉴스] \"걱정 전달하는데 정족수는 왜?\"..이소영 '팩폭'에 한덕수 흔들 (2024.12.11/MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad6a631fd1743497da31",
+            "url": "https://www.youtube.com/watch?v=Q7zU2-fNUUk",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-18T13:18:02.135000",
+            "duration": 85.0,
+            "title": "구윤철 답변에 얼굴 찡그리는 이소영 / #채널A #뉴스TOP10 #shorts",
+            "upload_date": null
+        },
+        {
+            "_id": "69659688887d07f7ba2fad7d",
+            "url": "https://www.youtube.com/watch?v=NNNv-BIrXvc",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-14T10:21:50.076000",
+            "duration": 4951.0,
+            "title": "이소영 의원 LIVE 코스피 4,000 이게 끝이 아니다 / 이소영 의원 / 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "69659688887d07f7ba2fad7e",
+            "url": "https://www.youtube.com/watch?v=QyClPSkc9a8",
+            "HG_NM": "이소영",
+            "MONA_CD": "WTR5885Y",
+            "collected_at": "2026-01-13T09:49:09.975000",
+            "duration": 428.0,
+            "title": "\"평일은 술 마시고 주말엔 골프치고\" 이소영 의원이 달력 띄우자 용산 멘붕",
+            "upload_date": null
+        },
+        {
             "_id": "69659688887d07f7ba2fad7f",
             "url": "https://www.youtube.com/watch?v=YemyeP5gH-M",
             "HG_NM": "이소영",
@@ -330,85 +450,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad6a631fd1743497da30",
-            "url": "https://www.youtube.com/watch?v=yqszs5EMIMw",
+            "_id": "6966efae887d07f7ba2fb4ca",
+            "url": "https://www.youtube.com/watch?v=ppuw6NuV9_E",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-15T18:21:25.520000",
-            "duration": 461.0,
-            "title": "[오늘 이 뉴스] \"걱정 전달하는데 정족수는 왜?\"..이소영 '팩폭'에 한덕수 흔들 (2024.12.11/MBC뉴스)",
+            "collected_at": "2026-01-14T10:21:50.796000",
+            "duration": 1151.0,
+            "title": "[김어준의 겸손은 힘들다 뉴스공장 X 이소영 의원] 원희룡 장관만을 위한 1타강사 이소영 / 서울양평고속도로 게이트 '공흥지구 2탄 기획 의혹'",
             "upload_date": null
         },
         {
-            "_id": "69659688887d07f7ba2fad7e",
-            "url": "https://www.youtube.com/watch?v=QyClPSkc9a8",
+            "_id": "696c5efa297082fcc2b19cd8",
+            "url": "https://www.youtube.com/watch?v=uFHTKOm1kDk",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-13T09:49:09.975000",
-            "duration": 428.0,
-            "title": "\"평일은 술 마시고 주말엔 골프치고\" 이소영 의원이 달력 띄우자 용산 멘붕",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad6a631fd1743497da31",
-            "url": "https://www.youtube.com/watch?v=Q7zU2-fNUUk",
-            "HG_NM": "이소영",
-            "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-15T18:21:25.520000",
-            "duration": 85.0,
-            "title": "구윤철 답변에 얼굴 찡그리는 이소영 / #채널A #뉴스TOP10 #shorts",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad6a631fd1743497da2f",
-            "url": "https://www.youtube.com/watch?v=D-WYp3ZC_4g",
-            "HG_NM": "이소영",
-            "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-15T18:21:25.520000",
-            "duration": 286.0,
-            "title": "[오늘 이 뉴스] \"장관들, 막을 힘이 없었다고요\", 이소영 칼날 같은 연설에 '숙연' (2024.12.11/MBC뉴스)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad6a631fd1743497da2d",
-            "url": "https://www.youtube.com/watch?v=mK91IXe_Lfw",
-            "HG_NM": "이소영",
-            "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-15T18:21:24.689000",
-            "duration": 331.0,
-            "title": "\"이소영 의원, 어딨습니까?\".. 시작부터 '화기애애' 민주당 의총, 이유는?",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad6a631fd1743497da2c",
-            "url": "https://www.youtube.com/watch?v=UCWw2YRY-nQFi6MrFVI30jkA",
-            "HG_NM": "이소영",
-            "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-15T18:21:24.689000",
-            "duration": null,
-            "title": "이소영 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad6a631fd1743497da2e",
-            "url": "https://www.youtube.com/watch?v=UVkkglnRhk4",
-            "HG_NM": "이소영",
-            "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-15T18:21:24.689000",
-            "duration": 71.0,
-            "title": "개미가 국회의원을 이용하는 가장 쉬운 방법 #이소영 #의원 #국회 #법안 #개미 #소득세 #조특법",
-            "upload_date": null
-        },
-        {
-            "_id": "69659688887d07f7ba2fad7d",
-            "url": "https://www.youtube.com/watch?v=NNNv-BIrXvc",
-            "HG_NM": "이소영",
-            "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-01-14T10:21:50.076000",
-            "duration": 4951.0,
-            "title": "이소영 의원 LIVE 코스피 4,000 이게 끝이 아니다 / 이소영 의원 / 라이브",
+            "collected_at": "2026-01-18T13:18:01.090000",
+            "duration": 174.0,
+            "title": "[이소영 의원/국토위] 원희룡 장관, '정치중립' 약속 거부",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:56.645140"
+    "exported_at": "2026-01-18T13:56:33.650006"
 }

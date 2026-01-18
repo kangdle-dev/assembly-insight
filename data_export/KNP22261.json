@@ -43,106 +43,132 @@
     "analysis": {
         "keywords": [
             "조국",
-            "차규",
             "혁신",
-            "기자회견",
-            "병역",
+            "회견",
             "이혜훈",
             "공천",
-            "청문",
-            "후보자",
             "발의",
-            "개혁",
-            "아들",
-            "특혜",
+            "후보자",
             "논란",
-            "계획"
+            "병역",
+            "청문",
+            "대표",
+            "대구",
+            "기획",
+            "원내",
+            "개혁"
         ],
         "keyword_frequency": [
             {
                 "text": "조국",
-                "value": 43
-            },
-            {
-                "text": "차규",
-                "value": 34
+                "value": 56
             },
             {
                 "text": "혁신",
-                "value": 29
+                "value": 42
             },
             {
-                "text": "기자회견",
-                "value": 13
+                "text": "회견",
+                "value": 21
+            },
+            {
+                "text": "이혜훈",
+                "value": 17
+            },
+            {
+                "text": "공천",
+                "value": 17
+            },
+            {
+                "text": "발의",
+                "value": 16
+            },
+            {
+                "text": "후보자",
+                "value": 12
+            },
+            {
+                "text": "논란",
+                "value": 12
             },
             {
                 "text": "병역",
                 "value": 12
             },
             {
-                "text": "이혜훈",
-                "value": 11
-            },
-            {
-                "text": "공천",
-                "value": 11
-            },
-            {
                 "text": "청문",
                 "value": 10
             },
             {
-                "text": "후보자",
-                "value": 10
+                "text": "대표",
+                "value": 9
             },
             {
-                "text": "발의",
+                "text": "대구",
                 "value": 9
+            },
+            {
+                "text": "기획",
+                "value": 8
+            },
+            {
+                "text": "원내",
+                "value": 8
             },
             {
                 "text": "개혁",
                 "value": 8
-            },
-            {
-                "text": "아들",
-                "value": 8
-            },
-            {
-                "text": "특혜",
-                "value": 8
-            },
-            {
-                "text": "논란",
-                "value": 8
-            },
-            {
-                "text": "계획",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:06.150848",
+        "last_analyzed_at": "2026-01-18T13:56:44.349400",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
-                0,
-                3,
                 3,
                 6,
+                0,
+                1,
+                1,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c39297082fcc2b19be5",
+            "link": "https://n.news.naver.com/mnews/article/015/0005238270?sid=100",
+            "created_at": "2026-01-18T13:06:16.961000",
+            "description": "국회 재정경제기획위원회 소속 차규근 조국혁신당 의원이 국회 공보 등을 통해 확인한 자료에 따르면, 이 후보자는 2011년 3월 재산신고에서 예금을 전년보다 약 5억4000만원 늘어난 13억4000만원으로 기재했다. 이듬해... ",
+            "originallink": "https://www.hankyung.com/article/202601165653i",
+            "press": "한국경제",
+            "pubDate": "2026-01-16T16:24:00",
+            "related_members": [
+                "KNP22261"
+            ],
+            "title": "[단독] 이혜훈, 갑자기 늘어난 8억…재산신고 위반 의혹"
+        },
+        {
+            "_id": "69690303297082fcc2b1929b",
+            "link": "https://n.news.naver.com/mnews/article/015/0005237850?sid=100",
+            "created_at": "2026-01-16T00:08:51.432000",
+            "description": "국회 기획재정위원회 소속 차규근 조국혁신당 의원이 국회사무처로부터 제출받은 자료에 따르면, 이 후보자는 17·18·20대 국회에서 활동한 12년 동안 총 87명의 보좌진을 교체(중복 포함)했다. 세부적으로 살펴보면... ",
+            "originallink": "https://www.hankyung.com/article/202601153628i",
+            "press": "한국경제",
+            "pubDate": "2026-01-15T18:14:00",
+            "related_members": [
+                "KNP22261"
+            ],
+            "title": "[단독] '갑질논란' 이혜훈, 보좌진 교체비율 평균 보다 20%↑"
+        },
         {
             "_id": "6966ec7f887d07f7ba2fb2cb",
             "link": "https://n.news.naver.com/mnews/article/011/0004578232?sid=100",
@@ -471,27 +497,69 @@
                 "KNP22261"
             ],
             "title": "‘전두환 미화 방지법’ 국회 발의…시민단체 “이승만·박정희 기념도..."
+        },
+        {
+            "_id": "6964b585631fd1743499645c",
+            "link": "https://kjmbc.co.kr/NewsArticle/1498455",
+            "created_at": "2026-01-12T17:49:06.613000",
+            "description": "* 차규근 조국혁신당 국회의원 \"반란과 내란 수괴죄로 사형을 선고받은 전두환 씨를 기념하는 것은 일반 상식과 민주주의 가치에 정면으로 배치되는 것입니다.\" 생명의 숲 되찾기 합천군민운동본부는 \"일해공원 문제에... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1498455",
+            "press": "MBC",
+            "pubDate": "2025-12-30T20:40:00",
+            "related_members": [
+                "ARP89147",
+                "KNP22261"
+            ],
+            "title": "[경남] '전두환 기념사업 전면 금지' 5.18 특별법 개정안 발의"
+        },
+        {
+            "_id": "6964b540631fd17434995fd1",
+            "link": "https://n.news.naver.com/mnews/article/028/0002783930?sid=102",
+            "created_at": "2026-01-12T17:47:57.718000",
+            "description": "장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원·양부남(이상 민주당), 서왕진·황운하·김준형·정춘생·김선민·강경숙·백선희·이해민... ",
+            "originallink": "https://www.hani.co.kr/arti/area/honam/1237161.html",
+            "press": "한겨레",
+            "pubDate": "2025-12-30T11:44:00",
+            "related_members": [
+                "0YT3774N",
+                "8BF5855P",
+                "7GW5372Y",
+                "YN160848",
+                "80C5885Z",
+                "XG348314",
+                "T2T8225E",
+                "86R9476S",
+                "CK143054",
+                "0698755I",
+                "8A05621B",
+                "ARP89147",
+                "CC78321E",
+                "KNP22261",
+                "3TP65086",
+                "P8A4624C"
+            ],
+            "title": "‘전두환 미화 방지법’ 국회 발의…합천 일해공원 논란 끝낼까"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960ae19631fd1743497dcd2",
-            "url": "https://www.youtube.com/watch?v=sw7ALJIMFuc",
+            "_id": "696c5fbf297082fcc2b19d30",
+            "url": "https://www.youtube.com/watch?v=k8nzQWI9LfQ",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-09T16:28:22.772000",
-            "duration": 102.0,
-            "title": "[단독] 검찰, '김학의 불법 출국금지 의혹' 차규근 소환 / YTN",
+            "collected_at": "2026-01-18T13:21:17.854000",
+            "duration": 454.0,
+            "title": "조국혁신당 차규근 의원,대통령경호처폐지 법안 발의 기자회견",
             "upload_date": null
         },
         {
-            "_id": "6965972f887d07f7ba2fae74",
-            "url": "https://www.youtube.com/watch?v=TvhNoCAUIek",
+            "_id": "6965972f887d07f7ba2fae75",
+            "url": "https://www.youtube.com/watch?v=L5JwkrNcBYU",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
             "collected_at": "2026-01-15T18:24:29.119000",
-            "duration": 133.0,
-            "title": "차규근 조국혁신당 의원 \"尹 체포...팔다리 잡고 들고 나와야\"",
+            "duration": 136.0,
+            "title": "국회의원 차규근 새해인사",
             "upload_date": null
         },
         {
@@ -505,33 +573,43 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae19631fd1743497dcd1",
-            "url": "https://www.youtube.com/watch?v=THIG1XxfX1M",
+            "_id": "6968b251297082fcc2b19147",
+            "url": "https://www.youtube.com/watch?v=vXQRVjT-oN8",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-18T13:21:17.854000",
+            "duration": 1291.0,
+            "title": "[차규근 인터뷰] \"전북·평택 무공천 하라\" 조국당 재보선 기선제압!? | #조국혁신당 #더불어민주당 #이병진 #신영대 #재보궐선거",
+            "upload_date": null
+        },
+        {
+            "_id": "6965972f887d07f7ba2fae77",
+            "url": "https://www.youtube.com/watch?v=le74gDam2cQ",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-18T13:21:17.854000",
+            "duration": 1187.0,
+            "title": "차규근 “‘대파’ 尹 2년 만에 나라 붕괴, 처참..살기 위해 정권 심판, 조국 9해야”[여의도초대석]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae19631fd1743497dcd2",
+            "url": "https://www.youtube.com/watch?v=sw7ALJIMFuc",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
             "collected_at": "2026-01-09T16:28:22.772000",
-            "duration": 679.0,
-            "title": "본회의장에서 맞붙은 차규근과 이소영... 반대 토론 들은 이소영, 작심한 듯...",
+            "duration": 102.0,
+            "title": "[단독] 검찰, '김학의 불법 출국금지 의혹' 차규근 소환 / YTN",
             "upload_date": null
         },
         {
-            "_id": "6960ae19631fd1743497dccf",
-            "url": "https://www.youtube.com/watch?v=8NHMmE5vzb8",
+            "_id": "696c5fbf297082fcc2b19d31",
+            "url": "https://www.youtube.com/watch?v=KUkybZENyZg",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-09T16:28:22.092000",
-            "duration": 368.0,
-            "title": "조국혁신당 차규근 의원1 11 2 합 상속 및 증여세법 일부 개정 법률안 관련 기자회견",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae19631fd1743497dccd",
-            "url": "https://www.youtube.com/watch?v=_9-CgJDm3a0",
-            "HG_NM": "차규근",
-            "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-14T10:24:27.164000",
-            "duration": 415.0,
-            "title": "조국혁신당 차규근 의원1 11 2 합,김학의 출국금지 사건 관련 기자회견",
+            "collected_at": "2026-01-18T13:21:17.854000",
+            "duration": 1607.0,
+            "title": "조국 광복절 특사 출소 I 차규근 \"민주당과 조국혁신당 합당? 시너지 없어\", \"기괴한 尹 기소수순으로 갈 것” [한판승부]",
             "upload_date": null
         },
         {
@@ -545,11 +623,91 @@
             "upload_date": null
         },
         {
+            "_id": "6965972f887d07f7ba2fae76",
+            "url": "https://www.youtube.com/watch?v=-_22B6qbg5U",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-13T09:51:57.203000",
+            "duration": 60.0,
+            "title": "조국혁신당 차규근 \"좌우 진영을 떠나 실용적인 정책 추진\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae19631fd1743497dccf",
+            "url": "https://www.youtube.com/watch?v=8NHMmE5vzb8",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-09T16:28:22.092000",
+            "duration": 368.0,
+            "title": "조국혁신당 차규근 의원1 11 2 합 상속 및 증여세법 일부 개정 법률안 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f04b887d07f7ba2fb543",
+            "url": "https://www.youtube.com/watch?v=C1ywz4Mm_rQ",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-14T10:24:27.164000",
+            "duration": 1347.0,
+            "title": "조국혁신당 차규근 의원1 11 2 합 금융투자소득세 폐지 규탄 및 시행 촉구 야4당 노동시민사회 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6965972f887d07f7ba2fae78",
+            "url": "https://www.youtube.com/watch?v=skhXtvVyeQ0",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-13T09:51:57.970000",
+            "duration": 106.0,
+            "title": "국세청이 준비한 '물건' 들어올리며 #shorts #차규근 #조국혁신당 #일회용품 #종이컵 #환경",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae19631fd1743497dcd1",
+            "url": "https://www.youtube.com/watch?v=THIG1XxfX1M",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-09T16:28:22.772000",
+            "duration": 679.0,
+            "title": "본회의장에서 맞붙은 차규근과 이소영... 반대 토론 들은 이소영, 작심한 듯...",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b251297082fcc2b19148",
+            "url": "https://www.youtube.com/watch?v=zL1UEAwlSjM",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-18T13:21:19.010000",
+            "duration": 248.0,
+            "title": "[자막] 차규근의 일갈 \"이혜훈은 기획예산 아니라 기획부동산 전문가입니까? 당장 사퇴하십시오!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae19631fd1743497dccd",
+            "url": "https://www.youtube.com/watch?v=_9-CgJDm3a0",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-14T10:24:27.164000",
+            "duration": 415.0,
+            "title": "조국혁신당 차규근 의원1 11 2 합,김학의 출국금지 사건 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6965972f887d07f7ba2fae74",
+            "url": "https://www.youtube.com/watch?v=TvhNoCAUIek",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-15T18:24:29.119000",
+            "duration": 133.0,
+            "title": "차규근 조국혁신당 의원 \"尹 체포...팔다리 잡고 들고 나와야\"",
+            "upload_date": null
+        },
+        {
             "_id": "6960ae19631fd1743497dcca",
             "url": "https://www.youtube.com/watch?v=Ot0cIoDXrwI",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-15T18:24:29.942000",
+            "collected_at": "2026-01-18T13:21:19.010000",
             "duration": 112.0,
             "title": "'구속 기로' 차규근 영장 심사…\"불법 출금 아니다\" / SBS",
             "upload_date": null
@@ -559,7 +717,7 @@
             "url": "https://www.youtube.com/watch?v=bp-fJZepSTw",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-15T18:24:29.119000",
+            "collected_at": "2026-01-18T13:21:17.854000",
             "duration": 364.0,
             "title": "조국혁신당 차규근 의원,형사소송법 개정안 발의 기자회견",
             "upload_date": null
@@ -569,11 +727,21 @@
             "url": "https://www.youtube.com/watch?v=KnRPOk2h9Gg",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-15T18:24:29.942000",
+            "collected_at": "2026-01-18T13:21:19.010000",
             "duration": 114.0,
             "title": "차규근 \"김학의 출국금지 불법 아니다\"…구속기로 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
+        },
+        {
+            "_id": "6966f04b887d07f7ba2fb542",
+            "url": "https://www.youtube.com/watch?v=d5GPIjuacKs",
+            "HG_NM": "차규근",
+            "MONA_CD": "KNP22261",
+            "collected_at": "2026-01-14T10:24:27.164000",
+            "duration": 368.0,
+            "title": "조국혁신당 차규근 의원1 11 2 합 상속 및 증여세법 일부 개정 법률안 관련 기자회견",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:06.150848"
+    "exported_at": "2026-01-18T13:56:44.349522"
 }

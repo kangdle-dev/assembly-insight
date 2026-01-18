@@ -42,33 +42,41 @@
     },
     "analysis": {
         "keywords": [
-            "지역",
-            "민주당",
             "경기",
+            "광주시",
+            "토론회",
+            "지역",
+            "회견",
             "김동연",
             "지사",
-            "토론회",
-            "이수진",
-            "먹사니즘",
-            "전국",
-            "네트워크",
-            "출범",
-            "선언",
-            "기자회견",
-            "집값",
-            "현안"
+            "도시",
+            "현안",
+            "질의",
+            "국토",
+            "위원회",
+            "국정",
+            "감사",
+            "민주당"
         ],
         "keyword_frequency": [
+            {
+                "text": "경기",
+                "value": 10
+            },
+            {
+                "text": "광주시",
+                "value": 8
+            },
+            {
+                "text": "토론회",
+                "value": 6
+            },
             {
                 "text": "지역",
                 "value": 6
             },
             {
-                "text": "민주당",
-                "value": 6
-            },
-            {
-                "text": "경기",
+                "text": "회견",
                 "value": 6
             },
             {
@@ -80,60 +88,52 @@
                 "value": 4
             },
             {
-                "text": "토론회",
-                "value": 4
-            },
-            {
-                "text": "이수진",
-                "value": 4
-            },
-            {
-                "text": "먹사니즘",
-                "value": 4
-            },
-            {
-                "text": "전국",
-                "value": 4
-            },
-            {
-                "text": "네트워크",
-                "value": 4
-            },
-            {
-                "text": "출범",
-                "value": 4
-            },
-            {
-                "text": "선언",
-                "value": 4
-            },
-            {
-                "text": "기자회견",
-                "value": 4
-            },
-            {
-                "text": "집값",
+                "text": "도시",
                 "value": 4
             },
             {
                 "text": "현안",
                 "value": 4
+            },
+            {
+                "text": "질의",
+                "value": 4
+            },
+            {
+                "text": "국토",
+                "value": 4
+            },
+            {
+                "text": "위원회",
+                "value": 4
+            },
+            {
+                "text": "국정",
+                "value": 4
+            },
+            {
+                "text": "감사",
+                "value": 4
+            },
+            {
+                "text": "민주당",
+                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:51.931011",
+        "last_analyzed_at": "2026-01-18T13:56:28.298697",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                1,
+                0,
+                0,
                 0,
                 0,
                 0,
@@ -204,11 +204,91 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ad0e631fd1743497d8ea",
+            "url": "https://www.youtube.com/watch?v=SapafpM9WFM",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 352.0,
+            "title": "[국회의원 안태준] 국토부장관 후보자 인사청문회 경기광주 지역 현안 질의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8eb",
+            "url": "https://www.youtube.com/watch?v=CmR6aWnleBk",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 1013.0,
+            "title": "[경기 광주시을 국회의원 안태준] 2025. 10. 14 국토교통위원회 국정감사 - 2일차(LH 등) 질의 편집본",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8ec",
+            "url": "https://www.youtube.com/watch?v=ORFX-Lu8C7Y",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 641.0,
+            "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8ed",
+            "url": "https://www.youtube.com/watch?v=9VI7zj4CLW8",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 1303.0,
+            "title": "안태준 국회의원 지역현안 입법지원 토론회",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8ee",
+            "url": "https://www.youtube.com/watch?v=Wep2TljAF8o",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 244.0,
+            "title": "이수진 의원 '지역사무소 개소식'에 참석한 안태준 더불어민주당 의원의 인사말 영상(0617)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8ef",
+            "url": "https://www.youtube.com/watch?v=eLp1KG7ndiE",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 236.0,
+            "title": "\"윤정부 집값 잡겠다고 집값 올리는 꼴\" 안태준 국회의원 11월 7일 정책조정회의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8f0",
+            "url": "https://www.youtube.com/watch?v=bW0EyLl1rfE",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-14T10:20:21.360000",
+            "duration": 456.0,
+            "title": "[경기 광주시을 국회의원 안태준] 경기광주시을 제10차 운영위원회 (in 광화문)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad0e631fd1743497d8f1",
+            "url": "https://www.youtube.com/watch?v=FhJUixpUZLw",
+            "HG_NM": "안태준",
+            "MONA_CD": "W8L9421K",
+            "collected_at": "2026-01-18T13:16:18.147000",
+            "duration": 641.0,
+            "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad0e631fd1743497d8f2",
             "url": "https://www.youtube.com/watch?v=_McbFpt8KWQ",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:22.022000",
+            "collected_at": "2026-01-18T13:16:18.147000",
             "duration": 446.0,
             "title": "국힘 선배들에 호통 친 청출어람 안태준 당선인 “배지 부끄러운 짓 하지마!”",
             "upload_date": null
@@ -224,85 +304,45 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad0e631fd1743497d8ee",
-            "url": "https://www.youtube.com/watch?v=Wep2TljAF8o",
+            "_id": "69659632887d07f7ba2fad23",
+            "url": "https://www.youtube.com/watch?v=_juFxwyOPAo",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
-            "duration": 244.0,
-            "title": "이수진 의원 '지역사무소 개소식'에 참석한 안태준 더불어민주당 의원의 인사말 영상(0617)",
+            "collected_at": "2026-01-18T13:16:17.023000",
+            "duration": 175.0,
+            "title": "[경기 광주시을 국회의원 안태준] 윤석열 파면 촉구 기자회견 (국회의원 안태준)",
             "upload_date": null
         },
         {
-            "_id": "6960ad0e631fd1743497d8f1",
-            "url": "https://www.youtube.com/watch?v=FhJUixpUZLw",
+            "_id": "6968b136297082fcc2b190c8",
+            "url": "https://www.youtube.com/watch?v=-uhPnlXXoEA",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:22.022000",
-            "duration": 641.0,
-            "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
+            "collected_at": "2026-01-15T18:19:47.051000",
+            "duration": 97.0,
+            "title": "[국회의원 안태준_국정감사]  부동산 가격공시제도, 신뢰 되찾아야! (1) #국회 #민주당 #안태준 #정치",
             "upload_date": null
         },
         {
-            "_id": "6960ad0e631fd1743497d8ef",
-            "url": "https://www.youtube.com/watch?v=eLp1KG7ndiE",
-            "HG_NM": "안태준",
-            "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
-            "duration": 236.0,
-            "title": "\"윤정부 집값 잡겠다고 집값 올리는 꼴\" 안태준 국회의원 11월 7일 정책조정회의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad0e631fd1743497d8ed",
-            "url": "https://www.youtube.com/watch?v=9VI7zj4CLW8",
-            "HG_NM": "안태준",
-            "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
-            "duration": 1303.0,
-            "title": "안태준 국회의원 지역현안 입법지원 토론회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad0e631fd1743497d8eb",
-            "url": "https://www.youtube.com/watch?v=CmR6aWnleBk",
-            "HG_NM": "안태준",
-            "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
-            "duration": 1013.0,
-            "title": "[경기 광주시을 국회의원 안태준] 2025. 10. 14 국토교통위원회 국정감사 - 2일차(LH 등) 질의 편집본",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad0e631fd1743497d8ea",
-            "url": "https://www.youtube.com/watch?v=SapafpM9WFM",
+            "_id": "6968b136297082fcc2b190c9",
+            "url": "https://www.youtube.com/watch?v=prD-VDEjQpY",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
             "collected_at": "2026-01-15T18:19:46.257000",
-            "duration": 352.0,
-            "title": "[국회의원 안태준] 국토부장관 후보자 인사청문회 경기광주 지역 현안 질의",
+            "duration": 66.0,
+            "title": "[국회 국토위 전체회의] 안태준 의원의 날카로운 질의(3)",
             "upload_date": null
         },
         {
-            "_id": "6960ad0e631fd1743497d8ec",
-            "url": "https://www.youtube.com/watch?v=ORFX-Lu8C7Y",
+            "_id": "6968b136297082fcc2b190ca",
+            "url": "https://www.youtube.com/watch?v=GJh02bU_oyY",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
-            "duration": 641.0,
-            "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad0e631fd1743497d8f0",
-            "url": "https://www.youtube.com/watch?v=bW0EyLl1rfE",
-            "HG_NM": "안태준",
-            "MONA_CD": "W8L9421K",
-            "collected_at": "2026-01-14T10:20:21.360000",
-            "duration": 456.0,
-            "title": "[경기 광주시을 국회의원 안태준] 경기광주시을 제10차 운영위원회 (in 광화문)",
+            "collected_at": "2026-01-15T18:19:47.051000",
+            "duration": 126.0,
+            "title": "안태준 의원이 토론회를 주최하게 된 사연! #국회 #토론회 #무장애통합놀이터",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:51.931011"
+    "exported_at": "2026-01-18T13:56:28.298760"
 }

@@ -62,30 +62,50 @@
     },
     "analysis": {
         "keywords": [
+            "소환",
+            "국민",
             "경찰",
-            "국민소환제",
+            "사상",
+            "연합뉴스",
+            "연설",
+            "더불어민주당",
             "금품",
             "수수",
             "의혹",
             "김병기",
             "자택",
-            "압수수색",
-            "베네수엘라",
-            "국제",
-            "제안",
-            "검찰",
-            "민주당",
-            "개혁",
-            "군사작전"
+            "압수",
+            "수색",
+            "베네수엘라"
         ],
         "keyword_frequency": [
+            {
+                "text": "소환",
+                "value": 12
+            },
+            {
+                "text": "국민",
+                "value": 11
+            },
             {
                 "text": "경찰",
                 "value": 10
             },
             {
-                "text": "국민소환제",
-                "value": 10
+                "text": "사상",
+                "value": 8
+            },
+            {
+                "text": "연합뉴스",
+                "value": 8
+            },
+            {
+                "text": "연설",
+                "value": 8
+            },
+            {
+                "text": "더불어민주당",
+                "value": 6
             },
             {
                 "text": "금품",
@@ -108,61 +128,84 @@
                 "value": 6
             },
             {
-                "text": "압수수색",
+                "text": "압수",
+                "value": 6
+            },
+            {
+                "text": "수색",
                 "value": 6
             },
             {
                 "text": "베네수엘라",
                 "value": 6
-            },
-            {
-                "text": "국제",
-                "value": 6
-            },
-            {
-                "text": "제안",
-                "value": 6
-            },
-            {
-                "text": "검찰",
-                "value": 5
-            },
-            {
-                "text": "민주당",
-                "value": 5
-            },
-            {
-                "text": "개혁",
-                "value": 5
-            },
-            {
-                "text": "군사작전",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:57.796343",
+        "last_analyzed_at": "2026-01-18T13:56:34.962351",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 1,
                 3,
+                0,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bed297082fcc2b19b8e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
+            "created_at": "2026-01-18T13:05:01.197000",
+            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-17T22:24:00",
+            "related_members": [
+                "HSS7466Y",
+                "URV1689Q",
+                "88O1334C",
+                "ATB59635",
+                "BCQ55105",
+                "WTR5885Y",
+                "3ZR4438W",
+                "5765663F",
+                "GF286398",
+                "1WE5693J",
+                "UQ282145"
+            ],
+            "title": "\"숨 막힌 학교에 숨을\"…유은혜, '적자생존 교육'에 직격탄"
+        },
+        {
+            "_id": "696c5bed297082fcc2b19b8f",
+            "link": "https://n.news.naver.com/mnews/article/382/0001248716?sid=102",
+            "created_at": "2026-01-18T13:05:01.198000",
+            "description": "또 우원식 국회의장, 윤후덕(파주시갑)·박정(파주시을) 국회의원, 황명선 더불어민주당 최고위원, 김승원 경기도당위원장, 이인영·김병주·부승찬 국회의원, 강남훈 (사)기본사회 이사장 등이 추천사를 통해 책의 출간을... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260117/133176773/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-17T18:23:00",
+            "related_members": [
+                "O7R5461J",
+                "ATB59635",
+                "6I88973D",
+                "4019850M",
+                "XBT9550Q",
+                "3ZR4438W",
+                "RJH6314D",
+                "GF286398"
+            ],
+            "title": "“현장에 답이 있다” 김경일 파주시장, 출판기념회서 ‘소통 행정’ 강..."
+        },
         {
             "_id": "6968adbd297082fcc2b18dab",
             "link": "https://n.news.naver.com/mnews/article/056/0012104724?sid=102",
@@ -226,7 +269,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -306,7 +349,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -401,9 +444,79 @@
             "url": "https://www.youtube.com/watch?v=xzblCkafOWs",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
+            "collected_at": "2026-01-18T13:18:24.898000",
             "duration": 557.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 이인영 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b1af297082fcc2b190f8",
+            "url": "https://www.youtube.com/watch?v=R5hWBMf8_IU",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:47.429000",
+            "duration": 153.0,
+            "title": "[국회의원 이인영 추석인사] 풍성한 한가위 되시기 바랍니다!",
+            "upload_date": null
+        },
+        {
+            "_id": "6966efc3887d07f7ba2fb4dd",
+            "url": "https://www.youtube.com/watch?v=WFB_ol33vT8",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-15T18:21:48.195000",
+            "duration": 1447.0,
+            "title": "[더뉴스-더정치]  민주당 이인영이 말하는 '조국' / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da99",
+            "url": "https://www.youtube.com/watch?v=JK7n1lIqHYw",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:25.921000",
+            "duration": 1581.0,
+            "title": "[뉴스1번지] 이인영 통일장관 후보자 청문회…'사상 검증' 공방 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da98",
+            "url": "https://www.youtube.com/watch?v=_YP-B7k_GbA",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:25.921000",
+            "duration": 154.0,
+            "title": "이인영 아들 '스위스 호화 유학?'…\"악의적 왜곡\" (2020.07.15/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da97",
+            "url": "https://www.youtube.com/watch?v=IV4lwiuH4r4",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:25.921000",
+            "duration": 122.0,
+            "title": "[YTN 실시간뉴스] 통합당, 이인영 후보에 '사상 검증' 논란 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da96",
+            "url": "https://www.youtube.com/watch?v=t8YcXzbTJj4",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:25.921000",
+            "duration": 520.0,
+            "title": "[현장연결] 이인영 \"과거에도 지금도 주체사상 신봉자 아니야\" / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da95",
+            "url": "https://www.youtube.com/watch?v=YybNGR5a8WA",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:25.921000",
+            "duration": 110.0,
+            "title": "색깔론 총공세장된 이인영 청문회…태영호 “사상 전향 했냐” | 뉴스A 라이브",
             "upload_date": null
         },
         {
@@ -411,59 +524,9 @@
             "url": "https://www.youtube.com/watch?v=AY0PDRKTWQs",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-14T10:22:11.294000",
+            "collected_at": "2026-01-18T13:18:24.898000",
             "duration": 260.0,
             "title": "이인영 대표연설…\"국회의원 국민소환제 도입해야\" / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da8f",
-            "url": "https://www.youtube.com/watch?v=j3GqwMxbTfo",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
-            "duration": 361.0,
-            "title": "'물통' 청문회...이인영 아들 군 면제 때문이라고?",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da92",
-            "url": "https://www.youtube.com/watch?v=kgaaKacCH5g",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
-            "duration": 113.0,
-            "title": "이인영 \"일 안 하는 의원 페널티\"…한국당, 예결위원장 놓고 갈등[굿모닝MBN]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da90",
-            "url": "https://www.youtube.com/watch?v=nHsjDDbsMjQ",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
-            "duration": 2318.0,
-            "title": "[풀영상] 이인영 \"일 안하는 국회의원에 페널티…국민소환제 도입해야\" / 연합뉴스 (Yonhapnews)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da8e",
-            "url": "https://www.youtube.com/watch?v=H6suMP1z78w",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
-            "duration": 907.0,
-            "title": "[MBN 프레스룸] 태영호 통합당 의원 \"이인영 주체사상 질의, 지금도 적합했다 생각\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad80631fd1743497da8c",
-            "url": "https://www.youtube.com/watch?v=A9kCsskh644",
-            "HG_NM": "이인영",
-            "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
-            "duration": 136.0,
-            "title": "이인영 첫 교섭단체 연설...\"선거제 개혁 전력·국회의원 국민소환제 제안\" / YTN",
             "upload_date": null
         },
         {
@@ -471,19 +534,19 @@
             "url": "https://www.youtube.com/watch?v=TPmjlbvGVTo",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
+            "collected_at": "2026-01-18T13:18:24.898000",
             "duration": 184.0,
             "title": "2014년 추석인사_국회의원이인영",
             "upload_date": null
         },
         {
-            "_id": "6960ad80631fd1743497da8d",
-            "url": "https://www.youtube.com/watch?v=1_wF68n_HTA",
+            "_id": "6960ad80631fd1743497da92",
+            "url": "https://www.youtube.com/watch?v=kgaaKacCH5g",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
-            "duration": 139.0,
-            "title": "이인영 첫 교섭단체 연설...\"선거제 개혁 전력·국회의원 국민소환제 제안\" / YTN",
+            "collected_at": "2026-01-18T13:18:24.898000",
+            "duration": 113.0,
+            "title": "이인영 \"일 안 하는 의원 페널티\"…한국당, 예결위원장 놓고 갈등[굿모닝MBN]",
             "upload_date": null
         },
         {
@@ -491,11 +554,61 @@
             "url": "https://www.youtube.com/watch?v=B6WAA0QJkzU",
             "HG_NM": "이인영",
             "MONA_CD": "3ZR4438W",
-            "collected_at": "2026-01-15T18:21:47.429000",
+            "collected_at": "2026-01-18T13:18:24.898000",
             "duration": 188.0,
             "title": "이인영 첫 국회 대표연설 “365일 일하는 상시국회,국회의원 국민소환제 제안\"",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da90",
+            "url": "https://www.youtube.com/watch?v=nHsjDDbsMjQ",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:24.898000",
+            "duration": 2318.0,
+            "title": "[풀영상] 이인영 \"일 안하는 국회의원에 페널티…국민소환제 도입해야\" / 연합뉴스 (Yonhapnews)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8f",
+            "url": "https://www.youtube.com/watch?v=j3GqwMxbTfo",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:24.898000",
+            "duration": 361.0,
+            "title": "'물통' 청문회...이인영 아들 군 면제 때문이라고?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8e",
+            "url": "https://www.youtube.com/watch?v=H6suMP1z78w",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:24.898000",
+            "duration": 907.0,
+            "title": "[MBN 프레스룸] 태영호 통합당 의원 \"이인영 주체사상 질의, 지금도 적합했다 생각\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8d",
+            "url": "https://www.youtube.com/watch?v=1_wF68n_HTA",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:24.898000",
+            "duration": 139.0,
+            "title": "이인영 첫 교섭단체 연설...\"선거제 개혁 전력·국회의원 국민소환제 제안\" / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad80631fd1743497da8c",
+            "url": "https://www.youtube.com/watch?v=A9kCsskh644",
+            "HG_NM": "이인영",
+            "MONA_CD": "3ZR4438W",
+            "collected_at": "2026-01-18T13:18:24.898000",
+            "duration": 136.0,
+            "title": "이인영 첫 교섭단체 연설...\"선거제 개혁 전력·국회의원 국민소환제 제안\" / YTN",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:57.796343"
+    "exported_at": "2026-01-18T13:56:34.962450"
 }

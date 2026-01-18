@@ -47,30 +47,38 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
+            "박성",
+            "더불어민주당",
             "교육",
+            "위원",
             "이혜훈",
             "위원회",
+            "최고",
             "서울",
-            "위원장",
+            "출마",
             "국민",
+            "위원장",
+            "민주당",
             "지명",
-            "중구",
-            "장관",
-            "국힘",
-            "정부",
-            "후보자",
-            "성동구",
-            "회의"
+            "대통령",
+            "중구"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
-                "value": 30
+                "text": "박성",
+                "value": 64
+            },
+            {
+                "text": "더불어민주당",
+                "value": 25
             },
             {
                 "text": "교육",
                 "value": 22
+            },
+            {
+                "text": "위원",
+                "value": 19
             },
             {
                 "text": "이혜훈",
@@ -81,69 +89,61 @@
                 "value": 19
             },
             {
+                "text": "최고",
+                "value": 17
+            },
+            {
                 "text": "서울",
-                "value": 14
+                "value": 15
+            },
+            {
+                "text": "출마",
+                "value": 15
+            },
+            {
+                "text": "국민",
+                "value": 13
             },
             {
                 "text": "위원장",
                 "value": 13
             },
             {
-                "text": "국민",
-                "value": 10
+                "text": "민주당",
+                "value": 11
             },
             {
                 "text": "지명",
                 "value": 10
             },
             {
+                "text": "대통령",
+                "value": 10
+            },
+            {
                 "text": "중구",
                 "value": 9
-            },
-            {
-                "text": "장관",
-                "value": 9
-            },
-            {
-                "text": "국힘",
-                "value": 8
-            },
-            {
-                "text": "정부",
-                "value": 8
-            },
-            {
-                "text": "후보자",
-                "value": 8
-            },
-            {
-                "text": "성동구",
-                "value": 7
-            },
-            {
-                "text": "회의",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:44.565631",
+        "last_analyzed_at": "2026-01-18T13:56:20.297385",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                0,
-                0,
                 0,
                 2,
                 0,
-                1
+                1,
+                0,
+                0,
+                0
             ]
         }
     },
@@ -380,23 +380,6 @@
             "title": "이 대통령, 국힘 이혜훈 첫 기획예산처 장관 후보자 지명"
         },
         {
-            "_id": "6964b540631fd17434995fd2",
-            "link": "https://n.news.naver.com/mnews/article/421/0008676754?sid=102",
-            "created_at": "2026-01-12T17:47:57.718000",
-            "description": "왼쪽부터 강경숙 국회 교육위원회 의원, 박성준 의원, 강은희 전국시도교육감협의회 회장, 유기홍 미래교육희망 이사장, 차 위원장, 김영호 국회 교육위원회 위원장, 고민정 국회 교육위원회 간사, 허성무 국회... ",
-            "originallink": "https://www.news1.kr/photos/7664632",
-            "press": "뉴스1",
-            "pubDate": "2025-12-23T15:53:00",
-            "related_members": [
-                "7BM2933Y",
-                "T2T8225E",
-                "HHB5652A",
-                "WCD5518S",
-                "IL74008M"
-            ],
-            "title": "국가교육위원회 운영 보고회"
-        },
-        {
             "_id": "6964b540631fd17434995fd3",
             "link": "https://n.news.naver.com/mnews/article/421/0008676753?sid=102",
             "created_at": "2026-01-12T17:47:57.718000",
@@ -412,6 +395,23 @@
                 "IL74008M"
             ],
             "title": "차정인 국교위원장, 취임 100일 기념 운영보고회"
+        },
+        {
+            "_id": "6964b540631fd17434995fd2",
+            "link": "https://n.news.naver.com/mnews/article/421/0008676754?sid=102",
+            "created_at": "2026-01-12T17:47:57.718000",
+            "description": "왼쪽부터 강경숙 국회 교육위원회 의원, 박성준 의원, 강은희 전국시도교육감협의회 회장, 유기홍 미래교육희망 이사장, 차 위원장, 김영호 국회 교육위원회 위원장, 고민정 국회 교육위원회 간사, 허성무 국회... ",
+            "originallink": "https://www.news1.kr/photos/7664632",
+            "press": "뉴스1",
+            "pubDate": "2025-12-23T15:53:00",
+            "related_members": [
+                "7BM2933Y",
+                "T2T8225E",
+                "HHB5652A",
+                "WCD5518S",
+                "IL74008M"
+            ],
+            "title": "국가교육위원회 운영 보고회"
         },
         {
             "_id": "6964b540631fd17434995fd4",
@@ -456,9 +456,276 @@
                 "1S05899F"
             ],
             "title": "與 서영교, 서울 특위 발대식 개최…\"아이 키우기 좋은 서울 만들 것\""
+        },
+        {
+            "_id": "6964b57c631fd174349963ca",
+            "link": "https://n.news.naver.com/mnews/article/011/0004567718?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "권칠승·민병덕·박성준·이정헌 의원 등 15명이 참석해 힘을 실었다. 친청계로 분류되는 박수현 민주당 수석대변인도 이날 국회에서 기자들과 만나 \"친명·친청 프레임이 왜 등장하는지 이해가 가지 않는다. 지금... ",
+            "originallink": "https://www.sedaily.com/NewsView/2H1R41EFQO",
+            "press": "서울경제",
+            "pubDate": "2025-12-16T07:01:00",
+            "related_members": [
+                "TZ228122",
+                "5TQ6306B",
+                "C7E79345",
+                "IL74008M",
+                "5762459L",
+                "8P37634C"
+            ],
+            "title": "與 최고위원 보선 '명·청 대결'…'친명' 강득구 도전장"
+        },
+        {
+            "_id": "6964b57c631fd174349963cb",
+            "link": "https://n.news.naver.com/mnews/article/005/0001820520?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "것이 국회의원 모두가 해야 할 다짐이고 약속”이라고 했다. ‘당정대(당·정부·대통령실) 간 엇박자가... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029117610&code=61111111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2025-12-15T18:02:00",
+            "related_members": [
+                "3UI95829",
+                "TZ228122",
+                "RG972910",
+                "3LP22204",
+                "6WK3815W",
+                "ZW43496R",
+                "1S05899F",
+                "6K79158C",
+                "IL74008M",
+                "5762459L",
+                "8P37634C",
+                "MQK9493H",
+                "EBH1101V",
+                "C7E79345",
+                "86R9476S",
+                "YM42715P"
+            ],
+            "title": "‘최고위원 출사표’ 친명계 강득구 “당정대 조율자 역할”"
+        },
+        {
+            "_id": "6964b57c631fd174349963cc",
+            "link": "https://n.news.naver.com/mnews/article/015/0005224696?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "강 의원은 이날 국회에서 기자회견을 열고 “대통령 혼자서는 개혁을 완성할 수 없다”며 “당과 정부가... 이날 출마 회견에는 이 대통령의 핵심 측근으로 꼽히는 김우영 의원을 비롯해 박성준·민병덕·이정헌·이연희... ",
+            "originallink": "https://www.hankyung.com/article/202512154991i",
+            "press": "한국경제",
+            "pubDate": "2025-12-15T17:28:00",
+            "related_members": [
+                "3UI95829",
+                "TZ228122",
+                "IL74008M",
+                "5762459L",
+                "8P37634C",
+                "EBH1101V"
+            ],
+            "title": "당대표 선거 '전초전' 與보선…김 총리 최측근 강득구 '출사표'"
+        },
+        {
+            "_id": "6964b57c631fd174349963cd",
+            "link": "https://n.news.naver.com/mnews/article/032/0003415332?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "강 의원은 이날 국회에서 출마 선언 기자회견을 열고 “당·청 원팀이 반드시 필요하다”면서 “민주당은... 권칠승·민병덕·이정헌·박성준 의원을 비롯해 김우영·김태선·윤종군·이연희·이재강·채현일 등 친명계 및... ",
+            "originallink": "https://www.khan.co.kr/article/202512151724001",
+            "press": "경향신문",
+            "pubDate": "2025-12-15T17:24:00",
+            "related_members": [
+                "3UI95829",
+                "TZ228122",
+                "3LP22204",
+                "C7E79345",
+                "6WK3815W",
+                "IL74008M",
+                "5762459L",
+                "MQK9493H",
+                "EBH1101V",
+                "1S05899F"
+            ],
+            "title": "오늘부터 여당 최고위원 후보 등록…‘친명’ ‘친청’, 어느 쪽이 2석 ..."
+        },
+        {
+            "_id": "6964b57c631fd174349963ce",
+            "link": "https://n.news.naver.com/mnews/article/016/0002572308?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "“보궐선거 출마자 한마음 선의의 경쟁” 강득구(왼쪽에서 세 번째) 더불어민주당 의원이 15일 국회... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
+            "originallink": "https://biz.heraldcorp.com/article/10636835?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2025-12-15T16:27:00",
+            "related_members": [
+                "5762459L",
+                "8P37634C",
+                "1S05899F",
+                "3UI95829",
+                "TZ228122",
+                "RG972910",
+                "3LP22204",
+                "C7E79345",
+                "6WK3815W",
+                "ZW43496R",
+                "86R9476S",
+                "6K79158C",
+                "YM42715P",
+                "IL74008M",
+                "MQK9493H",
+                "EBH1101V"
+            ],
+            "title": "최고위원 출마 강득구 “친명-친청 없어…당정청 원팀 조정자 역할 하겠..."
+        },
+        {
+            "_id": "6964b57c631fd174349963cf",
+            "link": "https://n.news.naver.com/mnews/article/055/0001316341?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "▲ 더불어민주당 강득구 의원이 15일 국회 소통관에서 최고위원 출마 선언을 하고 있다. 이른바 친명... 강 의원의 출마 선언장에는 권칠승·민병덕·박성준·이정헌 의원 등 15명이 참석해 힘을 싣기도 했습니다. 강 의원은... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008369158&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2025-12-15T14:26:00",
+            "related_members": [
+                "TZ228122",
+                "C7E79345",
+                "IL74008M",
+                "5762459L",
+                "8P37634C"
+            ],
+            "title": "강득구, 여 최고위원 출마 선언…\"친명·친청은 언론 프레임\""
+        },
+        {
+            "_id": "6964b57c631fd174349963d0",
+            "link": "https://n.news.naver.com/mnews/article/003/0013658225?sid=100",
+            "created_at": "2026-01-12T17:48:57.863000",
+            "description": "것이 국회의원 모두가 해야할 다짐이고 약속\"이라고 했다. '당정대(당·정부·대통령실) 간 엇박자가 나온다'는... 민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일·이정헌 의원이 함께 참석했다．",
+            "originallink": "https://www.newsis.com/view/NISX20251215_0003441170",
+            "press": "뉴시스",
+            "pubDate": "2025-12-15T13:50:00",
+            "related_members": [
+                "TZ228122",
+                "RG972910",
+                "3LP22204",
+                "ZW43496R",
+                "1S05899F",
+                "6K79158C",
+                "IL74008M",
+                "5762459L",
+                "8P37634C",
+                "MQK9493H",
+                "EBH1101V"
+            ],
+            "title": "'친명' 강득구, 최고위원 출마…\"당정대 간 조율자 역할할 것\""
+        },
+        {
+            "_id": "6964b58e631fd174349964c3",
+            "link": "https://n.news.naver.com/mnews/article/021/0002757190?sid=100",
+            "created_at": "2026-01-12T17:49:16.092000",
+            "description": "친명계의 연쇄 출마에는 정청래 대표가 연임에 성공해 차기 국회의원 총선거 공천권을 쥐는 것을... 윤종군 의원 등이 동석했다. ‘이재명 대표’ 시기 원내수석부대표였던 박성준 의원과 김 총리와 가까운 채현일 의원을... ",
+            "originallink": "https://www.munhwa.com/article/11554209?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2025-12-15T12:06:00",
+            "related_members": [
+                "1S05899F",
+                "MQK9493H",
+                "2385336L",
+                "IL74008M"
+            ],
+            "title": "내년 당권 맞물린 민주당 최고위원 선거… ‘친명vs친청’ 계파전으로 ..."
+        },
+        {
+            "_id": "6964b58e631fd174349964c4",
+            "link": "https://n.news.naver.com/mnews/article/057/0001924919?sid=100",
+            "created_at": "2026-01-12T17:49:16.092000",
+            "description": "강 의원은 오늘 오전 국회에서 기자회견을 열고 \"이재명 국민주권정부의 성공, 국민의힘 청산, 내년 지방선거... 민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일·이정헌 의원이 자리했습니다. [ ]",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5161984",
+            "press": "매일경제",
+            "pubDate": "2025-12-15T11:37:00",
+            "related_members": [
+                "TZ228122",
+                "RG972910",
+                "3LP22204",
+                "ZW43496R",
+                "1S05899F",
+                "6K79158C",
+                "IL74008M",
+                "5762459L",
+                "8P37634C",
+                "MQK9493H",
+                "EBH1101V"
+            ],
+            "title": "강득구 \"이재명 대통령 중심 단합…우리 당은 친명이자 하나\" 출사표"
+        },
+        {
+            "_id": "6964b58e631fd174349964c5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008660920?sid=100",
+            "created_at": "2026-01-12T17:49:16.093000",
+            "description": "강 의원은 이날 국회에서 최고위원 출마 기자회견을 열고 \"지금 이 대통령은 내란세력이 남긴 혼란과 상처를... 김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일·이정헌 의원이 자리했다.",
+            "originallink": "https://www.news1.kr/politics/assembly/6008650",
+            "press": "뉴스1",
+            "pubDate": "2025-12-15T11:28:00",
+            "related_members": [
+                "TZ228122",
+                "RG972910",
+                "3LP22204",
+                "6WK3815W",
+                "ZW43496R",
+                "1S05899F",
+                "6K79158C",
+                "IL74008M",
+                "5762459L",
+                "8P37634C",
+                "MQK9493H",
+                "EBH1101V"
+            ],
+            "title": "강득구 \"李대통령 중심 당청 원팀…친명·친청 없다\"…출사표"
         }
     ],
     "recent_videos": [
+        {
+            "_id": "6966eecc887d07f7ba2fb40f",
+            "url": "https://www.youtube.com/watch?v=u-PW8r_dW1Y",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:38.484000",
+            "duration": 509.0,
+            "title": "박성준 “여야정 협의체? 책임 떠넘기기 될 가능성” | 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6ea",
+            "url": "https://www.youtube.com/watch?v=E7D2v4fDtTk",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-09T16:21:41.212000",
+            "duration": 1686.0,
+            "title": "잘 풀리는 집과 사주의 조건 (박성준, 2026신년운세, 풍수, 관상) | 카니를 찾아서 EP.30 [EN]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6e4",
+            "url": "https://www.youtube.com/watch?v=I2uXQWFJuuI",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:37.404000",
+            "duration": 1025.0,
+            "title": "[팩트TV 풀영상] 더불어민주당 박성준 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966eecc887d07f7ba2fb40d",
+            "url": "https://www.youtube.com/watch?v=9Qqk86NQAWw",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-14T10:18:04.103000",
+            "duration": 300.0,
+            "title": "국회의원과 함께하는 북토크 제2편 : 박성준 의원의 『정치언어의 품격』",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6ec",
+            "url": "https://www.youtube.com/watch?v=fjme75jUHr8",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-13T09:45:32.029000",
+            "duration": 509.0,
+            "title": "[24.04.29] 뉴스A: 박성준 “여야정 협의체? 책임 떠넘기기 될 가능성”",
+            "upload_date": null
+        },
         {
             "_id": "6960ac88631fd1743497d6e8",
             "url": "https://www.youtube.com/watch?v=bHbsGTPaM-I",
@@ -470,53 +737,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac88631fd1743497d6e9",
-            "url": "https://www.youtube.com/watch?v=AsJRuxu6YzU",
+            "_id": "6966eecc887d07f7ba2fb411",
+            "url": "https://www.youtube.com/watch?v=tnhJ7GK2WPk",
             "HG_NM": "박성준",
             "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-15T18:17:22.469000",
-            "duration": 103.0,
-            "title": "국민과 함께 물러섬 없이 싸우겠습니다 #국회의원 #박성준 #더불어민주당 #원내수석부대표",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac88631fd1743497d6e4",
-            "url": "https://www.youtube.com/watch?v=I2uXQWFJuuI",
-            "HG_NM": "박성준",
-            "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-09T16:21:40.586000",
-            "duration": 1025.0,
-            "title": "[팩트TV 풀영상] 더불어민주당 박성준 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac88631fd1743497d6e7",
-            "url": "https://www.youtube.com/watch?v=yWW5l0yYgdw",
-            "HG_NM": "박성준",
-            "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-15T18:17:22.469000",
-            "duration": 609.0,
-            "title": "'헛웃음' 짓더니, 국힘 논리 완전히 박살 내는 박성준",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac88631fd1743497d6e5",
-            "url": "https://www.youtube.com/watch?v=XMJJ-jMhzSE",
-            "HG_NM": "박성준",
-            "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-15T18:17:22.469000",
-            "duration": 983.0,
-            "title": "\"손바닥에 ‘王’자 쓴 윤석열, 어떤 군주?\" 박성준 더불어민주당 의원 | 대정부질문 (25.9.15.) | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac88631fd1743497d6e3",
-            "url": "https://www.youtube.com/watch?v=oLryZiHJggc",
-            "HG_NM": "박성준",
-            "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-09T16:21:40.586000",
-            "duration": 87.0,
-            "title": "[2025.04.22] 제37차 원내대책회의 모두발언 - 박성준 더불어민주당 원내수석부대표 #더불어민주당 #국회의원 #박성준 #원내대책회의 #모두발언",
+            "collected_at": "2026-01-14T10:18:04.872000",
+            "duration": 176.0,
+            "title": "[G1뉴스]출연 박성준 기자",
             "upload_date": null
         },
         {
@@ -530,11 +757,91 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac88631fd1743497d6eb",
+            "url": "https://www.youtube.com/watch?v=7ercJbLrJ2E",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:38.484000",
+            "duration": 118.0,
+            "title": "\"국힘 표결 방해 있었다\" 민주당 박성준 출석‥추경호 소환은 언제? (2025.08.28/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6e5",
+            "url": "https://www.youtube.com/watch?v=XMJJ-jMhzSE",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:37.404000",
+            "duration": 983.0,
+            "title": "\"손바닥에 ‘王’자 쓴 윤석열, 어떤 군주?\" 박성준 더불어민주당 의원 | 대정부질문 (25.9.15.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "696595ad887d07f7ba2fac89",
+            "url": "https://www.youtube.com/watch?v=MjMCuDB2W4A",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:38.484000",
+            "duration": 1187.0,
+            "title": "[오창익의 뉴스공감] 박성준 \"김건희 특검, 당론의 시기 다가온다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6ed",
+            "url": "https://www.youtube.com/watch?v=tpQNK_hOKQg",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-09T16:21:41.212000",
+            "duration": 2045.0,
+            "title": "[2022.05.25] 연합뉴스TV '뉴스1번지' - 박성준 더불어민주당 의원, 이용호 국민의힘 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6e7",
+            "url": "https://www.youtube.com/watch?v=yWW5l0yYgdw",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:37.404000",
+            "duration": 609.0,
+            "title": "'헛웃음' 짓더니, 국힘 논리 완전히 박살 내는 박성준",
+            "upload_date": null
+        },
+        {
+            "_id": "6966eecc887d07f7ba2fb40e",
+            "url": "https://www.youtube.com/watch?v=U41nJibFx8I",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-14T10:18:04.103000",
+            "duration": 370.0,
+            "title": "'개판' 발언한 국힘을 박살낸 박성준 \"어디서 배웠어! 모르면 나가라!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6e3",
+            "url": "https://www.youtube.com/watch?v=oLryZiHJggc",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-09T16:21:40.586000",
+            "duration": 87.0,
+            "title": "[2025.04.22] 제37차 원내대책회의 모두발언 - 박성준 더불어민주당 원내수석부대표 #더불어민주당 #국회의원 #박성준 #원내대책회의 #모두발언",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac88631fd1743497d6e9",
+            "url": "https://www.youtube.com/watch?v=AsJRuxu6YzU",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:37.404000",
+            "duration": 103.0,
+            "title": "국민과 함께 물러섬 없이 싸우겠습니다 #국회의원 #박성준 #더불어민주당 #원내수석부대표",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac88631fd1743497d6e0",
             "url": "https://www.youtube.com/watch?v=UCZY4656UKhoMA4IOTnKw4cw",
             "HG_NM": "박성준",
             "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-15T18:17:22.469000",
+            "collected_at": "2026-01-18T13:13:37.404000",
             "duration": null,
             "title": "박성준TV",
             "upload_date": null
@@ -544,7 +851,7 @@
             "url": "https://www.youtube.com/watch?v=3hzC83eKK9E",
             "HG_NM": "박성준",
             "MONA_CD": "IL74008M",
-            "collected_at": "2026-01-15T18:17:22.469000",
+            "collected_at": "2026-01-18T13:13:37.404000",
             "duration": 287.0,
             "title": "더불어민주당 박성준 의원 \"이번 일은 10~20대들이 잘 배운 덕\" 12.3 내란사태 아이들에게 어떻게 교육할 것인지?",
             "upload_date": null
@@ -558,7 +865,17 @@
             "duration": 327.0,
             "title": "'내란·외환' 특검, 박성준 더불어민주당 의원 참고인 조사 - [끝까지LIVE] MBC 중계방송 2025년 08월 28일",
             "upload_date": null
+        },
+        {
+            "_id": "696595ad887d07f7ba2fac88",
+            "url": "https://www.youtube.com/watch?v=ohYJwpYT8qo",
+            "HG_NM": "박성준",
+            "MONA_CD": "IL74008M",
+            "collected_at": "2026-01-18T13:13:37.404000",
+            "duration": 60.0,
+            "title": "#JTBC #사건반장에서 #국회의원 #된 #더불어민주당 #박성준 #의원",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:44.565631"
+    "exported_at": "2026-01-18T13:56:20.297522"
 }

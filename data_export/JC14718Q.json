@@ -47,33 +47,33 @@
     },
     "analysis": {
         "keywords": [
-            "윤준",
-            "민주당",
+            "선거",
             "위원회",
+            "전북",
             "질의",
-            "의원직",
-            "업무",
-            "질문",
-            "지역",
+            "민주당",
             "대표",
             "발의",
-            "신영",
-            "농림",
-            "축산",
-            "식품",
-            "해양"
+            "위원장",
+            "업무",
+            "질문",
+            "불법",
+            "지역",
+            "지방",
+            "의원직",
+            "외국"
         ],
         "keyword_frequency": [
             {
-                "text": "윤준",
-                "value": 48
-            },
-            {
-                "text": "민주당",
-                "value": 18
+                "text": "선거",
+                "value": 14
             },
             {
                 "text": "위원회",
+                "value": 12
+            },
+            {
+                "text": "전북",
                 "value": 12
             },
             {
@@ -81,7 +81,19 @@
                 "value": 12
             },
             {
-                "text": "의원직",
+                "text": "민주당",
+                "value": 11
+            },
+            {
+                "text": "대표",
+                "value": 10
+            },
+            {
+                "text": "발의",
+                "value": 10
+            },
+            {
+                "text": "위원장",
                 "value": 10
             },
             {
@@ -93,61 +105,62 @@
                 "value": 10
             },
             {
+                "text": "불법",
+                "value": 9
+            },
+            {
                 "text": "지역",
                 "value": 9
             },
             {
-                "text": "대표",
+                "text": "지방",
                 "value": 9
             },
             {
-                "text": "발의",
+                "text": "의원직",
                 "value": 9
             },
             {
-                "text": "신영",
-                "value": 9
-            },
-            {
-                "text": "농림",
-                "value": 7
-            },
-            {
-                "text": "축산",
-                "value": 7
-            },
-            {
-                "text": "식품",
-                "value": 7
-            },
-            {
-                "text": "해양",
-                "value": 7
+                "text": "외국",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:54.781111",
+        "last_analyzed_at": "2026-01-18T13:56:31.579840",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                0,
-                0,
                 2,
                 1,
                 0,
-                4
+                4,
+                0,
+                1,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c1b297082fcc2b19bc6",
+            "link": "https://n.news.naver.com/mnews/article/056/0012107153?sid=100",
+            "created_at": "2026-01-18T13:05:47.771000",
+            "description": "국회 윤준병 의원이 외국 어선들의 불법 어업을 막기 위해 '배타적 경제 수역에서의 외국인 어업 등에 대한 주권적 권리의 행사에 관한 법률 일부 개정 법률안'을 대표 발의했습니다. 개정안은 불법 어업 외국 어선에... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8461856&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-17T21:24:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "윤준병 의원, ‘외국 어선 불법 근절’ 법 개정 추진"
+        },
         {
             "_id": "6968adb6297082fcc2b18d92",
             "link": "https://n.news.naver.com/mnews/article/016/0002586442?sid=100",
@@ -330,7 +343,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -410,7 +423,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -498,6 +511,76 @@
             "upload_date": null
         },
         {
+            "_id": "6966ef8a887d07f7ba2fb4b7",
+            "url": "https://www.youtube.com/watch?v=FdCQ_7GbxS8",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-14T10:21:14.561000",
+            "duration": 128.0,
+            "title": "\"월세 나쁘지 않다\" 윤준병 논란…여당 내부서도 쓴소리 / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef8a887d07f7ba2fb4b6",
+            "url": "https://www.youtube.com/watch?v=6iP7mcbY-ZQ",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-18T13:17:21.336000",
+            "duration": 74.0,
+            "title": "윤준병 도당위원장 당선! \"전북 대도약 이끌겠다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659665887d07f7ba2fad53",
+            "url": "https://www.youtube.com/watch?v=lZXxSamfWIU",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-18T13:17:21.336000",
+            "duration": 285.0,
+            "title": "[국회는지금] 윤준병 \"도당위원장 중책…지방선거 필승\"ㅣ#헬로tv뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "69659665887d07f7ba2fad52",
+            "url": "https://www.youtube.com/watch?v=vRUnkR67I0o",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-18T13:17:20.241000",
+            "duration": 153.0,
+            "title": "최인규 의장 '지방의원 길들이기' VS 윤준병 의원 '구태 정치 청산'",
+            "upload_date": null
+        },
+        {
+            "_id": "69659665887d07f7ba2fad51",
+            "url": "https://www.youtube.com/watch?v=Yh9tfQqe89c",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-18T13:17:20.241000",
+            "duration": 115.0,
+            "title": "윤준병 의원, ‘선거법 위반 혐의’…벌금 90만 원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad46631fd1743497d9c2",
+            "url": "https://www.youtube.com/watch?v=nuYvcnoD3hE",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-09T16:24:51.754000",
+            "duration": 269.0,
+            "title": "[헬로 전북-LG비전뉴스] “윤준병 의원, 21대 총선 약속, 얼마나 지켰나”(2023.01.19.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad46631fd1743497d9c1",
+            "url": "https://www.youtube.com/watch?v=OYdM9hmz1xo",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-13T09:48:35.740000",
+            "duration": 152.0,
+            "title": "[JTV 8 뉴스]  개정 선거법, 윤준병·이상직 재판 변수",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad46631fd1743497d9c0",
             "url": "https://www.youtube.com/watch?v=hjD9-v_q3WU",
             "HG_NM": "윤준병",
@@ -508,13 +591,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad46631fd1743497d9bb",
-            "url": "https://www.youtube.com/watch?v=at6X1cy29lQ",
+            "_id": "6960ad46631fd1743497d9b7",
+            "url": "https://www.youtube.com/watch?v=UCsSKyhkxLxd2H7lVy0PR35A",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-15T18:20:46.561000",
-            "duration": 131.0,
-            "title": "[뉴스데스크]'선거법 위반' 윤준병 의원 1심 \"당선무효형 피해\"",
+            "collected_at": "2026-01-18T13:17:20.241000",
+            "duration": null,
+            "title": "해결사 윤준병",
             "upload_date": null
         },
         {
@@ -528,6 +611,16 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad46631fd1743497d9bd",
+            "url": "https://www.youtube.com/watch?v=U4lhQbzre_0",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-09T16:24:51.037000",
+            "duration": 356.0,
+            "title": "[7/29] 국회의원 윤준병의 고용노동부 업무 관련 질문 영상(2차 질의)",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad46631fd1743497d9bc",
             "url": "https://www.youtube.com/watch?v=gVnbrpZIiSc",
             "HG_NM": "윤준병",
@@ -535,6 +628,16 @@
             "collected_at": "2026-01-09T16:24:51.037000",
             "duration": 803.0,
             "title": "[8/24] 국회의원 윤준병의 예산결산특별위원회 결산 종합정책질의 영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad46631fd1743497d9bb",
+            "url": "https://www.youtube.com/watch?v=at6X1cy29lQ",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-18T13:17:21.336000",
+            "duration": 131.0,
+            "title": "[뉴스데스크]'선거법 위반' 윤준병 의원 1심 \"당선무효형 피해\"",
             "upload_date": null
         },
         {
@@ -548,45 +651,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad46631fd1743497d9b8",
-            "url": "https://www.youtube.com/watch?v=L4_NwMbskcA",
-            "HG_NM": "윤준병",
-            "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-15T18:20:45.685000",
-            "duration": 649.0,
-            "title": "[7/31] 국회의원 윤준병의 환경부 업무 관련 질문 영상(2차 질의)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad46631fd1743497d9b7",
-            "url": "https://www.youtube.com/watch?v=UCsSKyhkxLxd2H7lVy0PR35A",
-            "HG_NM": "윤준병",
-            "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-15T18:20:45.685000",
-            "duration": null,
-            "title": "해결사 윤준병",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad46631fd1743497d9b9",
             "url": "https://www.youtube.com/watch?v=VmM2dmeqrjY",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-15T18:20:45.685000",
+            "collected_at": "2026-01-18T13:17:20.241000",
             "duration": 1800.0,
             "title": "[국회방송 국회의원 25시] \"주민들의 어려움을 해결하고 더 나은 내일을 만드는 것이 윤준병이 생각하는 정치입니다!\" (24.09.10.)",
             "upload_date": null
         },
         {
-            "_id": "6960ad46631fd1743497d9bd",
-            "url": "https://www.youtube.com/watch?v=U4lhQbzre_0",
+            "_id": "6960ad46631fd1743497d9b8",
+            "url": "https://www.youtube.com/watch?v=L4_NwMbskcA",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-09T16:24:51.037000",
-            "duration": 356.0,
-            "title": "[7/29] 국회의원 윤준병의 고용노동부 업무 관련 질문 영상(2차 질의)",
+            "collected_at": "2026-01-18T13:17:20.241000",
+            "duration": 649.0,
+            "title": "[7/31] 국회의원 윤준병의 환경부 업무 관련 질문 영상(2차 질의)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:54.781723"
+    "exported_at": "2026-01-18T13:56:31.579945"
 }

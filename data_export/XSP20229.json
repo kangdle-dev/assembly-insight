@@ -53,40 +53,44 @@
     "analysis": {
         "keywords": [
             "장관",
-            "용인",
             "에너지",
-            "원전",
             "기후",
-            "정책",
+            "용인",
+            "원전",
             "반도체",
+            "정책",
             "환경부",
+            "재생",
             "이전",
-            "재생에너지",
+            "산단",
+            "클러스터",
             "회관",
             "토론회",
-            "후부",
-            "해법",
-            "호남"
+            "민주당"
         ],
         "keyword_frequency": [
             {
                 "text": "장관",
-                "value": 30
-            },
-            {
-                "text": "용인",
-                "value": 18
+                "value": 37
             },
             {
                 "text": "에너지",
-                "value": 18
+                "value": 29
+            },
+            {
+                "text": "기후",
+                "value": 25
+            },
+            {
+                "text": "용인",
+                "value": 22
             },
             {
                 "text": "원전",
                 "value": 17
             },
             {
-                "text": "기후",
+                "text": "반도체",
                 "value": 16
             },
             {
@@ -94,19 +98,23 @@
                 "value": 15
             },
             {
-                "text": "반도체",
-                "value": 14
+                "text": "환경부",
+                "value": 13
             },
             {
-                "text": "환경부",
+                "text": "재생",
                 "value": 12
             },
             {
                 "text": "이전",
-                "value": 9
+                "value": 12
             },
             {
-                "text": "재생에너지",
+                "text": "산단",
+                "value": 10
+            },
+            {
+                "text": "클러스터",
                 "value": 8
             },
             {
@@ -118,41 +126,51 @@
                 "value": 7
             },
             {
-                "text": "후부",
-                "value": 6
-            },
-            {
-                "text": "해법",
-                "value": 6
-            },
-            {
-                "text": "호남",
+                "text": "민주당",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:37.143941",
+        "last_analyzed_at": "2026-01-18T13:56:11.509610",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                1,
-                2,
                 2,
                 2,
                 0,
+                0,
+                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bef297082fcc2b19b93",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623151?sid=100",
+            "created_at": "2026-01-18T13:05:03.424000",
+            "description": "김성환 의원은 기후환경부 장관이 됐다. 우원식 국회의장과 이학영 부의장도 더좋은미래 출신이다. 당 내에서도 더좋은미래 소속 조승래(사무총장), 천준호(원내운영수석부대표), 이해식(전략기획위원장) 등 여러... ",
+            "originallink": "https://www.mk.co.kr/article/11935537",
+            "press": "매일경제",
+            "pubDate": "2026-01-17T08:31:00",
+            "related_members": [
+                "XBT9550Q",
+                "K5F2023J",
+                "XSP20229",
+                "CCU1009B",
+                "A494529E",
+                "FYI20317"
+            ],
+            "title": "또 주목받는 민주당 ‘더좋은미래’"
+        },
         {
             "_id": "6966ec7c887d07f7ba2fb2ae",
             "link": "https://n.news.naver.com/mnews/article/009/0005620962?sid=101",
@@ -342,23 +360,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960abfe631fd1743497d49a",
-            "url": "https://www.youtube.com/watch?v=pk8anIFwh-M",
+            "_id": "6966ee44887d07f7ba2fb3af",
+            "url": "https://www.youtube.com/watch?v=iIqYnRZWVEI",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
-            "duration": 2065.0,
-            "title": "[씀: 싸이다Live] 민주당이 민주당했다?! 대화하는 국회의원 김성환",
+            "collected_at": "2026-01-14T10:15:48.191000",
+            "duration": 96.0,
+            "title": "[씀: 싸이다 짤] 시각장애인단체와 약속을 지킨 김성환 의원",
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d49b",
-            "url": "https://www.youtube.com/watch?v=KqI0sLq200A",
+            "_id": "6960abfe631fd1743497d49c",
+            "url": "https://www.youtube.com/watch?v=Mu3xqxWgT-w",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:58.246000",
-            "duration": 241.0,
-            "title": "김성환 \"탈원전-수출 병행 궁색\"...용인산단 이전 오해 / 한국경제TV뉴스",
+            "collected_at": "2026-01-09T16:19:23.653000",
+            "duration": 105.0,
+            "title": "김성환 장관 '용인 반도체 클러스터' 이전론 발언에…지자체 찬반 논쟁 후폭풍｜지금 이 뉴스",
             "upload_date": null
         },
         {
@@ -366,9 +384,99 @@
             "url": "https://www.youtube.com/watch?v=ASBdwIOy_cU",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
+            "collected_at": "2026-01-18T13:10:52.449000",
             "duration": 244.0,
             "title": "국회의원 김성환이 말합니다.",
+            "upload_date": null
+        },
+        {
+            "_id": "69659543887d07f7ba2fabf5",
+            "url": "https://www.youtube.com/watch?v=aO1hHHW1NpI",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:53.662000",
+            "duration": 577.0,
+            "title": "'거시기' 배우 김성환 \"정윤희·장미희 애인이었다\" - 김명준의 뉴스파이터",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abfe631fd1743497d49e",
+            "url": "https://www.youtube.com/watch?v=JgvNN9mFFf0",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-14T10:15:48.918000",
+            "duration": 111.0,
+            "title": "하늘로 떠난 ‘고바우 영감’…‘시사만화 대부’ 김성환 화백 별세 / KBS뉴스(News)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abfe631fd1743497d49a",
+            "url": "https://www.youtube.com/watch?v=pk8anIFwh-M",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:52.449000",
+            "duration": 2065.0,
+            "title": "[씀: 싸이다Live] 민주당이 민주당했다?! 대화하는 국회의원 김성환",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b015297082fcc2b19035",
+            "url": "https://www.youtube.com/watch?v=fHZHmx6vF1I",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:52.449000",
+            "duration": 79.0,
+            "title": "이재명 대표가 김성환의원에게 한 긴밀한 부탁...?! #shorts",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abfe631fd1743497d493",
+            "url": "https://www.youtube.com/watch?v=pyFc6F_yn1c",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:52.449000",
+            "duration": 357.0,
+            "title": "[김어준의 다스뵈이다] 총수를 감동시킨 김성환 의원의 위스토리(Westory)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abfe631fd1743497d49d",
+            "url": "https://www.youtube.com/watch?v=vM46LLVptME",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:53.662000",
+            "duration": 193.0,
+            "title": "김성환 기후부 장관이 겪은 이 대통령 업무 스타일은?｜이가혁 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abfe631fd1743497d497",
+            "url": "https://www.youtube.com/watch?v=9nfWZTTwdis",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:52.449000",
+            "duration": 350.0,
+            "title": "'기후에 진심'인 두사람 (이소영 국회의원&김성환 환경부장관)",
+            "upload_date": null
+        },
+        {
+            "_id": "69659543887d07f7ba2fabf4",
+            "url": "https://www.youtube.com/watch?v=ivTWzrBt0l0",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-18T13:10:53.662000",
+            "duration": 252.0,
+            "title": "김성환, 故 송대관에게 10억 빌려준 사연 공개 / 채널A / 뉴스TOP 10",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abfe631fd1743497d49f",
+            "url": "https://www.youtube.com/watch?v=a5Wu016Ptt4",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-14T10:15:48.918000",
+            "duration": 580.0,
+            "title": "[인터뷰] 김성환 장관 \"OECD 국가 중 재생에너지 비율 '꼴찌'…목표는 '40%' 달성\" / JTBC 뉴스룸",
             "upload_date": null
         },
         {
@@ -382,13 +490,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d497",
-            "url": "https://www.youtube.com/watch?v=9nfWZTTwdis",
+            "_id": "69659543887d07f7ba2fabf6",
+            "url": "https://www.youtube.com/watch?v=zN_RYLZrp3g",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
-            "duration": 350.0,
-            "title": "'기후에 진심'인 두사람 (이소영 국회의원&김성환 환경부장관)",
+            "collected_at": "2026-01-13T09:43:45.639000",
+            "duration": 72.0,
+            "title": "김성환 \"한국당, 장외투쟁 할 여력 있으면 조사 받아야”\"/ 연합뉴스 (Yonhapnews)",
             "upload_date": null
         },
         {
@@ -396,19 +504,19 @@
             "url": "https://www.youtube.com/watch?v=kutiqqxdxIs",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
+            "collected_at": "2026-01-18T13:10:52.449000",
             "duration": 87.0,
             "title": "6월 항쟁을 몸으로 직접 치른 김성환 국회의원의 회고 [6.10 민주항쟁]",
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d493",
-            "url": "https://www.youtube.com/watch?v=pyFc6F_yn1c",
+            "_id": "6960abfe631fd1743497d49b",
+            "url": "https://www.youtube.com/watch?v=KqI0sLq200A",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
-            "duration": 357.0,
-            "title": "[김어준의 다스뵈이다] 총수를 감동시킨 김성환 의원의 위스토리(Westory)",
+            "collected_at": "2026-01-18T13:10:53.662000",
+            "duration": 241.0,
+            "title": "김성환 \"탈원전-수출 병행 궁색\"...용인산단 이전 오해 / 한국경제TV뉴스",
             "upload_date": null
         },
         {
@@ -416,7 +524,7 @@
             "url": "https://www.youtube.com/watch?v=UCVwCEfX77O5aXZSt5wYQO1w",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
+            "collected_at": "2026-01-18T13:10:52.449000",
             "duration": null,
             "title": "김성환TV",
             "upload_date": null
@@ -426,7 +534,7 @@
             "url": "https://www.youtube.com/watch?v=QrDUz2LMVmM",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-15T18:14:57.441000",
+            "collected_at": "2026-01-18T13:10:52.449000",
             "duration": 580.0,
             "title": "[국회 300인의 희망인터뷰] 김성환 의원 - 나의 세가지 키워드!",
             "upload_date": null
@@ -440,7 +548,17 @@
             "duration": 1783.0,
             "title": "[YTN 뉴스앤이슈 ] '김성환 국회의원 여야 의원 대담 코너' FULL VER.",
             "upload_date": null
+        },
+        {
+            "_id": "69659543887d07f7ba2fabf3",
+            "url": "https://www.youtube.com/watch?v=qQlZpo_-vxA",
+            "HG_NM": "김성환",
+            "MONA_CD": "XSP20229",
+            "collected_at": "2026-01-13T09:43:45.146000",
+            "duration": 801.0,
+            "title": "[뉴스하이킥] 尹 밀어붙이기 심히 우려돼 - 김성환 (국회의원 | 더불어민주당 정책위의장) [표창원의 뉴스하이킥] , MBC 220318 방송",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:37.143941"
+    "exported_at": "2026-01-18T13:56:11.509712"
 }

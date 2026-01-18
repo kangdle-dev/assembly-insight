@@ -47,41 +47,53 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
-            "경기도",
             "검찰",
-            "개혁",
             "시장",
+            "의장",
+            "수사",
+            "더불어민주당",
+            "한준호",
+            "현장",
+            "개혁",
             "김동연",
             "대표",
             "베네수엘라",
-            "국제",
-            "수사권",
-            "지사",
-            "군사작전",
-            "평화",
-            "위협",
-            "강경"
+            "군사",
+            "작전",
+            "추미애",
+            "파주"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
-                "value": 7
-            },
-            {
-                "text": "경기도",
-                "value": 7
-            },
-            {
                 "text": "검찰",
+                "value": 10
+            },
+            {
+                "text": "시장",
+                "value": 9
+            },
+            {
+                "text": "의장",
+                "value": 7
+            },
+            {
+                "text": "수사",
+                "value": 7
+            },
+            {
+                "text": "더불어민주당",
+                "value": 6
+            },
+            {
+                "text": "한준호",
+                "value": 6
+            },
+            {
+                "text": "현장",
                 "value": 6
             },
             {
                 "text": "개혁",
-                "value": 6
-            },
-            {
-                "text": "시장",
                 "value": 6
             },
             {
@@ -97,57 +109,88 @@
                 "value": 6
             },
             {
-                "text": "국제",
+                "text": "군사",
                 "value": 6
             },
             {
-                "text": "수사권",
+                "text": "작전",
+                "value": 6
+            },
+            {
+                "text": "추미애",
                 "value": 5
             },
             {
-                "text": "지사",
+                "text": "파주",
                 "value": 5
-            },
-            {
-                "text": "군사작전",
-                "value": 5
-            },
-            {
-                "text": "평화",
-                "value": 5
-            },
-            {
-                "text": "위협",
-                "value": 5
-            },
-            {
-                "text": "강경",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:37.658813",
+        "last_analyzed_at": "2026-01-18T13:56:12.113388",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 1,
-                1,
-                1,
-                1,
                 2,
                 0,
+                0,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bed297082fcc2b19b8e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
+            "created_at": "2026-01-18T13:05:01.197000",
+            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-17T22:24:00",
+            "related_members": [
+                "HSS7466Y",
+                "URV1689Q",
+                "88O1334C",
+                "ATB59635",
+                "BCQ55105",
+                "WTR5885Y",
+                "3ZR4438W",
+                "5765663F",
+                "GF286398",
+                "1WE5693J",
+                "UQ282145"
+            ],
+            "title": "\"숨 막힌 학교에 숨을\"…유은혜, '적자생존 교육'에 직격탄"
+        },
+        {
+            "_id": "696c5bed297082fcc2b19b8f",
+            "link": "https://n.news.naver.com/mnews/article/382/0001248716?sid=102",
+            "created_at": "2026-01-18T13:05:01.198000",
+            "description": "또 우원식 국회의장, 윤후덕(파주시갑)·박정(파주시을) 국회의원, 황명선 더불어민주당 최고위원, 김승원 경기도당위원장, 이인영·김병주·부승찬 국회의원, 강남훈 (사)기본사회 이사장 등이 추천사를 통해 책의 출간을... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260117/133176773/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-17T18:23:00",
+            "related_members": [
+                "O7R5461J",
+                "ATB59635",
+                "6I88973D",
+                "4019850M",
+                "XBT9550Q",
+                "3ZR4438W",
+                "RJH6314D",
+                "GF286398"
+            ],
+            "title": "“현장에 답이 있다” 김경일 파주시장, 출판기념회서 ‘소통 행정’ 강..."
+        },
         {
             "_id": "6966ec71887d07f7ba2fb267",
             "link": "https://n.news.naver.com/mnews/article/421/0008712031?sid=100",
@@ -309,7 +352,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -389,7 +432,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -524,9 +567,79 @@
             "url": "https://www.youtube.com/watch?v=fsiKXE_9L2k",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-15T18:15:08.164000",
+            "collected_at": "2026-01-18T13:11:04.974000",
             "duration": 528.0,
             "title": "[모닝콜] 김승원 \"지귀연, 판사도 아냐‥교체 요구해야\" (2025.11.18/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5d59297082fcc2b19c21",
+            "url": "https://www.youtube.com/watch?v=gmjY4NGRgX0",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-18T13:11:04.974000",
+            "duration": 64.0,
+            "title": "[⚡]\"가장 강력한 무기, 검찰권 휘두른 김건희\"...분노한 김승원",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5d59297082fcc2b19c20",
+            "url": "https://www.youtube.com/watch?v=ZoNClncjYog",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-18T13:11:03.828000",
+            "duration": 74.0,
+            "title": "정권이 바뀌어도 바뀌지않는 뻔한 '검찰' 패턴 #김승원 #국회의원 #경기도당 #경기도당위원장 #김승원국회의원 #국회 #국회의원 #수원갑 #더불어민주당 #정무위원회 #검찰",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee4b887d07f7ba2fb3b4",
+            "url": "https://www.youtube.com/watch?v=sgZC9M8jshE",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-14T10:15:56.221000",
+            "duration": 223.0,
+            "title": "‘GSGG’ 김승원, 결국 사과…이준석이 쓰면 욕설? | 뉴스A 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee4b887d07f7ba2fb3b3",
+            "url": "https://www.youtube.com/watch?v=XjOPNxvgVEs",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-14T10:15:55.400000",
+            "duration": 191.0,
+            "title": "[현장영상] 증인선서 '거부' 3명? \"공직자 맞냐!\"…극대노 폭발한 김승원 / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "69659549887d07f7ba2fabf7",
+            "url": "https://www.youtube.com/watch?v=satZIA6J1-A",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-15T18:15:07.352000",
+            "duration": 2875.0,
+            "title": "김승원 의원의 “다양한 가족의 공존을 위해” | 우리들의 법 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac08631fd1743497d4c5",
+            "url": "https://www.youtube.com/watch?v=nl2Os_vLLQY",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-15T18:15:08.164000",
+            "duration": 521.0,
+            "title": "[MBN 백브리핑] 김승원, 국회의장에게 욕설?…가짜뉴스 논란까지",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac08631fd1743497d4c4",
+            "url": "https://www.youtube.com/watch?v=594cOuJvyoA",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-15T18:15:08.164000",
+            "duration": 205.0,
+            "title": "[백브리핑] 김승원, 'GSGG' 논란 일자…박병석 의장 찾아가 사과 / JTBC 뉴스룸",
             "upload_date": null
         },
         {
@@ -540,13 +653,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac08631fd1743497d4be",
-            "url": "https://www.youtube.com/watch?v=gSnHrCTgfNk",
+            "_id": "6960ac08631fd1743497d4ba",
+            "url": "https://www.youtube.com/watch?v=UCGb1fUECvsMIEPjI5QqASog",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-15T18:15:07.352000",
-            "duration": 323.0,
-            "title": "홈플러스 공동 대표 부채 2조 자산 4조? 김승원 의원 \"왜 회생을 신청했어요?\"",
+            "collected_at": "2026-01-18T13:11:03.828000",
+            "duration": null,
+            "title": "김승원TV",
             "upload_date": null
         },
         {
@@ -560,6 +673,16 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac08631fd1743497d4c0",
+            "url": "https://www.youtube.com/watch?v=J4PPYtg2waY",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-09T16:19:32.480000",
+            "duration": 93.0,
+            "title": "2024.02.05 국회의원 김승원 재취업 면접 썰 푼다.",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac08631fd1743497d4bf",
             "url": "https://www.youtube.com/watch?v=JbpG08xFb1o",
             "HG_NM": "김승원",
@@ -570,33 +693,23 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac08631fd1743497d4be",
+            "url": "https://www.youtube.com/watch?v=gSnHrCTgfNk",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-18T13:11:03.828000",
+            "duration": 323.0,
+            "title": "홈플러스 공동 대표 부채 2조 자산 4조? 김승원 의원 \"왜 회생을 신청했어요?\"",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac08631fd1743497d4bd",
             "url": "https://www.youtube.com/watch?v=uO0eP8jJqDQ",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-15T18:15:07.352000",
+            "collected_at": "2026-01-18T13:11:03.828000",
             "duration": 1386.0,
             "title": "[대담한만남] 김승원 국회의원편",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac08631fd1743497d4bb",
-            "url": "https://www.youtube.com/watch?v=yXJk2zQpNjc",
-            "HG_NM": "김승원",
-            "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-15T18:15:07.352000",
-            "duration": 1401.0,
-            "title": "국회의원25시_377회 김승원 의원 편[2021.1.19]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac08631fd1743497d4ba",
-            "url": "https://www.youtube.com/watch?v=UCGb1fUECvsMIEPjI5QqASog",
-            "HG_NM": "김승원",
-            "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-15T18:15:07.352000",
-            "duration": null,
-            "title": "김승원TV",
             "upload_date": null
         },
         {
@@ -604,21 +717,21 @@
             "url": "https://www.youtube.com/watch?v=MAW4zhoQJxA",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-15T18:15:07.352000",
+            "collected_at": "2026-01-18T13:11:03.828000",
             "duration": 693.0,
             "title": "\"수사 개판 만들어 놓고\"...분노 폭발...검찰 박살내는 김승원",
             "upload_date": null
         },
         {
-            "_id": "6960ac08631fd1743497d4c0",
-            "url": "https://www.youtube.com/watch?v=J4PPYtg2waY",
+            "_id": "6960ac08631fd1743497d4bb",
+            "url": "https://www.youtube.com/watch?v=yXJk2zQpNjc",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-09T16:19:32.480000",
-            "duration": 93.0,
-            "title": "2024.02.05 국회의원 김승원 재취업 면접 썰 푼다.",
+            "collected_at": "2026-01-18T13:11:03.828000",
+            "duration": 1401.0,
+            "title": "국회의원25시_377회 김승원 의원 편[2021.1.19]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:37.658813"
+    "exported_at": "2026-01-18T13:56:12.113508"
 }

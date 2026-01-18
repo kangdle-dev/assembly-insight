@@ -47,61 +47,65 @@
     },
     "analysis": {
         "keywords": [
+            "원내",
             "민주당",
             "김현정",
             "대표",
-            "단식",
-            "장동혁",
-            "대변인",
             "김병기",
-            "준호",
-            "정책",
+            "이날",
+            "단식",
+            "대변인",
             "총회",
+            "선거",
+            "중수",
             "정부",
-            "출석",
-            "통일교",
-            "특검",
-            "윤리"
+            "장동",
+            "정책",
+            "특검"
         ],
         "keyword_frequency": [
             {
+                "text": "원내",
+                "value": 28
+            },
+            {
                 "text": "민주당",
-                "value": 23
+                "value": 19
             },
             {
                 "text": "김현정",
-                "value": 14
+                "value": 19
             },
             {
                 "text": "대표",
-                "value": 14
-            },
-            {
-                "text": "단식",
-                "value": 13
-            },
-            {
-                "text": "장동혁",
-                "value": 11
-            },
-            {
-                "text": "대변인",
-                "value": 11
+                "value": 18
             },
             {
                 "text": "김병기",
-                "value": 11
+                "value": 17
             },
             {
-                "text": "준호",
-                "value": 11
+                "text": "이날",
+                "value": 15
             },
             {
-                "text": "정책",
-                "value": 9
+                "text": "단식",
+                "value": 14
+            },
+            {
+                "text": "대변인",
+                "value": 13
             },
             {
                 "text": "총회",
+                "value": 11
+            },
+            {
+                "text": "선거",
+                "value": 10
+            },
+            {
+                "text": "중수",
                 "value": 9
             },
             {
@@ -109,45 +113,122 @@
                 "value": 9
             },
             {
-                "text": "출석",
+                "text": "장동",
                 "value": 9
             },
             {
-                "text": "통일교",
-                "value": 7
+                "text": "정책",
+                "value": 9
             },
             {
                 "text": "특검",
-                "value": 7
-            },
-            {
-                "text": "윤리",
-                "value": 7
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:41.328632",
+        "last_analyzed_at": "2026-01-18T13:56:16.664263",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
-                0,
-                0,
-                10,
+                13,
                 2,
                 0,
-                8
+                9,
+                3,
+                1,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5be4297082fcc2b19b61",
+            "link": "https://n.news.naver.com/mnews/article/262/0000019088?sid=100",
+            "created_at": "2026-01-18T13:04:52.147000",
+            "description": "이수진 전 의원이 말하는 공천 비리 ● 검증 자격 없는 사람의 공천 관여 막고 싶었다 ● 내가 먼저... “지역에선 재선한 구청장이 현역 국회의원보다 인기가 좋다. 이 전 구청장이 총선에 나간다고 하니 김 전 원내대표... ",
+            "originallink": "https://shindonga.donga.com/3/all/13/6061696/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-17T09:01:00",
+            "related_members": [
+                "JZY9937U",
+                "MNZ4401T",
+                "TST4507I",
+                "5N65159P",
+                "8Q88373R",
+                "7YL9580G",
+                "SLW27496",
+                "0R68099X"
+            ],
+            "title": "[영상] “김병기에 탄원서 들어간 뒤부터 피바람 불었다”"
+        },
+        {
+            "_id": "696c5c13297082fcc2b19bbf",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623058?sid=102",
+            "created_at": "2026-01-18T13:05:39.013000",
+            "description": "배기호, 김현겸, 안규백, 김정욱 등 4인 성균관대학교 총동창회가 배기호 전 북미주연합동문회장, 김현겸... 안 장관은 5선 중진의원으로 국회 국방위원회에서 15년 이상 활동한 전문성을 인정받아 지난해 7월... ",
+            "originallink": "https://www.mk.co.kr/article/11935469",
+            "press": "매일경제",
+            "pubDate": "2026-01-16T17:46:00",
+            "related_members": [
+                "TST4507I",
+                "7YL9580G"
+            ],
+            "title": "성균관대 총동창회, 2025 자랑스러운 성균인상 선정"
+        },
+        {
+            "_id": "696c5c13297082fcc2b19bc1",
+            "link": "https://n.news.naver.com/mnews/article/003/0013715417?sid=102",
+            "created_at": "2026-01-18T13:05:39.013000",
+            "description": "안규백 장관은 제18대 국회의원으로 당선된 이후 주요 보직을 맡아 활동하며 지난해 7월 국방부장관으로 임명됐다. 또한 국회동문회 회장으로서 모교 후배들을 위한 글로벌리더양성기금을 조성하는 등 대학 발전에... ",
+            "originallink": "https://www.newsis.com/view/NISX20260116_0003480056",
+            "press": "뉴시스",
+            "pubDate": "2026-01-16T16:42:00",
+            "related_members": [
+                "TST4507I",
+                "7YL9580G"
+            ],
+            "title": "'자랑스러운 성균인상'에 안규백·배기호·김현겸·김정욱 동문"
+        },
+        {
+            "_id": "6969b956297082fcc2b19442",
+            "link": "https://n.news.naver.com/mnews/article/382/0001248454?sid=102",
+            "created_at": "2026-01-16T13:06:44.124000",
+            "description": "이날 행사에는 김연균 의장을 비롯해 권안나, 김현채, 정미영, 김태은, 김현주, 강선영, 정진호, 김지호, 조세일 의원과 의정부시장, 국회의원, 관내 사회복지기관 및 시설단체장들이 함께했다. 김 의장은 “사회복지협의회... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260116/133166569/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-16T05:12:00",
+            "related_members": [
+                "7YL9580G",
+                "NQO7187X"
+            ],
+            "title": "의정부시의회, 사회복지협의회 ‘신년 하례회’ 참석"
+        },
+        {
+            "_id": "696902b5297082fcc2b1926c",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097942?sid=100",
+            "created_at": "2026-01-16T00:07:33.787000",
+            "description": "손 맞잡고 더불어민주당 정청래 대표(왼쪽)가 15일 국회에서 열린 당 의원총회에서 한병도 원내대표와 악수하고 있다. 민주당은 이날 의원총회에서 정부의 중대범죄수사청(중수청)·공소청 설치법안을 수정하기 위한... ",
+            "originallink": "https://www.segye.com/newsView/20260115516345?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-15T18:12:00",
+            "related_members": [
+                "NXB3178C",
+                "2385336L",
+                "H5476989",
+                "6VC83722",
+                "7YL9580G",
+                "8BF5855P",
+                "V429892C"
+            ],
+            "title": "與 중수청·공소청 법안 수정 본격화… 20일 공청회가 분수령"
+        },
         {
             "_id": "6968ad89297082fcc2b18cea",
             "link": "https://n.news.naver.com/mnews/article/032/0003421820?sid=100",
@@ -225,7 +306,7 @@
             "_id": "6968ad98297082fcc2b18d34",
             "link": "https://n.news.naver.com/mnews/article/421/0008716627?sid=100",
             "created_at": "2026-01-15T18:04:21.548000",
-            "description": "김일창 임세원 기자 = 정청래 더불어민주당 대표는 15일 \"정부에서 예고한 중대범죄수사청(중수청)법과... 정 대표는 이날 오후 국회에서 열린 정책의원총회 모두발언에서 \"오는 20일 모든 국민이 지켜보는 가운데 두 법안에... ",
+            "description": "정 대표는 이날 오후 국회에서 열린 정책의원총회 모두발언에서 \"오는 20일 모든 국민이 지켜보는 가운데 두... 대해 의원들에게 설명한 후 의원들과 질의응답 시간을 가졌다. 의총 후 기자들과 만난 김현정 원내대변인은... ",
             "originallink": "https://www.news1.kr/politics/assembly/6040442",
             "press": "뉴스1",
             "pubDate": "2026-01-15T15:27:00",
@@ -240,7 +321,7 @@
             "_id": "6968ad98297082fcc2b18d35",
             "link": "https://n.news.naver.com/mnews/article/003/0013713055?sid=100",
             "created_at": "2026-01-15T18:04:21.548000",
-            "description": "정금민 신재현 한재혁 기자 = 더불어민주당은 15일 장동혁 국민의힘 대표가 '공천 뇌물·통일교 특검법' 수용... 김현정 민주당 원내대변인은 이날 국회에서 열린 정책 의원총회 후 기자들과 만나 \"원래 민주당은 통일교... ",
+            "description": "김현정 민주당 원내대변인은 이날 국회에서 열린 정책 의원총회 후 기자들과 만나 \"원래 민주당은 통일교 특검의 필요성이 없다는 입장이었는데 국민의힘의 요구를 전격 수용한 것\"이라며 이같이 말했다. 김 원내대변인은... ",
             "originallink": "https://www.newsis.com/view/NISX20260115_0003478463",
             "press": "뉴시스",
             "pubDate": "2026-01-15T15:15:00",
@@ -256,7 +337,7 @@
             "_id": "6968ad98297082fcc2b18d36",
             "link": "https://n.news.naver.com/mnews/article/053/0000055049?sid=100",
             "created_at": "2026-01-15T18:04:21.548000",
-            "description": "국회 본회의장 로텐더홀에서 열린 더불어민주당의 '2차 종합특검법' 강행 처리 규탄대회에 참석해 \"천하람... 김현정 민주당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝난 뒤 기자들과 만나 \"이것으로... ",
+            "description": "김현정 민주당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝난 뒤 기자들과 만나 \"이것으로 단식하는 것은 민주당에서 봤을 때 통일교 특검을 하지 않겠다는 것에 대한 비판의 목소리를 잠재우려는 정치적... ",
             "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47798",
             "press": "조선일보",
             "pubDate": "2026-01-15T15:10:00",
@@ -405,7 +486,7 @@
             "_id": "6964b541631fd17434995fdd",
             "link": "https://n.news.naver.com/mnews/article/052/0002299526?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "■ 진행 : 이하린 앵커 ■ 출연 : 전용기 더불어민주당 의원, 김대식 국민의힘 의원 * 아래 텍스트는 실제 방송... 왜냐하면 현역 국회의원을 했었고 이후에 생겼던 자리에 가는 부분 때문에 그럴 수 있을 것 같은데 저는... ",
+            "description": "국민의힘 박수영 의원실의 자료인데요. 둘째 아들은 지난 2014년부터 2년 동안 서울 서초구 지역아동센터에서... 왜냐하면 현역 국회의원을 했었고 이후에 생겼던 자리에 가는 부분 때문에 그럴 수 있을 것 같은데 저는... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601121641580338",
             "press": "YTN",
             "pubDate": "2026-01-12T16:41:00",
@@ -534,9 +615,184 @@
                 "UF53617M"
             ],
             "title": "국힘 “제주항공 참사, 수사 지연은 민주당 때문…국정조사 해야”"
+        },
+        {
+            "_id": "6964b541631fd17434995fe4",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-12T17:47:58.315000",
+            "description": "그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은... 강득구 의원하고 문정복 의원은 재선 의원이거든요? 그리고 이성윤하고 이건태 의원은 초선 의원이었어요. 그래서... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106821&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-12T09:30:00",
+            "related_members": [
+                "6VC83722",
+                "8Q88373R",
+                "7YL9580G",
+                "8P37634C",
+                "GOC54665",
+                "MLH1404S",
+                "5TQ6306B",
+                "6EN68926",
+                "H5476989",
+                "N2P9317N",
+                "7YC6702R",
+                "KFM1081G",
+                "QWL7778X"
+            ],
+            "title": "김현정 \"보궐 당선자들 '원팀 보이스'... 김병기, 제명·비상징계 등 가..."
+        },
+        {
+            "_id": "6964b541631fd17434995fe7",
+            "link": "https://n.news.naver.com/mnews/article/052/0002299268?sid=100",
+            "created_at": "2026-01-12T17:47:58.315000",
+            "description": "그런 것들이 중앙의원과 국회의원들은 90%가 넘고, 당원들도 40%가 넘는 보궐선거임에도 불구하고 높은... 강득구 의원하고 문정복 의원은 재선 의원이거든요? 그리고 이성윤하고 이건태 의원은 초선 의원이었어요. 그래서... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601120807438340",
+            "press": "YTN",
+            "pubDate": "2026-01-12T08:07:00",
+            "related_members": [
+                "6VC83722",
+                "8Q88373R",
+                "7YL9580G",
+                "8P37634C",
+                "GOC54665",
+                "MLH1404S",
+                "5TQ6306B",
+                "6EN68926",
+                "H5476989",
+                "N2P9317N",
+                "7YC6702R",
+                "KFM1081G",
+                "QWL7778X"
+            ],
+            "title": "김현정 \"보궐 당선자들 '원팀 보이스'... 김병기, 제명·비상징계 등 가..."
+        },
+        {
+            "_id": "6964b556631fd174349961a7",
+            "link": "https://n.news.naver.com/mnews/article/033/0000050122?sid=100",
+            "created_at": "2026-01-12T17:48:19.271000",
+            "description": "민주당 관계자는 “지역위원장이나 국회의원에게 공천을 염두에 두고 돈을 주는 경우는 암암리에 많을 것”이라며 “다만 요즘은 노골적인 현금보다는 합법적인 방식이 주로 활용된다”고 말했다. 그는 정성국 국민의힘... ",
+            "originallink": "https://weekly.khan.co.kr/article/202601120600001",
+            "press": "경향신문",
+            "pubDate": "2026-01-12T06:05:00",
+            "related_members": [
+                "6VC83722",
+                "7YL9580G",
+                "CGW7415Z"
+            ],
+            "title": "“한글 못 쓰는 3선 구의원”…그는 어떻게 공천을 받았나"
+        },
+        {
+            "_id": "6964b556631fd174349961a8",
+            "link": "https://n.news.naver.com/mnews/article/009/0005619925?sid=100",
+            "created_at": "2026-01-12T17:48:19.271000",
+            "description": "앞서 나경원 의원을 비롯한 국민의힘 의원 34명이 댓글 국적 표시법(정보통신망법 개정안)을 발의한 바 있다.... 대통령 선거나 국회의원 선거 투표권은 없다. 민주당은 “일부 극우 유튜버들이 앵무새처럼 반복해온... ",
+            "originallink": "https://www.mk.co.kr/article/11929550",
+            "press": "매일경제",
+            "pubDate": "2026-01-11T18:27:00",
+            "related_members": [
+                "6VC83722",
+                "7YL9580G",
+                "SLW27496"
+            ],
+            "title": "“댓글 국적표시하자”는 국힘에…“또 혐중론이냐” 발끈한 민주당"
+        },
+        {
+            "_id": "6964b556631fd174349961a9",
+            "link": "https://n.news.naver.com/mnews/article/009/0005619906?sid=100",
+            "created_at": "2026-01-12T17:48:19.271000",
+            "description": "앞서 나경원 의원을 비롯한 국민의힘 의원 34명이 댓글 국적 표시법(정보통신망법 개정안)을 발의한 바 있다.... 대통령 선거나 국회의원 선거 투표권은 없다. 민주당은 \"일부 극우 유튜버들이 앵무새처럼 반복해온 주장과... ",
+            "originallink": "https://www.mk.co.kr/article/11929503",
+            "press": "매일경제",
+            "pubDate": "2026-01-11T17:37:00",
+            "related_members": [
+                "6VC83722",
+                "7YL9580G",
+                "SLW27496"
+            ],
+            "title": "국힘 \"댓글 국적 표시하자\" … 민주 \"또 혐중론 들고나와\""
         }
     ],
     "recent_videos": [
+        {
+            "_id": "6960ac4d631fd1743497d5db",
+            "url": "https://www.youtube.com/watch?v=UCMAkBL0hvf_eM7yCuq10P_A",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": null,
+            "title": "김현tv",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4d631fd1743497d5dc",
+            "url": "https://www.youtube.com/watch?v=kjlfbxnb-y8",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 1016.0,
+            "title": "[✂️김현 의원 출연 cut] 9월 10일 매불쇼",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4d631fd1743497d5dd",
+            "url": "https://www.youtube.com/watch?v=3WxyFglVdIk",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 138.0,
+            "title": "[2015.09.10.] 국회의원 김현 정무위원회 국정감사 \"세월호 국조실 파견 및 특조위 세금문제에 관하여 더 관심을 가지고 문제를 해결해주시기 바람\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4d631fd1743497d5de",
+            "url": "https://www.youtube.com/watch?v=GwW1v6MnhOg",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 192.0,
+            "title": "[돌발영상] \"입 닫고요\" 말한 김현에게 \"입 좀 닫으세요\"라고 하면 벌어지는 일 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4d631fd1743497d5df",
+            "url": "https://www.youtube.com/watch?v=7_lCG_VBkTs",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:27.951000",
+            "duration": 976.0,
+            "title": "김현 \"김범석 쿠팡 의장 청문회 안 나오면 고발할 것\" [뉴스와이드]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4d631fd1743497d5e0",
+            "url": "https://www.youtube.com/watch?v=tcMdAoVGtZ4",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:27.951000",
+            "duration": 1710.0,
+            "title": "[뉴스레터K] 이틀간 쿠팡 청문회...김범석 또 불출석 - 김현 더불어민주당 의원ㅣKBS 251230 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4d631fd1743497d5e1",
+            "url": "https://www.youtube.com/watch?v=FwkvNrX7XSU",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:27.951000",
+            "duration": 83.0,
+            "title": "[14/10/06 정오뉴스] 새정치민주연합 '김현 논란' 대국민사과…상임위도 재배치",
+            "upload_date": null
+        },
+        {
+            "_id": "69659580887d07f7ba2fac42",
+            "url": "https://www.youtube.com/watch?v=kAVW8Wj4lbI",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 234.0,
+            "title": "[돌발영상] 웃음 찾느라 꽤 힘들어 보이는 김현(묘하게 따라 웃게됨) / YTN",
+            "upload_date": null
+        },
         {
             "_id": "69659580887d07f7ba2fac43",
             "url": "https://www.youtube.com/watch?v=Aw9fYgHtZ84",
@@ -558,85 +814,65 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac4d631fd1743497d5df",
-            "url": "https://www.youtube.com/watch?v=7_lCG_VBkTs",
+            "_id": "6968b068297082fcc2b19060",
+            "url": "https://www.youtube.com/watch?v=ojI00NpAlN8",
+            "HG_NM": "김현",
+            "MONA_CD": "7YL9580G",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 240.0,
+            "title": "거짓말 들통난 이진숙! 김현 의원 회의록 까자 보인 반응이... #이진숙 #김현",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b068297082fcc2b19061",
+            "url": "https://www.youtube.com/watch?v=dcqa7odtwIE",
             "HG_NM": "김현",
             "MONA_CD": "7YL9580G",
             "collected_at": "2026-01-15T18:16:20.982000",
-            "duration": 976.0,
-            "title": "김현 \"김범석 쿠팡 의장 청문회 안 나오면 고발할 것\" [뉴스와이드]",
+            "duration": 1547.0,
+            "title": "사형수는 '피식' 방청석은 '욕설' \"피고 윤석열 사형\" (김기성 강석영 김현) #뉴스인사이다 (0114_수)",
             "upload_date": null
         },
         {
-            "_id": "69659580887d07f7ba2fac42",
-            "url": "https://www.youtube.com/watch?v=kAVW8Wj4lbI",
+            "_id": "696c5dab297082fcc2b19c45",
+            "url": "https://www.youtube.com/watch?v=-kJDHRX2ImU",
             "HG_NM": "김현",
             "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-13T09:44:45.715000",
-            "duration": 234.0,
-            "title": "[돌발영상] 웃음 찾느라 꽤 힘들어 보이는 김현(묘하게 따라 웃게됨) / YTN",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 184.0,
+            "title": "세월호 유가족·김현 의원 기소의견 송치 / YTN",
             "upload_date": null
         },
         {
-            "_id": "6960ac4d631fd1743497d5e0",
-            "url": "https://www.youtube.com/watch?v=tcMdAoVGtZ4",
+            "_id": "696c5dab297082fcc2b19c46",
+            "url": "https://www.youtube.com/watch?v=nznGOAk1y9Q",
             "HG_NM": "김현",
             "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-15T18:16:20.982000",
-            "duration": 1710.0,
-            "title": "[뉴스레터K] 이틀간 쿠팡 청문회...김범석 또 불출석 - 김현 더불어민주당 의원ㅣKBS 251230 방송",
+            "collected_at": "2026-01-18T13:12:26.999000",
+            "duration": 2143.0,
+            "title": "[✂️김현 의원 출연 cut] 6월 10일 겸공 뉴스 특보ㅣ이재명 정부가 가져온 변화들, 자중지란 국민의 힘, 이진숙 방통위원장의 세번째 압수수색",
             "upload_date": null
         },
         {
-            "_id": "6960ac4d631fd1743497d5de",
-            "url": "https://www.youtube.com/watch?v=GwW1v6MnhOg",
+            "_id": "696c5dab297082fcc2b19c47",
+            "url": "https://www.youtube.com/watch?v=aUSydpx8ajw",
             "HG_NM": "김현",
             "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-15T18:16:20.110000",
-            "duration": 192.0,
-            "title": "[돌발영상] \"입 닫고요\" 말한 김현에게 \"입 좀 닫으세요\"라고 하면 벌어지는 일 / YTN",
+            "collected_at": "2026-01-18T13:12:27.951000",
+            "duration": 1234.0,
+            "title": "[고수다] 김현 \"징역 15년, 한덕수 죄값 물은 것‥尹재판 못 미룰 것\" (2025.11.26/뉴스외전/MBC)",
             "upload_date": null
         },
         {
-            "_id": "6960ac4d631fd1743497d5dc",
-            "url": "https://www.youtube.com/watch?v=kjlfbxnb-y8",
+            "_id": "696c5dab297082fcc2b19c48",
+            "url": "https://www.youtube.com/watch?v=ZFucTqwLkrA",
             "HG_NM": "김현",
             "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-15T18:16:20.110000",
-            "duration": 1016.0,
-            "title": "[✂️김현 의원 출연 cut] 9월 10일 매불쇼",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4d631fd1743497d5db",
-            "url": "https://www.youtube.com/watch?v=UCMAkBL0hvf_eM7yCuq10P_A",
-            "HG_NM": "김현",
-            "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-15T18:16:20.110000",
-            "duration": null,
-            "title": "김현tv",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4d631fd1743497d5dd",
-            "url": "https://www.youtube.com/watch?v=3WxyFglVdIk",
-            "HG_NM": "김현",
-            "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-15T18:16:20.110000",
-            "duration": 138.0,
-            "title": "[2015.09.10.] 국회의원 김현 정무위원회 국정감사 \"세월호 국조실 파견 및 특조위 세금문제에 관하여 더 관심을 가지고 문제를 해결해주시기 바람\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4d631fd1743497d5e1",
-            "url": "https://www.youtube.com/watch?v=FwkvNrX7XSU",
-            "HG_NM": "김현",
-            "MONA_CD": "7YL9580G",
-            "collected_at": "2026-01-15T18:16:20.982000",
-            "duration": 83.0,
-            "title": "[14/10/06 정오뉴스] 새정치민주연합 '김현 논란' 대국민사과…상임위도 재배치",
+            "collected_at": "2026-01-18T13:12:27.951000",
+            "duration": 77.0,
+            "title": "[14/10/04 뉴스투데이] 김현 의원 10시간 조사 후 귀가…대리기사 \"사건 시발점“",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:41.329633"
+    "exported_at": "2026-01-18T13:56:16.664403"
 }

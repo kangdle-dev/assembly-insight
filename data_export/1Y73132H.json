@@ -57,25 +57,25 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
-            "거래소",
             "자산",
+            "거래소",
+            "국민",
+            "지분",
             "인터뷰",
             "제한",
-            "국힘",
+            "디지털",
             "민주당",
-            "총선",
-            "가능성",
-            "가상",
-            "코인",
-            "민간",
-            "위원회",
             "소속",
-            "디지털"
+            "위원회",
+            "코인",
+            "총선",
+            "가능",
+            "가상",
+            "민간"
         ],
         "keyword_frequency": [
             {
-                "text": "국민",
+                "text": "자산",
                 "value": 10
             },
             {
@@ -83,7 +83,11 @@
                 "value": 9
             },
             {
-                "text": "자산",
+                "text": "국민",
+                "value": 9
+            },
+            {
+                "text": "지분",
                 "value": 8
             },
             {
@@ -95,19 +99,31 @@
                 "value": 7
             },
             {
-                "text": "국힘",
-                "value": 7
+                "text": "디지털",
+                "value": 6
             },
             {
                 "text": "민주당",
                 "value": 6
             },
             {
+                "text": "소속",
+                "value": 5
+            },
+            {
+                "text": "위원회",
+                "value": 5
+            },
+            {
+                "text": "코인",
+                "value": 5
+            },
+            {
                 "text": "총선",
                 "value": 5
             },
             {
-                "text": "가능성",
+                "text": "가능",
                 "value": 5
             },
             {
@@ -115,49 +131,49 @@
                 "value": 4
             },
             {
-                "text": "코인",
-                "value": 4
-            },
-            {
                 "text": "민간",
-                "value": 4
-            },
-            {
-                "text": "위원회",
-                "value": 4
-            },
-            {
-                "text": "소속",
-                "value": 4
-            },
-            {
-                "text": "디지털",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:36.562998",
+        "last_analyzed_at": "2026-01-18T13:56:10.566262",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
-                0,
-                0,
                 1,
                 1,
                 2,
+                0,
+                1,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bed297082fcc2b19b92",
+            "link": "https://n.news.naver.com/mnews/article/015/0005238385?sid=101",
+            "created_at": "2026-01-18T13:05:01.840000",
+            "description": "이날 토론회에는 안 의원을 비롯해 이강일 민주당 의원, 한민수 민주당 의원 등 TF 소속 의원들이 참석했다. 안 의원의 이번 발언은 금융당국의 방침을 겨냥한 것으로 보인다. 금융위원회는 최근 국회에 스테이블코인 발행... ",
+            "originallink": "https://www.hankyung.com/article/202601165823g",
+            "press": "한국경제",
+            "pubDate": "2026-01-16T18:06:00",
+            "related_members": [
+                "1Y73132H",
+                "EB16073M",
+                "8JG4358H",
+                "AEO5706C"
+            ],
+            "title": "디지털자산기본법 고삐 죄는 與…\"은행 중심은 혁신 저해\""
+        },
         {
             "_id": "6968ad8d297082fcc2b18d0c",
             "link": "https://n.news.naver.com/mnews/article/421/0008714664?sid=101",
@@ -222,7 +238,7 @@
             "_id": "6964b548631fd17434996094",
             "link": "https://n.news.naver.com/mnews/article/020/0003687852?sid=100",
             "created_at": "2026-01-12T17:48:05.536000",
-            "description": "올해 6·3 지방선거와 함께 치러지는 국회의원 재·보궐 선거가 ‘미니 총선’급으로 판이 커질 가능성이... 부산시장 선거는 박형준 현 시장과 경쟁할 국민의힘 후보군이 많다.국민의힘에서는 조경태(부산 사하구을)... ",
+            "description": "올해 6·3 지방선거와 함께 치러지는 국회의원 재·보궐 선거가 ‘미니 총선’급으로 판이 커질 가능성이... 국민의힘에서는 조경태(부산 사하구을), 김도읍(부산 강서구), 이헌승(부산 부산진구을) 의원 등이 거론된다.... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260108/133116733/1",
             "press": "동아일보",
             "pubDate": "2026-01-08T13:52:00",
@@ -299,6 +315,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960abf2631fd1743497d45f",
+            "url": "https://www.youtube.com/watch?v=AP0_chExNwA",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-18T13:10:38.330000",
+            "duration": 139.0,
+            "title": "국민의힘 김상훈 \"민주당이 민노총의 하부 조직인가\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf2631fd1743497d460",
+            "url": "https://www.youtube.com/watch?v=VMo0H6BAxls",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-18T13:10:38.330000",
+            "duration": 1087.0,
+            "title": "20230306 [국회방송] 인터뷰 릴레이 칭찬_국회의원 김상훈 편",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf2631fd1743497d461",
+            "url": "https://www.youtube.com/watch?v=-aKaX_Hkb5U",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-18T13:10:38.330000",
+            "duration": 153.0,
+            "title": "김상훈 의원 \"국회의원들이 대통령 거수기입니까?\" 20200729 국토위",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf2631fd1743497d462",
+            "url": "https://www.youtube.com/watch?v=pBRTKci_caM",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-18T13:10:38.330000",
+            "duration": 585.0,
+            "title": "제20대 국회 인터뷰 릴레이 칭찬 144회 김상훈 의원 자유한국당",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf2631fd1743497d463",
+            "url": "https://www.youtube.com/watch?v=CGoVtLR63DA",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-18T13:10:38.330000",
+            "duration": 1226.0,
+            "title": "\"민주노총이 민주당 지도부에 ‘버르장머리 없이 개가 주인 물어?’\" 김상훈 국민의힘 의원 | 대정부질문 (25.9.17.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf2631fd1743497d464",
+            "url": "https://www.youtube.com/watch?v=U_u6pT_MqfE",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-18T13:10:38.330000",
+            "duration": 1006.0,
+            "title": "20230418 [국회라이브6] 파워인터뷰_김상훈의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6965953a887d07f7ba2fabed",
+            "url": "https://www.youtube.com/watch?v=QlEZsNAg4Z0",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-15T18:14:44.142000",
+            "duration": 357.0,
+            "title": "20230424 [국회라이브6] 전화 인터뷰_김상훈의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6965953a887d07f7ba2fabee",
+            "url": "https://www.youtube.com/watch?v=ECl8VEAwal8",
+            "HG_NM": "김상훈",
+            "MONA_CD": "1Y73132H",
+            "collected_at": "2026-01-15T18:14:44.894000",
+            "duration": 257.0,
+            "title": "김상훈 \"부결 당론 그대로...가결 가능성은 커져”ㅣTBC뉴스",
+            "upload_date": null
+        },
+        {
             "_id": "6966ee38887d07f7ba2fb3a4",
             "url": "https://www.youtube.com/watch?v=-qBTJzHJS04",
             "HG_NM": "김상훈",
@@ -319,85 +415,15 @@
             "upload_date": null
         },
         {
-            "_id": "6960abf2631fd1743497d463",
-            "url": "https://www.youtube.com/watch?v=CGoVtLR63DA",
+            "_id": "696c5d3f297082fcc2b19c19",
+            "url": "https://www.youtube.com/watch?v=RuI0rvG4Gqs",
             "HG_NM": "김상훈",
             "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.142000",
-            "duration": 1226.0,
-            "title": "\"민주노총이 민주당 지도부에 ‘버르장머리 없이 개가 주인 물어?’\" 김상훈 국민의힘 의원 | 대정부질문 (25.9.17.) | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6965953a887d07f7ba2fabee",
-            "url": "https://www.youtube.com/watch?v=ECl8VEAwal8",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.894000",
-            "duration": 257.0,
-            "title": "김상훈 \"부결 당론 그대로...가결 가능성은 커져”ㅣTBC뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf2631fd1743497d464",
-            "url": "https://www.youtube.com/watch?v=U_u6pT_MqfE",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.142000",
-            "duration": 1006.0,
-            "title": "20230418 [국회라이브6] 파워인터뷰_김상훈의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf2631fd1743497d462",
-            "url": "https://www.youtube.com/watch?v=pBRTKci_caM",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.142000",
-            "duration": 585.0,
-            "title": "제20대 국회 인터뷰 릴레이 칭찬 144회 김상훈 의원 자유한국당",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf2631fd1743497d460",
-            "url": "https://www.youtube.com/watch?v=VMo0H6BAxls",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.142000",
-            "duration": 1087.0,
-            "title": "20230306 [국회방송] 인터뷰 릴레이 칭찬_국회의원 김상훈 편",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf2631fd1743497d45f",
-            "url": "https://www.youtube.com/watch?v=AP0_chExNwA",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-14T10:15:36.562000",
-            "duration": 139.0,
-            "title": "국민의힘 김상훈 \"민주당이 민노총의 하부 조직인가\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf2631fd1743497d461",
-            "url": "https://www.youtube.com/watch?v=-aKaX_Hkb5U",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.142000",
-            "duration": 153.0,
-            "title": "김상훈 의원 \"국회의원들이 대통령 거수기입니까?\" 20200729 국토위",
-            "upload_date": null
-        },
-        {
-            "_id": "6965953a887d07f7ba2fabed",
-            "url": "https://www.youtube.com/watch?v=QlEZsNAg4Z0",
-            "HG_NM": "김상훈",
-            "MONA_CD": "1Y73132H",
-            "collected_at": "2026-01-15T18:14:44.142000",
-            "duration": 357.0,
-            "title": "20230424 [국회라이브6] 전화 인터뷰_김상훈의원",
+            "collected_at": "2026-01-18T13:10:39.382000",
+            "duration": 3384.0,
+            "title": "전기 남는 호남? 삼성·SK 못 가는 이유 (언더스탠딩 김상훈 기자)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:36.562998"
+    "exported_at": "2026-01-18T13:56:10.566359"
 }

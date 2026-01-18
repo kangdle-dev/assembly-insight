@@ -42,41 +42,37 @@
     },
     "analysis": {
         "keywords": [
-            "승환",
             "장관",
             "국민",
-            "부산",
-            "부의",
-            "재선",
-            "지방선거",
             "영도구",
-            "지역",
-            "기초단체장",
-            "국가",
-            "정책",
-            "모임",
-            "공천",
-            "민심"
+            "부의장",
+            "재선",
+            "부산",
+            "지방",
+            "선거",
+            "인사",
+            "중구",
+            "초선",
+            "기초",
+            "단체장",
+            "해운",
+            "국가"
         ],
         "keyword_frequency": [
             {
-                "text": "승환",
-                "value": 29
-            },
-            {
                 "text": "장관",
-                "value": 8
+                "value": 10
             },
             {
                 "text": "국민",
-                "value": 7
+                "value": 8
             },
             {
-                "text": "부산",
+                "text": "영도구",
                 "value": 6
             },
             {
-                "text": "부의",
+                "text": "부의장",
                 "value": 6
             },
             {
@@ -84,65 +80,86 @@
                 "value": 6
             },
             {
-                "text": "지방선거",
+                "text": "부산",
                 "value": 5
             },
             {
-                "text": "영도구",
+                "text": "지방",
+                "value": 5
+            },
+            {
+                "text": "선거",
+                "value": 5
+            },
+            {
+                "text": "인사",
+                "value": 5
+            },
+            {
+                "text": "중구",
                 "value": 4
             },
             {
-                "text": "지역",
+                "text": "초선",
                 "value": 4
             },
             {
-                "text": "기초단체장",
+                "text": "기초",
+                "value": 4
+            },
+            {
+                "text": "단체장",
+                "value": 4
+            },
+            {
+                "text": "해운",
                 "value": 4
             },
             {
                 "text": "국가",
                 "value": 4
-            },
-            {
-                "text": "정책",
-                "value": 4
-            },
-            {
-                "text": "모임",
-                "value": 4
-            },
-            {
-                "text": "공천",
-                "value": 4
-            },
-            {
-                "text": "민심",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:04.618422",
+        "last_analyzed_at": "2026-01-18T13:56:42.608041",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
                 0,
                 0,
-                0
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bfb297082fcc2b19ba6",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055116?sid=100",
+            "created_at": "2026-01-18T13:05:15.273000",
+            "description": "출신인 조승환 의원(부산 중구영도구·초선)을 앉혔던 것도 그 연장선이다. 국민의힘 싱크탱크인 여의도연구원의 정책보고서는 한때 여야를 가리지 않고 국회 보좌진 사이에서 \"누가 구하느냐가 실력\"으로 통했다.... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47850",
+            "press": "조선일보",
+            "pubDate": "2026-01-18T07:00:00",
+            "related_members": [
+                "ME83002L",
+                "SLW27496",
+                "IWK63872",
+                "P7U7800Z",
+                "KFM1081G"
+            ],
+            "title": "조승환 여의도연구원장 \"꼰대정당 이미지 벗기 위해 여성·청년 역할 늘..."
+        },
         {
             "_id": "6964b58a631fd1743499648e",
             "link": "https://n.news.naver.com/mnews/article/005/0001825149?sid=103",
@@ -277,6 +294,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960adfc631fd1743497dc53",
+            "url": "https://www.youtube.com/watch?v=UCrkkpP9BlSvcODlZKKBayTQ",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:45.391000",
+            "duration": null,
+            "title": "조승환TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfc631fd1743497dc54",
+            "url": "https://www.youtube.com/watch?v=3WoqDErMbgk",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:46.365000",
+            "duration": 565.0,
+            "title": "윤미향 의원, 조승환장관과 설전 \"뭘 검증하셨는데요?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfc631fd1743497dc55",
+            "url": "https://www.youtube.com/watch?v=SS9q4d9Y5JE",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:45.392000",
+            "duration": 84.0,
+            "title": "국민의힘 조승환 의원 급발진… 주호영 부의장 “잠깐만요. 차분~하게!”",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfc631fd1743497dc56",
+            "url": "https://www.youtube.com/watch?v=QheCtBrxTt8",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:45.392000",
+            "duration": 186.0,
+            "title": "[2025 국감] \"2050년엔 사과·포도 재배지 사라진다”…조승환 의원 “농업 대전환 시급” #국회 #국회의원 #농림축산식품해양수산위원회 #국감 #국정감사 #농촌진흥청 #과일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfc631fd1743497dc57",
+            "url": "https://www.youtube.com/watch?v=IvP8BwJWPtM",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:45.391000",
+            "duration": 1070.0,
+            "title": "내 인생 최고의 목표는 대한민국! 힘 있는 정책 전문가 조승환 국민의힘 의원 | 인터뷰 릴레이 칭찬 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfc631fd1743497dc58",
+            "url": "https://www.youtube.com/watch?v=fQf-D6HrSPI",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:45.391000",
+            "duration": 67.0,
+            "title": "조승환, 중구 영도구를 살릴 22대총선 국회의원 후보 조승환",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adfc631fd1743497dc59",
+            "url": "https://www.youtube.com/watch?v=gtmvtdvx-mg",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:46.365000",
+            "duration": 157.0,
+            "title": "조승환 장관 \"유통 점검으로 불안감 불식\" (2023.07.12/뉴스데스크/제주MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "69659714887d07f7ba2fae5c",
+            "url": "https://www.youtube.com/watch?v=PV0THRi3lTo",
+            "HG_NM": "조승환",
+            "MONA_CD": "ME83002L",
+            "collected_at": "2026-01-18T13:20:45.392000",
+            "duration": 101.0,
+            "title": "조승환 의원 공수처장에게 \"인간적인 회의를 먼저 느낍니다\"",
+            "upload_date": null
+        },
+        {
             "_id": "69659714887d07f7ba2fae5d",
             "url": "https://www.youtube.com/watch?v=RxtdnUM_IbA",
             "HG_NM": "조승환",
@@ -291,91 +388,21 @@
             "url": "https://www.youtube.com/watch?v=gD1zBO0FPPQ",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:58.210000",
+            "collected_at": "2026-01-18T13:20:46.365000",
             "duration": 157.0,
             "title": "조승환 장관 유통 점검으로 불안감 불식",
             "upload_date": null
         },
         {
-            "_id": "6960adfc631fd1743497dc57",
-            "url": "https://www.youtube.com/watch?v=IvP8BwJWPtM",
+            "_id": "696c5f9e297082fcc2b19d24",
+            "url": "https://www.youtube.com/watch?v=3lFqq48sk78",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:57.309000",
-            "duration": 1070.0,
-            "title": "내 인생 최고의 목표는 대한민국! 힘 있는 정책 전문가 조승환 국민의힘 의원 | 인터뷰 릴레이 칭찬 | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "69659714887d07f7ba2fae5c",
-            "url": "https://www.youtube.com/watch?v=PV0THRi3lTo",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:57.309000",
-            "duration": 101.0,
-            "title": "조승환 의원 공수처장에게 \"인간적인 회의를 먼저 느낍니다\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfc631fd1743497dc58",
-            "url": "https://www.youtube.com/watch?v=fQf-D6HrSPI",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:57.309000",
-            "duration": 67.0,
-            "title": "조승환, 중구 영도구를 살릴 22대총선 국회의원 후보 조승환",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfc631fd1743497dc56",
-            "url": "https://www.youtube.com/watch?v=QheCtBrxTt8",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:57.309000",
-            "duration": 186.0,
-            "title": "[2025 국감] \"2050년엔 사과·포도 재배지 사라진다”…조승환 의원 “농업 대전환 시급” #국회 #국회의원 #농림축산식품해양수산위원회 #국감 #국정감사 #농촌진흥청 #과일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfc631fd1743497dc54",
-            "url": "https://www.youtube.com/watch?v=3WoqDErMbgk",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:58.210000",
-            "duration": 565.0,
-            "title": "윤미향 의원, 조승환장관과 설전 \"뭘 검증하셨는데요?\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfc631fd1743497dc53",
-            "url": "https://www.youtube.com/watch?v=UCrkkpP9BlSvcODlZKKBayTQ",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:57.309000",
-            "duration": null,
-            "title": "조승환TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfc631fd1743497dc55",
-            "url": "https://www.youtube.com/watch?v=SS9q4d9Y5JE",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:57.309000",
-            "duration": 84.0,
-            "title": "국민의힘 조승환 의원 급발진… 주호영 부의장 “잠깐만요. 차분~하게!”",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adfc631fd1743497dc59",
-            "url": "https://www.youtube.com/watch?v=gtmvtdvx-mg",
-            "HG_NM": "조승환",
-            "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-15T18:23:58.210000",
-            "duration": 157.0,
-            "title": "조승환 장관 \"유통 점검으로 불안감 불식\" (2023.07.12/뉴스데스크/제주MBC)",
+            "collected_at": "2026-01-18T13:20:46.365000",
+            "duration": 33556.0,
+            "title": "[국회 인사청문회 조승환 해수부 장관 후보자] 5월 4일 (수) 풀영상 / 디지털Only",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:04.618422"
+    "exported_at": "2026-01-18T13:56:42.608110"
 }

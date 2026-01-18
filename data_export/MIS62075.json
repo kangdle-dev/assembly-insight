@@ -42,33 +42,45 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
+            "동아",
+            "더불어민주당",
             "괴산",
-            "기자회견",
-            "중소기업",
+            "민주당",
             "기업",
+            "회견",
+            "중소기업",
             "대표",
-            "봉초",
-            "노비",
+            "이노",
+            "비즈",
             "협회",
-            "협약",
-            "황창배",
             "활용",
+            "협약",
             "위원회",
-            "통해",
-            "산업"
+            "지원"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
-                "value": 18
+                "text": "동아",
+                "value": 17
+            },
+            {
+                "text": "더불어민주당",
+                "value": 9
             },
             {
                 "text": "괴산",
                 "value": 8
             },
             {
-                "text": "기자회견",
+                "text": "민주당",
+                "value": 8
+            },
+            {
+                "text": "기업",
+                "value": 7
+            },
+            {
+                "text": "회견",
                 "value": 7
             },
             {
@@ -76,19 +88,15 @@
                 "value": 6
             },
             {
-                "text": "기업",
-                "value": 6
-            },
-            {
                 "text": "대표",
                 "value": 6
             },
             {
-                "text": "봉초",
+                "text": "이노",
                 "value": 6
             },
             {
-                "text": "노비",
+                "text": "비즈",
                 "value": 6
             },
             {
@@ -96,15 +104,11 @@
                 "value": 6
             },
             {
-                "text": "협약",
-                "value": 6
-            },
-            {
-                "text": "황창배",
+                "text": "활용",
                 "value": 5
             },
             {
-                "text": "활용",
+                "text": "협약",
                 "value": 5
             },
             {
@@ -112,33 +116,29 @@
                 "value": 4
             },
             {
-                "text": "통해",
-                "value": 4
-            },
-            {
-                "text": "산업",
+                "text": "지원",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:35.547853",
+        "last_analyzed_at": "2026-01-18T13:56:08.730798",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
-                0,
-                0,
+                1,
                 0,
                 1,
                 0,
-                1
+                0,
+                0
             ]
         }
     },
@@ -262,6 +262,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960abde631fd1743497d41e",
+            "url": "https://www.youtube.com/watch?v=UCp7zkkpNeN_w5_1g-UU_4vQ",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": null,
+            "title": "김동아TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d41f",
+            "url": "https://www.youtube.com/watch?v=F-ADoj9tEkI",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": 7638.0,
+            "title": "[김동아] 사회연대경제의 성장을 위한 정책과제 토론회",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d420",
+            "url": "https://www.youtube.com/watch?v=BAZ8deJ-cnY",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:16.684000",
+            "duration": 650.0,
+            "title": "[생중계] 김동아 민주당 의원, 체코원전 관련 윤석열 정부 외압 정황 공개 기자회견 (2025.10.13 오전)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d421",
+            "url": "https://www.youtube.com/watch?v=95gQBuazBHw",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:16.684000",
+            "duration": 1557.0,
+            "title": "250728 뉴스인싸프라임 대담한대담 김동아 의원 인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d422",
+            "url": "https://www.youtube.com/watch?v=EQH-UluyecI",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": 282.0,
+            "title": "민주당 김동아 의원,출생지원 3법 대표발의 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d423",
+            "url": "https://www.youtube.com/watch?v=TM7WrUqRrgU",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": 382.0,
+            "title": "김동아 후보 공약 발표 및 질의: 서대문구갑 국회의원 선거 후보자 토론회(4/8)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d424",
+            "url": "https://www.youtube.com/watch?v=jsYnd_dywoA",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": 165.0,
+            "title": "[단독] ＂앞이 안 보일 정도로 맞았다＂ 민주당 김동아 당선인 학폭 논란 | 이슈픽",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abde631fd1743497d425",
+            "url": "https://www.youtube.com/watch?v=gn64XkU3vjM",
+            "HG_NM": "김동아",
+            "MONA_CD": "MIS62075",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": 1709.0,
+            "title": "변화의 길, 민생의 곁 동행 정치👫 '김동아 더불어민주당 의원' | 국회의원 25시 | 국회방송",
+            "upload_date": null
+        },
+        {
             "_id": "6960abde631fd1743497d426",
             "url": "https://www.youtube.com/watch?v=QGFOEB4641Y",
             "HG_NM": "김동아",
@@ -276,91 +356,51 @@
             "url": "https://www.youtube.com/watch?v=blJQTqpb01E",
             "HG_NM": "김동아",
             "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:25.157000",
+            "collected_at": "2026-01-18T13:10:16.684000",
             "duration": 160.0,
             "title": "[직캠] 체포안 가결에 잔뜩 예민해진 신동욱, 지나가던 김동아에 시비 걸었다가...\"전세 냈어?\" 로텐더홀 충돌",
             "upload_date": null
         },
         {
-            "_id": "6960abde631fd1743497d422",
-            "url": "https://www.youtube.com/watch?v=EQH-UluyecI",
+            "_id": "6960abde631fd1743497d428",
+            "url": "https://www.youtube.com/watch?v=Dr-m-8XEERY",
             "HG_NM": "김동아",
             "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:24.429000",
-            "duration": 282.0,
-            "title": "민주당 김동아 의원,출생지원 3법 대표발의 기자회견",
+            "collected_at": "2026-01-18T13:10:16.684000",
+            "duration": 162.0,
+            "title": "김동아 고교 짝꿍의 육성 고백 \"친구 폭행 알고 있었다, 진심으로 사과해야\" [굿모닝 MBN]",
             "upload_date": null
         },
         {
-            "_id": "6960abde631fd1743497d425",
-            "url": "https://www.youtube.com/watch?v=gn64XkU3vjM",
+            "_id": "6965952c887d07f7ba2fabcf",
+            "url": "https://www.youtube.com/watch?v=knGjG1D2jOU",
             "HG_NM": "김동아",
             "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:24.429000",
-            "duration": 1709.0,
-            "title": "변화의 길, 민생의 곁 동행 정치👫 '김동아 더불어민주당 의원' | 국회의원 25시 | 국회방송",
+            "collected_at": "2026-01-14T10:15:18.376000",
+            "duration": 64.0,
+            "title": "[김동아] 무분별한 가짜뉴스 살포하는 좀비채널 규제 강화 촉구!",
             "upload_date": null
         },
         {
-            "_id": "6960abde631fd1743497d423",
-            "url": "https://www.youtube.com/watch?v=TM7WrUqRrgU",
+            "_id": "6965952c887d07f7ba2fabce",
+            "url": "https://www.youtube.com/watch?v=p49EKmWF9ZI",
             "HG_NM": "김동아",
             "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:24.429000",
-            "duration": 382.0,
-            "title": "김동아 후보 공약 발표 및 질의: 서대문구갑 국회의원 선거 후보자 토론회(4/8)",
+            "collected_at": "2026-01-14T10:15:17.604000",
+            "duration": 60.0,
+            "title": "[김동아] 민주파출소 정례브리핑 (2025.02.17.) #더불어민주당 #국회의원 #김동아 #민주파출소",
             "upload_date": null
         },
         {
-            "_id": "6960abde631fd1743497d421",
-            "url": "https://www.youtube.com/watch?v=95gQBuazBHw",
+            "_id": "696c5d28297082fcc2b19c0b",
+            "url": "https://www.youtube.com/watch?v=J4kSLZkmKWg",
             "HG_NM": "김동아",
             "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:25.157000",
-            "duration": 1557.0,
-            "title": "250728 뉴스인싸프라임 대담한대담 김동아 의원 인터뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abde631fd1743497d41f",
-            "url": "https://www.youtube.com/watch?v=F-ADoj9tEkI",
-            "HG_NM": "김동아",
-            "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:24.429000",
-            "duration": 7638.0,
-            "title": "[김동아] 사회연대경제의 성장을 위한 정책과제 토론회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abde631fd1743497d41e",
-            "url": "https://www.youtube.com/watch?v=UCp7zkkpNeN_w5_1g-UU_4vQ",
-            "HG_NM": "김동아",
-            "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:24.429000",
-            "duration": null,
-            "title": "김동아TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abde631fd1743497d420",
-            "url": "https://www.youtube.com/watch?v=BAZ8deJ-cnY",
-            "HG_NM": "김동아",
-            "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:25.157000",
-            "duration": 650.0,
-            "title": "[생중계] 김동아 민주당 의원, 체코원전 관련 윤석열 정부 외압 정황 공개 기자회견 (2025.10.13 오전)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abde631fd1743497d424",
-            "url": "https://www.youtube.com/watch?v=jsYnd_dywoA",
-            "HG_NM": "김동아",
-            "MONA_CD": "MIS62075",
-            "collected_at": "2026-01-15T18:14:24.429000",
-            "duration": 165.0,
-            "title": "[단독] ＂앞이 안 보일 정도로 맞았다＂ 민주당 김동아 당선인 학폭 논란 | 이슈픽",
+            "collected_at": "2026-01-18T13:10:15.581000",
+            "duration": 447.0,
+            "title": "[박정호의 핫스팟] '끝까지 간다' 김동아, '죽었으면 막말' 송언석 윤리위 제소 넘어 '이것'도 한다고? ㄷㄷ",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:35.547853"
+    "exported_at": "2026-01-18T13:56:08.730866"
 }

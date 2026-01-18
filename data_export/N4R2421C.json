@@ -58,37 +58,41 @@
     "analysis": {
         "keywords": [
             "국민",
-            "지방선거",
-            "괴산",
             "옥천",
+            "지방",
+            "선거",
+            "괴산",
             "충북도",
             "군수",
+            "인사",
+            "신년",
             "위원장",
-            "누가",
             "보은",
             "영동",
-            "후보",
             "영동군",
-            "신년인사",
             "논란",
-            "봉초"
+            "수주"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 17
+                "value": 19
             },
             {
-                "text": "지방선거",
+                "text": "옥천",
+                "value": 16
+            },
+            {
+                "text": "지방",
+                "value": 15
+            },
+            {
+                "text": "선거",
                 "value": 14
             },
             {
                 "text": "괴산",
                 "value": 14
-            },
-            {
-                "text": "옥천",
-                "value": 13
             },
             {
                 "text": "충북도",
@@ -99,12 +103,16 @@
                 "value": 12
             },
             {
-                "text": "위원장",
+                "text": "인사",
+                "value": 10
+            },
+            {
+                "text": "신년",
                 "value": 9
             },
             {
-                "text": "누가",
-                "value": 8
+                "text": "위원장",
+                "value": 9
             },
             {
                 "text": "보은",
@@ -115,15 +123,7 @@
                 "value": 7
             },
             {
-                "text": "후보",
-                "value": 7
-            },
-            {
                 "text": "영동군",
-                "value": 7
-            },
-            {
-                "text": "신년인사",
                 "value": 7
             },
             {
@@ -131,27 +131,27 @@
                 "value": 7
             },
             {
-                "text": "봉초",
-                "value": 6
+                "text": "수주",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:43.718695",
+        "last_analyzed_at": "2026-01-18T13:56:19.362128",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
-                0,
-                0,
                 2,
                 1,
+                0,
+                0,
+                0,
                 0,
                 0
             ]
@@ -346,23 +346,43 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac77631fd1743497d697",
-            "url": "https://www.youtube.com/watch?v=JyO1PnYC_0E",
+            "_id": "6960ac77631fd1743497d68f",
+            "url": "https://www.youtube.com/watch?v=UCMUO5qsfNNNKLp99PslcIWw",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.868000",
-            "duration": 397.0,
-            "title": "“국회의원이 업계 대변”…박덕흠 ‘이해충돌’ 논란 가열 | 뉴스A 라이브",
+            "collected_at": "2026-01-18T13:13:17.119000",
+            "duration": null,
+            "title": "박덕흠 [국회의원 더큼이]",
             "upload_date": null
         },
         {
-            "_id": "6960ac77631fd1743497d698",
-            "url": "https://www.youtube.com/watch?v=uMyfyfQrU60",
+            "_id": "6960ac77631fd1743497d690",
+            "url": "https://www.youtube.com/watch?v=K-p6KHPkDJ0",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.868000",
-            "duration": 125.0,
-            "title": "\"박덕흠 수사 지지부진\"…고발인, '공수처 이첩' 신청 / JTBC 뉴스룸",
+            "collected_at": "2026-01-18T13:13:17.120000",
+            "duration": 206.0,
+            "title": "'산안법' 의결 임박하자 달려온 박덕흠 의원…이유는?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac77631fd1743497d691",
+            "url": "https://www.youtube.com/watch?v=JLNGi18sSYo",
+            "HG_NM": "박덕흠",
+            "MONA_CD": "N4R2421C",
+            "collected_at": "2026-01-18T13:13:17.120000",
+            "duration": 1803.0,
+            "title": "[나이트포커스] 박덕흠 의원 해명에도...국민의힘 '고심' / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac77631fd1743497d692",
+            "url": "https://www.youtube.com/watch?v=Je-4lPEL7sw",
+            "HG_NM": "박덕흠",
+            "MONA_CD": "N4R2421C",
+            "collected_at": "2026-01-18T13:13:18.152000",
+            "duration": 413.0,
+            "title": "[시선집중][B-CUT NEWS] 4주택자 박덕흠 의원, \"집값 올려서 화난다\" - 이종훈 (작가)",
             "upload_date": null
         },
         {
@@ -370,9 +390,29 @@
             "url": "https://www.youtube.com/watch?v=cKeIQlxbxfM",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.101000",
+            "collected_at": "2026-01-18T13:13:17.120000",
             "duration": 302.0,
             "title": "'이해충돌 논란' 국민의힘 박덕흠 의원, 1천억 원대 공사 수주 등 일체 의혹 정면 반박 (현장영상) / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac77631fd1743497d694",
+            "url": "https://www.youtube.com/watch?v=X9eL-lPcegk",
+            "HG_NM": "박덕흠",
+            "MONA_CD": "N4R2421C",
+            "collected_at": "2026-01-18T13:13:17.120000",
+            "duration": 153.0,
+            "title": "불어나는 박덕흠 이해충돌 논란...민주 \"국회 윤리위 제소 추진\" / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac77631fd1743497d695",
+            "url": "https://www.youtube.com/watch?v=81z7H0uRpow",
+            "HG_NM": "박덕흠",
+            "MONA_CD": "N4R2421C",
+            "collected_at": "2026-01-13T09:45:18.782000",
+            "duration": 1681.0,
+            "title": "힐링대담 - 박덕흠 국회의원, 국회 정보위원장  @불교공뉴스",
             "upload_date": null
         },
         {
@@ -386,65 +426,55 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac77631fd1743497d694",
-            "url": "https://www.youtube.com/watch?v=X9eL-lPcegk",
+            "_id": "6960ac77631fd1743497d697",
+            "url": "https://www.youtube.com/watch?v=JyO1PnYC_0E",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.101000",
-            "duration": 153.0,
-            "title": "불어나는 박덕흠 이해충돌 논란...민주 \"국회 윤리위 제소 추진\" / YTN",
+            "collected_at": "2026-01-18T13:13:18.152000",
+            "duration": 397.0,
+            "title": "“국회의원이 업계 대변”…박덕흠 ‘이해충돌’ 논란 가열 | 뉴스A 라이브",
             "upload_date": null
         },
         {
-            "_id": "6960ac77631fd1743497d692",
-            "url": "https://www.youtube.com/watch?v=Je-4lPEL7sw",
+            "_id": "6960ac77631fd1743497d698",
+            "url": "https://www.youtube.com/watch?v=uMyfyfQrU60",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.868000",
-            "duration": 413.0,
-            "title": "[시선집중][B-CUT NEWS] 4주택자 박덕흠 의원, \"집값 올려서 화난다\" - 이종훈 (작가)",
+            "collected_at": "2026-01-18T13:13:18.152000",
+            "duration": 125.0,
+            "title": "\"박덕흠 수사 지지부진\"…고발인, '공수처 이첩' 신청 / JTBC 뉴스룸",
             "upload_date": null
         },
         {
-            "_id": "6960ac77631fd1743497d690",
-            "url": "https://www.youtube.com/watch?v=K-p6KHPkDJ0",
+            "_id": "6966eebc887d07f7ba2fb407",
+            "url": "https://www.youtube.com/watch?v=_bm0SyHnnGk",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.101000",
-            "duration": 206.0,
-            "title": "'산안법' 의결 임박하자 달려온 박덕흠 의원…이유는?",
+            "collected_at": "2026-01-14T10:17:47.877000",
+            "duration": 130.0,
+            "title": "박덕흠 \"100% 공개 입찰\" vs 민주당 \"적반하장\" / SBS",
             "upload_date": null
         },
         {
-            "_id": "6960ac77631fd1743497d68f",
-            "url": "https://www.youtube.com/watch?v=UCMUO5qsfNNNKLp99PslcIWw",
+            "_id": "6966eebc887d07f7ba2fb408",
+            "url": "https://www.youtube.com/watch?v=Iq2mRnK92lE",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.101000",
-            "duration": null,
-            "title": "박덕흠 [국회의원 더큼이]",
+            "collected_at": "2026-01-14T10:17:48.536000",
+            "duration": 358.0,
+            "title": "'피감기관 공사수주' 의혹 박덕흠…국민의힘 전격 탈당 / JTBC 정치부회의",
             "upload_date": null
         },
         {
-            "_id": "6960ac77631fd1743497d691",
-            "url": "https://www.youtube.com/watch?v=JLNGi18sSYo",
+            "_id": "6966eebc887d07f7ba2fb409",
+            "url": "https://www.youtube.com/watch?v=ThkPm5jDAWs",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-15T18:17:05.101000",
-            "duration": 1803.0,
-            "title": "[나이트포커스] 박덕흠 의원 해명에도...국민의힘 '고심' / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac77631fd1743497d695",
-            "url": "https://www.youtube.com/watch?v=81z7H0uRpow",
-            "HG_NM": "박덕흠",
-            "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-13T09:45:18.782000",
-            "duration": 1681.0,
-            "title": "힐링대담 - 박덕흠 국회의원, 국회 정보위원장  @불교공뉴스",
+            "collected_at": "2026-01-14T10:17:48.536000",
+            "duration": 119.0,
+            "title": "안진걸 \"박덕흠, 총 3천400억원대 특혜 수주 새롭게 드러나\"/ 연합뉴스 (Yonhapnews)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:43.718695"
+    "exported_at": "2026-01-18T13:56:19.362207"
 }

@@ -52,107 +52,141 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
-            "지방선거",
-            "광업",
-            "강원도",
-            "신년인사",
             "인사",
+            "신년",
+            "국민",
+            "지방",
+            "선거",
+            "이철",
+            "광업",
             "승리",
             "위원장",
-            "신년",
-            "민주당",
-            "정책",
-            "다짐",
-            "산업부",
-            "특검",
-            "광물"
+            "강원도",
+            "대표",
+            "원내",
+            "공천",
+            "라이브",
+            "한국"
         ],
         "keyword_frequency": [
             {
-                "text": "국민",
-                "value": 21
+                "text": "인사",
+                "value": 37
             },
             {
-                "text": "지방선거",
-                "value": 21
+                "text": "신년",
+                "value": 32
+            },
+            {
+                "text": "국민",
+                "value": 31
+            },
+            {
+                "text": "지방",
+                "value": 31
+            },
+            {
+                "text": "선거",
+                "value": 26
+            },
+            {
+                "text": "이철",
+                "value": 26
             },
             {
                 "text": "광업",
                 "value": 20
             },
             {
+                "text": "승리",
+                "value": 19
+            },
+            {
+                "text": "위원장",
+                "value": 19
+            },
+            {
                 "text": "강원도",
                 "value": 18
             },
             {
-                "text": "신년인사",
-                "value": 17
-            },
-            {
-                "text": "인사",
+                "text": "대표",
                 "value": 16
             },
             {
-                "text": "승리",
-                "value": 16
-            },
-            {
-                "text": "위원장",
-                "value": 14
-            },
-            {
-                "text": "신년",
+                "text": "원내",
                 "value": 13
             },
             {
-                "text": "민주당",
-                "value": 10
+                "text": "공천",
+                "value": 12
             },
             {
-                "text": "정책",
-                "value": 9
+                "text": "라이브",
+                "value": 12
             },
             {
-                "text": "다짐",
-                "value": 9
-            },
-            {
-                "text": "산업부",
-                "value": 9
-            },
-            {
-                "text": "특검",
-                "value": 8
-            },
-            {
-                "text": "광물",
-                "value": 8
+                "text": "한국",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:59.255945",
+        "last_analyzed_at": "2026-01-18T13:56:36.565669",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                2,
-                0,
-                1,
                 0,
                 8,
                 4,
-                3
+                4,
+                1,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5be7297082fcc2b19b74",
+            "link": "https://n.news.naver.com/mnews/article/028/0002786925?sid=100",
+            "created_at": "2026-01-18T13:04:55.047000",
+            "description": "결의안 발의에는 국회 외교통일위원회 여당 간사인 김영배 의원을 비롯한 민주당 의원 65명, 국민의힘 소속 의원 6명(권영세·김대식·안철수·이철규·조경태·최형두)이 참여했다. 조국혁신당·사회민주당·무소속... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1240217.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-16T19:36:00",
+            "related_members": [
+                "YOG1280B",
+                "A0P4646G",
+                "5KV82250",
+                "TZP9391O",
+                "ANS8383S",
+                "LG63087O",
+                "B7D7534L",
+                "JG77046J"
+            ],
+            "title": "여야 의원 77명 “5·18 경험한 한국, 이란 사태 외면 못 해” 결의안"
+        },
+        {
+            "_id": "696902b7297082fcc2b1926f",
+            "link": "https://chmbc.co.kr/article/4Rtz5S4sfiDc",
+            "created_at": "2026-01-16T00:07:35.649000",
+            "description": "지역 국회의원, 지방선거 출마 예정자 등1천여 명이 한자리에 모여 지방선거 승리를 다짐했습니다. 국민의힘은강원도정과 모든 시군의 행정 권력을 반드시 사수하겠다는 각오를 밝혔습니다. [이철규/국민의힘... ",
+            "originallink": "https://chmbc.co.kr/article/4Rtz5S4sfiDc",
+            "press": "MBC",
+            "pubDate": "2026-01-15T19:50:00",
+            "related_members": [
+                "MLH1404S",
+                "TZP9391O"
+            ],
+            "title": "[리포트] 여야 '신년인사회' 열고.. \"지선 승리는 우리 것\""
+        },
         {
             "_id": "6968ad95297082fcc2b18d29",
             "link": "https://n.news.naver.com/mnews/article/421/0008716526?sid=100",
@@ -359,19 +393,6 @@
             "title": "신장식 \"장동혁-이준석 '李·韓 싫어'연대, 특검공조 왜 민주당만? 자기..."
         },
         {
-            "_id": "696594d4887d07f7ba2fab6c",
-            "link": "https://n.news.naver.com/mnews/article/421/0008709959?sid=101",
-            "created_at": "2026-01-13T09:41:54.888000",
-            "description": "산업부에 따르면 이날 광업계 신년인사회는 윤창현 자원산업정책관, 이철규 국회의원, 한국광업협회장, 한국광해협회장 등 광업계 주요 인사 200여명이 참석한 가운데 서울 앰배서더 풀만 호텔에서 열렸다. 이번... ",
-            "originallink": "https://www.news1.kr/economy/idustry-trade/6036469",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T06:00:00",
-            "related_members": [
-                "TZP9391O"
-            ],
-            "title": "광업계 신년인사회 개최…핵심광물 공급망 협력 강조"
-        },
-        {
             "_id": "696594d4887d07f7ba2fab6b",
             "link": "https://n.news.naver.com/mnews/article/003/0013706376?sid=101",
             "created_at": "2026-01-13T09:41:54.888000",
@@ -383,6 +404,19 @@
                 "TZP9391O"
             ],
             "title": "산업부, 핵심광물 안정적 공급망 확보에 1341억 투입한다"
+        },
+        {
+            "_id": "696594d4887d07f7ba2fab6c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709959?sid=101",
+            "created_at": "2026-01-13T09:41:54.888000",
+            "description": "산업부에 따르면 이날 광업계 신년인사회는 윤창현 자원산업정책관, 이철규 국회의원, 한국광업협회장, 한국광해협회장 등 광업계 주요 인사 200여명이 참석한 가운데 서울 앰배서더 풀만 호텔에서 열렸다. 이번... ",
+            "originallink": "https://www.news1.kr/economy/idustry-trade/6036469",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T06:00:00",
+            "related_members": [
+                "TZP9391O"
+            ],
+            "title": "광업계 신년인사회 개최…핵심광물 공급망 협력 강조"
         },
         {
             "_id": "6964b549631fd174349960ab",
@@ -410,7 +444,7 @@
             "_id": "6964b552631fd1743499616b",
             "link": "https://n.news.naver.com/mnews/article/079/0004103411?sid=100",
             "created_at": "2026-01-12T17:48:15.824000",
-            "description": "그리고 그냥 일반 국회의원이 아닌 원내대표였던 분이었기 때문에 충분하게 소명 기회를 줘야 된다는 입장이... ◇ 박성태&gt; 정점식 의원. ◆ 부승찬&gt; 그다음에 조광한. ◇ 박성태&gt; 조광한. ◆ 부승찬&gt; 최고위원, 지명직... ",
+            "description": "그래도 서울이나 이런 데는 없다 이렇게 생각을 했는데 다른 형식의 공천 헌금과 같은 게 아직도 있다는 거고 또 국민의힘 같은 경우는 국회의원 선거에서 서로 경쟁자들 통합하려면 3, 5억 든다. 김정재, 이철규 의원의 어떤... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453840?utm_source=naver&utm_medium=article&utm_campaign=20260109101423",
             "press": "노컷뉴스",
             "pubDate": "2026-01-09T10:15:00",
@@ -469,29 +503,183 @@
                 "LJK4960Z"
             ],
             "title": "[사사건건] 민주당은 하락하는데 이 대통령은 오른다, 왜?"
+        },
+        {
+            "_id": "6964b544631fd17434996049",
+            "link": "https://n.news.naver.com/mnews/article/079/0004102984?sid=102",
+            "created_at": "2026-01-12T17:48:02.031000",
+            "description": "정동만·김원이·이언주 의원, 과학기술정보방송통신위원회 최민희 위원장과 최형두·김현 의원... 국회의원 방문단은 통합강원관 투어를 통해 디지털 헬스케어, 첨단 세라믹·신소재, ICT 등 강원의 핵심 전략산업... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6453215?utm_source=naver&utm_medium=article&utm_campaign=20260108102611",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-08T10:27:00",
+            "related_members": [
+                "EH27538E",
+                "3C23171A",
+                "LG63087O",
+                "UHB5553T",
+                "W4X85128",
+                "JG77046J",
+                "DAY6557K",
+                "A0P4646G",
+                "YS38221N",
+                "4L695580",
+                "7YL9580G",
+                "04T3751T",
+                "FJK3396E",
+                "TZP9391O"
+            ],
+            "title": "국회 방문단, CES 2026 통합강원관 방문…강원 혁신 기술 '주목'"
+        },
+        {
+            "_id": "6964b555631fd17434996197",
+            "link": "https://n.news.naver.com/mnews/article/020/0003687791?sid=101",
+            "created_at": "2026-01-12T17:48:18.699000",
+            "description": "#바쁜 의원들, 5분 요약 요청 CES 개막 첫날 오전부터 한국 국회의원들의 발길도 이어졌다. 최민희 국회 과학기술정보방송통신위원장을 비롯해 김현 의원(과방위), 이철규 의원(산업통상자원중소벤처기업위원장)... ",
+            "originallink": "https://www.donga.com/news/Economy/article/all/20260108/133115078/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-08T09:01:00",
+            "related_members": [
+                "CCU1009B",
+                "NUB4941Z",
+                "O7R5461J",
+                "YS38221N",
+                "JG77046J",
+                "DAY6557K",
+                "TZP9391O",
+                "04T3751T",
+                "4L695580",
+                "7YL9580G"
+            ],
+            "title": "[CES 이모저모]텅 빈 ‘한국관’에 정부 관계자만"
+        },
+        {
+            "_id": "6964b54e631fd17434996105",
+            "link": "https://n.news.naver.com/mnews/article/052/0002297734?sid=100",
+            "created_at": "2026-01-12T17:48:11.194000",
+            "description": "일방적 주장 - 국힘, 이철규-김정재 통화 녹취 사례... 스스로 되돌아보시라 - 이혜훈, 15년 전 과거보단 국가... 부분들은 국회의원 시기에, 그렇지 않은 것은 국회의원이 되기 이전의 문제로 보고. 실제로 그런 상황을 알고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601080846359530",
+            "press": "YTN",
+            "pubDate": "2026-01-08T08:46:00",
+            "related_members": [
+                "8Q88373R",
+                "5765663F",
+                "E1J8836Y",
+                "TZP9391O",
+                "4U29186R"
+            ],
+            "title": "김영진 \"김병기 탄원서? 내가 볼 땐 일방적 주장 '투서,' 공천때 음해 많..."
+        },
+        {
+            "_id": "6964b544631fd1743499604a",
+            "link": "https://n.news.naver.com/mnews/article/052/0002297791?sid=100",
+            "created_at": "2026-01-12T17:48:02.031000",
+            "description": "왜냐하면 지난 2024년에 김정재 의원, 포항 국회의원이시죠. 그분하고 이철규 당시 인재영입위원장, 국민의힘의. 공관위원이기도 했어요. 그때도 녹취가 나왔어요. 그런데 윤석열 정권 치하에서의 경찰이든 검찰이든 이걸... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601080813486872",
+            "press": "YTN",
+            "pubDate": "2026-01-08T08:13:00",
+            "related_members": [
+                "TZP9391O",
+                "KFM1081G",
+                "LG63087O",
+                "86R9476S",
+                "E1J8836Y",
+                "M0A1658U"
+            ],
+            "title": "[뉴스UP] 장동혁, 비상계엄 대국민사과...당 쇄신안 발표, 효과는?"
+        },
+        {
+            "_id": "6964b54e631fd17434996106",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106773&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-12T17:48:11.194000",
+            "description": "일방적 주장 - 국힘, 이철규-김정재 통화 녹취 사례... 스스로 되돌아보시라 - 이혜훈, 15년 전 과거보단 국가... 부분들은 국회의원 시기에, 그렇지 않은 것은 국회의원이 되기 이전의 문제로 보고. 실제로 그런 상황을 알고... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106773&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-08T08:00:00",
+            "related_members": [
+                "KFM1081G",
+                "8Q88373R",
+                "5765663F",
+                "TZP9391O",
+                "E1J8836Y",
+                "4U29186R"
+            ],
+            "title": "김영진 \"장동혁 쇄신안? 日 과거사 '통석의 염' 같은 표현..김병기? 정치..."
+        },
+        {
+            "_id": "6964b54e631fd17434996107",
+            "link": "https://n.news.naver.com/mnews/article/052/0002297732?sid=100",
+            "created_at": "2026-01-12T17:48:11.194000",
+            "description": "일방적 주장 - 국힘, 이철규-김정재 통화 녹취 사례... 스스로 되돌아보시라 - 이혜훈, 15년 전 과거보단 국가... 부분들은 국회의원 시기에, 그렇지 않은 것은 국회의원이 되기 이전의 문제로 보고. 실제로 그런 상황을 알고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601080744479152",
+            "press": "YTN",
+            "pubDate": "2026-01-08T07:44:00",
+            "related_members": [
+                "KFM1081G",
+                "8Q88373R",
+                "5765663F",
+                "TZP9391O",
+                "E1J8836Y",
+                "4U29186R"
+            ],
+            "title": "김영진 \"장동혁 쇄신안? 日 과거사 '통석의 염' 같은 표현..김병기? 정치..."
+        },
+        {
+            "_id": "6964b57e631fd174349963f3",
+            "link": "https://n.news.naver.com/mnews/article/056/0012100421?sid=101",
+            "created_at": "2026-01-12T17:48:59.663000",
+            "description": "정선 임계·사북시장 활성화 지원 대상 선정 이철규 국회의원은 올해 중소벤처기업부의 '전통시장·상점가 활성화 지원' 대상에 정선 임계·사북 시장이 선정됐다고 밝혔습니다. 이에 따라 두 시장에는 2년 동안 국비 등... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452918&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-07T19:37:00",
+            "related_members": [
+                "TZP9391O"
+            ],
+            "title": "[여기는 강릉] 강릉, 노인 일자리 521명 확대…올해 7,970여 명 외"
+        },
+        {
+            "_id": "6964b555631fd17434996198",
+            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
+            "created_at": "2026-01-12T17:48:18.699000",
+            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 더불어민주당 의원(과방위), 산업통상자원중소벤처기업위원회 위원장 이철규 국민의힘 의원, 정동만... ",
+            "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
+            "press": "조선일보",
+            "pubDate": "2026-01-07T14:52:00",
+            "related_members": [
+                "NUB4941Z",
+                "O7R5461J",
+                "TZP9391O",
+                "DAY6557K",
+                "7YL9580G",
+                "YS38221N",
+                "04T3751T",
+                "4L695580",
+                "JG77046J",
+                "CCU1009B"
+            ],
+            "title": "韓 전시관 찾은 정·관계 인사들, AI 열공 [CES 2026]"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960a780631fd1743497cfe9",
-            "url": "https://www.youtube.com/watch?v=hTwTm-ewi-4",
+            "_id": "6960a780631fd1743497cff3",
+            "url": "https://www.youtube.com/watch?v=4AEEJh1fJMc",
             "HG_NM": "이철규",
             "MONA_CD": "TZP9391O",
-            "collected_at": "2026-01-09T16:00:05.040000",
-            "duration": 10830.0,
-            "source": "SBS뉴스",
-            "title": "김태현의 정치쇼 - '불출마' 이철규 단독 인터뷰/영수회담 비선 논란?(박성준)/[뉴스DMZ] 내일 尹기자회견…관전 포인트는?(박성태,이재명)/[기후특집 먹을지도]",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 1490.0,
+            "source": "국회방송",
+            "title": "이철규 원내대표설에 '그저 웃지요'…성한용 \"자포자기\" 최병묵 \"나이연대 임박\" (24.4.25.) | 기자대기자 | 국회라이브6",
             "upload_date": null
         },
         {
-            "_id": "6960a780631fd1743497cfea",
-            "url": "https://www.youtube.com/watch?v=hcoBIpsfJoE",
+            "_id": "6960a780631fd1743497cfeb",
+            "url": "https://www.youtube.com/watch?v=23VFGQHQBSk",
             "HG_NM": "이철규",
             "MONA_CD": "TZP9391O",
-            "collected_at": "2026-01-09T16:00:05.040000",
-            "duration": 711.0,
-            "source": "SBS뉴스",
-            "title": "여의도에 떠도는 '김옥균 프로젝트'…이철규 \"소설 쓴 사무실 안다\" / SBS / 편상욱의 뉴스브리핑",
+            "collected_at": "2026-01-09T16:00:05.796000",
+            "duration": 2976.0,
+            "source": "JTBC News",
+            "title": "[다시보기] 뉴스룸｜여권 내부 갈등 도 넘었다…이철규, 예정 없던 기자회견 열어 \"한동훈 월권\" (24.3.20) / JTBC News",
             "upload_date": null
         },
         {
@@ -506,14 +694,69 @@
             "upload_date": null
         },
         {
-            "_id": "6960a780631fd1743497cfe8",
-            "url": "https://www.youtube.com/watch?v=SgmhnQKXuaA",
+            "_id": "6960a780631fd1743497cff1",
+            "url": "https://www.youtube.com/watch?v=Mi4wRPhy4fA",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 1371.0,
+            "source": "국회방송",
+            "title": "국민의 더 나은 삶을 위해 봉사하는 '이철규 국민의힘 의원' (2023.10.24.) | 국회의원 25시 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfed",
+            "url": "https://www.youtube.com/watch?v=_tpAqTilMls",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:06.647000",
+            "duration": 315.0,
+            "source": "YTN",
+            "title": "친윤 이철규 \"이준석, 무슨 일 했나\"...민주, 오늘 컷오프 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfe9",
+            "url": "https://www.youtube.com/watch?v=hTwTm-ewi-4",
             "HG_NM": "이철규",
             "MONA_CD": "TZP9391O",
             "collected_at": "2026-01-09T16:00:05.040000",
-            "duration": 643.0,
+            "duration": 10830.0,
             "source": "SBS뉴스",
-            "title": "친윤 이철규 \"출마 입장 안 밝혔는데, 왜 책임 전가\"…수도권 송석준 첫 원내대표 출마 선언 / SBS / 편상욱의 뉴스브리핑",
+            "title": "김태현의 정치쇼 - '불출마' 이철규 단독 인터뷰/영수회담 비선 논란?(박성준)/[뉴스DMZ] 내일 尹기자회견…관전 포인트는?(박성태,이재명)/[기후특집 먹을지도]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cff4",
+            "url": "https://www.youtube.com/watch?v=nN6vngp443I",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 1280.0,
+            "source": "국회방송",
+            "title": "여야, 22대 국회 첫 원내대표 선출 절차 돌입! '친윤' 이철규·'친명' 박찬대 거론 (24.4.24.) | 안형환·문학진 전 국회의원 | 집중토론 | 국회라이브1",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfe2",
+            "url": "https://www.youtube.com/watch?v=2QZFHGwV7WA",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:04.248000",
+            "duration": 719.0,
+            "source": "MBC뉴스",
+            "title": "\"尹에 임성근 구명로비 연결 정황 확인\", 순직해병특검, 이철규·임성근 압수수색 - [속보] MBC뉴스 2025년 07월 18일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfec",
+            "url": "https://www.youtube.com/watch?v=ZvBwhrScmuE",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:06.647000",
+            "duration": 260.0,
+            "source": "YTN",
+            "title": "친윤 이철규 \"이준석, 무슨 일 했나\"...민주, 오늘 컷오프 / YTN",
             "upload_date": null
         },
         {
@@ -528,6 +771,50 @@
             "upload_date": null
         },
         {
+            "_id": "6960a780631fd1743497cff0",
+            "url": "https://www.youtube.com/watch?v=vgAd4JlbYsQ",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 360.0,
+            "source": "국회방송",
+            "title": "여, 원내대표 선출 주목…나경원-이철규 '나이 연대'? (24.4.25.) | 강아랑의 정치랑 | 국회라이브6",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfee",
+            "url": "https://www.youtube.com/watch?v=G9ru3D_k-TM",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 267.0,
+            "source": "국회방송",
+            "title": "이철규 '승선 발언' 파장…최병묵 \"비주류에 대한 경고\" 성한용 \"대통령실서 메시지 온 건가\" (23.8.17.) | 기자대기자 | 국회라이브6",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfe8",
+            "url": "https://www.youtube.com/watch?v=SgmhnQKXuaA",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:05.040000",
+            "duration": 643.0,
+            "source": "SBS뉴스",
+            "title": "친윤 이철규 \"출마 입장 안 밝혔는데, 왜 책임 전가\"…수도권 송석준 첫 원내대표 출마 선언 / SBS / 편상욱의 뉴스브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cff2",
+            "url": "https://www.youtube.com/watch?v=tYHYOBG27Ek",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 1628.0,
+            "source": "국회방송",
+            "title": "'찐윤' 이철규, 한동훈 저격…최병천 \"호남 재배치\" 정옥임 \"악재 중의 악재\" (24.3.20.) | 정치외전 | 국회라이브6",
+            "upload_date": null
+        },
+        {
             "_id": "6960a780631fd1743497cfe4",
             "url": "https://www.youtube.com/watch?v=qoQbF9eUG5s",
             "HG_NM": "이철규",
@@ -539,14 +826,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a780631fd1743497cfe2",
-            "url": "https://www.youtube.com/watch?v=2QZFHGwV7WA",
+            "_id": "6960a780631fd1743497cfea",
+            "url": "https://www.youtube.com/watch?v=hcoBIpsfJoE",
             "HG_NM": "이철규",
             "MONA_CD": "TZP9391O",
-            "collected_at": "2026-01-09T16:00:04.248000",
-            "duration": 719.0,
-            "source": "MBC뉴스",
-            "title": "\"尹에 임성근 구명로비 연결 정황 확인\", 순직해병특검, 이철규·임성근 압수수색 - [속보] MBC뉴스 2025년 07월 18일",
+            "collected_at": "2026-01-09T16:00:05.040000",
+            "duration": 711.0,
+            "source": "SBS뉴스",
+            "title": "여의도에 떠도는 '김옥균 프로젝트'…이철규 \"소설 쓴 사무실 안다\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -581,7 +868,18 @@
             "source": "SBS뉴스",
             "title": "\"약속이 지켜지지 않았다\"..한동훈에 불만 터진 '친윤' 이철규 / SBS / 모아보는 뉴스",
             "upload_date": null
+        },
+        {
+            "_id": "6960a780631fd1743497cfef",
+            "url": "https://www.youtube.com/watch?v=Euas8lZ-fDI",
+            "HG_NM": "이철규",
+            "MONA_CD": "TZP9391O",
+            "collected_at": "2026-01-09T16:00:08.734000",
+            "duration": 265.0,
+            "source": "국회방송",
+            "title": "윤핵관의 공천권 으름장...이철규 \"배 침몰 위한 승객 승선 불가\" (23.8.17.) | 강아랑의 정치랑 | 국회라이브6",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:59.255945"
+    "exported_at": "2026-01-18T13:56:36.565808"
 }

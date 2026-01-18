@@ -55,23 +55,23 @@
             "김병기",
             "제명",
             "민주당",
-            "문제",
-            "개혁",
-            "수사",
-            "과거",
-            "정부",
             "추미애",
-            "징계",
-            "스스로",
+            "개혁",
+            "문제",
+            "수사",
+            "정부",
+            "사법",
+            "검찰",
             "상황",
             "일방",
             "주장",
-            "보고"
+            "기소",
+            "분리"
         ],
         "keyword_frequency": [
             {
                 "text": "김병기",
-                "value": 20
+                "value": 21
             },
             {
                 "text": "제명",
@@ -82,19 +82,19 @@
                 "value": 11
             },
             {
-                "text": "문제",
+                "text": "추미애",
                 "value": 9
             },
             {
                 "text": "개혁",
-                "value": 7
+                "value": 9
+            },
+            {
+                "text": "문제",
+                "value": 9
             },
             {
                 "text": "수사",
-                "value": 7
-            },
-            {
-                "text": "과거",
                 "value": 7
             },
             {
@@ -102,15 +102,11 @@
                 "value": 6
             },
             {
-                "text": "추미애",
-                "value": 6
+                "text": "사법",
+                "value": 5
             },
             {
-                "text": "징계",
-                "value": 6
-            },
-            {
-                "text": "스스로",
+                "text": "검찰",
                 "value": 5
             },
             {
@@ -126,33 +122,60 @@
                 "value": 5
             },
             {
-                "text": "보고",
-                "value": 5
+                "text": "기소",
+                "value": 4
+            },
+            {
+                "text": "분리",
+                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:37.918444",
+        "last_analyzed_at": "2026-01-18T13:56:12.468248",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                0,
-                0,
                 0,
                 0,
                 6,
+                0,
+                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bed297082fcc2b19b8e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
+            "created_at": "2026-01-18T13:05:01.197000",
+            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-17T22:24:00",
+            "related_members": [
+                "HSS7466Y",
+                "URV1689Q",
+                "88O1334C",
+                "ATB59635",
+                "BCQ55105",
+                "WTR5885Y",
+                "3ZR4438W",
+                "5765663F",
+                "GF286398",
+                "1WE5693J",
+                "UQ282145"
+            ],
+            "title": "\"숨 막힌 학교에 숨을\"…유은혜, '적자생존 교육'에 직격탄"
+        },
         {
             "_id": "6968ad90297082fcc2b18d15",
             "link": "https://n.news.naver.com/mnews/article/421/0008714311?sid=100",
@@ -394,9 +417,79 @@
             "url": "https://www.youtube.com/watch?v=Pc6kOyAA5Vo",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:13.158000",
+            "collected_at": "2026-01-18T13:11:10.888000",
             "duration": 110.0,
             "title": "\"청문회 좀 급발진하지 않았나\" 친명 김영진 직격…\"추미애 전쟁에서 결과 좋았던 적 있었나\" (자막뉴스) / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b024297082fcc2b1903e",
+            "url": "https://www.youtube.com/watch?v=4iYmUGPtEF8",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": 148.0,
+            "title": "[국회의원 김영진] 수원은 김영진입니다#더불어민주당 #국회의원 #김영진",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b024297082fcc2b1903d",
+            "url": "https://www.youtube.com/watch?v=tOebQG8GByc",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": 92.0,
+            "title": "[국회의원 김영진] 수원 원팀 출정식",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b024297082fcc2b1903c",
+            "url": "https://www.youtube.com/watch?v=_hoSJLbeejM",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": 103.0,
+            "title": "[국회의원 김영진]행복송",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee52887d07f7ba2fb3b9",
+            "url": "https://www.youtube.com/watch?v=bOWG8bKFEEU",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:10.888000",
+            "duration": 7837.0,
+            "title": "[김종배의시선집중 FULL] 김병기 제명(김영진) / 한일정상회담(양기호) / 누더기 검찰개혁안(한동수, 이춘재)ㅣMBC 260114 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee52887d07f7ba2fb3b8",
+            "url": "https://www.youtube.com/watch?v=L2Btpn2D8Bo",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-14T10:16:02.179000",
+            "duration": 1190.0,
+            "title": "[더 인터뷰] 李-與 지지율 동반 하락, 친명 핵심 김영진 \"대한민국 법사위 재구조화 해야\"..법사위 저격? #김영진_251002",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee52887d07f7ba2fb3b7",
+            "url": "https://www.youtube.com/watch?v=ZsosSX8gJN4",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-14T10:16:02.179000",
+            "duration": 1436.0,
+            "title": "원조 찐명 김영진 작심비판 “이재명 설탕만 먹다, 이 다 썩는다.. 나중에 못 싸운다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee52887d07f7ba2fb3b6",
+            "url": "https://www.youtube.com/watch?v=ijCLD1HqC2Y",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": 292.0,
+            "title": "[칭찬마이크] 김영진 더불어민주당 의원 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -404,19 +497,19 @@
             "url": "https://www.youtube.com/watch?v=r8IohOxHVL4",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-13T09:43:56.649000",
+            "collected_at": "2026-01-18T13:11:10.888000",
             "duration": 174.0,
             "title": "[지금뉴스] ‘친명’ 김영진 “깊게 고민 필요”…우상호 “내일 대통령께 종합 보고”  / KBS 2025.07.18.",
             "upload_date": null
         },
         {
-            "_id": "6960ac0c631fd1743497d4d7",
-            "url": "https://www.youtube.com/watch?v=zX7tnXyQVok",
+            "_id": "6960ac0c631fd1743497d4d3",
+            "url": "https://www.youtube.com/watch?v=UCBn__nf1munlLyHgafkV3Jw",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:12.291000",
-            "duration": 140.0,
-            "title": "'조희대-한덕수 회동설'에 김영진 \"서영교, 부승찬, 추미애가 더 소명해야 한다\"…여당에서 나온 소신 목소리｜지금 이 뉴스",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": null,
+            "title": "김영진TV",
             "upload_date": null
         },
         {
@@ -430,13 +523,33 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac0c631fd1743497d4d9",
+            "url": "https://www.youtube.com/watch?v=Dz4F6aaT_UQ",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:10.888000",
+            "duration": 981.0,
+            "title": "[뉴스킹] 이재명 사퇴하라고? \"감기에 암 수술하나?\" with 김영진_230524",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac0c631fd1743497d4d8",
             "url": "https://www.youtube.com/watch?v=0NxFXo3wGe4",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:12.291000",
+            "collected_at": "2026-01-18T13:11:09.812000",
             "duration": 1064.0,
             "title": "[유연채의 시사공감]민주당 김영진 의원(수원시병), 바른미래당 이찬열 의원(수원시갑)의 공약이행 점수는?/KFM경기방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac0c631fd1743497d4d7",
+            "url": "https://www.youtube.com/watch?v=zX7tnXyQVok",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": 140.0,
+            "title": "'조희대-한덕수 회동설'에 김영진 \"서영교, 부승찬, 추미애가 더 소명해야 한다\"…여당에서 나온 소신 목소리｜지금 이 뉴스",
             "upload_date": null
         },
         {
@@ -444,29 +557,9 @@
             "url": "https://www.youtube.com/watch?v=SesEkfIY0j8",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:12.291000",
+            "collected_at": "2026-01-18T13:11:09.812000",
             "duration": 642.0,
             "title": "'국회의원은 국회로 들어간다' 막는 경찰 뿌리치고 국회 들어간 김영진 의원  | 그날그곳",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac0c631fd1743497d4d4",
-            "url": "https://www.youtube.com/watch?v=xRTIvh9I3is",
-            "HG_NM": "김영진",
-            "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:12.291000",
-            "duration": 207.0,
-            "title": "[국회의원 김영진]안타쏭!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac0c631fd1743497d4d3",
-            "url": "https://www.youtube.com/watch?v=UCBn__nf1munlLyHgafkV3Jw",
-            "HG_NM": "김영진",
-            "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:12.291000",
-            "duration": null,
-            "title": "김영진TV",
             "upload_date": null
         },
         {
@@ -474,21 +567,21 @@
             "url": "https://www.youtube.com/watch?v=bn1BRTT816Q",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:12.291000",
+            "collected_at": "2026-01-18T13:11:09.812000",
             "duration": 74.0,
             "title": "팔달구 김영진 국회의원 선거 예비후보등록",
             "upload_date": null
         },
         {
-            "_id": "6960ac0c631fd1743497d4d9",
-            "url": "https://www.youtube.com/watch?v=Dz4F6aaT_UQ",
+            "_id": "6960ac0c631fd1743497d4d4",
+            "url": "https://www.youtube.com/watch?v=xRTIvh9I3is",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-15T18:15:13.158000",
-            "duration": 981.0,
-            "title": "[뉴스킹] 이재명 사퇴하라고? \"감기에 암 수술하나?\" with 김영진_230524",
+            "collected_at": "2026-01-18T13:11:09.812000",
+            "duration": 207.0,
+            "title": "[국회의원 김영진]안타쏭!",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:37.918444"
+    "exported_at": "2026-01-18T13:56:12.468341"
 }

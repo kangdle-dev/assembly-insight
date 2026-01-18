@@ -42,42 +42,46 @@
     },
     "analysis": {
         "keywords": [
-            "정치자금",
             "혐의",
+            "자금",
             "송치",
-            "불법",
             "국민",
+            "불법",
+            "광주",
             "검찰",
             "수수",
-            "광주",
             "위반",
             "선거",
+            "조사",
+            "자금법",
             "경남",
-            "여론조사",
-            "경찰청",
-            "의혹",
-            "광주시"
+            "여론",
+            "의혹"
         ],
         "keyword_frequency": [
             {
-                "text": "정치자금",
-                "value": 43
-            },
-            {
                 "text": "혐의",
                 "value": 40
+            },
+            {
+                "text": "자금",
+                "value": 34
             },
             {
                 "text": "송치",
                 "value": 31
             },
             {
+                "text": "국민",
+                "value": 30
+            },
+            {
                 "text": "불법",
                 "value": 30
             },
             {
-                "text": "국민",
-                "value": 27
+                "text": "광주",
+                "value": 26
             },
             {
                 "text": "검찰",
@@ -85,11 +89,7 @@
             },
             {
                 "text": "수수",
-                "value": 20
-            },
-            {
-                "text": "광주",
-                "value": 20
+                "value": 23
             },
             {
                 "text": "위반",
@@ -97,52 +97,81 @@
             },
             {
                 "text": "선거",
+                "value": 19
+            },
+            {
+                "text": "조사",
                 "value": 18
+            },
+            {
+                "text": "자금법",
+                "value": 17
             },
             {
                 "text": "경남",
                 "value": 15
             },
             {
-                "text": "여론조사",
+                "text": "여론",
                 "value": 15
             },
             {
-                "text": "경찰청",
-                "value": 11
-            },
-            {
                 "text": "의혹",
-                "value": 11
-            },
-            {
-                "text": "광주시",
-                "value": 11
+                "value": 13
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:58.746253",
+        "last_analyzed_at": "2026-01-18T13:56:35.944119",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                1,
-                0,
-                1,
                 0,
                 0,
                 13,
+                0,
+                2,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5beb297082fcc2b19b7f",
+            "link": "https://n.news.naver.com/mnews/article/023/0003953458?sid=100",
+            "created_at": "2026-01-18T13:04:59.522000",
+            "description": "이와 관련, 이 후보자는 이날 국회 재정경제기획위원회에 제출한 인사청문회 요구자료 답변서에 ’2018년 당시 성명을 발표했는데 지금도 그렇게 생각하는가’라는 국민의힘 이종욱 의원의 질의에 “당시 정당에 소속된... ",
+            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/16/PVMWX735DJHQTFCB47SEZXC4GI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-16T14:38:00",
+            "related_members": [
+                "86R9476S",
+                "NLS46526"
+            ],
+            "title": "[단독] 이혜훈, 과거 ‘불륜남 이재명’ 성명 참여에 “정치인으로 黨활..."
+        },
+        {
+            "_id": "6969b972297082fcc2b19476",
+            "link": "https://n.news.naver.com/mnews/article/009/0005622573?sid=100",
+            "created_at": "2026-01-16T13:07:11.822000",
+            "description": "국민의힘 소속 재정경제기획위원회 위원인 박수영·이종욱·박성훈 의원은 이날 국회에서 기자회견을 열고 “이 후보자가 빈껍데기 자료로 국민과 국회를 기만하고 있다”며 “인사청문회를 연기할 것을 여당에... ",
+            "originallink": "https://www.mk.co.kr/article/11934704",
+            "press": "매일경제",
+            "pubDate": "2026-01-16T07:39:00",
+            "related_members": [
+                "NLS46526",
+                "FU87526G",
+                "NX534083"
+            ],
+            "title": "‘부정청약 논란’ 이혜훈 “국가기관 조사 결과 따르겠다”…자녀의혹..."
+        },
         {
             "_id": "6968adbf297082fcc2b18dad",
             "link": "https://n.news.naver.com/mnews/article/056/0012105110?sid=102",
@@ -235,19 +264,6 @@
             "title": "'불법 정치자금 수수' 혐의, 국힘 이종욱 의원 검찰 송치"
         },
         {
-            "_id": "6968adbf297082fcc2b18db5",
-            "link": "https://n.news.naver.com/mnews/article/022/0004097621?sid=102",
-            "created_at": "2026-01-15T18:05:00.348000",
-            "description": "이종욱 국민의힘 국회의원(창원 진해)이 22대 총선 과정에서 불법 선거자금을 받은 혐의로 검찰에 넘겨졌다. 경남경찰청은 정치자금법 위반 혐의로 이 의원을 검찰에 송치했다고 14일 밝혔다. 경남경찰청 전경. 이... ",
-            "originallink": "https://www.segye.com/newsView/20260114514478?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-14T15:57:00",
-            "related_members": [
-                "NLS46526"
-            ],
-            "title": "‘불법 정치자금 수수 혐의’ 이종욱 국민의힘 국회의원 검찰 송치"
-        },
-        {
             "_id": "6968adbf297082fcc2b18db4",
             "link": "https://n.news.naver.com/mnews/article/032/0003421524?sid=102",
             "created_at": "2026-01-15T18:05:00.348000",
@@ -259,6 +275,19 @@
                 "NLS46526"
             ],
             "title": "‘정치자금법 위반 혐의’ 국민의힘 이종욱 국회의원 검찰 송치"
+        },
+        {
+            "_id": "6968adbf297082fcc2b18db5",
+            "link": "https://n.news.naver.com/mnews/article/022/0004097621?sid=102",
+            "created_at": "2026-01-15T18:05:00.348000",
+            "description": "이종욱 국민의힘 국회의원(창원 진해)이 22대 총선 과정에서 불법 선거자금을 받은 혐의로 검찰에 넘겨졌다. 경남경찰청은 정치자금법 위반 혐의로 이 의원을 검찰에 송치했다고 14일 밝혔다. 경남경찰청 전경. 이... ",
+            "originallink": "https://www.segye.com/newsView/20260114514478?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-14T15:57:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "‘불법 정치자금 수수 혐의’ 이종욱 국민의힘 국회의원 검찰 송치"
         },
         {
             "_id": "6968adbf297082fcc2b18db6",
@@ -423,6 +452,19 @@
                 "VRY5522V"
             ],
             "title": "광주시장 여론조사 민형배 33% vs 강기정 14% [광주MBC 신년 여론조사]"
+        },
+        {
+            "_id": "6964b57d631fd174349963e4",
+            "link": "https://n.news.naver.com/mnews/article/003/0013687748?sid=102",
+            "created_at": "2026-01-12T17:48:58.472000",
+            "description": "행사는 이충무공선양군항제위원회 주관으로 장금용 시장 권한대행, 이종욱 국회의원, 진해구 도·시의원, 유관 기관·단체장, 시민 등 3000여 명이 참석한 가운데 오전 6시30분부터 진행됐다. 식전공연은 해군교육사령부... ",
+            "originallink": "https://www.newsis.com/view/NISX20260101_0003462207",
+            "press": "뉴시스",
+            "pubDate": "2026-01-01T15:26:00",
+            "related_members": [
+                "NLS46526"
+            ],
+            "title": "창원시, 진해루서 '병오년 새해맞이 시민 소망 기원제'"
         }
     ],
     "recent_videos": [
@@ -431,7 +473,7 @@
             "url": "https://www.youtube.com/watch?v=UCQ_JilJCL_pEMTYRlscqwRw",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-15T18:22:05.212000",
+            "collected_at": "2026-01-18T13:18:43.737000",
             "duration": null,
             "title": "국회의원 이종욱",
             "upload_date": null
@@ -441,7 +483,7 @@
             "url": "https://www.youtube.com/watch?v=W67GrhyieVE",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-15T18:22:05.212000",
+            "collected_at": "2026-01-18T13:18:44.690000",
             "duration": 130.0,
             "title": "‘불법 정치자금 수수 의혹’ 이종욱 의원 입건 / KBS  2025.12.10.",
             "upload_date": null
@@ -451,7 +493,7 @@
             "url": "https://www.youtube.com/watch?v=UjfwOo-2UfI",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-15T18:22:05.212000",
+            "collected_at": "2026-01-18T13:18:43.737000",
             "duration": 125.0,
             "title": "[단독] 여론조사비부터 연예인 사례비까지…이종욱 의원 불법 자금 수사 / KBS  2025.06.18.",
             "upload_date": null
@@ -461,7 +503,7 @@
             "url": "https://www.youtube.com/watch?v=1W0eBBXe3OQ",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-14T10:22:27.600000",
+            "collected_at": "2026-01-18T13:18:43.737000",
             "duration": 755.0,
             "title": "이종욱 국회의원 '사인간 금전거래 의혹' 철저한 수사 요구",
             "upload_date": null
@@ -491,7 +533,7 @@
             "url": "https://www.youtube.com/watch?v=GfpMLqLm2mI",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-14T10:22:28.256000",
+            "collected_at": "2026-01-18T13:18:44.691000",
             "duration": 107.0,
             "title": "[그때 그 뉴스] 이종욱 WHO 사무총장 타계…‘봉사·헌신’ 한평생",
             "upload_date": null
@@ -517,5 +559,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:58.746253"
+    "exported_at": "2026-01-18T13:56:35.944222"
 }

@@ -47,37 +47,69 @@
     },
     "analysis": {
         "keywords": [
+            "이원",
             "전북",
-            "반도체",
             "군산",
-            "민주당",
-            "조선소",
-            "용인",
-            "안호영",
-            "송전탑",
-            "정치권",
-            "출마",
             "정부",
-            "김민석",
-            "총리",
-            "전북도지사",
-            "대통령"
+            "반도체",
+            "국제",
+            "에너지",
+            "도지사",
+            "통합",
+            "도시",
+            "출마",
+            "더불어민주당",
+            "조선소",
+            "전주",
+            "송전탑"
         ],
         "keyword_frequency": [
             {
+                "text": "이원",
+                "value": 40
+            },
+            {
                 "text": "전북",
-                "value": 15
+                "value": 35
+            },
+            {
+                "text": "군산",
+                "value": 13
+            },
+            {
+                "text": "정부",
+                "value": 11
             },
             {
                 "text": "반도체",
                 "value": 10
             },
             {
-                "text": "군산",
-                "value": 10
+                "text": "국제",
+                "value": 9
             },
             {
-                "text": "민주당",
+                "text": "에너지",
+                "value": 9
+            },
+            {
+                "text": "도지사",
+                "value": 9
+            },
+            {
+                "text": "통합",
+                "value": 8
+            },
+            {
+                "text": "도시",
+                "value": 8
+            },
+            {
+                "text": "출마",
+                "value": 8
+            },
+            {
+                "text": "더불어민주당",
                 "value": 8
             },
             {
@@ -85,69 +117,109 @@
                 "value": 8
             },
             {
-                "text": "용인",
-                "value": 7
-            },
-            {
-                "text": "안호영",
-                "value": 7
+                "text": "전주",
+                "value": 6
             },
             {
                 "text": "송전탑",
                 "value": 6
-            },
-            {
-                "text": "정치권",
-                "value": 6
-            },
-            {
-                "text": "출마",
-                "value": 6
-            },
-            {
-                "text": "정부",
-                "value": 6
-            },
-            {
-                "text": "김민석",
-                "value": 6
-            },
-            {
-                "text": "총리",
-                "value": 6
-            },
-            {
-                "text": "전북도지사",
-                "value": 5
-            },
-            {
-                "text": "대통령",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:57.561057",
+        "last_analyzed_at": "2026-01-18T13:56:34.689626",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                5,
-                0,
-                0,
                 1,
                 0,
                 0,
-                2
+                2,
+                5,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c22297082fcc2b19bc9",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106855?sid=100",
+            "created_at": "2026-01-18T13:05:54.822000",
+            "description": "국회 이원택 의원이 전국적인 광역자치단체간 통합 물결 속에 완주-전주 통합이 필요하다면서도, 전북 내 타 시군 통합이 대안이 될 수 있다고 주장했습니다. 이 의원은 완주-전주 통합이 필요하지만, 어려울 경우 전주와... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8461458&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-16T21:45:00",
+            "related_members": [
+                "DAV7257X"
+            ],
+            "title": "이원택 “완주-전주 통합 외 타 시군 통합도 가능”"
+        },
+        {
+            "_id": "696c5c22297082fcc2b19bca",
+            "link": "https://n.news.naver.com/mnews/article/056/0012106756?sid=100",
+            "created_at": "2026-01-18T13:05:54.822000",
+            "description": "전북도지사 출마를 선언한 국회 이원택 의원은, 정부의 5극 3특 정책에 전북 등 3특에 대한 구상과 계획이 미흡해 지원 대상에서 배제될 가능성이 크다고 지적했습니다. 이를 해결하기 위해 전북을 국제 에너지 도시로... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8461322&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-16T19:34:00",
+            "related_members": [
+                "DAV7257X"
+            ],
+            "title": "“정부 3특 구상 미흡…전북을 국제 에너지 도시로”"
+        },
+        {
+            "_id": "696c5bf4297082fcc2b19b99",
+            "link": "https://n.news.naver.com/mnews/article/003/0013714703?sid=102",
+            "created_at": "2026-01-18T13:05:08.797000",
+            "description": "이원택 국회의원은 현장에서 축사를 전했고, 김윤덕 국토교통부 장관과 한병도·이성윤·안호영 국회의원은 영상 축사를 통해 축하 인사를 전했다. 올해 동문대상은 김양수 한국기초과학지원연구원 책임연구원이... ",
+            "originallink": "https://www.newsis.com/view/NISX20260116_0003479645",
+            "press": "뉴시스",
+            "pubDate": "2026-01-16T13:20:00",
+            "related_members": [
+                "JZY9937U",
+                "N2P9317N",
+                "XEF29171",
+                "H5476989",
+                "5N65159P",
+                "DAV7257X"
+            ],
+            "title": "전북대 총동창회, '신년교례회' 개최…새해 도약 다짐"
+        },
+        {
+            "_id": "6969b990297082fcc2b19488",
+            "link": "https://n.news.naver.com/mnews/article/421/0008718267?sid=102",
+            "created_at": "2026-01-16T13:07:41.666000",
+            "description": "전북도지사 선거에 출마하는 이원택 더불어민주당 의원(58, 군산·김제·부안을)이 이재명 정부의... 절실하다\"며 국회의원 원탁회의를 통한 초당적 대안 마련을 제안했다. 아울러 김제·군산·부안 3개 시군이 기존... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6041455",
+            "press": "뉴스1",
+            "pubDate": "2026-01-16T13:01:00",
+            "related_members": [
+                "DAV7257X",
+                "2385336L"
+            ],
+            "title": "이원택 의원 \"전북을 에너지 특화한 국제도시로 조성\""
+        },
+        {
+            "_id": "6969b990297082fcc2b19489",
+            "link": "https://n.news.naver.com/mnews/article/003/0013714388?sid=102",
+            "created_at": "2026-01-16T13:07:41.666000",
+            "description": "6월 지방선거 전북지사에 나선 이원택 국회의원(더불어민주당 군산·김제·부안을)이 이재명 정부의 국가균형성장 전략인 5극 3특 시대를 선두에서 열어가기 위해 전북을 미래 패권인 에너지를 특화한 국제 도시로... ",
+            "originallink": "https://www.newsis.com/view/NISX20260116_0003479436",
+            "press": "뉴시스",
+            "pubDate": "2026-01-16T10:53:00",
+            "related_members": [
+                "DAV7257X",
+                "2385336L"
+            ],
+            "title": "이원택 \"전북, 미래 패권 국제 에너지 특화 도시 조성해야\""
+        },
         {
             "_id": "6968adbc297082fcc2b18da9",
             "link": "https://n.news.naver.com/mnews/article/659/0000040476?sid=102",
@@ -281,7 +353,7 @@
             "url": "https://www.youtube.com/watch?v=4dYA_QeyOuk",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-15T18:21:43.214000",
+            "collected_at": "2026-01-18T13:18:20.714000",
             "duration": 112.0,
             "title": "이원택 첫 발전 전략 발표... 선거전 '시동'",
             "upload_date": null
@@ -301,7 +373,7 @@
             "url": "https://www.youtube.com/watch?v=7ntpheV0Ezc",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-15T18:21:42.467000",
+            "collected_at": "2026-01-18T13:18:19.744000",
             "duration": 2441.0,
             "title": "[LIVE] 팩트체크, 양곡관리법! (w.이원택 국회의원/더불어민주당 전국농어민위원장)",
             "upload_date": null
@@ -311,7 +383,7 @@
             "url": "https://www.youtube.com/watch?v=7DgLca_r2T8",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-15T18:21:42.467000",
+            "collected_at": "2026-01-18T13:18:19.744000",
             "duration": 123.0,
             "title": "이원택 “가장 강력한 전북”…도지사 첫 출마 선언 / KBS  2025.10.13.",
             "upload_date": null
@@ -321,7 +393,7 @@
             "url": "https://www.youtube.com/watch?v=jkEU5KWGnhk",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-15T18:21:42.467000",
+            "collected_at": "2026-01-18T13:18:19.744000",
             "duration": 115.0,
             "title": "이원택 도당위원장 사퇴... 전북지사 출마할 듯 (JTV)",
             "upload_date": null
@@ -341,7 +413,7 @@
             "url": "https://www.youtube.com/watch?v=r4z0A3EQILc",
             "HG_NM": "이원택",
             "MONA_CD": "DAV7257X",
-            "collected_at": "2026-01-15T18:21:43.214000",
+            "collected_at": "2026-01-18T13:18:20.714000",
             "duration": 192.0,
             "title": "수능 응원 빙자한 ‘이원택' 홍보?‥ 불법 현수막 논란 (2025.11.06/뉴스데스크/전주MBC)",
             "upload_date": null
@@ -357,5 +429,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:57.561057"
+    "exported_at": "2026-01-18T13:56:34.689700"
 }

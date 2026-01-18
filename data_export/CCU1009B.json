@@ -47,33 +47,33 @@
     },
     "analysis": {
         "keywords": [
-            "정부",
-            "민주당",
             "민주",
+            "시장",
+            "더불어민주당",
             "베네수엘라",
-            "국제",
-            "군사작전",
-            "평화",
-            "위협",
-            "조국",
+            "군사",
+            "작전",
+            "대표",
+            "국민",
+            "이재명",
+            "민주당",
+            "미래",
+            "위원장",
+            "조국당",
             "이병진",
-            "신영",
-            "당선",
-            "무효",
-            "해당",
-            "지역구"
+            "신영"
         ],
         "keyword_frequency": [
             {
-                "text": "정부",
-                "value": 8
-            },
-            {
-                "text": "민주당",
-                "value": 7
-            },
-            {
                 "text": "민주",
+                "value": 6
+            },
+            {
+                "text": "시장",
+                "value": 6
+            },
+            {
+                "text": "더불어민주당",
                 "value": 6
             },
             {
@@ -81,23 +81,39 @@
                 "value": 6
             },
             {
-                "text": "국제",
+                "text": "군사",
                 "value": 6
             },
             {
-                "text": "군사작전",
+                "text": "작전",
+                "value": 6
+            },
+            {
+                "text": "대표",
+                "value": 6
+            },
+            {
+                "text": "국민",
                 "value": 5
             },
             {
-                "text": "평화",
+                "text": "이재명",
                 "value": 5
             },
             {
-                "text": "위협",
-                "value": 5
+                "text": "민주당",
+                "value": 4
             },
             {
-                "text": "조국",
+                "text": "미래",
+                "value": 4
+            },
+            {
+                "text": "위원장",
+                "value": 4
+            },
+            {
+                "text": "조국당",
                 "value": 4
             },
             {
@@ -107,34 +123,18 @@
             {
                 "text": "신영",
                 "value": 4
-            },
-            {
-                "text": "당선",
-                "value": 4
-            },
-            {
-                "text": "무효",
-                "value": 4
-            },
-            {
-                "text": "해당",
-                "value": 4
-            },
-            {
-                "text": "지역구",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:59.768585",
+        "last_analyzed_at": "2026-01-18T13:56:37.142399",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
@@ -142,12 +142,30 @@
                 0,
                 0,
                 0,
-                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bef297082fcc2b19b93",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623151?sid=100",
+            "created_at": "2026-01-18T13:05:03.424000",
+            "description": "김성환 의원은 기후환경부 장관이 됐다. 우원식 국회의장과 이학영 부의장도 더좋은미래 출신이다. 당 내에서도 더좋은미래 소속 조승래(사무총장), 천준호(원내운영수석부대표), 이해식(전략기획위원장) 등 여러... ",
+            "originallink": "https://www.mk.co.kr/article/11935537",
+            "press": "매일경제",
+            "pubDate": "2026-01-17T08:31:00",
+            "related_members": [
+                "XBT9550Q",
+                "K5F2023J",
+                "XSP20229",
+                "CCU1009B",
+                "A494529E",
+                "FYI20317"
+            ],
+            "title": "또 주목받는 민주당 ‘더좋은미래’"
+        },
         {
             "_id": "6964b545631fd17434996053",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
@@ -266,7 +284,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -346,7 +364,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -444,6 +462,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ada4631fd1743497db18",
+            "url": "https://www.youtube.com/watch?v=UCLas1k2D1KNjWKXfETd2WjA",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-18T13:19:05.587000",
+            "duration": null,
+            "title": "이해식TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada4631fd1743497db19",
+            "url": "https://www.youtube.com/watch?v=BCrIb5RXcog",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-18T13:19:05.587000",
+            "duration": 1147.0,
+            "title": "[팩트TV 풀영상] 더불어민주당 이해식 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada4631fd1743497db1a",
+            "url": "https://www.youtube.com/watch?v=y1a3a8fIjvo",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-18T13:19:05.587000",
+            "duration": 716.0,
+            "title": "계엄 당일 이재명 대표와 이해식 의원이 가장 먼저 논의한 것 | 그날그곳",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada4631fd1743497db1b",
+            "url": "https://www.youtube.com/watch?v=11wLNJfGyVc",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-18T13:19:06.741000",
+            "duration": 86.0,
+            "title": "\"저는 대표님을 지지하지 않았는데...\" 이해식 폭탄(?) 발언에 폭소 터진 회의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada4631fd1743497db1c",
+            "url": "https://www.youtube.com/watch?v=tgOXMqbpLA8",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-18T13:19:06.741000",
+            "duration": 79.0,
+            "title": "연이은 대형 싱크홀, 행안부는 '재난'으로 다뤄야  #이해식 #더불어민주당 #국회의원 #싱크홀 #재난 #행정안전위원회 #행정안전부",
+            "upload_date": null
+        },
+        {
+            "_id": "696596c0887d07f7ba2faddb",
+            "url": "https://www.youtube.com/watch?v=4l0G9j06H40",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-15T18:22:25.570000",
+            "duration": 4435.0,
+            "title": "국회의원 이해식 첫돌 온라인 의정보고회",
+            "upload_date": null
+        },
+        {
+            "_id": "696596c0887d07f7ba2faddd",
+            "url": "https://www.youtube.com/watch?v=LeWhAwG8bp4",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-15T18:22:25.570000",
+            "duration": 1105.0,
+            "title": "\"국민의힘 해산 가능한가?\" 이해식 의원 대정부 질문(정치 분야)",
+            "upload_date": null
+        },
+        {
+            "_id": "696596c0887d07f7ba2fadde",
+            "url": "https://www.youtube.com/watch?v=yIoUnUHvF1o",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-18T13:19:06.741000",
+            "duration": 2124.0,
+            "title": "[여의도펀치] 선관위 '특혜 채용' 일파만파…윤두현·이해식 한판토론 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
             "_id": "696596c0887d07f7ba2faddc",
             "url": "https://www.youtube.com/watch?v=ePaVCq2DiPs",
             "HG_NM": "이해식",
@@ -464,85 +562,45 @@
             "upload_date": null
         },
         {
-            "_id": "6960ada4631fd1743497db1c",
-            "url": "https://www.youtube.com/watch?v=tgOXMqbpLA8",
+            "_id": "6966efe6887d07f7ba2fb4f7",
+            "url": "https://www.youtube.com/watch?v=ELXDahybxz4",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
             "collected_at": "2026-01-14T10:22:46.878000",
-            "duration": 79.0,
-            "title": "연이은 대형 싱크홀, 행안부는 '재난'으로 다뤄야  #이해식 #더불어민주당 #국회의원 #싱크홀 #재난 #행정안전위원회 #행정안전부",
+            "duration": 144.0,
+            "title": "이재명 대표와 3박 4일... #이해식 #더불어민주당 #국회의원 #이재명",
             "upload_date": null
         },
         {
-            "_id": "696596c0887d07f7ba2fadde",
-            "url": "https://www.youtube.com/watch?v=yIoUnUHvF1o",
+            "_id": "696c5f3a297082fcc2b19cf0",
+            "url": "https://www.youtube.com/watch?v=G9EVrT2WSWo",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:26.388000",
-            "duration": 2124.0,
-            "title": "[여의도펀치] 선관위 '특혜 채용' 일파만파…윤두현·이해식 한판토론 / 연합뉴스TV (YonhapnewsTV)",
+            "collected_at": "2026-01-18T13:19:05.587000",
+            "duration": 66.0,
+            "title": "[속보] 이해식에 불만 품은 권혁주 #민주당 #이해식 #권혁주",
             "upload_date": null
         },
         {
-            "_id": "696596c0887d07f7ba2faddb",
-            "url": "https://www.youtube.com/watch?v=4l0G9j06H40",
+            "_id": "696c5f3a297082fcc2b19cf1",
+            "url": "https://www.youtube.com/watch?v=xfFaB1_c8WE",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
-            "duration": 4435.0,
-            "title": "국회의원 이해식 첫돌 온라인 의정보고회",
+            "collected_at": "2026-01-18T13:19:05.587000",
+            "duration": 66.0,
+            "title": "역대급 100만 샘플 차원이 다른 국민선거인단 (feat. 민주당 클라쓰)  #이해식 #더불어민주당 #국회의원 #대선 #경선",
             "upload_date": null
         },
         {
-            "_id": "6960ada4631fd1743497db1b",
-            "url": "https://www.youtube.com/watch?v=11wLNJfGyVc",
+            "_id": "696c5f3a297082fcc2b19cf2",
+            "url": "https://www.youtube.com/watch?v=zQqOk4zNi7w",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:26.388000",
-            "duration": 86.0,
-            "title": "\"저는 대표님을 지지하지 않았는데...\" 이해식 폭탄(?) 발언에 폭소 터진 회의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada4631fd1743497db19",
-            "url": "https://www.youtube.com/watch?v=BCrIb5RXcog",
-            "HG_NM": "이해식",
-            "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
-            "duration": 1147.0,
-            "title": "[팩트TV 풀영상] 더불어민주당 이해식 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada4631fd1743497db18",
-            "url": "https://www.youtube.com/watch?v=UCLas1k2D1KNjWKXfETd2WjA",
-            "HG_NM": "이해식",
-            "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
-            "duration": null,
-            "title": "이해식TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada4631fd1743497db1a",
-            "url": "https://www.youtube.com/watch?v=y1a3a8fIjvo",
-            "HG_NM": "이해식",
-            "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
-            "duration": 716.0,
-            "title": "계엄 당일 이재명 대표와 이해식 의원이 가장 먼저 논의한 것 | 그날그곳",
-            "upload_date": null
-        },
-        {
-            "_id": "696596c0887d07f7ba2faddd",
-            "url": "https://www.youtube.com/watch?v=LeWhAwG8bp4",
-            "HG_NM": "이해식",
-            "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
-            "duration": 1105.0,
-            "title": "\"국민의힘 해산 가능한가?\" 이해식 의원 대정부 질문(정치 분야)",
+            "collected_at": "2026-01-18T13:19:05.587000",
+            "duration": 65.0,
+            "title": "탄핵선고 조기대선 일정은? 3월 12일이 기준! #이해식 #더불어민주당 #강동을 #국회의원 #탄핵 #조기대선 #재보궐선거",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:59.768585"
+    "exported_at": "2026-01-18T13:56:37.142493"
 }

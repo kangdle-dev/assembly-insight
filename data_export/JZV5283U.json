@@ -42,46 +42,54 @@
     },
     "analysis": {
         "keywords": [
-            "유영",
-            "대구시",
-            "출마",
-            "국민",
+            "대구시장",
             "대구",
-            "국힘",
+            "출마",
+            "유영",
+            "영하",
+            "국민",
+            "시장",
+            "선거",
             "달서구",
             "대통령",
             "주호영",
             "선언",
             "현역",
-            "선거",
-            "부의",
-            "추경호",
-            "윤재옥"
+            "민주평통",
+            "박근혜"
         ],
         "keyword_frequency": [
             {
-                "text": "유영",
-                "value": 24
-            },
-            {
-                "text": "대구시",
-                "value": 19
-            },
-            {
-                "text": "출마",
-                "value": 15
-            },
-            {
-                "text": "국민",
-                "value": 12
+                "text": "대구시장",
+                "value": 14
             },
             {
                 "text": "대구",
-                "value": 10
+                "value": 14
             },
             {
-                "text": "국힘",
+                "text": "출마",
+                "value": 13
+            },
+            {
+                "text": "유영",
+                "value": 12
+            },
+            {
+                "text": "영하",
+                "value": 12
+            },
+            {
+                "text": "국민",
+                "value": 11
+            },
+            {
+                "text": "시장",
                 "value": 8
+            },
+            {
+                "text": "선거",
+                "value": 7
             },
             {
                 "text": "달서구",
@@ -104,41 +112,33 @@
                 "value": 6
             },
             {
-                "text": "선거",
+                "text": "민주평통",
                 "value": 5
             },
             {
-                "text": "부의",
-                "value": 5
-            },
-            {
-                "text": "추경호",
-                "value": 5
-            },
-            {
-                "text": "윤재옥",
+                "text": "박근혜",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:53.771966",
+        "last_analyzed_at": "2026-01-18T13:56:30.449910",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 2,
                 0,
+                0,
                 1,
-                2,
                 0,
                 0,
-                1
+                0
             ]
         }
     },
@@ -181,7 +181,7 @@
             "_id": "6964b571631fd17434996350",
             "link": "https://n.news.naver.com/mnews/article/079/0004103895?sid=102",
             "created_at": "2026-01-12T17:48:47.018000",
-            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저 출사표를 던진 건 3선의 추경호 의원(달성군)이다. 추 의원은 구속 갈림길에 서는 등 위태로웠던 지난 1년간의... ",
+            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 추 의원은 \"대구 경제를 살리겠다\"고 포부를 밝혔다. 곧이어 대기업 대표이사 출신인 최은석 의원(동구)도... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453463?utm_source=naver&utm_medium=article&utm_campaign=20260112060055",
             "press": "노컷뉴스",
             "pubDate": "2026-01-12T06:01:00",
@@ -289,7 +289,7 @@
             "_id": "6964b571631fd17434996353",
             "link": "https://n.news.naver.com/mnews/article/005/0001824235?sid=100",
             "created_at": "2026-01-12T17:48:47.018000",
-            "description": "앞서 추경호(대구 달성군) 국회의원이 출마를 공식화했고 윤재옥(대구 달서을) 의원도 지난 2일 국민의힘 대구·경북 신년인사회에서 출마 의사를 내비췄다. 주호영 국회부의장과 유영하(대구 달서갑) 의원도 이달 중 출마... ",
+            "description": "주호영 국회부의장과 유영하(대구 달서갑) 의원도 이달 중 출마 여부에 대한 입장을 밝힐 것으로 알려졌다. 민주당에서는 현재까지 대구시 경제부시장을 지낸 홍의락 전 의원이 대구시장 도전 의사를 밝혔다.",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029206748&code=61111711&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-05T15:18:00",
@@ -353,7 +353,7 @@
             "url": "https://www.youtube.com/watch?v=nuoo01FLxhA",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-15T18:20:25.332000",
+            "collected_at": "2026-01-18T13:16:58.669000",
             "duration": 311.0,
             "title": "유영하 의원, “체납29건·교통법규 위반 19건… 공직 맡을 자격 없어”",
             "upload_date": null
@@ -363,7 +363,7 @@
             "url": "https://www.youtube.com/watch?v=g1SOtZe1JRE",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-15T18:20:25.332000",
+            "collected_at": "2026-01-18T13:16:58.669000",
             "duration": 86.0,
             "title": "국감 중 미술 수업이라도…유영하는 왜 고릴라를 그렸을까 #비하인드뉴스 / JTBC 뉴스룸",
             "upload_date": null
@@ -373,7 +373,7 @@
             "url": "https://www.youtube.com/watch?v=UCrKzHyD7gSGcZyf1UbMfLxQ",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-15T18:20:25.332000",
+            "collected_at": "2026-01-18T13:16:58.669000",
             "duration": null,
             "title": "유영하TV",
             "upload_date": null
@@ -383,7 +383,7 @@
             "url": "https://www.youtube.com/watch?v=frGu_eO4KpI",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-09T16:24:32.692000",
+            "collected_at": "2026-01-18T13:16:59.667000",
             "duration": 66.0,
             "title": "[빠른뉴스 쨉] 유영하에게 고릴라 왜 그렸냐고 물었더니... #shorts",
             "upload_date": null
@@ -393,7 +393,7 @@
             "url": "https://www.youtube.com/watch?v=b0M2on4NagI",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-15T18:20:26.219000",
+            "collected_at": "2026-01-18T13:16:59.667000",
             "duration": 95.0,
             "title": "'공천 탈락' 유영하 \"박근혜, 두 번 칼질당했다고 해\" / JTBC 뉴스룸",
             "upload_date": null
@@ -429,5 +429,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:53.771966"
+    "exported_at": "2026-01-18T13:56:30.449994"
 }

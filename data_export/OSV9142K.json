@@ -52,61 +52,65 @@
     },
     "analysis": {
         "keywords": [
-            "이만",
             "대표",
-            "신천지",
             "통일교",
-            "승리",
-            "국민",
             "수사",
-            "사무",
-            "총장",
-            "자유",
+            "합수",
+            "신천지",
+            "국민",
+            "승리",
+            "교주",
+            "천지",
+            "사무총장",
+            "인사",
             "의혹",
-            "경북",
+            "원내",
             "드론",
-            "미래",
-            "이준석"
+            "미래"
         ],
         "keyword_frequency": [
             {
-                "text": "이만",
-                "value": 22
-            },
-            {
                 "text": "대표",
-                "value": 12
-            },
-            {
-                "text": "신천지",
-                "value": 11
+                "value": 13
             },
             {
                 "text": "통일교",
                 "value": 10
             },
             {
+                "text": "수사",
+                "value": 9
+            },
+            {
+                "text": "합수",
+                "value": 9
+            },
+            {
+                "text": "신천지",
+                "value": 9
+            },
+            {
+                "text": "국민",
+                "value": 8
+            },
+            {
                 "text": "승리",
                 "value": 6
             },
             {
-                "text": "국민",
+                "text": "교주",
                 "value": 6
             },
             {
-                "text": "수사",
+                "text": "천지",
                 "value": 6
             },
             {
-                "text": "사무",
+                "text": "사무총장",
                 "value": 5
             },
             {
-                "text": "총장",
-                "value": 5
-            },
-            {
-                "text": "자유",
+                "text": "인사",
                 "value": 5
             },
             {
@@ -114,7 +118,7 @@
                 "value": 5
             },
             {
-                "text": "경북",
+                "text": "원내",
                 "value": 5
             },
             {
@@ -124,31 +128,27 @@
             {
                 "text": "미래",
                 "value": 4
-            },
-            {
-                "text": "이준석",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:56.025739",
+        "last_analyzed_at": "2026-01-18T13:56:32.958746",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
+                1,
+                1,
+                1,
                 1,
                 0,
-                1,
-                1,
-                1,
-                1
+                0,
+                0
             ]
         }
     },
@@ -193,7 +193,7 @@
             "_id": "6966eca6887d07f7ba2fb31c",
             "link": "https://n.news.naver.com/mnews/article/056/0012103613?sid=100",
             "created_at": "2026-01-14T10:08:55.279000",
-            "description": "이번 정권의 장관이었던 전재수 의원이 금품 수수하고 시계 받고 이랬다고 그래서 하는 거 아닙니까? 그럼... 그러니까 인사청문회에서 인사청문위원으로서 개별 국회의원들이 최선의 노력을 다해야 되는데 저희 3석의... ",
+            "description": "저는 한 몇 년 전에 이만희 교주께서 사실 수사 받으시면서 대통령 시계 들어보고 이건 한 2~3년 전에... 그러니까 인사청문회에서 인사청문위원으로서 개별 국회의원들이 최선의 노력을 다해야 되는데 저희 3석의... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457259&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-13T09:47:00",
@@ -214,7 +214,7 @@
             "_id": "6965949a887d07f7ba2fab24",
             "link": "https://n.news.naver.com/mnews/article/056/0012103116?sid=100",
             "created_at": "2026-01-13T09:40:56.511000",
-            "description": "지금 권성동 의원은 이미 구속 상태로 저렇게 재판을 받고 있는데 거의 쌍둥이 사건인 전재수 장관 같은... 바로 국회의원 보궐이나 아니면 단체장에 도전할 수 있는 사람도 있을 것이고, 모든 계층에서 역량이 강화되길... ",
+            "description": "우리 이만희 총재라는 분도 나와서 시계 차고 뭐 이렇게 수사받고 이랬던 거 다 기억나잖아요? 그때 수사에서... 바로 국회의원 보궐이나 아니면 단체장에 도전할 수 있는 사람도 있을 것이고, 모든 계층에서 역량이... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456467&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T16:32:00",
@@ -397,6 +397,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960abcb631fd1743497d3d1",
+            "url": "https://www.youtube.com/watch?v=wBz3NjRj4lk",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 91.0,
+            "title": "[김교흥] 김교흥 “사과하세요”VS 이만희 “거짓말 정부라니”",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad57631fd1743497d9fa",
+            "url": "https://www.youtube.com/watch?v=5lN50R6jMRI",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 168.0,
+            "title": "\"이광희 씨!\" \"이만희가 뭐야!\" 인사청문회 하다가…자존심을 건 두 의원의 설전 (현장영상) / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad57631fd1743497d9fc",
+            "url": "https://www.youtube.com/watch?v=lvQhtY8D7RM",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 84.0,
+            "title": "[스팟Live] 이만희-이광희 의원, 노태악 선관위원장 출석 놓고 '설전'｜25.03.06 국회 행안위",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad5e631fd1743497da11",
+            "url": "https://www.youtube.com/watch?v=eQdff-1uh38",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 304.0,
+            "title": "[국회는지금] \"농촌 돕는 현안 예산 미비\" 이만희 의원ㅣ#헬로tv뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad5e631fd1743497da12",
+            "url": "https://www.youtube.com/watch?v=CSbO9rtQoGQ",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 438.0,
+            "title": "[이만희 국회의원] 원내대변인의 하루",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad5e631fd1743497da13",
+            "url": "https://www.youtube.com/watch?v=80_y76VnL_c",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 147.0,
+            "title": "국민의힘 사무총장에 이만희 의원··대표·원내대표·사무총장 모두 '친윤' (2023.10.16/뉴스데스크/대구MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad5e631fd1743497da14",
+            "url": "https://www.youtube.com/watch?v=hhE4WzMXZ9k",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-15T18:21:11.474000",
+            "duration": 132.0,
+            "title": "[이만희 의원 2020 의정보고회 축사] 자유한국당 나경원 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad5e631fd1743497da15",
+            "url": "https://www.youtube.com/watch?v=lhBZnEs4VGw",
+            "HG_NM": "이만희",
+            "MONA_CD": "OSV9142K",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 108.0,
+            "title": "이만희 국회의원, 한국농촌지도자 경상북도대회",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad5e631fd1743497da16",
             "url": "https://www.youtube.com/watch?v=sEYOz6tSl7A",
             "HG_NM": "이만희",
@@ -411,91 +491,71 @@
             "url": "https://www.youtube.com/watch?v=Wtuit8OOR_E",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-09T16:25:14.978000",
+            "collected_at": "2026-01-18T13:17:47.299000",
             "duration": 816.0,
             "title": "영천의 원로대표단, 이만희국회의원 공천배제 건의문 관련 기자브리핑",
             "upload_date": null
         },
         {
-            "_id": "6960ad5e631fd1743497da12",
-            "url": "https://www.youtube.com/watch?v=CSbO9rtQoGQ",
+            "_id": "6960ad5e631fd1743497da18",
+            "url": "https://www.youtube.com/watch?v=xTEF3_xmXz4",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 438.0,
-            "title": "[이만희 국회의원] 원내대변인의 하루",
+            "collected_at": "2026-01-18T13:17:48.216000",
+            "duration": 268.0,
+            "title": "[사건파일24] 이만희가 코로나 극복에 기여?···신천지 이만희에 표창한 적십자사",
             "upload_date": null
         },
         {
-            "_id": "6960ad5e631fd1743497da15",
-            "url": "https://www.youtube.com/watch?v=lhBZnEs4VGw",
+            "_id": "6960ad5e631fd1743497da19",
+            "url": "https://www.youtube.com/watch?v=BoMJpkyaFfA",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 108.0,
-            "title": "이만희 국회의원, 한국농촌지도자 경상북도대회",
+            "collected_at": "2026-01-18T13:17:48.216000",
+            "duration": 95.0,
+            "title": "이만희, 탈퇴 신도에 “이 XX, 살이 퐁퐁 찌더냐!”... 막말·욕설",
             "upload_date": null
         },
         {
-            "_id": "6960ad5e631fd1743497da13",
-            "url": "https://www.youtube.com/watch?v=80_y76VnL_c",
+            "_id": "6960ad5e631fd1743497da1a",
+            "url": "https://www.youtube.com/watch?v=s1fYRbFGgbY",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 147.0,
-            "title": "국민의힘 사무총장에 이만희 의원··대표·원내대표·사무총장 모두 '친윤' (2023.10.16/뉴스데스크/대구MBC)",
+            "collected_at": "2026-01-18T13:17:48.216000",
+            "duration": 123.0,
+            "title": "이만희 신천지 총회장 '음성' 판정 (2020.03.03/5MBC뉴스)",
             "upload_date": null
         },
         {
-            "_id": "6960ad5e631fd1743497da11",
-            "url": "https://www.youtube.com/watch?v=eQdff-1uh38",
+            "_id": "6966efa2887d07f7ba2fb4c6",
+            "url": "https://www.youtube.com/watch?v=lPWZMrTLNVw",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 304.0,
-            "title": "[국회는지금] \"농촌 돕는 현안 예산 미비\" 이만희 의원ㅣ#헬로tv뉴스",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 537.0,
+            "title": "NATV 국회방송 300인의 희망 인터뷰(새누리당 이만희 의원)",
             "upload_date": null
         },
         {
-            "_id": "6960ad57631fd1743497d9fa",
-            "url": "https://www.youtube.com/watch?v=5lN50R6jMRI",
+            "_id": "6966efa2887d07f7ba2fb4c7",
+            "url": "https://www.youtube.com/watch?v=HnK4_iriUwU",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 168.0,
-            "title": "\"이광희 씨!\" \"이만희가 뭐야!\" 인사청문회 하다가…자존심을 건 두 의원의 설전 (현장영상) / SBS",
+            "collected_at": "2026-01-14T10:21:38.700000",
+            "duration": 184.0,
+            "title": "[CBS 뉴스] 이만희 교주, \"나는 왕손, 피해 부모들이 이단사이비\"",
             "upload_date": null
         },
         {
-            "_id": "6960abcb631fd1743497d3d1",
-            "url": "https://www.youtube.com/watch?v=wBz3NjRj4lk",
+            "_id": "6968b18b297082fcc2b190e8",
+            "url": "https://www.youtube.com/watch?v=WwZT0axmLSo",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 91.0,
-            "title": "[김교흥] 김교흥 “사과하세요”VS 이만희 “거짓말 정부라니”",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad57631fd1743497d9fc",
-            "url": "https://www.youtube.com/watch?v=lvQhtY8D7RM",
-            "HG_NM": "이만희",
-            "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 84.0,
-            "title": "[스팟Live] 이만희-이광희 의원, 노태악 선관위원장 출석 놓고 '설전'｜25.03.06 국회 행안위",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad5e631fd1743497da14",
-            "url": "https://www.youtube.com/watch?v=hhE4WzMXZ9k",
-            "HG_NM": "이만희",
-            "MONA_CD": "OSV9142K",
-            "collected_at": "2026-01-15T18:21:11.474000",
-            "duration": 132.0,
-            "title": "[이만희 의원 2020 의정보고회 축사] 자유한국당 나경원 의원",
+            "collected_at": "2026-01-18T13:17:47.299000",
+            "duration": 611.0,
+            "title": "[최경영의 최강시사] 줄잇는 ‘친윤계’ 최고위원 출사표...“당.정부 이을 것” - 이만희 의원(국민의힘)｜KBS 230202 방송",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:56.025739"
+    "exported_at": "2026-01-18T13:56:32.958838"
 }

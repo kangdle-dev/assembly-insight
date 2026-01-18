@@ -47,49 +47,53 @@
     },
     "analysis": {
         "keywords": [
-            "정동",
             "부산",
-            "부산시",
-            "국민",
+            "정동",
             "위원장",
-            "정관",
-            "기장군",
+            "국민",
+            "선거",
+            "도시",
+            "관선",
+            "시당",
             "지역",
-            "비롯",
-            "기념",
-            "촬영",
+            "인사",
+            "기장군",
+            "예타",
             "기장",
-            "의회",
-            "지방선거",
-            "글로벌"
+            "철도",
+            "통과"
         ],
         "keyword_frequency": [
+            {
+                "text": "부산",
+                "value": 42
+            },
             {
                 "text": "정동",
                 "value": 37
             },
             {
-                "text": "부산",
-                "value": 32
-            },
-            {
-                "text": "부산시",
-                "value": 24
+                "text": "위원장",
+                "value": 18
             },
             {
                 "text": "국민",
                 "value": 17
             },
             {
-                "text": "위원장",
-                "value": 17
-            },
-            {
-                "text": "정관",
+                "text": "선거",
                 "value": 15
             },
             {
-                "text": "기장군",
+                "text": "도시",
+                "value": 14
+            },
+            {
+                "text": "관선",
+                "value": 13
+            },
+            {
+                "text": "시당",
                 "value": 12
             },
             {
@@ -97,57 +101,66 @@
                 "value": 11
             },
             {
-                "text": "비롯",
-                "value": 9
+                "text": "인사",
+                "value": 11
             },
             {
-                "text": "기념",
-                "value": 9
+                "text": "기장군",
+                "value": 10
             },
             {
-                "text": "촬영",
-                "value": 9
+                "text": "예타",
+                "value": 10
             },
             {
                 "text": "기장",
-                "value": 8
+                "value": 10
             },
             {
-                "text": "의회",
-                "value": 8
+                "text": "철도",
+                "value": 9
             },
             {
-                "text": "지방선거",
-                "value": 8
-            },
-            {
-                "text": "글로벌",
-                "value": 8
+                "text": "통과",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:02.173650",
+        "last_analyzed_at": "2026-01-18T13:56:39.875772",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
                 0,
                 0,
+                3,
+                1,
                 0,
-                0,
-                0,
-                3
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5c2e297082fcc2b19bdb",
+            "link": "https://n.news.naver.com/mnews/article/016/0002586914?sid=102",
+            "created_at": "2026-01-18T13:06:06.665000",
+            "description": "이날 회의에 앞서 KDI에서는 정종복 기장군수를 비롯해 박형준 부산시장, 정동만 국회의원, 박홍복 기장군의회 의장 및 군의원, 박종철 부산시의회 의원, 기장군 지역주민들이 함께 참여해 정관선 예비타당성조사... ",
+            "originallink": "https://biz.heraldcorp.com/article/10657058?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-16T13:35:00",
+            "related_members": [
+                "DAY6557K"
+            ],
+            "title": "기장군, 도시철도 정관선 예타통과 마지막 총력전 펼쳐"
+        },
         {
             "_id": "6968adc7297082fcc2b18dd8",
             "link": "https://n.news.naver.com/mnews/article/057/0001930325?sid=102",
@@ -423,63 +436,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960adcf631fd1743497dbcc",
-            "url": "https://www.youtube.com/watch?v=F4Lm5LFEFZk",
+            "_id": "6960adcf631fd1743497dbc4",
+            "url": "https://www.youtube.com/watch?v=UCeZMgxF8D7XLhQxPduu2riA",
             "HG_NM": "정동만",
             "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:10.476000",
-            "duration": 285.0,
-            "title": "뉴스토크 담_정동만 후보, 광역 기장1선거구(CJ헬로비전 부산방송)",
-            "upload_date": null
-        },
-        {
-            "_id": "696596e9887d07f7ba2fae10",
-            "url": "https://www.youtube.com/watch?v=mGMEky5gZaA",
-            "HG_NM": "정동만",
-            "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:09.759000",
-            "duration": 88.0,
-            "title": "정동만 국회의원, 정관선 추진 위한 트램 예타지침 개선 촉구",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcf631fd1743497dbc8",
-            "url": "https://www.youtube.com/watch?v=zkpzJ_CHZtY",
-            "HG_NM": "정동만",
-            "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:09.759000",
-            "duration": 386.0,
-            "title": "정동만 국회의원, 원희룡 국토부 장관에게 다시 한번 정관선의 필요성을 말하다!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcf631fd1743497dbcb",
-            "url": "https://www.youtube.com/watch?v=JXA20sNNDN4",
-            "HG_NM": "정동만",
-            "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:10.476000",
-            "duration": 224.0,
-            "title": "뉴스토크 담_정동만 부산시의회의원(CJ헬로비전 부산방송)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcf631fd1743497dbc9",
-            "url": "https://www.youtube.com/watch?v=rAaHjQUKtBQ",
-            "HG_NM": "정동만",
-            "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:09.759000",
-            "duration": 69.0,
-            "title": "[2022 국정감사] 단디하는 정동만 의원, 국정감사 지적사항 종합!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcf631fd1743497dbc7",
-            "url": "https://www.youtube.com/watch?v=du8epVRec9Y",
-            "HG_NM": "정동만",
-            "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:09.759000",
-            "duration": 83.0,
-            "title": "정동만 국회의원, 기장어민 생계와 국민 먹거리 안전 최우선해야!",
+            "collected_at": "2026-01-18T13:19:54.291000",
+            "duration": null,
+            "title": "대찬 정동만",
             "upload_date": null
         },
         {
@@ -487,19 +450,9 @@
             "url": "https://www.youtube.com/watch?v=lE5thNkbd-4",
             "HG_NM": "정동만",
             "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:10.476000",
+            "collected_at": "2026-01-18T13:19:55.269000",
             "duration": 83.0,
             "title": "예고) 정동만 의원의 “원전안전! 원전산업지역을 살려라” - 알면 당신도 법테랑 - 106회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcf631fd1743497dbc4",
-            "url": "https://www.youtube.com/watch?v=UCeZMgxF8D7XLhQxPduu2riA",
-            "HG_NM": "정동만",
-            "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:09.759000",
-            "duration": null,
-            "title": "대찬 정동만",
             "upload_date": null
         },
         {
@@ -507,9 +460,39 @@
             "url": "https://www.youtube.com/watch?v=3T9zhxQmid4",
             "HG_NM": "정동만",
             "MONA_CD": "DAY6557K",
-            "collected_at": "2026-01-15T18:23:09.759000",
+            "collected_at": "2026-01-18T13:19:54.291000",
             "duration": 566.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 정동만 의원(국민의힘)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcf631fd1743497dbc7",
+            "url": "https://www.youtube.com/watch?v=du8epVRec9Y",
+            "HG_NM": "정동만",
+            "MONA_CD": "DAY6557K",
+            "collected_at": "2026-01-18T13:19:54.291000",
+            "duration": 83.0,
+            "title": "정동만 국회의원, 기장어민 생계와 국민 먹거리 안전 최우선해야!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcf631fd1743497dbc8",
+            "url": "https://www.youtube.com/watch?v=zkpzJ_CHZtY",
+            "HG_NM": "정동만",
+            "MONA_CD": "DAY6557K",
+            "collected_at": "2026-01-18T13:19:54.291000",
+            "duration": 386.0,
+            "title": "정동만 국회의원, 원희룡 국토부 장관에게 다시 한번 정관선의 필요성을 말하다!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcf631fd1743497dbc9",
+            "url": "https://www.youtube.com/watch?v=rAaHjQUKtBQ",
+            "HG_NM": "정동만",
+            "MONA_CD": "DAY6557K",
+            "collected_at": "2026-01-18T13:19:54.291000",
+            "duration": 69.0,
+            "title": "[2022 국정감사] 단디하는 정동만 의원, 국정감사 지적사항 종합!",
             "upload_date": null
         },
         {
@@ -521,7 +504,37 @@
             "duration": 279.0,
             "title": "[국회는지금] \"부산을 원전 산업 중심지로\" 정동만 국회의원ㅣ#헬로tv뉴스",
             "upload_date": null
+        },
+        {
+            "_id": "6960adcf631fd1743497dbcb",
+            "url": "https://www.youtube.com/watch?v=JXA20sNNDN4",
+            "HG_NM": "정동만",
+            "MONA_CD": "DAY6557K",
+            "collected_at": "2026-01-18T13:19:55.269000",
+            "duration": 224.0,
+            "title": "뉴스토크 담_정동만 부산시의회의원(CJ헬로비전 부산방송)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcf631fd1743497dbcc",
+            "url": "https://www.youtube.com/watch?v=F4Lm5LFEFZk",
+            "HG_NM": "정동만",
+            "MONA_CD": "DAY6557K",
+            "collected_at": "2026-01-18T13:19:55.269000",
+            "duration": 285.0,
+            "title": "뉴스토크 담_정동만 후보, 광역 기장1선거구(CJ헬로비전 부산방송)",
+            "upload_date": null
+        },
+        {
+            "_id": "696596e9887d07f7ba2fae10",
+            "url": "https://www.youtube.com/watch?v=mGMEky5gZaA",
+            "HG_NM": "정동만",
+            "MONA_CD": "DAY6557K",
+            "collected_at": "2026-01-18T13:19:54.291000",
+            "duration": 88.0,
+            "title": "정동만 국회의원, 정관선 추진 위한 트램 예타지침 개선 촉구",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:02.174163"
+    "exported_at": "2026-01-18T13:56:39.875865"
 }

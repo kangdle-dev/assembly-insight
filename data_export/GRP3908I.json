@@ -45,30 +45,38 @@
             "금주",
             "통합",
             "행정",
-            "광주",
-            "민주당",
             "전남",
+            "기관",
+            "광주",
+            "공공",
+            "이전",
+            "대통령",
+            "특별법",
+            "지역",
             "강기정",
             "시장",
-            "김영록",
-            "대통령",
-            "공공기관",
-            "단식",
-            "책임",
-            "종합",
-            "광주시"
+            "더불어민주당",
+            "단식"
         ],
         "keyword_frequency": [
             {
                 "text": "금주",
-                "value": 30
+                "value": 26
             },
             {
                 "text": "통합",
-                "value": 16
+                "value": 21
             },
             {
                 "text": "행정",
+                "value": 18
+            },
+            {
+                "text": "전남",
+                "value": 16
+            },
+            {
+                "text": "기관",
                 "value": 13
             },
             {
@@ -76,73 +84,91 @@
                 "value": 13
             },
             {
-                "text": "민주당",
-                "value": 12
+                "text": "공공",
+                "value": 11
             },
             {
-                "text": "전남",
-                "value": 12
+                "text": "이전",
+                "value": 10
+            },
+            {
+                "text": "대통령",
+                "value": 9
+            },
+            {
+                "text": "특별법",
+                "value": 9
+            },
+            {
+                "text": "지역",
+                "value": 8
             },
             {
                 "text": "강기정",
-                "value": 9
+                "value": 8
             },
             {
                 "text": "시장",
                 "value": 8
             },
             {
-                "text": "김영록",
-                "value": 7
-            },
-            {
-                "text": "대통령",
-                "value": 7
-            },
-            {
-                "text": "공공기관",
+                "text": "더불어민주당",
                 "value": 7
             },
             {
                 "text": "단식",
                 "value": 6
-            },
-            {
-                "text": "책임",
-                "value": 6
-            },
-            {
-                "text": "종합",
-                "value": 6
-            },
-            {
-                "text": "광주시",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:42.536818",
+        "last_analyzed_at": "2026-01-18T13:56:17.995784",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 1,
                 0,
-                7
+                8,
+                1,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6969b96d297082fcc2b1946d",
+            "link": "https://kjmbc.co.kr/NewsArticle/1500937",
+            "created_at": "2026-01-16T13:07:06.878000",
+            "description": "* 문금주 국회의원(고흥보성장흥강진) \"농협중앙회나 수협중앙회가 굳이 서울에 있을 필요가 있냐. 전남은 농도이자 또 수산업 1번지인데 이런 기관들을 지역으로 내려보는 것도 검토해 주시면 좋겠다.(대통령께 말한거죠.... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1500937",
+            "press": "MBC",
+            "pubDate": "2026-01-16T07:45:00",
+            "related_members": [
+                "GRP3908I"
+            ],
+            "title": "행정통합에 기대 커지는 공공기관 2차 이전"
+        },
+        {
+            "_id": "696902c8297082fcc2b1927e",
+            "link": "https://kjmbc.co.kr/NewsArticle/1500869",
+            "created_at": "2026-01-16T00:07:52.351000",
+            "description": "* 문금주 국회의원(고흥보성장흥강진) \"농협중앙회나 수협중앙회가 굳이 서울에 있을 필요가 있냐. 전남은 농도이자 또 수산업 1번지인데 이런 기관들을 지역으로 내려보는 것도 검토해 주시면 좋겠다.(대통령께 말한거죠.... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1500869",
+            "press": "MBC",
+            "pubDate": "2026-01-15T20:40:00",
+            "related_members": [
+                "GRP3908I"
+            ],
+            "title": "행정통합에 기대 커지는 공공기관 2차 이전"
+        },
         {
             "_id": "6968ad98297082fcc2b18d31",
             "link": "https://n.news.naver.com/mnews/article/448/0000583917?sid=100",
@@ -288,7 +314,7 @@
             "_id": "6968ad88297082fcc2b18ce0",
             "link": "https://n.news.naver.com/mnews/article/079/0004105281?sid=102",
             "created_at": "2026-01-15T18:04:05.049000",
-            "description": "간담회에는 김영록 전남도지사와 강기정 광주광역시장, 김원이 국회의원(전남도당위원장), 양부남 국회의원(광주시당위원장) 박지원, 신정훈, 이개호, 서삼석, 주철현, 조계원, 문금주, 권향엽, 김문수, 민형배, 조인철... ",
+            "description": "민형배, 조인철, 정진욱, 안도걸, 박균택, 전진숙, 정준호 등 광주·전남 지역 국회의원이 대거 참석해 행정통합의 방향성과 함께 특별법의 주요 내용, 쟁점 사항에 의견을 나눴다. 전남도와 광주시가 함께 마련한 이번... ",
             "originallink": "https://www.nocutnews.co.kr/news/6456517?utm_source=naver&utm_medium=article&utm_campaign=20260115024504",
             "press": "노컷뉴스",
             "pubDate": "2026-01-15T09:17:00",
@@ -350,7 +376,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -430,7 +456,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -545,6 +571,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ac62631fd1743497d62f",
+            "url": "https://www.youtube.com/watch?v=7mPAQHX0WLM",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": 436.0,
+            "title": "더불어민주당 문금주 국회의원_ 뉴라이트 인사등용, 국민 분노, 책임은 누구?_제418회국회 예산결산특별위원회 종합질의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac62631fd1743497d630",
+            "url": "https://www.youtube.com/watch?v=UCVg8m6904RHRHfn5cRPHeuQ",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": null,
+            "title": "문금주TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac62631fd1743497d631",
+            "url": "https://www.youtube.com/watch?v=-jUcrHEd2PU",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": 600.0,
+            "title": "한우협회-민주당 문금주 의원 간담회&감사패 전달",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac62631fd1743497d632",
+            "url": "https://www.youtube.com/watch?v=u0vOzjW9n44",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:52.822000",
+            "duration": 246.0,
+            "title": "[2024국정감사] 더불어민주당 문금주, 불법수산물 온라인 유통, \"증거있는데 부득부득 우겨\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac62631fd1743497d633",
+            "url": "https://www.youtube.com/watch?v=l6iXsVYugc0",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-14T10:17:27.165000",
+            "duration": 215.0,
+            "title": "농민은 배제하고 소상공인 지원 650억 추경안 가져온 농림부, 농민 목소리는 어느 부처가 대변하나! | 문금주 국회의원 농해수위 전체회의",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac62631fd1743497d634",
+            "url": "https://www.youtube.com/watch?v=25F0Qvm-2zA",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": 245.0,
+            "title": "[국감현장] 문금주 의원, “배추가격 폭등, aT 늦장 대응” 질타 #국정감사 #국회 #농림축산식품해양수산위원회 #농림축산식품부 #한국농수산식품유통공사 #at",
+            "upload_date": null
+        },
+        {
+            "_id": "69659591887d07f7ba2fac5d",
+            "url": "https://www.youtube.com/watch?v=q_qOcLXnJHk",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": 1299.0,
+            "title": "민주당 원대변인 문금주국회의원 대담",
+            "upload_date": null
+        },
+        {
+            "_id": "69659591887d07f7ba2fac5e",
+            "url": "https://www.youtube.com/watch?v=SLax8ULO-iU",
+            "HG_NM": "문금주",
+            "MONA_CD": "GRP3908I",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": 111.0,
+            "title": "윤석열이 박살낸 경제 되살릴 이재명! | 문금주 국회의원",
+            "upload_date": null
+        },
+        {
             "_id": "69659591887d07f7ba2fac5f",
             "url": "https://www.youtube.com/watch?v=5gYorXu3LnY",
             "HG_NM": "문금주",
@@ -559,91 +665,31 @@
             "url": "https://www.youtube.com/watch?v=w873c-cN_oE",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.990000",
+            "collected_at": "2026-01-18T13:12:52.822000",
             "duration": 540.0,
             "title": "\"곽규택 대통령 발언, 정정하겠습니다\"...결연한 문금주, 눈 치켜뜨더니",
             "upload_date": null
         },
         {
-            "_id": "6960ac62631fd1743497d633",
-            "url": "https://www.youtube.com/watch?v=l6iXsVYugc0",
+            "_id": "69659591887d07f7ba2fac61",
+            "url": "https://www.youtube.com/watch?v=UVF79ih9C1s",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-14T10:17:27.165000",
-            "duration": 215.0,
-            "title": "농민은 배제하고 소상공인 지원 650억 추경안 가져온 농림부, 농민 목소리는 어느 부처가 대변하나! | 문금주 국회의원 농해수위 전체회의",
+            "collected_at": "2026-01-18T13:12:52.822000",
+            "duration": 126.0,
+            "title": "김승남-문금주 '2인 경선'..컷오프 후보들 반발 (2024.02.28/뉴스데스크/여수MBC)",
             "upload_date": null
         },
         {
-            "_id": "69659591887d07f7ba2fac5e",
-            "url": "https://www.youtube.com/watch?v=SLax8ULO-iU",
+            "_id": "6968b07f297082fcc2b19072",
+            "url": "https://www.youtube.com/watch?v=J_HYH1W6nMg",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.187000",
-            "duration": 111.0,
-            "title": "윤석열이 박살낸 경제 되살릴 이재명! | 문금주 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac62631fd1743497d634",
-            "url": "https://www.youtube.com/watch?v=25F0Qvm-2zA",
-            "HG_NM": "문금주",
-            "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.187000",
-            "duration": 245.0,
-            "title": "[국감현장] 문금주 의원, “배추가격 폭등, aT 늦장 대응” 질타 #국정감사 #국회 #농림축산식품해양수산위원회 #농림축산식품부 #한국농수산식품유통공사 #at",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac62631fd1743497d632",
-            "url": "https://www.youtube.com/watch?v=u0vOzjW9n44",
-            "HG_NM": "문금주",
-            "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.990000",
-            "duration": 246.0,
-            "title": "[2024국정감사] 더불어민주당 문금주, 불법수산물 온라인 유통, \"증거있는데 부득부득 우겨\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac62631fd1743497d630",
-            "url": "https://www.youtube.com/watch?v=UCVg8m6904RHRHfn5cRPHeuQ",
-            "HG_NM": "문금주",
-            "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.187000",
-            "duration": null,
-            "title": "문금주TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac62631fd1743497d62f",
-            "url": "https://www.youtube.com/watch?v=7mPAQHX0WLM",
-            "HG_NM": "문금주",
-            "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.187000",
-            "duration": 436.0,
-            "title": "더불어민주당 문금주 국회의원_ 뉴라이트 인사등용, 국민 분노, 책임은 누구?_제418회국회 예산결산특별위원회 종합질의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac62631fd1743497d631",
-            "url": "https://www.youtube.com/watch?v=-jUcrHEd2PU",
-            "HG_NM": "문금주",
-            "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.187000",
-            "duration": 600.0,
-            "title": "한우협회-민주당 문금주 의원 간담회&감사패 전달",
-            "upload_date": null
-        },
-        {
-            "_id": "69659591887d07f7ba2fac5d",
-            "url": "https://www.youtube.com/watch?v=q_qOcLXnJHk",
-            "HG_NM": "문금주",
-            "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-15T18:16:43.187000",
-            "duration": 1299.0,
-            "title": "민주당 원대변인 문금주국회의원 대담",
+            "collected_at": "2026-01-18T13:12:51.741000",
+            "duration": 192.0,
+            "title": "[국회줌인] 문금주 의원, ‘비상계엄 1주년 기념 국회 닥종이 인형전’ 주최",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:42.536818"
+    "exported_at": "2026-01-18T13:56:17.995902"
 }

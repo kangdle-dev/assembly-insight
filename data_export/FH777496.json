@@ -47,33 +47,37 @@
     },
     "analysis": {
         "keywords": [
-            "임호",
-            "민주당",
-            "출마",
-            "진천",
-            "선거",
             "충북",
-            "군수",
-            "충북도지사",
-            "베네수엘라",
-            "국제",
-            "질의",
-            "국정감사",
+            "선거",
+            "임호",
+            "더불어민주당",
+            "진천",
+            "출마",
             "식품",
-            "후보",
-            "재선"
+            "군수",
+            "도지사",
+            "베네수엘라",
+            "군사",
+            "작전",
+            "국정",
+            "감사",
+            "질의"
         ],
         "keyword_frequency": [
             {
+                "text": "충북",
+                "value": 18
+            },
+            {
+                "text": "선거",
+                "value": 15
+            },
+            {
                 "text": "임호",
-                "value": 33
+                "value": 12
             },
             {
-                "text": "민주당",
-                "value": 11
-            },
-            {
-                "text": "출마",
+                "text": "더불어민주당",
                 "value": 11
             },
             {
@@ -81,11 +85,11 @@
                 "value": 10
             },
             {
-                "text": "선거",
-                "value": 8
+                "text": "출마",
+                "value": 10
             },
             {
-                "text": "충북",
+                "text": "식품",
                 "value": 7
             },
             {
@@ -93,7 +97,7 @@
                 "value": 7
             },
             {
-                "text": "충북도지사",
+                "text": "도지사",
                 "value": 6
             },
             {
@@ -101,46 +105,42 @@
                 "value": 6
             },
             {
-                "text": "국제",
+                "text": "군사",
+                "value": 6
+            },
+            {
+                "text": "작전",
+                "value": 6
+            },
+            {
+                "text": "국정",
+                "value": 6
+            },
+            {
+                "text": "감사",
                 "value": 6
             },
             {
                 "text": "질의",
                 "value": 6
-            },
-            {
-                "text": "국정감사",
-                "value": 6
-            },
-            {
-                "text": "식품",
-                "value": 5
-            },
-            {
-                "text": "후보",
-                "value": 5
-            },
-            {
-                "text": "재선",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:30:00.753638",
+        "last_analyzed_at": "2026-01-18T13:56:38.229558",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
+                1,
                 0,
                 0,
-                1,
-                1,
+                0,
                 0,
                 0,
                 0
@@ -251,7 +251,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원(가나다순)",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -331,7 +331,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적 절차를 결여한 무력 사용이 국제평화와 안정을 심각하게 위협할 수 있다는 점에 깊은 우려를 표한다“는 성명을 냈다. 이인영·정태호... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -423,6 +423,86 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960adb8631fd1743497db5c",
+            "url": "https://www.youtube.com/watch?v=UCUNoTSi77tKCTenQx8gcHQQ",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": null,
+            "title": "임호선TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adb8631fd1743497db5d",
+            "url": "https://www.youtube.com/watch?v=C4sM4c69g_0",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 341.0,
+            "title": "[국정감사]임호선 의원, 경찰청 정책 질의2",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adb8631fd1743497db5e",
+            "url": "https://www.youtube.com/watch?v=TPiimGoC9is",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 530.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 임호선 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adb8631fd1743497db5f",
+            "url": "https://www.youtube.com/watch?v=z--_Inn_1pg",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 1364.0,
+            "title": "[풀영상] 국회의원 임호선 '형사소송법' 필리버스터",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adb8631fd1743497db60",
+            "url": "https://www.youtube.com/watch?v=2Y3kSbOiNhs",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 104.0,
+            "title": "[CCS종합뉴스]임호선 후보, 국회의원 재선 성공…축제 분위기",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adb8631fd1743497db61",
+            "url": "https://www.youtube.com/watch?v=s7PeO6I_4KQ",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 3524.0,
+            "title": "[ 1부 : 홍혜진의 국회야 뭐하니 | 2부 : 임호선 국회의원(더불어민주당) ] 구본상의 '허심탄회' | MBC충북 | 241128",
+            "upload_date": null
+        },
+        {
+            "_id": "696596d2887d07f7ba2fadea",
+            "url": "https://www.youtube.com/watch?v=y1W6BCKBkJo",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-14T10:23:04.721000",
+            "duration": 186.0,
+            "title": "[국정감사] 임호선 의원, 행정안전부 국가안전대진단의 '대진단'이 필요합니다.",
+            "upload_date": null
+        },
+        {
+            "_id": "696596d2887d07f7ba2fadeb",
+            "url": "https://www.youtube.com/watch?v=UNcMR_mv6AI",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-01-14T10:23:04.721000",
+            "duration": 361.0,
+            "title": "[국정감사]임호선 의원, 중앙선거관리위원회 질의",
+            "upload_date": null
+        },
+        {
             "_id": "696596d2887d07f7ba2fadec",
             "url": "https://www.youtube.com/watch?v=N9ZSMDe0xys",
             "HG_NM": "임호선",
@@ -443,85 +523,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960adb8631fd1743497db60",
-            "url": "https://www.youtube.com/watch?v=2Y3kSbOiNhs",
+            "_id": "6968b1e9297082fcc2b1910b",
+            "url": "https://www.youtube.com/watch?v=mJ6Z2jBHDj0",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-15T18:22:45.179000",
-            "duration": 104.0,
-            "title": "[CCS종합뉴스]임호선 후보, 국회의원 재선 성공…축제 분위기",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 1729.0,
+            "title": "[ 2부 : 임호선 국회의원 ] 구본상의 '허심탄회' | MBC충북 | 240306",
             "upload_date": null
         },
         {
-            "_id": "696596d2887d07f7ba2fadeb",
-            "url": "https://www.youtube.com/watch?v=UNcMR_mv6AI",
+            "_id": "696c5f51297082fcc2b19cff",
+            "url": "https://www.youtube.com/watch?v=xoyJZI_alfs",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-14T10:23:04.721000",
-            "duration": 361.0,
-            "title": "[국정감사]임호선 의원, 중앙선거관리위원회 질의",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adb8631fd1743497db61",
-            "url": "https://www.youtube.com/watch?v=s7PeO6I_4KQ",
-            "HG_NM": "임호선",
-            "MONA_CD": "FH777496",
-            "collected_at": "2026-01-15T18:22:45.179000",
-            "duration": 3524.0,
-            "title": "[ 1부 : 홍혜진의 국회야 뭐하니 | 2부 : 임호선 국회의원(더불어민주당) ] 구본상의 '허심탄회' | MBC충북 | 241128",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adb8631fd1743497db5f",
-            "url": "https://www.youtube.com/watch?v=z--_Inn_1pg",
-            "HG_NM": "임호선",
-            "MONA_CD": "FH777496",
-            "collected_at": "2026-01-15T18:22:45.179000",
-            "duration": 1364.0,
-            "title": "[풀영상] 국회의원 임호선 '형사소송법' 필리버스터",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adb8631fd1743497db5d",
-            "url": "https://www.youtube.com/watch?v=C4sM4c69g_0",
-            "HG_NM": "임호선",
-            "MONA_CD": "FH777496",
-            "collected_at": "2026-01-15T18:22:46.021000",
-            "duration": 341.0,
-            "title": "[국정감사]임호선 의원, 경찰청 정책 질의2",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adb8631fd1743497db5c",
-            "url": "https://www.youtube.com/watch?v=UCUNoTSi77tKCTenQx8gcHQQ",
-            "HG_NM": "임호선",
-            "MONA_CD": "FH777496",
-            "collected_at": "2026-01-15T18:22:45.179000",
-            "duration": null,
-            "title": "임호선TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adb8631fd1743497db5e",
-            "url": "https://www.youtube.com/watch?v=TPiimGoC9is",
-            "HG_NM": "임호선",
-            "MONA_CD": "FH777496",
-            "collected_at": "2026-01-15T18:22:45.179000",
-            "duration": 530.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 임호선 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "696596d2887d07f7ba2fadea",
-            "url": "https://www.youtube.com/watch?v=y1W6BCKBkJo",
-            "HG_NM": "임호선",
-            "MONA_CD": "FH777496",
-            "collected_at": "2026-01-14T10:23:04.721000",
-            "duration": 186.0,
-            "title": "[국정감사] 임호선 의원, 행정안전부 국가안전대진단의 '대진단'이 필요합니다.",
+            "collected_at": "2026-01-18T13:19:27.896000",
+            "duration": 631.0,
+            "title": "태희가간다ㅣ\"이게 허위가 아니면 뭐가 허위냐\"ㅣ임호선 국회의원",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:30:00.753638"
+    "exported_at": "2026-01-18T13:56:38.229648"
 }

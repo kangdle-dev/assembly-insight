@@ -48,52 +48,60 @@
     "analysis": {
         "keywords": [
             "광주",
-            "통합",
             "전남",
-            "민주당",
+            "통합",
             "행정",
+            "시장",
+            "수사",
             "기술",
-            "간담",
-            "기념",
-            "반도체",
+            "더불어민주당",
             "보완",
+            "간담회",
+            "반도체",
+            "복당",
             "강기정",
-            "촬영",
-            "자율",
-            "주행",
-            "산학"
+            "출판",
+            "기념회"
         ],
         "keyword_frequency": [
             {
                 "text": "광주",
-                "value": 24
-            },
-            {
-                "text": "통합",
-                "value": 19
+                "value": 47
             },
             {
                 "text": "전남",
-                "value": 18
+                "value": 39
             },
             {
-                "text": "민주당",
-                "value": 16
+                "text": "통합",
+                "value": 29
             },
             {
                 "text": "행정",
-                "value": 15
+                "value": 17
+            },
+            {
+                "text": "시장",
+                "value": 17
+            },
+            {
+                "text": "수사",
+                "value": 14
             },
             {
                 "text": "기술",
+                "value": 14
+            },
+            {
+                "text": "더불어민주당",
                 "value": 13
             },
             {
-                "text": "간담",
+                "text": "보완",
                 "value": 12
             },
             {
-                "text": "기념",
+                "text": "간담회",
                 "value": 12
             },
             {
@@ -101,53 +109,85 @@
                 "value": 12
             },
             {
-                "text": "보완",
-                "value": 10
+                "text": "복당",
+                "value": 12
             },
             {
                 "text": "강기정",
+                "value": 11
+            },
+            {
+                "text": "출판",
                 "value": 10
             },
             {
-                "text": "촬영",
-                "value": 9
-            },
-            {
-                "text": "자율",
-                "value": 9
-            },
-            {
-                "text": "주행",
-                "value": 9
-            },
-            {
-                "text": "산학",
-                "value": 9
+                "text": "기념회",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-15T18:29:43.218644",
+        "last_analyzed_at": "2026-01-18T13:56:18.806002",
         "trend_news": {
             "labels": [
-                "01-09",
-                "01-10",
-                "01-11",
                 "01-12",
                 "01-13",
                 "01-14",
-                "01-15"
+                "01-15",
+                "01-16",
+                "01-17",
+                "01-18"
             ],
             "data": [
-                0,
-                0,
-                2,
                 2,
                 11,
                 0,
-                5
+                5,
+                0,
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "696c5bfd297082fcc2b19ba9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008719936?sid=102",
+            "created_at": "2026-01-18T13:05:17.542000",
+            "description": "북구갑) 국회의원 등 행정통합을 앞두고 광주·전남특별시장 출마 후보군들도 대거 참석했다. 이개호 의원은... 연수갑) 의원과 문정복 최고위원(시흥갑), 전용기 의언, 양부남 광주시당위원장(광주 서구을), 조인철 의원... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6042401",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T09:16:00",
+            "related_members": [
+                "BT62420K",
+                "7R156073",
+                "GOC54665",
+                "I7R13867",
+                "VRY5522V",
+                "IC499858",
+                "80C5885Z",
+                "EB16073M",
+                "IWR8966I",
+                "QUR40502",
+                "7YC6702R",
+                "9HE7226N",
+                "TJW93720",
+                "CK143054",
+                "ZKB18611"
+            ],
+            "title": "이정선 광주교육감 출판기념회…\"단 한 명의 아이도 포기 않는다\""
+        },
+        {
+            "_id": "696c5bfe297082fcc2b19baa",
+            "link": "https://n.news.naver.com/mnews/article/421/0008719287?sid=102",
+            "created_at": "2026-01-18T13:05:18.511000",
+            "description": "유력 광주시장 후보로 광주전남특별시장 도전이 예상되는 민형배 더불어민주당 국회의원(광주 광산을)도 같은 날 오후 3시 광주 조선대학교 E스포츠경기장에서 출판기념회로 맞불을 놓는다. 민 의원은 '길은 있다-젊은... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6041857",
+            "press": "뉴스1",
+            "pubDate": "2026-01-17T06:05:00",
+            "related_members": [
+                "VRY5522V"
+            ],
+            "title": "주말 광주·전남 지방선거 출마자들 대거 출판기념회"
+        },
         {
             "_id": "6968ad89297082fcc2b18cea",
             "link": "https://n.news.naver.com/mnews/article/032/0003421820?sid=100",
@@ -258,7 +298,7 @@
             "_id": "6968ad88297082fcc2b18ce0",
             "link": "https://n.news.naver.com/mnews/article/079/0004105281?sid=102",
             "created_at": "2026-01-15T18:04:05.049000",
-            "description": "간담회에는 김영록 전남도지사와 강기정 광주광역시장, 김원이 국회의원(전남도당위원장), 양부남 국회의원(광주시당위원장) 박지원, 신정훈, 이개호, 서삼석, 주철현, 조계원, 문금주, 권향엽, 김문수, 민형배, 조인철... ",
+            "description": "민형배, 조인철, 정진욱, 안도걸, 박균택, 전진숙, 정준호 등 광주·전남 지역 국회의원이 대거 참석해 행정통합의 방향성과 함께 특별법의 주요 내용, 쟁점 사항에 의견을 나눴다. 전남도와 광주시가 함께 마련한 이번... ",
             "originallink": "https://www.nocutnews.co.kr/news/6456517?utm_source=naver&utm_medium=article&utm_campaign=20260115024504",
             "press": "노컷뉴스",
             "pubDate": "2026-01-15T09:17:00",
@@ -288,7 +328,7 @@
             "_id": "6966ec7f887d07f7ba2fb2c8",
             "link": "https://n.news.naver.com/mnews/article/005/0001825967?sid=100",
             "created_at": "2026-01-14T10:08:16.261000",
-            "description": "국회 법제사법위원장인 추미애 민주당 의원은 이날 국회도서관에서 열린 검찰개혁 긴급토론회에서 “보완수사권 내지 보완수사 요구권 그 어떤 명분으로도 수사권을 검찰에 쥐어주는 일은 있어선 안된다”고 강조했다.... ",
+            "description": "민주당 의원은 이날 국회도서관에서 열린 검찰개혁 긴급토론회에서 “보완수사권 내지 보완수사 요구권 그 어떤 명분으로도 수사권을 검찰에 쥐어주는 일은 있어선 안된다”고 강조했다. 한병도·박주민·김용민·민형배... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029245724&code=61111511&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-13T21:30:00",
@@ -321,6 +361,19 @@
             "title": "與강경파 반발에…李 \"檢개혁·보완수사권, 당 의견 수렴을\""
         },
         {
+            "_id": "6966ec89887d07f7ba2fb2d9",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708044?sid=100",
+            "created_at": "2026-01-14T10:08:26.361000",
+            "description": "민형배 더불어민주당 의원과 참석자들이 13일 서울 여의도 국회 의원회관에서 열린 자율주행기술 관련 산·학·연 간담회에서 기념촬영을 하고 있다. 2026.01.07. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260113_0021125302",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T15:20:00",
+            "related_members": [
+                "VRY5522V"
+            ],
+            "title": "기념촬영하는 참석자들"
+        },
+        {
             "_id": "6966ec8a887d07f7ba2fb2db",
             "link": "https://n.news.naver.com/mnews/article/003/0013708043?sid=100",
             "created_at": "2026-01-14T10:08:26.361000",
@@ -347,24 +400,11 @@
             "title": "기념촬영을 마치고"
         },
         {
-            "_id": "6966ec89887d07f7ba2fb2d9",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708044?sid=100",
-            "created_at": "2026-01-14T10:08:26.361000",
-            "description": "민형배 더불어민주당 의원과 참석자들이 13일 서울 여의도 국회 의원회관에서 열린 자율주행기술 관련 산·학·연 간담회에서 기념촬영을 하고 있다. 2026.01.07. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260113_0021125302",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T15:20:00",
-            "related_members": [
-                "VRY5522V"
-            ],
-            "title": "기념촬영하는 참석자들"
-        },
-        {
-            "_id": "6966ec89887d07f7ba2fb2d8",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708045?sid=100",
+            "_id": "6966ec89887d07f7ba2fb2da",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708046?sid=100",
             "created_at": "2026-01-14T10:08:26.361000",
             "description": "민형배 더불어민주당 의원이 13일 서울 여의도 국회 의원회관에서 열린 자율주행기술 관련 산·학·연 간담회에서 인사말을 하고 있다. 2026.01.07. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260113_0021125298",
+            "originallink": "https://www.newsis.com/view/NISI20260113_0021125299",
             "press": "뉴시스",
             "pubDate": "2026-01-13T15:20:00",
             "related_members": [
@@ -373,11 +413,11 @@
             "title": "자율주행기술 산·학·연 간담회"
         },
         {
-            "_id": "6966ec89887d07f7ba2fb2da",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708046?sid=100",
+            "_id": "6966ec89887d07f7ba2fb2d8",
+            "link": "https://n.news.naver.com/mnews/article/003/0013708045?sid=100",
             "created_at": "2026-01-14T10:08:26.361000",
             "description": "민형배 더불어민주당 의원이 13일 서울 여의도 국회 의원회관에서 열린 자율주행기술 관련 산·학·연 간담회에서 인사말을 하고 있다. 2026.01.07. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260113_0021125299",
+            "originallink": "https://www.newsis.com/view/NISI20260113_0021125298",
             "press": "뉴시스",
             "pubDate": "2026-01-13T15:20:00",
             "related_members": [
@@ -514,27 +554,174 @@
                 "VRY5522V"
             ],
             "title": "민형배, 광주·전남 행정통합 시민대토론회 발언"
+        },
+        {
+            "_id": "6964b559631fd174349961e9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008706623?sid=102",
+            "created_at": "2026-01-12T17:48:23.050000",
+            "description": "광주시장 후보군인 강기정 시장, 민형배 국회의원(광주 광산을), 정준호 국회의원(광주 북구갑), 이병훈 호남발전특별위원회 수석부위원장 등이 참석했다. 북구청장 후보인 신수정 광주시의회 의장도 오 전 국장 바로... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6034850",
+            "press": "뉴스1",
+            "pubDate": "2026-01-10T20:46:00",
+            "related_members": [
+                "VRY5522V",
+                "IC499858",
+                "CK143054"
+            ],
+            "title": "'광주교육감 후보 홍일점' 오경미 출판기념회…시장 후보들 운집"
+        },
+        {
+            "_id": "6964b559631fd174349961ea",
+            "link": "https://n.news.naver.com/mnews/article/421/0008706229?sid=102",
+            "created_at": "2026-01-12T17:48:23.050000",
+            "description": "이재명 대통령은 지난 9일 광주시장과 전남지사, 지역 국회의원 18명을 초청한 오찬간담회를 통해 광주·전남... 전남은 김영록 전남지사, 신정훈 의원(나주·화순), 이개호 의원(담양·함평·영광·장성), 주철현 의원(여수갑)... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6034332",
+            "press": "뉴스1",
+            "pubDate": "2026-01-10T08:05:00",
+            "related_members": [
+                "VRY5522V",
+                "I7R13867",
+                "T465023H",
+                "M7O7878U",
+                "IC499858"
+            ],
+            "title": "'전국 1호' 통합단체장은?…광주·전남 與 후보군 9명 '새판 짜기'"
+        },
+        {
+            "_id": "6964b575631fd17434996384",
+            "link": "https://n.news.naver.com/mnews/article/003/0013702453?sid=102",
+            "created_at": "2026-01-12T17:48:50.913000",
+            "description": "9일 지역 정·관가에 따르면 이재명 대통령은 이날 광주시장과 전남지사, 지역구 국회의원들이 참석한... 진보당 이종욱 민주노총 광주본부장 등이고, 조국혁신당은 '염두에 둔 후보'가 있는 것으로 알려지고 있다.... ",
+            "originallink": "https://www.newsis.com/view/NISX20260109_0003471866",
+            "press": "뉴시스",
+            "pubDate": "2026-01-09T19:03:00",
+            "related_members": [
+                "I7R13867",
+                "T465023H",
+                "M7O7878U",
+                "NLS46526",
+                "VRY5522V",
+                "IC499858"
+            ],
+            "title": "광주·전남 40년 만에 통합단체장 성큼…6·3 선거판 '요동'"
+        },
+        {
+            "_id": "6964b575631fd17434996385",
+            "link": "https://n.news.naver.com/mnews/article/032/0003420530?sid=102",
+            "created_at": "2026-01-12T17:48:50.913000",
+            "description": "이 대통령과 지역 국회의원, 강기정 광주시장, 김영록 전남지사는 9일 청와대에서 가진 오찬 회동에서 6월... 전남에서는 이개호(담양·함평·영광·장성)·신정훈(나주·화순)·주철현(여수갑) 의원 등이 자천타천 물망에... ",
+            "originallink": "https://www.khan.co.kr/article/202601091752001",
+            "press": "경향신문",
+            "pubDate": "2026-01-09T17:52:00",
+            "related_members": [
+                "I7R13867",
+                "T465023H",
+                "M7O7878U",
+                "VRY5522V",
+                "IC499858"
+            ],
+            "title": "광주·전남 통합 논의 속도···6·3 지방선거에 ‘통합단체장’ 등장하..."
+        },
+        {
+            "_id": "6964b54f631fd1743499611e",
+            "link": "https://n.news.naver.com/mnews/article/022/0004096309?sid=102",
+            "created_at": "2026-01-12T17:48:12.656000",
+            "description": "전날 더불어민주당 등 범여권 의원들로 구성된 ‘바람직한 검찰개혁을 준비하는 의원 모임’은 국회에서... 민주당 김용민·박주민·한병도·민형배 의원 등 26명, 조국혁신당 박은정·황운하 의원, 진보당 정혜경 의원... ",
+            "originallink": "https://www.segye.com/newsView/20260109504996?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-09T09:58:00",
+            "related_members": [
+                "0YT3774N",
+                "6AU2417B",
+                "BNV6535N",
+                "VRY5522V",
+                "OFE45081",
+                "H5476989",
+                "1A82234K",
+                "GE71932C",
+                "T4I4862D",
+                "CC78321E"
+            ],
+            "title": "檢개혁추진단 “‘공소청 검사 보완수사권 허용’, 사실 아냐…법안 아..."
+        },
+        {
+            "_id": "6964b545631fd17434996053",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
+            "created_at": "2026-01-12T17:48:02.626000",
+            "description": "그렇다면 국회 쪽으로 생각들을 많이 하시는 것 같은데요. ◆ 차규근 : 한번 지켜봐 주시죠. ◇ 김준우 : 알겠습니다. 혹시 황운하 의원도 세종시장 출마할 수 있다 이렇게 던지시는 것 같던데요. ◆ 차규근 : 그저께 출마... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-08T20:30:00",
+            "related_members": [
+                "C7E79345",
+                "KNP22261",
+                "OFE45081",
+                "CCU1009B",
+                "N2P9317N",
+                "VRY5522V",
+                "X639721U",
+                "XG348314",
+                "0YT3774N"
+            ],
+            "title": "조국당, 이병진·신영대 당선 무효에 \"민주, 해당 지역구에 무공천 해야..."
+        },
+        {
+            "_id": "6964b545631fd17434996054",
+            "link": "https://n.news.naver.com/mnews/article/052/0002298138?sid=100",
+            "created_at": "2026-01-12T17:48:02.626000",
+            "description": "그렇다면 국회 쪽으로 생각들을 많이 하시는 것 같은데요. ◆ 차규근 : 한번 지켜봐 주시죠. ◇ 김준우 : 알겠습니다. 혹시 황운하 의원도 세종시장 출마할 수 있다 이렇게 던지시는 것 같던데요. ◆ 차규근 : 그저께 출마... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601081915439463",
+            "press": "YTN",
+            "pubDate": "2026-01-08T19:15:00",
+            "related_members": [
+                "C7E79345",
+                "KNP22261",
+                "OFE45081",
+                "CCU1009B",
+                "N2P9317N",
+                "VRY5522V",
+                "X639721U",
+                "XG348314",
+                "0YT3774N"
+            ],
+            "title": "조국당, 이병진·신영대 당선 무효에 \"민주, 해당 지역구에 무공천 해야..."
+        },
+        {
+            "_id": "6964b543631fd17434996022",
+            "link": "https://n.news.naver.com/mnews/article/003/0013696268?sid=100",
+            "created_at": "2026-01-12T17:48:00.596000",
+            "description": "3 내란 1년 이후, 정국의 현안과 과제(의원회관 제2소회의실) 13:30 민형배 의원실 등, 첨단 광기술과 미래 혁신 국회 토론회(의원회관 신관 제1세미나실) 14:00 고민정 의원실, 학교폭력 대책, 올바른 방향은?: 2026... ",
+            "originallink": "https://www.newsis.com/view/NISX20260106_0003467556",
+            "press": "뉴시스",
+            "pubDate": "2026-01-07T05:00:00",
+            "related_members": [
+                "WCD5518S",
+                "VRY5522V",
+                "NPD75153",
+                "BNV6535N"
+            ],
+            "title": "[오늘의 주요일정]국회(1월7일 수요일)"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6960ac6e631fd1743497d66a",
-            "url": "https://www.youtube.com/watch?v=cuj1W4bCKRk",
+            "_id": "6965959a887d07f7ba2fac6f",
+            "url": "https://www.youtube.com/watch?v=dvDtv3w03l8",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-15T18:16:55.459000",
-            "duration": 445.0,
-            "title": "CMB국회24시 민형배 국회의원편 PART.3",
+            "collected_at": "2026-01-13T09:45:12.263000",
+            "duration": 582.0,
+            "title": "‘암컷 발언 논란’이 음모론?…“김용민·민형배 공격하기 위한 것” | 뉴스A 라이브",
             "upload_date": null
         },
         {
-            "_id": "6960ac6e631fd1743497d66b",
-            "url": "https://www.youtube.com/watch?v=IvADkFPXpFE",
+            "_id": "6960ac6e631fd1743497d66c",
+            "url": "https://www.youtube.com/watch?v=tzuaM4AC2Ks",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-15T18:16:55.459000",
-            "duration": 509.0,
-            "title": "CMB 국회 24시 민형배 의원편 PART.2",
+            "collected_at": "2026-01-15T18:16:56.231000",
+            "duration": 1165.0,
+            "title": "[연합뉴스TV] 1번지현장 - 민형배 민주 인사청문TF 단장, \"한덕수 낙마 가능성…왜?\"",
             "upload_date": null
         },
         {
@@ -542,9 +729,99 @@
             "url": "https://www.youtube.com/watch?v=2mgRNoZzS8E",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-15T18:16:55.459000",
+            "collected_at": "2026-01-18T13:13:05.955000",
             "duration": 157.0,
             "title": "CMB 국회 24시 민형배 국회의원편 PART.1",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959a887d07f7ba2fac6d",
+            "url": "https://www.youtube.com/watch?v=dpZ4-ppL40c",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-13T09:45:12.263000",
+            "duration": 62.0,
+            "title": "민형배의 작심발언 \"조국 사면해야 내란 끝난다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d66e",
+            "url": "https://www.youtube.com/watch?v=IQn7iLxQIeM",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-18T13:13:07.013000",
+            "duration": 143.0,
+            "title": "‘꼼수 탈당’ 민형배 민주당 복당…“뻔뻔한 귀가” [9시 뉴스] / KBS  2023.04.26.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d66a",
+            "url": "https://www.youtube.com/watch?v=cuj1W4bCKRk",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-18T13:13:05.955000",
+            "duration": 445.0,
+            "title": "CMB국회24시 민형배 국회의원편 PART.3",
+            "upload_date": null
+        },
+        {
+            "_id": "6966eeb3887d07f7ba2fb405",
+            "url": "https://www.youtube.com/watch?v=b02mcturM_8",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-18T13:13:07.013000",
+            "duration": 510.0,
+            "title": "민형배 행보 놓고 갈린 野…“복당” vs “사과” | 뉴스A 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d663",
+            "url": "https://www.youtube.com/watch?v=zD5Ckz3K5jw",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-18T13:13:05.955000",
+            "duration": 510.0,
+            "title": "[이슈대담] 탈당 1년 만에 복당, 민형배 의원에게 듣는다 / KBS  2023.05.02.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d66d",
+            "url": "https://www.youtube.com/watch?v=Cbdh8K94jaI",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-09T16:21:15.516000",
+            "duration": 440.0,
+            "title": "[인터뷰] 민형배 \"검찰 개혁은 '국민의 명령'…'추석 전' 입법 마무리 충분히 가능\" / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d667",
+            "url": "https://www.youtube.com/watch?v=HIpsS0Sx2mE",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-18T13:13:05.955000",
+            "duration": 581.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 민형배 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959a887d07f7ba2fac6c",
+            "url": "https://www.youtube.com/watch?v=1_SPgReSkfA",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-13T09:45:11.627000",
+            "duration": 1460.0,
+            "title": "[국회TV] 국회의원 25시 '광주 광산구을 민형배 의원 편'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d66f",
+            "url": "https://www.youtube.com/watch?v=TcRaHs898oQ",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-15T18:16:56.231000",
+            "duration": 148.0,
+            "title": "'꼼수 탈당 논란' 민형배 복당…국힘 \"뻔뻔한 귀가\" [MBN 뉴스7]",
             "upload_date": null
         },
         {
@@ -558,13 +835,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac6e631fd1743497d667",
-            "url": "https://www.youtube.com/watch?v=HIpsS0Sx2mE",
+            "_id": "6965959a887d07f7ba2fac6e",
+            "url": "https://www.youtube.com/watch?v=gdqYq2s-TcE",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-15T18:16:55.459000",
-            "duration": 581.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 민형배 의원(더불어민주당)",
+            "collected_at": "2026-01-13T09:45:12.263000",
+            "duration": 455.0,
+            "title": "[시사쇼 정치다] 우상호, '임은정·민형배' 콕 집어 경고···\"논쟁하랬더니 싸움 걸어\"",
             "upload_date": null
         },
         {
@@ -572,19 +849,19 @@
             "url": "https://www.youtube.com/watch?v=d2WEYKcj5PU",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-15T18:16:55.459000",
+            "collected_at": "2026-01-18T13:13:05.955000",
             "duration": 161.0,
             "title": "민형배 국회의원, 더불어 민주당 차기 대선후보로 \"이재명 지지\"",
             "upload_date": null
         },
         {
-            "_id": "6960ac6e631fd1743497d663",
-            "url": "https://www.youtube.com/watch?v=zD5Ckz3K5jw",
+            "_id": "6960ac6e631fd1743497d66b",
+            "url": "https://www.youtube.com/watch?v=IvADkFPXpFE",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
             "collected_at": "2026-01-15T18:16:55.459000",
-            "duration": 510.0,
-            "title": "[이슈대담] 탈당 1년 만에 복당, 민형배 의원에게 듣는다 / KBS  2023.05.02.",
+            "duration": 509.0,
+            "title": "CMB 국회 24시 민형배 의원편 PART.2",
             "upload_date": null
         },
         {
@@ -592,7 +869,7 @@
             "url": "https://www.youtube.com/watch?v=UC1M1iWQhaGvAoVuKDEPrJTQ",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-15T18:16:55.459000",
+            "collected_at": "2026-01-18T13:13:05.955000",
             "duration": null,
             "title": "민형배TV",
             "upload_date": null
@@ -616,7 +893,17 @@
             "duration": 1319.0,
             "title": "[CMB스페셜] 민형배 광산을 제22대 국회의원 당선인",
             "upload_date": null
+        },
+        {
+            "_id": "6960ac6e631fd1743497d670",
+            "url": "https://www.youtube.com/watch?v=iYl51wfV-WU",
+            "HG_NM": "민형배",
+            "MONA_CD": "VRY5522V",
+            "collected_at": "2026-01-09T16:21:15.516000",
+            "duration": 127.0,
+            "title": "민형배, 1년만에 민주당 복당…여·정의 \"꼼수탈당 사죄해야\" / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-15T18:29:43.218644"
+    "exported_at": "2026-01-18T13:56:18.806150"
 }
