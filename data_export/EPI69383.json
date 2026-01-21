@@ -44,19 +44,19 @@
         "keywords": [
             "국민",
             "모임",
-            "계엄",
             "사과",
+            "계엄",
+            "대표",
             "대안",
             "재선",
-            "대표",
             "이상",
             "공천",
             "민심",
+            "반영",
+            "한국",
             "미래",
             "회관",
-            "대통령",
-            "한국",
-            "디지털"
+            "대통령"
         ],
         "keyword_frequency": [
             {
@@ -68,11 +68,15 @@
                 "value": 11
             },
             {
+                "text": "사과",
+                "value": 11
+            },
+            {
                 "text": "계엄",
                 "value": 11
             },
             {
-                "text": "사과",
+                "text": "대표",
                 "value": 10
             },
             {
@@ -81,10 +85,6 @@
             },
             {
                 "text": "재선",
-                "value": 9
-            },
-            {
-                "text": "대표",
                 "value": 9
             },
             {
@@ -100,6 +100,14 @@
                 "value": 8
             },
             {
+                "text": "반영",
+                "value": 8
+            },
+            {
+                "text": "한국",
+                "value": 7
+            },
+            {
                 "text": "미래",
                 "value": 7
             },
@@ -110,39 +118,45 @@
             {
                 "text": "대통령",
                 "value": 7
-            },
-            {
-                "text": "한국",
-                "value": 6
-            },
-            {
-                "text": "디지털",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:13.425511",
+        "last_analyzed_at": "2026-01-21T10:09:11.020027",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                0,
-                3,
-                0,
                 1,
                 0,
+                0,
+                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701239297082fcc2b34c84",
+            "link": "https://n.news.naver.com/mnews/article/016/0002588421?sid=101",
+            "created_at": "2026-01-21T08:39:36.268000",
+            "description": "[법인보험대리점협회 제공] [헤럴드경제=박성준 기자] 한국보험대리점협회(보험GA협회)가 올해 ‘보험금... 그러면서 “유수 법무법인과 법안 초안을 만들었고, 관심 있는 국회의원들과 논의 중”이라고 강조했다.... ",
+            "originallink": "https://biz.heraldcorp.com/article/10659187?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-20T14:56:00",
+            "related_members": [
+                "EPI69383",
+                "IL74008M"
+            ],
+            "title": "설계사 33만·매출 18조 성장한 GA…“고객 보험금 제때 받게 도울 것”"
+        },
         {
             "_id": "696c5bf3297082fcc2b19b94",
             "link": "https://n.news.naver.com/mnews/article/421/0008718393?sid=102",
@@ -274,7 +288,7 @@
             "_id": "6964b542631fd17434996010",
             "link": "https://n.news.naver.com/mnews/article/028/0002785213?sid=102",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "노동자들은 세종·대전·청주·공주에 사는 지역민이고, 이들이 거주하는 곳의 지역구 국회의원은 1명 빼곤... 이날 충남지노위 앞에서 열린 기자회견에서 김용태 지회장은 “지엠부품물류 노동자들은 일이 없어 해고된... ",
+            "description": "노동자들은 세종·대전·청주·공주에 사는 지역민이고, 이들이 거주하는 곳의 지역구 국회의원은 1명 빼곤... 금속노조 대전충북지부 관계자는 “지난 12월 중순께 강준현(세종을) 의원만 한번 현장에 다녀갔고, 이후 강... ",
             "originallink": "https://www.hani.co.kr/arti/area/chungcheong/1238496.html",
             "press": "한겨레",
             "pubDate": "2026-01-07T16:44:00",
@@ -288,7 +302,7 @@
             "_id": "6964b544631fd17434996039",
             "link": "https://n.news.naver.com/mnews/article/056/0012100234?sid=100",
             "created_at": "2026-01-12T17:48:01.731000",
-            "description": "2024년 12월 3일 밤 저를 포함한 국민의힘 국회의원 18명이 비상계엄 해제 표결에 참석했습니다. 해제 표결... 친한계로 분류되는 국민의힘 우재준 의원 역시 \"장동혁 대표님의 한 걸음을 응원하며 앞으로도 우리 당 모두 함께... ",
+            "description": "2024년 12월 3일 밤 저를 포함한 국민의힘 국회의원 18명이 비상계엄 해제 표결에 참석했습니다. 해제 표결... 다음 사과는 지난해 1월, 국민의힘 권성동 당시 원내대표가 직접 나섰습니다. 권 전 원내대표는 관훈클럽 창립... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452672&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-07T15:51:00",
@@ -616,7 +630,7 @@
             "url": "https://www.youtube.com/watch?v=UCYcr6XoZ5-CBBDdQFtq687g",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-18T13:11:27.841000",
+            "collected_at": "2026-01-21T08:43:08.067000",
             "duration": null,
             "title": "김용태TV",
             "upload_date": null
@@ -636,7 +650,7 @@
             "url": "https://www.youtube.com/watch?v=3W5w7l3SHDE",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-18T13:11:28.888000",
+            "collected_at": "2026-01-21T08:43:08.807000",
             "duration": 1277.0,
             "title": "[뉴스직격]김용태 의원 인터뷰/윤어게인 포퓰리즘 그만/장대표 계엄사과 했어야/탄핵 후에도 윤석열에 종속된 꼴",
             "upload_date": null
@@ -646,7 +660,7 @@
             "url": "https://www.youtube.com/watch?v=xIJZ_691nQ8",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-18T13:11:28.888000",
+            "collected_at": "2026-01-21T08:43:08.067000",
             "duration": 241.0,
             "title": "김용태, 이주영의 '헤어게이트'..누가 머리에 정치자금을 썼나?",
             "upload_date": null
@@ -656,7 +670,7 @@
             "url": "https://www.youtube.com/watch?v=OAsseHMom7A",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-18T13:11:27.841000",
+            "collected_at": "2026-01-21T08:43:08.067000",
             "duration": 105.0,
             "title": "김용태 의원에게 계엄 당일 추경호 행적 의문 제기하자 \"이 방송에서 이야기 다 해, 특검 가서 할 이야기 없어\"",
             "upload_date": null
@@ -706,11 +720,21 @@
             "url": "https://www.youtube.com/watch?v=Ceb8JsjmJHA",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-15T18:15:27.045000",
+            "collected_at": "2026-01-21T08:43:08.067000",
             "duration": 513.0,
             "title": "국힘 막내 삐약이 김용태 의원의 달콤살벌 모두까기(?) 진실 토크 | 국집소 | 국회방송",
             "upload_date": null
+        },
+        {
+            "_id": "6970130e297082fcc2b34de3",
+            "url": "https://www.youtube.com/watch?v=cLwDw7vS684",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-21T08:43:08.807000",
+            "duration": 96.0,
+            "title": "[빠른뉴스 쨉] 현장영상) 김용태 \"학폭자는 반영되는데 소년범은 아직?\" #shorts",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:13.425626"
+    "exported_at": "2026-01-21T10:09:11.021027"
 }

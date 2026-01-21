@@ -50,43 +50,47 @@
             "서영",
             "부천",
             "국민",
-            "시장",
-            "더불어민주당",
             "부천시",
+            "시장",
+            "서명",
+            "더불어민주당",
             "논란",
             "비타민",
+            "전달",
             "시민",
             "병원",
-            "이음",
-            "열차",
-            "지원",
-            "베네수엘라",
-            "군사"
+            "막장",
+            "유튜버",
+            "촉구"
         ],
         "keyword_frequency": [
             {
                 "text": "서영",
-                "value": 37
+                "value": 39
             },
             {
                 "text": "부천",
-                "value": 11
+                "value": 14
             },
             {
                 "text": "국민",
                 "value": 11
             },
             {
+                "text": "부천시",
+                "value": 10
+            },
+            {
                 "text": "시장",
                 "value": 10
             },
             {
-                "text": "더불어민주당",
+                "text": "서명",
                 "value": 9
             },
             {
-                "text": "부천시",
-                "value": 8
+                "text": "더불어민주당",
+                "value": 9
             },
             {
                 "text": "논란",
@@ -97,6 +101,10 @@
                 "value": 8
             },
             {
+                "text": "전달",
+                "value": 7
+            },
+            {
                 "text": "시민",
                 "value": 7
             },
@@ -105,40 +113,32 @@
                 "value": 7
             },
             {
-                "text": "이음",
+                "text": "막장",
                 "value": 6
             },
             {
-                "text": "열차",
+                "text": "유튜버",
                 "value": 6
             },
             {
-                "text": "지원",
-                "value": 6
-            },
-            {
-                "text": "베네수엘라",
-                "value": 6
-            },
-            {
-                "text": "군사",
+                "text": "촉구",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:25.279516",
+        "last_analyzed_at": "2026-01-21T10:09:22.395014",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                1,
-                1,
+                0,
+                3,
                 0,
                 0,
                 3,
@@ -148,6 +148,47 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "69701251297082fcc2b34ce8",
+            "link": "https://n.news.naver.com/mnews/article/421/0008721351?sid=105",
+            "created_at": "2026-01-21T08:40:00.240000",
+            "description": "이두희 국방부 차관은 지난해 11월 한지아 의원 안이 국회 국방위 법안소위에 오른 데에 대해 \"특정 역종, 직종의 문제가 아니라 장교 복무기간에 대해 전반적 검토가 필요하다는 생각을 가진 채 연구, 고민 중\"이라며... ",
+            "originallink": "https://www.news1.kr/bio/welfare-medical/6043279",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T10:53:00",
+            "related_members": [
+                "XR24352K",
+                "DAY6557K",
+                "Q918403D"
+            ],
+            "title": "공보의 복무기간 줄일 수 있나…\"의대증원 논의가 먼저\" 반론도"
+        },
+        {
+            "_id": "69701251297082fcc2b34ce9",
+            "link": "https://n.news.naver.com/mnews/article/015/0005238784?sid=102",
+            "created_at": "2026-01-21T08:40:00.240000",
+            "description": "앞서 부천 지역구 국회의원들은 지난해 11월 유튜버와 BJ의 막장 행위를 막기 위한 형법 개정안을 발의했다. 서영석 의원(부천시 갑)은 기존 형법 제116조의 3 제목 '흉기 소지'를 '흉기소지, 불안감 조성 등'으로 확대... ",
+            "originallink": "https://www.hankyung.com/article/2026011978767",
+            "press": "한국경제",
+            "pubDate": "2026-01-19T07:42:00",
+            "related_members": [
+                "XR24352K"
+            ],
+            "title": "욕설·성행위…부천역 막장 방송 유튜버·BJ 제재 입법 촉구, 2만명 서명"
+        },
+        {
+            "_id": "69701251297082fcc2b34cea",
+            "link": "https://n.news.naver.com/mnews/article/421/0008720702?sid=102",
+            "created_at": "2026-01-21T08:40:00.240000",
+            "description": "앞서 부천 지역구 국회의원들은 지난해 11월 유튜버와 BJ의 막장 행위를 막기 위한 형법 개정안을 발의했다. 서영석 의원(부천시 갑)은 기존 형법 제116조의 3 제목 '흉기 소지'를 '흉기소지, 불안감 조성 등'으로 확대... ",
+            "originallink": "https://www.news1.kr/local/incheon/6042594",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T07:15:00",
+            "related_members": [
+                "XR24352K"
+            ],
+            "title": "'막장 유튜버·BJ 제재' 입법 촉구…2만명 서명부 국회 전달"
+        },
         {
             "_id": "696c5be9297082fcc2b19b76",
             "link": "https://n.news.naver.com/mnews/article/382/0001248636?sid=102",
@@ -240,7 +281,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -320,7 +361,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -491,7 +532,7 @@
             "url": "https://www.youtube.com/watch?v=UCkc1DRJ4pJUz-uQVSSZU5iw",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-18T13:15:14.424000",
+            "collected_at": "2026-01-21T08:46:20.820000",
             "duration": null,
             "title": "서영석TV",
             "upload_date": null
@@ -501,7 +542,7 @@
             "url": "https://www.youtube.com/watch?v=wlDUx76bMlA",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-18T13:15:14.424000",
+            "collected_at": "2026-01-21T08:46:20.820000",
             "duration": 134.0,
             "title": "당 경선에서 현역 의원도 전 시장도 꺾은 서영석, 파란만큼 논란도 많다?",
             "upload_date": null
@@ -511,7 +552,7 @@
             "url": "https://www.youtube.com/watch?v=kGB7-4toS9o",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-15T18:18:50.340000",
+            "collected_at": "2026-01-21T08:46:20.820000",
             "duration": 60.0,
             "title": "'더' 내고 '덜' 받는 연금개혁안? #더불어민주당 #국회의원 #서영석 #부천시갑 #국민의힘 #국민연금공단 #국정감사 #보건복지위원회 #연금개혁",
             "upload_date": null
@@ -531,7 +572,7 @@
             "url": "https://www.youtube.com/watch?v=iSBcPa_utcY",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-15T18:18:51.165000",
+            "collected_at": "2026-01-21T08:46:21.555000",
             "duration": 165.0,
             "title": "쌍방울 대북송금 사건=술파티로 진술 회유한 윤석열 정치검찰의 조작 수사, 실체 밝혀야! #국회 #기자회견 #서영석 #부천시갑 #더불어민주당 #김광민 #이화영 #쌍방울 #이재명",
             "upload_date": null
@@ -541,7 +582,7 @@
             "url": "https://www.youtube.com/watch?v=Mx3yWz56iBo",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-18T13:15:15.620000",
+            "collected_at": "2026-01-21T08:46:21.555000",
             "duration": 116.0,
             "title": "금주령 내린 날 술자리…민주당 서영석 “자숙하겠다” | 뉴스A",
             "upload_date": null
@@ -551,7 +592,7 @@
             "url": "https://www.youtube.com/watch?v=6SLrw2rHTjM",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-18T13:15:15.620000",
+            "collected_at": "2026-01-21T08:46:21.555000",
             "duration": 115.0,
             "title": "서영석, 논란 일자 사과문…“반성하고 자숙하겠다” | 뉴스A 라이브",
             "upload_date": null
@@ -561,7 +602,7 @@
             "url": "https://www.youtube.com/watch?v=yqSthcGPtWA",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-18T13:15:15.620000",
+            "collected_at": "2026-01-21T08:46:21.555000",
             "duration": 104.0,
             "title": "[자막뉴스] 이상민은 발언 해명 서영석은 술자리 논란 사과ㅣ이슈픽",
             "upload_date": null
@@ -611,7 +652,7 @@
             "url": "https://www.youtube.com/watch?v=f-6NUBZDu6g",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-14T10:19:28.040000",
+            "collected_at": "2026-01-21T08:46:20.820000",
             "duration": 560.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 서영석 의원(더불어민주당)",
             "upload_date": null
@@ -625,7 +666,17 @@
             "duration": 1654.0,
             "title": "영케어러를 위한 맞춤형 지원 '위기아동·청년법' | 서영석 의원 | 히어로(law) | 국회방송",
             "upload_date": null
+        },
+        {
+            "_id": "697013cf297082fcc2b34e38",
+            "url": "https://www.youtube.com/watch?v=3JIsT1RuvBs",
+            "HG_NM": "서영석",
+            "MONA_CD": "XR24352K",
+            "collected_at": "2026-01-21T08:46:20.820000",
+            "duration": 433.0,
+            "title": "부천의 선거구 축소? 사유가 전혀 없습니다. #오정구 #국회의원 #서영석 #부천 #선거구 #선거구축소 #총선",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:25.279617"
+    "exported_at": "2026-01-21T10:09:22.395014"
 }

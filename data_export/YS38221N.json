@@ -47,46 +47,50 @@
     },
     "analysis": {
         "keywords": [
-            "민주당",
             "위원장",
-            "뇌물",
             "국민",
+            "뇌물",
+            "민주당",
             "축의금",
             "쿠팡",
+            "더불어민주당",
             "공천",
             "김병기",
-            "더불어민주당",
-            "논란",
             "대표",
-            "정보",
+            "위원회",
             "수수",
+            "논란",
             "에러",
-            "기술"
+            "결혼식"
         ],
         "keyword_frequency": [
             {
-                "text": "민주당",
+                "text": "위원장",
                 "value": 23
             },
             {
-                "text": "위원장",
-                "value": 23
+                "text": "국민",
+                "value": 21
             },
             {
                 "text": "뇌물",
                 "value": 21
             },
             {
-                "text": "국민",
-                "value": 20
+                "text": "민주당",
+                "value": 21
             },
             {
                 "text": "축의금",
-                "value": 19
+                "value": 17
             },
             {
                 "text": "쿠팡",
                 "value": 15
+            },
+            {
+                "text": "더불어민주당",
+                "value": 14
             },
             {
                 "text": "공천",
@@ -97,19 +101,11 @@
                 "value": 11
             },
             {
-                "text": "더불어민주당",
-                "value": 11
-            },
-            {
-                "text": "논란",
-                "value": 11
-            },
-            {
                 "text": "대표",
                 "value": 10
             },
             {
-                "text": "정보",
+                "text": "위원회",
                 "value": 9
             },
             {
@@ -117,37 +113,56 @@
                 "value": 9
             },
             {
+                "text": "논란",
+                "value": 9
+            },
+            {
                 "text": "에러",
                 "value": 8
             },
             {
-                "text": "기술",
+                "text": "결혼식",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:45.241372",
+        "last_analyzed_at": "2026-01-21T10:09:42.080716",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                0,
-                4,
-                1,
                 1,
                 0,
                 0,
+                0,
+                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701242297082fcc2b34ca0",
+            "link": "https://n.news.naver.com/mnews/article/016/0002588035?sid=101",
+            "created_at": "2026-01-21T08:39:44.461000",
+            "description": "행사 기간 중에는 산업통상자원중소벤처기업위원회 이철규 위원장을 비롯한, 과학기술방송통신위원회 최민희 위원장, 국토교통위원회 맹성규위원장 등 국회의원들이 방문해 강원 기업의 글로벌 진출에 높은... ",
+            "originallink": "https://biz.heraldcorp.com/article/10658666?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-20T08:40:00",
+            "related_members": [
+                "YS38221N",
+                "FJK3396E",
+                "TZP9391O"
+            ],
+            "title": "관광만 잘 하는줄 알았는데..강원도 IT·전자로 CES 나흘간 계약 57% 상승..."
+        },
         {
             "_id": "696902f1297082fcc2b19290",
             "link": "https://n.news.naver.com/mnews/article/437/0000473701?sid=100",
@@ -271,7 +286,7 @@
             "_id": "6964b559631fd174349961dd",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106777&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-12T17:48:22.470000",
-            "description": "이춘석 법사위원장 차명 주식 거래, 최민희 딸 결혼 이해충돌, 장경태 성추행 고소 고발, 문진석 김남국 청탁... 장관하고 국회의원의 무게가 다르다라고 하더라도 일리가 있는 거죠. 예를 들면 영종도 땅 2000년에 13억 8800만... ",
+            "description": "처음에 이 문제가 제기됐을 때 최기상 의원, 그리고 뒤에는 김석담 변호사인데. 둘 다 지금 언론과의 접촉과... 장관하고 국회의원의 무게가 다르다라고 하더라도 일리가 있는 거죠. 예를 들면 영종도 땅 2000년에 13억 8800만... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106777&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-08T10:30:00",
@@ -290,7 +305,7 @@
             "_id": "6964b544631fd17434996049",
             "link": "https://n.news.naver.com/mnews/article/079/0004102984?sid=102",
             "created_at": "2026-01-12T17:48:02.031000",
-            "description": "정동만·김원이·이언주 의원, 과학기술정보방송통신위원회 최민희 위원장과 최형두·김현 의원... 국회의원 방문단은 통합강원관 투어를 통해 디지털 헬스케어, 첨단 세라믹·신소재, ICT 등 강원의 핵심 전략산업... ",
+            "description": "다음날에는 기획재정위원회 임이자 위원장을 비롯해 권영세·박대출·정태호·진성준 의원 등 5명이 참석했으며, 국회사무처 및 금융기관 관계자들도 함께했다. 국회의원 방문단은 통합강원관 투어를 통해 디지털... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453215?utm_source=naver&utm_medium=article&utm_campaign=20260108102611",
             "press": "노컷뉴스",
             "pubDate": "2026-01-08T10:27:00",
@@ -316,7 +331,7 @@
             "_id": "6964b555631fd17434996197",
             "link": "https://n.news.naver.com/mnews/article/020/0003687791?sid=101",
             "created_at": "2026-01-12T17:48:18.699000",
-            "description": "#바쁜 의원들, 5분 요약 요청 CES 개막 첫날 오전부터 한국 국회의원들의 발길도 이어졌다. 최민희 국회 과학기술정보방송통신위원장을 비롯해 김현 의원(과방위), 이철규 의원(산업통상자원중소벤처기업위원장)... ",
+            "description": "#바쁜 의원들, 5분 요약 요청 CES 개막 첫날 오전부터 한국 국회의원들의 발길도 이어졌다. 최민희 국회... 남인순 의원(보건복지위원회) 등이 한국 스타트업들이 모여 있는 유레카파크를 함께 참관했다. 이해식 의원... ",
             "originallink": "https://www.donga.com/news/Economy/article/all/20260108/133115078/2",
             "press": "동아일보",
             "pubDate": "2026-01-08T09:01:00",
@@ -357,7 +372,7 @@
             "_id": "6964b555631fd17434996198",
             "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
             "created_at": "2026-01-12T17:48:18.699000",
-            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 더불어민주당 의원(과방위), 산업통상자원중소벤처기업위원회 위원장 이철규 국민의힘 의원, 정동만... ",
+            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 이어 행정안전위원회 이해식 더불어민주당 의원, 외교통일위원회 윤후덕 더불어민주당 의원, 산자위... ",
             "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
             "press": "조선일보",
             "pubDate": "2026-01-07T14:52:00",
@@ -394,7 +409,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -474,7 +489,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -753,13 +768,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ae27631fd1743497dd00",
-            "url": "https://www.youtube.com/watch?v=rZafH2fjvFA",
+            "_id": "6960ae27631fd1743497dd01",
+            "url": "https://www.youtube.com/watch?v=Hz2fV3dKvN8",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:35.283000",
-            "duration": 720.0,
-            "title": "[뉴스모아] 텔레그램에 포착된 '축의금 리스트'…최민희 \"돌려주는 중\" / YTN",
+            "collected_at": "2026-01-09T16:28:36.802000",
+            "duration": 786.0,
+            "title": "백지원 최민희에 강력 일침!! \"미디어 일 하신다는 분이 '곶간'은 도대체 무슨 말이죠?\"[엄튜브]",
+            "upload_date": null
+        },
+        {
+            "_id": "69701519297082fcc2b34ee8",
+            "url": "https://www.youtube.com/watch?v=tFTzSc2qsfM",
+            "HG_NM": "최민희",
+            "MONA_CD": "YS38221N",
+            "collected_at": "2026-01-21T08:51:51.603000",
+            "duration": 431.0,
+            "title": "[생중계] 최민희 더불어민주당 의원, 대한민국 국민노벨평화상 캠페인 후보 추천 기지회견 (2026.01.19 오후)",
             "upload_date": null
         },
         {
@@ -777,7 +802,7 @@
             "url": "https://www.youtube.com/watch?v=VSLpwocC9bM",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-15T18:24:44.644000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": 120.0,
             "title": "\"법사위에서 하던 거 배웠네!\"...최민희 위원장 향해 우르르 돌진한 국민의힘 보더니",
             "upload_date": null
@@ -787,7 +812,7 @@
             "url": "https://www.youtube.com/watch?v=O-8bV9CgwtU",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:35.283000",
+            "collected_at": "2026-01-21T08:51:51.603000",
             "duration": 109.0,
             "title": "\"그냥 안 넘어가\"...국감 중 MBC 보도본부장 퇴장시킨 최민희에 반발 [지금이뉴스] / YTN",
             "upload_date": null
@@ -807,7 +832,7 @@
             "url": "https://www.youtube.com/watch?v=IUh3wRuXf8I",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:35.283000",
+            "collected_at": "2026-01-21T08:51:51.603000",
             "duration": 75.0,
             "title": "[지금뉴스] 최민희 ‘축의금 명단’ 텔레그램에…송언석 “뇌물은 돌려줘도 뇌물” / KBS 2025.10.27.",
             "upload_date": null
@@ -827,29 +852,29 @@
             "url": "https://www.youtube.com/watch?v=hjqWSwCzF3Q",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:35.283000",
+            "collected_at": "2026-01-21T08:51:51.603000",
             "duration": 179.0,
             "title": "[지금뉴스] \"국감 뒤 SNS에 입장 올릴 것\" 최민희 딸 결혼식 이어 또 논란 터지자 / KBS 2025.10.29.",
             "upload_date": null
         },
         {
-            "_id": "6960ae27631fd1743497dd01",
-            "url": "https://www.youtube.com/watch?v=Hz2fV3dKvN8",
+            "_id": "6960ac9f631fd1743497d73c",
+            "url": "https://www.youtube.com/watch?v=dTelXBx4Vw4",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-09T16:28:36.802000",
-            "duration": 786.0,
-            "title": "백지원 최민희에 강력 일침!! \"미디어 일 하신다는 분이 '곶간'은 도대체 무슨 말이죠?\"[엄튜브]",
+            "collected_at": "2026-01-21T08:51:50.932000",
+            "duration": 732.0,
+            "title": "(현장 영상) 박정훈 의원의 일침에 눈물까지 흘린 최민희?! [엄튜브]",
             "upload_date": null
         },
         {
-            "_id": "6960abb7631fd1743497d380",
-            "url": "https://www.youtube.com/watch?v=f1cUnM8_Aqg",
+            "_id": "6960ae27631fd1743497dd00",
+            "url": "https://www.youtube.com/watch?v=rZafH2fjvFA",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:35.283000",
-            "duration": 42898.0,
-            "title": "[뉴스쏙] '축의금 논란' 최민희 \"다시 노무현 정신 무장\"…곽상언 \"엿장수 마음?\"  / 연합뉴스TV(YonhapnewsTV)",
+            "collected_at": "2026-01-21T08:51:51.603000",
+            "duration": 720.0,
+            "title": "[뉴스모아] 텔레그램에 포착된 '축의금 리스트'…최민희 \"돌려주는 중\" / YTN",
             "upload_date": null
         },
         {
@@ -867,7 +892,7 @@
             "url": "https://www.youtube.com/watch?v=HEftBneIvzc",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": 141.0,
             "title": "[자막뉴스] 민주당도 이젠 감당 못 한다...여의도 불쏘시개 된 최민희 / YTN",
             "upload_date": null
@@ -877,7 +902,7 @@
             "url": "https://www.youtube.com/watch?v=NX8WSyNaC_w",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": 323.0,
             "title": "최민희 폰 속 '축의금 리스트'...\"김영란법 위반 소지도\" [Y녹취록] / YTN",
             "upload_date": null
@@ -887,7 +912,7 @@
             "url": "https://www.youtube.com/watch?v=egODDmcgZFo",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": 395.0,
             "title": "[현장영상] 딸 결혼 논란에 \"제가 긁혔다\"…최민희 결국 '눈물' 흘린 이유 / JTBC News",
             "upload_date": null
@@ -897,7 +922,7 @@
             "url": "https://www.youtube.com/watch?v=iwnqCYdx5Ws",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": 370.0,
             "title": "[이런뉴스] ‘딸 결혼식 논란’ 최민희 위원장 신상발언 보니 / KBS 2025.10.31.",
             "upload_date": null
@@ -907,7 +932,7 @@
             "url": "https://www.youtube.com/watch?v=R8_GhDQ1XyU",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": 111.0,
             "title": "MBC 기자회 vs 최민희 '정면충돌'...\"친 국힘 보도가 자랑?\" 역정 [지금이뉴스] / YTN",
             "upload_date": null
@@ -917,21 +942,11 @@
             "url": "https://www.youtube.com/watch?v=UCAT0PG3ebS-h6p8VHOC4O3w",
             "HG_NM": "최민희",
             "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
+            "collected_at": "2026-01-21T08:51:50.932000",
             "duration": null,
             "title": "최민희TV",
             "upload_date": null
-        },
-        {
-            "_id": "6960ac9f631fd1743497d73c",
-            "url": "https://www.youtube.com/watch?v=dTelXBx4Vw4",
-            "HG_NM": "최민희",
-            "MONA_CD": "YS38221N",
-            "collected_at": "2026-01-18T13:21:34.219000",
-            "duration": 732.0,
-            "title": "(현장 영상) 박정훈 의원의 일침에 눈물까지 흘린 최민희?! [엄튜브]",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:45.241519"
+    "exported_at": "2026-01-21T10:09:42.081717"
 }

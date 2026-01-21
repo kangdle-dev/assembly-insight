@@ -48,20 +48,20 @@
             "장식",
             "공천",
             "선거",
-            "민주당",
             "일정",
             "하이",
+            "민주당",
             "회관",
             "입법",
             "방송",
+            "국민",
             "법정",
-            "제재",
-            "의원실"
+            "제재"
         ],
         "keyword_frequency": [
             {
                 "text": "신장",
-                "value": 42
+                "value": 37
             },
             {
                 "text": "조국",
@@ -73,19 +73,15 @@
             },
             {
                 "text": "장식",
-                "value": 26
+                "value": 31
             },
             {
                 "text": "공천",
-                "value": 26
+                "value": 22
             },
             {
                 "text": "선거",
                 "value": 18
-            },
-            {
-                "text": "민주당",
-                "value": 17
             },
             {
                 "text": "일정",
@@ -93,6 +89,10 @@
             },
             {
                 "text": "하이",
+                "value": 15
+            },
+            {
+                "text": "민주당",
                 "value": 15
             },
             {
@@ -108,34 +108,34 @@
                 "value": 13
             },
             {
+                "text": "국민",
+                "value": 13
+            },
+            {
                 "text": "법정",
                 "value": 12
             },
             {
                 "text": "제재",
                 "value": 12
-            },
-            {
-                "text": "의원실",
-                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:27.482432",
+        "last_analyzed_at": "2026-01-21T10:09:24.564047",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                3,
-                3,
-                3,
                 5,
+                0,
+                0,
+                0,
                 0,
                 0,
                 0
@@ -231,7 +231,7 @@
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
-            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관... ",
             "originallink": "https://www.newsis.com/view/NISX20260113_0003475751",
             "press": "뉴시스",
             "pubDate": "2026-01-14T05:00:00",
@@ -261,7 +261,7 @@
             "_id": "6966ec77887d07f7ba2fb281",
             "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
             "originallink": "https://www.news1.kr/politics/assembly/6037918",
             "press": "뉴스1",
             "pubDate": "2026-01-14T05:00:00",
@@ -357,7 +357,7 @@
             "_id": "696594a2887d07f7ba2fab35",
             "link": "https://n.news.naver.com/mnews/article/382/0001247557?sid=101",
             "created_at": "2026-01-13T09:41:04.261000",
-            "description": "민병덕 더불어민주당 의원과 신장식 조국혁신당 의원, 한창민 사회민주당 의원은 12일 국회에서 기자회견을 열고 김광일 부회장 겸 홈플러스 대표이사 등 경영진 4명에 대한 구속 수사를 촉구했다. 이들은 검찰이... ",
+            "description": "민병덕 더불어민주당 의원과 신장식 조국혁신당 의원, 한창민 사회민주당 의원은 12일 국회에서 기자회견을... 김상훈 국민의힘 의원은 SNS를 통해 “MBK 경영진에 대한 구속영장 청구는 시장의 도덕적 해이가 임계선을... ",
             "originallink": "https://sports.donga.com/economy/article/all/20260112/133141779/1",
             "press": "동아일보",
             "pubDate": "2026-01-12T18:59:00",
@@ -662,136 +662,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6968b127297082fcc2b190be",
-            "url": "https://www.youtube.com/watch?v=q8fKFxvWZ44",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-15T18:19:32.106000",
-            "duration": 224.0,
-            "title": "우리집 개는 안 문다구요?...검찰 본성 깨부수는 신장식",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8c0",
-            "url": "https://www.youtube.com/watch?v=Ihl7zB-mYXs",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-18T13:16:01.311000",
-            "duration": 9101.0,
-            "title": "[신장식의 뉴스하이킥] ‘29일 지명’ 이동관, MB때 'KBS 인사개입' 드러나｜킬러문항 문제? '국어 만점자' 4배 - 헬마우스&김민하, 김호창, 용혜인&장예찬, 박래군&이일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8b9",
-            "url": "https://www.youtube.com/watch?v=kDUwtLydeV0",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-09T16:23:40.679000",
-            "duration": 8887.0,
-            "title": "정은임·김주익·배달호·김용진… 신장식이 부른 이름들",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef45887d07f7ba2fb47c",
-            "url": "https://www.youtube.com/watch?v=x2FOAd8TWAk",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-14T10:20:05.540000",
-            "duration": 1100.0,
-            "title": "[시선집중] 공소청-중수청 설치법, 검찰개혁 본말전도돼...봉욱 민정수석 등 책임져야 - 신장식 조국혁신당 수석최고위원, MBC 260113 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "69659621887d07f7ba2fad14",
-            "url": "https://www.youtube.com/watch?v=1Mn--6UQDr0",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-13T09:47:27.648000",
-            "duration": 7143.0,
-            "title": "[신장식의 뉴스하이킥 FULL] 이재명 “모욕적이지만, 검찰 또 간다“ 맞불? | 대통령실, ‘김건희 주가조작’ 김의겸 고발 - 헬마우스, 장윤선&장성철, 김윤경&김치형 등",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8bd",
-            "url": "https://www.youtube.com/watch?v=0wxSNjoTAsc",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-13T09:47:26.967000",
-            "duration": 79.0,
-            "title": "이준석 vs 신장식, 계엄 상황에서 문을 여는 법",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b127297082fcc2b190bf",
-            "url": "https://www.youtube.com/watch?v=2h-upZRwiLo",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-15T18:19:32.106000",
-            "duration": 189.0,
-            "title": "[자막] 신장식, 민주당 정청래 대표에 '무공천 원칙' 촉구 \"재보궐 원인 제공 시 공천 금지법 발의하겠다\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8b6",
-            "url": "https://www.youtube.com/watch?v=sUMeUAJDgW0",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-18T13:16:00.179000",
-            "duration": 1341.0,
-            "title": "[생중계] 신장식 조국혁신당 의원, 네이버 등 포탈로부터 언론 자유 기자회견 (2025.09.04 오전)",
-            "upload_date": null
-        },
-        {
-            "_id": "69659621887d07f7ba2fad13",
-            "url": "https://www.youtube.com/watch?v=WDi32Q_zVmk",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-15T18:19:32.106000",
-            "duration": 104.0,
-            "title": "\"역효과 있어도 '사형' 구형해야\"…신장식 \"민주주의 유린에 대한 역사적 교훈\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8ba",
-            "url": "https://www.youtube.com/watch?v=9WCTfjVdE1M",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-15T18:19:31.346000",
-            "duration": 5685.0,
-            "title": "윤희숙, 국회의원 사퇴 초강수...차기 서울시장을 위한 노림수? [신장식의 신장개업/8월 25일(수)]",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef45887d07f7ba2fb47b",
-            "url": "https://www.youtube.com/watch?v=CViXv-xthH8",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-18T13:16:01.311000",
-            "duration": 105.0,
-            "title": "신장식 대표발의 개정안, 본회의 통과!(대안반영) #방송3법 #뉴스하이킥 #신장식",
-            "upload_date": null
-        },
-        {
-            "_id": "69659621887d07f7ba2fad12",
-            "url": "https://www.youtube.com/watch?v=u_IvpmvNp44",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-13T09:47:26.967000",
-            "duration": 173.0,
-            "title": "\"국힘은 공천거래 일상이다\"...신장식, 김정재 자백 꺼내더니 맹폭",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8bc",
-            "url": "https://www.youtube.com/watch?v=ofCGLSjnsGs",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-13T09:47:26.967000",
-            "duration": 215.0,
-            "title": "신장식 정의당 비례대표 국회의원 출마 선언",
-            "upload_date": null
-        },
-        {
             "_id": "6968b127297082fcc2b190bd",
             "url": "https://www.youtube.com/watch?v=Zh8oCukr7Ig",
             "HG_NM": "신장식",
@@ -799,16 +669,6 @@
             "collected_at": "2026-01-18T13:16:01.311000",
             "duration": 219.0,
             "title": "[자막] 신장식 \"우리 집 개는 안 문다고요? 검찰은 본성상 반드시 뭅니다\" 이재명 정부 향한 레드팀의 결단",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad00631fd1743497d8b8",
-            "url": "https://www.youtube.com/watch?v=tb8EPCFvMoI",
-            "HG_NM": "신장식",
-            "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-13T09:47:26.967000",
-            "duration": 1021.0,
-            "title": "[뉴스하이킥] 조국혁신당 신장식이 말하는 당내 성비위 사건과 그 후...그리고 조국 비대위원장 - 신장식, MBC 250915 방송",
             "upload_date": null
         },
         {
@@ -822,11 +682,151 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad00631fd1743497d8b9",
+            "url": "https://www.youtube.com/watch?v=kDUwtLydeV0",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-09T16:23:40.679000",
+            "duration": 8887.0,
+            "title": "정은임·김주익·배달호·김용진… 신장식이 부른 이름들",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef45887d07f7ba2fb47b",
+            "url": "https://www.youtube.com/watch?v=CViXv-xthH8",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-18T13:16:01.311000",
+            "duration": 105.0,
+            "title": "신장식 대표발의 개정안, 본회의 통과!(대안반영) #방송3법 #뉴스하이킥 #신장식",
+            "upload_date": null
+        },
+        {
+            "_id": "69659621887d07f7ba2fad13",
+            "url": "https://www.youtube.com/watch?v=WDi32Q_zVmk",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-15T18:19:32.106000",
+            "duration": 104.0,
+            "title": "\"역효과 있어도 '사형' 구형해야\"…신장식 \"민주주의 유린에 대한 역사적 교훈\"｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8bd",
+            "url": "https://www.youtube.com/watch?v=0wxSNjoTAsc",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-13T09:47:26.967000",
+            "duration": 79.0,
+            "title": "이준석 vs 신장식, 계엄 상황에서 문을 여는 법",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b127297082fcc2b190be",
+            "url": "https://www.youtube.com/watch?v=q8fKFxvWZ44",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-15T18:19:32.106000",
+            "duration": 224.0,
+            "title": "우리집 개는 안 문다구요?...검찰 본성 깨부수는 신장식",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8b6",
+            "url": "https://www.youtube.com/watch?v=sUMeUAJDgW0",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:58.963000",
+            "duration": 1341.0,
+            "title": "[생중계] 신장식 조국혁신당 의원, 네이버 등 포탈로부터 언론 자유 기자회견 (2025.09.04 오전)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8c0",
+            "url": "https://www.youtube.com/watch?v=Ihl7zB-mYXs",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:59.712000",
+            "duration": 9101.0,
+            "title": "[신장식의 뉴스하이킥] ‘29일 지명’ 이동관, MB때 'KBS 인사개입' 드러나｜킬러문항 문제? '국어 만점자' 4배 - 헬마우스&김민하, 김호창, 용혜인&장예찬, 박래군&이일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8ba",
+            "url": "https://www.youtube.com/watch?v=9WCTfjVdE1M",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:58.963000",
+            "duration": 5685.0,
+            "title": "윤희숙, 국회의원 사퇴 초강수...차기 서울시장을 위한 노림수? [신장식의 신장개업/8월 25일(수)]",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef45887d07f7ba2fb47a",
+            "url": "https://www.youtube.com/watch?v=mN6R_O7CyCg",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-14T10:20:05.540000",
+            "duration": 123.0,
+            "title": "신장식 \"검찰 특수부를 청으로 승격시켜줘\"...정부 중수청·공소청 법안에 조국혁신당 반발｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "69659621887d07f7ba2fad14",
+            "url": "https://www.youtube.com/watch?v=1Mn--6UQDr0",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:59.712000",
+            "duration": 7143.0,
+            "title": "[신장식의 뉴스하이킥 FULL] 이재명 “모욕적이지만, 검찰 또 간다“ 맞불? | 대통령실, ‘김건희 주가조작’ 김의겸 고발 - 헬마우스, 장윤선&장성철, 김윤경&김치형 등",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8bc",
+            "url": "https://www.youtube.com/watch?v=ofCGLSjnsGs",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:58.963000",
+            "duration": 215.0,
+            "title": "신장식 정의당 비례대표 국회의원 출마 선언",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef45887d07f7ba2fb47c",
+            "url": "https://www.youtube.com/watch?v=x2FOAd8TWAk",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-14T10:20:05.540000",
+            "duration": 1100.0,
+            "title": "[시선집중] 공소청-중수청 설치법, 검찰개혁 본말전도돼...봉욱 민정수석 등 책임져야 - 신장식 조국혁신당 수석최고위원, MBC 260113 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8b8",
+            "url": "https://www.youtube.com/watch?v=tb8EPCFvMoI",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:58.963000",
+            "duration": 1021.0,
+            "title": "[뉴스하이킥] 조국혁신당 신장식이 말하는 당내 성비위 사건과 그 후...그리고 조국 비대위원장 - 신장식, MBC 250915 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad00631fd1743497d8be",
+            "url": "https://www.youtube.com/watch?v=4asnJPF1Qwo",
+            "HG_NM": "신장식",
+            "MONA_CD": "NPD75153",
+            "collected_at": "2026-01-21T08:46:58.963000",
+            "duration": 541.0,
+            "title": "\"정성호 법무부장관과 정당해산심판 협의해주십시오\" 국민의힘 면전에서 쐐기 박는 신장식",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad00631fd1743497d8b5",
             "url": "https://www.youtube.com/watch?v=4OvUTjmiWHM",
             "HG_NM": "신장식",
             "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-18T13:16:00.179000",
+            "collected_at": "2026-01-21T08:46:58.963000",
             "duration": 245.0,
             "title": "신장식 의원 자꾸 말 끊는 위원장한테 소리치며 답변하지 마시라고요!!",
             "upload_date": null
@@ -852,15 +852,15 @@
             "upload_date": null
         },
         {
-            "_id": "6966ef45887d07f7ba2fb47a",
-            "url": "https://www.youtube.com/watch?v=mN6R_O7CyCg",
+            "_id": "69659621887d07f7ba2fad12",
+            "url": "https://www.youtube.com/watch?v=u_IvpmvNp44",
             "HG_NM": "신장식",
             "MONA_CD": "NPD75153",
-            "collected_at": "2026-01-14T10:20:05.540000",
-            "duration": 123.0,
-            "title": "신장식 \"검찰 특수부를 청으로 승격시켜줘\"...정부 중수청·공소청 법안에 조국혁신당 반발｜지금 이 뉴스",
+            "collected_at": "2026-01-21T08:46:58.963000",
+            "duration": 173.0,
+            "title": "\"국힘은 공천거래 일상이다\"...신장식, 김정재 자백 꺼내더니 맹폭",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:27.482573"
+    "exported_at": "2026-01-21T10:09:24.564047"
 }

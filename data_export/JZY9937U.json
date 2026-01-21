@@ -54,8 +54,8 @@
         "keywords": [
             "장관",
             "국토",
-            "참사",
             "교통부",
+            "참사",
             "여객기",
             "민주당",
             "보좌관",
@@ -71,19 +71,19 @@
         "keyword_frequency": [
             {
                 "text": "장관",
-                "value": 30
+                "value": 31
             },
             {
                 "text": "국토",
-                "value": 14
+                "value": 15
+            },
+            {
+                "text": "교통부",
+                "value": 12
             },
             {
                 "text": "참사",
                 "value": 12
-            },
-            {
-                "text": "교통부",
-                "value": 11
             },
             {
                 "text": "여객기",
@@ -130,29 +130,43 @@
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:14.240332",
+        "last_analyzed_at": "2026-01-21T10:09:11.728779",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                1,
-                1,
-                1,
                 3,
                 2,
                 1,
-                1
+                1,
+                0,
+                1,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970123b297082fcc2b34c88",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723137?sid=102",
+            "created_at": "2026-01-21T08:39:37.741000",
+            "description": "서산시는 중부권 동서횡단철도 건설을 위한 13개 시장·군수 협력체가 지난 19일 김윤덕 국토교통부 장관을... 대통령실과 국회의원실 방문 등 다각적인 유치 활동을 이어왔다. 특히 올해 제5차 국가철도망 구축계획 확정이... ",
+            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6044319",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T09:15:00",
+            "related_members": [
+                "JZY9937U",
+                "5N65159P"
+            ],
+            "title": "서산시, 중부권 동서횡단철도 ‘국가계획 반영’ 총력"
+        },
         {
             "_id": "696c5bf3297082fcc2b19b95",
             "link": "https://n.news.naver.com/mnews/article/011/0004579945?sid=105",
@@ -456,7 +470,7 @@
             "url": "https://www.youtube.com/watch?v=UC4OAafeQilP01diUwREYnqA",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-18T13:11:41.980000",
+            "collected_at": "2026-01-21T08:43:19.501000",
             "duration": null,
             "title": "김윤덕TV",
             "upload_date": null
@@ -476,7 +490,7 @@
             "url": "https://www.youtube.com/watch?v=hpfi9uMymR0",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-18T13:11:41.980000",
+            "collected_at": "2026-01-21T08:43:19.501000",
             "duration": 310.0,
             "title": "김희정 \"관용차 6대 굴리는 분이..핑계는..\" 사과요구에 김윤덕 장관이 웃는 이유는?![G1현장뉴스]",
             "upload_date": null
@@ -486,7 +500,7 @@
             "url": "https://www.youtube.com/watch?v=-OdL6SQzFDM",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-18T13:11:41.980000",
+            "collected_at": "2026-01-21T08:43:19.501000",
             "duration": 143.0,
             "title": "[뉴스데스크]김윤덕 의원이 불 지핀 도지사 경쟁",
             "upload_date": null
@@ -546,7 +560,7 @@
             "url": "https://www.youtube.com/watch?v=RKkFwFhOuH4",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-18T13:11:43.111000",
+            "collected_at": "2026-01-21T08:43:20.197000",
             "duration": 116.0,
             "title": "이상경 사퇴에 김윤덕 장관 사과…“모든 주택공급수단 총동원” / KBS  2025.10.28.",
             "upload_date": null
@@ -576,7 +590,7 @@
             "url": "https://www.youtube.com/watch?v=G48TifcYTZ8",
             "HG_NM": "김윤덕",
             "MONA_CD": "JZY9937U",
-            "collected_at": "2026-01-13T09:44:16.067000",
+            "collected_at": "2026-01-21T08:43:19.501000",
             "duration": 60.0,
             "title": "[2025 국토위 전체회의] 김윤덕 국토교통부 장관 팩트 폭격!",
             "upload_date": null
@@ -612,5 +626,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:14.240433"
+    "exported_at": "2026-01-21T10:09:11.728779"
 }

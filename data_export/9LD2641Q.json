@@ -53,20 +53,20 @@
     "analysis": {
         "keywords": [
             "위원",
-            "최고",
             "선거",
+            "최고",
+            "김해",
             "민주당",
+            "스포츠",
+            "이자",
             "교수",
             "공항",
             "이성윤",
             "문정",
-            "김해",
             "더불어민주당",
+            "김해시",
             "보궐",
-            "강득구",
-            "시장",
-            "낙선",
-            "관리"
+            "강득구"
         ],
         "keyword_frequency": [
             {
@@ -74,16 +74,28 @@
                 "value": 16
             },
             {
+                "text": "선거",
+                "value": 14
+            },
+            {
                 "text": "최고",
                 "value": 14
             },
             {
-                "text": "선거",
-                "value": 12
+                "text": "김해",
+                "value": 10
             },
             {
                 "text": "민주당",
                 "value": 10
+            },
+            {
+                "text": "스포츠",
+                "value": 8
+            },
+            {
+                "text": "이자",
+                "value": 8
             },
             {
                 "text": "교수",
@@ -102,12 +114,12 @@
                 "value": 7
             },
             {
-                "text": "김해",
+                "text": "더불어민주당",
                 "value": 7
             },
             {
-                "text": "더불어민주당",
-                "value": 7
+                "text": "김해시",
+                "value": 6
             },
             {
                 "text": "보궐",
@@ -116,43 +128,78 @@
             {
                 "text": "강득구",
                 "value": 6
-            },
-            {
-                "text": "시장",
-                "value": 4
-            },
-            {
-                "text": "낙선",
-                "value": 4
-            },
-            {
-                "text": "관리",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:15.271756",
+        "last_analyzed_at": "2026-01-21T10:09:12.619513",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                1,
                 0,
                 0,
                 0,
                 0,
+                3,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970123d297082fcc2b34c92",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108986?sid=102",
+            "created_at": "2026-01-21T08:39:39.531000",
+            "description": "[김정호/국회의원/지난달 10일 : \"(사업을 하면서) 정작 이자가 3,221억 원. 그래서 총수익(추정치)에서 (이자를) 빼면 적자가 1,500억 정도 나왔습니다.\"] 김해시와 군인공제회, 한국철도공사 자회사와 특수목적법인을... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464354&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T21:50:00",
+            "related_members": [
+                "9LD2641Q"
+            ],
+            "title": "20년 이어진 ‘김해 복합스포츠’…“이자 비용 눈덩이”"
+        },
+        {
+            "_id": "6970123d297082fcc2b34c93",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108814?sid=102",
+            "created_at": "2026-01-21T08:39:39.531000",
+            "description": "[김정호/국회의원/지난달 10일 : \"(사업을 하면서) 정작 이자가 3,221억 원. 그래서 총수익(추정치)에서 (이자를) 빼면 적자가 1,500억 정도 나왔습니다.\"] 김해시와 군인공제회, 한국철도공사 자회사와 특수목적법인을... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464127&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T19:24:00",
+            "related_members": [
+                "9LD2641Q"
+            ],
+            "title": "20년 이어진 ‘김해 복합스포츠’…“이자 비용 눈덩이”"
+        },
+        {
+            "_id": "69701230297082fcc2b34c2b",
+            "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "created_at": "2026-01-21T08:39:26.798000",
+            "description": "민주노동당 국회의원/이오상 인천시의회 부의장, (국) 박종효 남동구청장/김종필 전 인천시설관리공단 이사장/고주룡 전 인천시 대변인/한민수 인천시의원, (혁) 장석현 전 남동구청장 부평구청장 (민) 차준택 부평구청장... ",
+            "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T15:30:00",
+            "related_members": [
+                "HE08888N",
+                "XSP20229",
+                "8O34202I",
+                "9LD2641Q",
+                "0R68099X",
+                "6K79158C",
+                "9YO73104",
+                "ME83002L",
+                "8JG4358H"
+            ],
+            "title": "6·3 지방선거 | 전국 227곳 기초단체장 출마 예상자 | 행정구역 개편으..."
+        },
         {
             "_id": "6966ec83887d07f7ba2fb2d0",
             "link": "https://n.news.naver.com/mnews/article/421/0008711927?sid=102",
@@ -276,7 +323,7 @@
             "url": "https://www.youtube.com/watch?v=qLUspav0pwM",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.993000",
+            "collected_at": "2026-01-21T08:43:34.272000",
             "duration": 1693.0,
             "title": "[킥] HBM 다음은 HBF다! | 김정호 카이스트 전기전자공학부 교수",
             "upload_date": null
@@ -296,7 +343,7 @@
             "url": "https://www.youtube.com/watch?v=-7sCZfCmTEQ",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.003000",
+            "collected_at": "2026-01-21T08:43:33.499000",
             "duration": 118.0,
             "title": "[오늘의 키워드] 욕설에 침까지 뱉어…국회의원 김정호·민경욱 ‘갑질 논란’",
             "upload_date": null
@@ -306,7 +353,7 @@
             "url": "https://www.youtube.com/watch?v=kdHseEO2_9g",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.993000",
+            "collected_at": "2026-01-21T08:43:34.272000",
             "duration": 11846.0,
             "title": "김어준의 겸손은힘들다 뉴스공장 2025년 11월 20일 목요일 [김기표, 박현광, 이희수, 이권형, 김병주, 김규현, 노영희, 주진우, 김정호, 스포츠공장] + 텐밀희",
             "upload_date": null
@@ -336,7 +383,7 @@
             "url": "https://www.youtube.com/watch?v=33YZHF5JUdw",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.003000",
+            "collected_at": "2026-01-21T08:43:33.499000",
             "duration": 214.0,
             "title": "[알릴레오] 노무현 대통령과 김정호 의원의 '반딧불이 일화'",
             "upload_date": null
@@ -376,7 +423,7 @@
             "url": "https://www.youtube.com/watch?v=cDJjdSjrXlA",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.993000",
+            "collected_at": "2026-01-21T08:43:34.272000",
             "duration": 88.0,
             "title": "김정호 해명에도 ‘분노’…“초선이 겸손해야” | 뉴스A",
             "upload_date": null
@@ -416,7 +463,7 @@
             "url": "https://www.youtube.com/watch?v=3oJ_rQOVGKs",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.993000",
+            "collected_at": "2026-01-21T08:43:34.272000",
             "duration": 2406.0,
             "title": " 글로벌 한국 경제 80년사...과거를 통해 미래를 배우다 (김정호 교수) | 곽수종의 프리즘",
             "upload_date": null
@@ -426,7 +473,7 @@
             "url": "https://www.youtube.com/watch?v=UCXEu8xyS1u7POLvhhxq0fTA",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.003000",
+            "collected_at": "2026-01-21T08:43:33.499000",
             "duration": null,
             "title": "김정호TV",
             "upload_date": null
@@ -436,7 +483,7 @@
             "url": "https://www.youtube.com/watch?v=9-0JyjUAUmk",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.003000",
+            "collected_at": "2026-01-21T08:43:33.499000",
             "duration": 112.0,
             "title": "[자막뉴스] 김정호 의원, 공항 직원 경위서 공개되자 결국... / YTN",
             "upload_date": null
@@ -456,11 +503,11 @@
             "url": "https://www.youtube.com/watch?v=SkWF00bsA6Q",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-15T18:15:54.941000",
+            "collected_at": "2026-01-21T08:43:33.499000",
             "duration": 60.0,
             "title": "김정호 의원, 카카오톡 '조용히 나가기' 법안 발의 #shorts",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:15.271840"
+    "exported_at": "2026-01-21T10:09:12.619513"
 }

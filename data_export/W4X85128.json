@@ -58,28 +58,36 @@
     "analysis": {
         "keywords": [
             "이혜훈",
-            "후보자",
-            "특혜",
-            "의혹",
             "국민",
+            "후보자",
+            "의혹",
+            "특혜",
+            "청문회",
             "의정",
             "회사",
             "입법",
+            "민주당",
             "가족",
             "발의",
             "진주",
             "재산",
-            "최구식",
-            "청문회",
-            "기획"
+            "자료"
         ],
         "keyword_frequency": [
             {
                 "text": "이혜훈",
-                "value": 28
+                "value": 36
+            },
+            {
+                "text": "국민",
+                "value": 19
             },
             {
                 "text": "후보자",
+                "value": 18
+            },
+            {
+                "text": "의혹",
                 "value": 17
             },
             {
@@ -87,11 +95,7 @@
                 "value": 16
             },
             {
-                "text": "의혹",
-                "value": 15
-            },
-            {
-                "text": "국민",
+                "text": "청문회",
                 "value": 15
             },
             {
@@ -105,6 +109,10 @@
             {
                 "text": "입법",
                 "value": 12
+            },
+            {
+                "text": "민주당",
+                "value": 11
             },
             {
                 "text": "가족",
@@ -123,41 +131,99 @@
                 "value": 10
             },
             {
-                "text": "최구식",
+                "text": "자료",
                 "value": 9
-            },
-            {
-                "text": "청문회",
-                "value": 8
-            },
-            {
-                "text": "기획",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:19.229864",
+        "last_analyzed_at": "2026-01-21T10:09:16.344352",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                1,
-                2,
-                2,
                 0,
                 4,
                 0,
+                1,
+                2,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701238297082fcc2b34c61",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690636?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "박대출 의원도 “지금 이런 상태로 청문회를 한다는 것은 국민에게는 모욕이고 국회에는 모독”이라고 했다. 개혁신당 천하람 의원은 “여당이 다수당이고 밀어붙이는 힘이 세다고 해서 허술한 자료로 면죄부를 주는... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260120/133189285/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-20T04:34:00",
+            "related_members": [
+                "5765663F",
+                "S824682L",
+                "YGB8604T",
+                "W4X85128",
+                "UHB5553T",
+                "FU87526G",
+                "EH27538E"
+            ],
+            "title": "“국힘 이혜훈 3번 공천” “면죄부 안돼”… 검증 못한채 말싸움만"
+        },
+        {
+            "_id": "69701238297082fcc2b34c65",
+            "link": "https://n.news.naver.com/mnews/article/421/0008721569?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "'제대로 된 청문회를 하자'가 본질\"이라며 \"지금 이런 상태로 청문회를 한다는 것은 국민에게는 모욕이고 국회에는 모독\"이라고 말했다. 범여권인 차규근 조국혁신당 의원 또한 후보자의 자료 제출과 관련해 \"좀 부족한... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6043407",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T12:04:00",
+            "related_members": [
+                "5765663F",
+                "KNP22261",
+                "W4X85128",
+                "S824682L"
+            ],
+            "title": "청문회장도 못 들어온 이혜훈…與 \"불러서 따지자\" 野 \"국회 모독\""
+        },
+        {
+            "_id": "69701238297082fcc2b34c6a",
+            "link": "https://n.news.naver.com/mnews/article/056/0012107595?sid=100",
+            "created_at": "2026-01-21T08:39:34.439000",
+            "description": "민주당 김영진 의원은 \"국회법 절차대로 진행했으면 좋겠다. 인사청문회 시작을 할 때 단 한 번도 인사청문... 이런 상태로 청문회를 한다는 것은 국민과 국회에 대한 모독\"이라고 반발했습니다. 개혁신당 천하람... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462502&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-19T11:22:00",
+            "related_members": [
+                "5765663F",
+                "W4X85128",
+                "NX534083",
+                "S824682L",
+                "YGB8604T"
+            ],
+            "title": "‘이혜훈 청문회’ 무산…재개최 조율도 난항"
+        },
+        {
+            "_id": "69701245297082fcc2b34cb4",
+            "link": "https://n.news.naver.com/mnews/article/421/0008720325?sid=100",
+            "created_at": "2026-01-21T08:39:47.400000",
+            "description": "더불어민주당의 통일교 및 공천뇌물 특검 수용을 촉구하며 4일째 단식을 이어가고 있는 장동혁 국민의힘 대표가 18일 서울 여의도 국회 로텐더홀에서 의원들과 대화하고 있다. 2026.1.18/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7702910",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T14:35:00",
+            "related_members": [
+                "KFM1081G",
+                "W4X85128"
+            ],
+            "title": "박대출 의원과 대화하는 장동혁 대표"
+        },
         {
             "_id": "6969b96a297082fcc2b1946c",
             "link": "https://n.news.naver.com/mnews/article/053/0000055075?sid=100",
@@ -323,7 +389,7 @@
             "_id": "6964b544631fd17434996049",
             "link": "https://n.news.naver.com/mnews/article/079/0004102984?sid=102",
             "created_at": "2026-01-12T17:48:02.031000",
-            "description": "정동만·김원이·이언주 의원, 과학기술정보방송통신위원회 최민희 위원장과 최형두·김현 의원... 국회의원 방문단은 통합강원관 투어를 통해 디지털 헬스케어, 첨단 세라믹·신소재, ICT 등 강원의 핵심 전략산업... ",
+            "description": "다음날에는 기획재정위원회 임이자 위원장을 비롯해 권영세·박대출·정태호·진성준 의원 등 5명이 참석했으며, 국회사무처 및 금융기관 관계자들도 함께했다. 국회의원 방문단은 통합강원관 투어를 통해 디지털... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453215?utm_source=naver&utm_medium=article&utm_campaign=20260108102611",
             "press": "노컷뉴스",
             "pubDate": "2026-01-08T10:27:00",
@@ -438,113 +504,63 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac75631fd1743497d683",
-            "url": "https://www.youtube.com/watch?v=iWqZQ01t9S4",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 376.0,
-            "title": "우리 지역 의원에게 듣는다 '박대출 국회의원'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d684",
-            "url": "https://www.youtube.com/watch?v=zYI8UBN1Jdo",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 213.0,
-            "title": "진주 갑 국회의원 박대출 의정보고회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d685",
-            "url": "https://www.youtube.com/watch?v=AFPha3jBfyQ",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:15.378000",
-            "duration": 201.0,
-            "title": "첫 출석 상임위서 ‘내로네로’ 강조한 통합당 박대출",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d686",
-            "url": "https://www.youtube.com/watch?v=U9CMzW0hUP0",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-14T10:17:45.589000",
-            "duration": 976.0,
-            "title": "진주 갑 국회의원 박대출 의정보고 영상",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d687",
-            "url": "https://www.youtube.com/watch?v=9AGXNJ3sV2M",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 82.0,
-            "title": "국회의원 박대출과 함께 2016년을",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d688",
-            "url": "https://www.youtube.com/watch?v=C0-xh3rDGmM",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 450.0,
-            "title": "'내란' 이라는 단어에 폭발한 국민의힘 박대출의원, 강력항의하는 민주당",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d689",
-            "url": "https://www.youtube.com/watch?v=FEyugXfox9U",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-15T18:17:02.576000",
-            "duration": 185.0,
-            "title": "박대출, 자유한국당 의원총회, 패스트트랙 지정에 ‘삭발’ (04.30)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac75631fd1743497d68a",
-            "url": "https://www.youtube.com/watch?v=nMsXj6tfqlY",
-            "HG_NM": "박대출",
-            "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 131.0,
-            "title": "새누리당 박대출 '월북해라' 막말...국회 또 아수라장",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac75631fd1743497d68b",
             "url": "https://www.youtube.com/watch?v=RsK0LDFARq8",
             "HG_NM": "박대출",
             "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
+            "collected_at": "2026-01-21T08:44:37.271000",
             "duration": 142.0,
             "title": "'패스트트랙 반발' 삭발한 박대출 \"20대 국회는 죽었다\"",
             "upload_date": null
         },
         {
-            "_id": "6960ac75631fd1743497d68c",
-            "url": "https://www.youtube.com/watch?v=e30zWpMVJ24",
+            "_id": "69701367297082fcc2b34e09",
+            "url": "https://www.youtube.com/watch?v=ImHblvdYnec",
             "HG_NM": "박대출",
             "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:15.378000",
-            "duration": 313.0,
-            "title": "노영민, 박대출에 \"가짜뉴스니깐 가짜뉴스죠\"...왜?",
+            "collected_at": "2026-01-21T08:44:37.934000",
+            "duration": 1636.0,
+            "title": "긴급! 이재명이 부정선거 의혹 제기! 박대출 충격 폭로! 선관위 민주당이 한몸? 전한길의 대반란! (진성호의 융단폭격)",
             "upload_date": null
         },
         {
-            "_id": "6960ac75631fd1743497d68d",
-            "url": "https://www.youtube.com/watch?v=L8xMUrXMEvk",
+            "_id": "69701367297082fcc2b34e08",
+            "url": "https://www.youtube.com/watch?v=_gD_K4LA-80",
             "HG_NM": "박대출",
             "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:15.378000",
-            "duration": 2784.0,
-            "title": "[정면]\"김용판 특검 논란\"-새누리당 박대출... / YTN 라디오",
+            "collected_at": "2026-01-21T08:44:37.934000",
+            "duration": 184.0,
+            "title": "박대출 \"이혜훈, 조국 버금가\" [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "69701367297082fcc2b34e07",
+            "url": "https://www.youtube.com/watch?v=2dJUAQ0p_mo",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 276.0,
+            "title": "박대출 \"8.15가 코로나 확산 원인 아냐\" vs 방통위원장 \"아니 맞아. 할 말 많지만 참을게\"",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5ddb297082fcc2b19c5d",
+            "url": "https://www.youtube.com/watch?v=Jx9n8DDBkr4",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 829.0,
+            "title": "진주 갑 새누리당  국회의원 박대출 2015 의정보고 영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959f887d07f7ba2fac76",
+            "url": "https://www.youtube.com/watch?v=RcBdPmm1M8g",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 977.0,
+            "title": "국회의원 박대출(진주갑) 의정보고",
             "upload_date": null
         },
         {
@@ -558,25 +574,105 @@
             "upload_date": null
         },
         {
-            "_id": "6965959f887d07f7ba2fac76",
-            "url": "https://www.youtube.com/watch?v=RcBdPmm1M8g",
+            "_id": "6960ac75631fd1743497d68d",
+            "url": "https://www.youtube.com/watch?v=L8xMUrXMEvk",
             "HG_NM": "박대출",
             "MONA_CD": "W4X85128",
-            "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 977.0,
-            "title": "국회의원 박대출(진주갑) 의정보고",
+            "collected_at": "2026-01-18T13:13:15.378000",
+            "duration": 2784.0,
+            "title": "[정면]\"김용판 특검 논란\"-새누리당 박대출... / YTN 라디오",
             "upload_date": null
         },
         {
-            "_id": "696c5ddb297082fcc2b19c5d",
-            "url": "https://www.youtube.com/watch?v=Jx9n8DDBkr4",
+            "_id": "6960ac75631fd1743497d68c",
+            "url": "https://www.youtube.com/watch?v=e30zWpMVJ24",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.934000",
+            "duration": 313.0,
+            "title": "노영민, 박대출에 \"가짜뉴스니깐 가짜뉴스죠\"...왜?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d683",
+            "url": "https://www.youtube.com/watch?v=iWqZQ01t9S4",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 376.0,
+            "title": "우리 지역 의원에게 듣는다 '박대출 국회의원'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d68a",
+            "url": "https://www.youtube.com/watch?v=nMsXj6tfqlY",
             "HG_NM": "박대출",
             "MONA_CD": "W4X85128",
             "collected_at": "2026-01-18T13:13:14.351000",
-            "duration": 829.0,
-            "title": "진주 갑 새누리당  국회의원 박대출 2015 의정보고 영상",
+            "duration": 131.0,
+            "title": "새누리당 박대출 '월북해라' 막말...국회 또 아수라장",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d689",
+            "url": "https://www.youtube.com/watch?v=FEyugXfox9U",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 185.0,
+            "title": "박대출, 자유한국당 의원총회, 패스트트랙 지정에 ‘삭발’ (04.30)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d688",
+            "url": "https://www.youtube.com/watch?v=C0-xh3rDGmM",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-18T13:13:14.351000",
+            "duration": 450.0,
+            "title": "'내란' 이라는 단어에 폭발한 국민의힘 박대출의원, 강력항의하는 민주당",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d687",
+            "url": "https://www.youtube.com/watch?v=9AGXNJ3sV2M",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 82.0,
+            "title": "국회의원 박대출과 함께 2016년을",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d686",
+            "url": "https://www.youtube.com/watch?v=U9CMzW0hUP0",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-14T10:17:45.589000",
+            "duration": 976.0,
+            "title": "진주 갑 국회의원 박대출 의정보고 영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d685",
+            "url": "https://www.youtube.com/watch?v=AFPha3jBfyQ",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.934000",
+            "duration": 201.0,
+            "title": "첫 출석 상임위서 ‘내로네로’ 강조한 통합당 박대출",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac75631fd1743497d684",
+            "url": "https://www.youtube.com/watch?v=zYI8UBN1Jdo",
+            "HG_NM": "박대출",
+            "MONA_CD": "W4X85128",
+            "collected_at": "2026-01-21T08:44:37.271000",
+            "duration": 213.0,
+            "title": "진주 갑 국회의원 박대출 의정보고회",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:19.229963"
+    "exported_at": "2026-01-21T10:09:16.344352"
 }

@@ -42,10 +42,10 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
             "특검",
-            "서영",
+            "국민",
             "김재원",
+            "서영",
             "모욕",
             "의혹",
             "공천",
@@ -60,19 +60,19 @@
         ],
         "keyword_frequency": [
             {
+                "text": "특검",
+                "value": 29
+            },
+            {
                 "text": "국민",
                 "value": 26
             },
             {
-                "text": "특검",
-                "value": 25
+                "text": "김재원",
+                "value": 20
             },
             {
                 "text": "서영",
-                "value": 21
-            },
-            {
-                "text": "김재원",
                 "value": 20
             },
             {
@@ -120,29 +120,61 @@
                 "value": 14
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:06.337404",
+        "last_analyzed_at": "2026-01-21T10:09:05.033976",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                0,
-                0,
                 1,
                 7,
                 2,
-                1
+                2,
+                1,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122d297082fcc2b34c18",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325452?sid=100",
+            "created_at": "2026-01-21T08:39:23.823000",
+            "description": "▶곽규택 : 그러니까 지금 이른바 쌍특검, 그러니까 전재수 전 장관 등 정치인들이 통일교로부터 불법적인... 그날 목요일 같은 날 있었던 의원총회에서 많은 국회의원들이 이 문제를 급하게 처리할 것이 아니고 조금 더... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008409023&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-19T08:57:00",
+            "related_members": [
+                "KFM1081G",
+                "REG96285",
+                "8BF5855P",
+                "4X525582",
+                "OWD1018N",
+                "QWL7778X",
+                "9YO73104"
+            ],
+            "title": "[정치쇼] 곽규택 \"장동혁 단식, 당내용 아냐…한동훈 징계? 지지자들 '통..."
+        },
+        {
+            "_id": "6970122d297082fcc2b34c19",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826798?sid=101",
+            "created_at": "2026-01-21T08:39:23.823000",
+            "description": "부산 동구 개관식에는 김대훈 우리동네지역아동센터 대표와 곽규택 국회의원, 신성주 롯데지주 커뮤니케이션실 상무, 홍봉식 구세군 커뮤니케이션국장 등 관계자와 아동들이 함께했다. 이번 개관으로 ‘mom편한... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029267144&code=61141611&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-18T14:11:00",
+            "related_members": [
+                "REG96285"
+            ],
+            "title": "롯데 ‘mom편한 꿈다락’ 전국 100호점, 부산서 문 열어"
+        },
         {
             "_id": "696c5be5297082fcc2b19b6b",
             "link": "https://n.news.naver.com/mnews/article/022/0004098383?sid=102",
@@ -308,7 +340,7 @@
             "_id": "6964b543631fd17434996026",
             "link": "https://n.news.naver.com/mnews/article/421/0008708608?sid=100",
             "created_at": "2026-01-12T17:48:00.871000",
-            "description": "서미선 홍유진 기자 = 2차 종합 특검법이 국민의힘 반대 속 범여권 주도로 12일 국회 법제사법위원회... 국민의힘 곽규택·주진우 의원은 안건조정위에서 범여권 주도로 2차 특검법 표결이 시작되자 퇴장했다. 곽 의원은... ",
+            "description": "안건조정위에 속한 박지원 민주당 의원은 이날 국회에서 기자들과 만나 \"통일교 신천지 특검은 오늘... 현재 안건조정위는 민주당 3명(박지원 김용민 김기표), 국민의힘 2명(곽규택 주진우), 조국혁신당 1명(박은정)으로... ",
             "originallink": "https://www.news1.kr/politics/assembly/6035890",
             "press": "뉴스1",
             "pubDate": "2026-01-12T12:27:00",
@@ -349,7 +381,7 @@
             "_id": "6964b543631fd17434996028",
             "link": "https://n.news.naver.com/mnews/article/022/0004096717?sid=100",
             "created_at": "2026-01-12T17:48:00.871000",
-            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회... 공범”(주진우 의원)이라고 공세를 폈고, 범여권은 “검찰의 조작기소 탓”(이성윤 의원), “검사 난동”(박은정 의원)... ",
+            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회 법제사법위원회 전체회의에 상정됐다. 미혼부의 출생신고를 규정하지 않은 가족관계등록법에 대한 헌법불합치 결정에... ",
             "originallink": "https://www.segye.com/newsView/20260111508329?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-11T18:02:00",
@@ -420,7 +452,7 @@
             "_id": "6964b541631fd17434995ff5",
             "link": "https://n.news.naver.com/mnews/article/053/0000054851?sid=100",
             "created_at": "2026-01-12T17:47:59.155000",
-            "description": "의안과에 '김병기·강선우 국회의원의 공천 뇌물 수수 의혹 사건 진상규명을 위한 특검법'을 제출했다. 발의 명단에는 나경원·조배숙·김재섭·주진우·최수진·송석준·신동욱 의원도 이름을 올렸다. 곽 대변인은 \"강... ",
+            "description": "곽규택 국민의힘 원내수석대변인과 강선영, 박충권 원내부대표는 7일 국회 의안과에 '김병기·강선우 국회의원의 공천 뇌물 수수 의혹 사건 진상규명을 위한 특검법'을 제출했다. 발의 명단에는 나경원·조배숙·김재섭... ",
             "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47568",
             "press": "조선일보",
             "pubDate": "2026-01-07T21:10:00",
@@ -630,16 +662,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6965950d887d07f7ba2faba6",
-            "url": "https://www.youtube.com/watch?v=ZAUdvAJWUlc",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-13T09:42:50.742000",
-            "duration": 403.0,
-            "title": "\"내려가!! 내려가!!\" 무례한 곽규택에...언성 높이며 반발하는 민주당",
-            "upload_date": null
-        },
-        {
             "_id": "696c5cf9297082fcc2b19bfd",
             "url": "https://www.youtube.com/watch?v=cfB8Mryi9nQ",
             "HG_NM": "곽규택",
@@ -650,133 +672,13 @@
             "upload_date": null
         },
         {
-            "_id": "6968afc9297082fcc2b19005",
-            "url": "https://www.youtube.com/watch?v=RPyk2suX37s",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-15T18:13:42.700000",
-            "duration": 154.0,
-            "title": "[돌발영상] 김용민-정성호 '고성 충돌'… 곽규택은 팝콘각 \"장관 잡아먹네\" / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6966edff887d07f7ba2fb35b",
-            "url": "https://www.youtube.com/watch?v=3sxM5c6qbf8",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:28.169000",
-            "duration": 75.0,
-            "title": "법사위 곽규택, 최혁진 의원에 혼나는데!! 나경원 표정",
-            "upload_date": null
-        },
-        {
-            "_id": "6965950d887d07f7ba2fabab",
-            "url": "https://www.youtube.com/watch?v=5qAA-CdQcpE",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-13T09:42:51.312000",
-            "duration": 252.0,
-            "title": "폴더인사 후 우원식 의장 웃자마자 곽규택 의원의 반전행동/ KNN",
-            "upload_date": null
-        },
-        {
-            "_id": "6965950d887d07f7ba2faba9",
-            "url": "https://www.youtube.com/watch?v=8WXHyb7H55I",
+            "_id": "6965950d887d07f7ba2faba6",
+            "url": "https://www.youtube.com/watch?v=ZAUdvAJWUlc",
             "HG_NM": "곽규택",
             "MONA_CD": "REG96285",
             "collected_at": "2026-01-13T09:42:50.742000",
-            "duration": 207.0,
-            "title": "뒷골목 양아치? 그것도 밤거리 양아치 발언? 곽규택 의원 어떤 발언했길래 최 의원 충격 받았나?",
-            "upload_date": null
-        },
-        {
-            "_id": "6965950d887d07f7ba2fabaa",
-            "url": "https://www.youtube.com/watch?v=tZMACNBRyOg",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-13T09:42:51.312000",
-            "duration": 637.0,
-            "title": "\"곽규택 퇴장 조치, 왜 불응?\"정색한 추미애, 퇴장 이유 설명하자...",
-            "upload_date": null
-        },
-        {
-            "_id": "6965950d887d07f7ba2faba8",
-            "url": "https://www.youtube.com/watch?v=Q1cQhFyPEJc",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-13T09:42:51.312000",
-            "duration": 249.0,
-            "title": "곽규택 국회서 '러브액츄얼리?' 스케치북 펼치자 고성 터졌다 [현장영상] / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6965950d887d07f7ba2faba7",
-            "url": "https://www.youtube.com/watch?v=rlSNGWqaNwg",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:28.169000",
-            "duration": 753.0,
-            "title": "[풀영상] 곽규택 무례에 샤우팅 전쟁...김기표 풀파워로 국힘 때렸다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb5631fd1743497d371",
-            "url": "https://www.youtube.com/watch?v=UCgP5k0hO3Z6w5UrETdPPRJw",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:28.169000",
-            "duration": null,
-            "title": "곽규택TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aca7631fd1743497d750",
-            "url": "https://www.youtube.com/watch?v=NeBXJTr3ss0",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-13T09:42:51.312000",
-            "duration": 139.0,
-            "title": "국힘 곽규택, 아내와 사별한 박지원에 \"사모는 뭐하시나\" 망언 논란 (2025.09.16/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb5631fd1743497d37b",
-            "url": "https://www.youtube.com/watch?v=hZy4MiSYxr0",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:29.139000",
-            "duration": 150.0,
-            "title": "스케치북 꺼낸 곽규택…“또 마이크 끄시겠습니까?” / 채널A / 뉴스A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb5631fd1743497d37a",
-            "url": "https://www.youtube.com/watch?v=HTQbxVdSDEo",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:29.139000",
-            "duration": 371.0,
-            "title": "곽규택, 폴더 인사 후 “또 마이크 끄시게요?” / 채널A / 뉴스 TOP10",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb5631fd1743497d377",
-            "url": "https://www.youtube.com/watch?v=E1XtINefB94",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:28.169000",
-            "duration": 206.0,
-            "title": "곽규택 추미애에 폭발 \"제정신입니까?\" [현장영상] / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb5631fd1743497d376",
-            "url": "https://www.youtube.com/watch?v=QgUu1ZU3Mro",
-            "HG_NM": "곽규택",
-            "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:28.169000",
-            "duration": 61.0,
-            "title": "정청래와 맨날 싸우는 곽규택 의원의 과거",
+            "duration": 403.0,
+            "title": "\"내려가!! 내려가!!\" 무례한 곽규택에...언성 높이며 반발하는 민주당",
             "upload_date": null
         },
         {
@@ -790,13 +692,43 @@
             "upload_date": null
         },
         {
-            "_id": "6960abb5631fd1743497d374",
-            "url": "https://www.youtube.com/watch?v=_TZqJXpeBJY",
+            "_id": "6966edff887d07f7ba2fb35b",
+            "url": "https://www.youtube.com/watch?v=3sxM5c6qbf8",
             "HG_NM": "곽규택",
             "MONA_CD": "REG96285",
-            "collected_at": "2026-01-18T13:09:28.169000",
-            "duration": 382.0,
-            "title": "의장, \"곽규택 의원, 인사 안 하세요?\"... 곽규택 무시하자 민주당 '폭발'",
+            "collected_at": "2026-01-21T08:41:27.289000",
+            "duration": 75.0,
+            "title": "법사위 곽규택, 최혁진 의원에 혼나는데!! 나경원 표정",
+            "upload_date": null
+        },
+        {
+            "_id": "6965950d887d07f7ba2faba8",
+            "url": "https://www.youtube.com/watch?v=Q1cQhFyPEJc",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.289000",
+            "duration": 249.0,
+            "title": "곽규택 국회서 '러브액츄얼리?' 스케치북 펼치자 고성 터졌다 [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d37b",
+            "url": "https://www.youtube.com/watch?v=hZy4MiSYxr0",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.956000",
+            "duration": 150.0,
+            "title": "스케치북 꺼낸 곽규택…“또 마이크 끄시겠습니까?” / 채널A / 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "697012a9297082fcc2b34da3",
+            "url": "https://www.youtube.com/watch?v=09CwJ2UVVKQ",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.956000",
+            "duration": 82.0,
+            "title": "2차 특검 도저히 응할 수 없다! #쇼츠 #법사위 #곽규택 #주진우",
             "upload_date": null
         },
         {
@@ -808,7 +740,127 @@
             "duration": 772.0,
             "title": "곽규택의원의 우원식 의장 인사 패싱에 샤우팅 전쟁 시작 [펜앤현장]",
             "upload_date": null
+        },
+        {
+            "_id": "6965950d887d07f7ba2faba7",
+            "url": "https://www.youtube.com/watch?v=rlSNGWqaNwg",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-18T13:09:28.169000",
+            "duration": 753.0,
+            "title": "[풀영상] 곽규택 무례에 샤우팅 전쟁...김기표 풀파워로 국힘 때렸다",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d376",
+            "url": "https://www.youtube.com/watch?v=QgUu1ZU3Mro",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.289000",
+            "duration": 61.0,
+            "title": "정청래와 맨날 싸우는 곽규택 의원의 과거",
+            "upload_date": null
+        },
+        {
+            "_id": "6965950d887d07f7ba2fabab",
+            "url": "https://www.youtube.com/watch?v=5qAA-CdQcpE",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-13T09:42:51.312000",
+            "duration": 252.0,
+            "title": "폴더인사 후 우원식 의장 웃자마자 곽규택 의원의 반전행동/ KNN",
+            "upload_date": null
+        },
+        {
+            "_id": "6965950d887d07f7ba2fabaa",
+            "url": "https://www.youtube.com/watch?v=tZMACNBRyOg",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-13T09:42:51.312000",
+            "duration": 637.0,
+            "title": "\"곽규택 퇴장 조치, 왜 불응?\"정색한 추미애, 퇴장 이유 설명하자...",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d37a",
+            "url": "https://www.youtube.com/watch?v=HTQbxVdSDEo",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-18T13:09:29.139000",
+            "duration": 371.0,
+            "title": "곽규택, 폴더 인사 후 “또 마이크 끄시게요?” / 채널A / 뉴스 TOP10",
+            "upload_date": null
+        },
+        {
+            "_id": "6968afc9297082fcc2b19005",
+            "url": "https://www.youtube.com/watch?v=RPyk2suX37s",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-15T18:13:42.700000",
+            "duration": 154.0,
+            "title": "[돌발영상] 김용민-정성호 '고성 충돌'… 곽규택은 팝콘각 \"장관 잡아먹네\" / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d374",
+            "url": "https://www.youtube.com/watch?v=_TZqJXpeBJY",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.289000",
+            "duration": 382.0,
+            "title": "의장, \"곽규택 의원, 인사 안 하세요?\"... 곽규택 무시하자 민주당 '폭발'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aca7631fd1743497d750",
+            "url": "https://www.youtube.com/watch?v=NeBXJTr3ss0",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-13T09:42:51.312000",
+            "duration": 139.0,
+            "title": "국힘 곽규택, 아내와 사별한 박지원에 \"사모는 뭐하시나\" 망언 논란 (2025.09.16/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d371",
+            "url": "https://www.youtube.com/watch?v=UCgP5k0hO3Z6w5UrETdPPRJw",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.289000",
+            "duration": null,
+            "title": "곽규택TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d373",
+            "url": "https://www.youtube.com/watch?v=BV3OUDaUJj4",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-21T08:41:27.289000",
+            "duration": 157.0,
+            "title": "곽규택, 우원식 지적에 아랑곳 않고 \"하이고~\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb5631fd1743497d377",
+            "url": "https://www.youtube.com/watch?v=E1XtINefB94",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-18T13:09:28.169000",
+            "duration": 206.0,
+            "title": "곽규택 추미애에 폭발 \"제정신입니까?\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6965950d887d07f7ba2faba9",
+            "url": "https://www.youtube.com/watch?v=8WXHyb7H55I",
+            "HG_NM": "곽규택",
+            "MONA_CD": "REG96285",
+            "collected_at": "2026-01-13T09:42:50.742000",
+            "duration": 207.0,
+            "title": "뒷골목 양아치? 그것도 밤거리 양아치 발언? 곽규택 의원 어떤 발언했길래 최 의원 충격 받았나?",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:06.337536"
+    "exported_at": "2026-01-21T10:09:05.033976"
 }

@@ -43,36 +43,40 @@
     "analysis": {
         "keywords": [
             "대구시장",
-            "대구",
             "출마",
+            "대구",
             "유영",
-            "영하",
             "국민",
+            "영하",
             "시장",
+            "주호영",
             "선거",
             "달서구",
             "대통령",
-            "주호영",
             "선언",
-            "현역",
-            "민주평통",
-            "박근혜"
+            "부의장",
+            "최은석",
+            "현역"
         ],
         "keyword_frequency": [
             {
                 "text": "대구시장",
-                "value": 14
-            },
-            {
-                "text": "대구",
-                "value": 14
+                "value": 17
             },
             {
                 "text": "출마",
-                "value": 13
+                "value": 17
+            },
+            {
+                "text": "대구",
+                "value": 15
             },
             {
                 "text": "유영",
+                "value": 14
+            },
+            {
+                "text": "국민",
                 "value": 12
             },
             {
@@ -80,74 +84,103 @@
                 "value": 12
             },
             {
-                "text": "국민",
+                "text": "시장",
                 "value": 11
             },
             {
-                "text": "시장",
-                "value": 8
+                "text": "주호영",
+                "value": 9
             },
             {
                 "text": "선거",
-                "value": 7
+                "value": 8
             },
             {
                 "text": "달서구",
-                "value": 7
+                "value": 8
             },
             {
                 "text": "대통령",
-                "value": 7
-            },
-            {
-                "text": "주호영",
-                "value": 6
+                "value": 8
             },
             {
                 "text": "선언",
+                "value": 7
+            },
+            {
+                "text": "부의장",
+                "value": 6
+            },
+            {
+                "text": "최은석",
                 "value": 6
             },
             {
                 "text": "현역",
                 "value": 6
-            },
-            {
-                "text": "민주평통",
-                "value": 5
-            },
-            {
-                "text": "박근혜",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:30.449910",
+        "last_analyzed_at": "2026-01-21T10:09:27.441542",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                0,
-                0,
                 1,
                 0,
                 0,
+                0,
+                1,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6970125c297082fcc2b34d1f",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723658?sid=102",
+            "created_at": "2026-01-21T08:40:11.076000",
+            "description": "한편 국민의힘 소속으로 대구시장 선거 출마 의사를 밝혔거나, 하마평에 오르는 사람은 주호영 국회 부의장, 추경호·윤재옥·최은석·유영하 의원, 홍석준 전 국회의원, 이태훈 달서구청장, 배광식 북구청장, 이재만 전... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6044601",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T11:19:00",
+            "related_members": [
+                "JZV5283U",
+                "ZRF3039U",
+                "8SV6917G",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "홍의락 \"대구시장 후보자 활동 잠정 중단…김부겸 결단해야\""
+        },
+        {
+            "_id": "6970125c297082fcc2b34d20",
+            "link": "https://n.news.naver.com/mnews/article/366/0001136907?sid=100",
+            "created_at": "2026-01-21T08:40:11.076000",
+            "description": "현역 국회 부의장인 주호영 의원(6선)이 나설 채비를 하고 있다. 원내대표 출신인 추경호 의원(3선)은 이미 출마 선언을 했다. 박근혜 전 대통령의 측근으로 통하는 유영하 의원도 출마할 가능성이 있다. 대구 지역 정치권... ",
+            "originallink": "https://biz.chosun.com/policy/politics/2026/01/19/SPUTQW2YKBAZFE2Q2PURSVSU34/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-19T06:01:00",
+            "related_members": [
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "[인터뷰] 최은석 “대구 경제 살릴 수 있는 시장 뽑혀야”"
+        },
+        {
             "_id": "6968adb4297082fcc2b18d87",
             "link": "https://n.news.naver.com/mnews/article/421/0008715912?sid=102",
             "created_at": "2026-01-15T18:04:49.083000",
-            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 현역 의원 5명이 한꺼번에 출마 의사를 밝힌 건 전례가 없는 일이다. 앞서 국민의힘에선 추경호 의원(3선)과... ",
+            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 앞서 국민의힘에선 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고, 윤재옥 의원(4선)도... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6040048",
             "press": "뉴스1",
             "pubDate": "2026-01-15T11:46:00",
@@ -181,7 +214,7 @@
             "_id": "6964b571631fd17434996350",
             "link": "https://n.news.naver.com/mnews/article/079/0004103895?sid=102",
             "created_at": "2026-01-12T17:48:47.018000",
-            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 추 의원은 \"대구 경제를 살리겠다\"고 포부를 밝혔다. 곧이어 대기업 대표이사 출신인 최은석 의원(동구)도... ",
+            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 아울러 당내 중진인 6선의 주호영 의원, 3선의 윤재옥 의원도 곧 출마 의사를 밝힐 것으로 전망된다. 특히 윤... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453463?utm_source=naver&utm_medium=article&utm_campaign=20260112060055",
             "press": "노컷뉴스",
             "pubDate": "2026-01-12T06:01:00",
@@ -353,7 +386,7 @@
             "url": "https://www.youtube.com/watch?v=nuoo01FLxhA",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-18T13:16:58.669000",
+            "collected_at": "2026-01-21T08:47:50.738000",
             "duration": 311.0,
             "title": "유영하 의원, “체납29건·교통법규 위반 19건… 공직 맡을 자격 없어”",
             "upload_date": null
@@ -363,7 +396,7 @@
             "url": "https://www.youtube.com/watch?v=g1SOtZe1JRE",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-18T13:16:58.669000",
+            "collected_at": "2026-01-21T08:47:50.738000",
             "duration": 86.0,
             "title": "국감 중 미술 수업이라도…유영하는 왜 고릴라를 그렸을까 #비하인드뉴스 / JTBC 뉴스룸",
             "upload_date": null
@@ -373,7 +406,7 @@
             "url": "https://www.youtube.com/watch?v=UCrKzHyD7gSGcZyf1UbMfLxQ",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-18T13:16:58.669000",
+            "collected_at": "2026-01-21T08:47:50.738000",
             "duration": null,
             "title": "유영하TV",
             "upload_date": null
@@ -393,7 +426,7 @@
             "url": "https://www.youtube.com/watch?v=b0M2on4NagI",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-18T13:16:59.667000",
+            "collected_at": "2026-01-21T08:47:51.623000",
             "duration": 95.0,
             "title": "'공천 탈락' 유영하 \"박근혜, 두 번 칼질당했다고 해\" / JTBC 뉴스룸",
             "upload_date": null
@@ -413,7 +446,7 @@
             "url": "https://www.youtube.com/watch?v=SXlokJsWkTM",
             "HG_NM": "유영하",
             "MONA_CD": "JZV5283U",
-            "collected_at": "2026-01-15T18:20:26.219000",
+            "collected_at": "2026-01-21T08:47:51.623000",
             "duration": 324.0,
             "title": "유영하 “朴, 정치 다시 한다는 건 억측” | 뉴스A",
             "upload_date": null
@@ -429,5 +462,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:30.449994"
+    "exported_at": "2026-01-21T10:09:27.441542"
 }

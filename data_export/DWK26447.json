@@ -54,19 +54,19 @@
             "위원장",
             "후보자",
             "의혹",
-            "이혜훈",
+            "포럼",
+            "대표",
             "일정",
             "단독",
             "주요",
             "토론회",
-            "영종도",
-            "신년",
-            "포럼"
+            "이혜훈",
+            "영종도"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 20
+                "value": 22
             },
             {
                 "text": "인사",
@@ -93,7 +93,11 @@
                 "value": 9
             },
             {
-                "text": "이혜훈",
+                "text": "포럼",
+                "value": 8
+            },
+            {
+                "text": "대표",
                 "value": 8
             },
             {
@@ -113,34 +117,30 @@
                 "value": 7
             },
             {
+                "text": "이혜훈",
+                "value": 7
+            },
+            {
                 "text": "영종도",
                 "value": 7
-            },
-            {
-                "text": "신년",
-                "value": 7
-            },
-            {
-                "text": "포럼",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:34.833476",
+        "last_analyzed_at": "2026-01-21T10:09:31.712888",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
+                1,
                 0,
-                7,
-                1,
-                1,
+                0,
+                0,
                 0,
                 0,
                 0
@@ -201,7 +201,7 @@
             "_id": "6966ecaa887d07f7ba2fb320",
             "link": "https://n.news.naver.com/mnews/article/011/0004578029?sid=100",
             "created_at": "2026-01-14T10:08:59.004000",
-            "description": "국회 AI 포럼 연구책임의원인 조승래 더불어민주당 의원은 “대한민국이 글로벌 시장에서 생존하기 위해 AI 반도체 전략을 준비해야 한다”며 “이를 위해 정부와 기업이 협력해 끝없는 기술 혁신을 추구하고 연구자가... ",
+            "description": "이날 강연에 참석한 국회 AI 포럼 대표 이인선 국민의힘 의원은 “대한민국은 메모리 반도체와 HBM 분야에서 세계 최고 수준의 경쟁력을 갖추고 있다”면서도 “그러나 AI 반도체 경쟁 전반에서는 아직 극복해야 할 과제도... ",
             "originallink": "https://www.sedaily.com/NewsView/2K7ABMFF1P",
             "press": "서울경제",
             "pubDate": "2026-01-13T11:35:00",
@@ -215,7 +215,7 @@
             "_id": "6966ecaa887d07f7ba2fb321",
             "link": "https://n.news.naver.com/mnews/article/016/0002584907?sid=100",
             "created_at": "2026-01-14T10:08:59.004000",
-            "description": "이인선 “룰 메이커 국가로 도약할 시점” 조승래 “연구에 몰두할 수 있는 환경 조성” 전문가, 인센티브 정책 주문…“경쟁력 시급” 국회의원연구단체 국회 인공지능 포럼은 13일 오전 10시 국회의원회관... ",
+            "description": "[이인선 의원실 제공] [헤럴드경제=정석준 기자] 국회의원연구단체 국회 인공지능(AI) 포럼은 13일 국회의원회관에서 ‘국회 인공지능 포럼 초청강연’을 개최했다고 밝혔다. 포럼 대표인 이인선 국민의힘 의원은 “AI... ",
             "originallink": "https://biz.heraldcorp.com/article/10654264?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-13T10:44:00",
@@ -229,7 +229,7 @@
             "_id": "696594a6887d07f7ba2fab3b",
             "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
-            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱 의원... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
             "press": "뉴시스",
             "pubDate": "2026-01-13T05:00:00",
@@ -253,7 +253,7 @@
             "_id": "696594a6887d07f7ba2fab3c",
             "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
-            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱... ",
             "originallink": "https://www.news1.kr/politics/assembly/6036526",
             "press": "뉴스1",
             "pubDate": "2026-01-13T05:00:00",
@@ -471,7 +471,7 @@
             "url": "https://www.youtube.com/watch?v=Iu-6ZCIy1S8",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:23.277000",
+            "collected_at": "2026-01-21T08:49:05.048000",
             "duration": 96.0,
             "title": "이인선 국회의원, 대구 수성못을 위한 따금한 질책 나서다!!",
             "upload_date": null
@@ -481,7 +481,7 @@
             "url": "https://www.youtube.com/watch?v=B0OpCKcrGRQ",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:22.290000",
+            "collected_at": "2026-01-21T08:49:05.048000",
             "duration": 2760.0,
             "title": "Keep going의 대명사 이인선! 다음생애 지금 남편과 다시 결혼 한다? 안 한다?[오유경의 인생책방 131회]",
             "upload_date": null
@@ -491,7 +491,7 @@
             "url": "https://www.youtube.com/watch?v=JHGV4OEnLqk",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:22.290000",
+            "collected_at": "2026-01-21T08:49:05.828000",
             "duration": 159.0,
             "title": "[단독] \"이인선 한번 시켜줘야 하지 않나\"‥또 나온 공천 개입 정황 (2025.04.24/뉴스데스크/MBC)",
             "upload_date": null
@@ -511,7 +511,7 @@
             "url": "https://www.youtube.com/watch?v=Hz1MJYU3i2s",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:22.290000",
+            "collected_at": "2026-01-21T08:49:05.048000",
             "duration": 600.0,
             "title": "국회의원 후보자  방송연설 -이인선-",
             "upload_date": null
@@ -561,7 +561,7 @@
             "url": "https://www.youtube.com/watch?v=jXQl_aP7x1o",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:23.277000",
+            "collected_at": "2026-01-21T08:49:05.828000",
             "duration": 137.0,
             "title": "\"이인선 한 번 시켜줘야\"‥또 윤 공천 개입 의혹 (2025.04.25/12MBC뉴스)",
             "upload_date": null
@@ -571,7 +571,7 @@
             "url": "https://www.youtube.com/watch?v=ERRZYunMEJ4",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:23.277000",
+            "collected_at": "2026-01-21T08:49:05.828000",
             "duration": 145.0,
             "title": "\"이인선 한 번 시켜줘야\"‥또 윤 공천 개입 의혹 (2025.04.25/뉴스투데이/MBC)",
             "upload_date": null
@@ -591,7 +591,7 @@
             "url": "https://www.youtube.com/watch?v=sTbsTIzwzho",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-15T18:21:45.772000",
+            "collected_at": "2026-01-21T08:49:05.828000",
             "duration": 108.0,
             "title": "\"김태우 살펴봐라\" \"이인선 시켜줘야\"‥특검, '윤석열-이준석' 녹취 확보 #Shorts (MBC뉴스)",
             "upload_date": null
@@ -601,11 +601,11 @@
             "url": "https://www.youtube.com/watch?v=k2AJB8XGiv4",
             "HG_NM": "이인선",
             "MONA_CD": "DWK26447",
-            "collected_at": "2026-01-18T13:18:22.290000",
+            "collected_at": "2026-01-21T08:49:05.048000",
             "duration": 144.0,
             "title": "[대구 수성구을 국회의원 이인선] 민주당의 억지 의혹제기 바로잡아!!",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:34.833581"
+    "exported_at": "2026-01-21T10:09:31.712888"
 }

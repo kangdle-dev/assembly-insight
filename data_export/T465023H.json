@@ -47,107 +47,242 @@
     },
     "analysis": {
         "keywords": [
-            "주철",
             "전남",
+            "주철",
             "통합",
             "광주",
             "행정",
-            "현수막",
-            "여수",
+            "시장",
+            "지사",
             "더불어민주당",
             "신정훈",
+            "후보",
             "지역",
-            "시장",
             "김영록",
-            "현직",
-            "단체장",
-            "특별법"
+            "현수막",
+            "민주당",
+            "단체장"
         ],
         "keyword_frequency": [
             {
-                "text": "주철",
-                "value": 54
+                "text": "전남",
+                "value": 55
             },
             {
-                "text": "전남",
-                "value": 39
+                "text": "주철",
+                "value": 55
             },
             {
                 "text": "통합",
-                "value": 39
+                "value": 51
             },
             {
                 "text": "광주",
-                "value": 29
+                "value": 44
             },
             {
                 "text": "행정",
                 "value": 24
             },
             {
+                "text": "시장",
+                "value": 19
+            },
+            {
+                "text": "지사",
+                "value": 18
+            },
+            {
+                "text": "더불어민주당",
+                "value": 18
+            },
+            {
+                "text": "신정훈",
+                "value": 17
+            },
+            {
+                "text": "후보",
+                "value": 17
+            },
+            {
+                "text": "지역",
+                "value": 17
+            },
+            {
+                "text": "김영록",
+                "value": 16
+            },
+            {
                 "text": "현수막",
                 "value": 16
             },
             {
-                "text": "여수",
+                "text": "민주당",
                 "value": 15
             },
             {
-                "text": "더불어민주당",
-                "value": 14
-            },
-            {
-                "text": "신정훈",
-                "value": 13
-            },
-            {
-                "text": "지역",
-                "value": 12
-            },
-            {
-                "text": "시장",
-                "value": 12
-            },
-            {
-                "text": "김영록",
-                "value": 12
-            },
-            {
-                "text": "현직",
-                "value": 12
-            },
-            {
                 "text": "단체장",
-                "value": 11
-            },
-            {
-                "text": "특별법",
-                "value": 10
+                "value": 15
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:43.567488",
+        "last_analyzed_at": "2026-01-21T10:09:40.404523",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                3,
-                0,
-                2,
                 4,
                 2,
                 0,
+                0,
+                5,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701244297082fcc2b34caf",
+            "link": "https://n.news.naver.com/mnews/article/003/0013720415?sid=102",
+            "created_at": "2026-01-21T08:39:46.501000",
+            "description": "전남지사 출마를 준비 중인 신정훈 의원과 주철현 의원도 광주를 중심으로 활동 반경을 확장하고 있다.... 주 의원은 앞서 광주에서 열린 민형배 국회의원과 김병내 남구청장의 출판기념회에도 참석했다. 주 의원 측은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260120_0003483107",
+            "press": "뉴시스",
+            "pubDate": "2026-01-20T13:46:00",
+            "related_members": [
+                "VRY5522V",
+                "M7O7878U",
+                "T465023H",
+                "I7R13867",
+                "IC499858"
+            ],
+            "title": "광주·전남 통합선거판 꿈틀…예비 주자들 광폭행보"
+        },
+        {
+            "_id": "69701244297082fcc2b34cb0",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106860?sid=102",
+            "created_at": "2026-01-21T08:39:46.501000",
+            "description": "반면 통합 논의 전 광주시장 적합도 여론조사에서 줄곧 1위를 달리던 민형배 국회의원과 전남 동부권 도지사론을 펼치며 2위로 김 지사를 바짝 추격하던 주철현 국회의원은 광주·전남 통합 물결에 휩쓸려 여론 상승세에... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458778?utm_source=naver&utm_medium=article&utm_campaign=20260120094345",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-20T09:44:00",
+            "related_members": [
+                "T465023H",
+                "VRY5522V",
+                "M7O7878U"
+            ],
+            "title": "광주·전남 시도 통합, 통합 시장 후보 중 수혜자는"
+        },
+        {
+            "_id": "6970123a297082fcc2b34c87",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106663?sid=102",
+            "created_at": "2026-01-21T08:39:36.847000",
+            "description": "행사에는 김원이 전남도당 위원장을 비롯해 최철호 중앙당 노동위원장, 전현희 더불어민주당 노동실천단장, 주철현·조계원 국회의원이 축하 메시지를 보냈으며, 김성춘 한국노총 전남지역본부 의장 당선자 등이 참석해... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458488?utm_source=naver&utm_medium=article&utm_campaign=20260119035933",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T16:00:00",
+            "related_members": [
+                "8TU8443O",
+                "25G2571T",
+                "4L695580",
+                "T465023H"
+            ],
+            "title": "민주당 전남도당 노동위원회 출범식"
+        },
+        {
+            "_id": "69701244297082fcc2b34cb1",
+            "link": "https://n.news.naver.com/mnews/article/003/0013718450?sid=102",
+            "created_at": "2026-01-21T08:39:46.501000",
+            "description": "전남지사 후보로는 3선에 도전하는 민주당 김영록 지사와 같은 당 4선 이개호, 3선 신정훈, 재선 주철현 의원... 인천 계양을 국회의원 보궐선거를 통해 여의도 재입성을 노린 송영길 소나무당 대표(전 민주당 대표)도... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003482169",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T15:35:00",
+            "related_members": [
+                "IC499858",
+                "VRY5522V",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H",
+                "NLS46526"
+            ],
+            "title": "'연대 vs 단일화 vs 차출' 광주·전남 통합단체장 최대 화두(종합)"
+        },
+        {
+            "_id": "69701244297082fcc2b34cb2",
+            "link": "https://n.news.naver.com/mnews/article/003/0013718274?sid=102",
+            "created_at": "2026-01-21T08:39:46.502000",
+            "description": "전남지사 후보로는 3선에 도전하는 민주당 김영록 지사와 같은 당 4선 이개호, 3선 신정훈, 재선 주철현 의원... 인천 계양을 국회의원 보궐선거를 통해 여의도 재입성을 노린 송영길 소나무당 대표(전 민주당 대표)도... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003482035",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T14:42:00",
+            "related_members": [
+                "IC499858",
+                "VRY5522V",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H",
+                "NLS46526"
+            ],
+            "title": "'전략적 연대 vs 후보 단일화' 광주·전남 통합단체장 최대 화두"
+        },
+        {
+            "_id": "6970122f297082fcc2b34c26",
+            "link": "https://n.news.naver.com/mnews/article/011/0004580297?sid=102",
+            "created_at": "2026-01-21T08:39:25.952000",
+            "description": "또한 우원식 국회의장, 김진표 전임 국회의장, 황명선 더불어 민주당 최고위원, 김원이 전남도당 위원장, 권향엽·이개호·신정훈·조계원·문금주 국회의원, 김진경 경기도의장 등 중앙·지역 인사들도 영상 축전을 통해... ",
+            "originallink": "https://www.sedaily.com/NewsView/2K7D332LI0",
+            "press": "서울경제",
+            "pubDate": "2026-01-19T10:02:00",
+            "related_members": [
+                "GRP3908I",
+                "4L695580",
+                "EFU76868",
+                "I7R13867",
+                "XBT9550Q",
+                "8TU8443O",
+                "RJH6314D",
+                "M7O7878U",
+                "T465023H"
+            ],
+            "title": "광양시장 민주당 유력 후보군 눈도장 ‘쾅’ 김태균 전남도의회 의장 출..."
+        },
+        {
+            "_id": "69701232297082fcc2b34c39",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106389?sid=102",
+            "created_at": "2026-01-21T08:39:29.107000",
+            "description": "더불어민주당 민형배 국회의원(광주 광산을)이 18일 오후 조선대학교 e스포츠경기장(해오름관)에서 신간... 박지원 의원을 비롯해 문정복 민주당 최고위원, 양부남 민주당 광주시당 위원장, 안도걸·정진욱·조인철·정준호... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458065?utm_source=naver&utm_medium=article&utm_campaign=20260119085927",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T09:00:00",
+            "related_members": [
+                "T465023H",
+                "ZKB18611",
+                "VRY5522V",
+                "IWR8966I",
+                "9HE7226N",
+                "IC499858",
+                "M7O7878U",
+                "86R9476S",
+                "EB16073M",
+                "URV1689Q",
+                "H5476989",
+                "XBT9550Q",
+                "OFE45081",
+                "1A82234K",
+                "2385336L",
+                "GOC54665",
+                "8BF5855P",
+                "CK143054"
+            ],
+            "title": "민형배 출판기념회 1만 5천 인파 운집"
+        },
         {
             "_id": "696c5c37297082fcc2b19be3",
             "link": "https://n.news.naver.com/mnews/article/079/0004106076?sid=102",
@@ -179,7 +314,7 @@
             "_id": "6968ad88297082fcc2b18cdd",
             "link": "https://n.news.naver.com/mnews/article/003/0013712342?sid=102",
             "created_at": "2026-01-15T18:04:05.049000",
-            "description": "박지원·신정훈·이개호·서삼석·주철현·조계원·문금주·권향엽·김문수 국회의원 전원, 광주시구청장협의회장인 임택 동구청장이 참석했다. 간담회는 시·도와 교육청이 함께 만든 특별법 초안을 공유하고, 행정통합에... ",
+            "description": "이날 간담회에는 강기정 시장과 김영록 지사, 양부남·김원이 더불어민주당 행정통합특별위원회 공동위원장, 광주 지역 민형배·조인철·정진욱·안도걸·박균택·전진숙·정준호 국회의원과 전남지역 박지원·신정훈... ",
             "originallink": "https://www.newsis.com/view/NISX20260115_0003478066",
             "press": "뉴시스",
             "pubDate": "2026-01-15T11:37:00",
@@ -209,7 +344,7 @@
             "_id": "6968ad88297082fcc2b18cde",
             "link": "https://n.news.naver.com/mnews/article/016/0002586219?sid=102",
             "created_at": "2026-01-15T18:04:05.049000",
-            "description": "박지원·신정훈·이개호·서삼석·주철현·조계원·문금주·권향엽·김문수 국회의원 전원, 광주시구청장협의회장인 임택 동구청장이 참석했다. 이들은 행정통합의 방향성과 함께 특별법의 주요 내용, 지역 현안과 관련한... ",
+            "description": "이날 간담회에는 강기정 시장과 김영록 지사, 양부남·김원이 더불어민주당 행정통합특별위원회 공동위원장, 광주지역 민형배·조인철·정진욱·안도걸·박균택·전진숙·정준호 국회의원과 전남지역 박지원·신정훈·이개호... ",
             "originallink": "https://biz.heraldcorp.com/article/10656076?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-15T11:17:00",
@@ -575,7 +710,7 @@
             "url": "https://www.youtube.com/watch?v=gJb_z2pFf9U",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:04.093000",
+            "collected_at": "2026-01-21T08:51:25.948000",
             "duration": 563.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 주철현 의원(더불어민주당)",
             "upload_date": null
@@ -585,7 +720,7 @@
             "url": "https://www.youtube.com/watch?v=sbOErL0_fig",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:05.080000",
+            "collected_at": "2026-01-21T08:51:26.594000",
             "duration": 110.0,
             "title": "2백억대 사기 대출 혐의‥주철현 의원 아들 '징역형' (2025.09.17/뉴스데스크/여수MBC)",
             "upload_date": null
@@ -595,7 +730,7 @@
             "url": "https://www.youtube.com/watch?v=PH9WS2syBIY",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:04.093000",
+            "collected_at": "2026-01-21T08:51:25.948000",
             "duration": 1455.0,
             "title": "[팩트TV 풀영상] 더불어민주당 주철현 의원 경제 분야 대정부질문 풀영상 (2025.9.17)",
             "upload_date": null
@@ -605,7 +740,7 @@
             "url": "https://www.youtube.com/watch?v=4FnD4fKABwk",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:04.093000",
+            "collected_at": "2026-01-21T08:51:25.948000",
             "duration": 1418.0,
             "title": "주철현 당선인 | 제21대 국회의원 당선인과의 만남 (어바웃 우리동네)",
             "upload_date": null
@@ -615,7 +750,7 @@
             "url": "https://www.youtube.com/watch?v=rTQwvOvO3JU",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:04.093000",
+            "collected_at": "2026-01-21T08:51:25.948000",
             "duration": 140.0,
             "title": "2백억대 사기 대출 혐의...주철현 의원 아들 '징역형' (뉴스데스크 2025.9.17 광주MBC)",
             "upload_date": null
@@ -635,7 +770,7 @@
             "url": "https://www.youtube.com/watch?v=AL9PTHmYRXk",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:05.080000",
+            "collected_at": "2026-01-21T08:51:26.594000",
             "duration": 163.0,
             "title": "주철현, 해수부 국감장서 “뻘짓” 발언 논란 | 뉴스A 라이브",
             "upload_date": null
@@ -645,7 +780,7 @@
             "url": "https://www.youtube.com/watch?v=YBD13BhWeKg",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:05.080000",
+            "collected_at": "2026-01-21T08:51:26.594000",
             "duration": 321.0,
             "title": "주철현 비상계엄 그날, '아직 다리가 후들거려요'",
             "upload_date": null
@@ -655,7 +790,7 @@
             "url": "https://www.youtube.com/watch?v=MF3MdksMBjY",
             "HG_NM": "주철현",
             "MONA_CD": "T465023H",
-            "collected_at": "2026-01-18T13:21:04.093000",
+            "collected_at": "2026-01-21T08:51:25.948000",
             "duration": 760.0,
             "title": "[기자회견]더불어민주당 경선확정_주철현TV_17편[국회의원예비후보.여수갑]",
             "upload_date": null
@@ -691,5 +826,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:43.567602"
+    "exported_at": "2026-01-21T10:09:40.404523"
 }

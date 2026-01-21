@@ -60,55 +60,63 @@
             "대표",
             "국민",
             "원내",
-            "출마",
             "대구시장",
+            "출마",
             "대구",
             "선거",
-            "선언",
             "시장",
+            "선언",
+            "달서구",
+            "주호영",
             "최고",
             "위원",
-            "주호영",
-            "달서구",
-            "현역",
-            "신년"
+            "경북",
+            "행정"
         ],
         "keyword_frequency": [
             {
                 "text": "대표",
-                "value": 27
+                "value": 26
             },
             {
                 "text": "국민",
-                "value": 23
+                "value": 24
             },
             {
                 "text": "원내",
                 "value": 23
             },
             {
-                "text": "출마",
-                "value": 19
+                "text": "대구시장",
+                "value": 22
             },
             {
-                "text": "대구시장",
-                "value": 18
+                "text": "출마",
+                "value": 22
             },
             {
                 "text": "대구",
-                "value": 17
+                "value": 21
             },
             {
                 "text": "선거",
-                "value": 12
-            },
-            {
-                "text": "선언",
-                "value": 9
+                "value": 14
             },
             {
                 "text": "시장",
-                "value": 8
+                "value": 10
+            },
+            {
+                "text": "선언",
+                "value": 10
+            },
+            {
+                "text": "달서구",
+                "value": 9
+            },
+            {
+                "text": "주호영",
+                "value": 9
             },
             {
                 "text": "최고",
@@ -119,45 +127,83 @@
                 "value": 8
             },
             {
-                "text": "주호영",
+                "text": "경북",
                 "value": 7
             },
             {
-                "text": "달서구",
-                "value": 7
-            },
-            {
-                "text": "현역",
-                "value": 6
-            },
-            {
-                "text": "신년",
+                "text": "행정",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:31.166760",
+        "last_analyzed_at": "2026-01-21T10:09:28.144764",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 2,
                 0,
                 0,
+                0,
+                1,
                 2,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970125e297082fcc2b34d22",
+            "link": "https://n.news.naver.com/mnews/article/015/0005239545?sid=102",
+            "created_at": "2026-01-21T08:40:12.580000",
+            "description": "윤재옥 국회의원(대구 달서구을)은 19일 성명서를 발표하고 대구·경북 행정통합이 ‘단순 결합’이 아니라 ‘미래를 선점하는 전략’이 되어야 한다고 강조했다. 윤 의원은 “정부는 지방선거를 앞두고 득표에 유리한... ",
+            "originallink": "https://www.hankyung.com/article/202601201230h",
+            "press": "한국경제",
+            "pubDate": "2026-01-20T11:38:00",
+            "related_members": [
+                "ZRF3039U"
+            ],
+            "title": "윤재옥 의원, “대구·경북 행정통합, 주도권 뺏기면 미래 없다”"
+        },
+        {
+            "_id": "6970125c297082fcc2b34d1f",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723658?sid=102",
+            "created_at": "2026-01-21T08:40:11.076000",
+            "description": "한편 국민의힘 소속으로 대구시장 선거 출마 의사를 밝혔거나, 하마평에 오르는 사람은 주호영 국회 부의장, 추경호·윤재옥·최은석·유영하 의원, 홍석준 전 국회의원, 이태훈 달서구청장, 배광식 북구청장, 이재만 전... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6044601",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T11:19:00",
+            "related_members": [
+                "JZV5283U",
+                "ZRF3039U",
+                "8SV6917G",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "홍의락 \"대구시장 후보자 활동 잠정 중단…김부겸 결단해야\""
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008722422?sid=102",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "도민 의견을 폭넓게 듣고 국회의원과도 충분히 상의하겠다\"는 입장을 밝혔다. 김 시장 대행 또한 이날 오후... 대구시장 출마를 선언한 같은 당 최은석 의원은 \"수도권과 지방의 균형발전 측면에서는 (행정통합이) 논의돼야... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6043812",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T16:39:00",
+            "related_members": [
+                "DMP1439I",
+                "ZRF3039U",
+                "8SV6917G",
+                "UF53617M"
+            ],
+            "title": "정부 '행정통합 인센티브'에 대구·경북 정치권·관가 술렁(종합)"
+        },
         {
             "_id": "6968ad96297082fcc2b18d2b",
             "link": "https://n.news.naver.com/mnews/article/421/0008716559?sid=100",
@@ -181,7 +227,7 @@
             "_id": "6968adb4297082fcc2b18d87",
             "link": "https://n.news.naver.com/mnews/article/421/0008715912?sid=102",
             "created_at": "2026-01-15T18:04:49.083000",
-            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 현역 의원 5명이 한꺼번에 출마 의사를 밝힌 건 전례가 없는 일이다. 앞서 국민의힘에선 추경호 의원(3선)과... ",
+            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 앞서 국민의힘에선 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고, 윤재옥 의원(4선)도... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6040048",
             "press": "뉴스1",
             "pubDate": "2026-01-15T11:46:00",
@@ -215,7 +261,7 @@
             "_id": "6964b571631fd17434996350",
             "link": "https://n.news.naver.com/mnews/article/079/0004103895?sid=102",
             "created_at": "2026-01-12T17:48:47.018000",
-            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 추 의원은 \"대구 경제를 살리겠다\"고 포부를 밝혔다. 곧이어 대기업 대표이사 출신인 최은석 의원(동구)도... ",
+            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 아울러 당내 중진인 6선의 주호영 의원, 3선의 윤재옥 의원도 곧 출마 의사를 밝힐 것으로 전망된다. 특히 윤... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453463?utm_source=naver&utm_medium=article&utm_campaign=20260112060055",
             "press": "노컷뉴스",
             "pubDate": "2026-01-12T06:01:00",
@@ -387,9 +433,19 @@
             "url": "https://www.youtube.com/watch?v=kUKtZ1NcaFg",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:13.255000",
+            "collected_at": "2026-01-21T08:48:03.515000",
             "duration": 136.0,
             "title": "윤재옥 \"가짜뉴스와 통계조작에 민주주의 무너져\" (2023.09.20/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "69701435297082fcc2b34e69",
+            "url": "https://www.youtube.com/watch?v=T7dfT9K_XVI",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-21T08:48:03.515000",
+            "duration": 135.0,
+            "title": "[오늘무슨일] 윤재옥 “가짜뉴스 대선공작은 민주주의 테러, 통계조작은 국기문란”",
             "upload_date": null
         },
         {
@@ -427,7 +483,7 @@
             "url": "https://www.youtube.com/watch?v=Dh0sHwDNdBc",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 121.0,
             "title": "여, 새 원내대표에 'TK' 윤재옥…\"야, 폭주 막겠다\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -437,7 +493,7 @@
             "url": "https://www.youtube.com/watch?v=CTHvS6-aosE",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-15T18:20:38.800000",
+            "collected_at": "2026-01-21T08:48:03.515000",
             "duration": 111.0,
             "title": "새 원내대표 윤재옥 230407ㅣTBC뉴스",
             "upload_date": null
@@ -447,7 +503,7 @@
             "url": "https://www.youtube.com/watch?v=rWaeu_IUUBs",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:13.255000",
+            "collected_at": "2026-01-21T08:48:03.515000",
             "duration": 128.0,
             "title": "윤재옥 \"의회 민주주의 위기‥민생에 집중\" (2023.09.20/12MBC뉴스)",
             "upload_date": null
@@ -457,7 +513,7 @@
             "url": "https://www.youtube.com/watch?v=wbv5xEjuG1o",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:13.255000",
+            "collected_at": "2026-01-21T08:48:03.515000",
             "duration": 1353.0,
             "title": "[더뉴스] \"윤재옥, 민주 파죽지세 해결 인물\" vs \"대중 언어 안 해본 정치인\" / YTN",
             "upload_date": null
@@ -477,7 +533,7 @@
             "url": "https://www.youtube.com/watch?v=n4AHV1QrTWQ",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 5046.0,
             "title": "국민의힘 새 원내대표에 3선 윤재옥 의원 선출..109명 중 65표 득표/국민의힘 의원총회/[리얼라이브] 2023년 4월 7일(금)/KBS",
             "upload_date": null
@@ -487,7 +543,7 @@
             "url": "https://www.youtube.com/watch?v=cFeKj39qxj0",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 1605.0,
             "title": "[파워인터뷰/신년특집대담] 30화. 윤재옥 국회의원_우보만리(牛步萬里)의 마음가짐 민생을 최우선으로 바른정치 실현",
             "upload_date": null
@@ -497,7 +553,7 @@
             "url": "https://www.youtube.com/watch?v=twFLXlpdfAM",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-15T18:20:38.003000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 1795.0,
             "title": "[LIVE] 국민의힘 최고위원회의/김기현 대표·윤재옥 원내대표 등 참석/2023년 8월 21일(월)/KBS",
             "upload_date": null
@@ -507,7 +563,7 @@
             "url": "https://www.youtube.com/watch?v=Iv9U49-5mTI",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-14T10:21:06.814000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 1654.0,
             "title": "[LIVE] 국민의힘 최고위원회의/김기현 대표·윤재옥 원내대표 참석/2023년 12월 4일(월)/KBS",
             "upload_date": null
@@ -517,7 +573,7 @@
             "url": "https://www.youtube.com/watch?v=RngbL9BiApk",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 418.0,
             "title": "윤재옥 국회의원 국정 2020년 대한민국 자치발전 대상",
             "upload_date": null
@@ -527,7 +583,7 @@
             "url": "https://www.youtube.com/watch?v=ZfRGAy8X2eA",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-14T10:21:06.814000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 1507.0,
             "title": "[라이브] 국민의힘 최고위원회의/윤재옥 원내대표 주재/2023년 7월 13일(목)/KBS",
             "upload_date": null
@@ -547,7 +603,7 @@
             "url": "https://www.youtube.com/watch?v=ul4mlIHOpV0",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 321.0,
             "title": "한국당 최고위원 출마한 윤재옥 의원, \"내비게이션 역할 하겠다\" 대구서 지지 호소",
             "upload_date": null
@@ -557,11 +613,11 @@
             "url": "https://www.youtube.com/watch?v=ZjkNzvcHtBg",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
+            "collected_at": "2026-01-21T08:48:02.823000",
             "duration": 280.0,
             "title": "[장동혁 국회의원] 윤재옥 원내대표 의정보고회 축사",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:31.166860"
+    "exported_at": "2026-01-21T10:09:28.144764"
 }

@@ -43,25 +43,29 @@
     "analysis": {
         "keywords": [
             "황정",
+            "기술",
             "한국",
             "대전",
             "더불어민주당",
             "쿠팡",
             "민주당",
             "미국",
-            "기술",
             "통합",
             "박범계",
             "대한민국",
             "대통령",
             "지역",
             "박정현",
-            "철민"
+            "정부"
         ],
         "keyword_frequency": [
             {
                 "text": "황정",
-                "value": 45
+                "value": 46
+            },
+            {
+                "text": "기술",
+                "value": 13
             },
             {
                 "text": "한국",
@@ -85,10 +89,6 @@
             },
             {
                 "text": "미국",
-                "value": 8
-            },
-            {
-                "text": "기술",
                 "value": 8
             },
             {
@@ -116,33 +116,46 @@
                 "value": 6
             },
             {
-                "text": "철민",
+                "text": "정부",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:48.188549",
+        "last_analyzed_at": "2026-01-21T10:09:45.053353",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 1,
                 1,
+                0,
+                1,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701281297082fcc2b34d98",
+            "link": "https://n.news.naver.com/mnews/article/016/0002587867?sid=105",
+            "created_at": "2026-01-21T08:40:47.738000",
+            "description": "이준희(왼쪽부터) 한국벤처캐피탈협회 부회장, 조원희 이노폴리스벤처협회장, 이건하 충남대 창업동아리 회장, 이광형 KAIST 총장, 김영식 NST 이사장, 황정아 국회의원, 배경훈 부총리 겸 과학기술정보통신부 장관, 최성아... ",
+            "originallink": "https://biz.heraldcorp.com/article/10658451?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-19T16:26:00",
+            "related_members": [
+                "T6A6557F"
+            ],
+            "title": "“딥테크 창업·기술사업화 전진기지” 연구개발특구…韓 과학기술 도약..."
+        },
         {
             "_id": "696c5be5297082fcc2b19b6a",
             "link": "https://n.news.naver.com/mnews/article/079/0004106212?sid=102",
@@ -290,7 +303,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -370,7 +383,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -513,86 +526,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ae59631fd1743497ddbe",
-            "url": "https://www.youtube.com/watch?v=UCE5VagVuegulPQjsszy-OYA",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:31.308000",
-            "duration": null,
-            "title": "황정아TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae59631fd1743497ddbf",
-            "url": "https://www.youtube.com/watch?v=amlnMxTN8kg",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:31.308000",
-            "duration": 271.0,
-            "title": "[250714] 황정아 국회의원_\"AI강국, 전격적인 속도전에 나서야 합니다\"_ 배경훈_과기부장관_후보자_인청",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae59631fd1743497ddc0",
-            "url": "https://www.youtube.com/watch?v=Leqt2fQhrCY",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:31.308000",
-            "duration": 411.0,
-            "title": "[현장영상] 이진숙 방통위원장 국감 출석 … 쏟아지는 황정아 의원 질문에 시종일관 '당당' / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae59631fd1743497ddc1",
-            "url": "https://www.youtube.com/watch?v=V_j1FHTaLnE",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:31.308000",
-            "duration": 121.0,
-            "title": "[250723] 황정아_국회의원_\"특검 수사를 피하기 위한 주진우 의원의 도피성 출마가 가소롭습니다\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae59631fd1743497ddc2",
-            "url": "https://www.youtube.com/watch?v=o9LxbpNtANc",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:32.328000",
-            "duration": 601.0,
-            "title": "“대표가 매출 하락도 모르겠다?” 황정아 의원 제대로 날 잡았다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae59631fd1743497ddc3",
-            "url": "https://www.youtube.com/watch?v=_f04OfeLQzY",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-15T18:25:39.910000",
-            "duration": 432.0,
-            "title": "[251216]황정아_국회의원\" 방송장악·언론탄압 소송전 31전 31패... 방미통위 환골탈태해야 합니다\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae59631fd1743497ddc4",
-            "url": "https://www.youtube.com/watch?v=cLEHD7I0DDg",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:32.328000",
-            "duration": 830.0,
-            "title": "[현장영상] \"국정원 지시\" 쿠팡 주장에…황정아 종이 '쓱' 꺼내 들더니 / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6965976d887d07f7ba2faecf",
-            "url": "https://www.youtube.com/watch?v=WqXZf1tldio",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:32.328000",
-            "duration": 829.0,
-            "title": "김어준의 겸손은힘들다 뉴스공장  2024.01.29 황정아박사 출연 편집본",
-            "upload_date": null
-        },
-        {
             "_id": "6965976d887d07f7ba2faed0",
             "url": "https://www.youtube.com/watch?v=jXONya9WGwE",
             "HG_NM": "황정아",
@@ -603,43 +536,33 @@
             "upload_date": null
         },
         {
-            "_id": "6966f087887d07f7ba2fb575",
-            "url": "https://www.youtube.com/watch?v=Gr6tZQvFEPI",
+            "_id": "6970154a297082fcc2b34f04",
+            "url": "https://www.youtube.com/watch?v=cZPYPdTQDCA",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:32.328000",
-            "duration": 722.0,
-            "title": "황정아, 쿠팡 거짓말에 면전 돌직구..\"뻔뻔한 거짓말!\"",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": 320.0,
+            "title": "[251021]황정아_국회의원 \"KT,겉으로는 ‘죄송’, 속으로는 ‘음흉’ 피해고객 배상안 전 고객 보상안 즉시 마련하십시오\"",
             "upload_date": null
         },
         {
-            "_id": "6966f087887d07f7ba2fb573",
-            "url": "https://www.youtube.com/watch?v=gxLmCB1LHAc",
+            "_id": "6968b297297082fcc2b1917f",
+            "url": "https://www.youtube.com/watch?v=-Qas4kJZLtw",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-14T10:25:27.483000",
-            "duration": 124.0,
-            "title": "[250820]황정아_국회의원_\"윤석열 정권, 대한민국 원전 기술의 미래를 팔았습니다\"",
+            "collected_at": "2026-01-21T08:52:40.384000",
+            "duration": 156.0,
+            "title": "황정아 \"보상 받으면 '소송 금지' 약관 포함할거냐\"…로저스의 대답은? [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
         },
         {
-            "_id": "6966f087887d07f7ba2fb574",
-            "url": "https://www.youtube.com/watch?v=q0ZTI5Rt8G8",
+            "_id": "6968b297297082fcc2b1917e",
+            "url": "https://www.youtube.com/watch?v=49EA89EdhXc",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:31.308000",
-            "duration": 658.0,
-            "title": "[240725] 황정아_국회의원_\"방송은 국민의 자산이라면서, 후보자는 왜 사적으로 유용합니까?\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f087887d07f7ba2fb576",
-            "url": "https://www.youtube.com/watch?v=z76-060zNnM",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-14T10:25:28.133000",
-            "duration": 2237.0,
-            "title": "240215_유용화의 뉴스코멘터리 황정아박사 출연분 #황정아",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": 402.0,
+            "title": "[251030]황정아_국회의원 \"문화가 전략자산인 대한민국, 넷플릭스도 한국 투자 늘려, 함께 성장합시다\"",
             "upload_date": null
         },
         {
@@ -653,25 +576,125 @@
             "upload_date": null
         },
         {
-            "_id": "6968b297297082fcc2b1917e",
-            "url": "https://www.youtube.com/watch?v=49EA89EdhXc",
+            "_id": "6966f087887d07f7ba2fb576",
+            "url": "https://www.youtube.com/watch?v=z76-060zNnM",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-15T18:25:39.910000",
-            "duration": 402.0,
-            "title": "[251030]황정아_국회의원 \"문화가 전략자산인 대한민국, 넷플릭스도 한국 투자 늘려, 함께 성장합시다\"",
+            "collected_at": "2026-01-14T10:25:28.133000",
+            "duration": 2237.0,
+            "title": "240215_유용화의 뉴스코멘터리 황정아박사 출연분 #황정아",
             "upload_date": null
         },
         {
-            "_id": "6968b297297082fcc2b1917f",
-            "url": "https://www.youtube.com/watch?v=-Qas4kJZLtw",
+            "_id": "6966f087887d07f7ba2fb574",
+            "url": "https://www.youtube.com/watch?v=q0ZTI5Rt8G8",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-18T13:22:32.328000",
-            "duration": 156.0,
-            "title": "황정아 \"보상 받으면 '소송 금지' 약관 포함할거냐\"…로저스의 대답은? [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": 658.0,
+            "title": "[240725] 황정아_국회의원_\"방송은 국민의 자산이라면서, 후보자는 왜 사적으로 유용합니까?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f087887d07f7ba2fb573",
+            "url": "https://www.youtube.com/watch?v=gxLmCB1LHAc",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-14T10:25:27.483000",
+            "duration": 124.0,
+            "title": "[250820]황정아_국회의원_\"윤석열 정권, 대한민국 원전 기술의 미래를 팔았습니다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f087887d07f7ba2fb575",
+            "url": "https://www.youtube.com/watch?v=Gr6tZQvFEPI",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:40.384000",
+            "duration": 722.0,
+            "title": "황정아, 쿠팡 거짓말에 면전 돌직구..\"뻔뻔한 거짓말!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddbe",
+            "url": "https://www.youtube.com/watch?v=UCE5VagVuegulPQjsszy-OYA",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": null,
+            "title": "황정아TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6965976d887d07f7ba2faecf",
+            "url": "https://www.youtube.com/watch?v=WqXZf1tldio",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:40.384000",
+            "duration": 829.0,
+            "title": "김어준의 겸손은힘들다 뉴스공장  2024.01.29 황정아박사 출연 편집본",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddc4",
+            "url": "https://www.youtube.com/watch?v=cLEHD7I0DDg",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:40.384000",
+            "duration": 830.0,
+            "title": "[현장영상] \"국정원 지시\" 쿠팡 주장에…황정아 종이 '쓱' 꺼내 들더니 / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddc3",
+            "url": "https://www.youtube.com/watch?v=_f04OfeLQzY",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-15T18:25:39.910000",
+            "duration": 432.0,
+            "title": "[251216]황정아_국회의원\" 방송장악·언론탄압 소송전 31전 31패... 방미통위 환골탈태해야 합니다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddc2",
+            "url": "https://www.youtube.com/watch?v=o9LxbpNtANc",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:40.384000",
+            "duration": 601.0,
+            "title": "“대표가 매출 하락도 모르겠다?” 황정아 의원 제대로 날 잡았다",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddc1",
+            "url": "https://www.youtube.com/watch?v=V_j1FHTaLnE",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": 121.0,
+            "title": "[250723] 황정아_국회의원_\"특검 수사를 피하기 위한 주진우 의원의 도피성 출마가 가소롭습니다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddc0",
+            "url": "https://www.youtube.com/watch?v=Leqt2fQhrCY",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": 411.0,
+            "title": "[현장영상] 이진숙 방통위원장 국감 출석 … 쏟아지는 황정아 의원 질문에 시종일관 '당당' / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae59631fd1743497ddbf",
+            "url": "https://www.youtube.com/watch?v=amlnMxTN8kg",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-21T08:52:39.676000",
+            "duration": 271.0,
+            "title": "[250714] 황정아 국회의원_\"AI강국, 전격적인 속도전에 나서야 합니다\"_ 배경훈_과기부장관_후보자_인청",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:48.188662"
+    "exported_at": "2026-01-21T10:09:45.053353"
 }

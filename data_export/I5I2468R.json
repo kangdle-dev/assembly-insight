@@ -49,28 +49,48 @@
         "keywords": [
             "민주당",
             "기상",
+            "당정",
+            "지역",
+            "소음",
+            "대책",
+            "지정",
             "금천구",
             "질문",
-            "김병기",
-            "녹취",
-            "공포",
-            "핵탄두",
-            "장경",
-            "성추행",
+            "현수막",
+            "간사",
+            "의장",
             "문제",
-            "필버",
-            "장동",
-            "서울",
-            "지방"
+            "단독",
+            "비판"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 18
+                "value": 26
             },
             {
                 "text": "기상",
-                "value": 12
+                "value": 14
+            },
+            {
+                "text": "당정",
+                "value": 10
+            },
+            {
+                "text": "지역",
+                "value": 10
+            },
+            {
+                "text": "소음",
+                "value": 6
+            },
+            {
+                "text": "대책",
+                "value": 6
+            },
+            {
+                "text": "지정",
+                "value": 6
             },
             {
                 "text": "금천구",
@@ -81,60 +101,40 @@
                 "value": 6
             },
             {
-                "text": "김병기",
-                "value": 4
+                "text": "현수막",
+                "value": 5
             },
             {
-                "text": "녹취",
-                "value": 4
+                "text": "간사",
+                "value": 5
             },
             {
-                "text": "공포",
-                "value": 4
-            },
-            {
-                "text": "핵탄두",
-                "value": 4
-            },
-            {
-                "text": "장경",
-                "value": 4
-            },
-            {
-                "text": "성추행",
-                "value": 4
+                "text": "의장",
+                "value": 5
             },
             {
                 "text": "문제",
+                "value": 5
+            },
+            {
+                "text": "단독",
                 "value": 4
             },
             {
-                "text": "필버",
-                "value": 4
-            },
-            {
-                "text": "장동",
-                "value": 4
-            },
-            {
-                "text": "서울",
-                "value": 4
-            },
-            {
-                "text": "지방",
+                "text": "비판",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:45.076632",
+        "last_analyzed_at": "2026-01-21T10:09:41.923383",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
@@ -142,17 +142,83 @@
                 0,
                 0,
                 0,
-                0,
-                0
+                3,
+                1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6970127a297082fcc2b34d81",
+            "link": "https://n.news.naver.com/mnews/article/021/0002765269?sid=102",
+            "created_at": "2026-01-21T08:40:41.158000",
+            "description": "현수막에는 ‘민주당 눈치보고, 정부 눈치만 보는 최기상 국회의원과 유성훈 금천구청장. 당신들은 누굴 위한 정치인입니까?’라고 적혀 있었다. 한편, A 씨는 지난해 9월 민주당에 입당한 당원인 것으로 드러났다. A 씨는... ",
+            "originallink": "https://www.munhwa.com/article/11562445?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-21T07:53:00",
+            "related_members": [
+                "I5I2468R"
+            ],
+            "title": "[단독]“최기상 모욕 못 참아” 민주당 비판 현수막 훼손한 70대 검거"
+        },
+        {
+            "_id": "69701234297082fcc2b34c4b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723314?sid=100",
+            "created_at": "2026-01-21T08:39:30.701000",
+            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정 협의 후... 의원, 황명선 의원 등이 참석했다. 한 정책위의장은 \"그동안 군용비행장 및 군사격장 운영으로 인접 지역 주민의... ",
+            "originallink": "https://www.news1.kr/diplomacy/defense-diplomacy/6044412",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T10:03:00",
+            "related_members": [
+                "6I88973D",
+                "GF286398",
+                "RJH6314D",
+                "I5I2468R",
+                "NUB4941Z",
+                "XPP2564T"
+            ],
+            "title": "당정, 군소음대책지역 8곳 새로 지정…기존 69곳은 확대(종합)"
+        },
+        {
+            "_id": "6970123f297082fcc2b34c98",
+            "link": "https://n.news.naver.com/mnews/article/003/0013719422?sid=100",
+            "created_at": "2026-01-21T08:39:42.112000",
+            "description": "국회 국방위원회 여당 간사인 부승찬 민주당 의원은 이날 오전 국회 의원회관에서 열린 국방위 당정협의를... 한편 이날 당정협의에는 민주당에서 부 의원 외에도 황명선 최고위원, 한정애 정책위의장, 최기상 정책위... ",
+            "originallink": "https://www.newsis.com/view/NISX20260120_0003482841",
+            "press": "뉴시스",
+            "pubDate": "2026-01-20T09:14:00",
+            "related_members": [
+                "XPP2564T",
+                "NUB4941Z",
+                "RJH6314D",
+                "6I88973D",
+                "I5I2468R"
+            ],
+            "title": "당정 \"군 사격장 8곳 소음대책지역 신규 지정…770여명 보상\""
+        },
+        {
+            "_id": "69701234297082fcc2b34c4c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723108?sid=100",
+            "created_at": "2026-01-21T08:39:30.701000",
+            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정협의 후... 의원, 황명선 의원 등이 참석했다. 한 정책위의장은 \"그동안 군용비행장 및 군사격장 운영으로 인접 지역 주민의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6044288",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T09:06:00",
+            "related_members": [
+                "6I88973D",
+                "GF286398",
+                "RJH6314D",
+                "I5I2468R",
+                "NUB4941Z",
+                "XPP2564T"
+            ],
+            "title": "당정, 군소음대책지역 8곳 새로 지정…기존 69곳은 확대"
+        },
+        {
             "_id": "6964b559631fd174349961dd",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106777&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-12T17:48:22.470000",
-            "description": "이춘석 법사위원장 차명 주식 거래, 최민희 딸 결혼 이해충돌, 장경태 성추행 고소 고발, 문진석 김남국 청탁... 장관하고 국회의원의 무게가 다르다라고 하더라도 일리가 있는 거죠. 예를 들면 영종도 땅 2000년에 13억 8800만... ",
+            "description": "처음에 이 문제가 제기됐을 때 최기상 의원, 그리고 뒤에는 김석담 변호사인데. 둘 다 지금 언론과의 접촉과... 장관하고 국회의원의 무게가 다르다라고 하더라도 일리가 있는 거죠. 예를 들면 영종도 땅 2000년에 13억 8800만... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106777&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-08T10:30:00",
@@ -269,7 +335,7 @@
             "url": "https://www.youtube.com/watch?v=nVjSEgyanJ8",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 140.0,
             "title": "시급하고 절실한 공동체의 문제에 지혜와 역량을 모아야 합니다 #최기상 #금천구 #국회의원 #민주당 #물가 #일자리 #주거 #기획예산처",
             "upload_date": null
@@ -279,7 +345,7 @@
             "url": "https://www.youtube.com/watch?v=jhHdQq-dahM",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:32.677000",
+            "collected_at": "2026-01-21T08:51:49.337000",
             "duration": 81.0,
             "title": "[국회 탄핵소추단 간사 겸 대변인 최기상 의원(서울 금천구)] 김어준의 겸손은힘들다 뉴스공장",
             "upload_date": null
@@ -349,7 +415,7 @@
             "url": "https://www.youtube.com/watch?v=F8HpUZ28_R4",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 1027.0,
             "title": "'나의 옳음'보다 '너의 있음'이 더 우선한다 #금천구 #국회의원 #최기상 #평등 #차별  #교제폭력",
             "upload_date": null
@@ -359,7 +425,7 @@
             "url": "https://www.youtube.com/watch?v=651EVVugsk4",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 60.0,
             "title": "[온라인 선거유세] 최기상 국회의원 후보 핵심 공약 1",
             "upload_date": null
@@ -369,7 +435,7 @@
             "url": "https://www.youtube.com/watch?v=B9mfq7Ax6Lk",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 1086.0,
             "title": "세제 개편, 로드맵이 필요합니다! #금천구 #국회의원 #최기상 #기재부 #국감 #세제",
             "upload_date": null
@@ -399,7 +465,7 @@
             "url": "https://www.youtube.com/watch?v=Yp7zBS00iKM",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 179.0,
             "title": "민주당 최기상의원(금천구)의 황당 무식 위험한 돌직구 무책임 유권자기만 민주당은 이미 기득권자   서민코스프레에 더이상 안속는다",
             "upload_date": null
@@ -409,7 +475,7 @@
             "url": "https://www.youtube.com/watch?v=6gnlpaNdmkI",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 187.0,
             "title": "기재부의 목표는 부의 대물림입니까? #금천구 #국회의원 #최기상 #구윤철 #기획재정부 #인사청문회",
             "upload_date": null
@@ -419,7 +485,7 @@
             "url": "https://www.youtube.com/watch?v=0gF-j2X3xW8",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 84.0,
             "title": "문제 있는 재판 진행, 바로 잡아야 합니다! #최기상 #국회의원 #더불어민주당 #윤석열 #지귀연 #서울중앙지법",
             "upload_date": null
@@ -429,11 +495,11 @@
             "url": "https://www.youtube.com/watch?v=DpE75N8_nNw",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-18T13:21:31.639000",
+            "collected_at": "2026-01-21T08:51:48.588000",
             "duration": 77.0,
             "title": "정의롭고 지속가능한 대한민국을 만들겠습니다! #금천구 #국회의원 #최기상 #불평등 #부자감세 #세수결손",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:45.076707"
+    "exported_at": "2026-01-21T10:09:41.924384"
 }

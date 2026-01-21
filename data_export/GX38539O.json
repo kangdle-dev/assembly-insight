@@ -56,17 +56,17 @@
             "더불어민주당",
             "인천",
             "김교흥",
+            "인천시장",
+            "동수",
+            "후보",
+            "민주당",
             "연인",
             "살해",
             "공개",
-            "동수",
+            "출마",
             "정책",
             "피해",
-            "인사",
-            "메가시티",
-            "비전",
-            "개정안",
-            "시신"
+            "선거"
         ],
         "keyword_frequency": [
             {
@@ -75,14 +75,30 @@
             },
             {
                 "text": "더불어민주당",
-                "value": 10
+                "value": 11
             },
             {
                 "text": "인천",
-                "value": 6
+                "value": 10
             },
             {
                 "text": "김교흥",
+                "value": 8
+            },
+            {
+                "text": "인천시장",
+                "value": 7
+            },
+            {
+                "text": "동수",
+                "value": 7
+            },
+            {
+                "text": "후보",
+                "value": 6
+            },
+            {
+                "text": "민주당",
                 "value": 6
             },
             {
@@ -98,7 +114,7 @@
                 "value": 6
             },
             {
-                "text": "동수",
+                "text": "출마",
                 "value": 5
             },
             {
@@ -110,42 +126,26 @@
                 "value": 5
             },
             {
-                "text": "인사",
-                "value": 4
-            },
-            {
-                "text": "메가시티",
-                "value": 4
-            },
-            {
-                "text": "비전",
-                "value": 4
-            },
-            {
-                "text": "개정안",
-                "value": 4
-            },
-            {
-                "text": "시신",
+                "text": "선거",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:30.204821",
+        "last_analyzed_at": "2026-01-21T10:09:27.203803",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                1,
-                1,
                 0,
                 0,
+                0,
+                2,
                 0,
                 0,
                 0
@@ -153,6 +153,52 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "69701230297082fcc2b34c2a",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623556?sid=100",
+            "created_at": "2026-01-21T08:39:26.517000",
+            "description": "2곳의 국회의원 재보궐선거까지 동시에 진행될 예정이어서 이번 지방선거의 핵심 요충지로 꼽힌다. 18일... 이 밖에도 지난해 인천시장 출마를 시사한 정일영 민주당 의원(재선·인천 연수을)을 비롯해 유동수 민주당 의원... ",
+            "originallink": "https://www.mk.co.kr/article/11936403",
+            "press": "매일경제",
+            "pubDate": "2026-01-18T21:50:00",
+            "related_members": [
+                "X1K3667J",
+                "BT62420K",
+                "4019850M",
+                "2S73768V",
+                "VZA76236",
+                "J1G57517",
+                "QQP4727N",
+                "3OQ8273H",
+                "2385336L",
+                "LT72093S",
+                "GX38539O"
+            ],
+            "title": "인천시장 후보 윤곽…민주 김교흥·박찬대 ‘2파전’"
+        },
+        {
+            "_id": "69701242297082fcc2b34ca2",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623507?sid=100",
+            "created_at": "2026-01-21T08:39:44.767000",
+            "description": "시사한 정일영 민주당 의원(재선·인천 연수을)을 비롯해 유동수 민주당 의원(3선·인천 계양갑) 등은 아직까지 뚜렷한 움직임을 보이지 않고 있다. 인천시장 출마를 저울질했던 박남춘 전 인천시장은 국회의원... ",
+            "originallink": "https://www.mk.co.kr/article/11936313",
+            "press": "매일경제",
+            "pubDate": "2026-01-18T17:51:00",
+            "related_members": [
+                "4019850M",
+                "2S73768V",
+                "VZA76236",
+                "J1G57517",
+                "X1K3667J",
+                "BT62420K",
+                "QQP4727N",
+                "3OQ8273H",
+                "2385336L",
+                "GX38539O",
+                "LT72093S"
+            ],
+            "title": "與 인천시장 후보에…박찬대·김교흥 2파전"
+        },
         {
             "_id": "6965949e887d07f7ba2fab25",
             "link": "https://n.news.naver.com/mnews/article/011/0004577866?sid=102",
@@ -172,7 +218,7 @@
             "_id": "6964b546631fd17434996068",
             "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
             "created_at": "2026-01-12T17:48:03.471000",
-            "description": "(수석대변인), 허종식, 박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재... ",
+            "description": "우원식 국회의장, 김민석 국무총리, 정청래 민주당 대표, 조정식 이재명 대통령 정무특별보좌관, 이한주 이재명 대통령 정책특별보좌관, 송영길 전 더불어민주당 대표, 어기구 국회 농해수위원장, 임오경 국회의원 등은... ",
             "originallink": "https://www.sedaily.com/NewsView/2K79UTNT2Q",
             "press": "서울경제",
             "pubDate": "2026-01-12T07:33:00",
@@ -204,7 +250,7 @@
             "_id": "6964b546631fd17434996069",
             "link": "https://n.news.naver.com/mnews/article/016/0002583891?sid=100",
             "created_at": "2026-01-12T17:48:03.471000",
-            "description": "김교흥 의원이 인사말을 하고 있다.[김교흥 의원실 제공] 또 우원식 국회의장, 김민석 국무총리, 정청래 민주당 대표, 조정식 이재명 대통령 정무특별보좌관, 이한주 이재명 대통령 정책특별보좌관, 송영길 전... ",
+            "description": "박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재 국립 인천대학교 총장... ",
             "originallink": "https://biz.heraldcorp.com/article/10652879?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-11T09:11:00",
@@ -376,7 +422,7 @@
             "url": "https://www.youtube.com/watch?v=UCPBA0rBY-3Q_zLn6GKTzLuQ",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:53.126000",
+            "collected_at": "2026-01-21T08:47:45.751000",
             "duration": null,
             "title": "유동수TV",
             "upload_date": null
@@ -386,7 +432,7 @@
             "url": "https://www.youtube.com/watch?v=A62NjbjVH_U",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:54.161000",
+            "collected_at": "2026-01-21T08:47:46.463000",
             "duration": 87.0,
             "title": "‘옛 연인 살해·유기’ 유동수 얼굴 공개…피해 가족엔 “할말 없다” | 뉴스A",
             "upload_date": null
@@ -396,7 +442,7 @@
             "url": "https://www.youtube.com/watch?v=AW-ZU93qu_k",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:54.161000",
+            "collected_at": "2026-01-21T08:47:46.463000",
             "duration": 66.0,
             "title": "얼굴 드러낸 유동수…여전히 혐의 부인[MBN 종합뉴스]",
             "upload_date": null
@@ -406,7 +452,7 @@
             "url": "https://www.youtube.com/watch?v=GDGisF-Dcvw",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:54.161000",
+            "collected_at": "2026-01-21T08:47:46.463000",
             "duration": 410.0,
             "title": "MBN 뉴스파이터-신상 공개된 유동수 \"피해자에게 할 말 없다\"",
             "upload_date": null
@@ -416,7 +462,7 @@
             "url": "https://www.youtube.com/watch?v=_zf-h6yrMow",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:53.126000",
+            "collected_at": "2026-01-21T08:47:45.751000",
             "duration": 143.0,
             "title": "[23.12.5] 유동수의원, 내수 빙하기 시작, 성장잠재력 확충 위한 정책기조 전환 필요",
             "upload_date": null
@@ -426,7 +472,7 @@
             "url": "https://www.youtube.com/watch?v=dtfGhf6FmS0",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:53.126000",
+            "collected_at": "2026-01-21T08:47:45.751000",
             "duration": 272.0,
             "title": "[23.12.12] 유동수의원, 부동산PF, 마냥 낙관말고 철저 대비해야",
             "upload_date": null
@@ -436,7 +482,7 @@
             "url": "https://www.youtube.com/watch?v=vJY2HuqZK0g",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:53.126000",
+            "collected_at": "2026-01-21T08:47:45.751000",
             "duration": 613.0,
             "title": "인터뷰 릴레이 칭찬 242회 유동수 의원(더불어민주당)",
             "upload_date": null
@@ -446,7 +492,7 @@
             "url": "https://www.youtube.com/watch?v=eF4OoDsAV-Q",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-18T13:16:53.126000",
+            "collected_at": "2026-01-21T08:47:45.751000",
             "duration": 355.0,
             "title": "뉴스타파 - '세금도둑' 국회의원 추적⑩유동수, 가짜 견적서로 세금 빼돌려",
             "upload_date": null
@@ -456,11 +502,11 @@
             "url": "https://www.youtube.com/watch?v=cwpJDnddd64",
             "HG_NM": "유동수",
             "MONA_CD": "GX38539O",
-            "collected_at": "2026-01-14T10:20:50.715000",
+            "collected_at": "2026-01-21T08:47:45.751000",
             "duration": 78.0,
             "title": "노인 요양 기관 보험금 10% 환수, 정당하지 않습니다. #유동수 #더불어민주당 #계양갑 #노인요양기관 #보험금환수",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:30.204902"
+    "exported_at": "2026-01-21T10:09:27.203803"
 }

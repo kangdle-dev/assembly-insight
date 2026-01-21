@@ -42,30 +42,46 @@
     },
     "analysis": {
         "keywords": [
-            "대통령",
+            "단식",
+            "한동훈",
             "사과",
+            "장동",
+            "대통령",
+            "대표",
             "입법",
             "국민",
-            "한동훈",
+            "특검",
+            "평가",
+            "민주당",
             "보조원",
             "국감쇼츠",
             "탄핵",
-            "삼성",
-            "라이온즈",
-            "TBC뉴스",
-            "국정",
-            "감사",
-            "시상식",
-            "청년"
+            "삼성"
         ],
         "keyword_frequency": [
+            {
+                "text": "단식",
+                "value": 10
+            },
+            {
+                "text": "한동훈",
+                "value": 9
+            },
+            {
+                "text": "사과",
+                "value": 8
+            },
+            {
+                "text": "장동",
+                "value": 7
+            },
             {
                 "text": "대통령",
                 "value": 7
             },
             {
-                "text": "사과",
-                "value": 6
+                "text": "대표",
+                "value": 5
             },
             {
                 "text": "입법",
@@ -76,8 +92,16 @@
                 "value": 5
             },
             {
-                "text": "한동훈",
-                "value": 5
+                "text": "특검",
+                "value": 4
+            },
+            {
+                "text": "평가",
+                "value": 4
+            },
+            {
+                "text": "민주당",
+                "value": 4
             },
             {
                 "text": "보조원",
@@ -94,55 +118,109 @@
             {
                 "text": "삼성",
                 "value": 4
-            },
-            {
-                "text": "라이온즈",
-                "value": 4
-            },
-            {
-                "text": "TBC뉴스",
-                "value": 4
-            },
-            {
-                "text": "국정",
-                "value": 4
-            },
-            {
-                "text": "감사",
-                "value": 4
-            },
-            {
-                "text": "시상식",
-                "value": 4
-            },
-            {
-                "text": "청년",
-                "value": 3
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:05.221798",
+        "last_analyzed_at": "2026-01-21T10:09:03.945381",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                1,
                 0,
                 0,
                 0,
-                0,
+                2,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122b297082fcc2b34bf5",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474510?sid=100",
+            "created_at": "2026-01-21T08:39:21.472000",
+            "description": "&lt; 단식에 대처하는 다른 자세 &gt; 장동혁 대표 지금 단식 6일째이죠. 당 안팎 인사들의 발길은 끊이질 않고... '빨갱이' '북에서 온 쓰레기' 이거는 당에서 출당시키고 국회의원직 이걸 대표님께서 책임지고 박탈시켜야 합니다.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281015?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-20T20:54:00",
+            "related_members": [
+                "KFM1081G",
+                "9901388T",
+                "X7I4680R",
+                "4L695580",
+                "6EN68926"
+            ],
+            "title": "[비하인드 뉴스] '이재명 단식' 외면하던 국힘…장동혁 단식엔 \"왜 안 와..."
+        },
+        {
+            "_id": "6970122b297082fcc2b34bf6",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108679?sid=100",
+            "created_at": "2026-01-21T08:39:21.472000",
+            "description": "이성권·엄태영·권영진·고동진·유용원·서범수·안상훈 의원도 국회에서 조찬 모임을 마친 뒤 농성장을... 5선의 조정식 의원은 정무특보라는 분께서 한 번 찾아오지도 않는다\"고 비판했습니다. 이어 \"지금이라도 늦지... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463946&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T17:01:00",
+            "related_members": [
+                "2385336L",
+                "KBK8836C",
+                "PYA8594I",
+                "KFM1081G",
+                "HS39431V",
+                "LYY5513O",
+                "L7J93733",
+                "WXJ8352N",
+                "8348421R",
+                "9901388T",
+                "QWL7778X",
+                "DMP1439I",
+                "QQ429063",
+                "6EN68926",
+                "IN328264"
+            ],
+            "title": "장동혁 ‘쌍특검 단식’ 엿새째…“목숨 건 요구에도 답하지 않으면 자..."
+        },
+        {
+            "_id": "6970122b297082fcc2b34bf7",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690530?sid=100",
+            "created_at": "2026-01-21T08:39:21.472000",
+            "description": "한 전 대표 향후 행보에 대해 정광재 동연정치연구소장은 6월 3일 지방선거 및 국회의원 재보궐 선거에... 경기도지사 출마를 준비 중인 추미애 더불어민주당 의원이 한 방송에서 경기 시민에 대해 ‘2등 시민 의식’이라고... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260119/133185805/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-19T18:57:00",
+            "related_members": [
+                "9901388T",
+                "DMP1439I",
+                "QWL7778X",
+                "9YO73104",
+                "URV1689Q"
+            ],
+            "title": "“한동훈, 정치생명 걸고 무소속 출마해 평가받는 것 고려할만”[정치를..."
+        },
+        {
+            "_id": "6970122b297082fcc2b34bf8",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302841?sid=100",
+            "created_at": "2026-01-21T08:39:21.472000",
+            "description": "만약에 구속영장이 신청 청구돼서 체포동의안이 국회로 넘어온다면 민주당 의원들은 어떤 선택을 하게 될까요? [장철민] 그런 만약은 사실 부적절하기는 합니다. 저희가 구속영장이라고 하는 것이 그렇게 아무렇게나 하는... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601191643053226",
+            "press": "YTN",
+            "pubDate": "2026-01-19T16:43:00",
+            "related_members": [
+                "2NV6751W",
+                "EH27538E",
+                "KFM1081G",
+                "9901388T",
+                "QWL7778X"
+            ],
+            "title": "[정치ON] 장동혁, '쌍특검 단식' 닷새째...한동훈 '첫 사과 영상' 엇갈린..."
+        },
         {
             "_id": "6966ec71887d07f7ba2fb269",
             "link": "https://n.news.naver.com/mnews/article/421/0008710995?sid=100",
@@ -191,7 +269,7 @@
             "url": "https://www.youtube.com/watch?v=1XEQbGIdNeA",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-15T18:13:21.491000",
+            "collected_at": "2026-01-21T08:41:08.921000",
             "duration": 60.0,
             "title": "세계최초 씨름하는 국회의원 #강명구 #구미 #국회의원 #국민의힘 #씨름",
             "upload_date": null
@@ -201,7 +279,7 @@
             "url": "https://www.youtube.com/watch?v=UCCtkGmAo-iT32XzofwUgxgg",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-18T13:09:05.656000",
+            "collected_at": "2026-01-21T08:41:08.921000",
             "duration": null,
             "title": "강명구TV",
             "upload_date": null
@@ -211,7 +289,7 @@
             "url": "https://www.youtube.com/watch?v=8EVd2HlBa24",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-15T18:13:21.491000",
+            "collected_at": "2026-01-21T08:41:08.921000",
             "duration": 178.0,
             "title": "[2025 강명구 국감쇼츠] 세월호 선체절단물, 무엇을 폐기했는지도 몰라?! #해양수산부 #세월호 #국정감사 #국회의원 #국민의힘 #강명구 #구미",
             "upload_date": null
@@ -231,7 +309,7 @@
             "url": "https://www.youtube.com/watch?v=9TOBY18_Sws",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-14T10:14:20.115000",
+            "collected_at": "2026-01-21T08:41:09.699000",
             "duration": 100.0,
             "title": "[2025 강명구 국감쇼츠] 이재수 경사 순직, 다시는 이런 비극이 일어나지 않게 노력해야! #해양경찰청 #국민의힘 #강명구 #국회의원 #국정감사 #구미시을 #구미",
             "upload_date": null
@@ -241,7 +319,7 @@
             "url": "https://www.youtube.com/watch?v=jNiHaHBQO6Y",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-15T18:13:22.360000",
+            "collected_at": "2026-01-21T08:41:09.699000",
             "duration": 60.0,
             "title": "한동훈과 싸우던 강명구, \"대통령 탄핵하라고 한동훈 당대표 시킨 거 아니야\"",
             "upload_date": null
@@ -261,7 +339,7 @@
             "url": "https://www.youtube.com/watch?v=O17frUdaL1c",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-18T13:09:06.656000",
+            "collected_at": "2026-01-21T08:41:09.699000",
             "duration": 1038.0,
             "title": "[김태현의 정치쇼] 강명구 \"계엄 사과는 지엽적 문제…당게, 이번에 털고 기강 세워야\" |이너:뷰 251202(화)",
             "upload_date": null
@@ -271,7 +349,7 @@
             "url": "https://www.youtube.com/watch?v=jDf4AfFWfkY",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-01-18T13:09:05.656000",
+            "collected_at": "2026-01-21T08:41:08.921000",
             "duration": 466.0,
             "title": "여러가지 엮어서 공격했지만 본전도 못찾은 국힘 강명구",
             "upload_date": null
@@ -337,5 +415,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:05.221855"
+    "exported_at": "2026-01-21T10:09:03.945381"
 }

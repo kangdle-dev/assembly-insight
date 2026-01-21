@@ -47,21 +47,21 @@
             "국민",
             "기업",
             "국방비",
+            "회견",
             "기소",
             "영주",
             "집행",
-            "위원회",
             "국가",
             "기준",
+            "토론회",
             "국방",
             "장병",
-            "연말",
-            "지급"
+            "연말"
         ],
         "keyword_frequency": [
             {
                 "text": "임종",
-                "value": 20
+                "value": 16
             },
             {
                 "text": "특검",
@@ -80,6 +80,10 @@
                 "value": 6
             },
             {
+                "text": "회견",
+                "value": 6
+            },
+            {
                 "text": "기소",
                 "value": 6
             },
@@ -92,15 +96,15 @@
                 "value": 5
             },
             {
-                "text": "위원회",
-                "value": 5
-            },
-            {
                 "text": "국가",
                 "value": 4
             },
             {
                 "text": "기준",
+                "value": 4
+            },
+            {
+                "text": "토론회",
                 "value": 4
             },
             {
@@ -114,28 +118,24 @@
             {
                 "text": "연말",
                 "value": 4
-            },
-            {
-                "text": "지급",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:38.093942",
+        "last_analyzed_at": "2026-01-21T10:09:34.883004",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
+                1,
                 0,
                 0,
-                1,
-                1,
+                0,
                 0,
                 0,
                 0
@@ -211,7 +211,7 @@
             "_id": "6964b54b631fd174349960da",
             "link": "https://n.news.naver.com/mnews/article/421/0008683134?sid=100",
             "created_at": "2026-01-12T17:48:08.914000",
-            "description": "= ◇국회 -국회의장 10:00 12.29 여객기 참사 1주년 추모식(무안국제공항 여객터미널 2층) -상임위원회 10:00... 13:00 임종득 의원실, '새로운 조명' 학술대회: 영주 가흥동 마애여래삼존상 및 여래좌상(의원회관... ",
+            "description": "15:00 김선민 의원실 등, 고독사 예방을 넘어 사회적 고립 해소 체계 구축 국회 토론회(의원회관 제9간담회의실) ◇소통관 기자회견 10:00 모경종 의원, [지방선거 청년 특구 확대 관련 기자회견] 10:20 박충권 의원... ",
             "originallink": "https://www.news1.kr/politics/assembly/6021785",
             "press": "뉴스1",
             "pubDate": "2025-12-29T05:00:00",
@@ -227,7 +227,7 @@
             "_id": "6964b54b631fd174349960db",
             "link": "https://n.news.naver.com/mnews/article/003/0013680100?sid=100",
             "created_at": "2026-01-12T17:48:08.914000",
-            "description": "◇국회의장 10:00 12.29 여객기 참사 1주년 추모식(무안국제공항 여객터미널 2층) ◇상임위원회 10:00... 13:00 임종득 의원실, '새로운 조명' 학술대회: 영주 가흥동 마애여래삼존상 및 여래좌상(의원회관 제1소회의실)... ",
+            "description": "15:00 김선민 의원실 등, 고독사 예방을 넘어 사회적 고립 해소 체계 구축 국회 토론회(의원회관 제9간담회의실) ◇소통관 기자회견 10:00 모경종 의원, [지방선거 청년 특구 확대 관련 기자회견] 10:20 박충권 의원... ",
             "originallink": "https://www.newsis.com/view/NISX20251228_0003456945",
             "press": "뉴시스",
             "pubDate": "2025-12-29T05:00:00",
@@ -273,21 +273,11 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960accc631fd1743497d7e6",
-            "url": "https://www.youtube.com/watch?v=iviECnBKGys",
-            "HG_NM": "임종득",
-            "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-14T10:23:02.609000",
-            "duration": 120.0,
-            "title": "\"야! 인마\", \"뭐라고?\"...국감장에서 부승찬·임종득 폭발한 이유는?",
-            "upload_date": null
-        },
-        {
             "_id": "6960accc631fd1743497d7e8",
             "url": "https://www.youtube.com/watch?v=dCMo2gQiOG8",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-18T13:19:25.130000",
+            "collected_at": "2026-01-21T08:49:59.985000",
             "duration": 117.0,
             "title": "선을 넘네? 임종득 억지주장에 부승찬 의원 폭발!",
             "upload_date": null
@@ -297,7 +287,7 @@
             "url": "https://www.youtube.com/watch?v=OcGCQt4cTTs",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-18T13:19:25.130000",
+            "collected_at": "2026-01-21T08:49:59.985000",
             "duration": 173.0,
             "title": "나이·계급 모두 아래였던 임종득, 대장 출신 김병주에게 벼르고 별렀나 [오늘의 이슈]",
             "upload_date": null
@@ -307,7 +297,7 @@
             "url": "https://www.youtube.com/watch?v=YmlnE_pChRw",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-18T13:19:26.267000",
+            "collected_at": "2026-01-21T08:50:00.629000",
             "duration": 1476.0,
             "title": "[속보] 내란특검, '국가안보실 인사개입' 윤재순 · 임종득 직권남용 기소 - [MBC 뉴스속보] 2025년 12월 08일",
             "upload_date": null
@@ -337,7 +327,7 @@
             "url": "https://www.youtube.com/watch?v=NQkDCnR_zuI",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-18T13:19:25.130000",
+            "collected_at": "2026-01-21T08:49:59.985000",
             "duration": 167.0,
             "title": "해병특검, 임종득 의원 내일 소환, \"직권남용 등 혐의 피의자 신분\" - [현장PLAY] MBC뉴스 2025년 08월 11일",
             "upload_date": null
@@ -347,7 +337,7 @@
             "url": "https://www.youtube.com/watch?v=udbv7f1IIZI",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-15T18:22:43.528000",
+            "collected_at": "2026-01-21T08:50:00.629000",
             "duration": 185.0,
             "title": "[현장영상] \"어떤 연락 주고받았나 묻겠다\" '현역' 임종득 피의자로 소환 / JTBC News",
             "upload_date": null
@@ -357,7 +347,7 @@
             "url": "https://www.youtube.com/watch?v=-Ot_6hVbbjI",
             "HG_NM": "임종득",
             "MONA_CD": "RAJ1024Z",
-            "collected_at": "2026-01-18T13:19:25.130000",
+            "collected_at": "2026-01-21T08:49:59.985000",
             "duration": 173.0,
             "title": "나이·계급 모두 아래였던 임종득, 대장 출신 김병주에게 벼르고 별렀나 [말.ZIP]",
             "upload_date": null
@@ -381,7 +371,17 @@
             "duration": 279.0,
             "title": "국민의힘 임종득 의원1 11 2 합 국회 국방위원회 소속 국민의힘 위원 일동 야당 언론의 군 영현백 구매 의혹 제기 비판 기자회견",
             "upload_date": null
+        },
+        {
+            "_id": "697014aa297082fcc2b34ea2",
+            "url": "https://www.youtube.com/watch?v=wHe4u5Dcpi4",
+            "HG_NM": "임종득",
+            "MONA_CD": "RAJ1024Z",
+            "collected_at": "2026-01-21T08:49:59.985000",
+            "duration": 186.0,
+            "title": "'정신 나갔다'는 임종득 의원에 역대급 뿔난 용혜인 의원",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:38.094009"
+    "exported_at": "2026-01-21T10:09:34.883004"
 }

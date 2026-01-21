@@ -60,23 +60,23 @@
             "이혜훈",
             "공천",
             "출마",
+            "후보자",
             "양산",
             "국민",
             "후보",
-            "후보자",
             "대통령",
             "경남",
             "소속",
             "무릎",
+            "보좌진",
             "충돌",
             "당시",
-            "지사",
-            "유승준"
+            "인사"
         ],
         "keyword_frequency": [
             {
                 "text": "이혜훈",
-                "value": 10
+                "value": 12
             },
             {
                 "text": "공천",
@@ -85,6 +85,10 @@
             {
                 "text": "출마",
                 "value": 8
+            },
+            {
+                "text": "후보자",
+                "value": 7
             },
             {
                 "text": "양산",
@@ -97,10 +101,6 @@
             {
                 "text": "후보",
                 "value": 6
-            },
-            {
-                "text": "후보자",
-                "value": 5
             },
             {
                 "text": "대통령",
@@ -119,6 +119,10 @@
                 "value": 5
             },
             {
+                "text": "보좌진",
+                "value": 4
+            },
+            {
                 "text": "충돌",
                 "value": 4
             },
@@ -127,28 +131,24 @@
                 "value": 4
             },
             {
-                "text": "지사",
-                "value": 4
-            },
-            {
-                "text": "유승준",
+                "text": "인사",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:16.312399",
+        "last_analyzed_at": "2026-01-21T10:09:13.626794",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 1,
@@ -158,6 +158,19 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6970123f297082fcc2b34c96",
+            "link": "https://n.news.naver.com/mnews/article/023/0003953798?sid=100",
+            "created_at": "2026-01-21T08:39:41.832000",
+            "description": "이 후보자에 대해선 국회의원 시절 보좌진 갑질·폭언, 장남의 ‘위장 미혼’을 통한 강남 아파트 부정... 경제학자 출신인 이 후보자는 1980~2000년대 울산에서 4선 의원을 지낸 고(故) 김태호 전 내무부 장관의... ",
+            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/19/B3PLJEM76BAHTA3Y3U7PDQTOUY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-19T00:51:00",
+            "related_members": [
+                "P0F1530P"
+            ],
+            "title": "권력의지 남다른 이혜훈... ‘시댁 家業’ 정치 물려받아"
+        },
         {
             "_id": "6969b96a297082fcc2b1946c",
             "link": "https://n.news.naver.com/mnews/article/053/0000055075?sid=100",
@@ -275,86 +288,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac48631fd1743497d5c5",
-            "url": "https://www.youtube.com/watch?v=qii5mq_47x0",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:21.637000",
-            "duration": 184.0,
-            "title": "2023년 상반기 국회의원 김태호 의정활동 홍보 영상",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5c6",
-            "url": "https://www.youtube.com/watch?v=UCW_Pjyl3LXekZH4yblocfoA",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:21.637000",
-            "duration": null,
-            "title": "김태호와 함께",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5c7",
-            "url": "https://www.youtube.com/watch?v=o4zUgQf3his",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-15T18:16:15.018000",
-            "duration": 5644.0,
-            "title": "명사초청 담담담 (이창호_九단 vs 국회의원 김태호) (01/21)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5c8",
-            "url": "https://www.youtube.com/watch?v=-00XRT_zQYQ",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:22.664000",
-            "duration": 271.0,
-            "title": "유승준 비자 발급 안 하는 게 공권력 남용?｜국힘 김태호 \"20년 동안 고생한 유승준 기본권 챙겨줘야\" [PICK] / 연합뉴스TV(YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5c9",
-            "url": "https://www.youtube.com/watch?v=nRXIMW_VpZ0",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:21.637000",
-            "duration": 122.0,
-            "title": "[KNN 뉴스]김무성 김태호 충돌 정치적 고립 위기",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5ca",
-            "url": "https://www.youtube.com/watch?v=cfSG2G7rQNc",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:21.637000",
-            "duration": 271.0,
-            "title": "[지금뉴스] 무릎꿇은 국힘 원내대표 후보 김태호…“이젠 대통령 손을 놓을 때” / KBS 2024.12.12.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5cb",
-            "url": "https://www.youtube.com/watch?v=tTwxfgWNnyw",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:21.637000",
-            "duration": 320.0,
-            "title": "김태호 후보, 야당 의원에게 \"집사람한테 사과해라\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5cc",
-            "url": "https://www.youtube.com/watch?v=QBFOWXSu5MA",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-09T16:20:36.918000",
-            "duration": 84.0,
-            "title": "김태호, 총선 불출마 선언... 그 속내는?",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac48631fd1743497d5cd",
             "url": "https://www.youtube.com/watch?v=Vc0Rxd2Leec",
             "HG_NM": "김태호",
@@ -365,43 +298,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac48631fd1743497d5ce",
-            "url": "https://www.youtube.com/watch?v=HnbyRY3ffeQ",
+            "_id": "6970133a297082fcc2b34df9",
+            "url": "https://www.youtube.com/watch?v=KxUvNO7PPsU",
             "HG_NM": "김태호",
             "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-09T16:20:37.634000",
-            "duration": 376.0,
-            "title": "최강록 노 젓는다…김태호PD 손잡고 웹예능 '식덕후' 출연 [투데이 '픽'/iMBC연예뉴스]",
+            "collected_at": "2026-01-21T08:43:52.906000",
+            "duration": 617.0,
+            "title": "유재석 앵커에게 주어진 시간, 사실 10분이 아니었다? 김태호 PD가 이런 문자를 보냈어요... | 놀면뭐하니 출연 아나운서들의 비하인드 썰!!",
             "upload_date": null
         },
         {
-            "_id": "6960ac48631fd1743497d5cf",
-            "url": "https://www.youtube.com/watch?v=EdatT-VJ3UU",
+            "_id": "6970133a297082fcc2b34df8",
+            "url": "https://www.youtube.com/watch?v=l_m5l-uVOrM",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.173000",
+            "duration": 117.0,
+            "title": "김태호 국회의원, 을사년(乙巳年) 새해인사",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5da6297082fcc2b19c43",
+            "url": "https://www.youtube.com/watch?v=MS0j-A9x_nA",
             "HG_NM": "김태호",
             "MONA_CD": "P0F1530P",
             "collected_at": "2026-01-18T13:12:22.664000",
-            "duration": 921.0,
-            "title": "[놀면 뭐하니?] 김태호PD 또 판벌림🥶 명불허전 국민MC의 앵커 도전📡ㅣ#앵커 #뉴스 #엠뚜루마뚜루 MBC210828방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac48631fd1743497d5d0",
-            "url": "https://www.youtube.com/watch?v=JU0bPCkAxW4",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-09T16:20:37.634000",
-            "duration": 319.0,
-            "title": "[3.8 풀영상 무소속 출마 기자회견] 김태호 \"꼭 살아오겠습니다!\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6965957c887d07f7ba2fac41",
-            "url": "https://www.youtube.com/watch?v=ABJ2Zmtz6nU",
-            "HG_NM": "김태호",
-            "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-15T18:16:15.921000",
-            "duration": 293.0,
-            "title": "[오늘 이 뉴스] 무릎 꿇은 김태호 '사죄' \"이제 대통령 손 놓을 때\" (2024.12.12/MBC뉴스)",
+            "duration": 110.0,
+            "title": "홍준표·김태호 '공천 탈락'…무소속 출마할 듯 (2020.03.06/뉴스투데이/MBC)",
             "upload_date": null
         },
         {
@@ -415,15 +338,125 @@
             "upload_date": null
         },
         {
-            "_id": "696c5da6297082fcc2b19c43",
-            "url": "https://www.youtube.com/watch?v=MS0j-A9x_nA",
+            "_id": "6965957c887d07f7ba2fac41",
+            "url": "https://www.youtube.com/watch?v=ABJ2Zmtz6nU",
             "HG_NM": "김태호",
             "MONA_CD": "P0F1530P",
-            "collected_at": "2026-01-18T13:12:22.664000",
-            "duration": 110.0,
-            "title": "홍준표·김태호 '공천 탈락'…무소속 출마할 듯 (2020.03.06/뉴스투데이/MBC)",
+            "collected_at": "2026-01-21T08:43:52.906000",
+            "duration": 293.0,
+            "title": "[오늘 이 뉴스] 무릎 꿇은 김태호 '사죄' \"이제 대통령 손 놓을 때\" (2024.12.12/MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5d0",
+            "url": "https://www.youtube.com/watch?v=JU0bPCkAxW4",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-09T16:20:37.634000",
+            "duration": 319.0,
+            "title": "[3.8 풀영상 무소속 출마 기자회견] 김태호 \"꼭 살아오겠습니다!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5cf",
+            "url": "https://www.youtube.com/watch?v=EdatT-VJ3UU",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.906000",
+            "duration": 921.0,
+            "title": "[놀면 뭐하니?] 김태호PD 또 판벌림🥶 명불허전 국민MC의 앵커 도전📡ㅣ#앵커 #뉴스 #엠뚜루마뚜루 MBC210828방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5ce",
+            "url": "https://www.youtube.com/watch?v=HnbyRY3ffeQ",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-09T16:20:37.634000",
+            "duration": 376.0,
+            "title": "최강록 노 젓는다…김태호PD 손잡고 웹예능 '식덕후' 출연 [투데이 '픽'/iMBC연예뉴스]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5c5",
+            "url": "https://www.youtube.com/watch?v=qii5mq_47x0",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.173000",
+            "duration": 184.0,
+            "title": "2023년 상반기 국회의원 김태호 의정활동 홍보 영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5cc",
+            "url": "https://www.youtube.com/watch?v=QBFOWXSu5MA",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-09T16:20:36.918000",
+            "duration": 84.0,
+            "title": "김태호, 총선 불출마 선언... 그 속내는?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5cb",
+            "url": "https://www.youtube.com/watch?v=tTwxfgWNnyw",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.173000",
+            "duration": 320.0,
+            "title": "김태호 후보, 야당 의원에게 \"집사람한테 사과해라\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5ca",
+            "url": "https://www.youtube.com/watch?v=cfSG2G7rQNc",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.173000",
+            "duration": 271.0,
+            "title": "[지금뉴스] 무릎꿇은 국힘 원내대표 후보 김태호…“이젠 대통령 손을 놓을 때” / KBS 2024.12.12.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5c9",
+            "url": "https://www.youtube.com/watch?v=nRXIMW_VpZ0",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.173000",
+            "duration": 122.0,
+            "title": "[KNN 뉴스]김무성 김태호 충돌 정치적 고립 위기",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5c8",
+            "url": "https://www.youtube.com/watch?v=-00XRT_zQYQ",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.906000",
+            "duration": 271.0,
+            "title": "유승준 비자 발급 안 하는 게 공권력 남용?｜국힘 김태호 \"20년 동안 고생한 유승준 기본권 챙겨줘야\" [PICK] / 연합뉴스TV(YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5c7",
+            "url": "https://www.youtube.com/watch?v=o4zUgQf3his",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-15T18:16:15.018000",
+            "duration": 5644.0,
+            "title": "명사초청 담담담 (이창호_九단 vs 국회의원 김태호) (01/21)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac48631fd1743497d5c6",
+            "url": "https://www.youtube.com/watch?v=UCW_Pjyl3LXekZH4yblocfoA",
+            "HG_NM": "김태호",
+            "MONA_CD": "P0F1530P",
+            "collected_at": "2026-01-21T08:43:52.173000",
+            "duration": null,
+            "title": "김태호와 함께",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:16.312471"
+    "exported_at": "2026-01-21T10:09:13.626794"
 }

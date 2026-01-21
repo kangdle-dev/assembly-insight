@@ -60,9 +60,9 @@
             "선거",
             "인사",
             "승리",
-            "신년",
-            "대표",
             "장동",
+            "대표",
+            "신년",
             "다짐",
             "강원도",
             "위원장",
@@ -71,19 +71,19 @@
         "keyword_frequency": [
             {
                 "text": "정점",
-                "value": 55
+                "value": 56
             },
             {
                 "text": "국민",
-                "value": 33
+                "value": 34
             },
             {
                 "text": "의장",
-                "value": 28
+                "value": 29
             },
             {
                 "text": "정책위",
-                "value": 26
+                "value": 28
             },
             {
                 "text": "지방",
@@ -95,14 +95,14 @@
             },
             {
                 "text": "인사",
-                "value": 14
+                "value": 12
             },
             {
                 "text": "승리",
                 "value": 12
             },
             {
-                "text": "신년",
+                "text": "장동",
                 "value": 10
             },
             {
@@ -110,7 +110,7 @@
                 "value": 9
             },
             {
-                "text": "장동",
+                "text": "신년",
                 "value": 8
             },
             {
@@ -130,29 +130,77 @@
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:40.881820",
+        "last_analyzed_at": "2026-01-21T10:09:37.682326",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                2,
-                4,
                 4,
                 0,
                 0,
+                1,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701248297082fcc2b34cc9",
+            "link": "https://n.news.naver.com/mnews/article/015/0005239479?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 이날 오전 국회에서 열린 원내대책회의에서... 정점식 정책위의장은 \"보좌진 갑질 폭언으로 시작해 남편과 수도원 일대 토지와 상가를 매입, 30억 원이 넘는 시세차익을... ",
+            "originallink": "https://www.hankyung.com/article/2026012008287",
+            "press": "한국경제",
+            "pubDate": "2026-01-20T10:12:00",
+            "related_members": [
+                "FU87526G",
+                "LJK4960Z"
+            ],
+            "title": "국힘 \"이혜훈, 자료 안 내면 청문회장 못 선다\"…각종 의혹 맹공"
+        },
+        {
+            "_id": "69701248297082fcc2b34cca",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723271?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 이날 오전 국회에서 열린 원내대책회의에서... 최은석 원내수석대변인도 원대회의 후 기자들과 만나 \"어제 인사청문회 이후로 추가로 제출된 자료는 없다. 후보자의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6044426",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T09:50:00",
+            "related_members": [
+                "FU87526G",
+                "LJK4960Z",
+                "UF53617M"
+            ],
+            "title": "국힘 \"이혜훈, 청문회장 입장하려면 자료 빠짐없이 제출해야\"(종합)"
+        },
+        {
+            "_id": "69701231297082fcc2b34c30",
+            "link": "https://n.news.naver.com/mnews/article/032/0003422237?sid=110",
+            "created_at": "2026-01-21T08:39:27.387000",
+            "description": "지난해 1월 공수처의 영장 집행 1차 시도 때 장동혁·나경원·송언석·정점식 등 국민의힘 의원 45명은 한남동... 당시 집권 여당이요, 헌정질서를 지켜야 할 국회의원들이 이렇게 공권력을 업신여기는 분위기를 조장하지... ",
+            "originallink": "https://www.khan.co.kr/article/202601181810001",
+            "press": "경향신문",
+            "pubDate": "2026-01-18T18:10:00",
+            "related_members": [
+                "SLW27496",
+                "KFM1081G",
+                "X7I4680R",
+                "LJK4960Z",
+                "6EN68926",
+                "NX534083",
+                "MSY7784L"
+            ],
+            "title": "[사설]윤석열 재판 침묵하는 국힘, ‘장동혁 계엄 사과’ 공염불인가"
+        },
         {
             "_id": "696902b2297082fcc2b19268",
             "link": "https://n.news.naver.com/mnews/article/011/0004579315?sid=100",
@@ -470,7 +518,7 @@
             "_id": "6964b548631fd17434996090",
             "link": "https://n.news.naver.com/mnews/article/052/0002298166?sid=100",
             "created_at": "2026-01-12T17:48:05.535000",
-            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 되면 양문석 의원도 지금 현재 대법원 판결 앞두고 있고 해서 미니 총선이 될 가능성, 이런 이야기도 나오고... ",
+            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 있었냐면 김도읍 의원이 빠졌던 정책위의장 자리에 PK 3선의 정점식 의원을 지명했고요. 그리고 지명직... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601082154190243",
             "press": "YTN",
             "pubDate": "2026-01-08T21:54:00",
@@ -488,6 +536,22 @@
             "title": "[뉴스NIGHT] 장동혁 '계엄 사과' 후폭풍...민주, '김병기 방지법' 도입"
         },
         {
+            "_id": "6964b583631fd17434996441",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106789&s_mcd=0263&s_hcd=01",
+            "created_at": "2026-01-12T17:49:04.973000",
+            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 들면 추경호, 주호영 그러면 둘 중에 하나는 뭐 물론 이진숙 전 사장도 있습니다만 ☆ 장성철 : 대구 같은 경우에는요.... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106789&s_mcd=0263&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-08T20:30:00",
+            "related_members": [
+                "9YO73104",
+                "LJK4960Z",
+                "8SV6917G",
+                "G152611B"
+            ],
+            "title": "박원석 \"한동훈, 윤어게인 달래기 위한 제물\"...장성철 \"국힘, 평택을 두..."
+        },
+        {
             "_id": "6964b583631fd17434996440",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106788&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-12T17:49:04.973000",
@@ -503,22 +567,6 @@
                 "G152611B"
             ],
             "title": "김종혁 \"장동혁, 스스로 발광하지 못해...윤어게인 세력에 도구처럼 쓰..."
-        },
-        {
-            "_id": "6964b583631fd17434996441",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106789&s_mcd=0263&s_hcd=01",
-            "created_at": "2026-01-12T17:49:04.973000",
-            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 들면 추경호, 주호영 그러면 둘 중에 하나는 뭐 물론 이진숙 전 사장도 있습니다만 ☆ 장성철 : 대구 같은 경우에는요.... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106789&s_mcd=0263&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-08T20:30:00",
-            "related_members": [
-                "9YO73104",
-                "LJK4960Z",
-                "8SV6917G",
-                "G152611B"
-            ],
-            "title": "박원석 \"한동훈, 윤어게인 달래기 위한 제물\"...장성철 \"국힘, 평택을 두..."
         },
         {
             "_id": "6964b583631fd17434996442",
@@ -623,22 +671,6 @@
                 "GX22581L"
             ],
             "title": "박완수 경남지사 근본과 기본이 희망의 출발점”"
-        },
-        {
-            "_id": "6964b541631fd17434995ff3",
-            "link": "https://n.news.naver.com/mnews/article/003/0013693220?sid=102",
-            "created_at": "2026-01-12T17:47:58.871000",
-            "description": "행사는 도민의 희망을 담은 새해소망 영상 상영을 시작으로, 최재호·이종붕 회장의 인사말, 박완수 도지사 신년사, 최학범 도의회 의장과 박종훈 교육감 축사, 강민국·신성범·김종양·정점식 국회의원의 새해 인사... ",
-            "originallink": "https://www.newsis.com/view/NISX20260105_0003465535",
-            "press": "뉴시스",
-            "pubDate": "2026-01-05T15:03:00",
-            "related_members": [
-                "RMC1840P",
-                "LJK4960Z",
-                "N378078V",
-                "GX22581L"
-            ],
-            "title": "박완수 경남도지사, 신년인사회서 '歸根得旨' 강조"
         }
     ],
     "recent_videos": [
@@ -653,11 +685,21 @@
             "upload_date": null
         },
         {
+            "_id": "697014d3297082fcc2b34ec0",
+            "url": "https://www.youtube.com/watch?v=WQmubVWQpM0",
+            "HG_NM": "정점식",
+            "MONA_CD": "LJK4960Z",
+            "collected_at": "2026-01-21T08:50:41.492000",
+            "duration": 262.0,
+            "title": "통영 정점식 국회의원 출마 기자회견",
+            "upload_date": null
+        },
+        {
             "_id": "6968b212297082fcc2b19129",
             "url": "https://www.youtube.com/watch?v=xY7ry2jD1F0",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:14.160000",
+            "collected_at": "2026-01-21T08:50:42.202000",
             "duration": 1034.0,
             "title": "\"이재명 방탄법 아닌가\" 정점식 '국정안정법' 태클 걸자 강훈식, 헌법 꺼내며 단호히 반박",
             "upload_date": null
@@ -677,7 +719,7 @@
             "url": "https://www.youtube.com/watch?v=_9I989Y9xVQ",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:13.152000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": 137.0,
             "title": "“‘최강욱 고발장’ 초안, 정점식 의원이 전달…당 연루 확인” / KBS 2021.09.10.",
             "upload_date": null
@@ -687,7 +729,7 @@
             "url": "https://www.youtube.com/watch?v=szOMsGTpT2Q",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:14.160000",
+            "collected_at": "2026-01-21T08:50:42.202000",
             "duration": 380.0,
             "title": "정점식, 강훈식 면전서 작심하고 쏟아낸 말 [티조Clip]",
             "upload_date": null
@@ -717,7 +759,7 @@
             "url": "https://www.youtube.com/watch?v=q8smnPpYS5M",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-15T18:23:27.506000",
+            "collected_at": "2026-01-21T08:50:42.202000",
             "duration": 125.0,
             "title": "정점식 의원 사무실 압수수색…박지원 국정원장 입건 / SBS",
             "upload_date": null
@@ -737,7 +779,7 @@
             "url": "https://www.youtube.com/watch?v=UCuxPd2fIVdhhPuMacrGXMcA",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:13.152000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": null,
             "title": "정점식",
             "upload_date": null
@@ -747,7 +789,7 @@
             "url": "https://www.youtube.com/watch?v=Zzfltyfo_aQ",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:13.152000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": 600.0,
             "title": "[투데이 Pick? Pick!] 정점식 의원이 '초안' 전달‥\"출처 기억 못 해\" (2021.09.10)",
             "upload_date": null
@@ -757,7 +799,7 @@
             "url": "https://www.youtube.com/watch?v=0-5hVr_hsUE",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:14.160000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": 1791.0,
             "title": "[뉴스포커스] 정점식 의원이 '고발장 초안' 전달…\"출처 기억 못해\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -767,7 +809,7 @@
             "url": "https://www.youtube.com/watch?v=wNTdYRj_bQw",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:14.160000",
+            "collected_at": "2026-01-21T08:50:42.202000",
             "duration": 1075.0,
             "title": "정점식 \"장관 뜻이 확고했던 것 아닙니까\" [티조Clip]",
             "upload_date": null
@@ -787,7 +829,7 @@
             "url": "https://www.youtube.com/watch?v=xE82XYBT2qg",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:13.152000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": 380.0,
             "title": "국민의힘 정점식 의원과 면담(201103)",
             "upload_date": null
@@ -807,7 +849,7 @@
             "url": "https://www.youtube.com/watch?v=3IZf-xTbC0o",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:13.152000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": 92.0,
             "title": "국민의힘, '부인상' 정점식 의원 공천 면접 서류 대체 국민의소리TV",
             "upload_date": null
@@ -817,11 +859,11 @@
             "url": "https://www.youtube.com/watch?v=S1gwATjGfz0",
             "HG_NM": "정점식",
             "MONA_CD": "LJK4960Z",
-            "collected_at": "2026-01-18T13:20:13.152000",
+            "collected_at": "2026-01-21T08:50:41.492000",
             "duration": 444.0,
             "title": "법제사법위원회 국정감사 정점식 의원 풀발언 [10월 21일 오후]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:40.881954"
+    "exported_at": "2026-01-21T10:09:37.682326"
 }

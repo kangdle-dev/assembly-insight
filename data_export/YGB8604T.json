@@ -43,106 +43,466 @@
     "analysis": {
         "keywords": [
             "천하",
+            "이혜훈",
             "대표",
             "개혁",
-            "이혜훈",
+            "청문회",
             "신당",
-            "원내",
             "국민",
-            "후보자",
-            "보좌진",
-            "연대",
-            "민주당",
+            "원내",
             "대통령",
+            "자료",
             "외전",
-            "발언",
-            "후보"
+            "후보자",
+            "후보",
+            "의혹",
+            "장동"
         ],
         "keyword_frequency": [
             {
                 "text": "천하",
-                "value": 53
+                "value": 60
+            },
+            {
+                "text": "이혜훈",
+                "value": 48
             },
             {
                 "text": "대표",
-                "value": 41
+                "value": 29
             },
             {
                 "text": "개혁",
                 "value": 29
             },
             {
-                "text": "이혜훈",
-                "value": 27
+                "text": "청문회",
+                "value": 28
             },
             {
                 "text": "신당",
                 "value": 25
             },
             {
-                "text": "원내",
-                "value": 24
-            },
-            {
                 "text": "국민",
-                "value": 17
+                "value": 21
             },
             {
-                "text": "후보자",
-                "value": 16
-            },
-            {
-                "text": "보좌진",
-                "value": 15
-            },
-            {
-                "text": "연대",
-                "value": 14
-            },
-            {
-                "text": "민주당",
-                "value": 13
+                "text": "원내",
+                "value": 18
             },
             {
                 "text": "대통령",
                 "value": 13
             },
             {
+                "text": "자료",
+                "value": 12
+            },
+            {
                 "text": "외전",
                 "value": 12
             },
             {
-                "text": "발언",
-                "value": 10
+                "text": "후보자",
+                "value": 11
             },
             {
                 "text": "후보",
+                "value": 11
+            },
+            {
+                "text": "의혹",
                 "value": 10
+            },
+            {
+                "text": "장동",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:44.952636",
+        "last_analyzed_at": "2026-01-21T10:09:41.794659",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                3,
                 8,
-                7,
-                10,
                 1,
-                1
+                1,
+                6,
+                11,
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701233297082fcc2b34c3a",
+            "link": "https://n.news.naver.com/mnews/article/079/0004107251?sid=100",
+            "created_at": "2026-01-21T08:39:29.688000",
+            "description": "◇ 박재홍&gt; 천하람 원내대표 같은 경우는 이분이 하는 얘기는 100시간도 할 수 있다, 지금까지. ◆ 신동욱... ◆ 신동욱&gt; 그동안 인사 검증이라는 게 국회의원을 이분이 했기 때문에 국회의원은 재산 신고의 의무만 있는... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6459319?utm_source=naver&utm_medium=article&utm_campaign=20260121073056",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-21T07:31:00",
+            "related_members": [
+                "OWD1018N",
+                "MLH1404S",
+                "4019850M",
+                "AEJ19639",
+                "YOG1280B",
+                "8UC4779G",
+                "QWL7778X",
+                "KFM1081G",
+                "YGB8604T"
+            ],
+            "title": "신동욱 \"신천지 특검 거부할 이유 없어, 통일교 특검과는 따로\"[한판승..."
+        },
+        {
+            "_id": "69701248297082fcc2b34cc4",
+            "link": "https://n.news.naver.com/mnews/article/022/0004099180?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 국회에서 열린 원내대책회의에서 “국민의힘과... 한병도 원내대표는 당 원내대책회의에서 “자료가 미비하고 각종 의혹이 있다면 청문회장에서 후보자를 불러... ",
+            "originallink": "https://www.segye.com/newsView/20260120517953?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-21T06:03:00",
+            "related_members": [
+                "FU87526G",
+                "EH27538E",
+                "UHB5553T",
+                "YGB8604T",
+                "H5476989"
+            ],
+            "title": "“자료부실” 버티던 野, 21일 이혜훈과 협의… 청문회 돌파구 열리나"
+        },
+        {
+            "_id": "69701238297082fcc2b34c6e",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474525?sid=100",
+            "created_at": "2026-01-21T08:39:35.049000",
+            "description": "이런 가운데 천하람 개혁신당 의원은 국회방송 인터뷰에서 \"장 대표의 단식이 당내 결집용으로만 소비돼선 안 된다\"며 \"통일교·공천 헌금 특검이라는 본래 취지에 초점을 맞춰야 한다\"고 말했습니다.",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281041?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-21T00:02:00",
+            "related_members": [
+                "8O34202I",
+                "KFM1081G",
+                "YGB8604T"
+            ],
+            "title": "유승민 오세훈 찾는 장동혁, 산소발생기 착용…천하람 \"취지 집중해야\""
+        },
+        {
+            "_id": "6970122a297082fcc2b34bec",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303497?sid=100",
+            "created_at": "2026-01-21T08:39:21.164000",
+            "description": "국회의원에게 주어진 청문이라는 게 절차잖아요. 인사했느냐라는 게 법에 나와 있는 거 아니에요.... [한병도 / 더불어민주당 원내대표 : '신천지가 신도들을 조직적으로 국민의힘에 입당시켰다'는 언론보도가 확인됐습니다.... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601202202097520",
+            "press": "YTN",
+            "pubDate": "2026-01-20T22:02:00",
+            "related_members": [
+                "KFM1081G",
+                "8P37634C",
+                "MNZ4401T",
+                "8Q88373R",
+                "N2P9317N",
+                "GOC54665",
+                "6AU2417B",
+                "QQ429063",
+                "7XY7109I",
+                "6EN68926",
+                "2385336L",
+                "YGB8604T",
+                "H5476989"
+            ],
+            "title": "[뉴스NIGHT] 이혜훈 청문회 또 무산...장동혁 '단식 투쟁' 계속"
+        },
+        {
+            "_id": "6970122c297082fcc2b34c05",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303357?sid=100",
+            "created_at": "2026-01-21T08:39:22.332000",
+            "description": "그래서 문제가 생기면 지역위원장이 국회의원이든 아니든 다 처벌하겠다라고 하는 원칙을 분명히 세워서... 나온 천하람 의원이 제기한 비망록 의혹에 대해서는 어떻게 보십니까? [박용진] 저게 어디서 어떻게 가져왔는지... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601201643171628",
+            "press": "YTN",
+            "pubDate": "2026-01-20T16:43:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "8BF5855P",
+                "6EN68926",
+                "EH27538E",
+                "2385336L",
+                "YGB8604T"
+            ],
+            "title": "[정치ON] 강선우 \"원칙 지키는 삶 살아\"...이혜훈 청문회 '파행'"
+        },
+        {
+            "_id": "69701247297082fcc2b34cb8",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325937?sid=100",
+            "created_at": "2026-01-21T08:39:49.711000",
+            "description": "■ 방송 : SBS &lt;편상욱의 뉴스브리핑&gt; 월~금 (14:00~15:00) ■ 진행 : 편상욱 앵커 ■ 대담 : 박성준 중구·성동구을 국회의원, 최은석 국민의힘 원내수석대변인 -------------------------------------------- ● 이혜훈 청문회 무산 박성준... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008411124&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-20T16:00:00",
+            "related_members": [
+                "IL74008M",
+                "UF53617M",
+                "YGB8604T"
+            ],
+            "title": "[여담야담] 이틀째 문도 못 연 이혜훈 청문회…청와대 선택은?"
+        },
+        {
+            "_id": "6970122c297082fcc2b34c06",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108706?sid=100",
+            "created_at": "2026-01-21T08:39:22.332000",
+            "description": "그 이후에 김경 시의원이 민주당 원내대표를 하려고 하니까 이례적으로 국회의원 신분으로 여러 사람들한테... ◎김용준: 지금 개혁신당의 천하람 원내대표도 조금 전에 글을 올렸던데, 이 시험 답안에 빗대서 이 후보자의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463910&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T16:00:00",
+            "related_members": [
+                "MNZ4401T",
+                "KFM1081G",
+                "MLH1404S",
+                "8Q88373R",
+                "X3170462",
+                "6EN68926",
+                "2385336L",
+                "YGB8604T"
+            ],
+            "title": "[사사건건] 장동혁 단식 6일째…국민의힘 생각하는 ‘출구’는?"
+        },
+        {
+            "_id": "6970122c297082fcc2b34c08",
+            "link": "https://n.news.naver.com/mnews/article/421/0008724100?sid=100",
+            "created_at": "2026-01-21T08:39:22.332000",
+            "description": "전 국회의원 \"이혜훈 자료만 달라는 야당 청문위원 나태…발품 팔아야\" \"내가 공직기강비서관이라면 큰일... ▶조응천 : 안 갖다주니 천하람 의원 외에는 뭐 별로 그런 맞습니다. 노력을 하는 흔적이 잘 안 보이는. ▷이호승... ",
+            "originallink": "https://www.news1.kr/politics/president/6044876",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T14:23:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "MLH1404S",
+                "SLW27496",
+                "X3170462",
+                "5KV82250",
+                "YGB8604T"
+            ],
+            "title": "[인터뷰 전문] 조응천 \"한동훈에 대한 국힘 내부의 증오 광범위…제명할..."
+        },
+        {
+            "_id": "6970122c297082fcc2b34c0a",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303204?sid=100",
+            "created_at": "2026-01-21T08:39:22.332000",
+            "description": "그런데 하물며 선출직 공무원으로서 3선 국회의원으로서 애지중지 집에 있는 가족들 생각하면 본인 가족들은... 이런 가운데 어제 저녁 이재명 대통령과 민주당정청래 대표 한병도 원내대표를 비롯한 민주당 지도부가... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601201237134958",
+            "press": "YTN",
+            "pubDate": "2026-01-20T12:37:00",
+            "related_members": [
+                "MNZ4401T",
+                "YGB8604T",
+                "GDG1847Z",
+                "8Q88373R",
+                "WTR5885Y",
+                "EH27538E",
+                "H5476989",
+                "2385336L"
+            ],
+            "title": "[시사정각] 청문회 이대로 무산?...천하람이 밝힌 이혜훈의 기도는"
+        },
+        {
+            "_id": "69701241297082fcc2b34c9b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723780?sid=100",
+            "created_at": "2026-01-21T08:39:43.583000",
+            "description": "조 전 의원은 \"작은 단서라도 찾기 위해 그렇게 노력해야 하는데 천하람 개혁신당 의원 외에는 그런 노력을... 했지만, 국회의원 선수 외에 장관직이라는 데코레이션이 없어 장관직이 부러웠던 것 같다\"고 했다. 조 전... ",
+            "originallink": "https://www.news1.kr/politics/president/6044716",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T11:59:00",
+            "related_members": [
+                "SLW27496",
+                "YGB8604T"
+            ],
+            "title": "조응천 \"野, 유리한 국면서 이혜훈 청문회 보이콧? 이해 안돼\"[팩트앤뷰..."
+        },
+        {
+            "_id": "6970127a297082fcc2b34d80",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474367?sid=102",
+            "created_at": "2026-01-21T08:40:40.829000",
+            "description": "천하람 개혁신당 의원이 이혜훈 기획예산처 장관 후보자가 '부하 직원에게 히스테리 부리는 것을 고쳐달라... 않는다\"며 \"국회의원들은 항상 낙선하는데 일부가 낙선했다고 해서 기도가 제대로 작성했다는 건 종교에 대한... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280881?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-20T10:56:00",
+            "related_members": [
+                "YGB8604T"
+            ],
+            "title": "천하람 \"이혜훈, 비망록서 '오 하나님 화 잘 내는 저 고쳐주세요' 기도..."
+        },
+        {
+            "_id": "69701269297082fcc2b34d43",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325798?sid=100",
+            "created_at": "2026-01-21T08:40:23.360000",
+            "description": "뻔뻔한 작태 -이준석, 장동혁과 동조단식 보다 다른 공조할듯 ■ 방송 : SBS 김태현의 정치쇼 (FM 103.5 MHz 7:00 ~ 9:00) ■ 일자 : 2026년 1월 20일 (화) ■ 진행 : 김태현 변호사 ■ 출연 : 천하람 개혁신당 의원 (국회 재경위원)... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410506&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-20T08:56:00",
+            "related_members": [
+                "QWL7778X",
+                "YGB8604T",
+                "KFM1081G",
+                "TZP9391O",
+                "EH27538E"
+            ],
+            "title": "[단독] 천하람 \"이혜훈 '주님, 화 잘내는 저를 고쳐주세요'…비망록 속..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c1e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106808?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "지난주에 천하람 의원이 여기 금요일 나와서 내가 그거 다 알고 있다 얘기했잖아요. ◇ 박재홍&gt; 방송... 그런데 이렇게 할 거면 국회의원 세비 반납해야 됩니다. ◆ 노영희&gt; 공부를 안 한다는 얘기가 있어요. ◆ 김성열... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458685?utm_source=naver&utm_medium=article&utm_campaign=20260120073044",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-20T07:31:00",
+            "related_members": [
+                "LG63087O",
+                "Y0X4618N",
+                "FU87526G",
+                "6EN68926",
+                "YOG1280B",
+                "QWL7778X",
+                "EH27538E",
+                "9YO73104",
+                "UHB5553T",
+                "YGB8604T"
+            ],
+            "title": "김성열 \"국힘, 이혜훈 부적격 보일 기회 왜 날리나?\"[한판승부]"
+        },
+        {
+            "_id": "69701238297082fcc2b34c61",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690636?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "박대출 의원도 “지금 이런 상태로 청문회를 한다는 것은 국민에게는 모욕이고 국회에는 모독”이라고 했다. 개혁신당 천하람 의원은 “여당이 다수당이고 밀어붙이는 힘이 세다고 해서 허술한 자료로 면죄부를 주는... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260120/133189285/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-20T04:34:00",
+            "related_members": [
+                "5765663F",
+                "S824682L",
+                "YGB8604T",
+                "W4X85128",
+                "UHB5553T",
+                "FU87526G",
+                "EH27538E"
+            ],
+            "title": "“국힘 이혜훈 3번 공천” “면죄부 안돼”… 검증 못한채 말싸움만"
+        },
+        {
+            "_id": "69701269297082fcc2b34d44",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474297?sid=100",
+            "created_at": "2026-01-21T08:40:23.705000",
+            "description": "[천하람/개혁신당 의원 : 경찰 출신의 국회의원에게 부탁한 것이 과연 불기소 결정이라고 하는 최종 수사 결과에 어떤 영향을 미쳤는지 저희가 꼼꼼히 따져봐야 된다고 생각하고요.] JTBC가 입수한 녹취에 따르면 이 의원은... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280785?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-19T21:12:00",
+            "related_members": [
+                "YGB8604T",
+                "TZP9391O"
+            ],
+            "title": "[단독] 이혜훈 비망록…닥쳐올 수사에 \"이철규 활용해야\""
+        },
+        {
+            "_id": "69701238297082fcc2b34c64",
+            "link": "https://n.news.naver.com/mnews/article/032/0003422467?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "임 위원장은 전체회의에서 “어떻게 후보자가 (자신을) 검증하겠다는 국회의원을 고발하겠다고 하나”라며... 야당 의원들은 이 후보자가 비망록 의혹을 제기한 천하람 개혁신당 의원을 상대로 고발을 시사하고 재경위에... ",
+            "originallink": "https://www.khan.co.kr/article/202601191740001",
+            "press": "경향신문",
+            "pubDate": "2026-01-19T17:40:00",
+            "related_members": [
+                "5765663F",
+                "S824682L",
+                "NX534083",
+                "EH27538E",
+                "UHB5553T",
+                "KNP22261",
+                "YGB8604T"
+            ],
+            "title": "‘갑질·부정청약·땅투기’ 의혹 이혜훈, 청문회 개최도 못하고 파행·..."
+        },
+        {
+            "_id": "69701267297082fcc2b34d42",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325626?sid=100",
+            "created_at": "2026-01-21T08:40:22.175000",
+            "description": "개혁신당 천하람 의원의 목소리는 더 컸습니다. \"낙마를 해도 백번도 더 했어야할 후보자에 대해 허술한... 과거 보수 정당에서 국회의원을 지내면서 보좌진들에게 사적 심부름과 폭언을 일삼았다는 내용입니다. 알려진... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410024&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-19T17:24:00",
+            "related_members": [
+                "HSW1214Q",
+                "UHB5553T",
+                "KNP22261",
+                "YGB8604T"
+            ],
+            "title": "이혜훈 없이 열린 인사청문회…검증 시스템은 문제없나? [이브닝 브리핑..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c21",
+            "link": "https://n.news.naver.com/mnews/article/015/0005239020?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "국회 재정경제기획위원회의 박수영 국민의힘 간사는 \"이 후보자가 의혹을 제기한 국회의원을 고발해야... 천하람 개혁신당 의원은 \"이렇게 국민적인 의혹이 많은 후보에 대해 허술한 자료로 그냥 면죄부를 주는 청문회가... ",
+            "originallink": "https://www.hankyung.com/article/202601198887i",
+            "press": "한국경제",
+            "pubDate": "2026-01-19T14:09:00",
+            "related_members": [
+                "LG63087O",
+                "5765663F",
+                "FU87526G",
+                "EB16073M",
+                "LT72093S",
+                "KNP22261",
+                "YGB8604T"
+            ],
+            "title": "'이혜훈 없는' 이혜훈 청문회, 여야 '자료 부실'공방에 오전 파행"
+        },
+        {
+            "_id": "69701238297082fcc2b34c66",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690411?sid=100",
+            "created_at": "2026-01-21T08:39:34.439000",
+            "description": "국민의힘 소속 임이자 국회 재정경제기획위원장은 이날 오전 10시 3분경 재경위 전체회의를 열어 “국회법... 개혁신당 천하람 의원은 “여당이 다수당이고 밀어붙이는 힘이 세다고 해 가지고 허술한 자료로 그냥 면죄부... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260119/133183807/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-19T11:59:00",
+            "related_members": [
+                "5765663F",
+                "8O34202I",
+                "S824682L",
+                "UHB5553T",
+                "KNP22261",
+                "EH27538E",
+                "YGB8604T"
+            ],
+            "title": "“금융거래 자료조차 안냈다”…이혜훈 청문회 시작도 못하고 파행"
+        },
+        {
+            "_id": "69701238297082fcc2b34c6a",
+            "link": "https://n.news.naver.com/mnews/article/056/0012107595?sid=100",
+            "created_at": "2026-01-21T08:39:34.439000",
+            "description": "민주당 김영진 의원은 \"국회법 절차대로 진행했으면 좋겠다. 인사청문회 시작을 할 때 단 한 번도 인사청문... 이런 상태로 청문회를 한다는 것은 국민과 국회에 대한 모독\"이라고 반발했습니다. 개혁신당 천하람... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462502&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-19T11:22:00",
+            "related_members": [
+                "5765663F",
+                "W4X85128",
+                "NX534083",
+                "S824682L",
+                "YGB8604T"
+            ],
+            "title": "‘이혜훈 청문회’ 무산…재개최 조율도 난항"
+        },
         {
             "_id": "696c5c3a297082fcc2b19be6",
             "link": "https://n.news.naver.com/mnews/article/009/0005623321?sid=101",
@@ -160,7 +520,7 @@
             "_id": "696c5bf8297082fcc2b19b9e",
             "link": "https://n.news.naver.com/mnews/article/028/0002786939?sid=100",
             "created_at": "2026-01-18T13:05:12.688000",
-            "description": "천하람 개혁신당 의원실이 공개한 비망록을 보면, 2017년 9월19일 “채동욱 총장께 전화, 수임해야 일 할 수... 이 후보자가 12년 간 국회의원으로 재직하면서 함께 일한 보좌진이 87명으로, 그 중 57명이 1년 이상 근속하지... ",
+            "description": "이 후보자가 12년 간 국회의원으로 재직하면서 함께 일한 보좌진이 87명으로, 그 중 57명이 1년 이상 근속하지 못하고 의원실을 떠난 것으로 나타나면서 “갑질의 여왕”(주진우 의원)이라는 비판이 나온다. 이런 갑질... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1240231.html",
             "press": "한겨레",
             "pubDate": "2026-01-17T05:02:00",
@@ -233,7 +593,7 @@
             "_id": "6969b9a1297082fcc2b1948e",
             "link": "https://n.news.naver.com/mnews/article/003/0013714445?sid=100",
             "created_at": "2026-01-16T13:07:59.227000",
-            "description": "국회사무처가 천하람 개혁신당 의원실에 제출한 자료에 따르면, 이 후보자는 17·18·20대 국회의원으로 재직하는 동안 총 87명의 보좌진과 근무했다. 이 중 57명은 1년을 채우지 못하고 의원실을 떠난 것으로 전해졌다.",
+            "description": "주진우 국민의힘 의원이 이혜훈 기획예산처 장관 후보자의 국회의원 재직 시절 보좌진 57명이 1년도 버티지 못하고 떠났다며 강하게 비판했다. 주 의원은 16일 소셜네트워크서비스(SNS)를 통해 \"이혜훈 강행은 '보수 연대... ",
             "originallink": "https://www.newsis.com/view/NISX20260116_0003479468",
             "press": "뉴시스",
             "pubDate": "2026-01-16T11:00:00",
@@ -275,7 +635,7 @@
             "_id": "6969b985297082fcc2b19483",
             "link": "https://n.news.naver.com/mnews/article/055/0001324869?sid=100",
             "created_at": "2026-01-16T13:07:31.531000",
-            "description": "더불어민주당 의원 (국회 행안위 여당간사) ▷김태현 : 윤석열 전 대통령의 체포방해 사건 1심 선고가 오늘... 필리버스터는 종료는 되겠지만 일단 개혁신당의 천하람 원내대표가 시작을 했고, 국민의힘 장동혁 대표는... ",
+            "description": "5 MHz 7:00 ~ 9:00) ■ 일자 : 2026년 1월 16일 (금) ■ 진행 : 김태현 변호사 ■ 출연 : 윤건영 더불어민주당 의원 (국회 행안위 여당간사) ▷김태현 : 윤석열 전 대통령의 체포방해 사건 1심 선고가 오늘 나옵니다. 윤 전 대통령에게... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008406638&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-16T09:08:00",
@@ -292,7 +652,7 @@
             "_id": "6969b956297082fcc2b1944a",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106906&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-16T13:06:44.408000",
-            "description": "순간도 천하람 원내대표가 필리버스터 하고 있지 않습니까? 단순히 국민의힘만 주장하는 게 아니라 전반적인... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
+            "description": "그게 통일교 특검이나 전재수 전 장관 까르띠에 시계 의혹 등을 덮기 위한 물타기용 주장이 아닌가 의심되는... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106906&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-16T08:00:00",
@@ -308,316 +668,6 @@
                 "YGB8604T"
             ],
             "title": "장예찬 \"한동훈, 자의식 과잉 '왕자병...' 금쪽이에겐 '우쭈쭈' 아닌 따..."
-        },
-        {
-            "_id": "6969b956297082fcc2b1944c",
-            "link": "https://n.news.naver.com/mnews/article/052/0002301545?sid=100",
-            "created_at": "2026-01-16T13:06:44.408000",
-            "description": "순간도 천하람 원내대표가 필리버스터 하고 있지 않습니까? 단순히 국민의힘만 주장하는 게 아니라 전반적인... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601160752199786",
-            "press": "YTN",
-            "pubDate": "2026-01-16T07:52:00",
-            "related_members": [
-                "8Q88373R",
-                "MNZ4401T",
-                "86R9476S",
-                "57B28032",
-                "YOG1280B",
-                "QWL7778X",
-                "KFM1081G",
-                "9YO73104",
-                "YGB8604T"
-            ],
-            "title": "장예찬 \"한동훈, 자의식 과잉 '왕자병...' 금쪽이에겐 '우쭈쭈' 아닌 따..."
-        },
-        {
-            "_id": "6969b9a4297082fcc2b19490",
-            "link": "https://n.news.naver.com/mnews/article/020/0003689874?sid=100",
-            "created_at": "2026-01-16T13:08:02.260000",
-            "description": "15일 국회 재정경제기획위원회 소속 개혁신당 천하람 의원에 따르면 이 후보자 가족 전원(5명)은 2024년 7월 서울 용산구의 한 아파트로 전입신고를 했다가 두 달 만에 서울 서초구 래미안 원펜타스 아파트로 주소를... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260116/133168433/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-16T04:33:00",
-            "related_members": [
-                "YGB8604T"
-            ],
-            "title": "[단독]‘부정청약 의혹’ 이혜훈, 국토부 조사 끝나자마자 장남 분가"
-        },
-        {
-            "_id": "69690304297082fcc2b1929f",
-            "link": "https://n.news.naver.com/mnews/article/437/0000473746?sid=100",
-            "created_at": "2026-01-16T00:08:52.847000",
-            "description": "오늘(15일) 국회사무처가 천하람 개혁신당 의원실에 제출한 자료에 따르면, 이 후보자는 17·18·20대 국회의원으로 재직하는 동안 모두 87명의 보좌진과 함께 근무했습니다. 당시 법으로 정해진 국회의원 보좌 직원... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12280256?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-15T23:16:00",
-            "related_members": [
-                "YGB8604T"
-            ],
-            "title": "\"이혜훈 의원실 거쳐 간 보좌진 87명…절반 이상 1년도 못 버텨\""
-        },
-        {
-            "_id": "69690304297082fcc2b192a0",
-            "link": "https://n.news.naver.com/mnews/article/020/0003689767?sid=100",
-            "created_at": "2026-01-16T00:08:52.847000",
-            "description": "15일 국회 재정경제기획위원회 소속 개혁신당 천하람 의원에 따르면 이 후보자 가족 전원(5명)은 2024년 7월 서울 용산구의 한 아파트로 전입신고를 했다가 두 달 만에 서울 서초구 래미안 원펜타스 아파트로 주소를... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260115/133168169/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-15T21:23:00",
-            "related_members": [
-                "YGB8604T"
-            ],
-            "title": "[단독]이혜훈 장남, 국토부 조사 끝나자마자 분가…“치밀한 수법”"
-        },
-        {
-            "_id": "69690301297082fcc2b1929a",
-            "link": "https://n.news.naver.com/mnews/article/023/0003953280?sid=100",
-            "created_at": "2026-01-16T00:08:49.496000",
-            "description": "정치권에선 “이 후보자에겐 국회의원 시절 보좌진 갑질·폭언 논란이 제기돼 있는데 보좌진 임면 건수도 그와 관련이 있지 않겠느냐”는 얘기가 나왔다. 앞서 국민의힘 주진우 의원은 이 후보자가 과거 보좌진에게... ",
-            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/15/IF4776DLWNDTPHKL4JA7DCAXRY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-15T18:39:00",
-            "related_members": [
-                "GJK57930",
-                "YGB8604T"
-            ],
-            "title": "이혜훈 거쳐간 보좌진 87명, 그중 57명이 1년 못 버텼다"
-        },
-        {
-            "_id": "6968ad84297082fcc2b18cb8",
-            "link": "https://n.news.naver.com/mnews/article/055/0001324669?sid=100",
-            "created_at": "2026-01-15T18:04:01.563000",
-            "description": "저는 권성동 국민의힘 의원께서 지금 통일부로부터 1억 원을 받았다. 이것도 본인 부인하세요. 줬다는 사람은... 전주혜 전 국민의힘 국회의원, 김유정 전 더불어민주당 국회의원과 함께했습니다. 두 분 수고하셨습니다.... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405650&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-15T15:29:00",
-            "related_members": [
-                "MNZ4401T",
-                "GDG1847Z",
-                "8Q88373R",
-                "YGB8604T"
-            ],
-            "title": "[여담야담] 2차 조사 김경 \"강선우에게 직접 줬다\" 자술서 인정할까"
-        },
-        {
-            "_id": "6968ad98297082fcc2b18d36",
-            "link": "https://n.news.naver.com/mnews/article/053/0000055049?sid=100",
-            "created_at": "2026-01-15T18:04:21.548000",
-            "description": "김현정 민주당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝난 뒤 기자들과 만나 \"이것으로 단식하는 것은 민주당에서 봤을 때 통일교 특검을 하지 않겠다는 것에 대한 비판의 목소리를 잠재우려는 정치적... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47798",
-            "press": "조선일보",
-            "pubDate": "2026-01-15T15:10:00",
-            "related_members": [
-                "7YL9580G",
-                "KFM1081G",
-                "6VC83722",
-                "YGB8604T"
-            ],
-            "title": "장동혁 \"통일교 특검 받아라\"...무기한 단식 돌입에 與 \"정치적 쇼\""
-        },
-        {
-            "_id": "6968add1297082fcc2b18dea",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786594?sid=100",
-            "created_at": "2026-01-15T18:05:18.196000",
-            "description": "천하람 개혁신당 원내대표가 15일 이혜훈 기획예산처 장관 후보자가 자신의 불법 정치자금 수수 의혹과... 천 원내대표는 또 “이혜훈 비망록을 보면 이 후보자는 금품 수수가 문제 된 다른 사안에서 당시 국회의원이라는... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239878.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-15T11:40:00",
-            "related_members": [
-                "YGB8604T"
-            ],
-            "title": "천하람 “이혜훈 비망록 입수…과거 불법 정치자금 의혹 거짓 해명”"
-        },
-        {
-            "_id": "6968ada3297082fcc2b18d5d",
-            "link": "https://n.news.naver.com/mnews/article/052/0002300986?sid=100",
-            "created_at": "2026-01-15T18:04:32.179000",
-            "description": "하지만 전재수 의원 사건에서도 알 수 있듯이 경찰이 수사 결과를 발표하겠다고 해놓고 발표를 안 하잖아요.... 국회의원직까지 고민해야 되는 것 아닌가 싶습니다. 말씀하신 것처럼 의원총회에서는 절반 이상의 찬성을... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601150831394703",
-            "press": "YTN",
-            "pubDate": "2026-01-15T08:31:00",
-            "related_members": [
-                "8BF5855P",
-                "8Q88373R",
-                "MNZ4401T",
-                "XBT9550Q",
-                "9YO73104",
-                "YGB8604T"
-            ],
-            "title": "[뉴스UP] 김경 \"1억 줄 때 강선우도 있었다\"...엇갈린 진술, 진실은?"
-        },
-        {
-            "_id": "6968ada0297082fcc2b18d52",
-            "link": "https://n.news.naver.com/mnews/article/052/0002300855?sid=100",
-            "created_at": "2026-01-15T18:04:29.579000",
-            "description": "[기자] 2주 전까지 거대 집권 여당의 원내대표였던 김병기 의원의 국회 사무실에도 아침 일찍, 강제 수사가... 일각에서 성추행 혐의를 받는 당권파 장경태 의원과의 형평성 문제를 지적하자 이렇게 설명했습니다. [박수현... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601142235141268",
-            "press": "YTN",
-            "pubDate": "2026-01-14T22:35:00",
-            "related_members": [
-                "8Q88373R",
-                "5TQ6306B",
-                "RPN2293B",
-                "YGB8604T"
-            ],
-            "title": "민주당 \"김병기 재심, 1월 말 결론 예상\"...'시간표' 제시"
-        },
-        {
-            "_id": "6968ada0297082fcc2b18d54",
-            "link": "https://n.news.naver.com/mnews/article/052/0002300785?sid=100",
-            "created_at": "2026-01-15T18:04:29.579000",
-            "description": "[기자] 2주 전까지 거대 집권 여당의 원내대표였던 김병기 의원의 국회 사무실에도 아침 일찍, 강제 수사가... 일각에서 성추행 혐의를 받는 당권파 장경태 의원과의 형평성 문제를 지적하자 이렇게 설명했습니다. [박수현... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601141849054722",
-            "press": "YTN",
-            "pubDate": "2026-01-14T18:49:00",
-            "related_members": [
-                "8Q88373R",
-                "5TQ6306B",
-                "RPN2293B",
-                "YGB8604T"
-            ],
-            "title": "민주당 \"김병기 재심, 1월 말 결론 예상\"...'시간표' 제시"
-        },
-        {
-            "_id": "6968ad91297082fcc2b18d1a",
-            "link": "https://n.news.naver.com/mnews/article/437/0000473460?sid=100",
-            "created_at": "2026-01-15T18:04:14.394000",
-            "description": "근데 문제를 되게 많이 일으키고 알량한 팬덤과 일부 국회의원들 등에 업고 시끄럽게 한 평당원이지 이게 뭐... ▶정영진 여론 조성팀 ▶장예찬 댓글팀은 이제 민주당 양문석 의원이 막 뭐 자기가 크롤링해서 있다 마다 한... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12279962?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-14T15:14:00",
-            "related_members": [
-                "CNZ51556",
-                "3OQ8273H",
-                "YGB8604T",
-                "QWL7778X"
-            ],
-            "title": "[전문] 장예찬 \"한동훈, 알량한 팬덤 업고 당 시끄럽게 한 평당원일 뿐..."
-        },
-        {
-            "_id": "6966ec72887d07f7ba2fb271",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106863&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-14T10:08:03.097000",
-            "description": "전재수 전 장관을 비롯해서 정교유착에 관한 통일교 특검은 지난번에 저와 송언석 원내대표가 만나서... 1억 원을 받았다느니, 국회의원이 다른 공천 관련한 국회의원한테 ‘살려달라’느니 이 정도로 명징한 증거가 나오는... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106863&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-14T08:30:00",
-            "related_members": [
-                "YGB8604T",
-                "8Q88373R",
-                "MNZ4401T",
-                "6EN68926",
-                "9YO73104",
-                "KFM1081G",
-                "QWL7778X",
-                "2385336L"
-            ],
-            "title": "천하람 \"국힘과 연대? ‘거악’에 대한 야권 연대, 선거연대는 없다\""
-        },
-        {
-            "_id": "6968adc5297082fcc2b18dd4",
-            "link": "https://n.news.naver.com/mnews/article/052/0002300474?sid=100",
-            "created_at": "2026-01-15T18:05:06.818000",
-            "description": "전재수 전 장관을 비롯해서 정교유착에 관한 통일교 특검은 지난번에 저와 송언석 원내대표가 만나서... 1억 원을 받았다느니, 국회의원이 다른 공천 관련한 국회의원한테 '살려달라'느니 이 정도로 명징한 증거가 나오는... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601140740549714",
-            "press": "YTN",
-            "pubDate": "2026-01-14T07:40:00",
-            "related_members": [
-                "YGB8604T",
-                "9YO73104",
-                "6EN68926"
-            ],
-            "title": "천하람 \"국힘과 연대? '거악'에 대한 야권 연대, 선거연대는 없다\""
-        },
-        {
-            "_id": "6966ecbe887d07f7ba2fb33c",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708793?sid=100",
-            "created_at": "2026-01-14T10:09:19.143000",
-            "description": "◇대통령실【대통령】 일본 순방 ◇총리실【총리】 08:00 광주·전남 통합 관련 국회의원 간담회 14:00... 14:30 천하람 개혁신당 원내대표 예방(국회 본관 170호) 17:00 국회의장 - 양당 원내대표 회동 / 국회 본관... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475801",
-            "press": "뉴시스",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "YGB8604T",
-                "H5476989"
-            ],
-            "title": "[오늘의 주요일정]정치(1월14일 수요일)"
-        },
-        {
-            "_id": "6966ecbe887d07f7ba2fb33d",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712430?sid=100",
-            "created_at": "2026-01-14T10:09:19.143000",
-            "description": "14:30 천하람 개혁신당 원내대표 예방 / 국회 본관 170호 17:00 국회의장 - 양당 원내대표 회동 / 국회 본관... 최고위원회 (국회의원회관 제7간담회의실) ◇사회민주당 -당대표 10:00 한국지엠 직영정비 폐쇄 규탄 및... ",
-            "originallink": "https://www.news1.kr/politics/president/6037935",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "YGB8604T",
-                "H5476989"
-            ],
-            "title": "[오늘의 주요일정] 정치·정부 (14일, 수)"
-        },
-        {
-            "_id": "6966ecbe887d07f7ba2fb33e",
-            "link": "https://n.news.naver.com/mnews/article/005/0001826011?sid=101",
-            "created_at": "2026-01-14T10:09:19.143000",
-            "description": "국회의원 시절 장관 후보자 위장전입 이력을 ‘범죄’로 규정하며 사퇴를 촉구했던 이 후보자는 이제... 천하람 개혁신당 원내대표에 따르면 이 후보자의 배우자인 김영세 연세대 교수는 그해 8월 5인 가족 기준 만점... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768297957&code=11151100&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-14T00:58:00",
-            "related_members": [
-                "YGB8604T"
-            ],
-            "title": "부동산 투기 등 비판한 이혜훈 발언, 부메랑 된다"
-        },
-        {
-            "_id": "6966ecaa887d07f7ba2fb31f",
-            "link": "https://n.news.naver.com/mnews/article/005/0001825915?sid=101",
-            "created_at": "2026-01-14T10:08:59.004000",
-            "description": "국회의원 시절 장관 후보자 위장전입 이력을 ‘범죄’로 규정하며 사퇴를 촉구했던 이 후보자는 이제... 이인선 국민의힘 의원에 따르면 김 교수는 인천공항 개항을 1년 앞둔 2000년 1월 영종도 토지 6612㎡(약 2000평)를... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029244983&code=61141111&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-13T17:27:00",
-            "related_members": [
-                "DWK26447",
-                "YGB8604T"
-            ],
-            "title": "이혜훈 앞에 되돌아온 ‘위장 전입·로또 청약’ 비판의 칼"
-        },
-        {
-            "_id": "6966ecbe887d07f7ba2fb33f",
-            "link": "https://n.news.naver.com/mnews/article/421/0008711378?sid=100",
-            "created_at": "2026-01-14T10:09:19.144000",
-            "description": "▷이호승 : 어쨌든 국회의원을 당에서 쫓아내려면 제명을 하려면 의원총회를 열어야 되고 과반의 찬성을 받아야 되지 않습니까? 이것도 쉽지 않아 보여요. ▶천하람 : 그래서 지금 이제 민주당의 어떤 의미에서는 최악의... ",
-            "originallink": "https://www.news1.kr/politics/president/6037284",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T14:33:00",
-            "related_members": [
-                "YGB8604T",
-                "H5476989"
-            ],
-            "title": "[인터뷰 전문] 천하람 \"靑, 이혜훈 논란에 흔들려…지명철회 가능성\""
-        },
-        {
-            "_id": "6966eca6887d07f7ba2fb31c",
-            "link": "https://n.news.naver.com/mnews/article/056/0012103613?sid=100",
-            "created_at": "2026-01-14T10:08:55.279000",
-            "description": "저는 한 몇 년 전에 이만희 교주께서 사실 수사 받으시면서 대통령 시계 들어보고 이건 한 2~3년 전에... 그러니까 인사청문회에서 인사청문위원으로서 개별 국회의원들이 최선의 노력을 다해야 되는데 저희 3석의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457259&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-13T09:47:00",
-            "related_members": [
-                "KFM1081G",
-                "QWL7778X",
-                "OSV9142K",
-                "RPN2293B",
-                "MNZ4401T",
-                "8Q88373R",
-                "9YO73104",
-                "V429892C",
-                "YGB8604T"
-            ],
-            "title": "[전격시사] 이준석 개혁신당 대표 - “장동혁 대표와 오늘 회동 “(여당..."
         }
     ],
     "recent_videos": [
@@ -692,7 +742,7 @@
             "url": "https://www.youtube.com/watch?v=Y3ZYYR-FsVw",
             "HG_NM": "천하람",
             "MONA_CD": "YGB8604T",
-            "collected_at": "2026-01-18T13:21:28.867000",
+            "collected_at": "2026-01-21T08:51:46.277000",
             "duration": 3800.0,
             "source": "SBS뉴스",
             "title": "[⚾️정치스토브리그] 국힘 향해 李 \"허전하군요\" vs 상복 시위 \"이제 전쟁이다\" 직접 보니 어땠습니까? (feat. 천하람 개혁신당 원내대표) | 2025.11.4 | SBS",
@@ -842,5 +892,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:44.952779"
+    "exported_at": "2026-01-21T10:09:41.795165"
 }

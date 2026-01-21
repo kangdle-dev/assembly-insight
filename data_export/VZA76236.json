@@ -43,25 +43,29 @@
     "analysis": {
         "keywords": [
             "선원",
+            "더불어민주당",
             "회견",
             "이재명",
-            "더불어민주당",
             "테러",
-            "대표",
             "피습",
-            "국정원",
-            "정부",
-            "현안",
             "민주당",
-            "촉구",
-            "수세미",
-            "태극",
-            "마크"
+            "대표",
+            "사건",
+            "김교흥",
+            "인천",
+            "국정원",
+            "공개",
+            "정부",
+            "현안"
         ],
         "keyword_frequency": [
             {
                 "text": "선원",
-                "value": 41
+                "value": 43
+            },
+            {
+                "text": "더불어민주당",
+                "value": 18
             },
             {
                 "text": "회견",
@@ -72,11 +76,15 @@
                 "value": 15
             },
             {
-                "text": "더불어민주당",
-                "value": 15
+                "text": "테러",
+                "value": 14
             },
             {
-                "text": "테러",
+                "text": "피습",
+                "value": 13
+            },
+            {
+                "text": "민주당",
                 "value": 10
             },
             {
@@ -84,11 +92,23 @@
                 "value": 10
             },
             {
-                "text": "피습",
-                "value": 9
+                "text": "사건",
+                "value": 8
+            },
+            {
+                "text": "김교흥",
+                "value": 8
+            },
+            {
+                "text": "인천",
+                "value": 8
             },
             {
                 "text": "국정원",
+                "value": 8
+            },
+            {
+                "text": "공개",
                 "value": 8
             },
             {
@@ -98,44 +118,24 @@
             {
                 "text": "현안",
                 "value": 8
-            },
-            {
-                "text": "민주당",
-                "value": 6
-            },
-            {
-                "text": "촉구",
-                "value": 6
-            },
-            {
-                "text": "수세미",
-                "value": 6
-            },
-            {
-                "text": "태극",
-                "value": 6
-            },
-            {
-                "text": "마크",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:19.988219",
+        "last_analyzed_at": "2026-01-21T10:09:17.085767",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                4,
                 0,
+                0,
+                1,
                 2,
-                0,
                 0,
                 1,
                 0
@@ -144,10 +144,70 @@
     },
     "recent_news": [
         {
+            "_id": "69701233297082fcc2b34c3c",
+            "link": "https://n.news.naver.com/mnews/article/448/0000584988?sid=100",
+            "created_at": "2026-01-21T08:39:29.688000",
+            "description": "박선원 / 더불어민주당 의원 (지난 12일) \"조직적 배후 있는 지 여부와, 왜 사건 발생 직후 현장에서 신속하게... 이웅혁 / 건국대 경찰학과 교수 \"국회의원에 대한 공격 행위가 (테러방지법 상 '테러' 정의에) 딱 부합되게... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/20/2026012090270.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T21:29:00",
+            "related_members": [
+                "MLH1404S",
+                "VZA76236"
+            ],
+            "title": "피습범 '징역형' 확정됐는데…李 피습사건 '국가공인 1호 테러' 지정 \"추..."
+        },
+        {
+            "_id": "69701230297082fcc2b34c2a",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623556?sid=100",
+            "created_at": "2026-01-21T08:39:26.517000",
+            "description": "2곳의 국회의원 재보궐선거까지 동시에 진행될 예정이어서 이번 지방선거의 핵심 요충지로 꼽힌다. 18일... 이 밖에도 지난해 인천시장 출마를 시사한 정일영 민주당 의원(재선·인천 연수을)을 비롯해 유동수 민주당 의원... ",
+            "originallink": "https://www.mk.co.kr/article/11936403",
+            "press": "매일경제",
+            "pubDate": "2026-01-18T21:50:00",
+            "related_members": [
+                "X1K3667J",
+                "BT62420K",
+                "4019850M",
+                "2S73768V",
+                "VZA76236",
+                "J1G57517",
+                "QQP4727N",
+                "3OQ8273H",
+                "2385336L",
+                "LT72093S",
+                "GX38539O"
+            ],
+            "title": "인천시장 후보 윤곽…민주 김교흥·박찬대 ‘2파전’"
+        },
+        {
+            "_id": "69701242297082fcc2b34ca2",
+            "link": "https://n.news.naver.com/mnews/article/009/0005623507?sid=100",
+            "created_at": "2026-01-21T08:39:44.767000",
+            "description": "시사한 정일영 민주당 의원(재선·인천 연수을)을 비롯해 유동수 민주당 의원(3선·인천 계양갑) 등은 아직까지 뚜렷한 움직임을 보이지 않고 있다. 인천시장 출마를 저울질했던 박남춘 전 인천시장은 국회의원... ",
+            "originallink": "https://www.mk.co.kr/article/11936313",
+            "press": "매일경제",
+            "pubDate": "2026-01-18T17:51:00",
+            "related_members": [
+                "4019850M",
+                "2S73768V",
+                "VZA76236",
+                "J1G57517",
+                "X1K3667J",
+                "BT62420K",
+                "QQP4727N",
+                "3OQ8273H",
+                "2385336L",
+                "GX38539O",
+                "LT72093S"
+            ],
+            "title": "與 인천시장 후보에…박찬대·김교흥 2파전"
+        },
+        {
             "_id": "696c5bec297082fcc2b19b81",
             "link": "https://n.news.naver.com/mnews/article/028/0002786944?sid=102",
             "created_at": "2026-01-18T13:05:00.172000",
-            "description": "당시 국가정보원장 법률특보였던 김상민은 윤석열-김건희 부부에게 국회의원 공천을 청탁한 혐의 등으로... 이준석 개혁신당 대표는 형식적으로 한번 부른 뒤 기소하지 않았고, 공천거래 의혹을 받는 국민의힘 의원과... ",
+            "description": "박선원 더불어민주당 의원이 처음 공개한 화면입니다. 지금까지 공개된 영상에서는 테러범 김진성의 범행... 당시 국가정보원장 법률특보였던 김상민은 윤석열-김건희 부부에게 국회의원 공천을 청탁한 혐의 등으로... ",
             "originallink": "https://www.hani.co.kr/arti/society/society_general/1240236.html",
             "press": "한겨레",
             "pubDate": "2026-01-17T08:02:00",
@@ -204,7 +264,7 @@
             "_id": "6964b546631fd17434996068",
             "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
             "created_at": "2026-01-12T17:48:03.471000",
-            "description": "(수석대변인), 허종식, 박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재... ",
+            "description": "우원식 국회의장, 김민석 국무총리, 정청래 민주당 대표, 조정식 이재명 대통령 정무특별보좌관, 이한주 이재명 대통령 정책특별보좌관, 송영길 전 더불어민주당 대표, 어기구 국회 농해수위원장, 임오경 국회의원 등은... ",
             "originallink": "https://www.sedaily.com/NewsView/2K79UTNT2Q",
             "press": "서울경제",
             "pubDate": "2026-01-12T07:33:00",
@@ -286,7 +346,7 @@
             "_id": "6964b546631fd17434996069",
             "link": "https://n.news.naver.com/mnews/article/016/0002583891?sid=100",
             "created_at": "2026-01-12T17:48:03.471000",
-            "description": "김교흥 의원이 인사말을 하고 있다.[김교흥 의원실 제공] 또 우원식 국회의장, 김민석 국무총리, 정청래 민주당 대표, 조정식 이재명 대통령 정무특별보좌관, 이한주 이재명 대통령 정책특별보좌관, 송영길 전... ",
+            "description": "박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재 국립 인천대학교 총장... ",
             "originallink": "https://biz.heraldcorp.com/article/10652879?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-11T09:11:00",
@@ -406,7 +466,7 @@
             "url": "https://www.youtube.com/watch?v=XMK5Z07p0Eg",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-18T13:13:31.639000",
+            "collected_at": "2026-01-21T08:44:51.305000",
             "duration": 976.0,
             "title": "[생중계] 박선원 더불어민주당 의원 현안 관련 기자회견 (2025.10.28 오후)",
             "upload_date": null
@@ -436,7 +496,7 @@
             "url": "https://www.youtube.com/watch?v=FNMLyBJQpJM",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-09T16:21:36.715000",
+            "collected_at": "2026-01-21T08:44:51.959000",
             "duration": 410.0,
             "title": "[뉴스 '꾹'] \"이게 다 박선원 때문이야\"..이하상 변호사의 '세계관' (2025.12.30/MBC뉴스)",
             "upload_date": null
@@ -456,7 +516,7 @@
             "url": "https://www.youtube.com/watch?v=_uFxSSNt3QQ",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-18T13:13:31.639000",
+            "collected_at": "2026-01-21T08:44:51.305000",
             "duration": 652.0,
             "title": "박선원 의원의 정보력에 아무말도 못하는 증인들... [250114 윤석열 정부의 비상계엄 선포를 통한 내란혐의 진상규명 국정조사특별위원회 - 기관보고]",
             "upload_date": null
@@ -526,7 +586,7 @@
             "url": "https://www.youtube.com/watch?v=mnEAQIbtAw4",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-18T13:13:32.618000",
+            "collected_at": "2026-01-21T08:44:51.305000",
             "duration": 1551.0,
             "title": "[생중계] 박선원 더불어민주당 의원, 정치 현안 관련 기자회견 (2025.12.11 오전)",
             "upload_date": null
@@ -546,7 +606,7 @@
             "url": "https://www.youtube.com/watch?v=UCvHHrZ8QNVSkPC3YGHHoU2A",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-18T13:13:31.639000",
+            "collected_at": "2026-01-21T08:44:51.305000",
             "duration": null,
             "title": "박선원TV",
             "upload_date": null
@@ -556,7 +616,7 @@
             "url": "https://www.youtube.com/watch?v=sdCa_3qSFEY",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-18T13:13:32.618000",
+            "collected_at": "2026-01-21T08:44:51.305000",
             "duration": 1178.0,
             "title": "[다시보기] 민주당 박선원 의원 '12.3 계엄 당시 고문 및 약물 투입 검토 문건' 공개-12월 11일 (목) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -566,7 +626,7 @@
             "url": "https://www.youtube.com/watch?v=gDeLS-_CSak",
             "HG_NM": "박선원",
             "MONA_CD": "VZA76236",
-            "collected_at": "2026-01-18T13:13:32.618000",
+            "collected_at": "2026-01-21T08:44:51.305000",
             "duration": 1763.0,
             "title": "[LIVE 긴급 편성] 박선원, 조은석 내란특검 수사결과 긴급 분석 라이브 방송!",
             "upload_date": null
@@ -582,5 +642,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:19.988321"
+    "exported_at": "2026-01-21T10:09:17.085767"
 }

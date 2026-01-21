@@ -48,65 +48,57 @@
     "analysis": {
         "keywords": [
             "국민",
-            "총리",
-            "문자",
             "제명",
-            "대표",
+            "총리",
             "다카",
             "이치",
             "한동훈",
-            "당원",
-            "간사",
             "홍준표",
+            "간사",
+            "대표",
             "협력",
             "한일의원연맹",
+            "위원장",
+            "서울",
             "서울시",
-            "민주당"
+            "신년"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 45
-            },
-            {
-                "text": "총리",
-                "value": 19
-            },
-            {
-                "text": "문자",
-                "value": 19
+                "value": 35
             },
             {
                 "text": "제명",
-                "value": 16
+                "value": 17
             },
             {
-                "text": "대표",
-                "value": 16
+                "text": "총리",
+                "value": 17
             },
             {
                 "text": "다카",
-                "value": 16
+                "value": 14
             },
             {
                 "text": "이치",
-                "value": 16
+                "value": 14
             },
             {
                 "text": "한동훈",
-                "value": 14
-            },
-            {
-                "text": "당원",
-                "value": 14
-            },
-            {
-                "text": "간사",
                 "value": 13
             },
             {
                 "text": "홍준표",
                 "value": 13
+            },
+            {
+                "text": "간사",
+                "value": 12
+            },
+            {
+                "text": "대표",
+                "value": 12
             },
             {
                 "text": "협력",
@@ -117,42 +109,156 @@
                 "value": 12
             },
             {
+                "text": "위원장",
+                "value": 11
+            },
+            {
+                "text": "서울",
+                "value": 10
+            },
+            {
                 "text": "서울시",
                 "value": 10
             },
             {
-                "text": "민주당",
+                "text": "신년",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:23.630946",
+        "last_analyzed_at": "2026-01-21T10:09:20.717265",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                0,
-                1,
-                7,
                 5,
                 0,
                 1,
-                1
+                2,
+                4,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6970122a297082fcc2b34bf0",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302960?sid=100",
+            "created_at": "2026-01-21T08:39:21.164000",
+            "description": "[임이자 / 국회 재경위원장 : 이혜훈 후보자 청문회와 관련하여 양당 간사 간 협의가 이루어지지 않았기 때문에 위원장으로서 청문회 관련 안건은 상정할 수 없다는 말씀을 드립니다.] [박수영 / 국민의힘 의원 : 오늘... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601192228342494",
+            "press": "YTN",
+            "pubDate": "2026-01-19T22:28:00",
+            "related_members": [
+                "8Q88373R",
+                "8P37634C",
+                "5765663F",
+                "EH27538E",
+                "FU87526G",
+                "5TQ6306B",
+                "8BF5855P",
+                "2385336L",
+                "BT62420K",
+                "4X525582",
+                "QWL7778X"
+            ],
+            "title": "[뉴스NIGHT] 이혜훈 청문회 파행...김병기, 결국 '자진 탈당'"
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106502?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "저도 과거에 세월호 진상 규명을 위해서 국회의원 시절에 노상 단식을 청와대 앞에서 했던 적이 있는데 열흘... 김정재, 이철규의 공천헌금 녹취 이 부분도 방어해 주기 위해서 단식하는 거야? 이렇게 될 수 있는 거거든요.... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458247?utm_source=naver&utm_medium=article&utm_campaign=20260119013631",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T11:29:00",
+            "related_members": [
+                "DMP1439I",
+                "KFM1081G",
+                "E1J8836Y",
+                "TZP9391O",
+                "4X525582",
+                "LYY5513O",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "[정치맛집]김근식 \"장동혁 단식, 내부용 아닌 당내 갈등 해결의 모멘텀..."
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106433?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "특정된 전재수 전 장관이 단식 투쟁을 하고 있는 야당 대표를 향해서 오히려 막말을 퍼붓는 이런 상황, 바로... ◆ 김재원&gt; 그리고 국회 기재위원장이 우리 당 소속의 국회의원이고 상임위원장이 청문회를 진행하지 않으면... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458142?utm_source=naver&utm_medium=article&utm_campaign=20260119100928",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T10:10:00",
+            "related_members": [
+                "DMP1439I",
+                "N378078V",
+                "MSY7784L",
+                "4X525582",
+                "9YO73104"
+            ],
+            "title": "김재원 \"한동훈 사과 충분치 않아… 화합 위한 추가 조치 있어야\""
+        },
+        {
+            "_id": "6970122d297082fcc2b34c18",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325452?sid=100",
+            "created_at": "2026-01-21T08:39:23.823000",
+            "description": "▶곽규택 : 그러니까 지금 이른바 쌍특검, 그러니까 전재수 전 장관 등 정치인들이 통일교로부터 불법적인... 그날 목요일 같은 날 있었던 의원총회에서 많은 국회의원들이 이 문제를 급하게 처리할 것이 아니고 조금 더... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008409023&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-19T08:57:00",
+            "related_members": [
+                "KFM1081G",
+                "REG96285",
+                "8BF5855P",
+                "4X525582",
+                "OWD1018N",
+                "QWL7778X",
+                "9YO73104"
+            ],
+            "title": "[정치쇼] 곽규택 \"장동혁 단식, 당내용 아냐…한동훈 징계? 지지자들 '통..."
+        },
+        {
+            "_id": "69701234297082fcc2b34c51",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302332?sid=100",
+            "created_at": "2026-01-21T08:39:31.022000",
+            "description": "각종 의혹에 대한 국회의 자료제출 요구를 거부하더니 정당한 문제를 제기한 한 국회의원을 오히려... 하지만 비당권파인 이언주 강득구 황명선 최고위원이 문제를 제기한 사실이 뒤늦게 알려졌습니다. 이번 보궐선거에서... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601181430200116",
+            "press": "YTN",
+            "pubDate": "2026-01-18T14:30:00",
+            "related_members": [
+                "1WE5693J",
+                "VDN5593C",
+                "2NV6751W",
+                "SLW27496",
+                "YOG1280B",
+                "HVV5250J",
+                "OWD1018N",
+                "4019850M",
+                "AEJ19639",
+                "4X525582",
+                "N2P9317N",
+                "GOC54665",
+                "RJH6314D",
+                "JG77046J",
+                "8P37634C"
+            ],
+            "title": "이혜훈 청문회 개최 '불투명'...국힘 '한동훈 제명' 내홍 격화"
+        },
+        {
             "_id": "696c5c09297082fcc2b19bb3",
             "link": "https://n.news.naver.com/mnews/article/421/0008719798?sid=100",
             "created_at": "2026-01-18T13:05:29.398000",
-            "description": "장동혁 국민의힘 대표가 중앙윤리위원회의 한동훈 전 대표 제명 의결을 보류하면서 당은 일단 휴전 국면에... 친한계 배현진 의원은 국회 로텐더홀에서 무기한 농성 중인 장 대표를 향해 \"징계 철회라는 정답을 피해 가려... ",
+            "description": "우재준 최고위원은 KBS 라디오에서 \"한 전 대표도 한번 본인이 양보해 일정 부분 소명 절차에 협조하는 것도... 친한계 배현진 의원은 국회 로텐더홀에서 무기한 농성 중인 장 대표를 향해 \"징계 철회라는 정답을 피해 가려... ",
             "originallink": "https://www.news1.kr/politics/assembly/6041915",
             "press": "뉴스1",
             "pubDate": "2026-01-18T06:00:00",
@@ -168,7 +274,7 @@
             "_id": "696c5be4297082fcc2b19b5f",
             "link": "https://n.news.naver.com/mnews/article/052/0002302177?sid=100",
             "created_at": "2026-01-18T13:04:52.147000",
-            "description": "[정광재] 저는 정청래 민주당 대표가 정말 거대 여당의 대표로서 그리고 같이 국회에서 입법활동을 하고 있는 국회의원으로서 과연 동업자 정신이라는 게 있는지 물어보지 않을 수 없을 것 같습니다. 지금 야당 대표는... ",
+            "description": "이 사십 분이 넘는 국회의원들은 반성 또는 사과의 메시지를 개별적으로라도 냈어야 됐다는 일단 비판적인... [백승아 / 더불어민주당 원내대변인 : 종합특검은 미완의 진실을 끝까지 밝히기 위한 불가피한 조치입니다.... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601172224508956",
             "press": "YTN",
             "pubDate": "2026-01-17T22:24:00",
@@ -368,7 +474,7 @@
             "_id": "696594ba887d07f7ba2fab55",
             "link": "https://n.news.naver.com/mnews/article/079/0004104305?sid=100",
             "created_at": "2026-01-13T09:41:29.113000",
-            "description": "◆ 김성열&gt; 왜냐하면 국회의원 4년 하라고 했는데 나오자마자 사실 대선을 뛰었잖아요. 그 정도만으로도 사실... ◆ 노영희&gt; 당 구성원들이 바뀌고 마인드가 달라져야지 대표가 달라지는 마음을 가져야지 이게 주호영 의원... ",
+            "description": "◆ 김성열&gt; 왜냐하면 국회의원 4년 하라고 했는데 나오자마자 사실 대선을 뛰었잖아요. 그 정도만으로도 사실... ◆ 곽우신&gt; 오늘 정희용 사무총장이 공식화했습니다. 지난 9일부터 11일까지 책임 당원들을 대상으로 ARS... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455086?utm_source=naver&utm_medium=article&utm_campaign=20260113073013",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T07:31:00",
@@ -478,7 +584,7 @@
             "_id": "6964b55a631fd174349961ef",
             "link": "https://n.news.naver.com/mnews/article/016/0002583727?sid=100",
             "created_at": "2026-01-12T17:48:23.330000",
-            "description": "10일 한일의원연맹에 따르면 다카이치 총리는 전날 도쿄 총리 관저에서 한일의원연맹 및 국회... 의원, 경제과학 부위원장인 국민의힘 이성권 의원, 상임 간사 국민의힘 배현진 의원, 간사 민주당 이재강 의원 등이 참석했다.",
+            "description": "10일 한일의원연맹에 따르면 다카이치 총리는 전날 도쿄 총리 관저에서 한일의원연맹 및 국회... 면담에는 한일의원연맹 간사장인 더불어민주당 민홍철 의원, 경제과학 부위원장인 국민의힘 이성권 의원, 상임 간사... ",
             "originallink": "https://biz.heraldcorp.com/article/10652670?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-10T09:11:00",
@@ -547,74 +653,6 @@
                 "4X525582"
             ],
             "title": "\"나비약은 마약, 끊기 어렵더라\" 현직의사의 경고 [짤e몽땅]"
-        },
-        {
-            "_id": "6964b55a631fd174349961f3",
-            "link": "https://n.news.naver.com/mnews/article/421/0008703888?sid=100",
-            "created_at": "2026-01-12T17:48:23.330000",
-            "description": "주호영 국회부의장 등 한일의원연맹 소속 여야 의원 8명은 8일부터 사흘간 일본을 방문해 다카이치 사나에... 이번 방문에는 연맹 간사장인 민홍철 더불어민주당 의원, 상임간사인 배현진 국민의힘 의원, 경제과학... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6033026",
-            "press": "뉴스1",
-            "pubDate": "2026-01-08T16:15:00",
-            "related_members": [
-                "O6D8329R",
-                "4X525582",
-                "8SV6917G",
-                "WXJ8352N"
-            ],
-            "title": "주호영 등 여야 의원 8명, 사흘간 방일…다카이치 총리 예방"
-        },
-        {
-            "_id": "6964b563631fd1743499629a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002785434?sid=102",
-            "created_at": "2026-01-12T17:48:32.875000",
-            "description": "배현진 국민의힘 의원에게 ‘윤석열 전 대통령 탄핵을 막아 달라’는 내용의 문자메시지를 반복적으로... “많은 국회의원이 이런 일에 시달린다. 매일 정상적인 업무 문자를 못 볼 정도다. 법과 금융으로... ",
-            "originallink": "https://www.hani.co.kr/arti/society/society_general/1238690.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-08T15:24:00",
-            "related_members": [
-                "4X525582"
-            ],
-            "title": "배현진에 “반탄이 국민 목소리” 44차례 문자 보낸 국힘 당원 벌금형"
-        },
-        {
-            "_id": "6964b563631fd1743499629b",
-            "link": "https://n.news.naver.com/mnews/article/009/0005618532?sid=100",
-            "created_at": "2026-01-12T17:48:32.875000",
-            "description": "국민의힘 당원이 윤석열 전 대통령 탄핵 반대 문자 폭탄으로 벌금 300만원을 선고받자 배현진 국민의힘... 이어 “매일 정상적인 업무 문자를 못 볼 정도로 많은 국회의원이 이런 일에 시달린다”며 “저는 이렇게 별을... ",
-            "originallink": "https://www.mk.co.kr/article/11926923",
-            "press": "매일경제",
-            "pubDate": "2026-01-08T14:31:00",
-            "related_members": [
-                "4X525582"
-            ],
-            "title": "“본인 딸에게는 못 쓸 더러운 성희롱”…도 넘은 문자 폭탄에 입장 밝..."
-        },
-        {
-            "_id": "6964b563631fd1743499629c",
-            "link": "https://n.news.naver.com/mnews/article/053/0000054867?sid=100",
-            "created_at": "2026-01-12T17:48:32.875000",
-            "description": "배현진 국민의힘 의원은 자신에게 문자 메시지를 반복적으로 보낸 국민의힘 당원이 벌금 300만원을... 이어 \"매일 정상적인 업무 문자를 못 볼 정도로 많은 국회의원이 이런 일에 시달린다\"며 \"저는 이렇게 별을 달아... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47582",
-            "press": "조선일보",
-            "pubDate": "2026-01-08T13:00:00",
-            "related_members": [
-                "4X525582"
-            ],
-            "title": "배현진, 문자 폭탄 당원에 \"법과 금융으로 치료해 드려야죠\""
-        },
-        {
-            "_id": "6964b563631fd1743499629d",
-            "link": "https://n.news.naver.com/mnews/article/057/0001929011?sid=100",
-            "created_at": "2026-01-12T17:48:32.875000",
-            "description": "윤석열 전 대통령 탄핵을 막아 달라며 배현진 국민의힘 의원을 스토킹한 당원이 벌금 300만 원을 선고 받은... 이어 \"많은 국회의원들이 매일 정상적인 업무 문자를 못 볼 정도로 이런 일에 시달린다\"며 \"저는 이렇게 별을... ",
-            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5167370",
-            "press": "매일경제",
-            "pubDate": "2026-01-08T11:26:00",
-            "related_members": [
-                "4X525582"
-            ],
-            "title": "\"더러운 문자들, 이렇게 별 달아드린다\"…배현진, 스토킹 당원에 '경고..."
         }
     ],
     "recent_videos": [
@@ -633,7 +671,7 @@
             "url": "https://www.youtube.com/watch?v=Va7qsoeY17M",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-09T16:22:35.750000",
+            "collected_at": "2026-01-21T08:45:52.379000",
             "duration": 113.0,
             "title": "[빠른뉴스 쨉]  장례식장에서 흰 옷? 안성기 조문한 배현진 복장·태도, 커뮤니티서 논란",
             "upload_date": null
@@ -643,7 +681,7 @@
             "url": "https://www.youtube.com/watch?v=oYH7pEjJkdw",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": 139.0,
             "title": "[신통방통] 배현진 \"천박한 김건희·계엄 역사와 결별해야\"···김계리 \"누가 누굴 보고 천박 운운하나\"",
             "upload_date": null
@@ -693,7 +731,7 @@
             "url": "https://www.youtube.com/watch?v=mZGpkZmmNSw",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": 238.0,
             "title": "공무원 특혜 채용법에 대한 배현진 의원의 일침",
             "upload_date": null
@@ -713,7 +751,7 @@
             "url": "https://www.youtube.com/watch?v=VZaurRw76Og",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": 80.0,
             "title": "배현진 \"본인 딸에게는 못쓸 더러운 문자…'별' 달아 드립니다\" [포크뉴스]",
             "upload_date": null
@@ -763,7 +801,7 @@
             "url": "https://www.youtube.com/watch?v=pMd_NvMYHx4",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-09T16:22:35.083000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": 380.0,
             "title": "배현진, 남욱 빌딩 앞에서 남욱 부인 얘기 꺼냈다 [현장영상] / 채널A",
             "upload_date": null
@@ -773,7 +811,7 @@
             "url": "https://www.youtube.com/watch?v=ds8JUCb9y6g",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:52.379000",
             "duration": 106.0,
             "title": "흰옷 입고 故 안성기 조문을?…배현진 '복장·웃음' 논란 [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -783,7 +821,7 @@
             "url": "https://www.youtube.com/watch?v=UCu7dnZQH1-mX_AtpYBHywuQ",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": null,
             "title": "배현진",
             "upload_date": null
@@ -793,7 +831,7 @@
             "url": "https://www.youtube.com/watch?v=ZQLRjTXPk4s",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": 79.0,
             "title": "\"천박한 김건희\" 배현진에…김계리 \"누가 누굴 보고? 거울 보라\"",
             "upload_date": null
@@ -803,7 +841,7 @@
             "url": "https://www.youtube.com/watch?v=V5sPXy7sNPo",
             "HG_NM": "배현진",
             "MONA_CD": "4X525582",
-            "collected_at": "2026-01-18T13:14:41.469000",
+            "collected_at": "2026-01-21T08:45:51.689000",
             "duration": 111.0,
             "title": "\"국회의원 배현진 맞아요?\" 물은 뒤 성인 주먹만한 돌을",
             "upload_date": null
@@ -819,5 +857,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:23.631081"
+    "exported_at": "2026-01-21T10:09:20.717780"
 }

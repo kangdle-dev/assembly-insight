@@ -48,12 +48,12 @@
             "동구",
             "더불어민주당",
             "선거",
+            "발의",
             "의정",
             "보고회",
             "규탄",
             "이재명",
             "수행",
-            "발의",
             "개정안",
             "지방",
             "최고"
@@ -69,7 +69,7 @@
             },
             {
                 "text": "민주당",
-                "value": 17
+                "value": 18
             },
             {
                 "text": "동구",
@@ -77,11 +77,15 @@
             },
             {
                 "text": "더불어민주당",
-                "value": 11
+                "value": 12
             },
             {
                 "text": "선거",
                 "value": 10
+            },
+            {
+                "text": "발의",
+                "value": 9
             },
             {
                 "text": "의정",
@@ -104,10 +108,6 @@
                 "value": 8
             },
             {
-                "text": "발의",
-                "value": 8
-            },
-            {
                 "text": "개정안",
                 "value": 8
             },
@@ -120,29 +120,43 @@
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:16.188074",
+        "last_analyzed_at": "2026-01-21T10:09:13.510849",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                2,
+                0,
+                0,
+                0,
+                0,
                 1,
-                0,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970123e297082fcc2b34c94",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108404?sid=101",
+            "created_at": "2026-01-21T08:39:40.391000",
+            "description": "노동자 추정제 관련 김주영 더불어민주당 의원 안, 기본법 관련 김태선 민주당 의원 안이 각각 국회에 발의돼 있습니다. 노동부는 5월 입법을 목표로 법 전문가 토론회, 이해관계자 간담회 등을 실시한다는 계획입니다.... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463600&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T10:26:00",
+            "related_members": [
+                "6WK3815W",
+                "D6U6678O"
+            ],
+            "title": "체불·해고 분쟁서 ‘노동자성’ 입증 책임, 사용자가 부담"
+        },
         {
             "_id": "6968ad97297082fcc2b18d2e",
             "link": "https://n.news.naver.com/mnews/article/421/0008714178?sid=102",
@@ -215,7 +229,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -295,7 +309,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -516,7 +530,7 @@
             "url": "https://www.youtube.com/watch?v=CMfkGmKyWYI",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-09T16:20:34.621000",
+            "collected_at": "2026-01-21T08:43:49.827000",
             "duration": 60.0,
             "title": "정청래 당 대표가 직접 소개해 주는「이재명 수행일기」#김태선의원 #정청래 #민주당 #이재명 #베스트셀러",
             "upload_date": null
@@ -566,7 +580,7 @@
             "url": "https://www.youtube.com/watch?v=a_xvmPf5sro",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-09T16:20:34.621000",
+            "collected_at": "2026-01-21T08:43:49.827000",
             "duration": 78.0,
             "title": "이재명 대통령 전 수행실장! 김태선의원이었던 이유? #매불쇼",
             "upload_date": null
@@ -586,7 +600,7 @@
             "url": "https://www.youtube.com/watch?v=LhKGXJU3nb0",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-09T16:20:35.335000",
+            "collected_at": "2026-01-21T08:43:50.641000",
             "duration": 61.0,
             "title": "#김어준 #뉴스공장 #김태선 #울산 #울산동구 #더불어민주당",
             "upload_date": null
@@ -636,7 +650,7 @@
             "url": "https://www.youtube.com/watch?v=kE2yJEZNOoE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-18T13:12:18.979000",
+            "collected_at": "2026-01-21T08:43:49.827000",
             "duration": 749.0,
             "title": "김태선 의원, 일하다 죽지 않을 권리를 위한 『직업안정법』 개정안 발의 기자회견",
             "upload_date": null
@@ -656,7 +670,7 @@
             "url": "https://www.youtube.com/watch?v=UCd1iHYmkCWnWeK4QKcgjTjw",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-18T13:12:18.979000",
+            "collected_at": "2026-01-21T08:43:49.827000",
             "duration": null,
             "title": "김태선 TV",
             "upload_date": null
@@ -666,7 +680,7 @@
             "url": "https://www.youtube.com/watch?v=DxnGdc8eXMo",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-18T13:12:20.021000",
+            "collected_at": "2026-01-21T08:43:49.827000",
             "duration": 2730.0,
             "title": "[특집] ‘인간 이재명’은? “10분 보면 그냥 정치인, 30분 보면...” ‘이재명 수행일기’ 펴낸 김태선 의원 인터뷰",
             "upload_date": null
@@ -692,5 +706,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:16.188183"
+    "exported_at": "2026-01-21T10:09:13.510849"
 }

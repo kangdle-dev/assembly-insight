@@ -47,33 +47,61 @@
     },
     "analysis": {
         "keywords": [
-            "선거",
-            "위원회",
-            "전북",
-            "질의",
-            "민주당",
+            "지역",
+            "공공",
             "대표",
             "발의",
+            "전북",
+            "선거",
+            "위원회",
+            "기관",
+            "민주당",
             "위원장",
-            "업무",
-            "질문",
-            "불법",
-            "지역",
+            "질의",
             "지방",
-            "의원직",
-            "외국"
+            "상생",
+            "업무",
+            "질문"
         ],
         "keyword_frequency": [
+            {
+                "text": "지역",
+                "value": 24
+            },
+            {
+                "text": "공공",
+                "value": 17
+            },
+            {
+                "text": "대표",
+                "value": 14
+            },
+            {
+                "text": "발의",
+                "value": 14
+            },
+            {
+                "text": "전북",
+                "value": 14
+            },
             {
                 "text": "선거",
                 "value": 14
             },
             {
                 "text": "위원회",
+                "value": 13
+            },
+            {
+                "text": "기관",
+                "value": 13
+            },
+            {
+                "text": "민주당",
                 "value": 12
             },
             {
-                "text": "전북",
+                "text": "위원장",
                 "value": 12
             },
             {
@@ -81,19 +109,11 @@
                 "value": 12
             },
             {
-                "text": "민주당",
+                "text": "지방",
                 "value": 11
             },
             {
-                "text": "대표",
-                "value": 10
-            },
-            {
-                "text": "발의",
-                "value": 10
-            },
-            {
-                "text": "위원장",
+                "text": "상생",
                 "value": 10
             },
             {
@@ -103,51 +123,118 @@
             {
                 "text": "질문",
                 "value": 10
-            },
-            {
-                "text": "불법",
-                "value": 9
-            },
-            {
-                "text": "지역",
-                "value": 9
-            },
-            {
-                "text": "지방",
-                "value": 9
-            },
-            {
-                "text": "의원직",
-                "value": 9
-            },
-            {
-                "text": "외국",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:31.579840",
+        "last_analyzed_at": "2026-01-21T10:09:28.543672",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                1,
-                0,
                 4,
                 0,
                 1,
-                0
+                1,
+                3,
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970125f297082fcc2b34d24",
+            "link": "https://n.news.naver.com/mnews/article/016/0002588651?sid=100",
+            "created_at": "2026-01-21T08:40:13.446000",
+            "description": "윤준병 의원실 제공 전북특별자치도 정읍시·고창군의 윤준병 국회의원(더불어민주당, 국회 농림축산식품해양수산위원회)이 지난 19일 맹견 사육허가 제도의 현장 불합리를 개선하고 동물 보호와 공공 안전을 조화롭게... ",
+            "originallink": "https://biz.heraldcorp.com/article/10659507?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-21T08:25:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "윤준병 의원, ‘맹견 사육허가 개선법’ 대표발의"
+        },
+        {
+            "_id": "6970125f297082fcc2b34d25",
+            "link": "https://www.investchosun.com/site/data/html_dir/2026/01/19/2026011980155.html",
+            "created_at": "2026-01-21T08:40:13.446000",
+            "description": "강호동 농협중앙회장이 15년 만에 내놓은 혁신안이 국회에선 사실상 '시간 벌기'로 평가받고 있다. 겸직... 이번 농협개혁법 논의의 선봉에 선 윤준병 의원은 1차 개정안 상임위 통과 이후, \"농림축산식품부가 진행 중인... ",
+            "originallink": "https://www.investchosun.com/site/data/html_dir/2026/01/19/2026011980155.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T07:00:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "[Invest]'사과·사임'으로 버틴 강호동 농협중앙회장…국회 2차 개혁 입..."
+        },
+        {
+            "_id": "69701258297082fcc2b34d19",
+            "link": "https://n.news.naver.com/mnews/article/421/0008722384?sid=102",
+            "created_at": "2026-01-21T08:40:07.026000",
+            "description": "진안군은 19일 국회를 방문해 전북지역 국회의원실 보좌진들과 면담하고 지역 현안 사업에 대한 적극적인... 이경영 부군수 등 진안군 관계자들은 한병도 의원실, 윤준병 의원실, 안호영 의원실 등을 차례로 방문해... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6043803",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T16:18:00",
+            "related_members": [
+                "JC14718Q",
+                "H5476989",
+                "XEF29171"
+            ],
+            "title": "진안군, 국회 보좌진들 만나 양수발전소 유치 등 현안 논의"
+        },
+        {
+            "_id": "69701238297082fcc2b34c69",
+            "link": "https://n.news.naver.com/mnews/article/003/0013717724?sid=102",
+            "created_at": "2026-01-21T08:39:34.439000",
+            "description": "행사에는 김관영 전북지사를 비롯해 이원택 국회의원, 정헌율 익산시장, 박상우 전 국토부 장관, 송태규 민주당 익산갑 지역위원장, 김경진 익산시의장, 지역 각계 인사, 시민 등 총 5000여 명이 참석했다. 정세균 전... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003481759",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T11:36:00",
+            "related_members": [
+                "H5476989",
+                "XEF29171",
+                "5765663F",
+                "GOC54665",
+                "JC14718Q",
+                "7R156073",
+                "FJK3396E",
+                "DAV7257X"
+            ],
+            "title": "최정호 전 국토부 차관, 출판기념회 \"익산대전환, 지금\""
+        },
+        {
+            "_id": "6970125f297082fcc2b34d26",
+            "link": "https://n.news.naver.com/mnews/article/056/0012107726?sid=100",
+            "created_at": "2026-01-21T08:40:13.446000",
+            "description": "국회 윤준병 의원이 지방에 이전한 공공기관들의 지역 상생을 강화하기 위해 공공기관의 운영에 관한 법률 개정안을 대표 발의했습니다. 개정안은 공공기관의 지역 상생 협력과 지역 일자리 창출 성과를 경영 실적 평가에... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462524&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-19T11:30:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "공공기관 지역 상생 강화 법 개정 추진"
+        },
+        {
+            "_id": "6970125f297082fcc2b34d27",
+            "link": "https://n.news.naver.com/mnews/article/056/0012107340?sid=100",
+            "created_at": "2026-01-21T08:40:13.446000",
+            "description": "국회 윤준병 의원이 지방에 이전한 공공기관들의 지역 상생을 강화하기 위해 공공기관의 운영에 관한 법률 개정안을 대표 발의했습니다. 개정안은 공공기관의 지역 상생 협력과 지역 일자리 창출 성과를 경영 실적 평가에... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462093&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-18T21:21:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "공공기관 지역 상생 강화 법 개정 추진"
+        },
         {
             "_id": "696c5c1b297082fcc2b19bc6",
             "link": "https://n.news.naver.com/mnews/article/056/0012107153?sid=100",
@@ -205,7 +292,7 @@
             "_id": "6968ad9a297082fcc2b18d3f",
             "link": "https://n.news.naver.com/mnews/article/032/0003421670?sid=100",
             "created_at": "2026-01-15T18:04:23.294000",
-            "description": "14일 민주당에 따르면 용인 반도체 클러스터의 전북 새만금 이전을 주장해온 안호영 의원(국회... 앞서 한준호 의원은 같은 날 페이스북에 “클러스터 이전 주장은 국가전략산업의 현실과 그간 축적된 정책 결정을 외면한... ",
+            "description": "국회 국토교통위원장인 맹성규 민주당 의원은 지난 12일 페이스북에 “용인이든 새만금이든 제3의 지역이든 (전력 수요를) 안정적으로 감당할 수 있는지 검증은 반드시 필요하다”며 “당과 정부의 보다 적극적인 조정... ",
             "originallink": "https://www.khan.co.kr/article/202601150600031",
             "press": "경향신문",
             "pubDate": "2026-01-15T06:00:00",
@@ -343,7 +430,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -423,7 +510,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -535,7 +622,7 @@
             "url": "https://www.youtube.com/watch?v=lZXxSamfWIU",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:21.336000",
+            "collected_at": "2026-01-21T08:48:10.591000",
             "duration": 285.0,
             "title": "[국회는지금] 윤준병 \"도당위원장 중책…지방선거 필승\"ㅣ#헬로tv뉴스",
             "upload_date": null
@@ -545,7 +632,7 @@
             "url": "https://www.youtube.com/watch?v=vRUnkR67I0o",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:20.241000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": 153.0,
             "title": "최인규 의장 '지방의원 길들이기' VS 윤준병 의원 '구태 정치 청산'",
             "upload_date": null
@@ -555,7 +642,7 @@
             "url": "https://www.youtube.com/watch?v=Yh9tfQqe89c",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:20.241000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": 115.0,
             "title": "윤준병 의원, ‘선거법 위반 혐의’…벌금 90만 원",
             "upload_date": null
@@ -575,7 +662,7 @@
             "url": "https://www.youtube.com/watch?v=OYdM9hmz1xo",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-13T09:48:35.740000",
+            "collected_at": "2026-01-21T08:48:10.591000",
             "duration": 152.0,
             "title": "[JTV 8 뉴스]  개정 선거법, 윤준병·이상직 재판 변수",
             "upload_date": null
@@ -595,7 +682,7 @@
             "url": "https://www.youtube.com/watch?v=UCsSKyhkxLxd2H7lVy0PR35A",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:20.241000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": null,
             "title": "해결사 윤준병",
             "upload_date": null
@@ -625,7 +712,7 @@
             "url": "https://www.youtube.com/watch?v=gVnbrpZIiSc",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-09T16:24:51.037000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": 803.0,
             "title": "[8/24] 국회의원 윤준병의 예산결산특별위원회 결산 종합정책질의 영상",
             "upload_date": null
@@ -635,7 +722,7 @@
             "url": "https://www.youtube.com/watch?v=at6X1cy29lQ",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:21.336000",
+            "collected_at": "2026-01-21T08:48:10.591000",
             "duration": 131.0,
             "title": "[뉴스데스크]'선거법 위반' 윤준병 의원 1심 \"당선무효형 피해\"",
             "upload_date": null
@@ -645,7 +732,7 @@
             "url": "https://www.youtube.com/watch?v=p9bGwg_z5KU",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-15T18:20:45.685000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": 233.0,
             "title": "[9/16] 국회의원 윤준병의 농어업인 공익수당지원법안 농림축산식품해양수산위원회 제안설명 영상",
             "upload_date": null
@@ -655,7 +742,7 @@
             "url": "https://www.youtube.com/watch?v=VmM2dmeqrjY",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:20.241000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": 1800.0,
             "title": "[국회방송 국회의원 25시] \"주민들의 어려움을 해결하고 더 나은 내일을 만드는 것이 윤준병이 생각하는 정치입니다!\" (24.09.10.)",
             "upload_date": null
@@ -665,11 +752,11 @@
             "url": "https://www.youtube.com/watch?v=L4_NwMbskcA",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-18T13:17:20.241000",
+            "collected_at": "2026-01-21T08:48:09.878000",
             "duration": 649.0,
             "title": "[7/31] 국회의원 윤준병의 환경부 업무 관련 질문 영상(2차 질의)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:31.579945"
+    "exported_at": "2026-01-21T10:09:28.543672"
 }

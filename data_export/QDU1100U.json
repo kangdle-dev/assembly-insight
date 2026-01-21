@@ -46,22 +46,22 @@
             "실탄",
             "감독",
             "불법",
-            "대표",
             "국민",
+            "대표",
             "국가",
             "선수",
+            "주장",
+            "의혹",
+            "회견",
             "유통",
             "사격",
-            "회견",
-            "실업",
-            "경찰",
-            "의혹",
-            "사건"
+            "동원",
+            "사실"
         ],
         "keyword_frequency": [
             {
                 "text": "진종",
-                "value": 40
+                "value": 45
             },
             {
                 "text": "실탄",
@@ -76,12 +76,12 @@
                 "value": 26
             },
             {
-                "text": "대표",
-                "value": 20
+                "text": "국민",
+                "value": 24
             },
             {
-                "text": "국민",
-                "value": 19
+                "text": "대표",
+                "value": 20
             },
             {
                 "text": "국가",
@@ -92,6 +92,18 @@
                 "value": 18
             },
             {
+                "text": "주장",
+                "value": 17
+            },
+            {
+                "text": "의혹",
+                "value": 17
+            },
+            {
+                "text": "회견",
+                "value": 17
+            },
+            {
                 "text": "유통",
                 "value": 17
             },
@@ -100,49 +112,103 @@
                 "value": 16
             },
             {
-                "text": "회견",
-                "value": 16
+                "text": "동원",
+                "value": 15
             },
             {
-                "text": "실업",
+                "text": "사실",
                 "value": 14
-            },
-            {
-                "text": "경찰",
-                "value": 13
-            },
-            {
-                "text": "의혹",
-                "value": 13
-            },
-            {
-                "text": "사건",
-                "value": 13
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:44.184121",
+        "last_analyzed_at": "2026-01-21T10:09:41.034175",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                1,
-                2,
                 1,
                 0,
+                0,
+                0,
+                5,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701279297082fcc2b34d79",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302885?sid=100",
+            "created_at": "2026-01-21T08:40:39.348000",
+            "description": "이어 김 총리는 서울시장 출마 의사가 없음을 이미 누차 밝혀왔다며 허위 사실을 유포한 야당 국회의원에 대해 법적 조치하고 잘못된 보도엔 무관용 원칙으로 대처하겠다고 경고했습니다. 앞서 국민의힘 진종오 의원은... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601191806141670",
+            "press": "YTN",
+            "pubDate": "2026-01-19T18:06:00",
+            "related_members": [
+                "QDU1100U"
+            ],
+            "title": "총리실 \"김 총리 입당원서 동원 주장 사실 아냐...법적 조치\""
+        },
+        {
+            "_id": "69701279297082fcc2b34d7a",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690500?sid=100",
+            "created_at": "2026-01-21T08:40:39.348000",
+            "description": "했다는 진종오 국민의힘 의원 등의 주장에 “전혀 사실이 아니다”고 19일 밝혔다. 총리 공보실은 이날 오후 “최근 국무총리와 관련해 야당 국회의원의 일방적인 주장을 그대로 인용하는 보도가 급증하고 있다”며 “(김... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260119/133186164/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-19T16:38:00",
+            "related_members": [
+                "QDU1100U"
+            ],
+            "title": "총리실 “金총리 입당원서 동원, 사실 아냐…법적조치”"
+        },
+        {
+            "_id": "69701279297082fcc2b34d7b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008722353?sid=100",
+            "created_at": "2026-01-21T08:40:39.349000",
+            "description": "이어 \"허위사실을 유포한 야당 국회의원에 대해 관련 법적조치를 진행할 것\"이라며 \"잘못된 보도에 대해서는 무관용 원칙으로 대처해 갈 것\"이라고 밝혔다. 앞서 진종오 국민의힘 의원은 지난해 9월 30일 김 시의원이 내년... ",
+            "originallink": "https://www.news1.kr/politics/president/6043793",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T16:13:00",
+            "related_members": [
+                "QDU1100U"
+            ],
+            "title": "총리실 \"金총리, 종교단체 동원 주장 사실 아냐…무관용 법적 조치\""
+        },
+        {
+            "_id": "69701279297082fcc2b34d7c",
+            "link": "https://n.news.naver.com/mnews/article/448/0000584653?sid=100",
+            "created_at": "2026-01-21T08:40:39.349000",
+            "description": "야당 국회의원에 대해 관련 법적조치를 할 것이며 잘못된 보도에 대해서는 무관용 원칙으로 대처할 것\"이라고 강조했다. 앞서 국민의힘 진종오 의원은 작년 9월 이 같은 의혹을 제보받았다며 기자회견을 열어 통화 녹취를... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/19/2026011990212.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-19T15:58:00",
+            "related_members": [
+                "QDU1100U"
+            ],
+            "title": "총리실 \"金총리 '입당원서 동원' 주장 사실 아냐…법적조치\""
+        },
+        {
+            "_id": "69701279297082fcc2b34d7d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013718495?sid=100",
+            "created_at": "2026-01-21T08:40:39.349000",
+            "description": "총리실은 허위사실을 유포한 야당 국회의원에 대해 법적 조치를 하고 관련 보도에 대해서도 '무관용 원칙' 대처하겠다는 방침이다. 앞서 진종오 국민의힘 의원은 '더불어민주당 공천헌금 의혹' 핵심 당사자인 김경... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003482191",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T15:45:00",
+            "related_members": [
+                "QDU1100U",
+                "MLH1404S"
+            ],
+            "title": "국무총리실 \"김민석 서울시장 출마설 사실무근…법적 조치 등 강력 대응..."
+        },
         {
             "_id": "6968ad8b297082fcc2b18cff",
             "link": "https://n.news.naver.com/mnews/article/023/0003953100?sid=102",
@@ -369,7 +435,7 @@
             "_id": "6964b543631fd17434996015",
             "link": "https://n.news.naver.com/mnews/article/056/0012099997?sid=100",
             "created_at": "2026-01-12T17:48:00.300000",
-            "description": "대안과미래는 오늘 오전 국회 의원회관에서 여론조사 전문가를 초청해 ‘지금 국민의힘은 어디에 있나’를... 김성원·조은희·엄태영·서범수·김재섭·고동진·박정하·진종오·우재준·한지아 의원뿐 아니라 6선의 조배숙... ",
+            "description": "대안과미래는 오늘 오전 국회 의원회관에서 여론조사 전문가를 초청해 ‘지금 국민의힘은 어디에 있나’를... 간담회에는 12·3 비상계엄 1년 당시 사과문에 이름을 올린 김성원·조은희·엄태영·서범수·김재섭·고동진... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452379&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-07T10:25:00",
@@ -595,7 +661,7 @@
             "url": "https://www.youtube.com/watch?v=UCi_zetLFfrpQMznWtegWRog",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:15.223000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": null,
             "title": "진종오TV",
             "upload_date": null
@@ -615,7 +681,7 @@
             "url": "https://www.youtube.com/watch?v=pFhAcje1PR4",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-15T18:24:26.546000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": 109.0,
             "title": "(광배근 열일♡) 사신 진종오(Jin Jong oh)， 한 치의 오차 없는 클린샷↗ 아는 형님(Knowing bros) 189회",
             "upload_date": null
@@ -635,7 +701,7 @@
             "url": "https://www.youtube.com/watch?v=AmCMu8CTlU8",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:16.252000",
+            "collected_at": "2026-01-21T08:51:35.684000",
             "duration": 441.0,
             "title": "진종오 \"경찰은 이재명에 어디까지 보고했나\" [티조Clip]",
             "upload_date": null
@@ -655,7 +721,7 @@
             "url": "https://www.youtube.com/watch?v=rVgijDuW2i0",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:15.223000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": 127.0,
             "title": "진종오 \"민주당, 종교단체 신도 3천 명 활용 정황\"…정청래 \"윤리감찰단 조사 지시\"｜지금 이 장면",
             "upload_date": null
@@ -665,7 +731,7 @@
             "url": "https://www.youtube.com/watch?v=gF2AkF3xs0U",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:15.223000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": 127.0,
             "title": "\"이재명 암살설 수사하다 경기용 실탄 대량 압수\"…진종오 \"APEC 앞둔 정부, 왜 밀실수사하냐\"｜지금 이 장면",
             "upload_date": null
@@ -675,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=QtwdT4m6RVc",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:16.252000",
+            "collected_at": "2026-01-21T08:51:35.684000",
             "duration": 113.0,
             "title": "'살상도 가능한 실탄' 시중에?…진종오 \"2만발 불법유통\" / JTBC 뉴스룸",
             "upload_date": null
@@ -685,7 +751,7 @@
             "url": "https://www.youtube.com/watch?v=ZRELRzzRbcI",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:15.223000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": 461.0,
             "title": "진종오 \"실탄 수만 발 불법 유통...정부, 왜 국민에 안 알리나\" [현장영상] / 채널A",
             "upload_date": null
@@ -695,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=U3Ut95vVFR8",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-18T13:21:15.223000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": 117.0,
             "title": "진종오 “총기 100여 정·실탄 2만발 불법유통”…경찰 “수사중” / KBS  2025.09.23.",
             "upload_date": null
@@ -705,7 +771,7 @@
             "url": "https://www.youtube.com/watch?v=nqmTO9hAIo0",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-15T18:24:27.344000",
+            "collected_at": "2026-01-21T08:51:35.684000",
             "duration": 102.0,
             "title": "'사격 황제' 진종오 \"IOC 선수위원 도전\" / SBS 8뉴스",
             "upload_date": null
@@ -715,7 +781,7 @@
             "url": "https://www.youtube.com/watch?v=TWMDocyU9C0",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-01-15T18:24:26.546000",
+            "collected_at": "2026-01-21T08:51:35.042000",
             "duration": 364.0,
             "title": "[현장쏙] 한국불교태고종, 진종오 국힘 의원에 사과 촉구 \"與경선 동원 의혹은 허위…정치적 개입 안 해\"｜\"명백한 명예훼손\" 반박 / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -739,7 +805,17 @@
             "duration": 485.0,
             "title": "[LIVE] '김경 종교단체 동원' 의혹 진종오 고발인 조사 현장/2026년 1월 13일(화)/KBS",
             "upload_date": null
+        },
+        {
+            "_id": "69701509297082fcc2b34edc",
+            "url": "https://www.youtube.com/watch?v=14uLlQVbvmg",
+            "HG_NM": "진종오",
+            "MONA_CD": "QDU1100U",
+            "collected_at": "2026-01-21T08:51:35.042000",
+            "duration": 238.0,
+            "title": "진종오 \"악의적 조작?…김민석, 의혹 사실이면 사퇴!\" [현장영상] / 채널A",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:44.184247"
+    "exported_at": "2026-01-21T10:09:41.034175"
 }

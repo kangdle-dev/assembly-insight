@@ -60,18 +60,18 @@
             "투표",
             "결선",
             "민주",
-            "더불어민주당",
             "지도부",
             "최고",
-            "이날",
-            "선출",
             "보궐",
+            "더불어민주당",
+            "선출",
+            "이날",
             "신임"
         ],
         "keyword_frequency": [
             {
                 "text": "대표",
-                "value": 79
+                "value": 78
             },
             {
                 "text": "원내",
@@ -79,42 +79,42 @@
             },
             {
                 "text": "민주당",
-                "value": 36
+                "value": 37
             },
             {
                 "text": "선거",
-                "value": 31
+                "value": 32
             },
             {
                 "text": "한병도",
-                "value": 24
+                "value": 27
             },
             {
                 "text": "투표",
-                "value": 23
+                "value": 24
             },
             {
                 "text": "결선",
-                "value": 21
+                "value": 22
             },
             {
                 "text": "민주",
                 "value": 17
             },
             {
-                "text": "더불어민주당",
-                "value": 16
-            },
-            {
                 "text": "지도부",
-                "value": 15
+                "value": 14
             },
             {
                 "text": "최고",
                 "value": 14
             },
             {
-                "text": "이날",
+                "text": "보궐",
+                "value": 14
+            },
+            {
+                "text": "더불어민주당",
                 "value": 14
             },
             {
@@ -122,7 +122,7 @@
                 "value": 13
             },
             {
-                "text": "보궐",
+                "text": "이날",
                 "value": 13
             },
             {
@@ -130,34 +130,65 @@
                 "value": 13
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:24.186775",
+        "last_analyzed_at": "2026-01-21T10:09:21.296187",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                8,
-                2,
-                0,
                 0,
                 0,
                 1,
+                0,
+                1,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "69701234297082fcc2b34c4f",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
+            "created_at": "2026-01-21T08:39:30.701000",
+            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 김태년·이인영·홍종학·백혜련·진선미·이수진·박상혁·김원이·허영·남인순 의원 등이 자리했다. 또한... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-19T09:01:00",
+            "related_members": [
+                "URV1689Q",
+                "3ZR4438W",
+                "ATB59635",
+                "5765663F",
+                "88O1334C",
+                "GF286398",
+                "1WE5693J",
+                "BCQ55105",
+                "WTR5885Y",
+                "4L695580",
+                "FU53642G",
+                "HSS7466Y",
+                "68P7228G",
+                "HXT76735",
+                "04T3751T",
+                "0R68099X",
+                "YN160848",
+                "XBT9550Q",
+                "UQ282145"
+            ],
+            "title": "유은혜 출판기념회 개최…정계·교육계 인사 다수 참석"
+        },
+        {
             "_id": "696c5bed297082fcc2b19b8e",
             "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
             "created_at": "2026-01-18T13:05:01.197000",
-            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
+            "description": "이밖에도 김동연 경기지사와 함께 김상곤, 이재정 전 경기도교육감 등 전직 도교육감들도 참석해 유 전... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
             "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
             "press": "노컷뉴스",
             "pubDate": "2026-01-17T22:24:00",
@@ -180,7 +211,7 @@
             "_id": "6966ec91887d07f7ba2fb2fa",
             "link": "https://n.news.naver.com/mnews/article/056/0012103651?sid=100",
             "created_at": "2026-01-14T10:08:33.450000",
-            "description": "[앵커] 민주당 원내대표로 한병도 국회의원이 선출됐습니다. 최고위원에는 이성윤 의원이 당선됐는데, 전북 의원들의 여당 지도부 합류로 정치력 확대에 대한 기대가 커지고 있습니다. 이지현 기자입니다. [리포트] 전임... ",
+            "description": "[앵커] 민주당 원내대표로 한병도 국회의원이 선출됐습니다. 최고위원에는 이성윤 의원이 당선됐는데, 전북... 의원 사퇴에 보궐로 치른 민주당 원내대표 선거. 익산시 을 한병도 의원이 결선까지 가는 접전 끝에 백혜련... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457161&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-13T08:08:00",
@@ -362,7 +393,7 @@
             "_id": "6964b541631fd17434995feb",
             "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를... 앞서 이재명 당 대표 체제에서 비서실장, 전략기획위원장 등 요직을 맡았던 천준호 의원이 한 원내대표 출마... ",
+            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를 거쳐 당선됐다. 진성준(3선·서울 강서을) 박정(3선·경기 파주을) 의원(기호순)은 1차 투표에서 낙선했다. 원내대표... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133134653/2",
             "press": "동아일보",
             "pubDate": "2026-01-12T04:32:00",
@@ -583,7 +614,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
+            "description": "9일 국회의원회관 제2소회의실에서 열린 ‘제2차 경기도 도시철도망 신속 추진을 위한 국회 토론회’에는 김 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원, 도민, 시군... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -655,7 +686,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -735,7 +766,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -842,25 +873,6 @@
                 "4019850M"
             ],
             "title": "진성준, 與 원내대표 보선 첫 출마 선언…박정·백혜련·한병도 물망(종..."
-        },
-        {
-            "_id": "6964b54b631fd174349960dc",
-            "link": "https://n.news.naver.com/mnews/article/003/0013677960?sid=102",
-            "created_at": "2026-01-12T17:48:08.914000",
-            "description": "대한간호협회는 오는 30일 오후 2시 국회의원회관 제2세미나실에서 '요양병원 혁신 및 간병 급여화 토론회'를... 이번 토론회는 김남희·이수진·남인순·백혜련·서영석 더불어민주당 의원, 김예지 국민의힘 의원, 김선민... ",
-            "originallink": "https://www.newsis.com/view/NISX20251226_0003455388",
-            "press": "뉴시스",
-            "pubDate": "2025-12-26T10:48:00",
-            "related_members": [
-                "HSS7466Y",
-                "XR24352K",
-                "0R68099X",
-                "04T3751T",
-                "7GW5372Y",
-                "NXB3178C",
-                "CNZ51556"
-            ],
-            "title": "요양병원 간병인 80% 60대 이상…\"환자 안전대책 모색\""
         }
     ],
     "recent_videos": [
@@ -909,7 +921,7 @@
             "url": "https://www.youtube.com/watch?v=oHHsAZKyYGw",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:53.726000",
+            "collected_at": "2026-01-21T08:46:01.937000",
             "duration": 291.0,
             "title": "[다시보기] 민주 원내대표 선거 과반 득표자 없어…한병도·백혜련 결선투표 -1월 11일 (일) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -919,7 +931,7 @@
             "url": "https://www.youtube.com/watch?v=LPTKOjm1Y8U",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:53.726000",
+            "collected_at": "2026-01-21T08:46:01.937000",
             "duration": 163.0,
             "title": "민주당 원내대표 보궐선거 '한병도·백혜련' 결선 투표 / JTBC 뉴스룸",
             "upload_date": null
@@ -929,7 +941,7 @@
             "url": "https://www.youtube.com/watch?v=l5fZ1sdvjLQ",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:53.726000",
+            "collected_at": "2026-01-21T08:46:01.937000",
             "duration": 148.0,
             "title": "민주 원내대표 선거, 한병도 vs 백혜련 결선 / 채널A / 뉴스A",
             "upload_date": null
@@ -949,7 +961,7 @@
             "url": "https://www.youtube.com/watch?v=rRgIE6qQWzw",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:53.726000",
+            "collected_at": "2026-01-21T08:46:01.937000",
             "duration": 1027.0,
             "title": "[다시보기] 민주 백혜련, 원내대표 출마 선언 \"당내 비위, 예외없이 무관용\"-1월 2일 (금) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -959,7 +971,7 @@
             "url": "https://www.youtube.com/watch?v=03A9K8h8n1U",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:52.749000",
+            "collected_at": "2026-01-21T08:46:01.179000",
             "duration": 879.0,
             "title": "내란 국조특위 활동 마친 더불어민주당 백혜련 의원 | 그날그곳",
             "upload_date": null
@@ -999,7 +1011,7 @@
             "url": "https://www.youtube.com/watch?v=uwumiqT62Us",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:52.749000",
+            "collected_at": "2026-01-21T08:46:01.179000",
             "duration": 73.0,
             "title": "흰 저고리·분홍 치마 한복 차림 나타난 백혜련...\"9월 정기 국회 첫날 모두 입자\"｜지금 이 뉴스",
             "upload_date": null
@@ -1009,7 +1021,7 @@
             "url": "https://www.youtube.com/watch?v=Hh7QTwdQ6gY",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:53.726000",
+            "collected_at": "2026-01-21T08:46:01.937000",
             "duration": 1081.0,
             "title": "[생중계] 백혜련 더불어민주당 의원, 원내대표 출마 선언 기자회견 (2026.01.02 오후)",
             "upload_date": null
@@ -1019,7 +1031,7 @@
             "url": "https://www.youtube.com/watch?v=r2XbW5NoLu4",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:52.749000",
+            "collected_at": "2026-01-21T08:46:01.179000",
             "duration": 1359.0,
             "title": "[대담한 만남] 백혜련 국회의원 편",
             "upload_date": null
@@ -1029,11 +1041,11 @@
             "url": "https://www.youtube.com/watch?v=myIJAvIPbJE",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-18T13:14:52.749000",
+            "collected_at": "2026-01-21T08:46:01.179000",
             "duration": 287.0,
             "title": "[현장영상] 백혜련 등장에 환호성 \"와~!\"…본회의서 한복 입고 나온 이유가 / JTBC News",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:24.186933"
+    "exported_at": "2026-01-21T10:09:21.296187"
 }

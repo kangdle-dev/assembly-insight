@@ -53,45 +53,49 @@
     "analysis": {
         "keywords": [
             "인사",
-            "신년",
             "국민",
             "지방",
+            "신년",
             "선거",
             "이철",
+            "강원도",
             "광업",
             "승리",
             "위원장",
-            "강원도",
             "대표",
             "원내",
-            "공천",
             "라이브",
+            "이준석",
             "한국"
         ],
         "keyword_frequency": [
             {
                 "text": "인사",
-                "value": 37
+                "value": 36
+            },
+            {
+                "text": "국민",
+                "value": 34
+            },
+            {
+                "text": "지방",
+                "value": 32
             },
             {
                 "text": "신년",
                 "value": 32
             },
             {
-                "text": "국민",
-                "value": 31
-            },
-            {
-                "text": "지방",
-                "value": 31
-            },
-            {
                 "text": "선거",
-                "value": 26
+                "value": 27
             },
             {
                 "text": "이철",
-                "value": 26
+                "value": 22
+            },
+            {
+                "text": "강원도",
+                "value": 20
             },
             {
                 "text": "광업",
@@ -103,11 +107,7 @@
             },
             {
                 "text": "위원장",
-                "value": 19
-            },
-            {
-                "text": "강원도",
-                "value": 18
+                "value": 17
             },
             {
                 "text": "대표",
@@ -118,41 +118,188 @@
                 "value": 13
             },
             {
-                "text": "공천",
+                "text": "라이브",
                 "value": 12
             },
             {
-                "text": "라이브",
-                "value": 12
+                "text": "이준석",
+                "value": 11
             },
             {
                 "text": "한국",
                 "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:36.565669",
+        "last_analyzed_at": "2026-01-21T10:09:33.402198",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                0,
-                8,
-                4,
                 4,
                 1,
                 0,
+                2,
+                5,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701269297082fcc2b34d43",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325798?sid=100",
+            "created_at": "2026-01-21T08:40:23.360000",
+            "description": "뻔뻔한 작태 -이준석, 장동혁과 동조단식 보다 다른 공조할듯 ■ 방송 : SBS 김태현의 정치쇼 (FM 103.5 MHz 7:00 ~ 9:00) ■ 일자 : 2026년 1월 20일 (화) ■ 진행 : 김태현 변호사 ■ 출연 : 천하람 개혁신당 의원 (국회 재경위원)... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410506&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-20T08:56:00",
+            "related_members": [
+                "QWL7778X",
+                "YGB8604T",
+                "KFM1081G",
+                "TZP9391O",
+                "EH27538E"
+            ],
+            "title": "[단독] 천하람 \"이혜훈 '주님, 화 잘내는 저를 고쳐주세요'…비망록 속..."
+        },
+        {
+            "_id": "69701242297082fcc2b34ca0",
+            "link": "https://n.news.naver.com/mnews/article/016/0002588035?sid=101",
+            "created_at": "2026-01-21T08:39:44.461000",
+            "description": "행사 기간 중에는 산업통상자원중소벤처기업위원회 이철규 위원장을 비롯한, 과학기술방송통신위원회 최민희 위원장, 국토교통위원회 맹성규위원장 등 국회의원들이 방문해 강원 기업의 글로벌 진출에 높은... ",
+            "originallink": "https://biz.heraldcorp.com/article/10658666?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-20T08:40:00",
+            "related_members": [
+                "YS38221N",
+                "FJK3396E",
+                "TZP9391O"
+            ],
+            "title": "관광만 잘 하는줄 알았는데..강원도 IT·전자로 CES 나흘간 계약 57% 상승..."
+        },
+        {
+            "_id": "69701269297082fcc2b34d44",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474297?sid=100",
+            "created_at": "2026-01-21T08:40:23.705000",
+            "description": "[천하람/개혁신당 의원 : 경찰 출신의 국회의원에게 부탁한 것이 과연 불기소 결정이라고 하는 최종 수사 결과에 어떤 영향을 미쳤는지 저희가 꼼꼼히 따져봐야 된다고 생각하고요.] JTBC가 입수한 녹취에 따르면 이 의원은... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280785?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-19T21:12:00",
+            "related_members": [
+                "YGB8604T",
+                "TZP9391O"
+            ],
+            "title": "[단독] 이혜훈 비망록…닥쳐올 수사에 \"이철규 활용해야\""
+        },
+        {
+            "_id": "69701269297082fcc2b34d45",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474266?sid=100",
+            "created_at": "2026-01-21T08:40:23.706000",
+            "description": "\"경찰 출신 의원 활용\" 이혜훈 후보자가 바른정당 소속이던 2017년, 자신의 금품수수 의혹을 무마하기 위해 경찰 출신 국회의원을 활용하려 했던 정황이 드러났습니다. JTBC가 입수한 비망록엔 이철규 의원의 이름이... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280784?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-19T18:49:00",
+            "related_members": [
+                "TZP9391O"
+            ],
+            "title": "[뉴스룸 오프닝] \"경찰 출신 의원 활용\" / 국힘 '신천지 명단' 입수 / 구..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c20",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055150?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "이란에서 반정부 시위가 격화되자 한국 국회가 이례적으로 한목소리를 냈다. 이언주 더불어민주당... 사회민주당 한창민 의원이 함께해주셨다. 모든 의원들과 다 깊게 이야기를 나눠본 건 아니지만, '이게 남 일이 아니다... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47913",
+            "press": "조선일보",
+            "pubDate": "2026-01-19T16:00:00",
+            "related_members": [
+                "LG63087O",
+                "YOG1280B",
+                "TZP9391O",
+                "JG77046J",
+                "T4I4862D",
+                "A0P4646G",
+                "1A82234K",
+                "XG348314",
+                "5KV82250"
+            ],
+            "title": "이언주 \"이란 시위, 5·18과 닮았다\"…여야 77명 뭉쳐 강경 진압 규탄"
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8f",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302687?sid=100",
+            "created_at": "2026-01-21T08:39:39.217000",
+            "description": "저희가 없는 사실을 얘기하는 게 아니라 그 녹취록에 김정재 의원의 음성이 남아 있고 이철규 의원의 여러... 국민의힘 의원 : 국회 인사청문회는 언론이 제기하는 의혹 제기와는 다르다고 생각합니다. 오늘 자료 제출과... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601191220539352",
+            "press": "YTN",
+            "pubDate": "2026-01-19T12:20:00",
+            "related_members": [
+                "E1J8836Y",
+                "KFM1081G",
+                "8Q88373R",
+                "TZP9391O",
+                "S824682L",
+                "QWL7778X"
+            ],
+            "title": "[시사정각] 김병기 제명 징계 수용...국민의힘 장동혁 '단식 5일째' 이어..."
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106502?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "저도 과거에 세월호 진상 규명을 위해서 국회의원 시절에 노상 단식을 청와대 앞에서 했던 적이 있는데 열흘... 김정재, 이철규의 공천헌금 녹취 이 부분도 방어해 주기 위해서 단식하는 거야? 이렇게 될 수 있는 거거든요.... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458247?utm_source=naver&utm_medium=article&utm_campaign=20260119013631",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T11:29:00",
+            "related_members": [
+                "DMP1439I",
+                "KFM1081G",
+                "E1J8836Y",
+                "TZP9391O",
+                "4X525582",
+                "LYY5513O",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "[정치맛집]김근식 \"장동혁 단식, 내부용 아닌 당내 갈등 해결의 모멘텀..."
+        },
+        {
+            "_id": "6970123c297082fcc2b34c90",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302358?sid=100",
+            "created_at": "2026-01-21T08:39:39.217000",
+            "description": "대통령, 국회의원 이 두 가지는 민주당이 다수석과 집권여당이 돼 있는데. 지방선거 같은 경우에는 지자체... 추경호 의원 관련한 내용들도 있었고요. 민주당의 전반적인 문제인 것처럼 특검을 통해서 규명하자고 주장을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601181649266473",
+            "press": "YTN",
+            "pubDate": "2026-01-18T16:49:00",
+            "related_members": [
+                "E1J8836Y",
+                "TZP9391O",
+                "G152611B"
+            ],
+            "title": "이재명 정부 1기 우상호 첫 사퇴...강원지사 출마?"
+        },
+        {
+            "_id": "6970123c297082fcc2b34c91",
+            "link": "https://n.news.naver.com/mnews/article/003/0013716527?sid=102",
+            "created_at": "2026-01-21T08:39:39.217000",
+            "description": "포항북당협위원장인 김정재 국회의원 역시 지난해 이철규 국회의원과의 통화 내용에서 언급된 '포항 정치 3~5억원 매수' 등으로 정치적 부담을 안고 있어 지역 조직 전반의 도덕성에 대한 의문이 확산되고 있다. 포항 한... ",
+            "originallink": "https://www.newsis.com/view/NISX20260118_0003480849",
+            "press": "뉴시스",
+            "pubDate": "2026-01-18T13:07:00",
+            "related_members": [
+                "E1J8836Y",
+                "TZP9391O"
+            ],
+            "title": "국민의힘 ,포항 북구 시·도의원들 형사 사건 연루…지역 민심 흔들"
+        },
         {
             "_id": "696c5be7297082fcc2b19b74",
             "link": "https://n.news.naver.com/mnews/article/028/0002786925?sid=100",
@@ -191,7 +338,7 @@
             "_id": "6968ad95297082fcc2b18d29",
             "link": "https://n.news.naver.com/mnews/article/421/0008716526?sid=100",
             "created_at": "2026-01-15T18:04:18.169000",
-            "description": "김현정 당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝나고 기자들과 만나 \"이것으로 단식하는... 이철규 의원과 김정재 의원이 3억~5억 원을 주는 것이 관례라는 녹취록이 나왔고, 12·3 불법계엄 당일 추경호... ",
+            "description": "김현정 당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝나고 기자들과 만나 \"이것으로 단식하는... 의원과 김정재 의원이 3억~5억 원을 주는 것이 관례라는 녹취록이 나왔고, 12·3 불법계엄 당일 추경호 당시... ",
             "originallink": "https://www.news1.kr/politics/assembly/6040382",
             "press": "뉴스1",
             "pubDate": "2026-01-15T15:01:00",
@@ -487,176 +634,6 @@
                 "TZP9391O"
             ],
             "title": "국민의힘 강원도당, 14일 원주서 신년인사회 개최"
-        },
-        {
-            "_id": "6964b54b631fd174349960d7",
-            "link": "https://n.news.naver.com/mnews/article/056/0012101084?sid=100",
-            "created_at": "2026-01-12T17:48:08.635000",
-            "description": "말씀하시는데, 국회의원은 세 번 했고 다섯 번 공천했습니다. ◎김용준: 공천은 더 받았죠. ▼오신환: 그런... 현역 의원이 6명뿐이 없어요. 60명 중에 6명뿐이 없습니다. 그중에 이제 도당위원장인 김선교 의원하고 그다음에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8453795&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-08T15:59:00",
-            "related_members": [
-                "JNL7001A",
-                "TZP9391O",
-                "V2R7430Z",
-                "LJK4960Z"
-            ],
-            "title": "[사사건건] 민주당은 하락하는데 이 대통령은 오른다, 왜?"
-        },
-        {
-            "_id": "6964b544631fd17434996049",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102984?sid=102",
-            "created_at": "2026-01-12T17:48:02.031000",
-            "description": "정동만·김원이·이언주 의원, 과학기술정보방송통신위원회 최민희 위원장과 최형두·김현 의원... 국회의원 방문단은 통합강원관 투어를 통해 디지털 헬스케어, 첨단 세라믹·신소재, ICT 등 강원의 핵심 전략산업... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453215?utm_source=naver&utm_medium=article&utm_campaign=20260108102611",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-08T10:27:00",
-            "related_members": [
-                "EH27538E",
-                "3C23171A",
-                "LG63087O",
-                "UHB5553T",
-                "W4X85128",
-                "JG77046J",
-                "DAY6557K",
-                "A0P4646G",
-                "YS38221N",
-                "4L695580",
-                "7YL9580G",
-                "04T3751T",
-                "FJK3396E",
-                "TZP9391O"
-            ],
-            "title": "국회 방문단, CES 2026 통합강원관 방문…강원 혁신 기술 '주목'"
-        },
-        {
-            "_id": "6964b555631fd17434996197",
-            "link": "https://n.news.naver.com/mnews/article/020/0003687791?sid=101",
-            "created_at": "2026-01-12T17:48:18.699000",
-            "description": "#바쁜 의원들, 5분 요약 요청 CES 개막 첫날 오전부터 한국 국회의원들의 발길도 이어졌다. 최민희 국회 과학기술정보방송통신위원장을 비롯해 김현 의원(과방위), 이철규 의원(산업통상자원중소벤처기업위원장)... ",
-            "originallink": "https://www.donga.com/news/Economy/article/all/20260108/133115078/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-08T09:01:00",
-            "related_members": [
-                "CCU1009B",
-                "NUB4941Z",
-                "O7R5461J",
-                "YS38221N",
-                "JG77046J",
-                "DAY6557K",
-                "TZP9391O",
-                "04T3751T",
-                "4L695580",
-                "7YL9580G"
-            ],
-            "title": "[CES 이모저모]텅 빈 ‘한국관’에 정부 관계자만"
-        },
-        {
-            "_id": "6964b54e631fd17434996105",
-            "link": "https://n.news.naver.com/mnews/article/052/0002297734?sid=100",
-            "created_at": "2026-01-12T17:48:11.194000",
-            "description": "일방적 주장 - 국힘, 이철규-김정재 통화 녹취 사례... 스스로 되돌아보시라 - 이혜훈, 15년 전 과거보단 국가... 부분들은 국회의원 시기에, 그렇지 않은 것은 국회의원이 되기 이전의 문제로 보고. 실제로 그런 상황을 알고... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601080846359530",
-            "press": "YTN",
-            "pubDate": "2026-01-08T08:46:00",
-            "related_members": [
-                "8Q88373R",
-                "5765663F",
-                "E1J8836Y",
-                "TZP9391O",
-                "4U29186R"
-            ],
-            "title": "김영진 \"김병기 탄원서? 내가 볼 땐 일방적 주장 '투서,' 공천때 음해 많..."
-        },
-        {
-            "_id": "6964b544631fd1743499604a",
-            "link": "https://n.news.naver.com/mnews/article/052/0002297791?sid=100",
-            "created_at": "2026-01-12T17:48:02.031000",
-            "description": "왜냐하면 지난 2024년에 김정재 의원, 포항 국회의원이시죠. 그분하고 이철규 당시 인재영입위원장, 국민의힘의. 공관위원이기도 했어요. 그때도 녹취가 나왔어요. 그런데 윤석열 정권 치하에서의 경찰이든 검찰이든 이걸... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601080813486872",
-            "press": "YTN",
-            "pubDate": "2026-01-08T08:13:00",
-            "related_members": [
-                "TZP9391O",
-                "KFM1081G",
-                "LG63087O",
-                "86R9476S",
-                "E1J8836Y",
-                "M0A1658U"
-            ],
-            "title": "[뉴스UP] 장동혁, 비상계엄 대국민사과...당 쇄신안 발표, 효과는?"
-        },
-        {
-            "_id": "6964b54e631fd17434996106",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106773&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-12T17:48:11.194000",
-            "description": "일방적 주장 - 국힘, 이철규-김정재 통화 녹취 사례... 스스로 되돌아보시라 - 이혜훈, 15년 전 과거보단 국가... 부분들은 국회의원 시기에, 그렇지 않은 것은 국회의원이 되기 이전의 문제로 보고. 실제로 그런 상황을 알고... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106773&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-08T08:00:00",
-            "related_members": [
-                "KFM1081G",
-                "8Q88373R",
-                "5765663F",
-                "TZP9391O",
-                "E1J8836Y",
-                "4U29186R"
-            ],
-            "title": "김영진 \"장동혁 쇄신안? 日 과거사 '통석의 염' 같은 표현..김병기? 정치..."
-        },
-        {
-            "_id": "6964b54e631fd17434996107",
-            "link": "https://n.news.naver.com/mnews/article/052/0002297732?sid=100",
-            "created_at": "2026-01-12T17:48:11.194000",
-            "description": "일방적 주장 - 국힘, 이철규-김정재 통화 녹취 사례... 스스로 되돌아보시라 - 이혜훈, 15년 전 과거보단 국가... 부분들은 국회의원 시기에, 그렇지 않은 것은 국회의원이 되기 이전의 문제로 보고. 실제로 그런 상황을 알고... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601080744479152",
-            "press": "YTN",
-            "pubDate": "2026-01-08T07:44:00",
-            "related_members": [
-                "KFM1081G",
-                "8Q88373R",
-                "5765663F",
-                "TZP9391O",
-                "E1J8836Y",
-                "4U29186R"
-            ],
-            "title": "김영진 \"장동혁 쇄신안? 日 과거사 '통석의 염' 같은 표현..김병기? 정치..."
-        },
-        {
-            "_id": "6964b57e631fd174349963f3",
-            "link": "https://n.news.naver.com/mnews/article/056/0012100421?sid=101",
-            "created_at": "2026-01-12T17:48:59.663000",
-            "description": "정선 임계·사북시장 활성화 지원 대상 선정 이철규 국회의원은 올해 중소벤처기업부의 '전통시장·상점가 활성화 지원' 대상에 정선 임계·사북 시장이 선정됐다고 밝혔습니다. 이에 따라 두 시장에는 2년 동안 국비 등... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452918&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-07T19:37:00",
-            "related_members": [
-                "TZP9391O"
-            ],
-            "title": "[여기는 강릉] 강릉, 노인 일자리 521명 확대…올해 7,970여 명 외"
-        },
-        {
-            "_id": "6964b555631fd17434996198",
-            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
-            "created_at": "2026-01-12T17:48:18.699000",
-            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 더불어민주당 의원(과방위), 산업통상자원중소벤처기업위원회 위원장 이철규 국민의힘 의원, 정동만... ",
-            "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
-            "press": "조선일보",
-            "pubDate": "2026-01-07T14:52:00",
-            "related_members": [
-                "NUB4941Z",
-                "O7R5461J",
-                "TZP9391O",
-                "DAY6557K",
-                "7YL9580G",
-                "YS38221N",
-                "04T3751T",
-                "4L695580",
-                "JG77046J",
-                "CCU1009B"
-            ],
-            "title": "韓 전시관 찾은 정·관계 인사들, AI 열공 [CES 2026]"
         }
     ],
     "recent_videos": [
@@ -881,5 +858,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:36.565808"
+    "exported_at": "2026-01-21T10:09:33.403198"
 }

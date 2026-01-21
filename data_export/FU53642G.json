@@ -56,12 +56,12 @@
             "위원장",
             "거부",
             "희망",
+            "인사",
             "김진태",
             "대표",
             "홍천",
-            "선거",
-            "이광재",
-            "출마"
+            "소속",
+            "선거"
         ],
         "keyword_frequency": [
             {
@@ -101,6 +101,10 @@
                 "value": 6
             },
             {
+                "text": "인사",
+                "value": 5
+            },
+            {
                 "text": "김진태",
                 "value": 5
             },
@@ -113,32 +117,28 @@
                 "value": 5
             },
             {
+                "text": "소속",
+                "value": 4
+            },
+            {
                 "text": "선거",
-                "value": 4
-            },
-            {
-                "text": "이광재",
-                "value": 4
-            },
-            {
-                "text": "출마",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:47.511100",
+        "last_analyzed_at": "2026-01-21T10:09:44.385729",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 1,
@@ -148,6 +148,37 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "69701234297082fcc2b34c4f",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
+            "created_at": "2026-01-21T08:39:30.701000",
+            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 김태년·이인영·홍종학·백혜련·진선미·이수진·박상혁·김원이·허영·남인순 의원 등이 자리했다. 또한... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-19T09:01:00",
+            "related_members": [
+                "URV1689Q",
+                "3ZR4438W",
+                "ATB59635",
+                "5765663F",
+                "88O1334C",
+                "GF286398",
+                "1WE5693J",
+                "BCQ55105",
+                "WTR5885Y",
+                "4L695580",
+                "FU53642G",
+                "HSS7466Y",
+                "68P7228G",
+                "HXT76735",
+                "04T3751T",
+                "0R68099X",
+                "YN160848",
+                "XBT9550Q",
+                "UQ282145"
+            ],
+            "title": "유은혜 출판기념회 개최…정계·교육계 인사 다수 참석"
+        },
         {
             "_id": "6969b95e297082fcc2b1945d",
             "link": "https://n.news.naver.com/mnews/article/079/0004105800?sid=102",
@@ -273,7 +304,7 @@
             "url": "https://www.youtube.com/watch?v=qDVJ5zp4P1g",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:19.014000",
+            "collected_at": "2026-01-21T08:52:28.498000",
             "duration": 63.0,
             "title": "허영 의원 “왜 윤석열·김건희 구치소만?”… 인권위 조사 논란 추궁",
             "upload_date": null
@@ -323,7 +354,7 @@
             "url": "https://www.youtube.com/watch?v=fkbt_coHna0",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:18.001000",
+            "collected_at": "2026-01-21T08:52:27.751000",
             "duration": 332.0,
             "title": "[초심박제] 민주당 허영 \"김진태 같은 막말 정치 안할 것\" / KBS뉴스(News)",
             "upload_date": null
@@ -353,7 +384,7 @@
             "url": "https://www.youtube.com/watch?v=ekrSOvSOWFc",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:19.014000",
+            "collected_at": "2026-01-21T08:52:28.498000",
             "duration": 181.0,
             "title": "[G1 NEWS 기획보도] 허영 국회의원 22년도 성과 및 23년 의정활동 계획",
             "upload_date": null
@@ -363,7 +394,7 @@
             "url": "https://www.youtube.com/watch?v=UCLuIeT3nUt-Dza7UGEwKK_A",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:18.001000",
+            "collected_at": "2026-01-21T08:52:27.751000",
             "duration": null,
             "title": "춘천허영TV",
             "upload_date": null
@@ -373,7 +404,7 @@
             "url": "https://www.youtube.com/watch?v=UNpPO7638Ak",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:19.014000",
+            "collected_at": "2026-01-21T08:52:28.498000",
             "duration": 79.0,
             "title": "허영 폭로! 김건희, 관저 오찬에 ‘외부 셰프’ 불러 현금 결제?",
             "upload_date": null
@@ -393,7 +424,7 @@
             "url": "https://www.youtube.com/watch?v=FtLmDw8TrYM",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:18.001000",
+            "collected_at": "2026-01-21T08:52:27.751000",
             "duration": 534.0,
             "title": "국회방송, 300인의 희망인터뷰 - 국회의원 허영",
             "upload_date": null
@@ -413,7 +444,7 @@
             "url": "https://www.youtube.com/watch?v=A9S_lrg51WE",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:18.001000",
+            "collected_at": "2026-01-21T08:52:27.751000",
             "duration": 403.0,
             "title": "[자막] 허영 직격! \"전한길, 미국 체포 협의해야\"",
             "upload_date": null
@@ -423,7 +454,7 @@
             "url": "https://www.youtube.com/watch?v=7YeFkIeBAC8",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:18.001000",
+            "collected_at": "2026-01-21T08:52:27.751000",
             "duration": 1107.0,
             "title": "회견 중 연단 내려가 허리 숙인 채...오열한 허영 의원...무슨 일?",
             "upload_date": null
@@ -433,11 +464,11 @@
             "url": "https://www.youtube.com/watch?v=LT4m8GHkLvQ",
             "HG_NM": "허영",
             "MONA_CD": "FU53642G",
-            "collected_at": "2026-01-18T13:22:18.001000",
+            "collected_at": "2026-01-21T08:52:27.751000",
             "duration": 342.0,
             "title": "\"막말 노노, 희망 예스!\"…보수 텃밭에서 희망 싹 틔운 허영의 초심  I 21대 국회의원 초심 박제프로젝트 #21 I 정치합니다",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:47.511175"
+    "exported_at": "2026-01-21T10:09:44.385729"
 }

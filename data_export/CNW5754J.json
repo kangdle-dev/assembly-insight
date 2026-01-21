@@ -55,18 +55,18 @@
             "사과",
             "국민",
             "계엄",
+            "모임",
             "대안",
             "미래",
-            "모임",
-            "별세",
-            "소속",
             "이성권",
-            "특전사",
-            "초·재선",
             "권영진",
             "박정하",
-            "빙모",
-            "유용원"
+            "소속",
+            "별세",
+            "소장파",
+            "이날",
+            "특전사",
+            "초·재선"
         ],
         "keyword_frequency": [
             {
@@ -75,22 +75,38 @@
             },
             {
                 "text": "국민",
-                "value": 26
+                "value": 31
             },
             {
                 "text": "계엄",
                 "value": 26
             },
             {
+                "text": "모임",
+                "value": 25
+            },
+            {
                 "text": "대안",
-                "value": 17
+                "value": 22
             },
             {
                 "text": "미래",
+                "value": 22
+            },
+            {
+                "text": "이성권",
                 "value": 17
             },
             {
-                "text": "모임",
+                "text": "권영진",
+                "value": 15
+            },
+            {
+                "text": "박정하",
+                "value": 14
+            },
+            {
+                "text": "소속",
                 "value": 14
             },
             {
@@ -98,11 +114,11 @@
                 "value": 14
             },
             {
-                "text": "소속",
-                "value": 13
+                "text": "소장파",
+                "value": 12
             },
             {
-                "text": "이성권",
+                "text": "이날",
                 "value": 12
             },
             {
@@ -112,47 +128,149 @@
             {
                 "text": "초·재선",
                 "value": 11
-            },
-            {
-                "text": "권영진",
-                "value": 11
-            },
-            {
-                "text": "박정하",
-                "value": 11
-            },
-            {
-                "text": "빙모",
-                "value": 10
-            },
-            {
-                "text": "유용원",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:26.582473",
+        "last_analyzed_at": "2026-01-21T10:09:23.695204",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
                 0,
-                3,
                 0,
                 0,
                 0,
+                5,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122e297082fcc2b34c1c",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474509?sid=102",
+            "created_at": "2026-01-21T08:39:24.690000",
+            "description": "[이만희/신천지 총회장 (2020년 12월 26일) : 국회의원들도 만나고 청와대에 있는 사람들도 만나고 판사도... 원희룡 전 국토교통부 장관, 윤핵관 권성동 국민의힘 의원, 송석준 조정훈 국민의힘 의원 모습이 보이고요.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281025?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-20T20:54:00",
+            "related_members": [
+                "GDG1847Z",
+                "CNW5754J",
+                "WJL30106",
+                "OSV9142K",
+                "X7I4680R"
+            ],
+            "title": "[단독] 격분한 '이만희 육성 녹취' 입수…위장조직 '근우회' 정체는? / 풀..."
+        },
+        {
+            "_id": "6970122c297082fcc2b34c0f",
+            "link": "https://n.news.naver.com/mnews/article/021/0002765208?sid=100",
+            "created_at": "2026-01-21T08:39:23.222000",
+            "description": "대안과 미래 간사인 이성권 의원은 이날 오전 국회 의원회관에서 조찬 모임을 한 뒤 기자들과 만나 “지금... 조찬 모임에는 안철수(4선), 김성원·송석준(이상 3선), 권영진·박정하·서범수·엄태영·이성권·최형두(이상... ",
+            "originallink": "https://www.munhwa.com/article/11562384?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-20T20:54:00",
+            "related_members": [
+                "KBK8836C",
+                "PYA8594I",
+                "KFM1081G",
+                "HS39431V",
+                "8XE7026P",
+                "WXJ8352N",
+                "TQP7167T",
+                "4019850M",
+                "A0P4646G",
+                "LYY5513O",
+                "L7J93733",
+                "6RD62559",
+                "CNW5754J",
+                "YOG1280B",
+                "8348421R",
+                "9D939735"
+            ],
+            "title": "국힘 소장파 모임 “장동혁 단식 지지…통합 저해 언행 중단돼야”"
+        },
+        {
+            "_id": "6970122c297082fcc2b34c11",
+            "link": "https://n.news.naver.com/mnews/article/448/0000584822?sid=100",
+            "created_at": "2026-01-21T08:39:23.222000",
+            "description": "‘대안과 미래’ 는 20일 국회 의원회관에서 조찬모임 후 결의문을 통해 “이재명 정권과 더불어민주당의... 조찬 모임에는 안철수(4선) 의원을 비롯해 김성원·송석준(3선), 권영진·박정하·서범수·엄태영·이성권·최형두... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/20/2026012090095.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T11:13:00",
+            "related_members": [
+                "4019850M",
+                "A0P4646G",
+                "KFM1081G",
+                "HS39431V",
+                "WXJ8352N",
+                "8XE7026P",
+                "LYY5513O",
+                "L7J93733",
+                "6RD62559",
+                "CNW5754J",
+                "8348421R",
+                "9D939735",
+                "YOG1280B",
+                "KBK8836C",
+                "PYA8594I",
+                "TQP7167T"
+            ],
+            "title": "국민의힘 소장파 \"장동혁 단식 지지…당 통합 저해 언행 중단돼야\""
+        },
+        {
+            "_id": "6970122c297082fcc2b34c12",
+            "link": "https://n.news.naver.com/mnews/article/023/0003954071?sid=100",
+            "created_at": "2026-01-21T08:39:23.222000",
+            "description": "대안과 미래 간사를 맡고 있는 이성권 의원은 이날 오전 국회 의원회관에서 조찬 모임을 한 뒤 기자들과 만나... 이날 조찬 모임에는 안철수(4선), 김성원·송석준(이상 3선), 권영진·박정하·서범수·엄태영·이성권·최형두... ",
+            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/20/FRHNZ5CMQ5EI3AJP4ZNWAE27ZM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T11:07:00",
+            "related_members": [
+                "KBK8836C",
+                "PYA8594I",
+                "HS39431V",
+                "8XE7026P",
+                "WXJ8352N",
+                "TQP7167T",
+                "4019850M",
+                "A0P4646G",
+                "LYY5513O",
+                "L7J93733",
+                "6RD62559",
+                "CNW5754J",
+                "YOG1280B",
+                "8348421R",
+                "9D939735"
+            ],
+            "title": "국힘 소장파 모임 “張 단식 지지… 지금 필요한 건 당 통합”"
+        },
+        {
+            "_id": "6970122f297082fcc2b34c24",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723158?sid=100",
+            "created_at": "2026-01-21T08:39:25.382000",
+            "description": "이성권 국민의힘 의원은 이날 오전 국회의원회관에서 열린 정기모임 후 기자들과 만나 \"이재명 정권과... 이 의원을 비롯한 송석준, 서범수, 최형두, 권영진 의원 등 대안과 미래 소속 의원들은 이날 오전 10시 장 대표의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6044339",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T09:19:00",
+            "related_members": [
+                "CNW5754J",
+                "A0P4646G",
+                "KFM1081G",
+                "LYY5513O",
+                "L7J93733",
+                "WXJ8352N"
+            ],
+            "title": "국힘 소장파 \"장동혁 단식 적극 지지…당 통합 저해 언행 안돼\""
+        },
         {
             "_id": "6968ad85297082fcc2b18cc9",
             "link": "https://n.news.naver.com/mnews/article/055/0001324240?sid=100",
@@ -229,7 +347,7 @@
             "_id": "6968ad85297082fcc2b18ccb",
             "link": "https://n.news.naver.com/mnews/article/421/0008713669?sid=100",
             "created_at": "2026-01-15T18:04:02.464000",
-            "description": "이성권 의원은 \"추가적인 조치를 할 수 있는 물리적 권한이 없다. 당 대표 판단에 대해 당원들이, 국민이... 전체 국회의원 의견을 수렴하는 시간을 꼭 가지기를 부탁한다\"고 했다. 서범수 의원은 \"지금 우리는 고양이... ",
+            "description": "수도권 3선인 송석준 의원 등 대안과 미래 회원들은 이날 오전 국회 소통관에서 장동혁 대표에게 윤리위 징계 조치를 재고해야 한다는 취지의 기자회견을 한 뒤 기자들과 만나 이같이 밝혔다. 송 의원은 당 지도부에 공식... ",
             "originallink": "https://www.news1.kr/politics/assembly/6038738",
             "press": "뉴스1",
             "pubDate": "2026-01-14T12:51:00",
@@ -246,7 +364,7 @@
             "_id": "6964b541631fd17434995ff5",
             "link": "https://n.news.naver.com/mnews/article/053/0000054851?sid=100",
             "created_at": "2026-01-12T17:47:59.155000",
-            "description": "의안과에 '김병기·강선우 국회의원의 공천 뇌물 수수 의혹 사건 진상규명을 위한 특검법'을 제출했다. 발의 명단에는 나경원·조배숙·김재섭·주진우·최수진·송석준·신동욱 의원도 이름을 올렸다. 곽 대변인은 \"강... ",
+            "description": "곽규택 국민의힘 원내수석대변인과 강선영, 박충권 원내부대표는 7일 국회 의안과에 '김병기·강선우 국회의원의 공천 뇌물 수수 의혹 사건 진상규명을 위한 특검법'을 제출했다. 발의 명단에는 나경원·조배숙·김재섭... ",
             "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47568",
             "press": "조선일보",
             "pubDate": "2026-01-07T21:10:00",
@@ -554,7 +672,7 @@
             "url": "https://www.youtube.com/watch?v=ETQp2743oFI",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:41.904000",
+            "collected_at": "2026-01-21T08:46:45.063000",
             "duration": 108.0,
             "title": "필리버스터 하던 송석준 단상에서 큰절했다 [현장영상] / 채널A",
             "upload_date": null
@@ -570,11 +688,21 @@
             "upload_date": null
         },
         {
+            "_id": "6960acf1631fd1743497d879",
+            "url": "https://www.youtube.com/watch?v=s1sxURpETSg",
+            "HG_NM": "송석준",
+            "MONA_CD": "CNW5754J",
+            "collected_at": "2026-01-21T08:46:45.063000",
+            "duration": 764.0,
+            "title": "[현장] 장동혁은 떠들고 송석준은 잔다…국힘 '또 필버' 현장 보니 '세상에나'",
+            "upload_date": null
+        },
+        {
             "_id": "6960acf1631fd1743497d87a",
             "url": "https://www.youtube.com/watch?v=UC5stcMGrLFFzDwdDeTxeHuQ",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:41.904000",
+            "collected_at": "2026-01-21T08:46:45.063000",
             "duration": null,
             "title": "송석준TV",
             "upload_date": null
@@ -584,19 +712,19 @@
             "url": "https://www.youtube.com/watch?v=LGZnG1K7wJU",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:41.904000",
+            "collected_at": "2026-01-21T08:46:45.063000",
             "duration": 115.0,
             "title": "서영교 끌어들였다 ‘난 4선이야’에 고개 숙인 송석준, 법사위 폭소",
             "upload_date": null
         },
         {
-            "_id": "6960acf1631fd1743497d87d",
-            "url": "https://www.youtube.com/watch?v=l9JAJbrWyWA",
+            "_id": "6960acf1631fd1743497d87c",
+            "url": "https://www.youtube.com/watch?v=JU1bWWkstvQ",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:41.904000",
-            "duration": 202.0,
-            "title": "국힘 송석준이 뭐라고 했길래..40초 동안 웃음보 터진 추미애",
+            "collected_at": "2026-01-21T08:46:45.063000",
+            "duration": 206.0,
+            "title": "바라만 봐도 웃음 나는(?) 송석준과 추미애…시작부터 ‘빵’ 터진 이유는?",
             "upload_date": null
         },
         {
@@ -604,7 +732,7 @@
             "url": "https://www.youtube.com/watch?v=7RMHZmMpLo0",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:42.935000",
+            "collected_at": "2026-01-21T08:46:45.826000",
             "duration": 554.0,
             "title": "송석준, 필리버스터 중 돌연 ‘큰절’하며 계엄 사과 / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -624,7 +752,7 @@
             "url": "https://www.youtube.com/watch?v=PXaci1K4y58",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:42.935000",
+            "collected_at": "2026-01-21T08:46:45.826000",
             "duration": 138.0,
             "title": "[단독] 계엄 '큰절 사과' 송석준…해병 사건은 \"박정훈 제정신이냐\" / JTBC 뉴스룸",
             "upload_date": null
@@ -634,7 +762,7 @@
             "url": "https://www.youtube.com/watch?v=rYREJiYAH68",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:41.904000",
+            "collected_at": "2026-01-21T08:46:45.063000",
             "duration": 2421.0,
             "title": "추미애 위원장이 송석준 의원 칭찬하자 국감장 폭소 터졌다!  이게 무슨 일이야? 송석준 의원에게 칭찬을? \"좋은 질문해주셨네요!\" 대체 어떤 질문 했길래...",
             "upload_date": null
@@ -644,7 +772,7 @@
             "url": "https://www.youtube.com/watch?v=wlEJvaBfEtA",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-15T18:19:15.919000",
+            "collected_at": "2026-01-21T08:46:45.063000",
             "duration": 309.0,
             "title": "정청래 위원장에게 무참하게 밟힌 송석준 의원 “국회의원으로서 자질이 없는 발언은...” 오늘은 정말 말 잘 못 했다! 박상용 검사 탄핵소추사건 조사 청문회",
             "upload_date": null
@@ -654,7 +782,7 @@
             "url": "https://www.youtube.com/watch?v=XNmaFmQq2xk",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-15T18:19:15.919000",
+            "collected_at": "2026-01-21T08:46:45.063000",
             "duration": 545.0,
             "title": "\"오늘 송석준 의원 질문 진짜 잘했어요!\" 박지원 '칭찬일색' 훈훈한 법사위에 당혹스러운 송석준",
             "upload_date": null
@@ -674,19 +802,9 @@
             "url": "https://www.youtube.com/watch?v=TF8spcWGb3E",
             "HG_NM": "송석준",
             "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:42.935000",
+            "collected_at": "2026-01-21T08:46:45.826000",
             "duration": 116.0,
             "title": "필리버스터 도중 큰절 송석준 \"비상계엄 사죄드린다\" [MBN 뉴스7]",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e6e297082fcc2b19c9d",
-            "url": "https://www.youtube.com/watch?v=sTSMBwQSaC8",
-            "HG_NM": "송석준",
-            "MONA_CD": "CNW5754J",
-            "collected_at": "2026-01-18T13:15:41.904000",
-            "duration": 363.0,
-            "title": "정청래, 법안 표결 도중 국힘 의원 실종 사건에 멈칫..송석준-유상범 개그 연타, 분통과 폭소의 도가니",
             "upload_date": null
         },
         {
@@ -698,7 +816,17 @@
             "duration": 117.0,
             "title": "질의하다 팀킬(?)한 송석준 의원, 단체로 배 잡는 민주당 (24/10/21)",
             "upload_date": null
+        },
+        {
+            "_id": "697013e7297082fcc2b34e40",
+            "url": "https://www.youtube.com/watch?v=cGxnnxQcSuA",
+            "HG_NM": "송석준",
+            "MONA_CD": "CNW5754J",
+            "collected_at": "2026-01-21T08:46:45.826000",
+            "duration": 149.0,
+            "title": "송석준 애착인형 '대똥이'…'웃참 실패' 추미애 반응 #비하인드뉴스 / JTBC 뉴스룸",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:26.582600"
+    "exported_at": "2026-01-21T10:09:23.695204"
 }

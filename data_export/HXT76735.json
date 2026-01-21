@@ -53,7 +53,6 @@
             "자율",
             "주행",
             "김주영",
-            "김포시",
             "민주당",
             "미래",
             "연장",
@@ -61,16 +60,17 @@
             "예비",
             "조사",
             "선거",
+            "인사",
             "테슬라"
         ],
         "keyword_frequency": [
             {
                 "text": "박상",
-                "value": 42
+                "value": 41
             },
             {
                 "text": "김포",
-                "value": 16
+                "value": 18
             },
             {
                 "text": "더불어민주당",
@@ -86,11 +86,7 @@
             },
             {
                 "text": "김주영",
-                "value": 9
-            },
-            {
-                "text": "김포시",
-                "value": 7
+                "value": 8
             },
             {
                 "text": "민주당",
@@ -121,33 +117,68 @@
                 "value": 6
             },
             {
+                "text": "인사",
+                "value": 5
+            },
+            {
                 "text": "테슬라",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:19.848685",
+        "last_analyzed_at": "2026-01-21T10:09:16.954193",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
+                0,
+                0,
+                0,
                 1,
-                3,
-                4,
+                1,
                 0,
-                0,
-                0,
-                1
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701234297082fcc2b34c4f",
+            "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
+            "created_at": "2026-01-21T08:39:30.701000",
+            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 김태년·이인영·홍종학·백혜련·진선미·이수진·박상혁·김원이·허영·남인순 의원 등이 자리했다. 또한... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-19T09:01:00",
+            "related_members": [
+                "URV1689Q",
+                "3ZR4438W",
+                "ATB59635",
+                "5765663F",
+                "88O1334C",
+                "GF286398",
+                "1WE5693J",
+                "BCQ55105",
+                "WTR5885Y",
+                "4L695580",
+                "FU53642G",
+                "HSS7466Y",
+                "68P7228G",
+                "HXT76735",
+                "04T3751T",
+                "0R68099X",
+                "YN160848",
+                "XBT9550Q",
+                "UQ282145"
+            ],
+            "title": "유은혜 출판기념회 개최…정계·교육계 인사 다수 참석"
+        },
         {
             "_id": "696c5bf3297082fcc2b19b95",
             "link": "https://n.news.naver.com/mnews/article/011/0004579945?sid=105",
@@ -199,7 +230,7 @@
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
-            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관... ",
             "originallink": "https://www.newsis.com/view/NISX20260113_0003475751",
             "press": "뉴시스",
             "pubDate": "2026-01-14T05:00:00",
@@ -229,7 +260,7 @@
             "_id": "6966ec77887d07f7ba2fb281",
             "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
             "originallink": "https://www.news1.kr/politics/assembly/6037918",
             "press": "뉴스1",
             "pubDate": "2026-01-14T05:00:00",
@@ -318,7 +349,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
+            "description": "9일 국회의원회관 제2소회의실에서 열린 ‘제2차 경기도 도시철도망 신속 추진을 위한 국회 토론회’에는 김 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원, 도민, 시군... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -389,7 +420,7 @@
             "url": "https://www.youtube.com/watch?v=Ghan7bMF2c8",
             "HG_NM": "박상혁",
             "MONA_CD": "HXT76735",
-            "collected_at": "2026-01-18T13:13:30.064000",
+            "collected_at": "2026-01-21T08:44:49.652000",
             "duration": 1182.0,
             "title": "박상혁 \"국감 때문에 김현지 이동? 그렇게 한가하지 않아\"",
             "upload_date": null
@@ -449,7 +480,7 @@
             "url": "https://www.youtube.com/watch?v=K8RMssYTbCE",
             "HG_NM": "박상혁",
             "MONA_CD": "HXT76735",
-            "collected_at": "2026-01-18T13:13:30.064000",
+            "collected_at": "2026-01-21T08:44:49.652000",
             "duration": 1222.0,
             "title": "박상혁 \"조희대 사퇴, 마지막 기회... 안하면 탄핵\"",
             "upload_date": null
@@ -459,7 +490,7 @@
             "url": "https://www.youtube.com/watch?v=65nJd60ZwAc",
             "HG_NM": "박상혁",
             "MONA_CD": "HXT76735",
-            "collected_at": "2026-01-18T13:13:30.064000",
+            "collected_at": "2026-01-21T08:44:49.652000",
             "duration": 1254.0,
             "title": "박상혁 \"1인1표 반대? 이언주, 최근 입당해서 맥락 몰라\"",
             "upload_date": null
@@ -469,7 +500,7 @@
             "url": "https://www.youtube.com/watch?v=UC0QLdjTkTrzykt08QSbfL6A",
             "HG_NM": "박상혁",
             "MONA_CD": "HXT76735",
-            "collected_at": "2026-01-18T13:13:28.977000",
+            "collected_at": "2026-01-21T08:44:48.764000",
             "duration": null,
             "title": "박상혁TV",
             "upload_date": null
@@ -499,7 +530,7 @@
             "url": "https://www.youtube.com/watch?v=OHralt-DPac",
             "HG_NM": "박상혁",
             "MONA_CD": "HXT76735",
-            "collected_at": "2026-01-18T13:13:30.064000",
+            "collected_at": "2026-01-21T08:44:49.652000",
             "duration": 1751.0,
             "title": "[뉴스레터K] 내란재판부·특검...민주당, 정국 운영 방향은? -  박상혁 더불어민주당 의원ㅣKBS 251218 방송",
             "upload_date": null
@@ -555,5 +586,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:19.848790"
+    "exported_at": "2026-01-21T10:09:16.954193"
 }

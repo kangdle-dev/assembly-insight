@@ -53,29 +53,37 @@
     "analysis": {
         "keywords": [
             "윤한",
+            "선거",
             "장동",
+            "특검",
             "계엄",
             "윤석열",
+            "지방",
             "국민",
             "사과",
             "계약",
-            "단독",
-            "원조",
-            "업체",
-            "지시",
-            "의결",
-            "대표",
-            "이상",
-            "쿠팡"
+            "정국",
+            "경남",
+            "영향",
+            "대통령",
+            "단독"
         ],
         "keyword_frequency": [
             {
                 "text": "윤한",
-                "value": 17
+                "value": 19
+            },
+            {
+                "text": "선거",
+                "value": 15
             },
             {
                 "text": "장동",
                 "value": 13
+            },
+            {
+                "text": "특검",
+                "value": 11
             },
             {
                 "text": "계엄",
@@ -84,6 +92,10 @@
             {
                 "text": "윤석열",
                 "value": 9
+            },
+            {
+                "text": "지방",
+                "value": 8
             },
             {
                 "text": "국민",
@@ -98,61 +110,114 @@
                 "value": 7
             },
             {
+                "text": "정국",
+                "value": 6
+            },
+            {
+                "text": "경남",
+                "value": 6
+            },
+            {
+                "text": "영향",
+                "value": 6
+            },
+            {
+                "text": "대통령",
+                "value": 6
+            },
+            {
                 "text": "단독",
                 "value": 6
-            },
-            {
-                "text": "원조",
-                "value": 6
-            },
-            {
-                "text": "업체",
-                "value": 6
-            },
-            {
-                "text": "지시",
-                "value": 6
-            },
-            {
-                "text": "의결",
-                "value": 5
-            },
-            {
-                "text": "대표",
-                "value": 5
-            },
-            {
-                "text": "이상",
-                "value": 5
-            },
-            {
-                "text": "쿠팡",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:31.706742",
+        "last_analyzed_at": "2026-01-21T10:09:28.672237",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 1,
                 0,
                 0,
+                0,
+                3,
                 1,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122b297082fcc2b34bf9",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108331?sid=100",
+            "created_at": "2026-01-21T08:39:21.772000",
+            "description": "전 국회의원에 대한 공천에 개입한 사실은 밝혔지만 기소하지는 못했습니다. [오정희/특별검사보 : \"대통령... [허성무/더불어민주당 경남도당 위원장 : \"2차 특검을 통해서 명확하게 진실이 규명되고 나면은 제2 국가산단도... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463425&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T07:39:00",
+            "related_members": [
+                "GX22581L",
+                "8X15119P",
+                "HHB5652A"
+            ],
+            "title": "6·3 지방선거까지 ‘특검 정국’…경남 선거판 영향은?"
+        },
+        {
+            "_id": "6970122b297082fcc2b34bfa",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108088?sid=100",
+            "created_at": "2026-01-21T08:39:21.772000",
+            "description": "전 국회의원에 대한 공천에 개입한 사실은 밝혔지만 기소하지는 못했습니다. [오정희/특별검사보 : \"대통령... [허성무/더불어민주당 경남도당 위원장 : \"2차 특검을 통해서 명확하게 진실이 규명되고 나면은 제2 국가산단도... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463174&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-19T21:46:00",
+            "related_members": [
+                "GX22581L",
+                "8X15119P",
+                "HHB5652A"
+            ],
+            "title": "6·3 지방선거까지 ‘특검 정국’…경남 선거판 영향은?"
+        },
+        {
+            "_id": "6970122b297082fcc2b34bfb",
+            "link": "https://n.news.naver.com/mnews/article/056/0012107922?sid=100",
+            "created_at": "2026-01-21T08:39:21.772000",
+            "description": "전 국회의원에 대한 공천에 개입한 사실은 밝혔지만 기소하지는 못했습니다. [오정희/특별검사보 : \"대통령... [허성무/더불어민주당 경남도당 위원장 : \"2차 특검을 통해서 명확하게 진실이 규명되고 나면은 제2 국가산단도... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462929&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-19T19:21:00",
+            "related_members": [
+                "GX22581L",
+                "8X15119P",
+                "HHB5652A"
+            ],
+            "title": "6·3 지방선거까지 ‘특검 정국’…경남 선거판 영향은?"
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106502?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "저도 과거에 세월호 진상 규명을 위해서 국회의원 시절에 노상 단식을 청와대 앞에서 했던 적이 있는데 열흘... 김정재, 이철규의 공천헌금 녹취 이 부분도 방어해 주기 위해서 단식하는 거야? 이렇게 될 수 있는 거거든요.... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458247?utm_source=naver&utm_medium=article&utm_campaign=20260119013631",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T11:29:00",
+            "related_members": [
+                "DMP1439I",
+                "KFM1081G",
+                "E1J8836Y",
+                "TZP9391O",
+                "4X525582",
+                "LYY5513O",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "[정치맛집]김근식 \"장동혁 단식, 내부용 아닌 당내 갈등 해결의 모멘텀..."
+        },
         {
             "_id": "6968ad84297082fcc2b18cb6",
             "link": "https://n.news.naver.com/mnews/article/052/0002301289?sid=100",
@@ -355,7 +420,7 @@
             "url": "https://www.youtube.com/watch?v=spHNeCj9JFg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:22.966000",
+            "collected_at": "2026-01-21T08:48:12.155000",
             "duration": 466.0,
             "title": "[현장영상] 윤한홍 뜻밖의 발언에 '당황'…옆 의원 표정이 점점 굳더니 / JTBC News",
             "upload_date": null
@@ -365,7 +430,7 @@
             "url": "https://www.youtube.com/watch?v=6rHkLAeAoF0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:22.966000",
+            "collected_at": "2026-01-21T08:48:12.155000",
             "duration": 1059.0,
             "title": "윤한홍, '의대 정원 사과' 건의 하자 \"윤, 격노하며 욕해\"  / JTBC 이가혁 라이브",
             "upload_date": null
@@ -375,7 +440,7 @@
             "url": "https://www.youtube.com/watch?v=PQ3XQVIq5XA",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:22.966000",
+            "collected_at": "2026-01-21T08:48:12.911000",
             "duration": 529.0,
             "title": "'원조 친윤' 윤한홍 장동혁 면전서 “똥 묻은 개” [현장영상] / 채널A",
             "upload_date": null
@@ -385,7 +450,7 @@
             "url": "https://www.youtube.com/watch?v=6n3pzkmKlI0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:22.966000",
+            "collected_at": "2026-01-21T08:48:12.155000",
             "duration": 122.0,
             "title": "\"이런 얘기 더 이상 안 된다\"…윤한홍, 장동혁 면전서 \"계엄 사과·윤 절연하라\"｜지금 이 장면",
             "upload_date": null
@@ -395,7 +460,7 @@
             "url": "https://www.youtube.com/watch?v=Aesp0XenRuY",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:23.918000",
+            "collected_at": "2026-01-21T08:48:12.911000",
             "duration": 2039.0,
             "title": "\"똥 묻은 개가…\" 장동혁 면전서 면박 준 '원조 친윤' 윤한홍 [뉴스와이드]",
             "upload_date": null
@@ -405,7 +470,7 @@
             "url": "https://www.youtube.com/watch?v=8UWMoTP2rVg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:23.918000",
+            "collected_at": "2026-01-21T08:48:12.911000",
             "duration": 460.0,
             "title": "[지금뉴스] 원조 ‘친윤’ 윤한홍 “윤석열과 절연이 이재명에 복수하는 것” / KBS 2025.12.05.",
             "upload_date": null
@@ -415,7 +480,7 @@
             "url": "https://www.youtube.com/watch?v=UCwAQlslOvR_fCKJ8qYdee6w",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:22.966000",
+            "collected_at": "2026-01-21T08:48:12.155000",
             "duration": null,
             "title": "윤한홍희망TV",
             "upload_date": null
@@ -425,7 +490,7 @@
             "url": "https://www.youtube.com/watch?v=N7d95wGGv_c",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:23.918000",
+            "collected_at": "2026-01-21T08:48:12.911000",
             "duration": 119.0,
             "title": "윤한홍 \"윤석열에게 사과하고 의대 정원 수정하라 했더니 전화기 못 들 정도로 화내면서 욕하더라\"｜지금 이 뉴스",
             "upload_date": null
@@ -445,7 +510,7 @@
             "url": "https://www.youtube.com/watch?v=vGHYN3pKR0I",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:23.918000",
+            "collected_at": "2026-01-21T08:48:12.911000",
             "duration": 747.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -461,5 +526,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:31.706819"
+    "exported_at": "2026-01-21T10:09:28.672237"
 }

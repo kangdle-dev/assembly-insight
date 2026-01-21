@@ -63,12 +63,12 @@
             "대표",
             "지역",
             "지구",
-            "이학",
             "더불어민주당",
             "일정",
             "회견",
+            "이학",
             "선거",
-            "촉구",
+            "장관",
             "민주당",
             "법안",
             "경기도"
@@ -76,15 +76,15 @@
         "keyword_frequency": [
             {
                 "text": "부의장",
-                "value": 27
+                "value": 28
             },
             {
                 "text": "버스",
-                "value": 19
+                "value": 20
             },
             {
                 "text": "의장",
-                "value": 16
+                "value": 17
             },
             {
                 "text": "대표",
@@ -96,10 +96,6 @@
             },
             {
                 "text": "지구",
-                "value": 10
-            },
-            {
-                "text": "이학",
                 "value": 10
             },
             {
@@ -115,12 +111,16 @@
                 "value": 9
             },
             {
+                "text": "이학",
+                "value": 9
+            },
+            {
                 "text": "선거",
                 "value": 8
             },
             {
-                "text": "촉구",
-                "value": 8
+                "text": "장관",
+                "value": 7
             },
             {
                 "text": "민주당",
@@ -135,21 +135,21 @@
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:36.869160",
+        "last_analyzed_at": "2026-01-21T10:09:33.707297",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                3,
-                6,
-                4,
+                0,
+                0,
+                1,
                 0,
                 0,
                 1,
@@ -158,6 +158,23 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122a297082fcc2b34bee",
+            "link": "https://n.news.naver.com/mnews/article/016/0002588171?sid=102",
+            "created_at": "2026-01-21T08:39:21.164000",
+            "description": "20일 오후 2시~4시 국회도서관에서는 우원식 국회의장, 이학영 국회부의장, 강득구 의원, 박홍근 의원, 서영교 의원 등 10명의 국회의원들과 교육부장관, 고용노동부장관, 국가교육위원장 3인의 국무위원 및 310개... ",
+            "originallink": "https://biz.heraldcorp.com/article/10658857?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-20T10:34:00",
+            "related_members": [
+                "TKJ4800F",
+                "8P37634C",
+                "XBT9550Q",
+                "S824682L",
+                "K5F2023J"
+            ],
+            "title": "꼭 무능력자가 자기 학교 자랑..국회, 학력 차별철폐 추진[함영훈의 멋..."
+        },
         {
             "_id": "696c5bef297082fcc2b19b93",
             "link": "https://n.news.naver.com/mnews/article/009/0005623151?sid=100",
@@ -289,34 +306,10 @@
             "title": "김동연 지사, 군포 산본 방문...“1기 신도시 정비, 경기도가 적극 지원..."
         },
         {
-            "_id": "696594a6887d07f7ba2fab3b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
-            "created_at": "2026-01-13T09:41:09.070000",
-            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T05:00:00",
-            "related_members": [
-                "NB64509Z",
-                "CC78321E",
-                "3UI95829",
-                "DWK26447",
-                "3TP65086",
-                "1WE5693J",
-                "6AU2417B",
-                "VRY5522V",
-                "K5F2023J",
-                "8348421R",
-                "9HE7226N",
-                "KNP22261"
-            ],
-            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
-        },
-        {
             "_id": "696594a6887d07f7ba2fab3c",
             "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
-            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 11:00 최혁진 의원, [공무원노조법 부당노동 행위 처벌 조항 신설 촉구 기자회견] 11:20 박태우 부대변인... ",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱... ",
             "originallink": "https://www.news1.kr/politics/assembly/6036526",
             "press": "뉴스1",
             "pubDate": "2026-01-13T05:00:00",
@@ -335,6 +328,30 @@
                 "KNP22261"
             ],
             "title": "[오늘의 국회일정] (13일, 화)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱 의원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
         },
         {
             "_id": "6964b541631fd17434995fe0",
@@ -605,7 +622,7 @@
             "url": "https://www.youtube.com/watch?v=Gd_tcBuTsQM",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-18T13:19:01.283000",
+            "collected_at": "2026-01-21T08:49:39.022000",
             "duration": 70.0,
             "title": "[국회 부의장 이학영] 계엄해제는 하고 죽더라도 죽어야겠다_김어준의 겸손은힘들다(25.4.23.)",
             "upload_date": null
@@ -635,7 +652,7 @@
             "url": "https://www.youtube.com/watch?v=TZtC9WKbMOY",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-18T13:19:00.211000",
+            "collected_at": "2026-01-21T08:49:38.257000",
             "duration": 12884.0,
             "title": "[팟짱] 이학영 더민주 의원 색깔있는 인터뷰",
             "upload_date": null
@@ -665,7 +682,7 @@
             "url": "https://www.youtube.com/watch?v=i7ZGyVUIZD0",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-18T13:19:00.211000",
+            "collected_at": "2026-01-21T08:49:38.257000",
             "duration": 60.0,
             "title": "이학영의원, 김건희 여사 특검 및 10.29 참사 책임자 처벌 촉구 농성토론",
             "upload_date": null
@@ -695,7 +712,7 @@
             "url": "https://www.youtube.com/watch?v=jxMnHeOB_9U",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-18T13:19:00.211000",
+            "collected_at": "2026-01-21T08:49:38.257000",
             "duration": 1358.0,
             "title": "이학영 의원 국회의원 25시 187회",
             "upload_date": null
@@ -705,7 +722,7 @@
             "url": "https://www.youtube.com/watch?v=sfA0-PSOkdo",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-13T09:50:01.965000",
+            "collected_at": "2026-01-21T08:49:39.022000",
             "duration": 75.0,
             "title": "[국회 부의장 이학영] 계속되는 SPC 안전수칙 미준수 사망사고, 무책임의 결과입니다. #SPC #사망사고 #MBC스트레이트 #이학영",
             "upload_date": null
@@ -765,7 +782,7 @@
             "url": "https://www.youtube.com/watch?v=UClztZIVGP1NmO7E8ZvKDwKg",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-18T13:19:00.211000",
+            "collected_at": "2026-01-21T08:49:38.257000",
             "duration": null,
             "title": "이학영TV",
             "upload_date": null
@@ -801,5 +818,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:36.869346"
+    "exported_at": "2026-01-21T10:09:33.707297"
 }

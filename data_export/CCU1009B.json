@@ -47,33 +47,49 @@
     },
     "analysis": {
         "keywords": [
-            "민주",
-            "시장",
             "더불어민주당",
+            "대표",
+            "소속",
+            "민주당",
+            "이병진",
+            "신영",
+            "민주",
             "베네수엘라",
             "군사",
             "작전",
-            "대표",
-            "국민",
             "이재명",
-            "민주당",
+            "이태원",
             "미래",
-            "위원장",
             "조국당",
-            "이병진",
-            "신영"
+            "당선"
         ],
         "keyword_frequency": [
             {
-                "text": "민주",
-                "value": 6
-            },
-            {
-                "text": "시장",
-                "value": 6
-            },
-            {
                 "text": "더불어민주당",
+                "value": 8
+            },
+            {
+                "text": "대표",
+                "value": 7
+            },
+            {
+                "text": "소속",
+                "value": 6
+            },
+            {
+                "text": "민주당",
+                "value": 6
+            },
+            {
+                "text": "이병진",
+                "value": 6
+            },
+            {
+                "text": "신영",
+                "value": 6
+            },
+            {
+                "text": "민주",
                 "value": 6
             },
             {
@@ -89,19 +105,11 @@
                 "value": 6
             },
             {
-                "text": "대표",
-                "value": 6
-            },
-            {
-                "text": "국민",
-                "value": 5
-            },
-            {
                 "text": "이재명",
                 "value": 5
             },
             {
-                "text": "민주당",
+                "text": "이태원",
                 "value": 4
             },
             {
@@ -109,37 +117,29 @@
                 "value": 4
             },
             {
-                "text": "위원장",
-                "value": 4
-            },
-            {
                 "text": "조국당",
                 "value": 4
             },
             {
-                "text": "이병진",
-                "value": 4
-            },
-            {
-                "text": "신영",
+                "text": "당선",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:37.142399",
+        "last_analyzed_at": "2026-01-21T10:09:33.968595",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
                 0,
-                0,
+                1,
                 0,
                 0,
                 1,
@@ -148,6 +148,19 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6970126a297082fcc2b34d49",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787437?sid=102",
+            "created_at": "2026-01-21T08:40:24.879000",
+            "description": "국회에는 피해자 인정 기한 연장 내용을 담은 이해식 더불어민주당 의원 대표발의안 등 이태원 특별법 개정안 3개가 발의돼 있다. 행정안전부 소속으로 토론회에 참석한 전병훈 10·29 이태원참사 피해구제추모지원단... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1240767.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-20T18:28:00",
+            "related_members": [
+                "CCU1009B"
+            ],
+            "title": "몰라서, 입증 어려워서…이태원 참사 생존자 대다수 “피해 신청 못 해..."
+        },
         {
             "_id": "696c5bef297082fcc2b19b93",
             "link": "https://n.news.naver.com/mnews/article/009/0005623151?sid=100",
@@ -170,7 +183,7 @@
             "_id": "6964b545631fd17434996053",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-12T17:48:02.626000",
-            "description": "그렇다면 국회 쪽으로 생각들을 많이 하시는 것 같은데요. ◆ 차규근 : 한번 지켜봐 주시죠. ◇ 김준우 : 알겠습니다. 혹시 황운하 의원도 세종시장 출마할 수 있다 이렇게 던지시는 것 같던데요. ◆ 차규근 : 그저께 출마... ",
+            "description": "◇ 김준우 : 그것은 조국혁신당에서는 정춘생 의원이 들어가는 거죠? ◆ 차규근 : 행안위 소속의 정춘생... 조금 다르긴 한데 민주당 국회의원 배지가 오늘 2개 날아갔습니다. 이병진 의원님과 신영대 의원인데요. 그러면서... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-08T20:30:00",
@@ -191,7 +204,7 @@
             "_id": "6964b545631fd17434996054",
             "link": "https://n.news.naver.com/mnews/article/052/0002298138?sid=100",
             "created_at": "2026-01-12T17:48:02.626000",
-            "description": "그렇다면 국회 쪽으로 생각들을 많이 하시는 것 같은데요. ◆ 차규근 : 한번 지켜봐 주시죠. ◇ 김준우 : 알겠습니다. 혹시 황운하 의원도 세종시장 출마할 수 있다 이렇게 던지시는 것 같던데요. ◆ 차규근 : 그저께 출마... ",
+            "description": "◇ 김준우 : 그것은 조국혁신당에서는 정춘생 의원이 들어가는 거죠? ◆ 차규근 : 행안위 소속의 정춘생... 조금 다르긴 한데 민주당 국회의원 배지가 오늘 2개 날아갔습니다. 이병진 의원님과 신영대 의원인데요. 그러면서... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601081915439463",
             "press": "YTN",
             "pubDate": "2026-01-08T19:15:00",
@@ -212,7 +225,7 @@
             "_id": "6964b555631fd17434996197",
             "link": "https://n.news.naver.com/mnews/article/020/0003687791?sid=101",
             "created_at": "2026-01-12T17:48:18.699000",
-            "description": "#바쁜 의원들, 5분 요약 요청 CES 개막 첫날 오전부터 한국 국회의원들의 발길도 이어졌다. 최민희 국회 과학기술정보방송통신위원장을 비롯해 김현 의원(과방위), 이철규 의원(산업통상자원중소벤처기업위원장)... ",
+            "description": "#바쁜 의원들, 5분 요약 요청 CES 개막 첫날 오전부터 한국 국회의원들의 발길도 이어졌다. 최민희 국회... 남인순 의원(보건복지위원회) 등이 한국 스타트업들이 모여 있는 유레카파크를 함께 참관했다. 이해식 의원... ",
             "originallink": "https://www.donga.com/news/Economy/article/all/20260108/133115078/2",
             "press": "동아일보",
             "pubDate": "2026-01-08T09:01:00",
@@ -234,7 +247,7 @@
             "_id": "6964b555631fd17434996198",
             "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
             "created_at": "2026-01-12T17:48:18.699000",
-            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 더불어민주당 의원(과방위), 산업통상자원중소벤처기업위원회 위원장 이철규 국민의힘 의원, 정동만... ",
+            "description": "물론 국회의원들의 발길이 이어졌다. 의원들은 부스 앞에 서서 간단한 소개만 듣고 지나치지 않았다. \"직접... 이어 행정안전위원회 이해식 더불어민주당 의원, 외교통일위원회 윤후덕 더불어민주당 의원, 산자위... ",
             "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092154414",
             "press": "조선일보",
             "pubDate": "2026-01-07T14:52:00",
@@ -284,7 +297,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희·한준호·황정아 의원... ",
+            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -364,7 +377,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호, 황정아... ",
+            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -466,7 +479,7 @@
             "url": "https://www.youtube.com/watch?v=UCLas1k2D1KNjWKXfETd2WjA",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-18T13:19:05.587000",
+            "collected_at": "2026-01-21T08:49:43.061000",
             "duration": null,
             "title": "이해식TV",
             "upload_date": null
@@ -476,7 +489,7 @@
             "url": "https://www.youtube.com/watch?v=BCrIb5RXcog",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-18T13:19:05.587000",
+            "collected_at": "2026-01-21T08:49:43.061000",
             "duration": 1147.0,
             "title": "[팩트TV 풀영상] 더불어민주당 이해식 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
             "upload_date": null
@@ -486,7 +499,7 @@
             "url": "https://www.youtube.com/watch?v=y1a3a8fIjvo",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-18T13:19:05.587000",
+            "collected_at": "2026-01-21T08:49:43.061000",
             "duration": 716.0,
             "title": "계엄 당일 이재명 대표와 이해식 의원이 가장 먼저 논의한 것 | 그날그곳",
             "upload_date": null
@@ -496,7 +509,7 @@
             "url": "https://www.youtube.com/watch?v=11wLNJfGyVc",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-18T13:19:06.741000",
+            "collected_at": "2026-01-21T08:49:43.716000",
             "duration": 86.0,
             "title": "\"저는 대표님을 지지하지 않았는데...\" 이해식 폭탄(?) 발언에 폭소 터진 회의",
             "upload_date": null
@@ -516,7 +529,7 @@
             "url": "https://www.youtube.com/watch?v=4l0G9j06H40",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
+            "collected_at": "2026-01-21T08:49:43.061000",
             "duration": 4435.0,
             "title": "국회의원 이해식 첫돌 온라인 의정보고회",
             "upload_date": null
@@ -526,7 +539,7 @@
             "url": "https://www.youtube.com/watch?v=LeWhAwG8bp4",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
+            "collected_at": "2026-01-21T08:49:43.061000",
             "duration": 1105.0,
             "title": "\"국민의힘 해산 가능한가?\" 이해식 의원 대정부 질문(정치 분야)",
             "upload_date": null
@@ -536,7 +549,7 @@
             "url": "https://www.youtube.com/watch?v=yIoUnUHvF1o",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-18T13:19:06.741000",
+            "collected_at": "2026-01-21T08:49:43.716000",
             "duration": 2124.0,
             "title": "[여의도펀치] 선관위 '특혜 채용' 일파만파…윤두현·이해식 한판토론 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -546,7 +559,7 @@
             "url": "https://www.youtube.com/watch?v=ePaVCq2DiPs",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-15T18:22:25.570000",
+            "collected_at": "2026-01-21T08:49:43.061000",
             "duration": 3030.0,
             "title": "오세훈 시장 답변하지 않는 이유 이해식 의원이 물었더니, 오 시장 드디어 입 열고 발언하는데 그 이유가...",
             "upload_date": null
@@ -556,7 +569,7 @@
             "url": "https://www.youtube.com/watch?v=0c_d765hIEo",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-13T09:50:06.578000",
+            "collected_at": "2026-01-21T08:49:43.716000",
             "duration": 303.0,
             "title": "[초선열전] 이해식 \"재·보궐선거 후보 자질·능력이 중요…성별 중요치 않아\" / JTBC 뉴스ON",
             "upload_date": null
@@ -600,7 +613,17 @@
             "duration": 65.0,
             "title": "탄핵선고 조기대선 일정은? 3월 12일이 기준! #이해식 #더불어민주당 #강동을 #국회의원 #탄핵 #조기대선 #재보궐선거",
             "upload_date": null
+        },
+        {
+            "_id": "69701499297082fcc2b34e9d",
+            "url": "https://www.youtube.com/watch?v=x5L3KiuoJDQ",
+            "HG_NM": "이해식",
+            "MONA_CD": "CCU1009B",
+            "collected_at": "2026-01-21T08:49:43.716000",
+            "duration": 61.0,
+            "title": "\"지지하지 않았는데...\" 이해식 솔직 고백(?)에 뒤집어진 최고위...'빵' 터져서 결국 오열까지",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:37.142493"
+    "exported_at": "2026-01-21T10:09:33.968595"
 }

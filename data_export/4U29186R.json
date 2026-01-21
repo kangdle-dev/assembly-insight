@@ -48,37 +48,41 @@
     "analysis": {
         "keywords": [
             "문진",
-            "김병기",
             "독립기념관",
+            "김병기",
             "원내",
+            "해임",
             "대표",
             "민주당",
-            "청탁",
+            "관장",
+            "김형석",
+            "감사",
             "더불어민주당",
-            "해임",
-            "공천",
-            "이사",
-            "문자",
-            "논란",
-            "이재명",
-            "의혹"
+            "이사회",
+            "청탁",
+            "결과",
+            "공천"
         ],
         "keyword_frequency": [
             {
                 "text": "문진",
-                "value": 43
-            },
-            {
-                "text": "김병기",
-                "value": 23
+                "value": 35
             },
             {
                 "text": "독립기념관",
-                "value": 20
+                "value": 25
+            },
+            {
+                "text": "김병기",
+                "value": 24
             },
             {
                 "text": "원내",
                 "value": 19
+            },
+            {
+                "text": "해임",
+                "value": 18
             },
             {
                 "text": "대표",
@@ -89,65 +93,105 @@
                 "value": 17
             },
             {
-                "text": "청탁",
-                "value": 12
+                "text": "관장",
+                "value": 16
+            },
+            {
+                "text": "김형석",
+                "value": 13
+            },
+            {
+                "text": "감사",
+                "value": 13
             },
             {
                 "text": "더불어민주당",
                 "value": 11
             },
             {
-                "text": "해임",
+                "text": "이사회",
                 "value": 11
+            },
+            {
+                "text": "청탁",
+                "value": 11
+            },
+            {
+                "text": "결과",
+                "value": 10
             },
             {
                 "text": "공천",
                 "value": 10
-            },
-            {
-                "text": "이사",
-                "value": 10
-            },
-            {
-                "text": "문자",
-                "value": 10
-            },
-            {
-                "text": "논란",
-                "value": 10
-            },
-            {
-                "text": "이재명",
-                "value": 9
-            },
-            {
-                "text": "의혹",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:18.509239",
+        "last_analyzed_at": "2026-01-21T10:09:15.637766",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                0,
-                5,
-                0,
                 3,
                 0,
+                0,
+                0,
+                3,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701239297082fcc2b34c81",
+            "link": "https://n.news.naver.com/mnews/article/005/0001827086?sid=100",
+            "created_at": "2026-01-21T08:39:35.673000",
+            "description": "더불어민주당 소속 국회의원을 포함한 이사 6명이 “김 관장이 편향된 역사 인식으로 독립운동의 가치를... 문진석 의원도 “뉴라이트로부터 독립기념관을 시민의 품으로 돌려드리는 역사적인 날”이라고 밝혔다.",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768810409&code=11121100&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-19T18:41:00",
+            "related_members": [
+                "NB64509Z",
+                "4U29186R"
+            ],
+            "title": "김형석 독립기념관장 해임 의결"
+        },
+        {
+            "_id": "69701239297082fcc2b34c82",
+            "link": "https://n.news.naver.com/mnews/article/448/0000584684?sid=100",
+            "created_at": "2026-01-21T08:39:35.673000",
+            "description": "이사회 직후 취재진과 만난 김용만·문진석·송옥주 이사(국회의원)는 “이사회에서는 김형석 관장이 관장으로 임명되는 과정 전반에 대한 문제 제기도 있었다”며 “임원추천위원회를 통한 추천 절차가 적절했는지... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/19/2026011990243.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-19T17:20:00",
+            "related_members": [
+                "NB64509Z",
+                "3249208I",
+                "4U29186R"
+            ],
+            "title": "독립기념관 이사회, 김형석 관장 해임요구안 통과…김 관장 \"감사 결과..."
+        },
+        {
+            "_id": "69701239297082fcc2b34c83",
+            "link": "https://n.news.naver.com/mnews/article/003/0013718575?sid=102",
+            "created_at": "2026-01-21T08:39:35.673000",
+            "description": "이사회 후 취재진과 만난 김용만, 문진석, 송옥주 이사(이상 국회의원)는 \"이사회에서는 김형석 관장이 최초에 관장으로 오게 된 절차에 대한 문제제기도 있었다\"며 \"당초 임원추천위원회를 통해 이 사람이 추천된 과정도... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003482247",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T16:06:00",
+            "related_members": [
+                "NB64509Z",
+                "3249208I",
+                "4U29186R"
+            ],
+            "title": "김형석 독립기념관장 해임 건의안 통과, 향후 수순은?(종합)"
+        },
         {
             "_id": "6968ad9b297082fcc2b18d47",
             "link": "https://n.news.naver.com/mnews/article/032/0003421793?sid=100",
@@ -202,7 +246,7 @@
             "_id": "6966ec7f887d07f7ba2fb2bf",
             "link": "https://n.news.naver.com/mnews/article/028/0002786251?sid=100",
             "created_at": "2026-01-14T10:08:15.941000",
-            "description": "독립기념관 이사인 김용만 더불어민주당 의원은 이날 국회에서 기자회견을 열어 김 관장 해임을 위한... 이사회 소집 요구에는 김 의원과 함께 송옥주·문진석·김일진·유세종·이상수 이사 6명이 참여했다. 전체 15명 이사... ",
+            "description": "독립기념관 이사인 김용만 더불어민주당 의원은 이날 국회에서 기자회견을 열어 김 관장 해임을 위한 독립기념관 이사회 소집을 요구했다. 독립기념관 전체 15명 이사 가운데 3분의 1 이상인 5명 이상이 소집을 요구하면... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239518.html",
             "press": "한겨레",
             "pubDate": "2026-01-13T18:36:00",
@@ -217,7 +261,7 @@
             "_id": "6966ec7f887d07f7ba2fb2c0",
             "link": "https://n.news.naver.com/mnews/article/021/0002763453?sid=100",
             "created_at": "2026-01-14T10:08:15.941000",
-            "description": "독립기념관 이사인 더불어민주당 문진석(왼쪽부터)·송옥주·김용만 의원이 17일 국회 소통관에서 이사회 감시 기능을 무력화한다며 김형석 독립기념관장을 규탄하고 있다. 연합뉴 독립기념관 이사회 정원은 15명으로... ",
+            "description": "김 관장은 김용만 의원 등이 국회 소통관에서 기자회견을 열고 독립기념관장 해임 결의를 위한 임시이사회 소집을 요구한 것과 관련 “정당한 절차에 따라 요구하는 임시이사회는 당연히 수용하겠다”고 밝혔다.",
             "originallink": "https://www.munhwa.com/article/11560611?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-01-13T16:52:00",
@@ -247,7 +291,7 @@
             "_id": "6966ec7f887d07f7ba2fb2c2",
             "link": "https://n.news.naver.com/mnews/article/079/0004104545?sid=100",
             "created_at": "2026-01-14T10:08:15.941000",
-            "description": "이런 가운데 독립기념관 이사인 김용만 더불어민주당 의원은 이날 국회에서 기자회견을 갖고 김 관장... 이사회 소집 요구에는 김 의원과 함께 송옥주, 문진석, 김일진, 유세종, 이상수 이사 등 6명이 참여했다. 보훈부에... ",
+            "description": "이런 가운데 독립기념관 이사인 김용만 더불어민주당 의원은 이날 국회에서 기자회견을 갖고 김 관장 해임을 위한 독립기념관 이사회 소집을 요구했다. 김 의원은 \"보훈부 감사 결과에 따르면 김 관장은 독립기념관의... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455434?utm_source=naver&utm_medium=article&utm_campaign=20260113024020",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T14:41:00",
@@ -262,7 +306,7 @@
             "_id": "6966ec7f887d07f7ba2fb2c3",
             "link": "https://n.news.naver.com/mnews/article/003/0013707685?sid=102",
             "created_at": "2026-01-14T10:08:15.941000",
-            "description": "문진석, 김용만 의원과 송옥주, 김일진, 유세종, 이상수 독립기념관 이사는 13일 국회에서 가진 기자회견에서 \"저희 비상임이사들은 독립기념관법과 정관에 따라 김형석 관장의 해임 건의안을 안건으로 하는 이사회 소집을... ",
+            "description": "13일 국회 문진석, 김용만 의원과 국가보훈부 등에 따르면 지난 9월부터 있었던 보훈부 감사 결과 기본재산 무상임대, 금품 수수 및 기부금품 모집 등 비위행위 14건이 적발됐고 이는 사실로 확정됐다. 보훈부는 감사 후... ",
             "originallink": "https://www.newsis.com/view/NISX20260113_0003475098",
             "press": "뉴시스",
             "pubDate": "2026-01-13T13:59:00",
@@ -399,7 +443,7 @@
             "_id": "6964b559631fd174349961dd",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106777&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-12T17:48:22.470000",
-            "description": "이춘석 법사위원장 차명 주식 거래, 최민희 딸 결혼 이해충돌, 장경태 성추행 고소 고발, 문진석 김남국 청탁... 장관하고 국회의원의 무게가 다르다라고 하더라도 일리가 있는 거죠. 예를 들면 영종도 땅 2000년에 13억 8800만... ",
+            "description": "처음에 이 문제가 제기됐을 때 최기상 의원, 그리고 뒤에는 김석담 변호사인데. 둘 다 지금 언론과의 접촉과... 장관하고 국회의원의 무게가 다르다라고 하더라도 일리가 있는 거죠. 예를 들면 영종도 땅 2000년에 13억 8800만... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106777&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-08T10:30:00",
@@ -627,7 +671,7 @@
             "url": "https://www.youtube.com/watch?v=yGKujhkN9ps",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:01.502000",
+            "collected_at": "2026-01-21T08:44:25.631000",
             "duration": 1243.0,
             "title": "[여담야담] 김현지 \"유탄맞았다\"…김남국은 사퇴, 문진석은? / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
@@ -667,7 +711,7 @@
             "url": "https://www.youtube.com/watch?v=xEp9mWN82gc",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-15T18:16:51.487000",
+            "collected_at": "2026-01-21T08:44:26.321000",
             "duration": 1528.0,
             "title": "'현지 누나' 문진석-김남국 청탁 문자에 장경태 \"2차 가해\" 논란  터지는 잡음..\"엄중\" 차단 \"무고\" 항변에도 與 '곤혹' - [핫이슈PLAY] 2025년 12월 06일",
             "upload_date": null
@@ -677,7 +721,7 @@
             "url": "https://www.youtube.com/watch?v=Eg5VAR8PeA4",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-15T18:16:51.487000",
+            "collected_at": "2026-01-21T08:44:26.321000",
             "duration": 570.0,
             "title": "‘인사청탁 논란’ 문진석 “입이 열 개라도 할 말 없어” / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -697,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=xX-U9SODBOk",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:01.502000",
+            "collected_at": "2026-01-21T08:44:26.321000",
             "duration": 373.0,
             "title": "문진석·김남국 메시지 포착…‘인사 청탁’ 논란 / 채널A / 뉴스A 라이브",
             "upload_date": null
@@ -707,7 +751,7 @@
             "url": "https://www.youtube.com/watch?v=oFVolGQbU2I",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:01.502000",
+            "collected_at": "2026-01-21T08:44:26.321000",
             "duration": 92.0,
             "title": "[오늘 이 뉴스] '철없는 답장' 김남국 사표..문자 보낸 문진석도 '잠수' (2025.12.04/MBC뉴스)",
             "upload_date": null
@@ -717,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=UCL3zKoc_h1ErJCPhhs6K6UQ",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:00.321000",
+            "collected_at": "2026-01-21T08:44:25.631000",
             "duration": null,
             "title": "문진석TV",
             "upload_date": null
@@ -727,7 +771,7 @@
             "url": "https://www.youtube.com/watch?v=s-Sa3vff8U8",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-15T18:16:50.748000",
+            "collected_at": "2026-01-21T08:44:25.631000",
             "duration": 101.0,
             "title": "문진석, 90도 허리 숙여 사과…지도부에 거취 일임 / 채널A / 뉴스A",
             "upload_date": null
@@ -747,7 +791,7 @@
             "url": "https://www.youtube.com/watch?v=s4_a4bhEnzM",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:01.502000",
+            "collected_at": "2026-01-21T08:44:26.321000",
             "duration": 106.0,
             "title": "[오늘 이 뉴스] 김병기 사퇴후 與 원내회의.. '청탁 문자' 문진석 주재 (2026.01.06/MBC뉴스)",
             "upload_date": null
@@ -777,7 +821,7 @@
             "url": "https://www.youtube.com/watch?v=DmDEiFFFdbY",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:00.321000",
+            "collected_at": "2026-01-21T08:44:25.631000",
             "duration": 244.0,
             "title": "‘인사청탁 문자’ 문진석 “입이 열개라도…부적절 처신 송구” [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -787,7 +831,7 @@
             "url": "https://www.youtube.com/watch?v=oZyibC9ee9Q",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:00.321000",
+            "collected_at": "2026-01-21T08:44:25.631000",
             "duration": 1422.0,
             "title": "[더in터뷰] 문진석 \"최민희 논란, 당도 심각하게 우려 갖고 지켜보는 중\" / JTBC 이가혁 라이브",
             "upload_date": null
@@ -797,11 +841,11 @@
             "url": "https://www.youtube.com/watch?v=ZteI8xiZudo",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-18T13:13:00.321000",
+            "collected_at": "2026-01-21T08:44:25.631000",
             "duration": 513.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 문진석 의원(더불어민주당)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:18.509374"
+    "exported_at": "2026-01-21T10:09:15.637766"
 }

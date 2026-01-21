@@ -53,36 +53,40 @@
     "analysis": {
         "keywords": [
             "통일교",
+            "장관",
             "의혹",
             "선거",
-            "장관",
-            "부산",
             "수사",
-            "대표",
-            "공천",
-            "특검",
+            "부산",
             "출마",
-            "경찰",
             "진술",
             "연대",
-            "이준석",
-            "단독"
+            "특검",
+            "단독",
+            "더불어민주당",
+            "시장",
+            "경찰",
+            "수석"
         ],
         "keyword_frequency": [
             {
                 "text": "통일교",
-                "value": 42
-            },
-            {
-                "text": "의혹",
-                "value": 27
-            },
-            {
-                "text": "선거",
-                "value": 19
+                "value": 44
             },
             {
                 "text": "장관",
+                "value": 25
+            },
+            {
+                "text": "의혹",
+                "value": 24
+            },
+            {
+                "text": "선거",
+                "value": 23
+            },
+            {
+                "text": "수사",
                 "value": 18
             },
             {
@@ -90,28 +94,8 @@
                 "value": 18
             },
             {
-                "text": "수사",
-                "value": 18
-            },
-            {
-                "text": "대표",
-                "value": 15
-            },
-            {
-                "text": "공천",
-                "value": 14
-            },
-            {
-                "text": "특검",
-                "value": 14
-            },
-            {
                 "text": "출마",
-                "value": 14
-            },
-            {
-                "text": "경찰",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "진술",
@@ -122,37 +106,216 @@
                 "value": 14
             },
             {
-                "text": "이준석",
-                "value": 14
+                "text": "특검",
+                "value": 12
             },
             {
                 "text": "단독",
                 "value": 12
+            },
+            {
+                "text": "더불어민주당",
+                "value": 10
+            },
+            {
+                "text": "시장",
+                "value": 10
+            },
+            {
+                "text": "경찰",
+                "value": 10
+            },
+            {
+                "text": "수석",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:39.207707",
+        "last_analyzed_at": "2026-01-21T10:09:35.915056",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                6,
-                2,
-                4,
                 8,
                 4,
                 0,
-                2
+                3,
+                4,
+                4,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701233297082fcc2b34c47",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325939?sid=100",
+            "created_at": "2026-01-21T08:39:30.283000",
+            "description": "■ 방송 : SBS &lt;편상욱의 뉴스브리핑&gt; 월~금 (14:00~15:00) ■ 진행 : 편상욱 앵커 ■ 대담 : 박성준 중구·성동구을 국회의원, 최은석 국민의힘 원내수석대변인 -------------------------------------------- ● 장동혁 단식 엿새째 박성준... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008411125&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-20T16:03:00",
+            "related_members": [
+                "KFM1081G",
+                "8Q88373R",
+                "UF53617M",
+                "IL74008M",
+                "9YO73104"
+            ],
+            "title": "[여담야담] 장동혁 단식 엿새째…쌍특검 관철 가능성은?"
+        },
+        {
+            "_id": "69701230297082fcc2b34c2b",
+            "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "created_at": "2026-01-21T08:39:26.798000",
+            "description": "민주노동당 국회의원/이오상 인천시의회 부의장, (국) 박종효 남동구청장/김종필 전 인천시설관리공단 이사장/고주룡 전 인천시 대변인/한민수 인천시의원, (혁) 장석현 전 남동구청장 부평구청장 (민) 차준택 부평구청장... ",
+            "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T15:30:00",
+            "related_members": [
+                "HE08888N",
+                "XSP20229",
+                "8O34202I",
+                "9LD2641Q",
+                "0R68099X",
+                "6K79158C",
+                "9YO73104",
+                "ME83002L",
+                "8JG4358H"
+            ],
+            "title": "6·3 지방선거 | 전국 227곳 기초단체장 출마 예상자 | 행정구역 개편으..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c1d",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108351?sid=100",
+            "created_at": "2026-01-21T08:39:24.690000",
+            "description": "전재수 전 장관이 통일교로부터 그런 로비를 당했다는 것을 했는데 묻어버렸단 말입니다. 그래서 그걸... 제가 국회의원을 맡고 있기 때문에 현재로서는 열심히 하고 싶은데 아직 결심은 못 했습니다. ▷ 소현정 : 네... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463571&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T09:58:00",
+            "related_members": [
+                "GDG1847Z",
+                "QQP4727N",
+                "X1K3667J",
+                "BT62420K",
+                "DMP1439I",
+                "N2P9317N",
+                "QWL7778X",
+                "EH27538E",
+                "9YO73104"
+            ],
+            "title": "[전격시사] 배준영 국민의힘 의원 - “이혜훈 청문회, 면죄부 주는 식 곤..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c1e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106808?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "지난주에 천하람 의원이 여기 금요일 나와서 내가 그거 다 알고 있다 얘기했잖아요. ◇ 박재홍&gt; 방송... 그런데 이렇게 할 거면 국회의원 세비 반납해야 됩니다. ◆ 노영희&gt; 공부를 안 한다는 얘기가 있어요. ◆ 김성열... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458685?utm_source=naver&utm_medium=article&utm_campaign=20260120073044",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-20T07:31:00",
+            "related_members": [
+                "LG63087O",
+                "Y0X4618N",
+                "FU87526G",
+                "6EN68926",
+                "YOG1280B",
+                "QWL7778X",
+                "EH27538E",
+                "9YO73104",
+                "UHB5553T",
+                "YGB8604T"
+            ],
+            "title": "김성열 \"국힘, 이혜훈 부적격 보일 기회 왜 날리나?\"[한판승부]"
+        },
+        {
+            "_id": "6970122b297082fcc2b34bf7",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690530?sid=100",
+            "created_at": "2026-01-21T08:39:21.472000",
+            "description": "한 전 대표 향후 행보에 대해 정광재 동연정치연구소장은 6월 3일 지방선거 및 국회의원 재보궐 선거에... 경기도지사 출마를 준비 중인 추미애 더불어민주당 의원이 한 방송에서 경기 시민에 대해 ‘2등 시민 의식’이라고... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260119/133185805/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-19T18:57:00",
+            "related_members": [
+                "9901388T",
+                "DMP1439I",
+                "QWL7778X",
+                "9YO73104",
+                "URV1689Q"
+            ],
+            "title": "“한동훈, 정치생명 걸고 무소속 출마해 평가받는 것 고려할만”[정치를..."
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106433?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "특정된 전재수 전 장관이 단식 투쟁을 하고 있는 야당 대표를 향해서 오히려 막말을 퍼붓는 이런 상황, 바로... ◆ 김재원&gt; 그리고 국회 기재위원장이 우리 당 소속의 국회의원이고 상임위원장이 청문회를 진행하지 않으면... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458142?utm_source=naver&utm_medium=article&utm_campaign=20260119100928",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T10:10:00",
+            "related_members": [
+                "DMP1439I",
+                "N378078V",
+                "MSY7784L",
+                "4X525582",
+                "9YO73104"
+            ],
+            "title": "김재원 \"한동훈 사과 충분치 않아… 화합 위한 추가 조치 있어야\""
+        },
+        {
+            "_id": "6970123c297082fcc2b34c8e",
+            "link": "https://n.news.naver.com/mnews/article/262/0000019092?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "공천비리, 전재수 뇌물혐의 계속 따져 물어야 ● 돈으로 로비해도 기초 실력 없으면 공천해선 안 돼 ● 지선... 지금 국민의힘 국회의원 중에 누가 부적격자이고, 어떤 기준에 따라 물갈이할 것인지 나오지 않으면 그냥... ",
+            "originallink": "https://shindonga.donga.com/3/all/13/6061372/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-19T09:02:00",
+            "related_members": [
+                "QWL7778X",
+                "DMP1439I",
+                "9YO73104"
+            ],
+            "title": "이준석 “보수진영에서 개혁신당 위치? 계엄과 탄핵으로부터 떳떳한 유..."
+        },
+        {
+            "_id": "6970122d297082fcc2b34c18",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325452?sid=100",
+            "created_at": "2026-01-21T08:39:23.823000",
+            "description": "▶곽규택 : 그러니까 지금 이른바 쌍특검, 그러니까 전재수 전 장관 등 정치인들이 통일교로부터 불법적인... 그날 목요일 같은 날 있었던 의원총회에서 많은 국회의원들이 이 문제를 급하게 처리할 것이 아니고 조금 더... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008409023&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-19T08:57:00",
+            "related_members": [
+                "KFM1081G",
+                "REG96285",
+                "8BF5855P",
+                "4X525582",
+                "OWD1018N",
+                "QWL7778X",
+                "9YO73104"
+            ],
+            "title": "[정치쇼] 곽규택 \"장동혁 단식, 당내용 아냐…한동훈 징계? 지지자들 '통..."
+        },
+        {
+            "_id": "69701262297082fcc2b34d2f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003422204?sid=100",
+            "created_at": "2026-01-21T08:40:16.330000",
+            "description": "명단엔 전재수 더불어민주당 의원(전 해양수산부 장관), 임종성 전 민주당 의원, 김규환 전 미래통합당... 여야 국회의원 11명에게 1300만원을 ‘쪼개기 후원’한 혐의(정치자금법 위반)다. 서울중앙지검 공공수사2부는... ",
+            "originallink": "https://www.khan.co.kr/article/202601181502001",
+            "press": "경향신문",
+            "pubDate": "2026-01-18T15:02:00",
+            "related_members": [
+                "OSV9142K",
+                "9YO73104"
+            ],
+            "title": "‘통일교 수사’부터 시작한 합수본, 곧 ‘신천지 수사’도 속도낼 듯"
+        },
         {
             "_id": "696c5be4297082fcc2b19b5b",
             "link": "https://n.news.naver.com/mnews/article/052/0002302282?sid=100",
@@ -179,7 +342,7 @@
             "_id": "696c5bec297082fcc2b19b89",
             "link": "https://n.news.naver.com/mnews/article/262/0000019090?sid=100",
             "created_at": "2026-01-18T13:05:00.817000",
-            "description": "김병기 전 민주당 원내대표가 각종 부패 문제로 물러난 후 한병도 원내대표가 선출됐는데, 그분은 합리적인... 당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신 위원과... ",
+            "description": "당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신... 신 의원은 5% 지지율을 기록하며 서영교(3.1%), 전현희(3.0%), 김영배(2.0%) 등 여권 중진들보다 앞선 지지율을 기록한... ",
             "originallink": "https://shindonga.donga.com/3/all/13/6061345/1",
             "press": "동아일보",
             "pubDate": "2026-01-18T09:01:00",
@@ -193,7 +356,7 @@
                 "9YO73104",
                 "URV1689Q"
             ],
-            "title": "“국민이 ‘됐다’ 할 때까지 계엄에 미안한 마음 가져야”"
+            "title": "신동욱 “국민이 ‘됐다’ 할 때까지 계엄에 미안한 마음 가져야”"
         },
         {
             "_id": "696c5c2d297082fcc2b19bd9",
@@ -226,7 +389,7 @@
             "_id": "6969b956297082fcc2b1944a",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106906&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-16T13:06:44.408000",
-            "description": "순간도 천하람 원내대표가 필리버스터 하고 있지 않습니까? 단순히 국민의힘만 주장하는 게 아니라 전반적인... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
+            "description": "그게 통일교 특검이나 전재수 전 장관 까르띠에 시계 의혹 등을 덮기 위한 물타기용 주장이 아닌가 의심되는... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106906&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-16T08:00:00",
@@ -247,7 +410,7 @@
             "_id": "6969b956297082fcc2b1944c",
             "link": "https://n.news.naver.com/mnews/article/052/0002301545?sid=100",
             "created_at": "2026-01-16T13:06:44.408000",
-            "description": "순간도 천하람 원내대표가 필리버스터 하고 있지 않습니까? 단순히 국민의힘만 주장하는 게 아니라 전반적인... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
+            "description": "그게 통일교 특검이나 전재수 전 장관 까르띠에 시계 의혹 등을 덮기 위한 물타기용 주장이 아닌가 의심되는... 국회의원들은 어떻게 생각할지 몰라도 100만 당원들이 쪼개질 겁니다. 그리고 30만 이상 폭증한 당원들의... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601160752199786",
             "press": "YTN",
             "pubDate": "2026-01-16T07:52:00",
@@ -461,7 +624,7 @@
             "_id": "696594ba887d07f7ba2fab55",
             "link": "https://n.news.naver.com/mnews/article/079/0004104305?sid=100",
             "created_at": "2026-01-13T09:41:29.113000",
-            "description": "◆ 김성열&gt; 왜냐하면 국회의원 4년 하라고 했는데 나오자마자 사실 대선을 뛰었잖아요. 그 정도만으로도 사실... ◆ 노영희&gt; 당 구성원들이 바뀌고 마인드가 달라져야지 대표가 달라지는 마음을 가져야지 이게 주호영 의원... ",
+            "description": "◆ 김성열&gt; 왜냐하면 국회의원 4년 하라고 했는데 나오자마자 사실 대선을 뛰었잖아요. 그 정도만으로도 사실... ◆ 곽우신&gt; 오늘 정희용 사무총장이 공식화했습니다. 지난 9일부터 11일까지 책임 당원들을 대상으로 ARS... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455086?utm_source=naver&utm_medium=article&utm_campaign=20260113073013",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T07:31:00",
@@ -479,7 +642,7 @@
             "_id": "6965949a887d07f7ba2fab24",
             "link": "https://n.news.naver.com/mnews/article/056/0012103116?sid=100",
             "created_at": "2026-01-13T09:40:56.511000",
-            "description": "우리 이만희 총재라는 분도 나와서 시계 차고 뭐 이렇게 수사받고 이랬던 거 다 기억나잖아요? 그때 수사에서... 바로 국회의원 보궐이나 아니면 단체장에 도전할 수 있는 사람도 있을 것이고, 모든 계층에서 역량이... ",
+            "description": "지금 권성동 의원은 이미 구속 상태로 저렇게 재판을 받고 있는데 거의 쌍둥이 사건인 전재수 장관 같은... 바로 국회의원 보궐이나 아니면 단체장에 도전할 수 있는 사람도 있을 것이고, 모든 계층에서 역량이 강화되길... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456467&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T16:32:00",
@@ -493,176 +656,6 @@
                 "KFM1081G"
             ],
             "title": "[사사건건] “경기도지사 출마?”…이준석 “가능성 열어놔”"
-        },
-        {
-            "_id": "6964b542631fd17434996005",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299372?sid=100",
-            "created_at": "2026-01-12T17:47:59.436000",
-            "description": "역대로 우리 헌정사가 펼쳐진 이후에 이렇게 많은 의혹을 받고 있으면서도 자리를 지키는, 국회의원직 지키고... 당내 반응은 어떨지주호영 국회부의장 인터뷰 내용 들어보겠습니다. 역대로 국민의힘 전신들이 있었죠.... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601121209154108",
-            "press": "YTN",
-            "pubDate": "2026-01-12T12:09:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "8BF5855P",
-                "QWL7778X",
-                "KFM1081G",
-                "9YO73104",
-                "8SV6917G",
-                "H5476989"
-            ],
-            "title": "[시사정각] '강선우 1억 의혹' 김경 경찰 조사...야권은 '특검' 공세"
-        },
-        {
-            "_id": "6964b541631fd17434995fe3",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299310?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "국회의원들이 저게 문제제기된 게 꽤 됐는데 법을 안 고쳐요. 그러니까 이혜훈 후보자 측에서 알았는지... 민주당의 신임 원내운영수석부대표에 천준호 의원이 임명됐다는 소식이 조금 전에 들어왔습니다. 일단 민주당에... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601120947231185",
-            "press": "YTN",
-            "pubDate": "2026-01-12T09:47:00",
-            "related_members": [
-                "8P37634C",
-                "N2P9317N",
-                "8Q88373R",
-                "GOC54665",
-                "6EN68926",
-                "KFM1081G",
-                "9YO73104",
-                "A494529E"
-            ],
-            "title": "[뉴스퀘어10] '공천헌금 의혹' 김경 경찰 조사...김병기는 언제쯤?"
-        },
-        {
-            "_id": "6964b556631fd174349961b7",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106818&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "21대 국회의원 지냈고요. 지난해 대선 패배 이후 당의 혁신위원장을 맡기도 했죠? KDI 한국개발원 연구원... ◆ 김영수 : 그러면 장동혁 대표 체제에서 최근에 정책위의장도 새로 정점식 의원이 임명이 됐고요. 조광한 전... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106818&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-12T08:30:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "QWL7778X",
-                "OWD1018N",
-                "SLW27496",
-                "KFM1081G",
-                "9YO73104",
-                "8Q88373R",
-                "LJK4960Z"
-            ],
-            "title": "윤희숙 \"오세훈 식상해, 서울시장 출마 '기백' 모으는 중... 개혁신당과..."
-        },
-        {
-            "_id": "6964b556631fd174349961b8",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299245?sid=100",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "21대 국회의원 지냈고요. 지난해 대선 패배 이후 당의 혁신위원장을 맡기도 했죠? KDI 한국개발원 연구원... ◆ 김영수 : 그러면 장동혁 대표 체제에서 최근에 정책위의장도 새로 정점식 의원이 임명이 됐고요. 조광한 전... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601120807395974",
-            "press": "YTN",
-            "pubDate": "2026-01-12T08:07:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "QWL7778X",
-                "OWD1018N",
-                "SLW27496",
-                "KFM1081G",
-                "9YO73104",
-                "8Q88373R",
-                "LJK4960Z"
-            ],
-            "title": "윤희숙 \"오세훈 식상해, 서울시장 출마 '기백' 모으는 중... 개혁신당과..."
-        },
-        {
-            "_id": "6964b543631fd17434996027",
-            "link": "https://n.news.naver.com/mnews/article/421/0008707640?sid=100",
-            "created_at": "2026-01-12T17:48:00.871000",
-            "description": "현재 안건조정위에는 더불어민주당 박지원·김용민·김기표 의원, 국민의힘 곽규택·주진우 의원, 조국혁신당... 이 후보자는 국회의원 재직 당시 인턴 직원에게 폭언을 했다는 주장과 보좌진에게 사적 심부름을 시키고... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6035120",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T06:00:00",
-            "related_members": [
-                "8BF5855P",
-                "GJK57930",
-                "OFE45081",
-                "3CC88975",
-                "REG96285",
-                "1A82234K",
-                "KFM1081G",
-                "QWL7778X",
-                "8Q88373R",
-                "9YO73104",
-                "MNZ4401T"
-            ],
-            "title": "여야 '통일교·2차 종합 특검' 충돌 전망…재경위 '이혜훈' 두고 전운"
-        },
-        {
-            "_id": "6964b552631fd17434996169",
-            "link": "https://n.news.naver.com/mnews/article/020/0003688384?sid=100",
-            "created_at": "2026-01-12T17:48:15.824000",
-            "description": "소속 국회의원이 구속된 상황”이라며 “공천 헌금 사태를 더불어민주당에게만 국한시키려는 시도를 해서는 안 된다“고 주장했다. 그러면서 ”민주당만 문제가 아니다. 국민의힘 소속 포항 김정재 의원이 ‘경선을 하게... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260111/133131660/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-11T14:51:00",
-            "related_members": [
-                "QWL7778X",
-                "E1J8836Y",
-                "9YO73104"
-            ],
-            "title": "조국당, 이준석 연석회담 제안에 “국힘에 ‘도주로’ 제시 부적절”"
-        },
-        {
-            "_id": "6964b583631fd1743499643d",
-            "link": "https://n.news.naver.com/mnews/article/011/0004577208?sid=100",
-            "created_at": "2026-01-12T17:49:04.973000",
-            "description": "특검의 수사 범위에 대해 이 대표는 “민주당의 전재수-통일교 사태와 김병기-강선우 돈공천 사태를 제대로 수사할 수 있는 특검”이라고 언급했다. 혁신당은 “국민의힘은 이와 관련해 소속 국회의원이 구속된 상태로... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K79FF8DPI",
-            "press": "서울경제",
-            "pubDate": "2026-01-11T14:18:00",
-            "related_members": [
-                "9YO73104",
-                "MNZ4401T",
-                "QWL7778X",
-                "8Q88373R"
-            ],
-            "title": "조국혁신당, 이준석 '野3당 회동' 제안에…\"국힘에 도주로 주나\" 거부"
-        },
-        {
-            "_id": "6964b583631fd1743499643e",
-            "link": "https://n.news.naver.com/mnews/article/016/0002583956?sid=100",
-            "created_at": "2026-01-12T17:49:04.973000",
-            "description": "소속 국회의원이 구속된 상황”이라고 했다. 이어 “특검의 범위를 정하는 데 관여하는 것이 부적절하다”며... 그러면서 야3당 회동에 대해 “민주당의 전재수-통일교 사태와 김병기-강선우 돈공천 사태를 제대로 수사할... ",
-            "originallink": "https://biz.heraldcorp.com/article/10652973?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-11T13:55:00",
-            "related_members": [
-                "9YO73104",
-                "MNZ4401T",
-                "QWL7778X",
-                "8Q88373R"
-            ],
-            "title": "조국혁신당 “이준석 연석회담 제안은 국힘에 도주로 제시…부적절”"
-        },
-        {
-            "_id": "6964b567631fd174349962da",
-            "link": "https://n.news.naver.com/mnews/article/421/0008707020?sid=100",
-            "created_at": "2026-01-12T17:48:36.658000",
-            "description": "정춘생 혁신당 최고위원은 \"민주당은 '시스템 에러가 아닌 휴먼에러'라며 개인의 일탈 문제로 보는데 저희는... 쥔 지역위원장, 당협위원장, 국회의원, 지도부에 잘 보이면 되기 때문에 이런 일이 있는 것\"이라고 비판했다.",
-            "originallink": "https://www.news1.kr/politics/assembly/6035026",
-            "press": "뉴스1",
-            "pubDate": "2026-01-11T12:09:00",
-            "related_members": [
-                "QWL7778X",
-                "80C5885Z",
-                "9YO73104",
-                "MNZ4401T",
-                "8Q88373R",
-                "XG348314"
-            ],
-            "title": "혁신당, 이준석 회담 제안에 \"사과부터\"…與 겨냥 '돈 공천 추방법' 발의"
         }
     ],
     "recent_videos": [
@@ -691,7 +684,7 @@
             "url": "https://www.youtube.com/watch?v=sO_Jjqiu7Tg",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 142.0,
             "title": "\"전재수에 현금·명품 전달\" 통일교 진술에 의혹 일파만파 / JTBC 아침&",
             "upload_date": null
@@ -721,7 +714,7 @@
             "url": "https://www.youtube.com/watch?v=2bApfMUropc",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 132.0,
             "title": "[단독] “TM 일정 : 전재수”…특별보고 문건에 한학자와 면담 정황 [9시 뉴스] / KBS  2025.12.15.",
             "upload_date": null
@@ -741,7 +734,7 @@
             "url": "https://www.youtube.com/watch?v=B_iwYnyrdpo",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 120.0,
             "title": "통일교, 전재수에 현금박스·명품시계 전달?…국힘 \"이재명 할애비도 못 막을 게이트\"｜지금 이 뉴스",
             "upload_date": null
@@ -761,7 +754,7 @@
             "url": "https://www.youtube.com/watch?v=7EQcwVX8dIk",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 1495.0,
             "title": "[🔴속보] 경찰, '통일교 금품수수 의혹' 민주당 전재수 의원실 압수수색 시도  / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -771,7 +764,7 @@
             "url": "https://www.youtube.com/watch?v=ApmfsKoajp4",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 214.0,
             "title": "[현장영상+] 전재수 \"통일교로부터 10원짜리도 불법 금품수수 없어... 최선 다해 소명\" / YTN",
             "upload_date": null
@@ -791,7 +784,7 @@
             "url": "https://www.youtube.com/watch?v=YjuigqcasN8",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 167.0,
             "title": "[단독] \"김규환·전재수에 수천만 원\"…언제, 얼마, 왜? '낱낱이' 진술 / SBS 8뉴스",
             "upload_date": null
@@ -811,7 +804,7 @@
             "url": "https://www.youtube.com/watch?v=wO-2dA6olSY",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 99.0,
             "title": "통일교 금품 수수 의혹 전재수…정치권 연결고리 배후엔 '통일교 박 목사'｜지금 이 뉴스",
             "upload_date": null
@@ -821,7 +814,7 @@
             "url": "https://www.youtube.com/watch?v=SKTno549h9E",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:44.783000",
+            "collected_at": "2026-01-21T08:50:16.871000",
             "duration": 131.0,
             "title": "[오늘 이 뉴스] \"전재수에게 현금\" 보도 술렁.. \"단 하나도 사실아냐\" 발끈 (2025.12.10/MBC뉴스)",
             "upload_date": null
@@ -831,7 +824,7 @@
             "url": "https://www.youtube.com/watch?v=UCcDu9m1KSSWesVAcwF0tDiw",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": null,
             "title": "전재수 해양수산부 장관(전재수TV)",
             "upload_date": null
@@ -851,7 +844,7 @@
             "url": "https://www.youtube.com/watch?v=4HVg5WFHL4Q",
             "HG_NM": "전재수",
             "MONA_CD": "9YO73104",
-            "collected_at": "2026-01-18T13:19:43.828000",
+            "collected_at": "2026-01-21T08:50:16.198000",
             "duration": 143.0,
             "title": "'통일교 의혹' 전재수 조사 후 귀가‥혐의 부인 (2025.12.20/뉴스25/MBC)",
             "upload_date": null
@@ -867,5 +860,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:39.207857"
+    "exported_at": "2026-01-21T10:09:35.915056"
 }

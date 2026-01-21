@@ -48,106 +48,478 @@
     "analysis": {
         "keywords": [
             "이혜훈",
-            "국민",
-            "후보자",
-            "의혹",
-            "병역",
-            "부산",
-            "시민",
             "청문회",
-            "대만",
-            "특혜",
-            "일정",
-            "대표",
-            "아들",
-            "발언",
-            "회견"
+            "국민",
+            "자료",
+            "부산",
+            "간사",
+            "후보자",
+            "시민",
+            "원내",
+            "회의",
+            "여야",
+            "인터뷰",
+            "파행",
+            "기획",
+            "의혹"
         ],
         "keyword_frequency": [
             {
                 "text": "이혜훈",
-                "value": 33
+                "value": 47
+            },
+            {
+                "text": "청문회",
+                "value": 39
             },
             {
                 "text": "국민",
-                "value": 32
+                "value": 29
             },
             {
-                "text": "후보자",
-                "value": 18
-            },
-            {
-                "text": "의혹",
-                "value": 17
-            },
-            {
-                "text": "병역",
-                "value": 14
+                "text": "자료",
+                "value": 27
             },
             {
                 "text": "부산",
-                "value": 14
+                "value": 20
+            },
+            {
+                "text": "간사",
+                "value": 18
+            },
+            {
+                "text": "후보자",
+                "value": 17
             },
             {
                 "text": "시민",
                 "value": 14
             },
             {
-                "text": "청문회",
+                "text": "원내",
                 "value": 13
             },
             {
-                "text": "대만",
+                "text": "회의",
                 "value": 13
             },
             {
-                "text": "특혜",
+                "text": "여야",
                 "value": 12
             },
             {
-                "text": "일정",
-                "value": 12
+                "text": "인터뷰",
+                "value": 11
             },
             {
-                "text": "대표",
-                "value": 12
+                "text": "파행",
+                "value": 11
             },
             {
-                "text": "아들",
-                "value": 12
-            },
-            {
-                "text": "발언",
+                "text": "기획",
                 "value": 10
             },
             {
-                "text": "회견",
-                "value": 9
+                "text": "의혹",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:20.759401",
+        "last_analyzed_at": "2026-01-21T10:09:17.825665",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                17,
-                3,
-                2,
                 0,
                 2,
                 0,
-                0
+                2,
+                5,
+                11,
+                4
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701248297082fcc2b34cc1",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106987&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "□ 방송 : FM 94.5 (07:15~09:00) □ 방송일시 : 2026년 1월 21일 (수) □ 진행 : 김영수 앵커 □ 출연자 : 최형두... 당선되면 국회의원 부인에게 그 판공비 카드를 상납해야 되는 이런 현실이 드러나는 판국에 이게 여야 문제가 어디... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106987&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-21T08:00:00",
+            "related_members": [
+                "A0P4646G",
+                "FU87526G",
+                "QWL7778X",
+                "KFM1081G",
+                "2385336L"
+            ],
+            "title": "(초안) 최형두 인터뷰"
+        },
+        {
+            "_id": "69701248297082fcc2b34cc2",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106988&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "□ 방송 : FM 94.5 (07:15~09:00) □ 방송일시 : 2026년 1월 21일 (수) □ 진행 : 김영수 앵커 □ 출연자 : 최형두... 당선되면 국회의원 부인에게 판공비 카드를 상납해야 되는 이런 현실이 드러나는 판국에 여야 문제가 어디 있습니까?... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106988&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-21T08:00:00",
+            "related_members": [
+                "A0P4646G",
+                "FU87526G",
+                "6EN68926",
+                "QWL7778X",
+                "KFM1081G",
+                "2385336L"
+            ],
+            "title": "(초안) 최형두 인터뷰"
+        },
+        {
+            "_id": "69701248297082fcc2b34cc3",
+            "link": "https://n.news.naver.com/mnews/article/009/0005624819?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "20일 국회에 따르면 정태호 민주당 의원과 박수영 국민의힘 의원은 21일 국회 의원회관에서 ‘유산기부 활성화를 위한 한국의 레거시10 제도 도입 정책 토론회’를 주최한다. 이들은 토론회에서 영국의 ‘레거시10’... ",
+            "originallink": "https://www.mk.co.kr/article/11938569",
+            "press": "매일경제",
+            "pubDate": "2026-01-21T07:04:00",
+            "related_members": [
+                "UHB5553T",
+                "FU87526G"
+            ],
+            "title": "“유산 10% 기부하면 세금 10% 감면” …여야, 법안 공동발의 추진"
+        },
+        {
+            "_id": "69701248297082fcc2b34cc4",
+            "link": "https://n.news.naver.com/mnews/article/022/0004099180?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 국회에서 열린 원내대책회의에서 “국민의힘과... 한병도 원내대표는 당 원내대책회의에서 “자료가 미비하고 각종 의혹이 있다면 청문회장에서 후보자를 불러... ",
+            "originallink": "https://www.segye.com/newsView/20260120517953?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-21T06:03:00",
+            "related_members": [
+                "FU87526G",
+                "EH27538E",
+                "UHB5553T",
+                "YGB8604T",
+                "H5476989"
+            ],
+            "title": "“자료부실” 버티던 野, 21일 이혜훈과 협의… 청문회 돌파구 열리나"
+        },
+        {
+            "_id": "69701248297082fcc2b34cc5",
+            "link": "https://n.news.naver.com/mnews/article/009/0005624724?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "20일 국회에 따르면 정태호 민주당 의원과 박수영 국민의힘 의원은 21일 국회 의원회관에서 '유산기부 활성화를 위한 한국의 레거시10 제도 도입 정책 토론회'를 주최한다. 이들은 토론회에서 영국의 '레거시10' 제도... ",
+            "originallink": "https://www.mk.co.kr/article/11938219",
+            "press": "매일경제",
+            "pubDate": "2026-01-20T17:56:00",
+            "related_members": [
+                "UHB5553T",
+                "FU87526G"
+            ],
+            "title": "\"유산 10% 사회 기부땐 상속세 10% 감면 추진\""
+        },
+        {
+            "_id": "69701248297082fcc2b34cc6",
+            "link": "https://n.news.naver.com/mnews/article/421/0008724399?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "이날 오전엔 유승민 전 의원이 농성장을 방문했고 19일엔 평택을 국회의원 보궐선거 출마를 공식화한 황교안... 실제 전날 송언석 원내대표와 4선 이상 중진의원 간담회에서 몇몇 의원들은 한 전 대표가 농성장을 찾아 장... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6045015",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T15:35:00",
+            "related_members": [
+                "KFM1081G",
+                "FU87526G",
+                "6EN68926"
+            ],
+            "title": "장동혁 단식 현장, 유승민·황교안도 방문…한동훈 찾을까"
+        },
+        {
+            "_id": "69701248297082fcc2b34cc7",
+            "link": "https://n.news.naver.com/mnews/article/448/0000584824?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 국민의힘 박수영 의원이 20일 부실 자료 제출 논란으로 청문회 파행을 빚은 이혜훈 기획예산처 장관 후보자를 두고 \"자료없는 후보자 말은 진실성 없는 빈 껍데기에 불과하다\"고... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/20/2026012090097.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T11:14:00",
+            "related_members": [
+                "FU87526G"
+            ],
+            "title": "野 박수영 \"이혜훈에 90건 자료 요구…오늘 아침까지 단 1건도 안 와\""
+        },
+        {
+            "_id": "69701248297082fcc2b34cc8",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723475?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "야당 간사인 박수영 국민의힘 의원은 이날 오전 국회에서 열린 원내대책회의에서 \"(이 후보자는)... 최은석 원내수석대변인도 \"이 후보자가 (요구한) 자료를 제출하면 (자료 분석) 이틀 후에 청문회를 여는 것으로 준비하고... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6044507",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T10:31:00",
+            "related_members": [
+                "FU87526G",
+                "UHB5553T",
+                "UF53617M"
+            ],
+            "title": "이혜훈 청문회 오늘도 희박…野 \"자료 미비\" 李 \"소명 희망\""
+        },
+        {
+            "_id": "69701248297082fcc2b34cc9",
+            "link": "https://n.news.naver.com/mnews/article/015/0005239479?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 이날 오전 국회에서 열린 원내대책회의에서... 정점식 정책위의장은 \"보좌진 갑질 폭언으로 시작해 남편과 수도원 일대 토지와 상가를 매입, 30억 원이 넘는 시세차익을... ",
+            "originallink": "https://www.hankyung.com/article/2026012008287",
+            "press": "한국경제",
+            "pubDate": "2026-01-20T10:12:00",
+            "related_members": [
+                "FU87526G",
+                "LJK4960Z"
+            ],
+            "title": "국힘 \"이혜훈, 자료 안 내면 청문회장 못 선다\"…각종 의혹 맹공"
+        },
+        {
+            "_id": "69701248297082fcc2b34cca",
+            "link": "https://n.news.naver.com/mnews/article/421/0008723271?sid=100",
+            "created_at": "2026-01-21T08:39:50.650000",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 이날 오전 국회에서 열린 원내대책회의에서... 최은석 원내수석대변인도 원대회의 후 기자들과 만나 \"어제 인사청문회 이후로 추가로 제출된 자료는 없다. 후보자의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6044426",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T09:50:00",
+            "related_members": [
+                "FU87526G",
+                "LJK4960Z",
+                "UF53617M"
+            ],
+            "title": "국힘 \"이혜훈, 청문회장 입장하려면 자료 빠짐없이 제출해야\"(종합)"
+        },
+        {
+            "_id": "69701238297082fcc2b34c60",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474338?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "[최은석/국민의힘 의원 (어제) : 오늘 하루만 버티자 식의 안일한 태도로 일관하는 후보자를 두고 청문회를... {그 당에서 세 번이나 공천을 해서 국회의원을 만든 분이잖아요.}] 결국 청문회는 열리지도 못한 채 회의는 1시간... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280839?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-20T08:55:00",
+            "related_members": [
+                "5765663F",
+                "FU87526G",
+                "S824682L",
+                "EH27538E",
+                "UHB5553T",
+                "UF53617M"
+            ],
+            "title": "'자료 부실' 공방 속 이혜훈 청문회 파행…끝내 빈자리로"
+        },
+        {
+            "_id": "69701233297082fcc2b34c3f",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=106966&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-21T08:39:29.688000",
+            "description": "여당 간사 정태호 의원과 충분히 협의를 하신 거죠? ◇ 박수영 : 협의는 계속하고 있고요. 어제 저녁까지도... 번이나 국회의원이 됐다. 그 책임을 보면 역시 국민의힘도 제대로 검증하지 않은 것 아니냐’라는 주장이에요.... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106966&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-20T08:00:00",
+            "related_members": [
+                "MNZ4401T",
+                "MLH1404S",
+                "FU87526G",
+                "UHB5553T"
+            ],
+            "title": "재경위 野간사 박수영 \"이혜훈, 민주 의원들도 '강선우보다 더하다'고 ..."
+        },
+        {
+            "_id": "69701233297082fcc2b34c40",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303056?sid=100",
+            "created_at": "2026-01-21T08:39:29.688000",
+            "description": "여당 간사 정태호 의원과 충분히 협의를 하신 거죠? ◇ 박수영 : 협의는 계속하고 있고요. 어제 저녁까지도... ', '세 번이나 국회의원이 됐다. 그 책임을 보면 역시 국민의힘도 제대로 검증하지 않은 것 아니냐'라는... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601200748486378",
+            "press": "YTN",
+            "pubDate": "2026-01-20T07:48:00",
+            "related_members": [
+                "MNZ4401T",
+                "MLH1404S",
+                "FU87526G",
+                "UHB5553T"
+            ],
+            "title": "재경위 野간사 박수영 \"이혜훈, 민주 의원들도 '강선우보다 더하다'고 ..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c1e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106808?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "지난주에 천하람 의원이 여기 금요일 나와서 내가 그거 다 알고 있다 얘기했잖아요. ◇ 박재홍&gt; 방송... 그런데 이렇게 할 거면 국회의원 세비 반납해야 됩니다. ◆ 노영희&gt; 공부를 안 한다는 얘기가 있어요. ◆ 김성열... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458685?utm_source=naver&utm_medium=article&utm_campaign=20260120073044",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-20T07:31:00",
+            "related_members": [
+                "LG63087O",
+                "Y0X4618N",
+                "FU87526G",
+                "6EN68926",
+                "YOG1280B",
+                "QWL7778X",
+                "EH27538E",
+                "9YO73104",
+                "UHB5553T",
+                "YGB8604T"
+            ],
+            "title": "김성열 \"국힘, 이혜훈 부적격 보일 기회 왜 날리나?\"[한판승부]"
+        },
+        {
+            "_id": "69701238297082fcc2b34c61",
+            "link": "https://n.news.naver.com/mnews/article/020/0003690636?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "박대출 의원도 “지금 이런 상태로 청문회를 한다는 것은 국민에게는 모욕이고 국회에는 모독”이라고 했다. 개혁신당 천하람 의원은 “여당이 다수당이고 밀어붙이는 힘이 세다고 해서 허술한 자료로 면죄부를 주는... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260120/133189285/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-20T04:34:00",
+            "related_members": [
+                "5765663F",
+                "S824682L",
+                "YGB8604T",
+                "W4X85128",
+                "UHB5553T",
+                "FU87526G",
+                "EH27538E"
+            ],
+            "title": "“국힘 이혜훈 3번 공천” “면죄부 안돼”… 검증 못한채 말싸움만"
+        },
+        {
+            "_id": "6970122a297082fcc2b34bf0",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302960?sid=100",
+            "created_at": "2026-01-21T08:39:21.164000",
+            "description": "[임이자 / 국회 재경위원장 : 이혜훈 후보자 청문회와 관련하여 양당 간사 간 협의가 이루어지지 않았기 때문에 위원장으로서 청문회 관련 안건은 상정할 수 없다는 말씀을 드립니다.] [박수영 / 국민의힘 의원 : 오늘... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601192228342494",
+            "press": "YTN",
+            "pubDate": "2026-01-19T22:28:00",
+            "related_members": [
+                "8Q88373R",
+                "8P37634C",
+                "5765663F",
+                "EH27538E",
+                "FU87526G",
+                "5TQ6306B",
+                "8BF5855P",
+                "2385336L",
+                "BT62420K",
+                "4X525582",
+                "QWL7778X"
+            ],
+            "title": "[뉴스NIGHT] 이혜훈 청문회 파행...김병기, 결국 '자진 탈당'"
+        },
+        {
+            "_id": "69701238297082fcc2b34c62",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474295?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "[최은석/국민의힘 의원 : 오늘 하루만 버티자 식의 안일한 태도로 일관하는 후보자를 두고 청문회를 진행하는... {그 당에서 세 번이나 공천을 해서 국회의원을 만든 분이잖아요.}] 결국 청문회는 열리지도 못한 채 회의는... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280786?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-19T20:57:00",
+            "related_members": [
+                "5765663F",
+                "FU87526G",
+                "S824682L",
+                "EH27538E",
+                "UHB5553T",
+                "UF53617M"
+            ],
+            "title": "이혜훈 청문회석 앉지도 못했다…공방만 하다 파행"
+        },
+        {
+            "_id": "69701247297082fcc2b34cb9",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787257?sid=100",
+            "created_at": "2026-01-21T08:39:50.007000",
+            "description": "도리어 문제 제기하는 야당 국회의원을 수사 의뢰하겠다고 협박하고 있다”고 주장했다. 한병도 민주당 원내대표는 “국민의힘은 조직폭력배가 자기들 조직에서 이탈한 조직원을 어떻게든 죽이고 보복하듯 이 후보자를... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1240569.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-19T20:24:00",
+            "related_members": [
+                "H5476989",
+                "NX534083",
+                "FU87526G",
+                "6EN68926",
+                "EH27538E",
+                "UHB5553T"
+            ],
+            "title": "“자료제출 미비” “조폭식 보복정치”…‘이혜훈 청문회’ 무산 공방"
+        },
+        {
+            "_id": "69701238297082fcc2b34c63",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474252?sid=100",
+            "created_at": "2026-01-21T08:39:34.438000",
+            "description": "의원님, 국회의원 지금 3선 의원 아니십니까? 지금 하고 있잖아요.] [위원장님 이런 적이 있습니까?] [임이자... 회의는 국회법 제52조 제3호에 따라 지난 1월 18일에 더불어민주당 정태호 간사님 등 13인으로부터 전체 회의... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12280794?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-19T18:02:00",
+            "related_members": [
+                "5765663F",
+                "EH27538E",
+                "FU87526G",
+                "S824682L",
+                "UHB5553T"
+            ],
+            "title": "이혜훈 없는 청문회 '파행'…시작도 못 하고 여야 '정면충돌'"
+        },
+        {
+            "_id": "6970122e297082fcc2b34c21",
+            "link": "https://n.news.naver.com/mnews/article/015/0005239020?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "국회 재정경제기획위원회의 박수영 국민의힘 간사는 \"이 후보자가 의혹을 제기한 국회의원을 고발해야... 천하람 개혁신당 의원은 \"이렇게 국민적인 의혹이 많은 후보에 대해 허술한 자료로 그냥 면죄부를 주는 청문회가... ",
+            "originallink": "https://www.hankyung.com/article/202601198887i",
+            "press": "한국경제",
+            "pubDate": "2026-01-19T14:09:00",
+            "related_members": [
+                "LG63087O",
+                "5765663F",
+                "FU87526G",
+                "EB16073M",
+                "LT72093S",
+                "KNP22261",
+                "YGB8604T"
+            ],
+            "title": "'이혜훈 없는' 이혜훈 청문회, 여야 '자료 부실'공방에 오전 파행"
+        },
+        {
+            "_id": "6970127b297082fcc2b34d85",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302390?sid=100",
+            "created_at": "2026-01-21T08:40:42.040000",
+            "description": "야당 간사인 박수영 의원은 국회 기자회견에서 이 후보자는 국회 청문회장이 아니라 수사기관 피의자 자리에... 최수진 원내수석대변인도 별도 기자회견을 통해 국회가 무엇을 더 검증할 수 있겠느냐며 이재명 대통령은... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601181924349329",
+            "press": "YTN",
+            "pubDate": "2026-01-18T19:24:00",
+            "related_members": [
+                "WJG74792",
+                "FU87526G"
+            ],
+            "title": "국민의힘, 이혜훈 청문회 '전면 거부'...\"자료 미제출\""
+        },
+        {
+            "_id": "69701231297082fcc2b34c31",
+            "link": "https://n.news.naver.com/mnews/article/421/0008720364?sid=102",
+            "created_at": "2026-01-21T08:39:28.255000",
+            "description": "첫 번째 강연자로 나선 조승환 국회의원(국민의힘 여의도연구원장)은 '해양에서 미래도시로'를 주제로 부산의 지리적 이점을 활용한 도시 성장 전략을 발표했다. 이어 박형준 부산시장은 '글로벌 해양 허브 도시 부산... ",
+            "originallink": "https://www.news1.kr/local/busan-gyeongnam/6042598",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T14:48:00",
+            "related_members": [
+                "5KV82250",
+                "DAY6557K",
+                "ANS8383S",
+                "CAA7713A",
+                "8XE7026P",
+                "FU87526G",
+                "HRG9655C",
+                "ME83002L"
+            ],
+            "title": "부산혁신포럼, 2026 신년인사회 개최…\"부산의 힘으로 다함께 미래로\""
+        },
         {
             "_id": "6969b96a297082fcc2b1946c",
             "link": "https://n.news.naver.com/mnews/article/053/0000055075?sid=100",
@@ -183,7 +555,7 @@
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
-            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관... ",
             "originallink": "https://www.newsis.com/view/NISX20260113_0003475751",
             "press": "뉴시스",
             "pubDate": "2026-01-14T05:00:00",
@@ -213,7 +585,7 @@
             "_id": "6966ec77887d07f7ba2fb281",
             "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈... 14:00 최수진 의원실 등, (의료데이터 통합을 통한) 의료 AI 데이터센터 구축으로 AI 주권 확보(의원회관... ",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
             "originallink": "https://www.news1.kr/politics/assembly/6037918",
             "press": "뉴스1",
             "pubDate": "2026-01-14T05:00:00",
@@ -292,347 +664,6 @@
                 "UHB5553T"
             ],
             "title": "여야, 이혜훈 청문회 증·참고인 합의 불발...내일 다시 논의"
-        },
-        {
-            "_id": "696594b5887d07f7ba2fab50",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706187?sid=100",
-            "created_at": "2026-01-13T09:41:23.483000",
-            "description": "국회 재경위 여야 간사인 정태호 더불어민주당 의원과 박수영 국민의힘 의원은 물밑 협상을 이어왔지만 합의에 이르지는 못했다고 한다. 국민의힘 측에서는 보좌진 갑질·폭언, 부동산 투기 의혹 등을 검증하고자... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003474184",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T19:40:00",
-            "related_members": [
-                "UHB5553T",
-                "FU87526G"
-            ],
-            "title": "여야, '이혜훈 청문회' 합의 불발…증인 채택 두고 이견"
-        },
-        {
-            "_id": "6964b541631fd17434995fdd",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299526?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "국민의힘 박수영 의원실의 자료인데요. 둘째 아들은 지난 2014년부터 2년 동안 서울 서초구 지역아동센터에서... 왜냐하면 현역 국회의원을 했었고 이후에 생겼던 자리에 가는 부분 때문에 그럴 수 있을 것 같은데 저는... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601121641580338",
-            "press": "YTN",
-            "pubDate": "2026-01-12T16:41:00",
-            "related_members": [
-                "N2P9317N",
-                "2385336L",
-                "8Q88373R",
-                "8P37634C",
-                "GOC54665",
-                "MNZ4401T",
-                "ANS8383S",
-                "TJW93720",
-                "6VC83722",
-                "7YL9580G",
-                "FU87526G",
-                "5TQ6306B",
-                "8BF5855P",
-                "6EN68926",
-                "H5476989",
-                "KFM1081G"
-            ],
-            "title": "[정치ON] 2주만 등장한 김병기...민주 지도부 \"애당의 길 고민하길\""
-        },
-        {
-            "_id": "6964b55e631fd1743499624c",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299514?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "국민의힘 박수영 의원실의 자료인데요. 둘째 아들은 지난 2014년부터 2년 동안 서울 서초구 지역아동센터에서... [이 혜 훈 / 기획예산처 장관 후보자 : 아이들이 미국 국적을 불행사하면서까지 제가 현역 국회의원일 때... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601121620204994",
-            "press": "YTN",
-            "pubDate": "2026-01-12T16:20:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "금수저 병역 의혹? [앵커리포트]"
-        },
-        {
-            "_id": "6964b55e631fd1743499624d",
-            "link": "https://n.news.naver.com/mnews/article/448/0000583074?sid=101",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "현역 국회의원일 때 장남이 현역병으로 복무했고 차남은 제가 낙선해서 실업자일 때 병역을 이행했다\"고 설명했다. 앞서 박수영 국민의힘 의원은 페이스북을 통해 이 후보자의 차남과 삼남이 집에서 가까운 거리에서... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/12/2026011290207.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-12T15:37:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "이혜훈 \"아들 병역 특혜 주선할 영향력 없었다\""
-        },
-        {
-            "_id": "6964b55e631fd1743499624e",
-            "link": "https://n.news.naver.com/mnews/article/374/0000485791?sid=104",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "추 대표는 이날 국회의원회관에서 열린 국민의힘 박수영 의원실 주최 '강소국 대만에서 대한민국의 미래를 찾다' 세미나에서 이같이 밝힌 뒤 \"그 하나의 중국은 '중화민국'(대만)일 수도 있다\"고 주장했습니다. 그는... ",
-            "originallink": "https://biz.sbs.co.kr/article_hub/20000284240?division=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-12T13:52:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "\"李대통령 '하나의중국', 반드시 中 의미 아닐 것\" 주한대만대표"
-        },
-        {
-            "_id": "6964b55e631fd17434996252",
-            "link": "https://n.news.naver.com/mnews/article/003/0013704640?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "추가오웨이 주한타이베이대표부 대표와 박수영 국민의힘 의원이 12일 오전 서울 여의도 국회 의원회관에서 열린 '강소국 대만에서 대한민국의 미래를 찾다' 토론회에서 박수치고 있다. 2026.01.12. lmn@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260112_0021123382",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T11:02:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "박수치는 추가오웨이-박수영"
-        },
-        {
-            "_id": "6964b55e631fd1743499624f",
-            "link": "https://n.news.naver.com/mnews/article/003/0013704642?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "박수영 국민의힘 의원이 12일 오전 서울 여의도 국회 의원회관에서 열린 '강소국 대만에서 대한민국의 미래를 찾다' 토론회에서 발언하고 있다. 2026.01.12. lmn@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260112_0021123383",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T11:02:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "대만 관련 토론회 참석한 박수영 의원"
-        },
-        {
-            "_id": "6964b55e631fd17434996250",
-            "link": "https://n.news.naver.com/mnews/article/003/0013704635?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "추가오웨이 주한타이베이대표부 대표가 12일 오전 서울 여의도 국회 의원회관에서 열린 '강소국 대만에서 대한민국의 미래를 찾다' 토론회에서 박수영 국민의힘 의원과 대화하고 있다. 2026.01.12. lmn@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260112_0021123380",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T11:02:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "박수영 의원과 대화하는 추가오웨이 대표"
-        },
-        {
-            "_id": "6964b55e631fd17434996251",
-            "link": "https://n.news.naver.com/mnews/article/003/0013704638?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "박수영 국민의힘 의원이 12일 오전 서울 여의도 국회 의원회관에서 열린 '강소국 대만에서 대한민국의 미래를 찾다' 토론회에서 발언하고 있다. 2026.01.12. lmn@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260112_0021123381",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T11:02:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "발언하는 박수영 의원"
-        },
-        {
-            "_id": "6964b55e631fd17434996253",
-            "link": "https://n.news.naver.com/mnews/article/003/0013704482?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "현역 국회의원일 때 장남이 현역병 복무를 했는데 차남은 제가 낙선해서 실업자일 때 병역을 이행했다\"고 답했다. 앞서 박수영 국민의힘 의원은 사회관계망서비스(SNS)를 통해 이 후보자의 차남과 삼남이 집에서 가까운... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003473161",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T10:32:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "이혜훈, 아들 병역 특혜 의혹에 \"도모할 이유도, 주선할 영향력도 없어..."
-        },
-        {
-            "_id": "6964b55e631fd17434996254",
-            "link": "https://n.news.naver.com/mnews/article/020/0003688559?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "또 “제가 현역 국회의원일 때 장남이 현역병 복무를 했는데, 차남은 제가 낙선해서 실업자일 때 병역을... 국민의힘 박수영 의원이 병무청으로부터 제출받은 자료에 따르면 차남이 근무한 서초 지역아동센터의 경우... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133135913/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-12T10:06:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "이혜훈, 아들 ‘금수저 병역’ 의혹에 “도모할 이유도, 주선할 영향력..."
-        },
-        {
-            "_id": "6964b55e631fd17434996255",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299291?sid=101",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "자신이 국회의원일 때 현역병 복무를 했고, 차남은 낙선해서 실업자일 때 병역의무를 이행했다고 언급했습니다. 앞서 국민의힘 박수영 의원은 이 후보자의 둘째 아들과 셋째 아들이 집과 가까운 곳에서... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0102_202601121005251078",
-            "press": "YTN",
-            "pubDate": "2026-01-12T10:05:00",
-            "related_members": [
-                "FU87526G"
-            ],
-            "title": "이혜훈, 두 아들 병역 특혜 거듭 부인...\"특혜 도모할 이유도 영향력도..."
-        },
-        {
-            "_id": "6964b54b631fd174349960d6",
-            "link": "https://n.news.naver.com/mnews/article/003/0013703946?sid=100",
-            "created_at": "2026-01-12T17:48:08.635000",
-            "description": "2주차 국회 정례브리핑] 11:20 손솔 의원, [차별금지법 관련 기자회견] 11:40 신장식 의원, [김병주 MBK 회장 구속 촉구 기자회견] 14:20 조배숙 의원, [손현보 목사 인권 탄압 규탄 및 석방 촉구 기자회견] 15:20 박수영... ",
-            "originallink": "https://www.newsis.com/view/NISX20260111_0003472646",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T05:00:00",
-            "related_members": [
-                "JNL7001A",
-                "B7D7534L",
-                "GF286398",
-                "NPD75153",
-                "IWK63872",
-                "2KM3589W",
-                "VZA76236",
-                "FU87526G",
-                "4019850M",
-                "HVV5250J",
-                "WI719547",
-                "K5F2023J",
-                "4T026790"
-            ],
-            "title": "[오늘의 주요일정]국회(1월12일 월요일)"
-        },
-        {
-            "_id": "6964b55e631fd17434996256",
-            "link": "https://n.news.naver.com/mnews/article/421/0008707612?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "회의 (국회 본관 221호 진보당) 14:00 제주항공참사 유가족 간담회 (윤종오 의원실) ◇개혁신당 -당대표 07:35 SBS '김태현의 정치쇼' 출연 09:30 최고위원회의 (개혁신당 대회의실) 13:30 대한민국 미래 바이오·헬스... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6035259",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T05:00:00",
-            "related_members": [
-                "FU87526G",
-                "3TP65086"
-            ],
-            "title": "[오늘의 주요일정] 정치·정부 (12일, 월)"
-        },
-        {
-            "_id": "6964b55e631fd17434996257",
-            "link": "https://n.news.naver.com/mnews/article/003/0013703945?sid=100",
-            "created_at": "2026-01-12T17:48:27.170000",
-            "description": "【상임대표】 11:00 전희영 경남도지사 후보 출마 선언 기자회견 / 경남도청 프레스룸 【원내대표】 10:00 진보당 3기 72차 대표단회의(국회 본관 221호 진보당) 14:00 제주항공참사 유가족 간담회(윤종오 의원실)",
-            "originallink": "https://www.newsis.com/view/NISX20260111_0003472643",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T05:00:00",
-            "related_members": [
-                "FU87526G",
-                "3TP65086"
-            ],
-            "title": "[오늘의 주요일정]정치(1월12일 월요일)"
-        },
-        {
-            "_id": "6964b54b631fd174349960d5",
-            "link": "https://n.news.naver.com/mnews/article/421/0008707604?sid=100",
-            "created_at": "2026-01-12T17:48:08.635000",
-            "description": "2주차 국회 정례브리핑] 11:20 손솔 의원, [차별금지법 관련 기자회견] 11:40 신장식 의원, [김병주 MBK 회장 구속 촉구 기자회견] 14:20 조배숙 의원, [손현보 목사 인권 탄압 규탄 및 석방 촉구 기자회견] 15:20 박수영... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6035249",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T05:00:00",
-            "related_members": [
-                "JNL7001A",
-                "B7D7534L",
-                "GF286398",
-                "NPD75153",
-                "IWK63872",
-                "2KM3589W",
-                "VZA76236",
-                "FU87526G",
-                "4019850M",
-                "HVV5250J",
-                "WI719547",
-                "K5F2023J",
-                "4T026790"
-            ],
-            "title": "[오늘의 국회일정] (12일, 월)"
-        },
-        {
-            "_id": "6964b55e631fd17434996258",
-            "link": "https://n.news.naver.com/mnews/article/028/0002785857?sid=100",
-            "created_at": "2026-01-12T17:48:27.171000",
-            "description": "지난 9일엔 주진우 국민의힘 의원이 유튜브를 통해 이 후보자가 과거 국회의원 시절 보좌진에게 “너 그렇게 똥오줌을 못 가려?” “말 좀 하라”고 폭언하고 고성을 지르는 음성 파일을 추가 공개했다. 이 후보자... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1239124.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-11T21:18:00",
-            "related_members": [
-                "FU87526G",
-                "GJK57930"
-            ],
-            "title": "이혜훈 차남·삼남, 아동센터·방배경찰 ‘맞춤형 공익근무’ 특혜 의혹"
-        },
-        {
-            "_id": "6964b54a631fd174349960bc",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096726?sid=100",
-            "created_at": "2026-01-12T17:48:07.785000",
-            "description": "국민의힘 주진우 의원이 공개한 녹취파일에 따르면, 국회의원 시절 이 후보자는 자신의 이름이 언급된 언론... 최보윤 수석대변인은 “이 후보자 의혹은 갑질, 투기, 재산 신고, 논문, 증여, 자녀 특혜까지 그 종류도... ",
-            "originallink": "https://www.segye.com/newsView/20260111508367?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-11T18:17:00",
-            "related_members": [
-                "VDN5593C",
-                "FU87526G",
-                "GJK57930",
-                "HSW1214Q",
-                "UOS16250"
-            ],
-            "title": "이혜훈 사퇴론 번지는데… 靑은 “통합 인사” 되풀이"
-        },
-        {
-            "_id": "6964b55e631fd17434996259",
-            "link": "https://n.news.naver.com/mnews/article/023/0003952110?sid=100",
-            "created_at": "2026-01-12T17:48:27.171000",
-            "description": "이 후보자에 대해선 국회의원 시절 보좌진 갑질·폭언 논란, 결혼한 장남의 ‘위장 미혼’을 통한 70억원대... 또한 이날 국민의힘 주진우 의원은 이 후보자가 과거 보좌진에게 심야에 전화를 걸어 “너 그렇게 똥오줌... ",
-            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/10/V74OTZFPBNEIJKNLPJPPIWSQDE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-10T00:48:00",
-            "related_members": [
-                "FU87526G",
-                "GJK57930",
-                "YGB8604T"
-            ],
-            "title": "이혜훈 장남 ‘아빠 찬스 논문’ 국책 연구기관에 제출해 취업"
-        },
-        {
-            "_id": "6964b55e631fd1743499625a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002785613?sid=100",
-            "created_at": "2026-01-12T17:48:27.171000",
-            "description": "주진우 국민의힘 의원은 9일 자신의 유튜브 채널에 이 후보자가 바른정당 국회의원 시절 보좌진에게 폭언한 내용이 담긴 녹취파일을 추가로 공개했다. 녹취파일에는 이 후보자가 보좌진에게 “하, 기가 막혀서.... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238872.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-09T11:46:00",
-            "related_members": [
-                "FU87526G",
-                "GJK57930"
-            ],
-            "title": "이혜훈 “너 똥오줌 못 가려?”…또 폭언 공개돼"
-        },
-        {
-            "_id": "6964b590631fd174349964db",
-            "link": "https://n.news.naver.com/mnews/article/003/0013694659?sid=100",
-            "created_at": "2026-01-12T17:49:17.622000",
-            "description": "국회 재정경제기획위원회 야당 간사인 박수영 국민의힘 의원은 이날 오전 국회에서 열린 원내대책회의에서... 최보윤 수석대변인은 논평에서 \"염치가 있다면 국민에 대한 최소한의 책임은 사과와 자진 사퇴\"라며 \"그렇지... ",
-            "originallink": "https://www.newsis.com/view/NISX20260106_0003466643",
-            "press": "뉴시스",
-            "pubDate": "2026-01-06T10:56:00",
-            "related_members": [
-                "FU87526G",
-                "UOS16250",
-                "WJG74792"
-            ],
-            "title": "국힘 \"이혜훈, 자녀 증여세 '엄마찬스' 의혹 해명해야…거취 결단하라\""
-        },
-        {
-            "_id": "6964b544631fd1743499604c",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102012?sid=100",
-            "created_at": "2026-01-12T17:48:02.031000",
-            "description": "국민의힘 권영세·박수영·박대출·유상범 의원은 이날 국회 소통관에서 기자회견을 열고 \"이 후보자의 재산 형성 과정부터 집중 검증 대상\"이라며 \"자진사퇴나 지명 철회가 없다면 인사청문회를 이틀 동안... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6451822?utm_source=naver&utm_medium=article&utm_campaign=20260105090440",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-05T21:05:00",
-            "related_members": [
-                "FU87526G",
-                "LG63087O",
-                "MU69217P",
-                "W4X85128"
-            ],
-            "title": "이혜훈 재산, 6년 만에 113억 증가…총 175억"
         }
     ],
     "recent_videos": [
@@ -651,7 +682,7 @@
             "url": "https://www.youtube.com/watch?v=AeuDARK9ylE",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-18T13:13:45.387000",
+            "collected_at": "2026-01-21T08:45:04.723000",
             "duration": 909.0,
             "title": "뉴스N | [파워인터뷰] 박수영 국민의힘 의원 - 2022년 9월 20일",
             "upload_date": null
@@ -671,7 +702,7 @@
             "url": "https://www.youtube.com/watch?v=fTLljNZS_zo",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-18T13:13:45.387000",
+            "collected_at": "2026-01-21T08:45:04.080000",
             "duration": 244.0,
             "title": "\"박수영 의원 부럽습니다\"...25만 원 쿨하게 거부한 박수영에 돌직구",
             "upload_date": null
@@ -691,7 +722,7 @@
             "url": "https://www.youtube.com/watch?v=9cBCF9lk-44",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-18T13:13:45.387000",
+            "collected_at": "2026-01-21T08:45:04.080000",
             "duration": 152.0,
             "title": "박수영은 농성 선배? 나경원 \"책상, 텐트 다 박수영 것 빌려\" [현장영상] / 채널A",
             "upload_date": null
@@ -721,7 +752,7 @@
             "url": "https://www.youtube.com/watch?v=XwnpQ4tLyv8",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-18T13:13:46.494000",
+            "collected_at": "2026-01-21T08:45:04.723000",
             "duration": 198.0,
             "title": "[오늘 이 뉴스] \"박수영·장동혁도 항소 포기\".. '또 내로남불' 지적하더니 (2025.11.12/MBC뉴스)",
             "upload_date": null
@@ -761,7 +792,7 @@
             "url": "https://www.youtube.com/watch?v=VA74hWG0u9g",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-18T13:13:46.494000",
+            "collected_at": "2026-01-21T08:45:04.080000",
             "duration": 367.0,
             "title": "[칭찬마이크] 박수영 국민의힘 의원 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -791,7 +822,7 @@
             "url": "https://www.youtube.com/watch?v=1Nk4qyF3bRo",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-15T18:17:30.176000",
+            "collected_at": "2026-01-21T08:45:04.080000",
             "duration": 627.0,
             "title": "[이슈] \"부산이 원하는 건 25만 원보다…\" 박수영 의원 발언 논란 후폭풍/2025년 7월 7일(월)/KBS",
             "upload_date": null
@@ -801,7 +832,7 @@
             "url": "https://www.youtube.com/watch?v=UC7rFvX5FGOQymM3Z66nqMMg",
             "HG_NM": "박수영",
             "MONA_CD": "FU87526G",
-            "collected_at": "2026-01-18T13:13:45.387000",
+            "collected_at": "2026-01-21T08:45:04.080000",
             "duration": null,
             "title": "박수영의 우아한TV",
             "upload_date": null
@@ -837,5 +868,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:20.759540"
+    "exported_at": "2026-01-21T10:09:17.825665"
 }

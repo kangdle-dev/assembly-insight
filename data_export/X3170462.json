@@ -54,12 +54,12 @@
             "조사",
             "시장",
             "중구",
+            "이혜훈",
             "선거",
             "여론",
             "컨설팅",
             "발언",
             "토론회",
-            "이혜훈",
             "회관",
             "현주소"
         ],
@@ -70,11 +70,11 @@
             },
             {
                 "text": "국민",
-                "value": 32
+                "value": 34
             },
             {
                 "text": "대표",
-                "value": 15
+                "value": 17
             },
             {
                 "text": "울산",
@@ -91,6 +91,10 @@
             {
                 "text": "중구",
                 "value": 11
+            },
+            {
+                "text": "이혜훈",
+                "value": 10
             },
             {
                 "text": "선거",
@@ -113,10 +117,6 @@
                 "value": 9
             },
             {
-                "text": "이혜훈",
-                "value": 9
-            },
-            {
                 "text": "회관",
                 "value": 8
             },
@@ -125,29 +125,68 @@
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:20.130980",
+        "last_analyzed_at": "2026-01-21T10:09:17.222212",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 1,
                 0,
-                1,
-                1,
                 0,
                 0,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122c297082fcc2b34c06",
+            "link": "https://n.news.naver.com/mnews/article/056/0012108706?sid=100",
+            "created_at": "2026-01-21T08:39:22.332000",
+            "description": "그 이후에 김경 시의원이 민주당 원내대표를 하려고 하니까 이례적으로 국회의원 신분으로 여러 사람들한테... ◎김용준: 지금 개혁신당의 천하람 원내대표도 조금 전에 글을 올렸던데, 이 시험 답안에 빗대서 이 후보자의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463910&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-20T16:00:00",
+            "related_members": [
+                "MNZ4401T",
+                "KFM1081G",
+                "MLH1404S",
+                "8Q88373R",
+                "X3170462",
+                "6EN68926",
+                "2385336L",
+                "YGB8604T"
+            ],
+            "title": "[사사건건] 장동혁 단식 6일째…국민의힘 생각하는 ‘출구’는?"
+        },
+        {
+            "_id": "6970122c297082fcc2b34c08",
+            "link": "https://n.news.naver.com/mnews/article/421/0008724100?sid=100",
+            "created_at": "2026-01-21T08:39:22.332000",
+            "description": "전 국회의원 \"이혜훈 자료만 달라는 야당 청문위원 나태…발품 팔아야\" \"내가 공직기강비서관이라면 큰일... ▶조응천 : 안 갖다주니 천하람 의원 외에는 뭐 별로 그런 맞습니다. 노력을 하는 흔적이 잘 안 보이는. ▷이호승... ",
+            "originallink": "https://www.news1.kr/politics/president/6044876",
+            "press": "뉴스1",
+            "pubDate": "2026-01-20T14:23:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R",
+                "MLH1404S",
+                "SLW27496",
+                "X3170462",
+                "5KV82250",
+                "YGB8604T"
+            ],
+            "title": "[인터뷰 전문] 조응천 \"한동훈에 대한 국힘 내부의 증오 광범위…제명할..."
+        },
         {
             "_id": "6968ad9f297082fcc2b18d4f",
             "link": "https://n.news.naver.com/mnews/article/023/0003953102?sid=100",
@@ -256,7 +295,7 @@
             "_id": "6964b543631fd17434996015",
             "link": "https://n.news.naver.com/mnews/article/056/0012099997?sid=100",
             "created_at": "2026-01-12T17:48:00.300000",
-            "description": "대안과미래는 오늘 오전 국회 의원회관에서 여론조사 전문가를 초청해 ‘지금 국민의힘은 어디에 있나’를... 김성원·조은희·엄태영·서범수·김재섭·고동진·박정하·진종오·우재준·한지아 의원뿐 아니라 6선의 조배숙... ",
+            "description": "대안과미래는 오늘 오전 국회 의원회관에서 여론조사 전문가를 초청해 ‘지금 국민의힘은 어디에 있나’를... 간담회에는 12·3 비상계엄 1년 당시 사과문에 이름을 올린 김성원·조은희·엄태영·서범수·김재섭·고동진... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452379&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-07T10:25:00",
@@ -282,17 +321,17 @@
             "title": "국힘 초재선모임 “민심의 명령 고민해야…당 자기객관화 필요”"
         },
         {
-            "_id": "6964b55c631fd17434996220",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696489?sid=100",
+            "_id": "6964b55c631fd17434996222",
+            "link": "https://n.news.naver.com/mnews/article/003/0013696484?sid=100",
             "created_at": "2026-01-12T17:48:25.965000",
             "description": "박성민 정치컨설팅 민 대표가 7일 서울 여의도 국회 의원회관에서 열린 '지금 국민의힘은 어디에 있나? 여론조사를 통해 알아보는 국민의힘 현주소와 나아갈 방향' 토론회에서 발언하고 있다. 2026.01.07.... ",
-            "originallink": "https://www.newsis.com/view/NISI20260107_0021118154",
+            "originallink": "https://www.newsis.com/view/NISI20260107_0021118157",
             "press": "뉴시스",
             "pubDate": "2026-01-07T08:37:00",
             "related_members": [
                 "X3170462"
             ],
-            "title": "발언하는 박성민 정치컨설팅 민 대표"
+            "title": "'지금 국민의힘은 어디에 있나?'"
         },
         {
             "_id": "6964b55c631fd17434996221",
@@ -308,17 +347,17 @@
             "title": "'지금 국민의힘은 어디에 있나?'"
         },
         {
-            "_id": "6964b55c631fd17434996222",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696484?sid=100",
+            "_id": "6964b55c631fd17434996220",
+            "link": "https://n.news.naver.com/mnews/article/003/0013696489?sid=100",
             "created_at": "2026-01-12T17:48:25.965000",
             "description": "박성민 정치컨설팅 민 대표가 7일 서울 여의도 국회 의원회관에서 열린 '지금 국민의힘은 어디에 있나? 여론조사를 통해 알아보는 국민의힘 현주소와 나아갈 방향' 토론회에서 발언하고 있다. 2026.01.07.... ",
-            "originallink": "https://www.newsis.com/view/NISI20260107_0021118157",
+            "originallink": "https://www.newsis.com/view/NISI20260107_0021118154",
             "press": "뉴시스",
             "pubDate": "2026-01-07T08:37:00",
             "related_members": [
                 "X3170462"
             ],
-            "title": "'지금 국민의힘은 어디에 있나?'"
+            "title": "발언하는 박성민 정치컨설팅 민 대표"
         },
         {
             "_id": "6964b55c631fd1743499621f",
@@ -472,7 +511,7 @@
             "url": "https://www.youtube.com/watch?v=-z8tjZGkOAE",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 592.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 박성민 의원(국민의힘)",
             "upload_date": null
@@ -482,7 +521,7 @@
             "url": "https://www.youtube.com/watch?v=leJn-j9i6fk",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 1778.0,
             "title": "[뉴스포커스] 박성민 국회의원(국민의힘 전략기획부총장)",
             "upload_date": null
@@ -492,7 +531,7 @@
             "url": "https://www.youtube.com/watch?v=u5W3th-rOik",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 297.0,
             "title": "큰 일꾼 박성민 울산 중구 국회의원 출정식",
             "upload_date": null
@@ -502,7 +541,7 @@
             "url": "https://www.youtube.com/watch?v=U43i2jdxY7k",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 91.0,
             "title": "D-17 박성민 울산 중구 국회의원 후보 길거리인사(구역전시장)",
             "upload_date": null
@@ -512,7 +551,7 @@
             "url": "https://www.youtube.com/watch?v=9Kgp3DYTuEo",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 112.0,
             "title": "[단독]‘친윤 핵심’ 박성민, 경선 간다 | 뉴스A",
             "upload_date": null
@@ -522,7 +561,7 @@
             "url": "https://www.youtube.com/watch?v=1TsUvxqoEf0",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 92.0,
             "title": "친윤 박성민 \"대통령 밤새도록 내게 전화\" 발언 논란…與 친윤계 잇단 구설",
             "upload_date": null
@@ -582,7 +621,7 @@
             "url": "https://www.youtube.com/watch?v=Flq3hexFRCY",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:35.661000",
+            "collected_at": "2026-01-21T08:44:54.828000",
             "duration": 4337.0,
             "title": "[일타 박성민] 전당대회 판세 읽기? 한동훈, 두 가지를 실수했다?",
             "upload_date": null
@@ -592,7 +631,7 @@
             "url": "https://www.youtube.com/watch?v=5EbSZjqHh9U",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:34.522000",
+            "collected_at": "2026-01-21T08:44:53.819000",
             "duration": 60.0,
             "title": "체코 원전도 이재명 탓! 국힘 박성민 의원",
             "upload_date": null
@@ -622,11 +661,11 @@
             "url": "https://www.youtube.com/watch?v=xcD9fUlmUXA",
             "HG_NM": "박성민",
             "MONA_CD": "X3170462",
-            "collected_at": "2026-01-18T13:13:35.661000",
+            "collected_at": "2026-01-21T08:44:54.828000",
             "duration": 2637.0,
             "title": "체포방해 5년 선고, 가벼운 처벌 아냐 (박성민, 송영훈, 최병천)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:20.131087"
+    "exported_at": "2026-01-21T10:09:17.223213"
 }

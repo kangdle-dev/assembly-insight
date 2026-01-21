@@ -45,30 +45,38 @@
             "김종",
             "경찰",
             "경남",
-            "국민",
             "인터폴",
             "총재",
+            "국민",
             "출신",
+            "한국인",
             "시장",
             "제명",
             "회장",
             "박완수",
             "청장",
-            "한국인",
             "최초",
-            "지금"
+            "경기"
         ],
         "keyword_frequency": [
             {
                 "text": "김종",
-                "value": 31
+                "value": 33
             },
             {
                 "text": "경찰",
-                "value": 14
+                "value": 16
             },
             {
                 "text": "경남",
+                "value": 12
+            },
+            {
+                "text": "인터폴",
+                "value": 12
+            },
+            {
+                "text": "총재",
                 "value": 12
             },
             {
@@ -76,15 +84,11 @@
                 "value": 10
             },
             {
-                "text": "인터폴",
-                "value": 10
-            },
-            {
-                "text": "총재",
-                "value": 10
-            },
-            {
                 "text": "출신",
+                "value": 8
+            },
+            {
+                "text": "한국인",
                 "value": 8
             },
             {
@@ -108,41 +112,54 @@
                 "value": 6
             },
             {
-                "text": "한국인",
-                "value": 6
-            },
-            {
                 "text": "최초",
                 "value": 6
             },
             {
-                "text": "지금",
-                "value": 5
+                "text": "경기",
+                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:15.499074",
+        "last_analyzed_at": "2026-01-21T10:09:12.840577",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                0,
-                0,
-                0,
                 3,
                 0,
+                0,
+                0,
+                1,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970123c297082fcc2b34c8d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106433?sid=100",
+            "created_at": "2026-01-21T08:39:38.911000",
+            "description": "특정된 전재수 전 장관이 단식 투쟁을 하고 있는 야당 대표를 향해서 오히려 막말을 퍼붓는 이런 상황, 바로... ◆ 김재원&gt; 그리고 국회 기재위원장이 우리 당 소속의 국회의원이고 상임위원장이 청문회를 진행하지 않으면... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458142?utm_source=naver&utm_medium=article&utm_campaign=20260119100928",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T10:10:00",
+            "related_members": [
+                "DMP1439I",
+                "N378078V",
+                "MSY7784L",
+                "4X525582",
+                "9YO73104"
+            ],
+            "title": "김재원 \"한동훈 사과 충분치 않아… 화합 위한 추가 조치 있어야\""
+        },
         {
             "_id": "696902c2297082fcc2b1927d",
             "link": "https://n.news.naver.com/mnews/article/022/0004097951?sid=100",
@@ -261,7 +278,7 @@
             "url": "https://www.youtube.com/watch?v=9za3TWNFIgg",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-01-18T13:12:04.414000",
+            "collected_at": "2026-01-21T08:43:38.242000",
             "duration": 215.0,
             "title": "김종양 \"李 정부 요직, 반미인사 너무 많다\" [티조Clip]",
             "upload_date": null
@@ -341,7 +358,7 @@
             "url": "https://www.youtube.com/watch?v=T7bsItoSdDk",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-01-18T13:12:05.486000",
+            "collected_at": "2026-01-21T08:43:38.980000",
             "duration": 99.0,
             "title": "김종양 전 경기청장, 인터폴 총재 선출… 한국인 최초 / KBS뉴스(News)",
             "upload_date": null
@@ -351,7 +368,7 @@
             "url": "https://www.youtube.com/watch?v=FqrJP5aPCD8",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-01-14T10:16:47.662000",
+            "collected_at": "2026-01-21T08:43:38.980000",
             "duration": 101.0,
             "title": "김종양 전 경기청장, 인터폴 총재 선출… 한국인 최초 / KBS뉴스(News)",
             "upload_date": null
@@ -371,7 +388,7 @@
             "url": "https://www.youtube.com/watch?v=aoLiUiwBWu8",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-01-18T13:12:04.414000",
+            "collected_at": "2026-01-21T08:43:38.242000",
             "duration": 60.0,
             "title": "\"경찰 출신 맞나?\"김종양 국민의힘 의원의 황당 의혹 제기에 야당 의원들 맹폭",
             "upload_date": null
@@ -395,7 +412,27 @@
             "duration": 215.0,
             "title": "\"겸손한 삶이 성공할 확률이 큽니다\" - 김종양 인터폴 총재 @MBNYForum",
             "upload_date": null
+        },
+        {
+            "_id": "6970132c297082fcc2b34dee",
+            "url": "https://www.youtube.com/watch?v=MXCFmQJXbro",
+            "HG_NM": "김종양",
+            "MONA_CD": "N378078V",
+            "collected_at": "2026-01-21T08:43:38.242000",
+            "duration": 60.0,
+            "title": "김종양의원 \"경찰이 무슨 잘못?\" 역시 XX개는 몽둥이가 약! #김종양 #shorts #민트잼",
+            "upload_date": null
+        },
+        {
+            "_id": "6970132c297082fcc2b34def",
+            "url": "https://www.youtube.com/watch?v=EDMWdhAi-6s",
+            "HG_NM": "김종양",
+            "MONA_CD": "N378078V",
+            "collected_at": "2026-01-21T08:43:38.980000",
+            "duration": 113.0,
+            "title": "김종양 전 경기경찰청장, 한국인 첫 인터폴총재 선출 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:15.499149"
+    "exported_at": "2026-01-21T10:09:12.840577"
 }

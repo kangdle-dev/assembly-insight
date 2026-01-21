@@ -50,18 +50,18 @@
             "장동",
             "재판부",
             "헌정사",
+            "이혜훈",
+            "청문회",
             "국민",
             "현장",
             "대표",
             "계엄",
-            "통과",
-            "필버",
-            "역대"
+            "단독"
         ],
         "keyword_frequency": [
             {
                 "text": "박수",
-                "value": 35
+                "value": 37
             },
             {
                 "text": "버스",
@@ -92,6 +92,14 @@
                 "value": 9
             },
             {
+                "text": "이혜훈",
+                "value": 8
+            },
+            {
+                "text": "청문회",
+                "value": 8
+            },
+            {
                 "text": "국민",
                 "value": 8
             },
@@ -108,41 +116,88 @@
                 "value": 7
             },
             {
-                "text": "통과",
-                "value": 6
-            },
-            {
-                "text": "필버",
-                "value": 6
-            },
-            {
-                "text": "역대",
+                "text": "단독",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:20.568483",
+        "last_analyzed_at": "2026-01-21T10:09:17.659102",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
                 0,
+                0,
+                0,
+                2,
                 1,
-                0,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122e297082fcc2b34c1e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106808?sid=100",
+            "created_at": "2026-01-21T08:39:24.994000",
+            "description": "지난주에 천하람 의원이 여기 금요일 나와서 내가 그거 다 알고 있다 얘기했잖아요. ◇ 박재홍&gt; 방송... 그런데 이렇게 할 거면 국회의원 세비 반납해야 됩니다. ◆ 노영희&gt; 공부를 안 한다는 얘기가 있어요. ◆ 김성열... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458685?utm_source=naver&utm_medium=article&utm_campaign=20260120073044",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-20T07:31:00",
+            "related_members": [
+                "LG63087O",
+                "Y0X4618N",
+                "FU87526G",
+                "6EN68926",
+                "YOG1280B",
+                "QWL7778X",
+                "EH27538E",
+                "9YO73104",
+                "UHB5553T",
+                "YGB8604T"
+            ],
+            "title": "김성열 \"국힘, 이혜훈 부적격 보일 기회 왜 날리나?\"[한판승부]"
+        },
+        {
+            "_id": "69701238297082fcc2b34c6b",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302616?sid=100",
+            "created_at": "2026-01-21T08:39:34.439000",
+            "description": "자당의 전직 국회의원, 지역위원장을 공격하는 것이 정치적으로 자신들에게. . . 위원장님, 잠시만요. 김병기... [위원장] 다음은 정태호 간사님 말씀해 주십시오. 정태호 간사님 말씀해 주시기 바랍니다. 정태호 간사님과... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601191034148843",
+            "press": "YTN",
+            "pubDate": "2026-01-19T10:34:00",
+            "related_members": [
+                "5765663F",
+                "8Q88373R",
+                "Y0X4618N",
+                "S824682L",
+                "UHB5553T"
+            ],
+            "title": "[뉴스퀘어10] 국힘 \"이혜훈 청문회 거부\"...민주 단독 개최 나설까"
+        },
+        {
+            "_id": "69701238297082fcc2b34c6c",
+            "link": "https://n.news.naver.com/mnews/article/052/0002302609?sid=100",
+            "created_at": "2026-01-21T08:39:34.439000",
+            "description": "우선 먼저 위원장으로서 지난번에 그렇게 얘기했던 부분은 어떻게 검증하겠다는 국회의원을 고발하겠다고... [위원장] 다음은 정태호 간사님 말씀해 주십시오. 정태호 간사님 말씀해 주시기 바랍니다. 정태호 간사님과... ",
+            "originallink": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202601191008423249",
+            "press": "YTN",
+            "pubDate": "2026-01-19T10:08:00",
+            "related_members": [
+                "5765663F",
+                "Y0X4618N",
+                "S824682L",
+                "UHB5553T"
+            ],
+            "title": "이혜훈 후보자 인사청문회…'반쪽 청문회' 가능성"
+        },
         {
             "_id": "6968ada0297082fcc2b18d51",
             "link": "https://n.news.naver.com/mnews/article/437/0000473516?sid=102",
@@ -345,7 +400,7 @@
             "url": "https://www.youtube.com/watch?v=oOFA5xeCkZ4",
             "HG_NM": "박수민",
             "MONA_CD": "Y0X4618N",
-            "collected_at": "2026-01-18T13:13:43.746000",
+            "collected_at": "2026-01-21T08:45:01.584000",
             "duration": 175.0,
             "title": "박수민, \"동의할 수 없습니다\"... 강훈식 설득력에 빠져들더니 경청(?)",
             "upload_date": null
@@ -355,7 +410,7 @@
             "url": "https://www.youtube.com/watch?v=Gn57eOxNBOU",
             "HG_NM": "박수민",
             "MONA_CD": "Y0X4618N",
-            "collected_at": "2026-01-18T13:13:43.746000",
+            "collected_at": "2026-01-21T08:45:01.584000",
             "duration": 364.0,
             "title": "[현장쏙] '필리버스터 신기록' 세운 박수민, 갑자기 울었다…왜? / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -395,7 +450,7 @@
             "url": "https://www.youtube.com/watch?v=UCQVD8R0Xf2b0SS7moRM15eA",
             "HG_NM": "박수민",
             "MONA_CD": "Y0X4618N",
-            "collected_at": "2026-01-18T13:13:42.789000",
+            "collected_at": "2026-01-21T08:45:01.584000",
             "duration": null,
             "title": "박수민",
             "upload_date": null
@@ -415,7 +470,7 @@
             "url": "https://www.youtube.com/watch?v=uwzRqL3vdes",
             "HG_NM": "박수민",
             "MONA_CD": "Y0X4618N",
-            "collected_at": "2026-01-18T13:13:42.789000",
+            "collected_at": "2026-01-21T08:45:01.584000",
             "duration": 330.0,
             "title": "박수민, 행안위 장관에 검찰청 폐지 물었다 [현장영상]/ 채널A",
             "upload_date": null
@@ -455,11 +510,21 @@
             "url": "https://www.youtube.com/watch?v=2-QXPDhqbNk",
             "HG_NM": "박수민",
             "MONA_CD": "Y0X4618N",
-            "collected_at": "2026-01-15T18:17:28.529000",
+            "collected_at": "2026-01-21T08:45:02.420000",
             "duration": 173.0,
             "title": "박정호교수와 박수민 국회의원의 토크콘서트 '인구와 기술의 변화가 가져올 미래' 3",
             "upload_date": null
+        },
+        {
+            "_id": "69701380297082fcc2b34e0f",
+            "url": "https://www.youtube.com/watch?v=MGDL6iOM-4E",
+            "HG_NM": "박수민",
+            "MONA_CD": "Y0X4618N",
+            "collected_at": "2026-01-21T08:45:01.584000",
+            "duration": 77.0,
+            "title": "박수민, 참관 온 초등생들에게  \"부모님·선생님 말씀은 반만 들어라\"",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:20.568561"
+    "exported_at": "2026-01-21T10:09:17.659102"
 }

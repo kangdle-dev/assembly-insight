@@ -42,37 +42,65 @@
     },
     "analysis": {
         "keywords": [
-            "장관",
-            "국민",
-            "영도구",
-            "부의장",
-            "재선",
             "부산",
+            "장관",
             "지방",
-            "선거",
+            "부의장",
             "인사",
-            "중구",
-            "초선",
+            "국민",
+            "선거",
             "기초",
             "단체장",
-            "해운",
-            "국가"
+            "신년",
+            "영도구",
+            "재선",
+            "전국",
+            "영남",
+            "자리"
         ],
         "keyword_frequency": [
+            {
+                "text": "부산",
+                "value": 13
+            },
             {
                 "text": "장관",
                 "value": 10
             },
             {
-                "text": "국민",
-                "value": 8
-            },
-            {
-                "text": "영도구",
-                "value": 6
+                "text": "지방",
+                "value": 9
             },
             {
                 "text": "부의장",
+                "value": 9
+            },
+            {
+                "text": "인사",
+                "value": 9
+            },
+            {
+                "text": "국민",
+                "value": 9
+            },
+            {
+                "text": "선거",
+                "value": 7
+            },
+            {
+                "text": "기초",
+                "value": 6
+            },
+            {
+                "text": "단체장",
+                "value": 6
+            },
+            {
+                "text": "신년",
+                "value": 6
+            },
+            {
+                "text": "영도구",
                 "value": 6
             },
             {
@@ -80,69 +108,116 @@
                 "value": 6
             },
             {
-                "text": "부산",
-                "value": 5
-            },
-            {
-                "text": "지방",
-                "value": 5
-            },
-            {
-                "text": "선거",
-                "value": 5
-            },
-            {
-                "text": "인사",
-                "value": 5
-            },
-            {
-                "text": "중구",
+                "text": "전국",
                 "value": 4
             },
             {
-                "text": "초선",
+                "text": "영남",
                 "value": 4
             },
             {
-                "text": "기초",
-                "value": 4
-            },
-            {
-                "text": "단체장",
-                "value": 4
-            },
-            {
-                "text": "해운",
-                "value": 4
-            },
-            {
-                "text": "국가",
+                "text": "자리",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:42.608041",
+        "last_analyzed_at": "2026-01-21T10:09:39.429341",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
-                0,
-                1
+                2,
+                2,
+                1,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701230297082fcc2b34c2b",
+            "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "created_at": "2026-01-21T08:39:26.798000",
+            "description": "민주노동당 국회의원/이오상 인천시의회 부의장, (국) 박종효 남동구청장/김종필 전 인천시설관리공단 이사장/고주룡 전 인천시 대변인/한민수 인천시의원, (혁) 장석현 전 남동구청장 부평구청장 (민) 차준택 부평구청장... ",
+            "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T15:30:00",
+            "related_members": [
+                "HE08888N",
+                "XSP20229",
+                "8O34202I",
+                "9LD2641Q",
+                "0R68099X",
+                "6K79158C",
+                "9YO73104",
+                "ME83002L",
+                "8JG4358H"
+            ],
+            "title": "6·3 지방선거 | 전국 227곳 기초단체장 출마 예상자 | 행정구역 개편으..."
+        },
+        {
+            "_id": "69701232297082fcc2b34c32",
+            "link": "https://n.news.naver.com/mnews/article/421/0008722283?sid=101",
+            "created_at": "2026-01-21T08:39:28.552000",
+            "description": "국회 및 정당에서는 △김도읍 국회의원 △백종헌 국회의원 △김미애 국회의원 △조승환 국회의원 △주진우 국회의원 △변성완 더불어민주당 부산광역시당 위원장 △이종환 부산광역시의회 부의장 등이 참석했다. 지자체... ",
+            "originallink": "https://www.news1.kr/industry/sb-founded/6042941",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T16:00:00",
+            "related_members": [
+                "CAA7713A",
+                "LH97552Q",
+                "GJK57930",
+                "3BC6890E",
+                "ME83002L"
+            ],
+            "title": "영남권 中企 한 자리에…\"경제 대도약의 해 만들자\""
+        },
+        {
+            "_id": "69701232297082fcc2b34c33",
+            "link": "https://n.news.naver.com/mnews/article/016/0002587851?sid=101",
+            "created_at": "2026-01-21T08:39:28.552000",
+            "description": "국회 및 정당에서는 김도읍 국회의원, 백종헌 국회의원, 김미애 국회의원, 조승환 국회의원, 주진우 국회의원, 변성완 더불어민주당 부산광역시당 위원장, 이종환 부산광역시의회 부의장 등이 참석했다. 지자체 및... ",
+            "originallink": "https://biz.heraldcorp.com/article/10657879?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-19T16:00:00",
+            "related_members": [
+                "CAA7713A",
+                "LH97552Q",
+                "GJK57930",
+                "3BC6890E",
+                "ME83002L"
+            ],
+            "title": "중기중앙회, ‘2026 영남권 중기인 신년인사회’… “지방주도 성장 시..."
+        },
+        {
+            "_id": "69701231297082fcc2b34c31",
+            "link": "https://n.news.naver.com/mnews/article/421/0008720364?sid=102",
+            "created_at": "2026-01-21T08:39:28.255000",
+            "description": "첫 번째 강연자로 나선 조승환 국회의원(국민의힘 여의도연구원장)은 '해양에서 미래도시로'를 주제로 부산의 지리적 이점을 활용한 도시 성장 전략을 발표했다. 이어 박형준 부산시장은 '글로벌 해양 허브 도시 부산... ",
+            "originallink": "https://www.news1.kr/local/busan-gyeongnam/6042598",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T14:48:00",
+            "related_members": [
+                "5KV82250",
+                "DAY6557K",
+                "ANS8383S",
+                "CAA7713A",
+                "8XE7026P",
+                "FU87526G",
+                "HRG9655C",
+                "ME83002L"
+            ],
+            "title": "부산혁신포럼, 2026 신년인사회 개최…\"부산의 힘으로 다함께 미래로\""
+        },
         {
             "_id": "696c5bfb297082fcc2b19ba6",
             "link": "https://n.news.naver.com/mnews/article/053/0000055116?sid=100",
@@ -298,7 +373,7 @@
             "url": "https://www.youtube.com/watch?v=UCrkkpP9BlSvcODlZKKBayTQ",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:45.391000",
+            "collected_at": "2026-01-21T08:51:09.093000",
             "duration": null,
             "title": "조승환TV",
             "upload_date": null
@@ -308,7 +383,7 @@
             "url": "https://www.youtube.com/watch?v=3WoqDErMbgk",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:46.365000",
+            "collected_at": "2026-01-21T08:51:09.748000",
             "duration": 565.0,
             "title": "윤미향 의원, 조승환장관과 설전 \"뭘 검증하셨는데요?\"",
             "upload_date": null
@@ -318,7 +393,7 @@
             "url": "https://www.youtube.com/watch?v=SS9q4d9Y5JE",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:45.392000",
+            "collected_at": "2026-01-21T08:51:09.093000",
             "duration": 84.0,
             "title": "국민의힘 조승환 의원 급발진… 주호영 부의장 “잠깐만요. 차분~하게!”",
             "upload_date": null
@@ -328,7 +403,7 @@
             "url": "https://www.youtube.com/watch?v=QheCtBrxTt8",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:45.392000",
+            "collected_at": "2026-01-21T08:51:09.093000",
             "duration": 186.0,
             "title": "[2025 국감] \"2050년엔 사과·포도 재배지 사라진다”…조승환 의원 “농업 대전환 시급” #국회 #국회의원 #농림축산식품해양수산위원회 #국감 #국정감사 #농촌진흥청 #과일",
             "upload_date": null
@@ -338,7 +413,7 @@
             "url": "https://www.youtube.com/watch?v=IvP8BwJWPtM",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:45.391000",
+            "collected_at": "2026-01-21T08:51:09.093000",
             "duration": 1070.0,
             "title": "내 인생 최고의 목표는 대한민국! 힘 있는 정책 전문가 조승환 국민의힘 의원 | 인터뷰 릴레이 칭찬 | 국회방송",
             "upload_date": null
@@ -348,7 +423,7 @@
             "url": "https://www.youtube.com/watch?v=fQf-D6HrSPI",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:45.391000",
+            "collected_at": "2026-01-21T08:51:09.093000",
             "duration": 67.0,
             "title": "조승환, 중구 영도구를 살릴 22대총선 국회의원 후보 조승환",
             "upload_date": null
@@ -358,7 +433,7 @@
             "url": "https://www.youtube.com/watch?v=gtmvtdvx-mg",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:46.365000",
+            "collected_at": "2026-01-21T08:51:09.748000",
             "duration": 157.0,
             "title": "조승환 장관 \"유통 점검으로 불안감 불식\" (2023.07.12/뉴스데스크/제주MBC)",
             "upload_date": null
@@ -368,7 +443,7 @@
             "url": "https://www.youtube.com/watch?v=PV0THRi3lTo",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:45.392000",
+            "collected_at": "2026-01-21T08:51:09.093000",
             "duration": 101.0,
             "title": "조승환 의원 공수처장에게 \"인간적인 회의를 먼저 느낍니다\"",
             "upload_date": null
@@ -398,11 +473,11 @@
             "url": "https://www.youtube.com/watch?v=3lFqq48sk78",
             "HG_NM": "조승환",
             "MONA_CD": "ME83002L",
-            "collected_at": "2026-01-18T13:20:46.365000",
+            "collected_at": "2026-01-21T08:51:09.748000",
             "duration": 33556.0,
             "title": "[국회 인사청문회 조승환 해수부 장관 후보자] 5월 4일 (수) 풀영상 / 디지털Only",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:42.608110"
+    "exported_at": "2026-01-21T10:09:39.429341"
 }

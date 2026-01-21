@@ -61,17 +61,17 @@
             "다카",
             "이치",
             "더불어민주당",
-            "협력",
-            "국민",
             "한일의원연맹",
+            "협력",
             "위원장",
+            "국민",
             "간사",
             "한일",
             "주호영",
             "부의장",
-            "배현진",
             "상임",
-            "민주당"
+            "국방",
+            "배현진"
         ],
         "keyword_frequency": [
             {
@@ -88,6 +88,10 @@
             },
             {
                 "text": "더불어민주당",
+                "value": 16
+            },
+            {
+                "text": "한일의원연맹",
                 "value": 15
             },
             {
@@ -95,20 +99,16 @@
                 "value": 14
             },
             {
-                "text": "국민",
-                "value": 14
-            },
-            {
-                "text": "한일의원연맹",
-                "value": 14
-            },
-            {
                 "text": "위원장",
                 "value": 14
             },
             {
-                "text": "간사",
+                "text": "국민",
                 "value": 13
+            },
+            {
+                "text": "간사",
+                "value": 12
             },
             {
                 "text": "한일",
@@ -123,28 +123,28 @@
                 "value": 9
             },
             {
-                "text": "배현진",
-                "value": 8
-            },
-            {
                 "text": "상임",
                 "value": 8
             },
             {
-                "text": "민주당",
+                "text": "국방",
                 "value": 8
+            },
+            {
+                "text": "배현진",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:18.939680",
+        "last_analyzed_at": "2026-01-21T10:09:16.069407",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
@@ -254,7 +254,7 @@
             "_id": "6964b55a631fd174349961ef",
             "link": "https://n.news.naver.com/mnews/article/016/0002583727?sid=100",
             "created_at": "2026-01-12T17:48:23.330000",
-            "description": "10일 한일의원연맹에 따르면 다카이치 총리는 전날 도쿄 총리 관저에서 한일의원연맹 및 국회... 의원, 경제과학 부위원장인 국민의힘 이성권 의원, 상임 간사 국민의힘 배현진 의원, 간사 민주당 이재강 의원 등이 참석했다.",
+            "description": "10일 한일의원연맹에 따르면 다카이치 총리는 전날 도쿄 총리 관저에서 한일의원연맹 및 국회... 면담에는 한일의원연맹 간사장인 더불어민주당 민홍철 의원, 경제과학 부위원장인 국민의힘 이성권 의원, 상임 간사... ",
             "originallink": "https://biz.heraldcorp.com/article/10652670?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-10T09:11:00",
@@ -392,13 +392,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6965959b887d07f7ba2fac71",
-            "url": "https://www.youtube.com/watch?v=00ThOf5ZeHM",
+            "_id": "6965959b887d07f7ba2fac70",
+            "url": "https://www.youtube.com/watch?v=ltUlT8c_9qg",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
             "collected_at": "2026-01-18T13:13:08.656000",
-            "duration": 624.0,
-            "title": "칭찬 96회, 민홍철 의원 (새정치민주연합)",
+            "duration": 1330.0,
+            "title": "민홍철 \"윤 구속, 문제 없을 것\"-\"윤-김용현 포고령 책임공방...각자도생\"-\"김건희 출금조치?...개인적으론 동의\"-\"특검, 오늘 반드시 통과\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69701362297082fcc2b34e06",
+            "url": "https://www.youtube.com/watch?v=nSsZ5kY_TZ8",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-01-21T08:44:33.161000",
+            "duration": 60.0,
+            "title": "회피만 하는 이진우 사령관에게 호통치는 민홍철 의원",
             "upload_date": null
         },
         {
@@ -456,7 +466,7 @@
             "url": "https://www.youtube.com/watch?v=9I2a2Fos4zQ",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-13T09:45:13.455000",
+            "collected_at": "2026-01-21T08:44:32.473000",
             "duration": 4179.0,
             "title": "[유창혁의 특별한 수담] #5점_접바둑 l 유창혁 九단 vs 민홍철 국회의원",
             "upload_date": null
@@ -472,23 +482,23 @@
             "upload_date": null
         },
         {
-            "_id": "6965959b887d07f7ba2fac70",
-            "url": "https://www.youtube.com/watch?v=ltUlT8c_9qg",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-18T13:13:08.656000",
-            "duration": 1330.0,
-            "title": "민홍철 \"윤 구속, 문제 없을 것\"-\"윤-김용현 포고령 책임공방...각자도생\"-\"김건희 출금조치?...개인적으론 동의\"-\"특검, 오늘 반드시 통과\"",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac70631fd1743497d671",
             "url": "https://www.youtube.com/watch?v=ZwLIm9tTqdQ",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-18T13:13:08.656000",
+            "collected_at": "2026-01-21T08:44:32.473000",
             "duration": 1904.0,
             "title": "\"이재명 정부가 스마트 강군으로 거듭나기 위한 방안은?\" 민홍철 더불어민주당 의원 | 대정부질문 (25.9.16.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959b887d07f7ba2fac71",
+            "url": "https://www.youtube.com/watch?v=00ThOf5ZeHM",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-01-18T13:13:08.656000",
+            "duration": 624.0,
+            "title": "칭찬 96회, 민홍철 의원 (새정치민주연합)",
             "upload_date": null
         },
         {
@@ -536,7 +546,7 @@
             "url": "https://www.youtube.com/watch?v=Eqb2vxjoprc",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-18T13:13:08.656000",
+            "collected_at": "2026-01-21T08:44:32.473000",
             "duration": 1023.0,
             "title": "[시사카페-후(WHO)톡] 국회의원 민홍철에게 듣는다! 새정치민주연합 민홍철 의원 27회. 2015.08.11,화",
             "upload_date": null
@@ -546,7 +556,7 @@
             "url": "https://www.youtube.com/watch?v=BOZWI4fArGk",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-15T18:16:57.767000",
+            "collected_at": "2026-01-21T08:44:32.473000",
             "duration": 136.0,
             "title": "민홍철 의원이 김윤덕 국토부 장관 후보자에게",
             "upload_date": null
@@ -556,11 +566,11 @@
             "url": "https://www.youtube.com/watch?v=t7C7MMyFL9Y",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-18T13:13:08.656000",
+            "collected_at": "2026-01-21T08:44:32.473000",
             "duration": 278.0,
             "title": "'민포럼' 창립총회에 민홍철 의원 \"경남도 변화를 강력히 요구\"",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:18.939768"
+    "exported_at": "2026-01-21T10:09:16.069729"
 }

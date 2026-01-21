@@ -48,41 +48,57 @@
     "analysis": {
         "keywords": [
             "부산",
+            "종헌",
+            "인사",
             "통일교",
+            "신년",
             "국민",
             "선거",
-            "종헌",
+            "김도읍",
+            "지방",
             "부산시",
             "지역",
-            "인사",
-            "지방",
-            "신년",
-            "김도읍",
-            "김대식",
-            "새해",
-            "국립공원",
-            "관리"
+            "위원장",
+            "참석",
+            "영남",
+            "도약"
         ],
         "keyword_frequency": [
             {
                 "text": "부산",
-                "value": 19
+                "value": 27
+            },
+            {
+                "text": "종헌",
+                "value": 9
+            },
+            {
+                "text": "인사",
+                "value": 9
             },
             {
                 "text": "통일교",
                 "value": 9
             },
             {
+                "text": "신년",
+                "value": 8
+            },
+            {
                 "text": "국민",
-                "value": 7
+                "value": 8
             },
             {
                 "text": "선거",
                 "value": 7
             },
             {
-                "text": "종헌",
-                "value": 7
+                "text": "김도읍",
+                "value": 6
+            },
+            {
+                "text": "지방",
+                "value": 6
             },
             {
                 "text": "부산시",
@@ -93,61 +109,99 @@
                 "value": 6
             },
             {
-                "text": "인사",
+                "text": "위원장",
                 "value": 5
             },
             {
-                "text": "지방",
+                "text": "참석",
+                "value": 5
+            },
+            {
+                "text": "영남",
                 "value": 4
             },
             {
-                "text": "신년",
-                "value": 4
-            },
-            {
-                "text": "김도읍",
-                "value": 4
-            },
-            {
-                "text": "김대식",
-                "value": 4
-            },
-            {
-                "text": "새해",
-                "value": 4
-            },
-            {
-                "text": "국립공원",
-                "value": 4
-            },
-            {
-                "text": "관리",
+                "text": "도약",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:24.013048",
+        "last_analyzed_at": "2026-01-21T10:09:21.127521",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
+                1,
+                2,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701232297082fcc2b34c32",
+            "link": "https://n.news.naver.com/mnews/article/421/0008722283?sid=101",
+            "created_at": "2026-01-21T08:39:28.552000",
+            "description": "국회 및 정당에서는 △김도읍 국회의원 △백종헌 국회의원 △김미애 국회의원 △조승환 국회의원 △주진우 국회의원 △변성완 더불어민주당 부산광역시당 위원장 △이종환 부산광역시의회 부의장 등이 참석했다. 지자체... ",
+            "originallink": "https://www.news1.kr/industry/sb-founded/6042941",
+            "press": "뉴스1",
+            "pubDate": "2026-01-19T16:00:00",
+            "related_members": [
+                "CAA7713A",
+                "LH97552Q",
+                "GJK57930",
+                "3BC6890E",
+                "ME83002L"
+            ],
+            "title": "영남권 中企 한 자리에…\"경제 대도약의 해 만들자\""
+        },
+        {
+            "_id": "69701232297082fcc2b34c33",
+            "link": "https://n.news.naver.com/mnews/article/016/0002587851?sid=101",
+            "created_at": "2026-01-21T08:39:28.552000",
+            "description": "국회 및 정당에서는 김도읍 국회의원, 백종헌 국회의원, 김미애 국회의원, 조승환 국회의원, 주진우 국회의원, 변성완 더불어민주당 부산광역시당 위원장, 이종환 부산광역시의회 부의장 등이 참석했다. 지자체 및... ",
+            "originallink": "https://biz.heraldcorp.com/article/10657879?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-19T16:00:00",
+            "related_members": [
+                "CAA7713A",
+                "LH97552Q",
+                "GJK57930",
+                "3BC6890E",
+                "ME83002L"
+            ],
+            "title": "중기중앙회, ‘2026 영남권 중기인 신년인사회’… “지방주도 성장 시..."
+        },
+        {
+            "_id": "69701231297082fcc2b34c31",
+            "link": "https://n.news.naver.com/mnews/article/421/0008720364?sid=102",
+            "created_at": "2026-01-21T08:39:28.255000",
+            "description": "첫 번째 강연자로 나선 조승환 국회의원(국민의힘 여의도연구원장)은 '해양에서 미래도시로'를 주제로 부산의 지리적 이점을 활용한 도시 성장 전략을 발표했다. 이어 박형준 부산시장은 '글로벌 해양 허브 도시 부산... ",
+            "originallink": "https://www.news1.kr/local/busan-gyeongnam/6042598",
+            "press": "뉴스1",
+            "pubDate": "2026-01-18T14:48:00",
+            "related_members": [
+                "5KV82250",
+                "DAY6557K",
+                "ANS8383S",
+                "CAA7713A",
+                "8XE7026P",
+                "FU87526G",
+                "HRG9655C",
+                "ME83002L"
+            ],
+            "title": "부산혁신포럼, 2026 신년인사회 개최…\"부산의 힘으로 다함께 미래로\""
+        },
         {
             "_id": "6964b548631fd1743499608c",
             "link": "https://n.news.naver.com/mnews/article/382/0001245651?sid=102",
@@ -283,7 +337,7 @@
             "url": "https://www.youtube.com/watch?v=G-kN3LeBNxA",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:51.123000",
+            "collected_at": "2026-01-21T08:45:59.523000",
             "duration": 192.0,
             "title": "[국회의원 성적표]③ 국회 발언량…김도읍 ‘우수’·백종헌 ‘미흡’ / KBS  2023.02.06.",
             "upload_date": null
@@ -293,7 +347,7 @@
             "url": "https://www.youtube.com/watch?v=LCCbEB2e5x0",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": 126.0,
             "title": "국회의원 백종헌 부산 금정구 지역보고서 (5.30~7.24 )",
             "upload_date": null
@@ -303,7 +357,7 @@
             "url": "https://www.youtube.com/watch?v=qkDFc3-xJJ8",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": 427.0,
             "title": "[백종헌 국회의원] 백종헌 의원 “노인일자리 사업, 중도포기자와 대기자 늘지만 참여 이력 관리는 0건” (241021)",
             "upload_date": null
@@ -313,7 +367,7 @@
             "url": "https://www.youtube.com/watch?v=UCU8RCbMQPk9AiipVWZeWLwA",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": null,
             "title": "백종헌Tv",
             "upload_date": null
@@ -323,7 +377,7 @@
             "url": "https://www.youtube.com/watch?v=0UC2fFCy9wc",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": 325.0,
             "title": "[백종헌 국회의원] 제400회 국회(정기회) 제07차 본회의 5분 발언",
             "upload_date": null
@@ -333,7 +387,7 @@
             "url": "https://www.youtube.com/watch?v=MDlEuFmHDrM",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": 162.0,
             "title": "[2025 국정감사 우수의원] 국회 보건복지위 백종헌 의원 #국회 #국회의원 #국정감사 #농림축산식품해양수산위원회 #보건복지위원회 #농림축산식품부 #보건복지부 #식약처 #우수상",
             "upload_date": null
@@ -343,7 +397,7 @@
             "url": "https://www.youtube.com/watch?v=ALUmM0ytfkM",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:51.123000",
+            "collected_at": "2026-01-21T08:45:59.523000",
             "duration": 146.0,
             "title": "[국회는 지금] 백종헌 국회의원 \"소아 필수 의료체계 강화해야\"",
             "upload_date": null
@@ -373,7 +427,7 @@
             "url": "https://www.youtube.com/watch?v=jHlL1e2xXYE",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:51.123000",
+            "collected_at": "2026-01-21T08:45:59.523000",
             "duration": 118.0,
             "title": "[KBS뉴스] 20.12 (백종헌의원 권덕철 장관후보자 인사청문회 질의) ‘친문의 선거중립’·‘백신’ 청문회…변창흠은 ‘불쑥 사과’ / KBS",
             "upload_date": null
@@ -383,7 +437,7 @@
             "url": "https://www.youtube.com/watch?v=ENmIfs494cw",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": 433.0,
             "title": "[백종헌 국회의원] 백종헌 의원 \"롯데마트, 임신기간 단축 근로 등 제도개선 약속\" (241007)",
             "upload_date": null
@@ -393,11 +447,11 @@
             "url": "https://www.youtube.com/watch?v=TAgc6JOllpk",
             "HG_NM": "백종헌",
             "MONA_CD": "CAA7713A",
-            "collected_at": "2026-01-18T13:14:50.043000",
+            "collected_at": "2026-01-21T08:45:58.852000",
             "duration": 3501.0,
             "title": "백종헌 국회의원과 함께하는 지역발전 정책토론회",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:24.013120"
+    "exported_at": "2026-01-21T10:09:21.127521"
 }

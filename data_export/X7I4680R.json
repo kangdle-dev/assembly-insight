@@ -65,18 +65,18 @@
             "특검",
             "김건",
             "선물",
-            "선거",
             "국민",
+            "선거",
             "대표",
             "가방",
             "기소",
             "법정",
             "제재",
             "울산",
+            "장동",
             "의혹",
             "부부",
-            "명품",
-            "속보"
+            "명품"
         ],
         "keyword_frequency": [
             {
@@ -92,16 +92,16 @@
                 "value": 22
             },
             {
+                "text": "국민",
+                "value": 21
+            },
+            {
                 "text": "선거",
                 "value": 21
             },
             {
-                "text": "국민",
-                "value": 18
-            },
-            {
                 "text": "대표",
-                "value": 17
+                "value": 19
             },
             {
                 "text": "가방",
@@ -124,6 +124,10 @@
                 "value": 12
             },
             {
+                "text": "장동",
+                "value": 11
+            },
+            {
                 "text": "의혹",
                 "value": 11
             },
@@ -134,35 +138,84 @@
             {
                 "text": "명품",
                 "value": 10
-            },
-            {
-                "text": "속보",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:08.015605",
+        "last_analyzed_at": "2026-01-21T10:09:06.746093",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                2,
-                0,
                 5,
                 1,
                 0,
+                1,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6970122b297082fcc2b34bf5",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474510?sid=100",
+            "created_at": "2026-01-21T08:39:21.472000",
+            "description": "&lt; 단식에 대처하는 다른 자세 &gt; 장동혁 대표 지금 단식 6일째이죠. 당 안팎 인사들의 발길은 끊이질 않고... '빨갱이' '북에서 온 쓰레기' 이거는 당에서 출당시키고 국회의원직 이걸 대표님께서 책임지고 박탈시켜야 합니다.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281015?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-20T20:54:00",
+            "related_members": [
+                "KFM1081G",
+                "9901388T",
+                "X7I4680R",
+                "4L695580",
+                "6EN68926"
+            ],
+            "title": "[비하인드 뉴스] '이재명 단식' 외면하던 국힘…장동혁 단식엔 \"왜 안 와..."
+        },
+        {
+            "_id": "6970122e297082fcc2b34c1c",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474509?sid=102",
+            "created_at": "2026-01-21T08:39:24.690000",
+            "description": "[이만희/신천지 총회장 (2020년 12월 26일) : 국회의원들도 만나고 청와대에 있는 사람들도 만나고 판사도... 원희룡 전 국토교통부 장관, 윤핵관 권성동 국민의힘 의원, 송석준 조정훈 국민의힘 의원 모습이 보이고요.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281025?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-20T20:54:00",
+            "related_members": [
+                "GDG1847Z",
+                "CNW5754J",
+                "WJL30106",
+                "OSV9142K",
+                "X7I4680R"
+            ],
+            "title": "[단독] 격분한 '이만희 육성 녹취' 입수…위장조직 '근우회' 정체는? / 풀..."
+        },
+        {
+            "_id": "69701231297082fcc2b34c30",
+            "link": "https://n.news.naver.com/mnews/article/032/0003422237?sid=110",
+            "created_at": "2026-01-21T08:39:27.387000",
+            "description": "지난해 1월 공수처의 영장 집행 1차 시도 때 장동혁·나경원·송언석·정점식 등 국민의힘 의원 45명은 한남동... 당시 집권 여당이요, 헌정질서를 지켜야 할 국회의원들이 이렇게 공권력을 업신여기는 분위기를 조장하지... ",
+            "originallink": "https://www.khan.co.kr/article/202601181810001",
+            "press": "경향신문",
+            "pubDate": "2026-01-18T18:10:00",
+            "related_members": [
+                "SLW27496",
+                "KFM1081G",
+                "X7I4680R",
+                "LJK4960Z",
+                "6EN68926",
+                "NX534083",
+                "MSY7784L"
+            ],
+            "title": "[사설]윤석열 재판 침묵하는 국힘, ‘장동혁 계엄 사과’ 공염불인가"
+        },
         {
             "_id": "6969b95b297082fcc2b19453",
             "link": "https://n.news.naver.com/mnews/article/079/0004105764?sid=102",
@@ -251,7 +304,7 @@
             "_id": "6966ec72887d07f7ba2fb274",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106856&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "그리고 본질은 안철수 의원이 지적한 것처럼 어떻게 2개의 IP에서 가족 명의 5개의 글이 천 개 이상 나오느냐.... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
+            "description": "거기에 언급된 박성준 의원은 최고위원에서 탈락을 했고요. 최고위원 당선된 직전까지는 김건희 여사를 제가... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106856&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-13T20:30:00",
@@ -271,7 +324,7 @@
             "_id": "6966ec72887d07f7ba2fb277",
             "link": "https://n.news.naver.com/mnews/article/052/0002300197?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "그리고 본질은 안철수 의원이 지적한 것처럼 어떻게 2개의 IP에서 가족 명의 5개의 글이 천 개 이상 나오느냐.... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
+            "description": "거기에 언급된 박성준 의원은 최고위원에서 탈락을 했고요. 최고위원 당선된 직전까지는 김건희 여사를 제가... 당직자로서 대안과 미래 소속 국회의원 10명보다 그리고 현실 정치를 떠난 지 오래되신 상임고문단... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601131948268946",
             "press": "YTN",
             "pubDate": "2026-01-13T19:48:00",
@@ -589,7 +642,7 @@
             "url": "https://www.youtube.com/watch?v=TWrAZXHtX_c",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:18:39.761000",
+            "collected_at": "2026-01-21T08:41:56.064000",
             "duration": 1908.0,
             "source": "MBC뉴스",
             "title": "김기현 아내, 김건희에 명품백 선물‥\"대가성 의심\" - [풀영상] MBC 뉴스데스크 2025년 11월 08일",
@@ -633,7 +686,7 @@
             "url": "https://www.youtube.com/watch?v=73mu2aECbb0",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-18T13:10:02.659000",
+            "collected_at": "2026-01-21T08:41:56.064000",
             "duration": 42352.0,
             "source": "MBC뉴스",
             "title": "[속보] 김건희 특검, '로저비비에 선물' 김기현 의원 자택 압수수색 - [MBC 뉴스속보] 2025년 12월 17일",
@@ -644,7 +697,7 @@
             "url": "https://www.youtube.com/watch?v=w4ZOtF3fZes",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-09T16:18:39.761000",
+            "collected_at": "2026-01-21T08:41:56.064000",
             "duration": 520.0,
             "source": "JTBC News",
             "title": "[뉴스룸 모아보기] 특검 '김건희에 명품백 전달' 의심…김기현 의원 부부 기소 (25.12.27) / JTBC News",
@@ -655,7 +708,7 @@
             "url": "https://www.youtube.com/watch?v=zcrXijSQgyY",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-18T13:10:01.714000",
+            "collected_at": "2026-01-21T08:41:55.409000",
             "duration": 574.0,
             "source": "KBS뉴스",
             "title": "[단독] 김건희 '로저비비에' 가방, 김기현 의원 측 '감사 편지'와 발견/2025년 11월 8일(토)/KBS",
@@ -732,7 +785,7 @@
             "url": "https://www.youtube.com/watch?v=UqHsn6zl-Ms",
             "HG_NM": "김기현",
             "MONA_CD": "X7I4680R",
-            "collected_at": "2026-01-18T13:10:01.714000",
+            "collected_at": "2026-01-21T08:41:56.064000",
             "duration": 729.0,
             "source": "KBS뉴스",
             "title": "[단독] '또 김건희 고가 가방', 김기현 감사 선물…\"여사님이 도와달라 했다\"/2025년 11월 8일(토)/KBS",
@@ -794,5 +847,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:08.015733"
+    "exported_at": "2026-01-21T10:09:06.746093"
 }

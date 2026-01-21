@@ -44,19 +44,19 @@
         "keywords": [
             "혐의",
             "자금",
-            "송치",
             "국민",
-            "불법",
+            "송치",
             "광주",
+            "불법",
             "검찰",
             "수수",
-            "위반",
             "선거",
+            "위반",
             "조사",
             "자금법",
+            "의혹",
             "경남",
-            "여론",
-            "의혹"
+            "여론"
         ],
         "keyword_frequency": [
             {
@@ -68,20 +68,20 @@
                 "value": 34
             },
             {
+                "text": "국민",
+                "value": 31
+            },
+            {
                 "text": "송치",
                 "value": 31
             },
             {
-                "text": "국민",
+                "text": "광주",
                 "value": 30
             },
             {
                 "text": "불법",
                 "value": 30
-            },
-            {
-                "text": "광주",
-                "value": 26
             },
             {
                 "text": "검찰",
@@ -92,11 +92,11 @@
                 "value": 23
             },
             {
-                "text": "위반",
-                "value": 19
+                "text": "선거",
+                "value": 21
             },
             {
-                "text": "선거",
+                "text": "위반",
                 "value": 19
             },
             {
@@ -108,41 +108,91 @@
                 "value": 17
             },
             {
+                "text": "의혹",
+                "value": 16
+            },
+            {
                 "text": "경남",
                 "value": 15
             },
             {
                 "text": "여론",
                 "value": 15
-            },
-            {
-                "text": "의혹",
-                "value": 13
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:35.944119",
+        "last_analyzed_at": "2026-01-21T10:09:32.809427",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
                 0,
-                0,
-                13,
-                0,
                 2,
+                0,
+                0,
+                3,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701263297082fcc2b34d37",
+            "link": "https://n.news.naver.com/mnews/article/055/0001325669?sid=100",
+            "created_at": "2026-01-21T08:40:17.797000",
+            "description": "먼저 '보좌진 갑질' 논란은 이 후보자가 2017년 국회의원일 때 인턴 직원에게 폭언하는 녹음 파일이 지난달... [이종욱/국민의힘 의원 : 언론이 이혜훈 후보자를 뭐라고 합니까. 의혹 백화점.] [이소영/민주당 의원 : 엉뚱한... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410131&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-19T20:21:00",
+            "related_members": [
+                "WTR5885Y",
+                "NLS46526"
+            ],
+            "title": "\"의혹 백화점\" 야 압박…이혜훈 청문회도 임명도 안갯속"
+        },
+        {
+            "_id": "69701244297082fcc2b34cb1",
+            "link": "https://n.news.naver.com/mnews/article/003/0013718450?sid=102",
+            "created_at": "2026-01-21T08:39:46.501000",
+            "description": "전남지사 후보로는 3선에 도전하는 민주당 김영록 지사와 같은 당 4선 이개호, 3선 신정훈, 재선 주철현 의원... 인천 계양을 국회의원 보궐선거를 통해 여의도 재입성을 노린 송영길 소나무당 대표(전 민주당 대표)도... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003482169",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T15:35:00",
+            "related_members": [
+                "IC499858",
+                "VRY5522V",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H",
+                "NLS46526"
+            ],
+            "title": "'연대 vs 단일화 vs 차출' 광주·전남 통합단체장 최대 화두(종합)"
+        },
+        {
+            "_id": "69701244297082fcc2b34cb2",
+            "link": "https://n.news.naver.com/mnews/article/003/0013718274?sid=102",
+            "created_at": "2026-01-21T08:39:46.502000",
+            "description": "전남지사 후보로는 3선에 도전하는 민주당 김영록 지사와 같은 당 4선 이개호, 3선 신정훈, 재선 주철현 의원... 인천 계양을 국회의원 보궐선거를 통해 여의도 재입성을 노린 송영길 소나무당 대표(전 민주당 대표)도... ",
+            "originallink": "https://www.newsis.com/view/NISX20260119_0003482035",
+            "press": "뉴시스",
+            "pubDate": "2026-01-19T14:42:00",
+            "related_members": [
+                "IC499858",
+                "VRY5522V",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H",
+                "NLS46526"
+            ],
+            "title": "'전략적 연대 vs 후보 단일화' 광주·전남 통합단체장 최대 화두"
+        },
         {
             "_id": "696c5beb297082fcc2b19b7f",
             "link": "https://n.news.naver.com/mnews/article/023/0003953458?sid=100",
@@ -473,7 +523,7 @@
             "url": "https://www.youtube.com/watch?v=UCQ_JilJCL_pEMTYRlscqwRw",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-18T13:18:43.737000",
+            "collected_at": "2026-01-21T08:49:23.829000",
             "duration": null,
             "title": "국회의원 이종욱",
             "upload_date": null
@@ -483,7 +533,7 @@
             "url": "https://www.youtube.com/watch?v=W67GrhyieVE",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-18T13:18:44.690000",
+            "collected_at": "2026-01-21T08:49:23.829000",
             "duration": 130.0,
             "title": "‘불법 정치자금 수수 의혹’ 이종욱 의원 입건 / KBS  2025.12.10.",
             "upload_date": null
@@ -493,7 +543,7 @@
             "url": "https://www.youtube.com/watch?v=UjfwOo-2UfI",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-18T13:18:43.737000",
+            "collected_at": "2026-01-21T08:49:23.829000",
             "duration": 125.0,
             "title": "[단독] 여론조사비부터 연예인 사례비까지…이종욱 의원 불법 자금 수사 / KBS  2025.06.18.",
             "upload_date": null
@@ -553,11 +603,11 @@
             "url": "https://www.youtube.com/watch?v=QKduYnhqN7U",
             "HG_NM": "이종욱",
             "MONA_CD": "NLS46526",
-            "collected_at": "2026-01-15T18:22:06.008000",
+            "collected_at": "2026-01-21T08:49:24.585000",
             "duration": 76.0,
             "title": "[직설] '계엄 1년' 한국 경제 운 좋은 이재명 정부? #이종욱",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:35.944222"
+    "exported_at": "2026-01-21T10:09:32.809427"
 }

@@ -55,38 +55,42 @@
             "장관",
             "에너지",
             "기후",
-            "용인",
             "원전",
-            "반도체",
+            "용인",
             "정책",
-            "환경부",
+            "반도체",
             "재생",
+            "환경부",
             "이전",
             "산단",
-            "클러스터",
             "회관",
             "토론회",
-            "민주당"
+            "클러스터",
+            "전력"
         ],
         "keyword_frequency": [
             {
                 "text": "장관",
-                "value": 37
+                "value": 40
             },
             {
                 "text": "에너지",
-                "value": 29
+                "value": 34
             },
             {
                 "text": "기후",
-                "value": 25
+                "value": 26
+            },
+            {
+                "text": "원전",
+                "value": 22
             },
             {
                 "text": "용인",
                 "value": 22
             },
             {
-                "text": "원전",
+                "text": "정책",
                 "value": 17
             },
             {
@@ -94,16 +98,12 @@
                 "value": 16
             },
             {
-                "text": "정책",
-                "value": 15
+                "text": "재생",
+                "value": 14
             },
             {
                 "text": "환경부",
-                "value": 13
-            },
-            {
-                "text": "재생",
-                "value": 12
+                "value": 14
             },
             {
                 "text": "이전",
@@ -114,45 +114,121 @@
                 "value": 10
             },
             {
+                "text": "회관",
+                "value": 9
+            },
+            {
+                "text": "토론회",
+                "value": 9
+            },
+            {
                 "text": "클러스터",
                 "value": 8
             },
             {
-                "text": "회관",
+                "text": "전력",
                 "value": 7
-            },
-            {
-                "text": "토론회",
-                "value": 7
-            },
-            {
-                "text": "민주당",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-18T13:56:11.509610",
+        "last_analyzed_at": "2026-01-21T10:09:09.265786",
         "trend_news": {
             "labels": [
-                "01-12",
-                "01-13",
-                "01-14",
                 "01-15",
                 "01-16",
                 "01-17",
-                "01-18"
+                "01-18",
+                "01-19",
+                "01-20",
+                "01-21"
             ],
             "data": [
-                2,
-                2,
-                0,
                 0,
                 0,
                 1,
+                1,
+                1,
+                3,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "69701236297082fcc2b34c52",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787409?sid=102",
+            "created_at": "2026-01-21T08:39:32.699000",
+            "description": "김성환 장관은 지난 7일 서울 여의도 국회 의원회관에서 열린 신규 원전 공론화 토론회에서 “전체 전력을 재생에너지로만 할 수 있으면 좋겠지만, 현실을 고려할 때 쉽지 않다”고 했고, 김용범 청와대 정책실장도 지난... ",
+            "originallink": "https://www.hani.co.kr/arti/society/environment/1240732.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-20T16:54:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "“대통령이 ‘원전 여론 압도적’ 발언, 공론화=요식행위 스스로 인정”"
+        },
+        {
+            "_id": "69701230297082fcc2b34c2b",
+            "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "created_at": "2026-01-21T08:39:26.798000",
+            "description": "민주노동당 국회의원/이오상 인천시의회 부의장, (국) 박종효 남동구청장/김종필 전 인천시설관리공단 이사장/고주룡 전 인천시 대변인/한민수 인천시의원, (혁) 장석현 전 남동구청장 부평구청장 (민) 차준택 부평구청장... ",
+            "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T15:30:00",
+            "related_members": [
+                "HE08888N",
+                "XSP20229",
+                "8O34202I",
+                "9LD2641Q",
+                "0R68099X",
+                "6K79158C",
+                "9YO73104",
+                "ME83002L",
+                "8JG4358H"
+            ],
+            "title": "6·3 지방선거 | 전국 227곳 기초단체장 출마 예상자 | 행정구역 개편으..."
+        },
+        {
+            "_id": "69701236297082fcc2b34c53",
+            "link": "https://n.news.naver.com/mnews/article/023/0003954117?sid=101",
+            "created_at": "2026-01-21T08:39:32.700000",
+            "description": "김성환 장관은 지난 7일 서울 여의도 국회 의원회관에서 열린 토론회에 참석해 “마음 같아선 전체 전력을 재생에너지로만 할 수 있으면 좋겠지만, 전력을 안정적으로 공급해야 하는 현실을 고려할 때 그렇게 하긴 쉽지... ",
+            "originallink": "https://www.chosun.com/economy/industry-company/2026/01/20/RVYVAOIM2NCHNG6FQDWANJKI3Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-20T15:07:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "[단독] 李정부가 멈춰 세운 신규 원전... 국민 70% “예정대로 지어야”"
+        },
+        {
+            "_id": "69701232297082fcc2b34c37",
+            "link": "https://n.news.naver.com/mnews/article/079/0004106740?sid=102",
+            "created_at": "2026-01-21T08:39:29.107000",
+            "description": "김 의원은 지난해 9월 국회 본회의에서 김성환 기후에너지환경부 장관 내정자에게 주암댐·상사댐 수상태양광과 수열에너지를 활용한 주민 기본소득 사업 구상을 제안하며, 상수원 관리 원칙을 전제로 한 제도 개선... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6458618?utm_source=naver&utm_medium=article&utm_campaign=20260119053935",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-19T17:40:00",
+            "related_members": [
+                "86R9476S",
+                "XSP20229"
+            ],
+            "title": "주암·상사댐 수상태양광 사업, 규제 개선 입법예고로 첫발"
+        },
+        {
+            "_id": "69701236297082fcc2b34c54",
+            "link": "https://n.news.naver.com/mnews/article/011/0004580048?sid=100",
+            "created_at": "2026-01-21T08:39:32.700000",
+            "description": "이런 어려움 속에서 박지혜 더불어민주당 의원, 김소희 국민의힘 의원은 국회 내 여야를 대표하는 에너지 전문가로 관련 입법을 주도해왔다. 박 의원은 “탄소 감축 정책은 정책적 의지가 분명해야 시스템이 바뀌는 만큼... ",
+            "originallink": "https://www.sedaily.com/NewsView/2K7CO3YRVC",
+            "press": "서울경제",
+            "pubDate": "2026-01-18T17:16:00",
+            "related_members": [
+                "1SR94244",
+                "XSP20229",
+                "EMH4976E"
+            ],
+            "title": "김소희 \"전기요금 쓴 만큼 내는 게 합리적…특정 산업 특혜 없애야\" 박..."
+        },
         {
             "_id": "696c5bef297082fcc2b19b93",
             "link": "https://n.news.naver.com/mnews/article/009/0005623151?sid=100",
@@ -384,7 +460,7 @@
             "url": "https://www.youtube.com/watch?v=ASBdwIOy_cU",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": 244.0,
             "title": "국회의원 김성환이 말합니다.",
             "upload_date": null
@@ -394,7 +470,7 @@
             "url": "https://www.youtube.com/watch?v=aO1hHHW1NpI",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:53.662000",
+            "collected_at": "2026-01-21T08:42:40.020000",
             "duration": 577.0,
             "title": "'거시기' 배우 김성환 \"정윤희·장미희 애인이었다\" - 김명준의 뉴스파이터",
             "upload_date": null
@@ -404,7 +480,7 @@
             "url": "https://www.youtube.com/watch?v=JgvNN9mFFf0",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-14T10:15:48.918000",
+            "collected_at": "2026-01-21T08:42:40.020000",
             "duration": 111.0,
             "title": "하늘로 떠난 ‘고바우 영감’…‘시사만화 대부’ 김성환 화백 별세 / KBS뉴스(News)",
             "upload_date": null
@@ -424,7 +500,7 @@
             "url": "https://www.youtube.com/watch?v=fHZHmx6vF1I",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": 79.0,
             "title": "이재명 대표가 김성환의원에게 한 긴밀한 부탁...?! #shorts",
             "upload_date": null
@@ -434,7 +510,7 @@
             "url": "https://www.youtube.com/watch?v=pyFc6F_yn1c",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": 357.0,
             "title": "[김어준의 다스뵈이다] 총수를 감동시킨 김성환 의원의 위스토리(Westory)",
             "upload_date": null
@@ -444,7 +520,7 @@
             "url": "https://www.youtube.com/watch?v=vM46LLVptME",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:53.662000",
+            "collected_at": "2026-01-21T08:42:40.020000",
             "duration": 193.0,
             "title": "김성환 기후부 장관이 겪은 이 대통령 업무 스타일은?｜이가혁 라이브",
             "upload_date": null
@@ -454,7 +530,7 @@
             "url": "https://www.youtube.com/watch?v=9nfWZTTwdis",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": 350.0,
             "title": "'기후에 진심'인 두사람 (이소영 국회의원&김성환 환경부장관)",
             "upload_date": null
@@ -464,7 +540,7 @@
             "url": "https://www.youtube.com/watch?v=ivTWzrBt0l0",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:53.662000",
+            "collected_at": "2026-01-21T08:42:40.020000",
             "duration": 252.0,
             "title": "김성환, 故 송대관에게 10억 빌려준 사연 공개 / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -504,7 +580,7 @@
             "url": "https://www.youtube.com/watch?v=kutiqqxdxIs",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": 87.0,
             "title": "6월 항쟁을 몸으로 직접 치른 김성환 국회의원의 회고 [6.10 민주항쟁]",
             "upload_date": null
@@ -524,7 +600,7 @@
             "url": "https://www.youtube.com/watch?v=UCVwCEfX77O5aXZSt5wYQO1w",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": null,
             "title": "김성환TV",
             "upload_date": null
@@ -534,7 +610,7 @@
             "url": "https://www.youtube.com/watch?v=QrDUz2LMVmM",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
+            "collected_at": "2026-01-21T08:42:39.223000",
             "duration": 580.0,
             "title": "[국회 300인의 희망인터뷰] 김성환 의원 - 나의 세가지 키워드!",
             "upload_date": null
@@ -560,5 +636,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-18T13:56:11.509712"
+    "exported_at": "2026-01-21T10:09:09.265786"
 }
