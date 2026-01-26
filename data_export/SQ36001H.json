@@ -53,40 +53,64 @@
     "analysis": {
         "keywords": [
             "송기",
-            "김진태",
-            "인사",
-            "원주",
-            "더불어민주당",
-            "신년",
-            "지사",
-            "강원도",
-            "강원",
-            "지방",
             "민주당",
-            "인터뷰",
-            "현안",
-            "시대",
-            "지선"
+            "강원",
+            "지사",
+            "김진태",
+            "원주",
+            "강원도",
+            "더불어민주당",
+            "인사",
+            "출마",
+            "이광재",
+            "신년",
+            "우상호",
+            "지역",
+            "지방"
         ],
         "keyword_frequency": [
             {
                 "text": "송기",
-                "value": 46
+                "value": 49
+            },
+            {
+                "text": "민주당",
+                "value": 22
+            },
+            {
+                "text": "강원",
+                "value": 18
+            },
+            {
+                "text": "지사",
+                "value": 18
             },
             {
                 "text": "김진태",
                 "value": 18
             },
             {
+                "text": "원주",
+                "value": 17
+            },
+            {
+                "text": "강원도",
+                "value": 16
+            },
+            {
+                "text": "더불어민주당",
+                "value": 16
+            },
+            {
                 "text": "인사",
                 "value": 15
             },
             {
-                "text": "원주",
-                "value": 15
+                "text": "출마",
+                "value": 14
             },
             {
-                "text": "더불어민주당",
+                "text": "이광재",
                 "value": 14
             },
             {
@@ -94,65 +118,121 @@
                 "value": 14
             },
             {
-                "text": "지사",
-                "value": 12
+                "text": "우상호",
+                "value": 13
             },
             {
-                "text": "강원도",
+                "text": "지역",
                 "value": 12
-            },
-            {
-                "text": "강원",
-                "value": 11
             },
             {
                 "text": "지방",
                 "value": 11
-            },
-            {
-                "text": "민주당",
-                "value": 10
-            },
-            {
-                "text": "인터뷰",
-                "value": 10
-            },
-            {
-                "text": "현안",
-                "value": 9
-            },
-            {
-                "text": "시대",
-                "value": 8
-            },
-            {
-                "text": "지선",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:23.548269",
+        "last_analyzed_at": "2026-01-26T14:36:30.410551",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
+                0,
+                0,
+                2,
+                0,
                 3,
-                2,
-                0,
-                0,
-                2,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fd0f845960002899802b",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108618?sid=102",
+            "created_at": "2026-01-26T14:35:08.984000",
+            "description": "이날 출판기념회에는 우상호 전 청와대 정무수석, 이광재 전 강원도지사, 송기헌 국회의원, 허영 국회의원, 김도균 민주당 강원도당위원장을 비롯해 지역 시의원과 당원, 시민 등 500여 명이 행사장을 찾았다. 가장 먼저... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461389?utm_source=naver&utm_medium=article&utm_campaign=20260124075839",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-24T19:59:00",
+            "related_members": [
+                "SQ36001H",
+                "FU53642G"
+            ],
+            "title": "김중남 민주당 강릉시지역위원장 24일 출판기념회…시장 출마 가시화"
+        },
+        {
+            "_id": "6976fd0f845960002899802c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732397?sid=102",
+            "created_at": "2026-01-26T14:35:08.984000",
+            "description": "이날 행사에는 이용득 더불어민주당 상임고문을 비롯해 송기헌(원주을), 허영(춘천·철원·화천·양구갑) 국회의원, 김도균 민주당 강원도당위원장과 전·현직 시도의원, 타 지역 민주당 입지자 등 내외빈 수백 명이 참석해... ",
+            "originallink": "https://www.news1.kr/local/kangwon/6049769",
+            "press": "뉴스1",
+            "pubDate": "2026-01-24T17:35:00",
+            "related_members": [
+                "SQ36001H",
+                "FU53642G"
+            ],
+            "title": "강릉서 마주한 우상호·이광재…민주 강원지사 경쟁 '신호탄'"
+        },
+        {
+            "_id": "6976fd0f845960002899802d",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732393?sid=102",
+            "created_at": "2026-01-26T14:35:08.984000",
+            "description": "이날 행사에는 이용득 더불어민주당 상임고문을 비롯해 우상호 전 청와대 정무수석, 이광재 전 강원도지사, 최욱철 전 국회의원, 송기헌 원주을 국회의원, 허영 춘천·철원·화천·양구갑 국회의원, 김도균 민주당... ",
+            "originallink": "https://www.news1.kr/local/kangwon/6049763",
+            "press": "뉴스1",
+            "pubDate": "2026-01-24T17:22:00",
+            "related_members": [
+                "SQ36001H",
+                "FU53642G"
+            ],
+            "title": "김중남 민주당 강릉지역위원장 출판기념회…우상호·이광재 등 참석"
+        },
+        {
+            "_id": "6972d1ef84596000289976a1",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107021&s_mcd=0263&s_hcd=01",
+            "created_at": "2026-01-23T10:42:05.624000",
+            "description": "◇ 김준우 : 민주당에서 이례적인 강원도의 3선 국회의원 전 국회 사무총장 그리고 강원도지사까지... 이번 주에도 민주당에서 찬성, 반대 패널 각 3인을 부르고, 정청래 대표랑 한정애 정책위원장이 앉아가지고 몇 시간... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107021&s_mcd=0263&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-22T21:00:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "VDN5593C",
+                "SQ36001H",
+                "2NV6751W",
+                "2385336L",
+                "XPP2564T"
+            ],
+            "title": "이광재 \"강원지사 출마? 하루에도 출마 요청 전화만 50통...우상호? 장점..."
+        },
+        {
+            "_id": "6972d1ef84596000289976a3",
+            "link": "https://n.news.naver.com/mnews/article/052/0002304579?sid=100",
+            "created_at": "2026-01-23T10:42:05.625000",
+            "description": "◇ 김준우 : 민주당에서 이례적인 강원도의 3선 국회의원 전 국회 사무총장 그리고 강원도지사까지... 이번 주에도 민주당에서 찬성, 반대 패널 각 3인을 부르고, 정청래 대표랑 한정애 정책위원장이 앉아가지고 몇 시간... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601221951002679",
+            "press": "YTN",
+            "pubDate": "2026-01-22T19:51:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "VDN5593C",
+                "SQ36001H",
+                "2NV6751W",
+                "XPP2564T",
+                "2385336L"
+            ],
+            "title": "이광재 \"강원지사 출마? 하루에도 출마 요청 전화만 50통...우상호? 장점..."
+        },
         {
             "_id": "69701254297082fcc2b34cf3",
             "link": "https://n.news.naver.com/mnews/article/021/0002764829?sid=102",
@@ -365,9 +445,19 @@
             "url": "https://www.youtube.com/watch?v=UCJmw6Kw7an1IWb05whchVMA",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:42.678000",
+            "collected_at": "2026-01-23T16:44:58.181000",
             "duration": null,
             "title": "송기헌TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acef631fd1743497d86e",
+            "url": "https://www.youtube.com/watch?v=9g1giaLpp50",
+            "HG_NM": "송기헌",
+            "MONA_CD": "SQ36001H",
+            "collected_at": "2026-01-23T16:44:58.182000",
+            "duration": 622.0,
+            "title": "인터뷰 릴레이 칭찬 248회 송기헌 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -381,23 +471,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960acef631fd1743497d86e",
-            "url": "https://www.youtube.com/watch?v=9g1giaLpp50",
+            "_id": "6960acef631fd1743497d871",
+            "url": "https://www.youtube.com/watch?v=Lr6RMizTP8E",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:42.678000",
-            "duration": 622.0,
-            "title": "인터뷰 릴레이 칭찬 248회 송기헌 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acef631fd1743497d86f",
-            "url": "https://www.youtube.com/watch?v=dAGmQ1PxWzQ",
-            "HG_NM": "송기헌",
-            "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:42.678000",
-            "duration": 1360.0,
-            "title": "국회의원 25시_287회 송기헌 의원 편[2017.04.26]",
+            "collected_at": "2026-01-23T16:44:58.182000",
+            "duration": 570.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 송기헌 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -405,19 +485,19 @@
             "url": "https://www.youtube.com/watch?v=w_9us3zBWvQ",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:42.678000",
+            "collected_at": "2026-01-23T16:44:58.182000",
             "duration": 1418.0,
             "title": "국회의원25시_396회 송기헌 의원 편[2021.8. 3]",
             "upload_date": null
         },
         {
-            "_id": "6960acef631fd1743497d871",
-            "url": "https://www.youtube.com/watch?v=Lr6RMizTP8E",
+            "_id": "6960acef631fd1743497d86f",
+            "url": "https://www.youtube.com/watch?v=dAGmQ1PxWzQ",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:42.678000",
-            "duration": 570.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 송기헌 의원(더불어민주당)",
+            "collected_at": "2026-01-23T16:44:58.182000",
+            "duration": 1360.0,
+            "title": "국회의원 25시_287회 송기헌 의원 편[2017.04.26]",
             "upload_date": null
         },
         {
@@ -425,7 +505,7 @@
             "url": "https://www.youtube.com/watch?v=P0TdIpodWJM",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:42.678000",
+            "collected_at": "2026-01-23T16:44:58.946000",
             "duration": 271.0,
             "title": "국회의원 송기헌ㅣ국회 본회의 의사진행발언 전체 영상 (23.08.24.)",
             "upload_date": null
@@ -435,7 +515,7 @@
             "url": "https://www.youtube.com/watch?v=nSBziHo1OOs",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-18T13:15:39.184000",
+            "collected_at": "2026-01-23T16:44:58.182000",
             "duration": 145.0,
             "title": "[G1뉴스]강원도 '키 플레이어' 송기헌 의원",
             "upload_date": null
@@ -445,7 +525,7 @@
             "url": "https://www.youtube.com/watch?v=PaxY-La_KsY",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:43.484000",
+            "collected_at": "2026-01-23T16:44:58.946000",
             "duration": 959.0,
             "title": "뉴스N | [파워인터뷰] 송기헌 더불어민주당 의원 - 2023년 1월 31일",
             "upload_date": null
@@ -458,6 +538,16 @@
             "collected_at": "2026-01-09T16:23:24.772000",
             "duration": 140.0,
             "title": "[G1뉴스]송기헌 의원 \"혁신도시 완성, 혁명적 정책 필요\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659610887d07f7ba2fad01",
+            "url": "https://www.youtube.com/watch?v=X0_6yTJ8UJk",
+            "HG_NM": "송기헌",
+            "MONA_CD": "SQ36001H",
+            "collected_at": "2026-01-23T16:44:58.182000",
+            "duration": 261.0,
+            "title": "국힘 방해 속 목소리 높인 송기헌 “나도 법조 30년! 검찰, 이재명과 몇 년이 넘게 이렇게 싸우는 게 정상인가?”",
             "upload_date": null
         },
         {
@@ -481,21 +571,11 @@
             "upload_date": null
         },
         {
-            "_id": "69659610887d07f7ba2fad01",
-            "url": "https://www.youtube.com/watch?v=X0_6yTJ8UJk",
-            "HG_NM": "송기헌",
-            "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-14T10:19:48.968000",
-            "duration": 261.0,
-            "title": "국힘 방해 속 목소리 높인 송기헌 “나도 법조 30년! 검찰, 이재명과 몇 년이 넘게 이렇게 싸우는 게 정상인가?”",
-            "upload_date": null
-        },
-        {
             "_id": "6966ef35887d07f7ba2fb46b",
             "url": "https://www.youtube.com/watch?v=EKsOG3A6SkI",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-18T13:15:40.264000",
+            "collected_at": "2026-01-23T16:44:58.946000",
             "duration": 1002.0,
             "title": "국회방송 뉴스N | [파워인터뷰] 송기헌 더불어민주당 의원 - 2021년 8월 9일",
             "upload_date": null
@@ -505,7 +585,7 @@
             "url": "https://www.youtube.com/watch?v=ENUc31GC6m8",
             "HG_NM": "송기헌",
             "MONA_CD": "SQ36001H",
-            "collected_at": "2026-01-21T08:46:43.484000",
+            "collected_at": "2026-01-23T16:44:58.946000",
             "duration": 1056.0,
             "title": "국회방송 뉴스N | [파워인터뷰] 더불어민주당 송기헌 의원 - 2020년 11월 23일",
             "upload_date": null
@@ -521,5 +601,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:23.548269"
+    "exported_at": "2026-01-26T14:36:30.410551"
 }

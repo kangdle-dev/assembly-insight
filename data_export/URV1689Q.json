@@ -70,39 +70,39 @@
             "검찰",
             "개혁",
             "수사",
+            "토론회",
             "대통령",
-            "민주당",
             "경기",
             "윤석열",
             "보완",
-            "더불어민주당",
-            "기소",
+            "민주당",
             "장관",
-            "사건",
-            "강경파",
-            "조작",
-            "여권"
+            "이재명",
+            "서울",
+            "발언",
+            "더불어민주당",
+            "조작"
         ],
         "keyword_frequency": [
             {
                 "text": "검찰",
-                "value": 36
+                "value": 41
             },
             {
                 "text": "개혁",
-                "value": 30
+                "value": 33
             },
             {
                 "text": "수사",
-                "value": 26
+                "value": 18
+            },
+            {
+                "text": "토론회",
+                "value": 18
             },
             {
                 "text": "대통령",
-                "value": 25
-            },
-            {
-                "text": "민주당",
-                "value": 18
+                "value": 17
             },
             {
                 "text": "경기",
@@ -114,14 +114,10 @@
             },
             {
                 "text": "보완",
-                "value": 15
-            },
-            {
-                "text": "더불어민주당",
                 "value": 14
             },
             {
-                "text": "기소",
+                "text": "민주당",
                 "value": 14
             },
             {
@@ -129,50 +125,302 @@
                 "value": 13
             },
             {
-                "text": "사건",
+                "text": "이재명",
                 "value": 12
             },
             {
-                "text": "강경파",
-                "value": 12
+                "text": "서울",
+                "value": 11
+            },
+            {
+                "text": "발언",
+                "value": 11
+            },
+            {
+                "text": "더불어민주당",
+                "value": 11
             },
             {
                 "text": "조작",
                 "value": 11
-            },
-            {
-                "text": "여권",
-                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:43.127058",
+        "last_analyzed_at": "2026-01-26T14:36:51.365251",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                1,
-                1,
-                1,
                 2,
-                7,
-                2,
-                1
+                3,
+                11,
+                0,
+                1,
+                1,
+                0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6976fceb8459600028997f3e",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
+            "created_at": "2026-01-26T14:34:32.940000",
+            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T13:11:00",
+            "related_members": [
+                "ATB59635",
+                "URX8075K",
+                "5765663F",
+                "7YC6702R",
+                "W8W95421",
+                "IL74008M",
+                "MIS62075",
+                "3CC88975",
+                "TJW93720",
+                "3OQ8273H",
+                "YM42715P",
+                "6I88973D",
+                "URV1689Q"
+            ],
+            "title": "현근택 출판기념회에 1천여명 몰려…“용인시장 선거 기대 반영”"
+        },
+        {
+            "_id": "6976fcee8459600028997f62",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055280?sid=102",
+            "created_at": "2026-01-26T14:34:35.845000",
+            "description": "경찰은 지난 1월 14일 김병기 의원의 서울 동작구 자택과 국회의원실 등 6곳을 압수수색하는 과정에서 김... 2020년 11월 추미애 당시 법무부 장관은 한 검사장을 겨냥해 '피의자 휴대전화 비밀번호 강제 해제법(한동훈... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48051",
+            "press": "조선일보",
+            "pubDate": "2026-01-24T07:00:00",
+            "related_members": [
+                "8Q88373R",
+                "URV1689Q"
+            ],
+            "title": "이재명도, 한동훈도 거부하면 끝…아이폰 비번, 풀수도 없고 어쩌나"
+        },
+        {
+            "_id": "6972d1fa84596000289976f7",
+            "link": "https://n.news.naver.com/mnews/article/021/0002765761?sid=100",
+            "created_at": "2026-01-23T10:42:16.850000",
+            "description": "국회 법제사법위원장인 추미애 의원과 김용민·민형배·김승원 의원 등 강경파로 분류되는 의원들은 이날 오전 박은정 조국혁신당 의원이 주관한 보완수사권 폐지 토론회에 주최자로 이름을 올렸다. 강성 지지층에서도... ",
+            "originallink": "https://www.munhwa.com/article/11562957?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-22T12:12:00",
+            "related_members": [
+                "URV1689Q",
+                "1A82234K",
+                "VRY5522V",
+                "OFE45081",
+                "ATB59635",
+                "8BF5855P",
+                "TKJ4800F"
+            ],
+            "title": "여당 강성층 “보완수사권 검찰 못줘” 이재명 대통령에 반발"
+        },
+        {
+            "_id": "6972d1fa84596000289976f8",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728339?sid=100",
+            "created_at": "2026-01-23T10:42:16.850000",
+            "description": "것이 국회에서 제대로 논의돼 검찰개혁 법안이 마련돼야 한다\"고 강조했다. 이번 토론회는 박은정 의원 주관으로 추미애·박지원·김승원·김용민·민형배·장경태·이성윤·서영교·최혁진 의원 공동 주최로 열렸다.... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6047469",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T11:35:00",
+            "related_members": [
+                "RPN2293B",
+                "URV1689Q",
+                "8BF5855P",
+                "1A82234K",
+                "CC78321E",
+                "N2P9317N",
+                "VRY5522V",
+                "OFE45081",
+                "ATB59635",
+                "TKJ4800F",
+                "5765663F"
+            ],
+            "title": "李대통령 \"檢 보완수사 예외적 필요\"…與 강경파 \"절대 반대\""
+        },
+        {
+            "_id": "6972d2428459600028997842",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728128?sid=100",
+            "created_at": "2026-01-23T10:43:28.340000",
+            "description": "추미애 법제사법위원장이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권 폐지’ 토론회에서 발언하고 있다. 2026.1.22/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7709791",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "URV1689Q"
+            ],
+            "title": "검찰개혁 토론회 발언하는 추미애"
+        },
+        {
+            "_id": "6972d20c845960002899777b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728134?sid=100",
+            "created_at": "2026-01-23T10:42:34.808000",
+            "description": "추미애 법제사법위원장과 박지원·서영교 더불어민주당 의원, 박은정 조국혁신당 의원이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권... ",
+            "originallink": "https://www.news1.kr/photos/7709796",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "1A82234K",
+                "8BF5855P",
+                "URV1689Q",
+                "TKJ4800F"
+            ],
+            "title": "검찰개혁 토론회 기념 촬영하는 추미애"
+        },
+        {
+            "_id": "6972d20c8459600028997779",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728125?sid=100",
+            "created_at": "2026-01-23T10:42:34.808000",
+            "description": "추미애 법제사법위원장과 박지원·서영교 더불어민주당 의원, 박은정 조국혁신당 의원이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권... ",
+            "originallink": "https://www.news1.kr/photos/7709788",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "1A82234K",
+                "8BF5855P",
+                "URV1689Q",
+                "TKJ4800F"
+            ],
+            "title": "검찰개혁 토론회"
+        },
+        {
+            "_id": "6972d2428459600028997843",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728127?sid=100",
+            "created_at": "2026-01-23T10:43:28.340000",
+            "description": "추미애 법제사법위원장이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권 폐지’ 토론회에서 발언하고 있다. 2026.1.22/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7709790",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "URV1689Q"
+            ],
+            "title": "검찰개혁 논의하는 추미애"
+        },
+        {
+            "_id": "6972d2428459600028997840",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728123?sid=100",
+            "created_at": "2026-01-23T10:43:28.339000",
+            "description": "추미애 법제사법위원장이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권 폐지’ 토론회에서 발언하고 있다. 2026.1.22/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7709787",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "URV1689Q"
+            ],
+            "title": "토론회 발언하는 추미애"
+        },
+        {
+            "_id": "6972d20c845960002899777a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728135?sid=100",
+            "created_at": "2026-01-23T10:42:34.808000",
+            "description": "박지원·추미애 더불어민주당 의원과 박은정 조국혁신당 의원이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권 폐지’ 토론회에서... ",
+            "originallink": "https://www.news1.kr/photos/7709795",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "1A82234K",
+                "8BF5855P",
+                "URV1689Q"
+            ],
+            "title": "대화하는 박지원·추미애·박은정"
+        },
+        {
+            "_id": "6972d2428459600028997841",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728126?sid=100",
+            "created_at": "2026-01-23T10:43:28.340000",
+            "description": "추미애 법제사법위원장이 22일 서울 여의도 국회 의원회관에서 열린 ‘검찰개혁의 완성이란 무엇인가? : 민생범죄 집중을 위한 검찰개혁과 보완수사권 폐지’ 토론회에서 발언하고 있다. 2026.1.22/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7709789",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T10:36:00",
+            "related_members": [
+                "URV1689Q"
+            ],
+            "title": "검찰개혁의 완성이란 무엇인가 토론회"
+        },
+        {
+            "_id": "6972d201845960002899773a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013724290?sid=102",
+            "created_at": "2026-01-23T10:42:23.972000",
+            "description": "말보다는 성과로, 이미지보다 과정과 결과로 평가받고자 이 시대를 살아가는 모두에게 의미 있는 이야기가 될 것\"이라고 말했다. 북콘서트에는 추미애·부승찬·김준혁 국회의원 등이 함께할 예정이다.",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003485890",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T10:07:00",
+            "related_members": [
+                "6I88973D",
+                "URV1689Q",
+                "YM42715P"
+            ],
+            "title": "'현명하고 근사한 선택'…24일 현근택 변호사 '북콘서트'"
+        },
+        {
+            "_id": "6972d1fd8459600028997712",
+            "link": "https://n.news.naver.com/mnews/article/421/0008727467?sid=100",
+            "created_at": "2026-01-23T10:42:19.252000",
+            "description": "민주당은 이날 오전 10시 국회에서 의원총회를 열고 검찰개혁에 대한 논의를 이어간다. 한정애 정책위의장 주재로 김한규 원내정책수석부대표가 법안을 설명하고 의원들의 의견을 수렴하는 방식으로 진행된다. 앞서 20일... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046532",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T06:05:00",
+            "related_members": [
+                "RPN2293B",
+                "URV1689Q",
+                "8BF5855P",
+                "XPP2564T",
+                "OFE45081",
+                "NUB4941Z",
+                "1A82234K",
+                "N2P9317N",
+                "8JG4358H"
+            ],
+            "title": "與, 검찰 보완수사 불가 기조 수정할까…중수청법 정책의총"
+        },
+        {
+            "_id": "6972d2068459600028997757",
+            "link": "https://n.news.naver.com/mnews/article/057/0001931345?sid=100",
+            "created_at": "2026-01-23T10:42:28.662000",
+            "description": "윤석열 정권의 평양 무인기 작전을 파헤친 부승찬 더불어민주당 의원이 『돌아오지 않은 무인기』(공동저자... 더불어민주당 국회의원, 이동형 작가가 패널로 참석합니다. 서울 북콘서트는 27일(화) 오후 6시 30분 동교동... ",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5170421",
+            "press": "매일경제",
+            "pubDate": "2026-01-21T18:34:00",
+            "related_members": [
+                "6I88973D",
+                "D9I3309M",
+                "URV1689Q"
+            ],
+            "title": "부승찬 민주당 의원, '돌아오지 않는 무인기' 북콘서트 25일 제주·27일 ..."
+        },
+        {
+            "_id": "6972d1f284596000289976c2",
+            "link": "https://n.news.naver.com/mnews/article/021/0002765363?sid=100",
+            "created_at": "2026-01-23T10:42:08.902000",
+            "description": "경기지사 후보 예비후보 자격심사에는 김동연 경기지사를 비롯해 권칠승, 김병주, 염태영, 추미애, 한준호... 꽤 높았는데 명함도 못 내밀 듯”이라고 썼다. 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다.",
+            "originallink": "https://www.munhwa.com/article/11562552?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-21T11:05:00",
+            "related_members": [
+                "URV1689Q",
+                "URX8075K",
+                "C7E79345",
+                "BCQ55105",
+                "GF286398"
+            ],
+            "title": "李, 1호 감사패는 ‘한준호’…경기지사도 명심?"
+        },
+        {
             "_id": "6970122f297082fcc2b34c25",
             "link": "https://n.news.naver.com/mnews/article/023/0003954230?sid=100",
             "created_at": "2026-01-21T08:39:25.682000",
-            "description": "지방선거 공천 놓고 명·청 긴장감 이재명 대통령이 더불어민주당 한준호 의원에게 ‘대통령 1호 감사패’를... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게... ",
+            "description": "한 의원을 콕 집어 3개월 전 성과를 포상했다는 이유에서다. 민주당에선 추미애(6선)·권칠승(3선)·김병주... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게 도대체... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/21/TK4M4QOYUFBIXHEZ7GWLEWUJTI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-21T00:49:00",
@@ -196,7 +444,7 @@
             "_id": "69701232297082fcc2b34c34",
             "link": "https://n.news.naver.com/mnews/article/421/0008724415?sid=102",
             "created_at": "2026-01-21T08:39:28.831000",
-            "description": "한병도 원내대표 등 다수의 국회의원이 축하영상과 축기를 보낼 예정이다. 현 변호사는 \"이번 출판기념회는 그동안 저를 믿고 응원해 주신 용인 시민들께 드리는 약속의 자리\"라며 \"용인의 실질적인 변화를 함께 논의하는... ",
+            "description": "이상식·손명수·부승찬·이언주(영상) 등 용인지역 국회의원과 이재정 박성준 김동아 채현일 정을호 김현 국회의원 등이 참석해 축하를 전한다. 정청래 민주당 대표는 이미 축전을 보냈다. 한병도 원내대표 등 다수의... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6045019",
             "press": "뉴스1",
             "pubDate": "2026-01-20T15:39:00",
@@ -223,7 +471,7 @@
             "_id": "69701255297082fcc2b34cf8",
             "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202602100016",
             "created_at": "2026-01-21T08:40:04.286000",
-            "description": "지난 1월 9일, 서울 여의도 국회의원회관. 국민의힘 신동욱 의원(서초 을)은 잠시 서 있었다. 사진기자의 사각... 핍박에 끝까지 앞장서던 추미애 장관 이야기도 넷째로 많은 조회를 기록했습니다. 정권과 집권당의 그 필사적... ",
+            "description": "지난 1월 9일, 서울 여의도 국회의원회관. 국민의힘 신동욱 의원(서초 을)은 잠시 서 있었다. 사진기자의 사각 앵글을 향해 그는 어깨를 돌렸다. 금세 카메라가 원하는 각도와 그가 익숙한 각도가 절묘하게 겹쳐 있었다. 그는... ",
             "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202602100016",
             "press": "조선일보",
             "pubDate": "2026-01-20T15:28:00",
@@ -239,7 +487,7 @@
             "_id": "6970122b297082fcc2b34bf7",
             "link": "https://n.news.naver.com/mnews/article/020/0003690530?sid=100",
             "created_at": "2026-01-21T08:39:21.472000",
-            "description": "한 전 대표 향후 행보에 대해 정광재 동연정치연구소장은 6월 3일 지방선거 및 국회의원 재보궐 선거에... 경기도지사 출마를 준비 중인 추미애 더불어민주당 의원이 한 방송에서 경기 시민에 대해 ‘2등 시민 의식’이라고... ",
+            "description": "한 전 대표 향후 행보에 대해 정광재 동연정치연구소장은 6월 3일 지방선거 및 국회의원 재보궐 선거에... 그래서 이거를 아이디어를 낸 거는 제가 전해 듣기로는 강명구 의원이 그래요. 예 강명구 의원이. ▷ 강경석: 장미도... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260119/133185805/1",
             "press": "동아일보",
             "pubDate": "2026-01-19T18:57:00",
@@ -402,7 +650,7 @@
             "_id": "696c5bec297082fcc2b19b89",
             "link": "https://n.news.naver.com/mnews/article/262/0000019090?sid=100",
             "created_at": "2026-01-18T13:05:00.817000",
-            "description": "당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신... 신 의원은 5% 지지율을 기록하며 서영교(3.1%), 전현희(3.0%), 김영배(2.0%) 등 여권 중진들보다 앞선 지지율을 기록한... ",
+            "description": "당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신... 통일교 특검은 전재수 전 해양수산부 장관의 불법 자금 수수 문제가 뇌관이 돼 특검을 하자는 것이다. 그 문제가... ",
             "originallink": "https://shindonga.donga.com/3/all/13/6061345/1",
             "press": "동아일보",
             "pubDate": "2026-01-18T09:01:00",
@@ -422,7 +670,7 @@
             "_id": "696c5bed297082fcc2b19b8e",
             "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
             "created_at": "2026-01-18T13:05:01.197000",
-            "description": "이밖에도 김동연 경기지사와 함께 김상곤, 이재정 전 경기도교육감 등 전직 도교육감들도 참석해 유 전... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
+            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
             "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
             "press": "노컷뉴스",
             "pubDate": "2026-01-17T22:24:00",
@@ -469,277 +717,6 @@
                 "URV1689Q"
             ],
             "title": "중수청 이원화에 檢개혁 후퇴론…與 \"정부안은 초안\" 손질 예고"
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d15",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714311?sid=100",
-            "created_at": "2026-01-15T18:04:13.533000",
-            "description": "정성호 법무부 장관은 이날 오전 국회에서 민주당 일부 의원들과 만난 후 기자들에게 \"(검찰개혁 안과 관련) 다양한 의견들이 있는 것은 자연스러운 것이다\"라며 \"대통령께서 숙의하면 좋겠다고 했는데 이제 숙의가 시작된... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039038",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T15:39:00",
-            "related_members": [
-                "5765663F",
-                "URV1689Q",
-                "V429892C",
-                "5TQ6306B",
-                "1A82234K",
-                "25G2571T"
-            ],
-            "title": "\"괴물 중수청\" 정부 檢개혁안 후폭풍…\"수사·기소 분리가 대원칙\""
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d16",
-            "link": "https://n.news.naver.com/mnews/article/021/0002763710?sid=100",
-            "created_at": "2026-01-15T18:04:13.533000",
-            "description": "법사위 범여권 강경파의 대화 추미애(오른쪽) 국회 법제사법위원장과 박은정 조국혁신당 의원이 13일 국회도서관에서 더불어민주당 등 범여권 소속 강경파 의원들이 주최한 ‘바람직한 검찰개혁을 위한 긴급토론회’에서... ",
-            "originallink": "https://www.munhwa.com/article/11560870?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-14T11:57:00",
-            "related_members": [
-                "5765663F",
-                "OFE45081",
-                "1A82234K",
-                "URV1689Q"
-            ],
-            "title": "여당 강경파 “검찰개혁 정부안 전체 다 문제”… 이미 수정논의 착수"
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2c5",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104466?sid=100",
-            "created_at": "2026-01-14T10:08:16.260000",
-            "description": "[리포트] 정부안에 반대하는 범여권 의원들이 국회에서 긴급 토론회를 열었습니다. [김용민/더불어민주당 의원 : \"우리가 그동안 외쳤던 검찰 개혁과는 맞지 않다라는 생각을 하게 됐습니다.\"] 공소청 검사의 보완수사권... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458269&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-14T06:25:00",
-            "related_members": [
-                "OFE45081",
-                "2385336L",
-                "URV1689Q"
-            ],
-            "title": "“검찰 되살리나” 당정 갈등 확전 조짐에…대통령, “국회 의견 들어라..."
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2c6",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104404?sid=100",
-            "created_at": "2026-01-14T10:08:16.260000",
-            "description": "[리포트] 정부안에 반대하는 범여권 의원들이 국회에서 긴급 토론회를 열었습니다. [김용민/더불어민주당... [추미애/더불어민주당 의원 : \"어떤 명분으로도 수사권을 다시 검찰에 쥐여주는 일은 있어서는 안 된다.... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458181&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-13T23:20:00",
-            "related_members": [
-                "OFE45081",
-                "2385336L",
-                "URV1689Q"
-            ],
-            "title": "“검찰 되살리나” 당정갈등 확전 조짐에…대통령 “국회 의견 들어라”..."
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2c7",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104214?sid=100",
-            "created_at": "2026-01-14T10:08:16.260000",
-            "description": "[리포트] 정부안에 반대하는 범여권 의원들이 국회에서 긴급 토론회를 열었습니다. [김용민/더불어민주당 의원 : \"우리가 그동안 외쳤던 검찰 개혁과는 맞지 않다라는 생각을 하게 됐습니다.\"] 공소청 검사의 보완수사권... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457955&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-13T21:34:00",
-            "related_members": [
-                "OFE45081",
-                "2385336L",
-                "URV1689Q"
-            ],
-            "title": "“검찰 되살리나” 당정갈등 확전 조짐에…대통령 “국회 의견 들어라”..."
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2c8",
-            "link": "https://n.news.naver.com/mnews/article/005/0001825967?sid=100",
-            "created_at": "2026-01-14T10:08:16.261000",
-            "description": "민주당 의원은 이날 국회도서관에서 열린 검찰개혁 긴급토론회에서 “보완수사권 내지 보완수사 요구권 그 어떤 명분으로도 수사권을 검찰에 쥐어주는 일은 있어선 안된다”고 강조했다. 한병도·박주민·김용민·민형배... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029245724&code=61111511&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-13T21:30:00",
-            "related_members": [
-                "2385336L",
-                "H5476989",
-                "OFE45081",
-                "6AU2417B",
-                "VRY5522V",
-                "URV1689Q"
-            ],
-            "title": "정청래 “보완수사권 대신 보완수사요구권”"
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2c9",
-            "link": "https://n.news.naver.com/mnews/article/005/0001825939?sid=100",
-            "created_at": "2026-01-14T10:08:16.261000",
-            "description": "법사위 민주당 간사인 김용민 의원은 김어준씨 유튜브에서 “(검찰개혁을) 원점으로 되돌리겠다는 의지가... 범여권 국회의원들은 같은 날 국회도서관에서 ‘바람직한 검찰개혁’을 주제로 긴급 토론회도 주최했다. 해당... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768295538&code=11121100&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-13T18:48:00",
-            "related_members": [
-                "OFE45081",
-                "2385336L",
-                "URV1689Q",
-                "H5476989"
-            ],
-            "title": "검찰개혁 令 안서는 당정… “개혁 아닌 개악” 강경파 반기"
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2cb",
-            "link": "https://n.news.naver.com/mnews/article/011/0004578232?sid=100",
-            "created_at": "2026-01-14T10:08:16.261000",
-            "description": "차규근·황운하·신장식 조국혁신당 의원은 이날 국회 기자회견에서 “수사와 기소를 분리하는 시늉만 낼 뿐, 실제로는 검찰 기득권을 교묘하게 연장하려는 위장술에 불과하다”면서 정부안의 원점 재검토를 요구했다.... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7AE06BJ3",
-            "press": "서울경제",
-            "pubDate": "2026-01-13T17:54:00",
-            "related_members": [
-                "URV1689Q",
-                "OFE45081",
-                "NPD75153",
-                "KNP22261",
-                "0YT3774N",
-                "2385336L",
-                "H5476989"
-            ],
-            "title": "與 강경파 반발에…李 \"보완수사권 등 의견 수렴\""
-        },
-        {
-            "_id": "6966ec71887d07f7ba2fb267",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712031?sid=100",
-            "created_at": "2026-01-14T10:08:01.991000",
-            "description": "경찰 출신의 황운하 조국혁신당 의원은 중수청과 공소청의 관계 설정 자체를 문제 삼았다. 그는 \"사실상... 법사위 여당 간사인 김용민 민주당 의원은 이날 오후 국회도서관에서 '바람직한 검찰개혁을 위한 긴급토론회'를... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037780",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T17:14:00",
-            "related_members": [
-                "8P37634C",
-                "OFE45081",
-                "ATB59635",
-                "JG77046J",
-                "URV1689Q",
-                "H5476989",
-                "0YT3774N"
-            ],
-            "title": "범여권 강경파, 중수청 법안에 \"특수부 부활, 수사권 인정한 꼴\" (종합)"
-        },
-        {
-            "_id": "6966ec7d887d07f7ba2fb2b5",
-            "link": "https://n.news.naver.com/mnews/article/015/0005236620?sid=100",
-            "created_at": "2026-01-14T10:08:13.960000",
-            "description": "김 의원은 국회 검찰개혁 긴급토론회에서도 “보완수사권을 검찰에 남겨두거나 중수청을 이원 조직으로... 범여권인 황운하 조국혁신당 의원은 청와대와 김민석 국무총리를 겨냥했다. 황 의원은 “검찰 출신 봉욱... ",
-            "originallink": "https://www.hankyung.com/article/2026011383111",
-            "press": "한국경제",
-            "pubDate": "2026-01-13T17:13:00",
-            "related_members": [
-                "ATB59635",
-                "VRY5522V",
-                "OFE45081",
-                "URV1689Q",
-                "0YT3774N",
-                "MLH1404S"
-            ],
-            "title": "與강경파 반발에…李 \"檢개혁·보완수사권, 당 의견 수렴을\""
-        },
-        {
-            "_id": "6966ec7f887d07f7ba2fb2cc",
-            "link": "https://n.news.naver.com/mnews/article/421/0008711883?sid=100",
-            "created_at": "2026-01-14T10:08:16.261000",
-            "description": "법사위 여당 간사인 김용민 민주당 의원은 13일 국회도서관에서 '바람직한 검찰개혁을 위한 긴급토론회'를... 추미애 법사위원장은 \"지연된 개혁은 개혁이 아니다\"라며 신속한 개혁 완수를 촉구했다. 그는 \"(입법예고 후)... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037658",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T16:22:00",
-            "related_members": [
-                "OFE45081",
-                "URV1689Q"
-            ],
-            "title": "민주 법사위원들 \"중수청, 사실상 특수부 부활…보완수사권도 절대 안돼..."
-        },
-        {
-            "_id": "696594a2887d07f7ba2fab34",
-            "link": "https://n.news.naver.com/mnews/article/022/0004097165?sid=102",
-            "created_at": "2026-01-13T09:41:04.260000",
-            "description": "6월 선거 앞두고 달아오른 與 경선…염태영 ‘경기도형 新기본사회’ 발표 직전 충돌 “기회소득 민주당의... 지난 국회의원 총선거에서 수원시 5개 선거구를 민주당이 ‘싹쓸이’하는데 힘을 보탰기에 그의 글은 더... ",
-            "originallink": "https://www.segye.com/newsView/20260113500983?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-13T08:02:00",
-            "related_members": [
-                "BCQ55105",
-                "URV1689Q",
-                "URX8075K",
-                "GF286398"
-            ],
-            "title": "김동연, 민주당 떠나라?…李 대통령 뜻일까요 [오상도의 경기유랑]"
-        },
-        {
-            "_id": "69659499887d07f7ba2fab15",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
-            "created_at": "2026-01-13T09:40:55.415000",
-            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 원내 운영 수석부대표로 천준호 의원이 임명됐는데 이분이 이재명 대표 시절에 비서실장했던... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-13T08:01:00",
-            "related_members": [
-                "GOC54665",
-                "2385336L",
-                "N2P9317N",
-                "8P37634C",
-                "MNZ4401T",
-                "8Q88373R",
-                "BCQ55105",
-                "URV1689Q",
-                "URX8075K",
-                "GF286398",
-                "2NV6751W",
-                "VDN5593C",
-                "H5476989",
-                "A494529E",
-                "NUB4941Z",
-                "6AU2417B",
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "KFM1081G",
-                "QWL7778X",
-                "3C23171A"
-            ],
-            "title": "이동형 \"친청이 반명이냐? '명청 대결' 했다면 명이 이겨\"[한판승부]"
-        },
-        {
-            "_id": "6964b592631fd174349964f3",
-            "link": "https://n.news.naver.com/mnews/article/016/0002584199?sid=100",
-            "created_at": "2026-01-12T17:49:19.383000",
-            "description": "추미애 더불어민주당 의원. 연합뉴스 국회 법제사법위원장인 추미애 더불어민주당 의원이 12·3 비상계엄 사태의 핵심인 윤석열 전 대통령에 대한 엄중한 처벌을 촉구하면서 2차 특검의 필요성을 제기했다. 추 의원은 12일... ",
-            "originallink": "https://biz.heraldcorp.com/article/10653292?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-12T09:55:00",
-            "related_members": [
-                "URV1689Q"
-            ],
-            "title": "추미애 “내란 우두머리 尹에 ‘사형’ 구형해야…2차 특검 필요”"
-        },
-        {
-            "_id": "6964b543631fd17434996028",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096717?sid=100",
-            "created_at": "2026-01-12T17:48:00.871000",
-            "description": "지난해 8월26일, ‘미혼부 출생신고법’(가족관계등록법 개정안·국민의힘 이양수 의원안)이 국회 법제사법위원회 전체회의에 상정됐다. 미혼부의 출생신고를 규정하지 않은 가족관계등록법에 대한 헌법불합치 결정에... ",
-            "originallink": "https://www.segye.com/newsView/20260111508329?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-11T18:02:00",
-            "related_members": [
-                "S9U45255",
-                "REG96285",
-                "SLW27496",
-                "8BF5855P",
-                "04T3751T",
-                "1A82234K",
-                "0R68099X",
-                "6AU2417B",
-                "TKJ4800F",
-                "N2P9317N",
-                "25G2571T",
-                "GJK57930",
-                "URV1689Q"
-            ],
-            "title": "[단독] ‘미혼부 출생등록’, ‘탄소중립’ ‘낙태죄’ 등 위헌법률 28건..."
         }
     ],
     "recent_videos": [
@@ -766,25 +743,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce8e",
-            "url": "https://www.youtube.com/watch?v=N_tezQ1_cmg",
+            "_id": "6960a751631fd1743497ce8f",
+            "url": "https://www.youtube.com/watch?v=RCIjQnssJ5U",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 9482.0,
+            "duration": 1679.0,
             "source": "MBC뉴스",
-            "title": "법무부 국감 추미애 윤석열 발언에 조목조목 반격… - [LIVE] 특집 MBC 뉴스외전 2020년 10월 26일",
+            "title": "문대통령-추미애 장관 독대, 무슨 말 오갔을까?[LIVE]MBC 뉴스프리데스크 2020년 12월 1일",
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce9a",
-            "url": "https://www.youtube.com/watch?v=X-ZunSnRFkI",
+            "_id": "6960a751631fd1743497ce99",
+            "url": "https://www.youtube.com/watch?v=2LS8FkQSwSc",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:19.080000",
-            "duration": 801.0,
+            "duration": 469.0,
             "source": "SBS뉴스",
-            "title": "좌충우돌 추미애는 왜?…\"그냥 정치하고 싶은 것\" / SBS / 편상욱의 뉴스브리핑",
+            "title": "손 맞잡은 이재명-추미애…'지대 개혁' 앞장선다 / SBS / 주영진의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -799,12 +776,12 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce92",
-            "url": "https://www.youtube.com/watch?v=vlCbqy8GZ6o",
+            "_id": "6960a751631fd1743497ce91",
+            "url": "https://www.youtube.com/watch?v=iytI12NK0qI",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 8629.0,
+            "duration": 9750.0,
             "source": "MBC뉴스",
             "title": "추미애 법무부장관 후보자 인사청문회 - [LIVE]MBC 뉴스특보 2019년 12월 30일",
             "upload_date": null
@@ -843,25 +820,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce8f",
-            "url": "https://www.youtube.com/watch?v=RCIjQnssJ5U",
+            "_id": "6960a751631fd1743497ce8e",
+            "url": "https://www.youtube.com/watch?v=N_tezQ1_cmg",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 1679.0,
+            "duration": 9482.0,
             "source": "MBC뉴스",
-            "title": "문대통령-추미애 장관 독대, 무슨 말 오갔을까?[LIVE]MBC 뉴스프리데스크 2020년 12월 1일",
+            "title": "법무부 국감 추미애 윤석열 발언에 조목조목 반격… - [LIVE] 특집 MBC 뉴스외전 2020년 10월 26일",
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce99",
-            "url": "https://www.youtube.com/watch?v=2LS8FkQSwSc",
+            "_id": "6960a751631fd1743497ce98",
+            "url": "https://www.youtube.com/watch?v=UbQXiRhQNro",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:19.080000",
-            "duration": 469.0,
+            "duration": 690.0,
             "source": "SBS뉴스",
-            "title": "손 맞잡은 이재명-추미애…'지대 개혁' 앞장선다 / SBS / 주영진의 뉴스브리핑",
+            "title": "이춘석 탈당 입건 제명 일사천리.. 법사위원장 추미애 지명 / SBS / 모아보는 뉴스",
             "upload_date": null
         },
         {
@@ -876,14 +853,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce91",
-            "url": "https://www.youtube.com/watch?v=iytI12NK0qI",
+            "_id": "6960a751631fd1743497ce90",
+            "url": "https://www.youtube.com/watch?v=2su3-dOyCyQ",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 9750.0,
+            "duration": 3181.0,
             "source": "MBC뉴스",
-            "title": "추미애 법무부장관 후보자 인사청문회 - [LIVE]MBC 뉴스특보 2019년 12월 30일",
+            "title": "사과하고 떠난 추미애..'비검찰' 박범계 온다 - [풀영상] MBC뉴스데스크 2020년 12월 30일",
             "upload_date": null
         },
         {
@@ -942,27 +919,27 @@
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce90",
-            "url": "https://www.youtube.com/watch?v=2su3-dOyCyQ",
+            "_id": "6960a751631fd1743497ce92",
+            "url": "https://www.youtube.com/watch?v=vlCbqy8GZ6o",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:18.339000",
-            "duration": 3181.0,
+            "duration": 8629.0,
             "source": "MBC뉴스",
-            "title": "사과하고 떠난 추미애..'비검찰' 박범계 온다 - [풀영상] MBC뉴스데스크 2020년 12월 30일",
+            "title": "추미애 법무부장관 후보자 인사청문회 - [LIVE]MBC 뉴스특보 2019년 12월 30일",
             "upload_date": null
         },
         {
-            "_id": "6960a751631fd1743497ce98",
-            "url": "https://www.youtube.com/watch?v=UbQXiRhQNro",
+            "_id": "6960a751631fd1743497ce9a",
+            "url": "https://www.youtube.com/watch?v=X-ZunSnRFkI",
             "HG_NM": "추미애",
             "MONA_CD": "URV1689Q",
             "collected_at": "2026-01-09T15:59:19.080000",
-            "duration": 690.0,
+            "duration": 801.0,
             "source": "SBS뉴스",
-            "title": "이춘석 탈당 입건 제명 일사천리.. 법사위원장 추미애 지명 / SBS / 모아보는 뉴스",
+            "title": "좌충우돌 추미애는 왜?…\"그냥 정치하고 싶은 것\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:43.127058"
+    "exported_at": "2026-01-26T14:36:51.365251"
 }

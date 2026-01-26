@@ -57,33 +57,41 @@
     },
     "analysis": {
         "keywords": [
-            "양산",
             "시사",
             "국민",
+            "양산",
+            "정각",
+            "대통령",
             "논란",
             "최고",
             "위원",
             "사퇴",
-            "정각",
-            "대통령",
+            "더불어민주당",
             "현장",
+            "혁신",
             "와이드",
             "정면",
-            "라디오",
-            "권성동",
-            "대행"
+            "라디오"
         ],
         "keyword_frequency": [
+            {
+                "text": "시사",
+                "value": 10
+            },
+            {
+                "text": "국민",
+                "value": 7
+            },
             {
                 "text": "양산",
                 "value": 7
             },
             {
-                "text": "시사",
+                "text": "정각",
                 "value": 6
             },
             {
-                "text": "국민",
+                "text": "대통령",
                 "value": 6
             },
             {
@@ -103,15 +111,15 @@
                 "value": 6
             },
             {
-                "text": "정각",
-                "value": 4
-            },
-            {
-                "text": "대통령",
-                "value": 4
+                "text": "더불어민주당",
+                "value": 5
             },
             {
                 "text": "현장",
+                "value": 5
+            },
+            {
+                "text": "혁신",
                 "value": 4
             },
             {
@@ -125,31 +133,23 @@
             {
                 "text": "라디오",
                 "value": 4
-            },
-            {
-                "text": "권성동",
-                "value": 4
-            },
-            {
-                "text": "대행",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:28.015574",
+        "last_analyzed_at": "2026-01-26T14:36:35.267511",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
+                0,
+                0,
                 1,
-                0,
-                0,
                 0,
                 0,
                 0,
@@ -159,10 +159,28 @@
     },
     "recent_news": [
         {
+            "_id": "6972d1f484596000289976cc",
+            "link": "https://n.news.naver.com/mnews/article/052/0002304308?sid=100",
+            "created_at": "2026-01-23T10:42:10.332000",
+            "description": "박홍근 더불어민주당 의원,윤영석 국민의힘 의원나오셨습니다. 어서 오십시오. 조금 전에 저희가 현장 생중계로 전해 드렸는데요. 국회 로텐더홀에서 오늘까지 8일째 단식 농성을 벌이던 장동혁 대표가 단식 중단을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601221206532155",
+            "press": "YTN",
+            "pubDate": "2026-01-22T12:06:00",
+            "related_members": [
+                "X7I4680R",
+                "2385336L",
+                "MLH1404S",
+                "KFM1081G",
+                "9VR65006",
+                "S824682L"
+            ],
+            "title": "[시사정각] 코스피 첫 5000포인트 돌파...정청래 \"조국혁신당 합당 제안..."
+        },
+        {
             "_id": "6968ad84297082fcc2b18cbf",
             "link": "https://n.news.naver.com/mnews/article/052/0002301123?sid=100",
             "created_at": "2026-01-15T18:04:01.563000",
-            "description": "소명을 할 수 있기 때문에 충분한 소명을 통해서 우리 당의 당원들이나 또 우리 국회의원들, 조금 전에... 오늘 국민의힘은 이 부분에 대해서 계속해서 특검을 하자 얘기를 하고 있는 그런 상황이고 오늘 아침에 전용기... ",
+            "description": "■ 진행 : 나경철 앵커 ■ 출연 : 박홍근 더불어민주당 의원, 윤영석 국민의힘 의원 * 아래 텍스트는 실제 방송... 소명을 할 수 있기 때문에 충분한 소명을 통해서 우리 당의 당원들이나 또 우리 국회의원들, 조금 전에... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601151238374886",
             "press": "YTN",
             "pubDate": "2026-01-15T12:38:00",
@@ -248,7 +266,7 @@
             "url": "https://www.youtube.com/watch?v=Y320t5nAa5I",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.123000",
             "duration": 782.0,
             "title": "[윤영석TV] 국회방송 국회의원 25시",
             "upload_date": null
@@ -258,7 +276,7 @@
             "url": "https://www.youtube.com/watch?v=M8KCBwwJxYs",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:01.232000",
+            "collected_at": "2026-01-23T16:46:13.979000",
             "duration": 803.0,
             "title": "[백운기의 뉴스와이드] 윤영석 \"국민의힘 당대표 된다면 통합과 혁신만이 살길…극우 세력, 아주 배제하는 것 맞지 않아\"",
             "upload_date": null
@@ -268,7 +286,7 @@
             "url": "https://www.youtube.com/watch?v=93rrZzcKi4c",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.979000",
             "duration": 1673.0,
             "title": "[정면]“LH사태 일파만파, 정치권 불협화음 고조”- 윤관석 더불어민주당 의원, 윤영석 국.../ YTN 라디오",
             "upload_date": null
@@ -278,7 +296,7 @@
             "url": "https://www.youtube.com/watch?v=D-CVGyWZu84",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.123000",
             "duration": 109.0,
             "title": "검찰, 윤영석 의원 소환 및 현영희 5차 조사",
             "upload_date": null
@@ -288,7 +306,7 @@
             "url": "https://www.youtube.com/watch?v=qgUNafy2MnQ",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.123000",
             "duration": 1515.0,
             "title": "국회의원25시_408회 윤영석 의원 편[2021. 11. 9]",
             "upload_date": null
@@ -298,7 +316,7 @@
             "url": "https://www.youtube.com/watch?v=hlt9qK6CbH8",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.123000",
             "duration": 92.0,
             "title": "윤영석 삭발식 \"대한민국 민주주의와 법치주의 되살리려 나섰다\"",
             "upload_date": null
@@ -308,7 +326,7 @@
             "url": "https://www.youtube.com/watch?v=0oeJlfQpOEQ",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.123000",
             "duration": 63.0,
             "title": "[최고위원 후보자] 기호3 윤영석",
             "upload_date": null
@@ -318,7 +336,7 @@
             "url": "https://www.youtube.com/watch?v=iMAaSTyJgzQ",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
+            "collected_at": "2026-01-23T16:46:13.123000",
             "duration": 1632.0,
             "title": "[김경래의 최강시사] 윤영석 \"추미애 수사지휘권? 이전 정부에서도 못본 꼴\" VS 홍익표 \"소설 같은 얘기 그만하세요\" ┃KBS 201022 방송",
             "upload_date": null
@@ -338,7 +356,7 @@
             "url": "https://www.youtube.com/watch?v=kCKkOGEAMDw",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:01.232000",
+            "collected_at": "2026-01-23T16:46:13.979000",
             "duration": 940.0,
             "title": "[백운기의 뉴스와이드] 윤영석 \"\"사분오열 국민의힘, 지도부가 리더십으로 결집해야\"\"",
             "upload_date": null
@@ -364,16 +382,6 @@
             "upload_date": null
         },
         {
-            "_id": "69701432297082fcc2b34e66",
-            "url": "https://www.youtube.com/watch?v=2DiFu39AbGw",
-            "HG_NM": "윤영석",
-            "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:00.420000",
-            "duration": 207.0,
-            "title": "대한국제학술문화제 윤영석 국회의원 축사",
-            "upload_date": null
-        },
-        {
             "_id": "69701432297082fcc2b34e67",
             "url": "https://www.youtube.com/watch?v=IHuVFKoXw_Y",
             "HG_NM": "윤영석",
@@ -384,15 +392,35 @@
             "upload_date": null
         },
         {
+            "_id": "69701432297082fcc2b34e66",
+            "url": "https://www.youtube.com/watch?v=2DiFu39AbGw",
+            "HG_NM": "윤영석",
+            "MONA_CD": "9VR65006",
+            "collected_at": "2026-01-21T08:48:00.420000",
+            "duration": 207.0,
+            "title": "대한국제학술문화제 윤영석 국회의원 축사",
+            "upload_date": null
+        },
+        {
             "_id": "69701432297082fcc2b34e68",
             "url": "https://www.youtube.com/watch?v=AJpdebOliyg",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-01-21T08:48:01.232000",
+            "collected_at": "2026-01-23T16:46:13.979000",
             "duration": 651.0,
             "title": "여야 막말 논란…윤영석 \"文, XXXX\" 김준혁 \"퇴계이황\" [프레스룸LIVE-이슈ZIP]",
             "upload_date": null
+        },
+        {
+            "_id": "697327488459600028997a55",
+            "url": "https://www.youtube.com/watch?v=mglgMXh9HV0",
+            "HG_NM": "윤영석",
+            "MONA_CD": "9VR65006",
+            "collected_at": "2026-01-23T16:46:13.123000",
+            "duration": 868.0,
+            "title": "[김경래의 최강시사] 한국당 윤영석 “文대통령이야말로 정쟁유발자”",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:28.015574"
+    "exported_at": "2026-01-26T14:36:35.267511"
 }

@@ -53,106 +53,571 @@
     "analysis": {
         "keywords": [
             "출마",
-            "대구시장",
-            "해제",
-            "구속",
             "대구",
-            "계엄",
-            "선거",
-            "국민",
-            "특검",
-            "내란",
-            "체포",
-            "방해",
-            "시장",
+            "대구시장",
             "주호영",
-            "선언"
+            "국민",
+            "선언",
+            "부의장",
+            "구속",
+            "내란",
+            "시장",
+            "계엄",
+            "체포",
+            "영장",
+            "현역",
+            "한덕수"
         ],
         "keyword_frequency": [
             {
                 "text": "출마",
-                "value": 28
-            },
-            {
-                "text": "대구시장",
-                "value": 25
-            },
-            {
-                "text": "해제",
-                "value": 24
-            },
-            {
-                "text": "구속",
-                "value": 24
+                "value": 59
             },
             {
                 "text": "대구",
-                "value": 21
+                "value": 57
             },
             {
-                "text": "계엄",
-                "value": 21
-            },
-            {
-                "text": "선거",
-                "value": 20
-            },
-            {
-                "text": "국민",
-                "value": 18
-            },
-            {
-                "text": "특검",
-                "value": 17
-            },
-            {
-                "text": "내란",
-                "value": 16
-            },
-            {
-                "text": "체포",
-                "value": 16
-            },
-            {
-                "text": "방해",
-                "value": 15
-            },
-            {
-                "text": "시장",
-                "value": 13
+                "text": "대구시장",
+                "value": 47
             },
             {
                 "text": "주호영",
-                "value": 13
+                "value": 41
+            },
+            {
+                "text": "국민",
+                "value": 40
             },
             {
                 "text": "선언",
-                "value": 13
+                "value": 33
+            },
+            {
+                "text": "부의장",
+                "value": 22
+            },
+            {
+                "text": "구속",
+                "value": 22
+            },
+            {
+                "text": "내란",
+                "value": 21
+            },
+            {
+                "text": "시장",
+                "value": 18
+            },
+            {
+                "text": "계엄",
+                "value": 18
+            },
+            {
+                "text": "체포",
+                "value": 17
+            },
+            {
+                "text": "영장",
+                "value": 15
+            },
+            {
+                "text": "현역",
+                "value": 14
+            },
+            {
+                "text": "한덕수",
+                "value": 14
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:42.957138",
+        "last_analyzed_at": "2026-01-26T14:36:51.030129",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 2,
+                6,
+                3,
                 0,
-                1,
-                1,
-                2,
-                2,
-                0
+                0,
+                15,
+                4
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fd3884596000289980b1",
+            "link": "https://n.news.naver.com/mnews/article/382/0001250816?sid=102",
+            "created_at": "2026-01-26T14:35:49.563000",
+            "description": "같은 날 오전 11시에 열리는 개막식에는 금한승 기후에너지환경부 제1차관, 홍성주 대구시 경제부시장, 추경호·우재준 국회의원, 유관기관 대표 등 50여 명이 참석한다. 이 자리에서는 물 산업 발전에 기여한 유공자... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260126/133230666/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-26T14:35:00",
+            "related_members": [
+                "G152611B",
+                "8UC4779G"
+            ],
+            "title": "대구시, ‘2026 워터밸리 비즈니스 위크’ 개최"
+        },
+        {
+            "_id": "6976fd168459600028998043",
+            "link": "https://n.news.naver.com/mnews/article/003/0013730610?sid=102",
+            "created_at": "2026-01-26T14:35:16.272000",
+            "description": "행사 첫날인 28일 오전 11시 개막식에는 금한승 기후에너지환경부 제1차관, 홍성주 대구시 경제부시장, 추경호(국민의힘, 대구 달성군) 국회의원, 우재준(국민의힘, 대구 북구갑) 국회의원, 유관기관 대표 등이 참석할... ",
+            "originallink": "https://www.newsis.com/view/NISX20260126_0003490281",
+            "press": "뉴시스",
+            "pubDate": "2026-01-26T14:20:00",
+            "related_members": [
+                "G152611B",
+                "8UC4779G"
+            ],
+            "title": "대구시, '2026 워터밸리 비즈니스 위크' 28~29일 개최"
+        },
+        {
+            "_id": "6976fd18845960002899804c",
+            "link": "https://n.news.naver.com/mnews/article/437/0000475296?sid=100",
+            "created_at": "2026-01-26T14:35:17.477000",
+            "description": "가장 먼저 3선의 추경호 의원이 나섰고, [추경호/국민의힘 의원(지난해 12월) : 제가 평생 경제, 행정, 정치... 앞으로도 전현직 국회의원이 더 출마할 것으로 점쳐지면서 본선보다 당내 경선이 더 치열할 전망입니다.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281842?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-26T11:04:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "대구시장, 국힘 안전지대?...6선 주호영 등 금배지 5명 도전 '집안 난투..."
+        },
+        {
+            "_id": "6976fd3384596000289980a5",
+            "link": "http://andongmbc.co.kr/adboard/NewsView80410",
+            "created_at": "2026-01-26T14:35:44.691000",
+            "description": "◀ 리포트 ▶ 6선의 국회 부의장이기도 한 대구 수성구갑 지역구 주호영 국민의힘 국회의원이 지방선거에서... \" 앞서 출마를 선언한 최은석, 추경호 의원 등 다른 의원을 의식해서인지 자신은 다선으로 중앙 정부와 담판을... ",
+            "originallink": "http://andongmbc.co.kr/adboard/NewsView80410",
+            "press": "MBC",
+            "pubDate": "2026-01-26T09:10:00",
+            "related_members": [
+                "8SV6917G",
+                "4019850M",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "R]6선 주호영, 대구시장 출마 \"박정희처럼 재산업화 이루겠다\""
+        },
+        {
+            "_id": "6976fd18845960002899804d",
+            "link": "https://n.news.naver.com/mnews/article/021/0002766319?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "중앙정부와 당당히 협상하며 현안을 해결할 정치력을 갖춰야 한다”며 “6선 의원과 국회 부의장을 거치며 쌓은 경험을 대구를 위해 쓰겠다”고 말했다. 국민의힘에서 지난달 29일 3선 추경호(대구 달성군) 의원이 가장... ",
+            "originallink": "https://www.munhwa.com/article/11563519?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-25T22:17:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "주호영 국회 부의장, 대구시장 선거 출마...대구로 몰리는 국민의힘 의..."
+        },
+        {
+            "_id": "6976fd18845960002899804e",
+            "link": "https://n.news.naver.com/mnews/article/015/0005241806?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "대구시장은 홍준표 전 시장이 지난해 4월 대선 출마로 사퇴하면서 현역 국회의원의 출마 선언이 잇따르고 있다. 앞서 국민의힘에선 경제부총리를 지낸 추경호 의원(3선)과 CJ제일제당 대표이사 출신 최은석 의원(초선)이... ",
+            "originallink": "https://www.hankyung.com/article/202601251310i",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T19:39:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "4019850M",
+                "G152611B"
+            ],
+            "title": "'격전지 대구시장 선거'…6선 주호영 등 금배지 5명 도전장"
+        },
+        {
+            "_id": "6976fcf28459600028997f7b",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626986?sid=100",
+            "created_at": "2026-01-26T14:34:39.895000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 선거 출마에 나섰고... ",
+            "originallink": "https://www.mk.co.kr/article/11942687",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T18:00:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구시장 '도전'"
+        },
+        {
+            "_id": "6976fd18845960002899804f",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138241?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국민의힘에서는 지난달 29일 3선의 추경호(대구 달성군) 의원이 가장 먼저 대구시장 출마 선언을 한 뒤 최은석(대구 동구군위갑) 의원이 지난 5일 출마 입장을 공개적으로 밝히는 등 현역 국회의원들의 대구시장 출마... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/25/ZIBGHJBIY5HLDNLLALXQ5MH5TI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T17:08:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "주호영, 대구시장 출마 선언… “대구 다시 일으켜 세우겠다”"
+        },
+        {
+            "_id": "6976fd188459600028998050",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626881?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "현직 국회의원은 주 부의장을 포함해 모두 5명이다. 보수정당 계열 현역 의원 5명이 동시에 대구시장 출마 의사를 밝힌 것은 대구시장 선거 역사상 처음이다. 앞서 국민의힘에선 추경호 의원(3선)과 최은석 의원(초선)이... ",
+            "originallink": "https://www.mk.co.kr/article/11942521",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T16:49:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "6선 주호영도 대구시장 출마…국힘 현역 5명 경쟁, 선거 열기↑"
+        },
+        {
+            "_id": "6976fce98459600028997f2d",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955079?sid=102",
+            "created_at": "2026-01-26T14:34:30.936000",
+            "description": "무주공산 대구시장 자리에 추경호, 최은석 등 현역 의원 3명 출마 기초단체장 출신의 도전도 이어져 국민의힘 6선 의원인 주호영(대구 수성갑) 국회 부의장이 25일 동대구역 광장 내 박정희 전 대통령 동상 앞에서... ",
+            "originallink": "https://www.chosun.com/national/regional/2026/01/25/PM52XCI23JHTHJWWJKWWEU5XE4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T16:43:00",
+            "related_members": [
+                "LYY5513O",
+                "8SV6917G",
+                "ZRF3039U",
+                "JZV5283U",
+                "G152611B",
+                "4019850M",
+                "UF53617M"
+            ],
+            "title": "6선 주호영 국회부의장, 대구시장 출마 선언"
+        },
+        {
+            "_id": "6976fd188459600028998051",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101467?sid=101",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "중앙정부와 당당히 협상하며 현안을 해결할 정치력을 갖춰야 한다\"며 \"6선 의원과 국회부의장을 거치며 쌓은 모든 경험을 대구를 위해 쓰겠다\"고 말했다. 국민의힘에서는 지난 달 29일 3선의 추경호(대구 달성군) 의원이... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202601251058b",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T16:32:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "6선 주호영 대구시장 출마 선언···\"대구 다시일으켜 세울것\""
+        },
+        {
+            "_id": "6976fd188459600028998052",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828159?sid=102",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국민의힘 중진(6선) 의원인 주호영(대구 수성갑) 국회 부의장이 25일 대구시장에 출마를 선언했다. 주 의원은... 국민의힘에서는 3선의 추경호(대구 달성군) 의원이 가장 먼저 대구시장 출마를 선언했고 이어 최은석(대구... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029300301&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-25T16:28:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "4019850M",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "국힘 6선 주호영 국회의원 대구시장 출마 선언"
+        },
+        {
+            "_id": "6976fcf28459600028997f7c",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626878?sid=100",
+            "created_at": "2026-01-26T14:34:39.896000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고... ",
+            "originallink": "https://www.mk.co.kr/article/11942517",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T16:28:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구...국민의힘 후보자들 지선 출마 선언 잇따라"
+        },
+        {
+            "_id": "6976fd3884596000289980b2",
+            "link": "https://n.news.naver.com/mnews/article/057/0001931920?sid=100",
+            "created_at": "2026-01-26T14:35:49.564000",
+            "description": "이명박·박근혜 정부에서 요직을 거친 정책통으로 꼽힙니다. 국민의힘에선 지난달 29일 추경호 의원이, 지난 5일엔 최은석 의원이 대구시장 출마를 선언했습니다. #주호영 #국민의힘 #대구시장 #출마 #6선 #정책통 #국회부의장",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5171198",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T15:47:00",
+            "related_members": [
+                "8SV6917G",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영 국회부의장, 대구 시장 출마 선언"
+        },
+        {
+            "_id": "6976fd188459600028998053",
+            "link": "https://n.news.naver.com/mnews/article/022/0004100304?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국회 부의장이자 국민의힘 6선(대구 수성갑)인 주호영 의원이 25일 대구시장 출마를 선언했다. 최은석(대구 동∙군위갑),추경호(대구 달성) 의원에 이어 원내에서 대구시장 출마를 선언한 건 이번이 세번째다. 주 부의장은... ",
+            "originallink": "https://www.segye.com/newsView/20260125506747?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-25T15:07:00",
+            "related_members": [
+                "4019850M",
+                "8SV6917G",
+                "ZRF3039U",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영, 대구시장 출사표… “박정희 길 위에서 대구 다시 일으켜 세울..."
+        },
+        {
+            "_id": "6976fd188459600028998054",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423604?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국회 부의장이자 국민의힘 6선(대구 수성갑)인 주호영 의원이 25일 대구시장 출마를 선언했다. 최은석(대구 동·군위갑)·추경호(대구 달성) 의원에 이어 원내에서 대구시장 출마를 선언한 건 이번이 세번째다. 주 의원은... ",
+            "originallink": "https://www.khan.co.kr/article/202601251448001",
+            "press": "경향신문",
+            "pubDate": "2026-01-25T14:48:00",
+            "related_members": [
+                "4019850M",
+                "8SV6917G",
+                "ZRF3039U",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영, 대구시장 출마 선언…“박정희 길 위에서 대구 재도약”"
+        },
+        {
+            "_id": "6976fd188459600028998055",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732976?sid=102",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "정치권에 따르면 국민의힘 현직 국회의원으로 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해... 현역 의원 5명이 한꺼번에 출마 의사를 밝힌 건 전례가 없는 일이다. 앞서 국민의힘에선 추경호 의원(3선)과... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6050044",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T14:20:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "'주호영까지 등판' 국힘 '현역 배지' 5명, 대구시장 도전에 몰려"
+        },
+        {
+            "_id": "6976fd188459600028998056",
+            "link": "https://n.news.naver.com/mnews/article/015/0005241662?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국민의힘에서는 지난달 29일 3선의 추경호(대구 달성군) 의원이 가장 먼저 대구시장 출마 선언을 한 뒤 최은석(대구 동구군위갑) 의원이 지난 5일 출마 입장을 공개적으로 밝히는 등 현역 국회의원들의 대구시장 출마... ",
+            "originallink": "https://www.hankyung.com/article/2026012509187",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T14:11:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영 국회 부의장, 대구시장 출마 선언…\"대구 일으켜 세울 것\""
+        },
+        {
+            "_id": "6976fd3884596000289980b3",
+            "link": "https://n.news.naver.com/mnews/article/056/0012111905?sid=100",
+            "created_at": "2026-01-26T14:35:49.564000",
+            "description": "중앙정부와 당당히 협상하며 현안을 해결할 정치력을 갖춰야 한다”며 “6선 의원과 국회부의장을 거치며... 앞서 국민의힘에선 지난달 29일 추경호 의원이, 지난 5일엔 최은석 의원이 대구시장 출마 선언을 이어가고... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468214&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-25T13:57:00",
+            "related_members": [
+                "8SV6917G",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영 부의장, 대구시장 출마 선언…“대구 일으켜 세우겠다”"
+        },
+        {
+            "_id": "6972d22984596000289977f6",
+            "link": "https://n.news.naver.com/mnews/article/022/0004099634?sid=102",
+            "created_at": "2026-01-23T10:43:03.521000",
+            "description": "시는 22일 오전 서울 국회 의원회관에서 지역 국회의원들과 간담회를 개최했다. 이날 간담회는 이인선 국민의힘 대구시당위원장을 비롯해 추경호∙윤제옥∙최은석 의원 등 대구시장 출마 예정자들과 김정기 대구시장... ",
+            "originallink": "https://www.segye.com/newsView/20260122511409?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-22T14:30:00",
+            "related_members": [
+                "G152611B",
+                "UF53617M",
+                "DWK26447"
+            ],
+            "title": "대구시, 국민의힘 지역 의원들과 통합 간담회 개최…“행정 통합 특별법..."
+        },
+        {
+            "_id": "6972d200845960002899772e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004107901?sid=102",
+            "created_at": "2026-01-23T10:42:22.182000",
+            "description": "김정기 대구시장 권한대행은 22일 오전 국회를 찾아 지역 국회의원들과 대구·경북 행정통합 추진을 위한... 마찬가지로 경북도지사 출마 의사를 밝힌 김재원 국민의힘 최고위원도 \"지금처럼 표를 얻기 좋은 소재로... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6460320?utm_source=naver&utm_medium=article&utm_campaign=20260122121011",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-22T12:11:00",
+            "related_members": [
+                "DMP1439I",
+                "8SV6917G",
+                "G152611B"
+            ],
+            "title": "대구시, 국힘 의원들 TK행정통합 협력 논의…\"특별법 조속히 발의\""
+        },
+        {
+            "_id": "6972d2168459600028997794",
+            "link": "https://n.news.naver.com/mnews/article/056/0012110151?sid=100",
+            "created_at": "2026-01-23T10:42:44.681000",
+            "description": "먼저 국회 국방위원장이신 국민의힘 성일종 의원 나오셨습니다. 어서 오십시오. ▶ 성일종 : 네, 안녕하십니까? ▷ 소현정 : 어제 한덕수 전 총리 내란 혐의가 법원에서 인정이 됐는데 내용을 보니까 지금 일단 12.3 비상계엄... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8465958&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-22T10:56:00",
+            "related_members": [
+                "7XY7109I",
+                "QWL7778X",
+                "G152611B",
+                "H5476989",
+                "2385336L"
+            ],
+            "title": "[전격시사] 성일종 국민의힘 의원 - “(한덕수 1심 징역 23년)우선 법원..."
+        },
+        {
+            "_id": "6972d241845960002899783c",
+            "link": "https://n.news.naver.com/mnews/article/055/0001326358?sid=102",
+            "created_at": "2026-01-23T10:43:27.690000",
+            "description": "국민의힘 추경호 의원의 내란 중요임무 종사 혐의 재판도 다음 달 9일 두 번째 공판준비기일을 거쳐 정식... 12·3 비상계엄과 관련한 내란 혐의로 재판에 넘겨진 유일한 국회의원입니다. 추 의원은 비상계엄 선포 당시 윤... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008413299&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-21T19:26:00",
+            "related_members": [
+                "G152611B"
+            ],
+            "title": "한덕수 '징역 23년'…윤석열·김용현 등 내란 선고도 영향"
+        },
+        {
+            "_id": "6972d1fc84596000289976ff",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787663?sid=102",
+            "created_at": "2026-01-23T10:42:18.052000",
+            "description": "피고인은 어떻게 생각하느냐’는 서일준 의원의 질의에 대하여, 헌법 규정에 따르면 계엄을 선포하더라도 국회가 과반수로 의결하면 즉각 해제하게 돼 있지 않느냐. 그러면 결국 그 논리는 계엄을 통해서 국회의 기능을... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1241007.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-21T19:24:00",
+            "related_members": [
+                "7BM2933Y",
+                "MR210505",
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "[전문1] 이진관 재판장 “한덕수 피고인을 징역 23년에 처한다”"
+        },
+        {
+            "_id": "6972d241845960002899783d",
+            "link": "https://n.news.naver.com/mnews/article/016/0002589133?sid=102",
+            "created_at": "2026-01-23T10:43:27.690000",
+            "description": "다만 재판부는 비상계엄 선포 후 당시 여당 원내대표였던 추경호 국민의힘 의원에게 전화해 국회 상황을 확인하고 국회 통고 여부를 점검한 행위, 계엄 해제 후 국무회의 심의를 지연시킨 행위와 관련해선 무죄로... ",
+            "originallink": "https://biz.heraldcorp.com/article/10660223?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-21T19:06:00",
+            "related_members": [
+                "G152611B"
+            ],
+            "title": "예상 깨고 한덕수 징역 23년 중형·법정구속…법원 “尹계엄=내란” 첫..."
+        },
+        {
+            "_id": "6972d241845960002899783e",
+            "link": "https://n.news.naver.com/mnews/article/022/0004099402?sid=102",
+            "created_at": "2026-01-23T10:43:27.690000",
+            "description": "다만 한 전 총리가 윤 전 대통령의 비상계엄 선포 후 당시 국민의힘 원내대표였던 추경호 의원에게 전화해 국회 상황을 확인하고 국회 통고 여부를 점검한 행위, 계엄 해제 후 이에 대한 국무회의 심의를 지연시킨 행위... ",
+            "originallink": "https://www.segye.com/newsView/20260121516341?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-21T18:34:00",
+            "related_members": [
+                "G152611B"
+            ],
+            "title": "“내란 저지 총리 의무 외면… 국무회의 소집에 적극 가담” [한덕수 1심..."
+        },
+        {
+            "_id": "6972d2158459600028997793",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303839?sid=100",
+            "created_at": "2026-01-23T10:42:43.861000",
+            "description": "피고인은 어떻게 생각하느냐는 취지의 서일준 의원의 질의에 대하여 헌법 규정에 따르면 계엄을 선포하더라도 국회가 과반수로 의결하면 즉각 해제하게 되어 있지 않느냐. 그러면 결국 그 논리는 계엄을 통해서 국회의... ",
+            "originallink": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202601211405245040",
+            "press": "YTN",
+            "pubDate": "2026-01-21T14:05:00",
+            "related_members": [
+                "MR210505",
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "한덕수 전 국무총리 '내란 재판' 1심 선고…이 시각 중앙지법"
+        },
+        {
+            "_id": "6972d21e84596000289977c3",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303841?sid=102",
+            "created_at": "2026-01-23T10:42:52.860000",
+            "description": "근거하여 국회의원, 정치인 등 주요 인사와 중앙선관위 관계자들을 영장 없이 체포, 구금하고 MBC, JTBC... 피고인이 당시 국민의힘 원내대표였던 추경호와 통화하면서 추 대표, 걱정하지 마라는 취지로 말한 사실. 피고인이... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601211353199003",
+            "press": "YTN",
+            "pubDate": "2026-01-21T13:53:00",
+            "related_members": [
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "'내란 재판' 한덕수 1심 선고...윤 내란죄 형량 가늠자?"
+        },
         {
             "_id": "6970122f297082fcc2b34c22",
             "link": "http://andongmbc.co.kr/adboard/NewsView80313",
@@ -186,466 +651,87 @@
                 "G152611B"
             ],
             "title": "홍의락 \"대구시장 후보자 활동 잠정 중단…김부겸 결단해야\""
-        },
-        {
-            "_id": "69701278297082fcc2b34d77",
-            "link": "https://n.news.naver.com/mnews/article/366/0001136999?sid=102",
-            "created_at": "2026-01-21T08:40:38.470000",
-            "description": "그러면서 그는 “김정기 대구시장 권한대행과 경북도의원, 지역 국회의원들과도 이를 상의하겠다”고... 추경호(대구 달성)·최은석(대구 동구군위갑) 의원은 “지원책을 꼼꼼히 따져봐야 한다”고 했다.",
-            "originallink": "https://biz.chosun.com/topics/topics_social/2026/01/19/4ACOSIP4O5HM7IPKX63ECDYGT4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-19T11:05:00",
-            "related_members": [
-                "8SV6917G",
-                "UF53617M",
-                "G152611B"
-            ],
-            "title": "정부 20兆 지원에…대구·경북 행정통합 ‘재점화’"
-        },
-        {
-            "_id": "6970125c297082fcc2b34d20",
-            "link": "https://n.news.naver.com/mnews/article/366/0001136907?sid=100",
-            "created_at": "2026-01-21T08:40:11.076000",
-            "description": "현역 국회 부의장인 주호영 의원(6선)이 나설 채비를 하고 있다. 원내대표 출신인 추경호 의원(3선)은 이미 출마 선언을 했다. 박근혜 전 대통령의 측근으로 통하는 유영하 의원도 출마할 가능성이 있다. 대구 지역 정치권... ",
-            "originallink": "https://biz.chosun.com/policy/politics/2026/01/19/SPUTQW2YKBAZFE2Q2PURSVSU34/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-19T06:01:00",
-            "related_members": [
-                "8SV6917G",
-                "JZV5283U",
-                "UF53617M",
-                "G152611B"
-            ],
-            "title": "[인터뷰] 최은석 “대구 경제 살릴 수 있는 시장 뽑혀야”"
-        },
-        {
-            "_id": "6970123c297082fcc2b34c90",
-            "link": "https://n.news.naver.com/mnews/article/052/0002302358?sid=100",
-            "created_at": "2026-01-21T08:39:39.217000",
-            "description": "대통령, 국회의원 이 두 가지는 민주당이 다수석과 집권여당이 돼 있는데. 지방선거 같은 경우에는 지자체... 추경호 의원 관련한 내용들도 있었고요. 민주당의 전반적인 문제인 것처럼 특검을 통해서 규명하자고 주장을... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601181649266473",
-            "press": "YTN",
-            "pubDate": "2026-01-18T16:49:00",
-            "related_members": [
-                "E1J8836Y",
-                "TZP9391O",
-                "G152611B"
-            ],
-            "title": "이재명 정부 1기 우상호 첫 사퇴...강원지사 출마?"
-        },
-        {
-            "_id": "696c5c3c297082fcc2b19be7",
-            "link": "https://n.news.naver.com/mnews/article/016/0002587213?sid=102",
-            "created_at": "2026-01-18T13:06:20.881000",
-            "description": "이날 행사에는 추경호 국회의원과 최재훈 달성군수, 김달순 회장을 비롯해 친환경 농업인과 가족 등 400여명이 참석했다. 행사는 정기총회와 화합한마당으로 나눠 진행됐으며 지난 한 해의 활동을 되돌아보고 친환경농업... ",
-            "originallink": "https://biz.heraldcorp.com/article/10657525?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-17T19:39:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "달성군친환경원예연구회, 달성군민체육관서 ‘친환경원예연구회 총회·..."
-        },
-        {
-            "_id": "6968ad95297082fcc2b18d29",
-            "link": "https://n.news.naver.com/mnews/article/421/0008716526?sid=100",
-            "created_at": "2026-01-15T18:04:18.169000",
-            "description": "김현정 당 원내대변인은 이날 오후 국회에서 열린 정책의원총회가 끝나고 기자들과 만나 \"이것으로 단식하는... 의원과 김정재 의원이 3억~5억 원을 주는 것이 관례라는 녹취록이 나왔고, 12·3 불법계엄 당일 추경호 당시... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6040382",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T15:01:00",
-            "related_members": [
-                "E1J8836Y",
-                "G152611B",
-                "KFM1081G",
-                "7YL9580G",
-                "6VC83722",
-                "QWL7778X",
-                "TZP9391O"
-            ],
-            "title": "與, 통일교 특검 촉구 장동혁 단식에 \"정치적 쇼\" 일축"
-        },
-        {
-            "_id": "6968adb4297082fcc2b18d87",
-            "link": "https://n.news.naver.com/mnews/article/421/0008715912?sid=102",
-            "created_at": "2026-01-15T18:04:49.083000",
-            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 앞서 국민의힘에선 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고, 윤재옥 의원(4선)도... ",
-            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6040048",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T11:46:00",
-            "related_members": [
-                "ZRF3039U",
-                "8SV6917G",
-                "JZV5283U",
-                "G152611B",
-                "UF53617M"
-            ],
-            "title": "국힘 '6선' 주호영 출마선언 초읽기…판 커지는 대구시장 선거"
-        },
-        {
-            "_id": "6968add3297082fcc2b18ded",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104957?sid=121",
-            "created_at": "2026-01-15T18:05:20.486000",
-            "description": "곧 끝날 거다.’라고 이야기했고, 추경호 의원 역시 대통령이 자신에게 전화하여 ‘국회가 절차를 밟아 계엄해제 요구 의결을 하면 즉시 수용하여 해제할 것이다.’라고 했다고 증언하였습니다. 이는 추경호 의원에 대한... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458913&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-14T17:41:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "윤석열 최후진술 요약 영상…“이런 바보가 어떻게 쿠데타 하냐” [지금..."
-        },
-        {
-            "_id": "6968add3297082fcc2b18dee",
-            "link": "https://n.news.naver.com/mnews/article/032/0003421460?sid=100",
-            "created_at": "2026-01-15T18:05:20.486000",
-            "description": "곧 끝날 거다.’라고 이야기했고, 추경호 의원 역시 대통령이 자신에게 전화하여 ‘국회가 절차를 밟아 계엄해제 요구 의결을 하면 즉시 수용하여 해제할 것이다.’라고 했다고 증언하였습니다. 이는 추경호 의원에 대한... ",
-            "originallink": "https://www.khan.co.kr/article/202601141206001",
-            "press": "경향신문",
-            "pubDate": "2026-01-14T12:06:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "[전문]윤석열 최후 진술 “내란몰이 목표로 수사 아닌 조작·왜곡 했다..."
-        },
-        {
-            "_id": "6968add3297082fcc2b18def",
-            "link": "https://n.news.naver.com/mnews/article/448/0000583508?sid=102",
-            "created_at": "2026-01-15T18:05:20.486000",
-            "description": "곧 끝날 거다.’라고 이야기했고, 추경호 의원 역시 대통령이 자신에게 전화하여 ‘국회가 절차를 밟아 계엄해제 요구 의결을 하면 즉시 수용하여 해제할 것이다.’라고 했다고 증언하였습니다. 이는 추경호 의원에 대한... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/14/2026011490070.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-14T10:18:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "'사형 구형' 尹 최후진술 \"빈총 들고 하는 내란 봤나\""
-        },
-        {
-            "_id": "6966ecc0887d07f7ba2fb342",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786304?sid=102",
-            "created_at": "2026-01-14T10:09:21.173000",
-            "description": "곧 끝날 거다.’라고 이야기했고, 추경호 의원 역시 대통령이 자신에게 전화하여 ‘국회가 절차를 밟아 계엄해제 요구 의결을 하면 즉시 수용하여 해제할 것이다.’라고 했다고 증언하였습니다. 이는 추경호 의원에 대한... ",
-            "originallink": "https://www.hani.co.kr/arti/society/society_general/1239571.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-14T02:28:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "[전문] 윤석열 “계엄령은 계몽령” 결심공판 최후진술"
-        },
-        {
-            "_id": "6966ecc0887d07f7ba2fb343",
-            "link": "https://n.news.naver.com/mnews/article/020/0003689143?sid=100",
-            "created_at": "2026-01-14T10:09:21.174000",
-            "description": "곧 끝날 거다.’라고 이야기했고, 추경호 의원 역시 대통령이 자신에게 전화하여 ‘국회가 절차를 밟아 계엄해제 요구 의결을 하면 즉시 수용하여 해제할 것이다.’라고 했다고 증언하였습니다. 이는 추경호 의원에 대한... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133151839/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-14T02:19:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "‘사형 구형’ 尹, 90분 최후진술 “계엄은 비상벨…특검 광란의 칼춤”"
-        },
-        {
-            "_id": "6966ecc0887d07f7ba2fb344",
-            "link": "https://n.news.naver.com/mnews/article/366/0001136015?sid=102",
-            "created_at": "2026-01-14T10:09:21.174000",
-            "description": "곧 끝날 거다.’라고 이야기했고, 추경호 의원 역시 대통령이 자신에게 전화하여 ‘국회가 절차를 밟아 계엄해제 요구 의결을 하면 즉시 수용하여 해제할 것이다.’라고 했다고 증언하였습니다. 이는 추경호 의원에 대한... ",
-            "originallink": "https://biz.chosun.com/topics/law_firm/2026/01/14/PT7R4QZ4ARFNBI6YPXSZKHXKYI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-14T02:02:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "[전문] ‘사형 구형’ 尹 최후진술 “대통령 국가긴급권 행사, 내란 될 ..."
-        },
-        {
-            "_id": "6965949a887d07f7ba2fab22",
-            "link": "https://n.news.naver.com/mnews/article/023/0003952485?sid=004",
-            "created_at": "2026-01-13T09:40:56.511000",
-            "description": "국회의원도 공무원이기에 뇌물죄에 해당할 가능성도 있습니다. 다만 뇌물죄에 해당하려면 받았다고... ‘내란 특검’이 국민의힘 의원들의 계엄 해제 요구 표결을 방해한 혐의로 청구했던 추경호 국민의힘... ",
-            "originallink": "https://www.chosun.com/special/announcement/2026/01/12/N6IU2LLE4ZGBZGQ7GITWZJE6RM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-12T18:22:00",
-            "related_members": [
-                "MNZ4401T",
-                "G152611B"
-            ],
-            "title": "강선우가 받은 1억원, 즉시 돌려줬다면 처벌 피할까?"
-        },
-        {
-            "_id": "6964b571631fd1743499634f",
-            "link": "https://n.news.naver.com/mnews/article/421/0008707682?sid=102",
-            "created_at": "2026-01-12T17:48:47.018000",
-            "description": "앞서 3선의 추경호 의원과 초선의 최은석 의원이 시장 출마를 공식화했고, 4선의 윤재옥 의원은 이달 말 출마를 선언할 예정이다. 국민의힘 최다선인 6선의 주호영 국회 부의장은 오는 25일 국민의힘 대구시당에서 회견을... ",
-            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6035070",
-            "press": "뉴스1",
-            "pubDate": "2026-01-12T07:01:00",
-            "related_members": [
-                "JZV5283U",
-                "8SV6917G",
-                "UF53617M",
-                "G152611B",
-                "ZRF3039U"
-            ],
-            "title": "대구시장 선거 '부익부 빈익빈'?…국힘은 후보 난립, 민주당은 인물난"
-        },
-        {
-            "_id": "6964b571631fd17434996350",
-            "link": "https://n.news.naver.com/mnews/article/079/0004103895?sid=102",
-            "created_at": "2026-01-12T17:48:47.018000",
-            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 아울러 당내 중진인 6선의 주호영 의원, 3선의 윤재옥 의원도 곧 출마 의사를 밝힐 것으로 전망된다. 특히 윤... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453463?utm_source=naver&utm_medium=article&utm_campaign=20260112060055",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-12T06:01:00",
-            "related_members": [
-                "JZV5283U",
-                "8SV6917G",
-                "ZRF3039U",
-                "UF53617M",
-                "G152611B"
-            ],
-            "title": "홍준표 이을 대구시장은? 국힘 현역 줄줄이 출사표·김부겸 등판 촉각"
-        },
-        {
-            "_id": "6964b591631fd174349964f1",
-            "link": "https://n.news.naver.com/mnews/article/421/0008705976?sid=100",
-            "created_at": "2026-01-12T17:49:19.083000",
-            "description": "이어 \"본인들이 환골탈태했다면 추경호 전 원내대표와도 끊고 통일교·신천지 특검부터 받아라\"라며 \"2차... 정 대표는 6·3 지방선거 국회의원 재보선과 관련해서는 \"원래 국회의원 재보궐 선거는 경선을 잘 안 한다\"며 \"전략... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6034407",
-            "press": "뉴스1",
-            "pubDate": "2026-01-09T17:50:00",
-            "related_members": [
-                "2385336L",
-                "G152611B"
-            ],
-            "title": "경남 간 정청래, 굴 가공 체험…尹 공판 지연에 \"좋은 인상 주겠나\"(종합..."
-        },
-        {
-            "_id": "6964b583631fd17434996440",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106788&s_mcd=0263&s_hcd=01",
-            "created_at": "2026-01-12T17:49:04.973000",
-            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 들면 추경호, 주호영 그러면 둘 중에 하나는 뭐 물론 이진숙 전 사장도 있습니다만 ☆ 장성철 : 대구 같은 경우에는요.... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106788&s_mcd=0263&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-08T20:30:00",
-            "related_members": [
-                "9YO73104",
-                "KFM1081G",
-                "LJK4960Z",
-                "8SV6917G",
-                "G152611B"
-            ],
-            "title": "김종혁 \"장동혁, 스스로 발광하지 못해...윤어게인 세력에 도구처럼 쓰..."
-        },
-        {
-            "_id": "6964b583631fd17434996441",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106789&s_mcd=0263&s_hcd=01",
-            "created_at": "2026-01-12T17:49:04.973000",
-            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 들면 추경호, 주호영 그러면 둘 중에 하나는 뭐 물론 이진숙 전 사장도 있습니다만 ☆ 장성철 : 대구 같은 경우에는요.... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106789&s_mcd=0263&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-08T20:30:00",
-            "related_members": [
-                "9YO73104",
-                "LJK4960Z",
-                "8SV6917G",
-                "G152611B"
-            ],
-            "title": "박원석 \"한동훈, 윤어게인 달래기 위한 제물\"...장성철 \"국힘, 평택을 두..."
-        },
-        {
-            "_id": "6964b583631fd17434996442",
-            "link": "https://n.news.naver.com/mnews/article/052/0002298137?sid=100",
-            "created_at": "2026-01-12T17:49:04.973000",
-            "description": "선거에서 국회의원 이제 최소 4개로 이제 변경이 됐고 더 늘어날 것으로 보이는데 재보궐 선거에서 이... 왜냐하면 뭐 정점식 정책위의장에 조광한 전 최고위원에 이게 뭐야 그러니까 며칠전 했던 얘기가 아무것도 아닌... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601081915395487",
-            "press": "YTN",
-            "pubDate": "2026-01-08T19:15:00",
-            "related_members": [
-                "9YO73104",
-                "KFM1081G",
-                "LJK4960Z",
-                "8SV6917G",
-                "G152611B"
-            ],
-            "title": "김종혁 \"장동혁, 스스로 발광하지 못해...윤어게인 세력에 도구처럼 쓰..."
-        },
-        {
-            "_id": "6964b548631fd17434996091",
-            "link": "https://n.news.naver.com/mnews/article/022/0004096173?sid=100",
-            "created_at": "2026-01-12T17:48:05.535000",
-            "description": "6·3 지방선거와 동시에 국회의원 재보궐선거가 치러질 지역이 4곳으로 늘었다. 현역 의원들의 광역단체장... 국민의힘에선 나경원 의원이 거론된다. 대구시장 후보로는 국민의힘 추경호·유영하·윤재옥 의원이 있다. 같은... ",
-            "originallink": "https://www.segye.com/newsView/20260108515352?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-08T18:26:00",
-            "related_members": [
-                "JZV5283U",
-                "G152611B",
-                "ZRF3039U",
-                "LH97552Q",
-                "SLW27496",
-                "4U29186R",
-                "HXT76735",
-                "XPP2564T",
-                "3249208I"
-            ],
-            "title": "이 와중에 2석 날아간 與, 재보선 판 커진다"
-        },
-        {
-            "_id": "6964b54f631fd17434996123",
-            "link": "https://n.news.naver.com/mnews/article/056/0012100771?sid=100",
-            "created_at": "2026-01-12T17:48:12.656000",
-            "description": "그때 어떤 뉴스가 하루 종일 도배됐냐면 추경호 당시 원내대표가 공천 헌금으로 20억 원을 수수했다는... 그래서 저는 필요하면 정치권을 전수 조사해서 이번 그리고 지난번 지방선거들이나 아니면 국회의원 선거 같은 이런... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8453471&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-08T09:36:00",
-            "related_members": [
-                "8Q88373R",
-                "OFE45081",
-                "G152611B"
-            ],
-            "title": "[전격시사] 김용민 더불어민주당 의원 - “‘공천 헌금 의혹’ 김병기 ..."
-        },
-        {
-            "_id": "6964b591631fd174349964f2",
-            "link": "https://n.news.naver.com/mnews/article/023/0003951563?sid=102",
-            "created_at": "2026-01-12T17:49:19.084000",
-            "description": "국회의원이 헌법상 직접적인 민주적 정당성을 갖고, 이들이 모여 국회를 구성하지만, 민주당·혁신당은... 민주당은 계엄 해제 직후인 2024년 12월 4일부터 윤석열 전 대통령, 김용현 전 국방장관, 추경호 전 국민의힘... ",
-            "originallink": "https://www.chosun.com/national/court_law/2026/01/07/CSAIX5ZFUZDQRJLTZMIZQ4ZSCQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-07T18:08:00",
-            "related_members": [
-                "G152611B"
-            ],
-            "title": "이완규 前법제처장, 내란특검법 위헌심판제청 신청... “의회 독재”"
-        },
-        {
-            "_id": "6964b571631fd17434996352",
-            "link": "http://andongmbc.co.kr/adboard/NewsView80026",
-            "created_at": "2026-01-12T17:48:47.018000",
-            "description": "어제는 대기업 출신의 최은석 국민의힘 국회의원이 대구시장에 출마하겠다고 선언했는데요. 당내 경선을... 생각했다가는 대구가 직면한 난제를 풀 수가 없습니다. MBC뉴스 권윤수입니다. (영상취재 이동삼 그래픽 한민수)",
-            "originallink": "http://andongmbc.co.kr/adboard/NewsView80026",
-            "press": "MBC",
-            "pubDate": "2026-01-06T09:16:00",
-            "related_members": [
-                "JZV5283U",
-                "UF53617M",
-                "8SV6917G",
-                "G152611B",
-                "ZRF3039U",
-                "8JG4358H"
-            ],
-            "title": "투데이R]대구시장직이 정치적 타이틀인가?..우후죽순 도전장"
-        },
-        {
-            "_id": "6964b573631fd17434996366",
-            "link": "https://n.news.naver.com/mnews/article/056/0012098899?sid=100",
-            "created_at": "2026-01-12T17:48:48.463000",
-            "description": "국민의힘 최은석 국회의원이 오늘(5일) 기자회견을 열고, 6·3 지방선거 대구시장 출마를 선언했습니다. 최... 앞서 대구 지역구 의원 중에선 윤재옥·주호영·추경호 의원이 대구시장 출마를 공식화하거나 준비 중이라고... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8450848&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-05T21:54:00",
-            "related_members": [
-                "UF53617M",
-                "8SV6917G",
-                "G152611B",
-                "ZRF3039U"
-            ],
-            "title": "최은석 국회의원, 대구시장 출마 공식 선언"
-        },
-        {
-            "_id": "6964b571631fd17434996353",
-            "link": "https://n.news.naver.com/mnews/article/005/0001824235?sid=100",
-            "created_at": "2026-01-12T17:48:47.018000",
-            "description": "주호영 국회부의장과 유영하(대구 달서갑) 의원도 이달 중 출마 여부에 대한 입장을 밝힐 것으로 알려졌다. 민주당에서는 현재까지 대구시 경제부시장을 지낸 홍의락 전 의원이 대구시장 도전 의사를 밝혔다.",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029206748&code=61111711&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-05T15:18:00",
-            "related_members": [
-                "JZV5283U",
-                "UF53617M",
-                "8SV6917G",
-                "G152611B",
-                "ZRF3039U"
-            ],
-            "title": "최은석 의원 대구시장 출마 선언…대구시장 출마 러시"
-        },
-        {
-            "_id": "6964b544631fd17434996036",
-            "link": "https://n.news.naver.com/mnews/article/421/0008692988?sid=102",
-            "created_at": "2026-01-12T17:48:01.451000",
-            "description": "장동혁 대표는 참석하지 않았지만 경북 김천을 지역구로 둔 송언석 원내대표 등 지도부와 이인선 국민의힘 대구시당위원장, 구자근 국민의힘 경북도당위원장 등 대구·경북(TK) 국회의원 대부분이 참석했다. 특히 주호영... ",
-            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6027211",
-            "press": "뉴스1",
-            "pubDate": "2026-01-02T17:54:00",
-            "related_members": [
-                "7469929V",
-                "KFM1081G",
-                "6EN68926",
-                "8SV6917G",
-                "DWK26447",
-                "JZV5283U",
-                "G152611B",
-                "UF53617M",
-                "1Y73132H",
-                "ZRF3039U"
-            ],
-            "title": "대구시장 출마 예정자 집결…세 과시장된 국힘 신년인사회"
-        },
-        {
-            "_id": "6964b581631fd17434996425",
-            "link": "https://n.news.naver.com/mnews/article/020/0003685225?sid=102",
-            "created_at": "2026-01-12T17:49:02.903000",
-            "description": "추경호 임종득 김기현 김선교 권성동 의원 등 현직 국회의원 5명을 기소했다. 특검별로 보면 내란 특검은 총 4명을 구속시키고 27명을 재판에 넘겼으며, 채 상병 특검은 1명을 구속시키고 33명을 기소했다. 김건희 특검은... ",
-            "originallink": "https://www.donga.com/news/Society/article/all/20251229/133051663/2",
-            "press": "동아일보",
-            "pubDate": "2025-12-29T04:34:00",
-            "related_members": [
-                "JNL7001A",
-                "G152611B",
-                "RAJ1024Z",
-                "GDG1847Z",
-                "X7I4680R",
-                "TQP7167T"
-            ],
-            "title": "3대 특검, 25명 구속하고 121명 기소… ‘통일교 수사’ 논란 남겨"
-        },
-        {
-            "_id": "6964b58b631fd17434996494",
-            "link": "https://n.news.naver.com/mnews/article/023/0003947987?sid=100",
-            "created_at": "2026-01-12T17:49:12.214000",
-            "description": "국민의힘에선 주호영 국회부의장, 나경원·이종배·윤한홍·추경호·한기호·권영진·김은혜·박정하·조은희 의원 등 20여 명이 참석했던 것으로 전해졌다. 이 전 대통령은 장동혁 대표에 대해 “개인적인 연이 있는 사이는... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2025/12/19/3W6EQD4MJRHJBHVVUOT2STTJ2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2025-12-19T16:30:00",
-            "related_members": [
-                "JQA21112",
-                "HSW1214Q",
-                "6RD62559",
-                "G152611B",
-                "KFM1081G",
-                "8X15119P",
-                "MQU41854",
-                "8SV6917G",
-                "4019850M",
-                "L5P27909",
-                "SLW27496",
-                "LYY5513O"
-            ],
-            "title": "MB “강도 들어오면 힘 모아야” 화합 주문에 野, 아전인수 해석"
         }
     ],
     "recent_videos": [
+        {
+            "_id": "6968b26f297082fcc2b1915a",
+            "url": "https://www.youtube.com/watch?v=voRZKuPdFfg",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-15T18:24:59.972000",
+            "duration": 124.0,
+            "title": "‘계엄 해제 방해’ 추경호 구속 기로…조지호 “尹, 월담하는 의원 체포하라 했다” [9시 뉴스] / KBS  2025.12.01.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd35",
+            "url": "https://www.youtube.com/watch?v=GVAPFdIctdc",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-13T09:52:22.284000",
+            "duration": 148.0,
+            "title": "'표결 방해 의혹' 국민의힘 추경호 구속영장‥\"尹과 내란 공모 소명\" (2025.11.03/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd30",
+            "url": "https://www.youtube.com/watch?v=JBvikJlTKZY",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-23T16:50:25.357000",
+            "duration": 650.0,
+            "title": "추경호, 내란 재판 중 대구시장 출마 선언…사법리스크 해소 가능? [뉴스와이드]",
+            "upload_date": null
+        },
+        {
+            "_id": "6965956b887d07f7ba2fac26",
+            "url": "https://www.youtube.com/watch?v=MQqA4GAeJsg",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-14T10:24:51.369000",
+            "duration": 244.0,
+            "title": "공천헌금 단위가 달라요...추경호 20억! 김정재 5억!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd39",
+            "url": "https://www.youtube.com/watch?v=tHNa4-axuFM",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-21T08:52:05.443000",
+            "duration": 166.0,
+            "title": "'계엄 해제 방해' 추경호 구속 기로‥내일 새벽 결과 나올 듯 (2025.12.02/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd34",
+            "url": "https://www.youtube.com/watch?v=3_-5gt34BII",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-21T08:52:04.790000",
+            "duration": 520.0,
+            "title": "[사사건건] 추경호 구속영장 나올까? 전직 원내대표 홍익표, 김성태 2인의 전망 - KBS 2025.11.06.",
+            "upload_date": null
+        },
         {
             "_id": "696c5fdf297082fcc2b19d3d",
             "url": "https://www.youtube.com/watch?v=f7phC584-u4",
             "HG_NM": "추경호",
             "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
+            "collected_at": "2026-01-23T16:50:25.357000",
             "duration": 235.0,
             "title": "[추경호 국회의원] '2017년 의정보고 영상'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd2d",
+            "url": "https://www.youtube.com/watch?v=baMa2zz3bx8",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-23T16:50:25.357000",
+            "duration": 153.0,
+            "title": "[현장연결] ‘계엄 해제 방해 혐의’ 추경호 의원 구속 심사…“군이 국회 짓밟는 상황, 역할 안 해” [9시 뉴스] / KBS  2025.12.02.",
             "upload_date": null
         },
         {
@@ -669,53 +755,13 @@
             "upload_date": null
         },
         {
-            "_id": "6968b26f297082fcc2b19159",
-            "url": "https://www.youtube.com/watch?v=2j3aIKtvH18",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": 116.0,
-            "title": "'구속영장 청구' 추경호 \"불체포특권 포기…당당히 임하겠다\" / SBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd39",
-            "url": "https://www.youtube.com/watch?v=tHNa4-axuFM",
+            "_id": "6960ae35631fd1743497dd3b",
+            "url": "https://www.youtube.com/watch?v=OK9BfxqzQS8",
             "HG_NM": "추경호",
             "MONA_CD": "G152611B",
             "collected_at": "2026-01-21T08:52:05.443000",
-            "duration": 166.0,
-            "title": "'계엄 해제 방해' 추경호 구속 기로‥내일 새벽 결과 나올 듯 (2025.12.02/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd35",
-            "url": "https://www.youtube.com/watch?v=GVAPFdIctdc",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-13T09:52:22.284000",
-            "duration": 148.0,
-            "title": "'표결 방해 의혹' 국민의힘 추경호 구속영장‥\"尹과 내란 공모 소명\" (2025.11.03/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5fdf297082fcc2b19d3e",
-            "url": "https://www.youtube.com/watch?v=UC3wN1W4remC59jaUQMTBbrA",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": null,
-            "title": "추경호TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd2e",
-            "url": "https://www.youtube.com/watch?v=1kMZb3OLszs",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": 15470.0,
-            "title": "[🔴생중계] 추경호 체포동의안 표결…이 시각 국회 본회의 LIVE / 연합뉴스TV(YonhapnewsTV)",
+            "duration": 18134.0,
+            "title": "[속보] '표결 방해' 추경호 구속영장 기각..법원, \"다툼 여지 있어\" - [MBC 뉴스속보] 2025년 12월 03일",
             "upload_date": null
         },
         {
@@ -723,99 +769,9 @@
             "url": "https://www.youtube.com/watch?v=bFMbkJnQJEg",
             "HG_NM": "추경호",
             "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:05.443000",
+            "collected_at": "2026-01-23T16:50:26.119000",
             "duration": 160.0,
             "title": "추경호 구속영장 기각‥\"혐의·법리 다툼 여지\" (2025.12.03/뉴스투데이/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd32",
-            "url": "https://www.youtube.com/watch?v=RaDQE1bPNmk",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": 120.0,
-            "title": "특검, 추경호 부른다…계엄 해제 '방해 의혹' 본격 수사 / JTBC 뉴스룸",
-            "upload_date": null
-        },
-        {
-            "_id": "6965956b887d07f7ba2fac26",
-            "url": "https://www.youtube.com/watch?v=MQqA4GAeJsg",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-14T10:24:51.369000",
-            "duration": 244.0,
-            "title": "공천헌금 단위가 달라요...추경호 20억! 김정재 5억!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd3a",
-            "url": "https://www.youtube.com/watch?v=eYjwsC4lVTw",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:05.443000",
-            "duration": 629.0,
-            "title": "[속보] '계엄 해제 방해 혐의' 추경호 구속영장 기각…\"법리 다툼 여지\"/2025년 12월 3일(수)/KBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd34",
-            "url": "https://www.youtube.com/watch?v=3_-5gt34BII",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": 520.0,
-            "title": "[사사건건] 추경호 구속영장 나올까? 전직 원내대표 홍익표, 김성태 2인의 전망 - KBS 2025.11.06.",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b26f297082fcc2b1915a",
-            "url": "https://www.youtube.com/watch?v=voRZKuPdFfg",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-15T18:24:59.972000",
-            "duration": 124.0,
-            "title": "‘계엄 해제 방해’ 추경호 구속 기로…조지호 “尹, 월담하는 의원 체포하라 했다” [9시 뉴스] / KBS  2025.12.01.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd30",
-            "url": "https://www.youtube.com/watch?v=JBvikJlTKZY",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-15T18:24:59.972000",
-            "duration": 650.0,
-            "title": "추경호, 내란 재판 중 대구시장 출마 선언…사법리스크 해소 가능? [뉴스와이드]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd36",
-            "url": "https://www.youtube.com/watch?v=gGnCi7pThHA",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": 6875.0,
-            "title": "추경호 체포동의안 표결은 언제?…與 \"불체포특권 포기하라\" 국힘 \"악랄한 정치쇼\" [뉴스쏙]   / 연합뉴스TV(YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd2d",
-            "url": "https://www.youtube.com/watch?v=baMa2zz3bx8",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-21T08:52:04.790000",
-            "duration": 153.0,
-            "title": "[현장연결] ‘계엄 해제 방해 혐의’ 추경호 의원 구속 심사…“군이 국회 짓밟는 상황, 역할 안 해” [9시 뉴스] / KBS  2025.12.02.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae35631fd1743497dd2f",
-            "url": "https://www.youtube.com/watch?v=s-YxiGEej0Q",
-            "HG_NM": "추경호",
-            "MONA_CD": "G152611B",
-            "collected_at": "2026-01-14T10:24:50.592000",
-            "duration": 119.0,
-            "title": "체포동의안 가결 전, 추경호 발언 듣는 여야의 모습은?",
             "upload_date": null
         },
         {
@@ -829,15 +785,76 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae35631fd1743497dd3b",
-            "url": "https://www.youtube.com/watch?v=OK9BfxqzQS8",
+            "_id": "6968b26f297082fcc2b19159",
+            "url": "https://www.youtube.com/watch?v=2j3aIKtvH18",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-21T08:52:04.790000",
+            "duration": 116.0,
+            "title": "'구속영장 청구' 추경호 \"불체포특권 포기…당당히 임하겠다\" / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd2f",
+            "url": "https://www.youtube.com/watch?v=s-YxiGEej0Q",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-14T10:24:50.592000",
+            "duration": 119.0,
+            "title": "체포동의안 가결 전, 추경호 발언 듣는 여야의 모습은?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd36",
+            "url": "https://www.youtube.com/watch?v=gGnCi7pThHA",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-21T08:52:04.790000",
+            "duration": 6875.0,
+            "title": "추경호 체포동의안 표결은 언제?…與 \"불체포특권 포기하라\" 국힘 \"악랄한 정치쇼\" [뉴스쏙]   / 연합뉴스TV(YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a7a3631fd1743497d0d0",
+            "url": "https://www.youtube.com/watch?v=wYeD_DJ2Y5Y",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-23T16:50:25.357000",
+            "duration": 608.0,
+            "source": "MBC뉴스",
+            "title": "[모닝콜] 박찬대 \"국민 시각으로 보면 추경호 영장 발부될 것\" (2025.12.02/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd2e",
+            "url": "https://www.youtube.com/watch?v=1kMZb3OLszs",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-23T16:50:25.357000",
+            "duration": 15470.0,
+            "title": "[🔴생중계] 추경호 체포동의안 표결…이 시각 국회 본회의 LIVE / 연합뉴스TV(YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd32",
+            "url": "https://www.youtube.com/watch?v=RaDQE1bPNmk",
+            "HG_NM": "추경호",
+            "MONA_CD": "G152611B",
+            "collected_at": "2026-01-23T16:50:26.119000",
+            "duration": 120.0,
+            "title": "특검, 추경호 부른다…계엄 해제 '방해 의혹' 본격 수사 / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae35631fd1743497dd3a",
+            "url": "https://www.youtube.com/watch?v=eYjwsC4lVTw",
             "HG_NM": "추경호",
             "MONA_CD": "G152611B",
             "collected_at": "2026-01-21T08:52:05.443000",
-            "duration": 18134.0,
-            "title": "[속보] '표결 방해' 추경호 구속영장 기각..법원, \"다툼 여지 있어\" - [MBC 뉴스속보] 2025년 12월 03일",
+            "duration": 629.0,
+            "title": "[속보] '계엄 해제 방해 혐의' 추경호 구속영장 기각…\"법리 다툼 여지\"/2025년 12월 3일(수)/KBS",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:42.957138"
+    "exported_at": "2026-01-26T14:36:51.030129"
 }

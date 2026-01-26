@@ -43,48 +43,60 @@
     "analysis": {
         "keywords": [
             "민주당",
-            "김동연",
             "경기",
-            "대표",
-            "후보",
+            "김동연",
             "지사",
-            "선거",
-            "경기도",
-            "베네수엘라",
-            "군사",
-            "작전",
-            "쿠팡",
-            "수원",
+            "후보",
             "사회",
-            "정면"
+            "제안",
+            "대표",
+            "선거",
+            "기본",
+            "경기도",
+            "정부",
+            "쿠팡",
+            "이날",
+            "토론회"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 17
-            },
-            {
-                "text": "김동연",
-                "value": 10
+                "value": 20
             },
             {
                 "text": "경기",
+                "value": 13
+            },
+            {
+                "text": "김동연",
+                "value": 11
+            },
+            {
+                "text": "지사",
                 "value": 9
+            },
+            {
+                "text": "후보",
+                "value": 9
+            },
+            {
+                "text": "사회",
+                "value": 8
+            },
+            {
+                "text": "제안",
+                "value": 8
             },
             {
                 "text": "대표",
                 "value": 8
             },
             {
-                "text": "후보",
+                "text": "선거",
                 "value": 7
             },
             {
-                "text": "지사",
-                "value": 6
-            },
-            {
-                "text": "선거",
+                "text": "기본",
                 "value": 6
             },
             {
@@ -92,15 +104,7 @@
                 "value": 6
             },
             {
-                "text": "베네수엘라",
-                "value": 6
-            },
-            {
-                "text": "군사",
-                "value": 6
-            },
-            {
-                "text": "작전",
+                "text": "정부",
                 "value": 6
             },
             {
@@ -108,46 +112,111 @@
                 "value": 6
             },
             {
-                "text": "수원",
+                "text": "이날",
                 "value": 5
             },
             {
-                "text": "사회",
-                "value": 5
-            },
-            {
-                "text": "정면",
+                "text": "토론회",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:26.240874",
+        "last_analyzed_at": "2026-01-26T14:36:33.267051",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
+                3,
                 0,
                 0,
                 0,
-                0,
-                0,
-                1
+                2,
+                0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6976fd028459600028997fdc",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955108?sid=110",
+            "created_at": "2026-01-26T14:34:56.093000",
+            "description": "더불어민주당 염태영 의원은 국정감사에서 국가철도공단의 ‘체불e제로’ 시스템이 2021년 도입 이후 단 한... 일부 국회의원의 방관도 한몫합니다. 국가철도공단과 삼성물산의 성공 사례를 법과 제도로 뒷받침하지 않고... ",
+            "originallink": "https://www.chosun.com/opinion/chosun_column/2026/01/25/WALUCLB3OJEHDCHURZULSQAZDM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T23:51:00",
+            "related_members": [
+                "NX534083",
+                "URX8075K"
+            ],
+            "title": "[朝鮮칼럼] 산업재해와 임금체불에 대해 李 대통령께 드리는 글"
+        },
+        {
+            "_id": "6976fceb8459600028997f3e",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
+            "created_at": "2026-01-26T14:34:32.940000",
+            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T13:11:00",
+            "related_members": [
+                "ATB59635",
+                "URX8075K",
+                "5765663F",
+                "7YC6702R",
+                "W8W95421",
+                "IL74008M",
+                "MIS62075",
+                "3CC88975",
+                "TJW93720",
+                "3OQ8273H",
+                "YM42715P",
+                "6I88973D",
+                "URV1689Q"
+            ],
+            "title": "현근택 출판기념회에 1천여명 몰려…“용인시장 선거 기대 반영”"
+        },
+        {
+            "_id": "6972d21d84596000289977b6",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723477?sid=102",
+            "created_at": "2026-01-23T10:42:51.551000",
+            "description": "더불어민주당 염태영(수원무) 의원이 21일 국회의원회관에서 열린 'AI(인공지능) 시대, 기본사회 실현과 경기도의 역할' 정책토론회를 열었다. 이날 토론회는 민주당 의원 33명과 공동 주최한 것이다. 염 의원은 에너지... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485458",
+            "press": "뉴시스",
+            "pubDate": "2026-01-21T17:23:00",
+            "related_members": [
+                "URX8075K"
+            ],
+            "title": "민주 염태영, 'AI 시대 기본사회 토론회' 개최…정책 제안"
+        },
+        {
+            "_id": "6972d1f284596000289976c2",
+            "link": "https://n.news.naver.com/mnews/article/021/0002765363?sid=100",
+            "created_at": "2026-01-23T10:42:08.902000",
+            "description": "경기지사 후보 예비후보 자격심사에는 김동연 경기지사를 비롯해 권칠승, 김병주, 염태영, 추미애, 한준호... 꽤 높았는데 명함도 못 내밀 듯”이라고 썼다. 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다.",
+            "originallink": "https://www.munhwa.com/article/11562552?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-21T11:05:00",
+            "related_members": [
+                "URV1689Q",
+                "URX8075K",
+                "C7E79345",
+                "BCQ55105",
+                "GF286398"
+            ],
+            "title": "李, 1호 감사패는 ‘한준호’…경기지사도 명심?"
+        },
+        {
             "_id": "6970122f297082fcc2b34c25",
             "link": "https://n.news.naver.com/mnews/article/023/0003954230?sid=100",
             "created_at": "2026-01-21T08:39:25.682000",
-            "description": "지방선거 공천 놓고 명·청 긴장감 이재명 대통령이 더불어민주당 한준호 의원에게 ‘대통령 1호 감사패’를... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게... ",
+            "description": "한 의원을 콕 집어 3개월 전 성과를 포상했다는 이유에서다. 민주당에선 추미애(6선)·권칠승(3선)·김병주... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게 도대체... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/21/TK4M4QOYUFBIXHEZ7GWLEWUJTI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-21T00:49:00",
@@ -248,7 +317,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "9일 국회의원회관 제2소회의실에서 열린 ‘제2차 경기도 도시철도망 신속 추진을 위한 국회 토론회’에는 김 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원, 도민, 시군... ",
+            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -388,7 +457,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
+            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -507,7 +576,7 @@
             "url": "https://www.youtube.com/watch?v=SSiDyY7EiIE",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-21T08:47:27.786000",
+            "collected_at": "2026-01-23T16:45:42.408000",
             "duration": 99.0,
             "title": "\"염태영 의원이 엄태영 명패로 투표…\" '김민석 표결' 국회 박장대소 (현장영상) / SBS",
             "upload_date": null
@@ -517,9 +586,29 @@
             "url": "https://www.youtube.com/watch?v=UCztG1F1kQjH3WNfnPrfmvtQ",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-21T08:47:27.786000",
+            "collected_at": "2026-01-23T16:45:42.408000",
             "duration": null,
             "title": "염태영TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad1d631fd1743497d915",
+            "url": "https://www.youtube.com/watch?v=mnf6Q0gUlDc",
+            "HG_NM": "염태영",
+            "MONA_CD": "URX8075K",
+            "collected_at": "2026-01-23T16:45:42.408000",
+            "duration": 172.0,
+            "title": "[돌발영상] 염태영 의원님 엄태영 명패로 투표하면 안돼요 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad1d631fd1743497d917",
+            "url": "https://www.youtube.com/watch?v=HXZD8LDfwns",
+            "HG_NM": "염태영",
+            "MONA_CD": "URX8075K",
+            "collected_at": "2026-01-23T16:45:42.408000",
+            "duration": 393.0,
+            "title": "[지금은이재명] 수원집중유세 염태영 국회의원 유세연설! (FULL 버전)",
             "upload_date": null
         },
         {
@@ -527,7 +616,7 @@
             "url": "https://www.youtube.com/watch?v=j_6RyMl2s5A",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-21T08:47:28.604000",
+            "collected_at": "2026-01-23T16:45:43.101000",
             "duration": 1738.0,
             "title": "[뉴스직격]정청래 딴지게시판=민심척도? 민주당 염태영의원 생각은?/김소희 “박민영 논란, 장동혁 대표는 왜 감싸나?”/김소희 염태영 박진호",
             "upload_date": null
@@ -537,19 +626,9 @@
             "url": "https://www.youtube.com/watch?v=MXQiQ4jgFRs",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-18T13:16:33.185000",
+            "collected_at": "2026-01-23T16:45:42.408000",
             "duration": 166.0,
             "title": "이클레이 거버넌스 자문단, 염태영 국회의원 소개",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad1d631fd1743497d915",
-            "url": "https://www.youtube.com/watch?v=mnf6Q0gUlDc",
-            "HG_NM": "염태영",
-            "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-21T08:47:27.786000",
-            "duration": 172.0,
-            "title": "[돌발영상] 염태영 의원님 엄태영 명패로 투표하면 안돼요 / YTN",
             "upload_date": null
         },
         {
@@ -557,19 +636,9 @@
             "url": "https://www.youtube.com/watch?v=GluORlnboCg",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-18T13:16:33.185000",
+            "collected_at": "2026-01-23T16:45:42.408000",
             "duration": 89.0,
             "title": "국회의원 염태영, 박영달 후보  지지 선언",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad1d631fd1743497d917",
-            "url": "https://www.youtube.com/watch?v=HXZD8LDfwns",
-            "HG_NM": "염태영",
-            "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-21T08:47:27.786000",
-            "duration": 393.0,
-            "title": "[지금은이재명] 수원집중유세 염태영 국회의원 유세연설! (FULL 버전)",
             "upload_date": null
         },
         {
@@ -577,7 +646,7 @@
             "url": "https://www.youtube.com/watch?v=4o0ycZZ2yiw",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-18T13:16:33.185000",
+            "collected_at": "2026-01-23T16:45:42.408000",
             "duration": 157.0,
             "title": "염태영 수원(무) 국회의원 후보 로고송[빠라빠빠]",
             "upload_date": null
@@ -593,16 +662,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad1d631fd1743497d91a",
-            "url": "https://www.youtube.com/watch?v=bysojMZo5Fc",
-            "HG_NM": "염태영",
-            "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-21T08:47:28.604000",
-            "duration": 707.0,
-            "title": "[뉴스외전 Zoom人] 염태영 \"세금 수십조 원 더 걷혀‥정부, 소상공인 피눈물 닦아줘야\" (2021.10.19/뉴스외전/MBC)",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad1d631fd1743497d91b",
             "url": "https://www.youtube.com/watch?v=eOkB3ov0RmM",
             "HG_NM": "염태영",
@@ -613,13 +672,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad1d631fd1743497d91c",
-            "url": "https://www.youtube.com/watch?v=hVVEsJ8GXNw",
+            "_id": "6960ad1d631fd1743497d91a",
+            "url": "https://www.youtube.com/watch?v=bysojMZo5Fc",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-18T13:16:34.228000",
-            "duration": 4922.0,
-            "title": "[정면]8/5(수)풀버전｜이동형의 뉴스정면승부(염태영,백종우,전표돈,김남국,이준석)/ YTN 라디오",
+            "collected_at": "2026-01-23T16:45:43.101000",
+            "duration": 707.0,
+            "title": "[뉴스외전 Zoom人] 염태영 \"세금 수십조 원 더 걷혀‥정부, 소상공인 피눈물 닦아줘야\" (2021.10.19/뉴스외전/MBC)",
             "upload_date": null
         },
         {
@@ -627,9 +686,19 @@
             "url": "https://www.youtube.com/watch?v=-gRKHIT2WUE",
             "HG_NM": "염태영",
             "MONA_CD": "URX8075K",
-            "collected_at": "2026-01-18T13:16:34.228000",
+            "collected_at": "2026-01-23T16:45:43.101000",
             "duration": 152.0,
             "title": "안민석 “3자 후보 단일화” 염태영·조정식에 제안 | 뉴스A 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad1d631fd1743497d91c",
+            "url": "https://www.youtube.com/watch?v=hVVEsJ8GXNw",
+            "HG_NM": "염태영",
+            "MONA_CD": "URX8075K",
+            "collected_at": "2026-01-23T16:45:43.101000",
+            "duration": 4922.0,
+            "title": "[정면]8/5(수)풀버전｜이동형의 뉴스정면승부(염태영,백종우,전표돈,김남국,이준석)/ YTN 라디오",
             "upload_date": null
         },
         {
@@ -651,7 +720,17 @@
             "duration": 82.0,
             "title": "진짜 필요한 건 신속 인허가! 정부의 공급대책이 무색할 정도 #염태영 #수원무 #더불어민주당 #국정감사 #국토위 #국토부 #종합감사",
             "upload_date": null
+        },
+        {
+            "_id": "6973272a8459600028997a40",
+            "url": "https://www.youtube.com/watch?v=E9xQ7CFSe2U",
+            "HG_NM": "염태영",
+            "MONA_CD": "URX8075K",
+            "collected_at": "2026-01-23T16:45:43.101000",
+            "duration": 437.0,
+            "title": "\"의원직 건다\" 염태영, 명태균 의혹 두고 오세훈에 공식 제안 \"잘못했으면 사퇴하고 대선 얘기하지마!\"",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:26.240874"
+    "exported_at": "2026-01-26T14:36:33.267051"
 }

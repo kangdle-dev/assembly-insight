@@ -51,17 +51,17 @@
             "기상",
             "당정",
             "지역",
+            "서울",
+            "정책",
             "소음",
             "대책",
             "지정",
+            "이날",
+            "정책위",
             "금천구",
             "질문",
             "현수막",
-            "간사",
-            "의장",
-            "문제",
-            "단독",
-            "비판"
+            "간사"
         ],
         "keyword_frequency": [
             {
@@ -70,15 +70,23 @@
             },
             {
                 "text": "기상",
-                "value": 14
+                "value": 17
             },
             {
                 "text": "당정",
-                "value": 10
+                "value": 12
             },
             {
                 "text": "지역",
-                "value": 10
+                "value": 8
+            },
+            {
+                "text": "서울",
+                "value": 7
+            },
+            {
+                "text": "정책",
+                "value": 6
             },
             {
                 "text": "소음",
@@ -90,6 +98,14 @@
             },
             {
                 "text": "지정",
+                "value": 6
+            },
+            {
+                "text": "이날",
+                "value": 6
+            },
+            {
+                "text": "정책위",
                 "value": 6
             },
             {
@@ -107,47 +123,50 @@
             {
                 "text": "간사",
                 "value": 5
-            },
-            {
-                "text": "의장",
-                "value": 5
-            },
-            {
-                "text": "문제",
-                "value": 5
-            },
-            {
-                "text": "단독",
-                "value": 4
-            },
-            {
-                "text": "비판",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:41.923383",
+        "last_analyzed_at": "2026-01-26T14:36:50.072705",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
                 3,
-                1
+                2,
+                0,
+                0,
+                0,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6972d1f484596000289976d3",
+            "link": "https://n.news.naver.com/mnews/article/016/0002589118?sid=102",
+            "created_at": "2026-01-23T10:42:10.904000",
+            "description": "김남근 국회의원, 김영배 국회의원, 박홍근 국회의원, 서왕진 국회의원, 오기형 국회의원, 채현일 국회의원, 최기상 국회의원의 사진이 있는 홍보 포스터다. [헤럴드경제=박종일 선임기자]송파구에서 서울 도시경쟁력... ",
+            "originallink": "https://biz.heraldcorp.com/article/10660205?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-21T18:02:00",
+            "related_members": [
+                "1S05899F",
+                "B7D7534L",
+                "I5I2468R",
+                "80C5885Z",
+                "IUX1829H",
+                "OIA3741M",
+                "S824682L"
+            ],
+            "title": "서울 도시경쟁력 강화 위한 정책토론회 개최"
+        },
         {
             "_id": "6970127a297082fcc2b34d81",
             "link": "https://n.news.naver.com/mnews/article/021/0002765269?sid=102",
@@ -165,7 +184,7 @@
             "_id": "69701234297082fcc2b34c4b",
             "link": "https://n.news.naver.com/mnews/article/421/0008723314?sid=100",
             "created_at": "2026-01-21T08:39:30.701000",
-            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정 협의 후... 의원, 황명선 의원 등이 참석했다. 한 정책위의장은 \"그동안 군용비행장 및 군사격장 운영으로 인접 지역 주민의... ",
+            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정 협의 후... 이날 당정협의회에는 이두희 국방부 차관과 한정애 정책위의장, 최기상 정책위 수석부의장, 김한규... ",
             "originallink": "https://www.news1.kr/diplomacy/defense-diplomacy/6044412",
             "press": "뉴스1",
             "pubDate": "2026-01-20T10:03:00",
@@ -200,7 +219,7 @@
             "_id": "69701234297082fcc2b34c4c",
             "link": "https://n.news.naver.com/mnews/article/421/0008723108?sid=100",
             "created_at": "2026-01-21T08:39:30.701000",
-            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정협의 후... 의원, 황명선 의원 등이 참석했다. 한 정책위의장은 \"그동안 군용비행장 및 군사격장 운영으로 인접 지역 주민의... ",
+            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정협의 후... 이날 당정협의회에는 이두희 국방부 차관과 한정애 정책위의장, 최기상 정책위 수석부의장, 김한규... ",
             "originallink": "https://www.news1.kr/politics/assembly/6044288",
             "press": "뉴스1",
             "pubDate": "2026-01-20T09:06:00",
@@ -321,23 +340,33 @@
     ],
     "recent_videos": [
         {
+            "_id": "697328368459600028997ae9",
+            "url": "https://www.youtube.com/watch?v=ZWhfWKWyiu0",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-23T16:50:10.348000",
+            "duration": 100.0,
+            "title": "“즉시 항고 포기서 제출 안 해” 판사 출신 최기상 의원 폭로. 윤석열은 법적 석방 상태 아니다!",
+            "upload_date": null
+        },
+        {
             "_id": "6965973b887d07f7ba2fae89",
             "url": "https://www.youtube.com/watch?v=pxJCRRsSHO4",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-13T09:52:08.483000",
+            "collected_at": "2026-01-23T16:50:10.348000",
             "duration": 471.0,
             "title": "서울중앙지방법원① [국회의원 최기상 | 2021국정감사]",
             "upload_date": null
         },
         {
-            "_id": "696c5fcc297082fcc2b19d3a",
-            "url": "https://www.youtube.com/watch?v=nVjSEgyanJ8",
+            "_id": "6960ae25631fd1743497dcf5",
+            "url": "https://www.youtube.com/watch?v=Yp7zBS00iKM",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
             "collected_at": "2026-01-21T08:51:48.588000",
-            "duration": 140.0,
-            "title": "시급하고 절실한 공동체의 문제에 지혜와 역량을 모아야 합니다 #최기상 #금천구 #국회의원 #민주당 #물가 #일자리 #주거 #기획예산처",
+            "duration": 179.0,
+            "title": "민주당 최기상의원(금천구)의 황당 무식 위험한 돌직구 무책임 유권자기만 민주당은 이미 기득권자   서민코스프레에 더이상 안속는다",
             "upload_date": null
         },
         {
@@ -351,43 +380,43 @@
             "upload_date": null
         },
         {
-            "_id": "6966f055887d07f7ba2fb54c",
-            "url": "https://www.youtube.com/watch?v=hHV224W_XZI",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-14T10:24:37.286000",
-            "duration": 356.0,
-            "title": "창원지방검찰청 [국회의원 최기상 | 2021국정감사]",
-            "upload_date": null
-        },
-        {
             "_id": "6965973b887d07f7ba2fae8b",
             "url": "https://www.youtube.com/watch?v=SCWBJusSrSM",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-15T18:24:42.165000",
+            "collected_at": "2026-01-23T16:50:10.348000",
             "duration": 196.0,
             "title": "\"누가 누구를 돌본다는 겁니까?\" 인사청문회에서 나온 무거운 돌직구 질문 #최기상",
             "upload_date": null
         },
         {
-            "_id": "6965973b887d07f7ba2fae8d",
-            "url": "https://www.youtube.com/watch?v=UCeys8q-_Rw",
+            "_id": "6965973b887d07f7ba2fae87",
+            "url": "https://www.youtube.com/watch?v=651EVVugsk4",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-13T09:52:09.159000",
-            "duration": 129.0,
-            "title": "최기상 의장 \"재판거래 의혹, 헌정유린\"…사법파동 번지나 (2018.05.30/뉴스데스크/MBC)",
+            "collected_at": "2026-01-23T16:50:10.348000",
+            "duration": 60.0,
+            "title": "[온라인 선거유세] 최기상 국회의원 후보 핵심 공약 1",
             "upload_date": null
         },
         {
-            "_id": "6965973b887d07f7ba2fae8c",
-            "url": "https://www.youtube.com/watch?v=qrc9GUfAmmU",
+            "_id": "697328368459600028997aea",
+            "url": "https://www.youtube.com/watch?v=54IiFaz7-BM",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-13T09:52:09.159000",
-            "duration": 122.0,
-            "title": "민주당, 최기상 영입..소병철과 함께 '지역공천설'돌아",
+            "collected_at": "2026-01-23T16:50:10.348000",
+            "duration": 1209.0,
+            "title": "아동 94만 명은 아직도 취약 주거에 거주 중 [국회의원 최기상 | 2022년도 예산안 경제부처 정책질의]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae25631fd1743497dcf2",
+            "url": "https://www.youtube.com/watch?v=DpE75N8_nNw",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-21T08:51:48.588000",
+            "duration": 77.0,
+            "title": "정의롭고 지속가능한 대한민국을 만들겠습니다! #금천구 #국회의원 #최기상 #불평등 #부자감세 #세수결손",
             "upload_date": null
         },
         {
@@ -398,6 +427,66 @@
             "collected_at": "2026-01-13T09:52:08.483000",
             "duration": 804.0,
             "title": "장애인 코로나19 확진자 지원 공백 최소화 필요 [국회의원 최기상 | 2022년도 제1회 추경안 심사]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae25631fd1743497dcf6",
+            "url": "https://www.youtube.com/watch?v=DBSGxBhyaZs",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-15T18:24:42.165000",
+            "duration": 102.0,
+            "title": "이재명 정부의 첫 예산은 민생회복과 미래 투자를 위해 알뜰히 쓰일 것입니다! #금천구 #국회의원 #최기상 #예산 #민생회복",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f055887d07f7ba2fb54c",
+            "url": "https://www.youtube.com/watch?v=hHV224W_XZI",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-14T10:24:37.286000",
+            "duration": 356.0,
+            "title": "창원지방검찰청 [국회의원 최기상 | 2021국정감사]",
+            "upload_date": null
+        },
+        {
+            "_id": "6965973b887d07f7ba2fae8c",
+            "url": "https://www.youtube.com/watch?v=qrc9GUfAmmU",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-23T16:50:11.148000",
+            "duration": 122.0,
+            "title": "민주당, 최기상 영입..소병철과 함께 '지역공천설'돌아",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae25631fd1743497dcf8",
+            "url": "https://www.youtube.com/watch?v=B9mfq7Ax6Lk",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-23T16:50:10.348000",
+            "duration": 1086.0,
+            "title": "세제 개편, 로드맵이 필요합니다! #금천구 #국회의원 #최기상 #기재부 #국감 #세제",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5fcc297082fcc2b19d3a",
+            "url": "https://www.youtube.com/watch?v=nVjSEgyanJ8",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-21T08:51:48.588000",
+            "duration": 140.0,
+            "title": "시급하고 절실한 공동체의 문제에 지혜와 역량을 모아야 합니다 #최기상 #금천구 #국회의원 #민주당 #물가 #일자리 #주거 #기획예산처",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae25631fd1743497dcf7",
+            "url": "https://www.youtube.com/watch?v=n6-Yuit0hLk",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-23T16:50:10.348000",
+            "duration": 1544.0,
+            "title": "[대정부질문] 최기상 의원 대정부질문 (2022.9.22)",
             "upload_date": null
         },
         {
@@ -415,69 +504,9 @@
             "url": "https://www.youtube.com/watch?v=F8HpUZ28_R4",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-21T08:51:48.588000",
+            "collected_at": "2026-01-23T16:50:10.348000",
             "duration": 1027.0,
             "title": "'나의 옳음'보다 '너의 있음'이 더 우선한다 #금천구 #국회의원 #최기상 #평등 #차별  #교제폭력",
-            "upload_date": null
-        },
-        {
-            "_id": "6965973b887d07f7ba2fae87",
-            "url": "https://www.youtube.com/watch?v=651EVVugsk4",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-21T08:51:48.588000",
-            "duration": 60.0,
-            "title": "[온라인 선거유세] 최기상 국회의원 후보 핵심 공약 1",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae25631fd1743497dcf8",
-            "url": "https://www.youtube.com/watch?v=B9mfq7Ax6Lk",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-21T08:51:48.588000",
-            "duration": 1086.0,
-            "title": "세제 개편, 로드맵이 필요합니다! #금천구 #국회의원 #최기상 #기재부 #국감 #세제",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae25631fd1743497dcf7",
-            "url": "https://www.youtube.com/watch?v=n6-Yuit0hLk",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-13T09:52:09.159000",
-            "duration": 1544.0,
-            "title": "[대정부질문] 최기상 의원 대정부질문 (2022.9.22)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae25631fd1743497dcf6",
-            "url": "https://www.youtube.com/watch?v=DBSGxBhyaZs",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-15T18:24:42.165000",
-            "duration": 102.0,
-            "title": "이재명 정부의 첫 예산은 민생회복과 미래 투자를 위해 알뜰히 쓰일 것입니다! #금천구 #국회의원 #최기상 #예산 #민생회복",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae25631fd1743497dcf5",
-            "url": "https://www.youtube.com/watch?v=Yp7zBS00iKM",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-21T08:51:48.588000",
-            "duration": 179.0,
-            "title": "민주당 최기상의원(금천구)의 황당 무식 위험한 돌직구 무책임 유권자기만 민주당은 이미 기득권자   서민코스프레에 더이상 안속는다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae25631fd1743497dcf4",
-            "url": "https://www.youtube.com/watch?v=6gnlpaNdmkI",
-            "HG_NM": "최기상",
-            "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-21T08:51:48.588000",
-            "duration": 187.0,
-            "title": "기재부의 목표는 부의 대물림입니까? #금천구 #국회의원 #최기상 #구윤철 #기획재정부 #인사청문회",
             "upload_date": null
         },
         {
@@ -491,15 +520,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae25631fd1743497dcf2",
-            "url": "https://www.youtube.com/watch?v=DpE75N8_nNw",
+            "_id": "6960ae25631fd1743497dcf4",
+            "url": "https://www.youtube.com/watch?v=6gnlpaNdmkI",
             "HG_NM": "최기상",
             "MONA_CD": "I5I2468R",
-            "collected_at": "2026-01-21T08:51:48.588000",
-            "duration": 77.0,
-            "title": "정의롭고 지속가능한 대한민국을 만들겠습니다! #금천구 #국회의원 #최기상 #불평등 #부자감세 #세수결손",
+            "collected_at": "2026-01-23T16:50:10.348000",
+            "duration": 187.0,
+            "title": "기재부의 목표는 부의 대물림입니까? #금천구 #국회의원 #최기상 #구윤철 #기획재정부 #인사청문회",
+            "upload_date": null
+        },
+        {
+            "_id": "6965973b887d07f7ba2fae8d",
+            "url": "https://www.youtube.com/watch?v=UCeys8q-_Rw",
+            "HG_NM": "최기상",
+            "MONA_CD": "I5I2468R",
+            "collected_at": "2026-01-13T09:52:09.159000",
+            "duration": 129.0,
+            "title": "최기상 의장 \"재판거래 의혹, 헌정유린\"…사법파동 번지나 (2018.05.30/뉴스데스크/MBC)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:41.924384"
+    "exported_at": "2026-01-26T14:36:50.072705"
 }

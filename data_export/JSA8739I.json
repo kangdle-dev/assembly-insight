@@ -42,30 +42,30 @@
     },
     "analysis": {
         "keywords": [
-            "베네수엘라",
             "명수",
+            "베네수엘라",
             "손명수티비",
             "사태",
             "민주",
-            "용인",
             "토론회",
-            "군사",
-            "작전",
-            "시민",
-            "도시",
+            "위원회",
+            "용인",
             "연구원",
             "국제",
-            "긴급",
-            "더불어민주당"
+            "군사",
+            "작전",
+            "일정",
+            "회관",
+            "의원실"
         ],
         "keyword_frequency": [
             {
-                "text": "베네수엘라",
+                "text": "명수",
                 "value": 13
             },
             {
-                "text": "명수",
-                "value": 10
+                "text": "베네수엘라",
+                "value": 12
             },
             {
                 "text": "손명수티비",
@@ -80,27 +80,15 @@
                 "value": 7
             },
             {
-                "text": "용인",
-                "value": 6
-            },
-            {
                 "text": "토론회",
                 "value": 6
             },
             {
-                "text": "군사",
-                "value": 6
-            },
-            {
-                "text": "작전",
-                "value": 6
-            },
-            {
-                "text": "시민",
+                "text": "위원회",
                 "value": 5
             },
             {
-                "text": "도시",
+                "text": "용인",
                 "value": 5
             },
             {
@@ -112,42 +100,108 @@
                 "value": 5
             },
             {
-                "text": "긴급",
+                "text": "군사",
+                "value": 5
+            },
+            {
+                "text": "작전",
+                "value": 5
+            },
+            {
+                "text": "일정",
                 "value": 4
             },
             {
-                "text": "더불어민주당",
+                "text": "회관",
+                "value": 4
+            },
+            {
+                "text": "의원실",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:23.302369",
+        "last_analyzed_at": "2026-01-26T14:36:30.146153",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
-                0,
-                0,
-                0,
-                0,
                 1,
+                0,
+                2,
+                0,
+                0,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6972d2008459600028997732",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723757?sid=100",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 김교흥 의원, [인천광역시 현안 관련 입장 발표 기자회견] 11:00 허종식 의원, [인천대교·영종대교 통행료... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485644",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T05:00:00",
+            "related_members": [
+                "E1J8836Y",
+                "N2P9317N",
+                "1A82234K",
+                "5KV82250",
+                "6AU2417B",
+                "VCP96419",
+                "JSA8739I",
+                "RQQ3807K",
+                "3TP65086",
+                "P8A4624C",
+                "O7R5461J",
+                "HSW1214Q",
+                "TJW93720",
+                "25G2571T",
+                "X1K3667J"
+            ],
+            "title": "[오늘의 주요일정]국회(1월22일 목요일)"
+        },
+        {
+            "_id": "6972d2008459600028997733",
+            "link": "https://n.news.naver.com/mnews/article/421/0008727404?sid=100",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 김교흥 의원, [인천광역시 현안 관련 입장 발표 기자회견] 11:00 허종식 의원, [인천대교·영종대교 통행료... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046840",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T05:00:00",
+            "related_members": [
+                "E1J8836Y",
+                "N2P9317N",
+                "1A82234K",
+                "5KV82250",
+                "6AU2417B",
+                "VCP96419",
+                "JSA8739I",
+                "RQQ3807K",
+                "3TP65086",
+                "P8A4624C",
+                "O7R5461J",
+                "HSW1214Q",
+                "TJW93720",
+                "25G2571T",
+                "X1K3667J"
+            ],
+            "title": "[오늘의 국회일정] (22일, 목)"
+        },
+        {
             "_id": "69701232297082fcc2b34c34",
             "link": "https://n.news.naver.com/mnews/article/421/0008724415?sid=102",
             "created_at": "2026-01-21T08:39:28.831000",
-            "description": "한병도 원내대표 등 다수의 국회의원이 축하영상과 축기를 보낼 예정이다. 현 변호사는 \"이번 출판기념회는 그동안 저를 믿고 응원해 주신 용인 시민들께 드리는 약속의 자리\"라며 \"용인의 실질적인 변화를 함께 논의하는... ",
+            "description": "이상식·손명수·부승찬·이언주(영상) 등 용인지역 국회의원과 이재정 박성준 김동아 채현일 정을호 김현 국회의원 등이 참석해 축하를 전한다. 정청래 민주당 대표는 이미 축전을 보냈다. 한병도 원내대표 등 다수의... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6045019",
             "press": "뉴스1",
             "pubDate": "2026-01-20T15:39:00",
@@ -174,7 +228,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "9일 국회의원회관 제2소회의실에서 열린 ‘제2차 경기도 도시철도망 신속 추진을 위한 국회 토론회’에는 김 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원, 도민, 시군... ",
+            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -334,7 +388,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
+            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -416,7 +470,7 @@
             "url": "https://www.youtube.com/watch?v=UCZOj3Tglgq9ZOJP-Sg59PSg",
             "HG_NM": "손명수",
             "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:37.924000",
+            "collected_at": "2026-01-23T16:44:53.550000",
             "duration": null,
             "title": "손명수티비",
             "upload_date": null
@@ -426,19 +480,9 @@
             "url": "https://www.youtube.com/watch?v=EE3X9LVOPqw",
             "HG_NM": "손명수",
             "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:37.925000",
+            "collected_at": "2026-01-23T16:44:53.550000",
             "duration": 5673.0,
             "title": "[손명수티비] (Full영상) 손명수 의원, 새날 출연 다시보기_8대0 인용으로 헌정질서 회복해야!(250403)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aceb631fd1743497d860",
-            "url": "https://www.youtube.com/watch?v=-5RcJDbcUa0",
-            "HG_NM": "손명수",
-            "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:37.925000",
-            "duration": 274.0,
-            "title": "국회의원이 부르는 '광야에서' (안치환, 김광석): 손명수: 탄핵 촛불 문화제: 241213: 여의도 KDB 산업은행 본점: 윤석열 파면",
             "upload_date": null
         },
         {
@@ -446,9 +490,19 @@
             "url": "https://www.youtube.com/watch?v=2yw1Dfi6eUY",
             "HG_NM": "손명수",
             "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:38.684000",
+            "collected_at": "2026-01-23T16:44:54.199000",
             "duration": 280.0,
             "title": "손명수의원실_[단독보도]내가 낸 버스요금, 진짜 맞을까? ‘유령 정류장’이 만든 요금 폭탄💣",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aceb631fd1743497d860",
+            "url": "https://www.youtube.com/watch?v=-5RcJDbcUa0",
+            "HG_NM": "손명수",
+            "MONA_CD": "JSA8739I",
+            "collected_at": "2026-01-23T16:44:53.550000",
+            "duration": 274.0,
+            "title": "국회의원이 부르는 '광야에서' (안치환, 김광석): 손명수: 탄핵 촛불 문화제: 241213: 여의도 KDB 산업은행 본점: 윤석열 파면",
             "upload_date": null
         },
         {
@@ -456,7 +510,7 @@
             "url": "https://www.youtube.com/watch?v=bYV3fqkJT_Q",
             "HG_NM": "손명수",
             "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:38.684000",
+            "collected_at": "2026-01-23T16:44:54.199000",
             "duration": 1273.0,
             "title": "[TV 속 손명수] 논평은 못 참지! 핫이슈 모두 답해드립니다!",
             "upload_date": null
@@ -466,7 +520,7 @@
             "url": "https://www.youtube.com/watch?v=GWfrsGIUZ-s",
             "HG_NM": "손명수",
             "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:38.684000",
+            "collected_at": "2026-01-23T16:44:54.199000",
             "duration": 272.0,
             "title": "[손명수티비] 제22대 국회 2025 국정감사 5일차 Vol.1 -  15분 재승차 도입 및 고상홈 교체로 시민편의 증진 (251021)",
             "upload_date": null
@@ -476,7 +530,7 @@
             "url": "https://www.youtube.com/watch?v=1_pueSs9ek8",
             "HG_NM": "손명수",
             "MONA_CD": "JSA8739I",
-            "collected_at": "2026-01-21T08:46:37.925000",
+            "collected_at": "2026-01-23T16:44:53.550000",
             "duration": 190.0,
             "title": "[손명수티비] 제22대 국회 국토교통위원회 전체회의 Vol.1 - 건설경기 위기. 국토부 적극적인 역할 촉구 (241223)",
             "upload_date": null
@@ -490,7 +544,17 @@
             "duration": 284.0,
             "title": "[손명수티비] 제22대 국회 2025 국정감사 1일차 Vol.2 - 자율주행 실증도시 조성 촉구 (251013)",
             "upload_date": null
+        },
+        {
+            "_id": "697326f98459600028997a24",
+            "url": "https://www.youtube.com/watch?v=dC_KlHx7ufo",
+            "HG_NM": "손명수",
+            "MONA_CD": "JSA8739I",
+            "collected_at": "2026-01-23T16:44:54.199000",
+            "duration": 8586.0,
+            "title": "김어준의 겸손은힘들다 뉴스공장 2024년 2월 21일 수요일 [이광수, 이선호, 김태선, 박시영, 손명수, 김준환, 임광현, 김윤, 패션공장]",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:23.302369"
+    "exported_at": "2026-01-26T14:36:30.146153"
 }

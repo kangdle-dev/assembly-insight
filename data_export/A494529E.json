@@ -52,16 +52,16 @@
             "한병도",
             "수석",
             "민주당",
-            "이재명",
             "더불어민주당",
+            "이재명",
             "운영",
             "부대표",
             "총회",
             "선거",
             "정부",
+            "서울",
             "전용기",
-            "정청래",
-            "성공"
+            "정청래"
         ],
         "keyword_frequency": [
             {
@@ -70,7 +70,7 @@
             },
             {
                 "text": "대표",
-                "value": 45
+                "value": 44
             },
             {
                 "text": "한병도",
@@ -85,12 +85,12 @@
                 "value": 23
             },
             {
-                "text": "이재명",
+                "text": "더불어민주당",
                 "value": 19
             },
             {
-                "text": "더불어민주당",
-                "value": 16
+                "text": "이재명",
+                "value": 18
             },
             {
                 "text": "운영",
@@ -113,41 +113,70 @@
                 "value": 11
             },
             {
+                "text": "서울",
+                "value": 10
+            },
+            {
                 "text": "전용기",
                 "value": 9
             },
             {
                 "text": "정청래",
                 "value": 9
-            },
-            {
-                "text": "성공",
-                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:41.614522",
+        "last_analyzed_at": "2026-01-26T14:36:49.753738",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                6,
-                0,
                 1,
                 0,
-                1,
-                1,
-                0
+                0,
+                0,
+                0,
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fce58459600028997f00",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108805?sid=102",
+            "created_at": "2026-01-26T14:34:26.716000",
+            "description": "자치구의회 의원 등 각계 인사들이 대거 참석해 출판을 축하했다. 우원식 국회의장과 황명선·문정복·강득구 더불어민주당 최고위원, 김윤덕 국토교통부 장관, 박찬대·천준호·김문수 국회의원은 영상 축사를 통해... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461616?utm_source=naver&utm_medium=article&utm_campaign=20260126091357",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-26T09:14:00",
+            "related_members": [
+                "8P37634C",
+                "A494529E",
+                "GOC54665",
+                "5N65159P",
+                "BT62420K",
+                "RJH6314D",
+                "JZY9937U",
+                "XBT9550Q",
+                "86R9476S",
+                "IWR8966I",
+                "M7O7878U",
+                "CK143054",
+                "EB16073M",
+                "VRY5522V",
+                "9HE7226N",
+                "IC499858",
+                "QUR40502"
+            ],
+            "title": "신수정의 '진심', 20년 정치 여정 시민 6천명과 나누다"
+        },
         {
             "_id": "6970127a297082fcc2b34d7e",
             "link": "https://n.news.naver.com/mnews/article/036/0000053001?sid=102",
@@ -357,10 +386,36 @@
             "title": "한병도 “당정청 24시간 핫라인 가동”…원내수석에 천준호·김한규·전..."
         },
         {
+            "_id": "6964b541631fd17434995fe0",
+            "link": "https://n.news.naver.com/mnews/article/056/0012102869?sid=100",
+            "created_at": "2026-01-12T17:47:58.315000",
+            "description": "또 국회의원들의 열기가 상당히 높았던 것 같아요. 그래서 보궐선거임에도 불구하고 중앙위원은 91%가 넘고... 어느 의원님이 맡게 되시는 건가요? ▶ 김현정 : 오늘 10시에 발표하기로 되어 있는데요. 아마도 천준호 의원이... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456252&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-12T10:48:00",
+            "related_members": [
+                "8P37634C",
+                "6VC83722",
+                "7YL9580G",
+                "2385336L",
+                "N2P9317N",
+                "GOC54665",
+                "5TQ6306B",
+                "8BF5855P",
+                "XBT9550Q",
+                "K5F2023J",
+                "QWL7778X",
+                "KFM1081G",
+                "8SV6917G",
+                "A494529E"
+            ],
+            "title": "[전격시사] 김현정 더불어민주당 원내대변인 - 보궐선거 결과, 당권파 힘..."
+        },
+        {
             "_id": "6964b541631fd17434995fe1",
             "link": "https://n.news.naver.com/mnews/article/056/0012102868?sid=100",
             "created_at": "2026-01-12T17:47:58.315000",
-            "description": "질문했는데 천준호 의원을 얘기하셨거든요. 천준호 의원 같은 경우도 이재명 당 대표 시절에 비서실장을... 공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또 공교롭게... ",
+            "description": "왜냐하면 우리 당은 아시다시피 두 가지 사례를 얘기하면 가장 최근의 사례가 이춘석 의원 사례하고 그다음에... 공천 헌금이 현직 국회의원이 입에서 나온 거잖아요. 1억을 줬다는 사람도 나온 거고요. 근데 선거가 또... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456250&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-12T10:48:00",
@@ -387,32 +442,6 @@
                 "YGB8604T"
             ],
             "title": "[전격시사] “민주, 새 지도부 구성 이후” (홍익표) “‘정청래 대표 ..."
-        },
-        {
-            "_id": "6964b541631fd17434995fe0",
-            "link": "https://n.news.naver.com/mnews/article/056/0012102869?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "또 국회의원들의 열기가 상당히 높았던 것 같아요. 그래서 보궐선거임에도 불구하고 중앙위원은 91%가 넘고... 어느 의원님이 맡게 되시는 건가요? ▶ 김현정 : 오늘 10시에 발표하기로 되어 있는데요. 아마도 천준호 의원이... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456252&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-12T10:48:00",
-            "related_members": [
-                "8P37634C",
-                "6VC83722",
-                "7YL9580G",
-                "2385336L",
-                "N2P9317N",
-                "GOC54665",
-                "5TQ6306B",
-                "8BF5855P",
-                "XBT9550Q",
-                "K5F2023J",
-                "QWL7778X",
-                "KFM1081G",
-                "8SV6917G",
-                "A494529E"
-            ],
-            "title": "[전격시사] 김현정 더불어민주당 원내대변인 - 보궐선거 결과, 당권파 힘..."
         },
         {
             "_id": "6964b556631fd174349961a6",
@@ -650,83 +679,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6966f051887d07f7ba2fb546",
-            "url": "https://www.youtube.com/watch?v=GxaohEQ8Ryo",
+            "_id": "697328318459600028997ae0",
+            "url": "https://www.youtube.com/watch?v=aa21toVrqyk",
             "HG_NM": "천준호",
             "MONA_CD": "A494529E",
-            "collected_at": "2026-01-14T10:24:33.913000",
-            "duration": 71.0,
-            "title": "천준호, \"엄중한 시기에 중책..\"... \"민주당 제1과제 이재명 정부의 성공\"",
-            "upload_date": null
-        },
-        {
-            "_id": "69701512297082fcc2b34edf",
-            "url": "https://www.youtube.com/watch?v=QNPC3MGH1d4",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.753000",
-            "duration": 171.0,
-            "title": "천준호, \"엄중한 시기에 중책..\"... \"민주당 제1과제 이재명 정부의 성공\"",
-            "upload_date": null
-        },
-        {
-            "_id": "69701512297082fcc2b34ede",
-            "url": "https://www.youtube.com/watch?v=w9vlzy359NY",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.753000",
-            "duration": 263.0,
-            "title": "장동혁 지시 떨어졌나...천준호 분노한 ‘단식 중 국회 보이콧’",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5fc7297082fcc2b19d33",
-            "url": "https://www.youtube.com/watch?v=VsUycf7ry1A",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.107000",
-            "duration": 81.0,
-            "title": "잼잼(Jam Jaem) 간담회 첫번째이야기, 국회의원 천준호",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b259297082fcc2b1914c",
-            "url": "https://www.youtube.com/watch?v=YKv02j4-ywA",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-15T18:24:37.973000",
-            "duration": 274.0,
-            "title": "\"이건 대국민 민생 인질극\" 천준호, 국힘 행태에 '분노' / KNN",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b259297082fcc2b1914b",
-            "url": "https://www.youtube.com/watch?v=uMSFLSgJPEo",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-15T18:24:37.973000",
-            "duration": 265.0,
-            "title": "“국힘 법안조자 막혔다”...호소에도 국힘 반응에 천준호 ‘분노’",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b259297082fcc2b1914a",
-            "url": "https://www.youtube.com/watch?v=RKEnrB7yh-Q",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-18T13:21:27.226000",
-            "duration": 129.0,
-            "title": "[자막] 천준호 \"당정청 긴밀한 협력으로 이재명 정부 성공 뒷받침하겠다\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b259297082fcc2b19149",
-            "url": "https://www.youtube.com/watch?v=3h_TN6Sw9lM",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-15T18:24:36.812000",
-            "duration": 4945.0,
-            "title": "국회의원 천준호 온라인 의정보고회",
+            "collected_at": "2026-01-23T16:50:05.261000",
+            "duration": 317.0,
+            "title": "강남북 균형발전법 천준호 국회의원_SK broadband 서울뉴스",
             "upload_date": null
         },
         {
@@ -740,13 +699,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae20631fd1743497dce7",
-            "url": "https://www.youtube.com/watch?v=UCQ8jaYT5yXKxavGPcKsftgw",
+            "_id": "6960ae20631fd1743497dceb",
+            "url": "https://www.youtube.com/watch?v=lDdnTdB4Lno",
             "HG_NM": "천준호",
             "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.107000",
-            "duration": null,
-            "title": "천준호TV",
+            "collected_at": "2026-01-23T16:50:06.298000",
+            "duration": 1065.0,
+            "title": "국회방송 뉴스N | [파워인터뷰] 천준호 민주당 의원 (당 선대위 매타버스 추진단장)- 2021년 12월 20일",
+            "upload_date": null
+        },
+        {
+            "_id": "69701512297082fcc2b34ede",
+            "url": "https://www.youtube.com/watch?v=w9vlzy359NY",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-21T08:51:44.753000",
+            "duration": 263.0,
+            "title": "장동혁 지시 떨어졌나...천준호 분노한 ‘단식 중 국회 보이콧’",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b259297082fcc2b1914a",
+            "url": "https://www.youtube.com/watch?v=RKEnrB7yh-Q",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-18T13:21:27.226000",
+            "duration": 129.0,
+            "title": "[자막] 천준호 \"당정청 긴밀한 협력으로 이재명 정부 성공 뒷받침하겠다\"",
             "upload_date": null
         },
         {
@@ -760,6 +739,66 @@
             "upload_date": null
         },
         {
+            "_id": "697328318459600028997ae1",
+            "url": "https://www.youtube.com/watch?v=NREn2_QI0_0",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-23T16:50:06.298000",
+            "duration": 556.0,
+            "title": "[생중계] 천준호 더불어민주당 의원, 서울시 한강버스 관련 기자회견 (2025.10.31 오후)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae20631fd1743497dce9",
+            "url": "https://www.youtube.com/watch?v=ZBHq6WixKuk",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-23T16:50:05.261000",
+            "duration": 606.0,
+            "title": "천준호 국회의원 100일간의 의정활동",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b259297082fcc2b19149",
+            "url": "https://www.youtube.com/watch?v=3h_TN6Sw9lM",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-15T18:24:36.812000",
+            "duration": 4945.0,
+            "title": "국회의원 천준호 온라인 의정보고회",
+            "upload_date": null
+        },
+        {
+            "_id": "69659736887d07f7ba2fae80",
+            "url": "https://www.youtube.com/watch?v=mJQ5t3b58RY",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-23T16:50:05.261000",
+            "duration": 108.0,
+            "title": "천준호TV 시즌2 시작합니다",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5fc7297082fcc2b19d33",
+            "url": "https://www.youtube.com/watch?v=VsUycf7ry1A",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-21T08:51:44.107000",
+            "duration": 81.0,
+            "title": "잼잼(Jam Jaem) 간담회 첫번째이야기, 국회의원 천준호",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b259297082fcc2b1914b",
+            "url": "https://www.youtube.com/watch?v=uMSFLSgJPEo",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-15T18:24:37.973000",
+            "duration": 265.0,
+            "title": "“국힘 법안조자 막혔다”...호소에도 국힘 반응에 천준호 ‘분노’",
+            "upload_date": null
+        },
+        {
             "_id": "69659736887d07f7ba2fae82",
             "url": "https://www.youtube.com/watch?v=nPOi5gfxo0k",
             "HG_NM": "천준호",
@@ -770,33 +809,13 @@
             "upload_date": null
         },
         {
-            "_id": "69659736887d07f7ba2fae81",
-            "url": "https://www.youtube.com/watch?v=CpeL1oWjhtI",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.107000",
-            "duration": 575.0,
-            "title": "[모닝콜] 천준호 \"서울시장 임기 짧아‥문화유산은 수천 년 물려줘야 하는 것\"  (2025.11.12/뉴스투데이/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "69659736887d07f7ba2fae80",
-            "url": "https://www.youtube.com/watch?v=mJQ5t3b58RY",
+            "_id": "69701512297082fcc2b34edf",
+            "url": "https://www.youtube.com/watch?v=QNPC3MGH1d4",
             "HG_NM": "천준호",
             "MONA_CD": "A494529E",
             "collected_at": "2026-01-21T08:51:44.753000",
-            "duration": 108.0,
-            "title": "천준호TV 시즌2 시작합니다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae20631fd1743497dceb",
-            "url": "https://www.youtube.com/watch?v=lDdnTdB4Lno",
-            "HG_NM": "천준호",
-            "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.753000",
-            "duration": 1065.0,
-            "title": "국회방송 뉴스N | [파워인터뷰] 천준호 민주당 의원 (당 선대위 매타버스 추진단장)- 2021년 12월 20일",
+            "duration": 171.0,
+            "title": "천준호, \"엄중한 시기에 중책..\"... \"민주당 제1과제 이재명 정부의 성공\"",
             "upload_date": null
         },
         {
@@ -804,19 +823,29 @@
             "url": "https://www.youtube.com/watch?v=UuORf8h0XDs",
             "HG_NM": "천준호",
             "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.107000",
+            "collected_at": "2026-01-23T16:50:05.261000",
             "duration": 1091.0,
             "title": "[팩트TV 풀영상] 더불어민주당 천준호 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
             "upload_date": null
         },
         {
-            "_id": "6960ae20631fd1743497dce9",
-            "url": "https://www.youtube.com/watch?v=ZBHq6WixKuk",
+            "_id": "6966f051887d07f7ba2fb546",
+            "url": "https://www.youtube.com/watch?v=GxaohEQ8Ryo",
             "HG_NM": "천준호",
             "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.107000",
-            "duration": 606.0,
-            "title": "천준호 국회의원 100일간의 의정활동",
+            "collected_at": "2026-01-14T10:24:33.913000",
+            "duration": 71.0,
+            "title": "천준호, \"엄중한 시기에 중책..\"... \"민주당 제1과제 이재명 정부의 성공\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae20631fd1743497dce7",
+            "url": "https://www.youtube.com/watch?v=UCQ8jaYT5yXKxavGPcKsftgw",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-23T16:50:05.261000",
+            "duration": null,
+            "title": "천준호TV",
             "upload_date": null
         },
         {
@@ -824,11 +853,31 @@
             "url": "https://www.youtube.com/watch?v=9yvHbqp3pEU",
             "HG_NM": "천준호",
             "MONA_CD": "A494529E",
-            "collected_at": "2026-01-21T08:51:44.107000",
+            "collected_at": "2026-01-23T16:50:05.261000",
             "duration": 1887.0,
             "title": "이재명 대표 옆 3년, 아무도 몰랐던 비밀공개? 천준호 의원이 밝힌 계엄·내란 비하인드│김묘성의 주간묘묘 with 천준호 국회의원",
             "upload_date": null
+        },
+        {
+            "_id": "69659736887d07f7ba2fae81",
+            "url": "https://www.youtube.com/watch?v=CpeL1oWjhtI",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-23T16:50:06.298000",
+            "duration": 575.0,
+            "title": "[모닝콜] 천준호 \"서울시장 임기 짧아‥문화유산은 수천 년 물려줘야 하는 것\"  (2025.11.12/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b259297082fcc2b1914c",
+            "url": "https://www.youtube.com/watch?v=YKv02j4-ywA",
+            "HG_NM": "천준호",
+            "MONA_CD": "A494529E",
+            "collected_at": "2026-01-15T18:24:37.973000",
+            "duration": 274.0,
+            "title": "\"이건 대국민 민생 인질극\" 천준호, 국힘 행태에 '분노' / KNN",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:41.614522"
+    "exported_at": "2026-01-26T14:36:49.753738"
 }

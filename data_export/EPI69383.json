@@ -43,49 +43,61 @@
     "analysis": {
         "keywords": [
             "국민",
-            "모임",
             "사과",
             "계엄",
+            "모임",
             "대표",
+            "교육감",
+            "교육",
             "대안",
-            "재선",
+            "후보",
+            "김건",
             "이상",
             "공천",
+            "재선",
             "민심",
-            "반영",
-            "한국",
-            "미래",
-            "회관",
-            "대통령"
+            "반영"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 17
-            },
-            {
-                "text": "모임",
-                "value": 11
+                "value": 19
             },
             {
                 "text": "사과",
-                "value": 11
+                "value": 13
             },
             {
                 "text": "계엄",
-                "value": 11
+                "value": 13
+            },
+            {
+                "text": "모임",
+                "value": 12
             },
             {
                 "text": "대표",
-                "value": 10
+                "value": 12
+            },
+            {
+                "text": "교육감",
+                "value": 11
+            },
+            {
+                "text": "교육",
+                "value": 9
             },
             {
                 "text": "대안",
                 "value": 9
             },
             {
-                "text": "재선",
-                "value": 9
+                "text": "후보",
+                "value": 8
+            },
+            {
+                "text": "김건",
+                "value": 8
             },
             {
                 "text": "이상",
@@ -96,53 +108,80 @@
                 "value": 8
             },
             {
+                "text": "재선",
+                "value": 8
+            },
+            {
                 "text": "민심",
                 "value": 8
             },
             {
                 "text": "반영",
                 "value": 8
-            },
-            {
-                "text": "한국",
-                "value": 7
-            },
-            {
-                "text": "미래",
-                "value": 7
-            },
-            {
-                "text": "회관",
-                "value": 7
-            },
-            {
-                "text": "대통령",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:11.020027",
+        "last_analyzed_at": "2026-01-26T14:36:17.008049",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
+                1,
                 1,
                 0,
+                2,
                 0,
                 0,
-                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fcf48459600028997f8b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008731581?sid=102",
+            "created_at": "2026-01-26T14:34:42.035000",
+            "description": "민주진보시민교육감 후보로 나선 김용태 후보도 \"자녀를 생각하는 학부모 마음을 함부로 바꿀 수 없다. 광주... 이정선 광주교육감은 \"25일(일요일)까지 교육계 입장을 정리해서 시도지사와 국회의원 간담회를 통해... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6049123",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T15:46:00",
+            "related_members": [
+                "EPI69383"
+            ],
+            "title": "광주·전남 통합교육감 선출 '안갯속'…25일 구체화하나"
+        },
+        {
+            "_id": "6976fcf48459600028997f8c",
+            "link": "https://n.news.naver.com/mnews/article/003/0013727508?sid=102",
+            "created_at": "2026-01-26T14:34:42.035000",
+            "description": "광주시교육감 출마를 준비 중인 김용태 전 전교조 광주지부장은 \"돈을 많이 주면 아이들 교육 여건이... 일요일 국회의원과 시·도지사가 특별법 제정을 위해 세 번째 간담회를 한다. 그 때 양 시·도 교육감이 참석해 의견을... ",
+            "originallink": "https://www.newsis.com/view/NISX20260123_0003488113",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T14:59:00",
+            "related_members": [
+                "EPI69383"
+            ],
+            "title": "강기정 광주시장 \"통합교육감 선출, 교육주체가 결정해야\""
+        },
+        {
+            "_id": "6972d1fd8459600028997713",
+            "link": "https://n.news.naver.com/mnews/article/003/0013721842?sid=102",
+            "created_at": "2026-01-23T10:42:19.581000",
+            "description": "강기정 광주시장과 김영록 전남지사, 광주·전남 국회의원 18명은 21일 오전 국회에서 조찬모임을 갖고 이달... 광주시교육감 출마를 준비 중인 김용태·오경미·정성홍 예비후보는 지난 20일 \"교육의 백년대계를 행정의... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003484498",
+            "press": "뉴시스",
+            "pubDate": "2026-01-21T09:53:00",
+            "related_members": [
+                "EPI69383"
+            ],
+            "title": "6월 지선 통합교육감 선출 놓고 교육계 온도차"
+        },
         {
             "_id": "69701239297082fcc2b34c84",
             "link": "https://n.news.naver.com/mnews/article/016/0002588421?sid=101",
@@ -187,7 +226,7 @@
             "_id": "6968ad85297082fcc2b18cc9",
             "link": "https://n.news.naver.com/mnews/article/055/0001324240?sid=100",
             "created_at": "2026-01-15T18:04:02.464000",
-            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 권영진·김형동·박정하·배준영·서범수·엄태영·이성권·조은희·최형두(이상 재선), 고동진·김건·김소희·김용태... ",
+            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 고동진·김건·김소희·김용태·김재섭·박정훈·안상훈·우재준·유용원·정연욱·진종오(이상 초선) 의원 등 23명이... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404024&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-14T13:29:00",
@@ -223,7 +262,7 @@
             "_id": "6968ad85297082fcc2b18cca",
             "link": "https://n.news.naver.com/mnews/article/020/0003689296?sid=100",
             "created_at": "2026-01-15T18:04:02.464000",
-            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위 결정에... ",
+            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 조은희, 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133154308/2",
             "press": "동아일보",
             "pubDate": "2026-01-14T12:54:00",
@@ -596,20 +635,6 @@
             "title": "조국 “尹과 단절 선언한 국힘 의원 25명, 탈당하라”"
         },
         {
-            "_id": "6964b58e631fd174349964c0",
-            "link": "https://n.news.naver.com/mnews/article/421/0008641822?sid=100",
-            "created_at": "2026-01-12T17:49:15.765000",
-            "description": "송년행사 (국회 사랑재) 14:00 차지호 의원실 등, AI 기반 의료디지털전환: 의학한림원 정책보고·디지털전환특별위원회 심포지엄 (국회도서관 국가전략정보센터) 14:00 김용태 의원실, 접경지 경기북부 물부족... ",
-            "originallink": "https://www.news1.kr/politics/assembly/5997373",
-            "press": "뉴스1",
-            "pubDate": "2025-12-04T05:00:00",
-            "related_members": [
-                "RC885085",
-                "EPI69383"
-            ],
-            "title": "[오늘의 국회일정] (4일, 목)"
-        },
-        {
             "_id": "6964b58e631fd174349964c1",
             "link": "https://n.news.naver.com/mnews/article/003/0013638039?sid=100",
             "created_at": "2026-01-12T17:49:15.765000",
@@ -622,25 +647,29 @@
                 "EPI69383"
             ],
             "title": "[오늘의 주요일정]국회(12월4일 목요일)"
+        },
+        {
+            "_id": "6964b58e631fd174349964c0",
+            "link": "https://n.news.naver.com/mnews/article/421/0008641822?sid=100",
+            "created_at": "2026-01-12T17:49:15.765000",
+            "description": "송년행사 (국회 사랑재) 14:00 차지호 의원실 등, AI 기반 의료디지털전환: 의학한림원 정책보고·디지털전환특별위원회 심포지엄 (국회도서관 국가전략정보센터) 14:00 김용태 의원실, 접경지 경기북부 물부족... ",
+            "originallink": "https://www.news1.kr/politics/assembly/5997373",
+            "press": "뉴스1",
+            "pubDate": "2025-12-04T05:00:00",
+            "related_members": [
+                "RC885085",
+                "EPI69383"
+            ],
+            "title": "[오늘의 국회일정] (4일, 목)"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960ac1b631fd1743497d507",
-            "url": "https://www.youtube.com/watch?v=UCYcr6XoZ5-CBBDdQFtq687g",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-21T08:43:08.067000",
-            "duration": null,
-            "title": "김용태TV",
-            "upload_date": null
-        },
         {
             "_id": "6960ac1b631fd1743497d508",
             "url": "https://www.youtube.com/watch?v=CP6MohdltRI",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-15T18:15:27.045000",
+            "collected_at": "2026-01-23T16:41:23.586000",
             "duration": 1732.0,
             "title": "[국회의원 25시] 1회 새 바람을 꿈꾸는 소신 정치 - 김용태 의원",
             "upload_date": null
@@ -650,29 +679,9 @@
             "url": "https://www.youtube.com/watch?v=3W5w7l3SHDE",
             "HG_NM": "김용태",
             "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-21T08:43:08.807000",
+            "collected_at": "2026-01-23T16:41:24.322000",
             "duration": 1277.0,
             "title": "[뉴스직격]김용태 의원 인터뷰/윤어게인 포퓰리즘 그만/장대표 계엄사과 했어야/탄핵 후에도 윤석열에 종속된 꼴",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d50a",
-            "url": "https://www.youtube.com/watch?v=xIJZ_691nQ8",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-21T08:43:08.067000",
-            "duration": 241.0,
-            "title": "김용태, 이주영의 '헤어게이트'..누가 머리에 정치자금을 썼나?",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac1b631fd1743497d50b",
-            "url": "https://www.youtube.com/watch?v=OAsseHMom7A",
-            "HG_NM": "김용태",
-            "MONA_CD": "EPI69383",
-            "collected_at": "2026-01-21T08:43:08.067000",
-            "duration": 105.0,
-            "title": "김용태 의원에게 계엄 당일 추경호 행적 의문 제기하자 \"이 방송에서 이야기 다 해, 특검 가서 할 이야기 없어\"",
             "upload_date": null
         },
         {
@@ -693,6 +702,36 @@
             "collected_at": "2026-01-18T13:11:28.888000",
             "duration": 108.0,
             "title": "\"쌍전 절연하자\"…김용태 \"당 지도부, 전한길·전광훈에 결단 내려야\"｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d50a",
+            "url": "https://www.youtube.com/watch?v=xIJZ_691nQ8",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:23.586000",
+            "duration": 241.0,
+            "title": "김용태, 이주영의 '헤어게이트'..누가 머리에 정치자금을 썼나?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d507",
+            "url": "https://www.youtube.com/watch?v=UCYcr6XoZ5-CBBDdQFtq687g",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:23.586000",
+            "duration": null,
+            "title": "김용태TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac1b631fd1743497d50b",
+            "url": "https://www.youtube.com/watch?v=OAsseHMom7A",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:23.586000",
+            "duration": 105.0,
+            "title": "김용태 의원에게 계엄 당일 추경호 행적 의문 제기하자 \"이 방송에서 이야기 다 해, 특검 가서 할 이야기 없어\"",
             "upload_date": null
         },
         {
@@ -734,7 +773,57 @@
             "duration": 96.0,
             "title": "[빠른뉴스 쨉] 현장영상) 김용태 \"학폭자는 반영되는데 소년범은 아직?\" #shorts",
             "upload_date": null
+        },
+        {
+            "_id": "697326278459600028997976",
+            "url": "https://www.youtube.com/watch?v=LJCwkoA5Zbk",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:23.586000",
+            "duration": 3288.0,
+            "title": "김용태 국민의힘 의원 : 장동혁 대표에 대한 평가 / 한동훈 '당게 논란' 시각은? / 지방선거  이렇게 본다",
+            "upload_date": null
+        },
+        {
+            "_id": "697326278459600028997977",
+            "url": "https://www.youtube.com/watch?v=4H6andtwf4s",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:23.586000",
+            "duration": 335.0,
+            "title": "[여담야담] 김용태 \"당무감사위가 정적제거 수단인가…표현의 자유 침해\" / SBS / 편상욱의 뉴스브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "697326278459600028997978",
+            "url": "https://www.youtube.com/watch?v=FNEV_6tr-bg",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:23.586000",
+            "duration": 1052.0,
+            "title": "[김태현의 정치쇼] 김용태 \"지도부 '계엄 사과' 기대…윤어게인 흩어져도 국힘 안 망해\" | 이너:뷰 251127(목)",
+            "upload_date": null
+        },
+        {
+            "_id": "697326278459600028997979",
+            "url": "https://www.youtube.com/watch?v=qe4syUB3UA8",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:24.322000",
+            "duration": 614.0,
+            "title": "[박정호의 핫스팟] 장동혁 '진심 응원' 중인 김용태 신부, 이유 밝히자 현장 빵터졌다",
+            "upload_date": null
+        },
+        {
+            "_id": "69732627845960002899797a",
+            "url": "https://www.youtube.com/watch?v=LweUgk7IG7c",
+            "HG_NM": "김용태",
+            "MONA_CD": "EPI69383",
+            "collected_at": "2026-01-23T16:41:24.322000",
+            "duration": 453.0,
+            "title": "[박정호의 핫스팟] 윤석열 'X랄발광' 표현한 김용태 신부, 헉! 김건희는 '이것'으로 비유 ㄷㄷ",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:11.021027"
+    "exported_at": "2026-01-26T14:36:17.008049"
 }

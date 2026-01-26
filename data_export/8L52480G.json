@@ -43,32 +43,40 @@
     "analysis": {
         "keywords": [
             "이상",
-            "포항",
+            "지역",
             "국민",
+            "포항",
+            "대표",
             "신년",
             "인사",
             "시장",
-            "지역",
             "현장",
+            "경제",
             "활성",
+            "인구",
+            "경북",
             "토론회",
-            "채널A",
-            "발언",
-            "발전",
-            "전통",
-            "남구"
+            "채널A"
         ],
         "keyword_frequency": [
             {
                 "text": "이상",
-                "value": 25
+                "value": 33
             },
             {
-                "text": "포항",
-                "value": 14
+                "text": "지역",
+                "value": 18
             },
             {
                 "text": "국민",
+                "value": 16
+            },
+            {
+                "text": "포항",
+                "value": 16
+            },
+            {
+                "text": "대표",
                 "value": 13
             },
             {
@@ -84,16 +92,24 @@
                 "value": 10
             },
             {
-                "text": "지역",
-                "value": 9
-            },
-            {
                 "text": "현장",
                 "value": 8
             },
             {
+                "text": "경제",
+                "value": 7
+            },
+            {
                 "text": "활성",
                 "value": 7
+            },
+            {
+                "text": "인구",
+                "value": 6
+            },
+            {
+                "text": "경북",
+                "value": 6
             },
             {
                 "text": "토론회",
@@ -102,39 +118,23 @@
             {
                 "text": "채널A",
                 "value": 6
-            },
-            {
-                "text": "발언",
-                "value": 6
-            },
-            {
-                "text": "발전",
-                "value": 5
-            },
-            {
-                "text": "전통",
-                "value": 5
-            },
-            {
-                "text": "남구",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:30.122204",
+        "last_analyzed_at": "2026-01-26T14:36:37.553956",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
                 0,
-                0,
+                3,
                 0,
                 0,
                 0,
@@ -143,6 +143,48 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6972d22684596000289977dd",
+            "link": "https://n.news.naver.com/mnews/article/022/0004099708?sid=100",
+            "created_at": "2026-01-23T10:43:00.200000",
+            "description": "인구감소·도서지역 선거구 획정, 인구 대표성과 지역 대표성의 균형 마련 국민의힘 이상휘 국회의원(포항남∙울릉)은 22일 지방의회의원 선거구 획정 과정에서 인구감소지역 및 도서지역의 지역대표성을 보완하기 위한... ",
+            "originallink": "https://www.segye.com/newsView/20260122517159?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-22T17:54:00",
+            "related_members": [
+                "8L52480G"
+            ],
+            "title": "이상휘 국회의원, 공직선거법 일부개정법률안 대표발의"
+        },
+        {
+            "_id": "6972d22684596000289977de",
+            "link": "https://n.news.naver.com/mnews/article/003/0013725977?sid=102",
+            "created_at": "2026-01-23T10:43:00.200000",
+            "description": "· 국민의힘 이상휘 국회의원(포항 남·울릉)은 22일 지방의회 의원 선거구 획정 과정에 인구 감소·도서 지역의 지역 대표를 보완하기 위한 '공직선거법 일부 개정 법률안을 대표 발의했다고 밝혔다. 개정안은 최근... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003487009",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T17:09:00",
+            "related_members": [
+                "8L52480G"
+            ],
+            "title": "이상휘 의원 '인구 감소·도서 지역 최소 대표성 보장' 발의"
+        },
+        {
+            "_id": "6972d2008459600028997731",
+            "link": "https://n.news.naver.com/mnews/article/003/0013725183?sid=102",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "경북도지사 선거출마를 준비 중인 최경환 전 경제부총리가 국회의원 4선을 한 경북 경산시에서 24일... 국민의힘 TK(대구·경북) 지역구인 윤재옥·이만희·김정재·이상휘 의원도 참석할 예정이라고 최 전 부총리 측은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003486543",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T13:48:00",
+            "related_members": [
+                "E1J8836Y",
+                "ZRF3039U",
+                "8L52480G",
+                "OSV9142K"
+            ],
+            "title": "최경환 전 경제부총리, 경북지사 출마…24일 출판기념회"
+        },
         {
             "_id": "6964b577631fd1743499638b",
             "link": "https://n.news.naver.com/mnews/article/382/0001247329?sid=102",
@@ -318,9 +360,19 @@
             "url": "https://www.youtube.com/watch?v=dnfFQ5uduJk",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:38.709000",
+            "collected_at": "2026-01-23T16:46:51.769000",
             "duration": 595.0,
             "title": "드라마 한 편 뚝딱 나오는 파란만장 이상휘 의원이 말아주는 라떼 한 잔 호로록! | 국집소 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad63631fd1743497da20",
+            "url": "https://www.youtube.com/watch?v=P9ptITQc41U",
+            "HG_NM": "이상휘",
+            "MONA_CD": "8L52480G",
+            "collected_at": "2026-01-23T16:46:51.769000",
+            "duration": 87.0,
+            "title": "이상휘 \"다음엔 머리띠 하고 와야겠다\"…험악했던 과방위, 갑자기 '폭소' [현장영상] / 채널A",
             "upload_date": null
         },
         {
@@ -334,13 +386,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad63631fd1743497da20",
-            "url": "https://www.youtube.com/watch?v=P9ptITQc41U",
+            "_id": "6960ad63631fd1743497da22",
+            "url": "https://www.youtube.com/watch?v=yTybvfLL2Ec",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:38.709000",
-            "duration": 87.0,
-            "title": "이상휘 \"다음엔 머리띠 하고 와야겠다\"…험악했던 과방위, 갑자기 '폭소' [현장영상] / 채널A",
+            "collected_at": "2026-01-23T16:46:51.769000",
+            "duration": 89.0,
+            "title": "이상휘 국민의힘 의원 \"김 여사가 함부로 사과 못하는 건 정치적인 영향력 때문\"｜지금 이 뉴스",
             "upload_date": null
         },
         {
@@ -354,21 +406,11 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad63631fd1743497da22",
-            "url": "https://www.youtube.com/watch?v=yTybvfLL2Ec",
-            "HG_NM": "이상휘",
-            "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:39.512000",
-            "duration": 89.0,
-            "title": "이상휘 국민의힘 의원 \"김 여사가 함부로 사과 못하는 건 정치적인 영향력 때문\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
             "_id": "69659681887d07f7ba2fad71",
             "url": "https://www.youtube.com/watch?v=tPMfnAnTjRQ",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:38.709000",
+            "collected_at": "2026-01-23T16:46:51.769000",
             "duration": 320.0,
             "title": "[현장영상] 이상휘 한마디에 민주당 '발칵'…국회 난장판 된 이유가 / JTBC News",
             "upload_date": null
@@ -378,7 +420,7 @@
             "url": "https://www.youtube.com/watch?v=jC3_3H9GMLg",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:39.512000",
+            "collected_at": "2026-01-23T16:46:51.769000",
             "duration": 544.0,
             "title": "이상휘 \"매관매직? 인격 모독 발언!\" [티조Clip]",
             "upload_date": null
@@ -388,7 +430,7 @@
             "url": "https://www.youtube.com/watch?v=geU5zBgy9oM",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:38.709000",
+            "collected_at": "2026-01-23T16:46:51.769000",
             "duration": 195.0,
             "title": "이상휘, 과방위서 발언 후 그대로 나가버렸다 [현장영상] / 채널A",
             "upload_date": null
@@ -408,7 +450,7 @@
             "url": "https://www.youtube.com/watch?v=TZY9uJigG1E",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-13T09:49:03.650000",
+            "collected_at": "2026-01-23T16:46:52.673000",
             "duration": 321.0,
             "title": "이상휘 \"이런 질의 해야한다는 것 자체가 부끄럽다\" [티조Clip]",
             "upload_date": null
@@ -418,7 +460,7 @@
             "url": "https://www.youtube.com/watch?v=UlTFOu1Jj3U",
             "HG_NM": "이상휘",
             "MONA_CD": "8L52480G",
-            "collected_at": "2026-01-21T08:48:38.709000",
+            "collected_at": "2026-01-23T16:46:51.769000",
             "duration": 221.0,
             "title": "속 보이는 이상휘 발언 받아치는 최민희 \"저는 김건희인 줄 알았어요\" 웃참하는 국힘",
             "upload_date": null
@@ -432,7 +474,17 @@
             "duration": 126.0,
             "title": "이상휘 \"배민은 독일의 민족, 쿠팡은 괴도 루팡\" [현장영상] / 채널A",
             "upload_date": null
+        },
+        {
+            "_id": "6973276f8459600028997a62",
+            "url": "https://www.youtube.com/watch?v=O6eQX7wItzU",
+            "HG_NM": "이상휘",
+            "MONA_CD": "8L52480G",
+            "collected_at": "2026-01-23T16:46:52.673000",
+            "duration": 440.0,
+            "title": "이상휘 \"쿠팡이 한국에 기여한 게 뭐냐\" [티조Clip]",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:30.122204"
+    "exported_at": "2026-01-26T14:36:37.553956"
 }

@@ -50,13 +50,13 @@
             "지역",
             "공공",
             "대표",
+            "민주당",
             "발의",
             "전북",
-            "선거",
             "위원회",
-            "기관",
-            "민주당",
+            "선거",
             "위원장",
+            "기관",
             "질의",
             "지방",
             "상생",
@@ -66,7 +66,7 @@
         "keyword_frequency": [
             {
                 "text": "지역",
-                "value": 24
+                "value": 22
             },
             {
                 "text": "공공",
@@ -74,7 +74,11 @@
             },
             {
                 "text": "대표",
-                "value": 14
+                "value": 15
+            },
+            {
+                "text": "민주당",
+                "value": 15
             },
             {
                 "text": "발의",
@@ -85,24 +89,20 @@
                 "value": 14
             },
             {
+                "text": "위원회",
+                "value": 14
+            },
+            {
                 "text": "선거",
                 "value": 14
             },
             {
-                "text": "위원회",
+                "text": "위원장",
                 "value": 13
             },
             {
                 "text": "기관",
                 "value": 13
-            },
-            {
-                "text": "민주당",
-                "value": 12
-            },
-            {
-                "text": "위원장",
-                "value": 12
             },
             {
                 "text": "질의",
@@ -125,29 +125,43 @@
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:28.543672",
+        "last_analyzed_at": "2026-01-26T14:36:35.857052",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                4,
+                1,
+                1,
+                0,
+                0,
                 0,
                 1,
-                1,
-                3,
-                1,
-                1
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fd1a845960002899805c",
+            "link": "https://n.news.naver.com/mnews/article/052/0002305546?sid=100",
+            "created_at": "2026-01-26T14:35:19.952000",
+            "description": "국회의원과 국무위원 검증 기준은 다르다며, 도덕성과 자질에 대해 정확한 검증이 이뤄진 건 이번이 처음이었다고 강조한 겁니다. 주진우 의원은 페이스북을 통해 지명 철회로 끝낼 문제가 아니라며 아파트 청약시스템... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601251455250030",
+            "press": "YTN",
+            "pubDate": "2026-01-25T14:55:00",
+            "related_members": [
+                "JC14718Q",
+                "GJK57930"
+            ],
+            "title": "이혜훈 낙마에...민주 \"결정 존중\"·국힘 \"만시지탄\""
+        },
         {
             "_id": "6970125f297082fcc2b34d24",
             "link": "https://n.news.naver.com/mnews/article/016/0002588651?sid=100",
@@ -193,7 +207,7 @@
             "_id": "69701238297082fcc2b34c69",
             "link": "https://n.news.naver.com/mnews/article/003/0013717724?sid=102",
             "created_at": "2026-01-21T08:39:34.439000",
-            "description": "행사에는 김관영 전북지사를 비롯해 이원택 국회의원, 정헌율 익산시장, 박상우 전 국토부 장관, 송태규 민주당 익산갑 지역위원장, 김경진 익산시의장, 지역 각계 인사, 시민 등 총 5000여 명이 참석했다. 정세균 전... ",
+            "description": "정세균 전 국무총리와 송하진 전 전북도지사, 한병도 민주당 원내대표, 문정복 민주당 최고위원, 윤준병 민주당 전북도당위원장, 맹성규 국회 국토교통위원장, 박범계·김영진·안호영 국회의원, 김홍국 하림 회장, 김용 전... ",
             "originallink": "https://www.newsis.com/view/NISX20260119_0003481759",
             "press": "뉴시스",
             "pubDate": "2026-01-19T11:36:00",
@@ -510,7 +524,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
+            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -602,7 +616,7 @@
             "url": "https://www.youtube.com/watch?v=FdCQ_7GbxS8",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-14T10:21:14.561000",
+            "collected_at": "2026-01-23T16:46:23.472000",
             "duration": 128.0,
             "title": "\"월세 나쁘지 않다\" 윤준병 논란…여당 내부서도 쓴소리 / JTBC 뉴스룸",
             "upload_date": null
@@ -622,7 +636,7 @@
             "url": "https://www.youtube.com/watch?v=lZXxSamfWIU",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:10.591000",
+            "collected_at": "2026-01-23T16:46:23.472000",
             "duration": 285.0,
             "title": "[국회는지금] 윤준병 \"도당위원장 중책…지방선거 필승\"ㅣ#헬로tv뉴스",
             "upload_date": null
@@ -632,7 +646,7 @@
             "url": "https://www.youtube.com/watch?v=vRUnkR67I0o",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:09.878000",
+            "collected_at": "2026-01-23T16:46:22.633000",
             "duration": 153.0,
             "title": "최인규 의장 '지방의원 길들이기' VS 윤준병 의원 '구태 정치 청산'",
             "upload_date": null
@@ -642,7 +656,7 @@
             "url": "https://www.youtube.com/watch?v=Yh9tfQqe89c",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:09.878000",
+            "collected_at": "2026-01-23T16:46:22.633000",
             "duration": 115.0,
             "title": "윤준병 의원, ‘선거법 위반 혐의’…벌금 90만 원",
             "upload_date": null
@@ -652,7 +666,7 @@
             "url": "https://www.youtube.com/watch?v=nuYvcnoD3hE",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-09T16:24:51.754000",
+            "collected_at": "2026-01-23T16:46:23.472000",
             "duration": 269.0,
             "title": "[헬로 전북-LG비전뉴스] “윤준병 의원, 21대 총선 약속, 얼마나 지켰나”(2023.01.19.)",
             "upload_date": null
@@ -682,7 +696,7 @@
             "url": "https://www.youtube.com/watch?v=UCsSKyhkxLxd2H7lVy0PR35A",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:09.878000",
+            "collected_at": "2026-01-23T16:46:22.633000",
             "duration": null,
             "title": "해결사 윤준병",
             "upload_date": null
@@ -698,16 +712,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad46631fd1743497d9bd",
-            "url": "https://www.youtube.com/watch?v=U4lhQbzre_0",
-            "HG_NM": "윤준병",
-            "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-09T16:24:51.037000",
-            "duration": 356.0,
-            "title": "[7/29] 국회의원 윤준병의 고용노동부 업무 관련 질문 영상(2차 질의)",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad46631fd1743497d9bc",
             "url": "https://www.youtube.com/watch?v=gVnbrpZIiSc",
             "HG_NM": "윤준병",
@@ -718,23 +722,23 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad46631fd1743497d9bd",
+            "url": "https://www.youtube.com/watch?v=U4lhQbzre_0",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-23T16:46:22.633000",
+            "duration": 356.0,
+            "title": "[7/29] 국회의원 윤준병의 고용노동부 업무 관련 질문 영상(2차 질의)",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad46631fd1743497d9bb",
             "url": "https://www.youtube.com/watch?v=at6X1cy29lQ",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:10.591000",
+            "collected_at": "2026-01-23T16:46:23.472000",
             "duration": 131.0,
             "title": "[뉴스데스크]'선거법 위반' 윤준병 의원 1심 \"당선무효형 피해\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad46631fd1743497d9ba",
-            "url": "https://www.youtube.com/watch?v=p9bGwg_z5KU",
-            "HG_NM": "윤준병",
-            "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:09.878000",
-            "duration": 233.0,
-            "title": "[9/16] 국회의원 윤준병의 농어업인 공익수당지원법안 농림축산식품해양수산위원회 제안설명 영상",
             "upload_date": null
         },
         {
@@ -742,7 +746,7 @@
             "url": "https://www.youtube.com/watch?v=VmM2dmeqrjY",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:09.878000",
+            "collected_at": "2026-01-23T16:46:22.633000",
             "duration": 1800.0,
             "title": "[국회방송 국회의원 25시] \"주민들의 어려움을 해결하고 더 나은 내일을 만드는 것이 윤준병이 생각하는 정치입니다!\" (24.09.10.)",
             "upload_date": null
@@ -752,11 +756,21 @@
             "url": "https://www.youtube.com/watch?v=L4_NwMbskcA",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-21T08:48:09.878000",
+            "collected_at": "2026-01-23T16:46:22.633000",
             "duration": 649.0,
             "title": "[7/31] 국회의원 윤준병의 환경부 업무 관련 질문 영상(2차 질의)",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad46631fd1743497d9ba",
+            "url": "https://www.youtube.com/watch?v=p9bGwg_z5KU",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-23T16:46:22.633000",
+            "duration": 233.0,
+            "title": "[9/16] 국회의원 윤준병의 농어업인 공익수당지원법안 농림축산식품해양수산위원회 제안설명 영상",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:28.543672"
+    "exported_at": "2026-01-26T14:36:35.857052"
 }

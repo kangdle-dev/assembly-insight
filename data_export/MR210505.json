@@ -48,6 +48,10 @@
     "analysis": {
         "keywords": [
             "서일",
+            "한덕수",
+            "피고인",
+            "질의",
+            "계엄",
             "전담",
             "차관",
             "신설",
@@ -55,18 +59,30 @@
             "진실",
             "상공인",
             "국민",
-            "송치",
-            "회장",
-            "상공",
-            "정책",
-            "대계",
-            "기틀",
-            "종합"
+            "전문",
+            "이진관",
+            "재판장"
         ],
         "keyword_frequency": [
             {
                 "text": "서일",
-                "value": 32
+                "value": 34
+            },
+            {
+                "text": "한덕수",
+                "value": 6
+            },
+            {
+                "text": "피고인",
+                "value": 4
+            },
+            {
+                "text": "질의",
+                "value": 4
+            },
+            {
+                "text": "계엄",
+                "value": 4
             },
             {
                 "text": "전담",
@@ -97,48 +113,32 @@
                 "value": 3
             },
             {
-                "text": "송치",
+                "text": "전문",
                 "value": 2
             },
             {
-                "text": "회장",
+                "text": "이진관",
                 "value": 2
             },
             {
-                "text": "상공",
-                "value": 2
-            },
-            {
-                "text": "정책",
-                "value": 2
-            },
-            {
-                "text": "대계",
-                "value": 2
-            },
-            {
-                "text": "기틀",
-                "value": 2
-            },
-            {
-                "text": "종합",
+                "text": "재판장",
                 "value": 2
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:22.682215",
+        "last_analyzed_at": "2026-01-26T14:36:29.500039",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
-                0,
+                2,
                 0,
                 0,
                 0,
@@ -148,6 +148,37 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6972d1fc84596000289976ff",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787663?sid=102",
+            "created_at": "2026-01-23T10:42:18.052000",
+            "description": "피고인은 어떻게 생각하느냐’는 서일준 의원의 질의에 대하여, 헌법 규정에 따르면 계엄을 선포하더라도 국회가 과반수로 의결하면 즉각 해제하게 돼 있지 않느냐. 그러면 결국 그 논리는 계엄을 통해서 국회의 기능을... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1241007.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-21T19:24:00",
+            "related_members": [
+                "7BM2933Y",
+                "MR210505",
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "[전문1] 이진관 재판장 “한덕수 피고인을 징역 23년에 처한다”"
+        },
+        {
+            "_id": "6972d2158459600028997793",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303839?sid=100",
+            "created_at": "2026-01-23T10:42:43.861000",
+            "description": "피고인은 어떻게 생각하느냐는 취지의 서일준 의원의 질의에 대하여 헌법 규정에 따르면 계엄을 선포하더라도 국회가 과반수로 의결하면 즉각 해제하게 되어 있지 않느냐. 그러면 결국 그 논리는 계엄을 통해서 국회의... ",
+            "originallink": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202601211405245040",
+            "press": "YTN",
+            "pubDate": "2026-01-21T14:05:00",
+            "related_members": [
+                "MR210505",
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "한덕수 전 국무총리 '내란 재판' 1심 선고…이 시각 중앙지법"
+        },
         {
             "_id": "6964b567631fd174349962e5",
             "link": "https://n.news.naver.com/mnews/article/003/0013655607?sid=101",
@@ -200,7 +231,7 @@
             "url": "https://www.youtube.com/watch?v=UCKDELFTwfOGxsskPYyFyaag",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-21T08:46:25.649000",
+            "collected_at": "2026-01-23T16:44:41.756000",
             "duration": null,
             "title": "서일준TV",
             "upload_date": null
@@ -210,7 +241,7 @@
             "url": "https://www.youtube.com/watch?v=ENw96FpPK5s",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-21T08:46:25.649000",
+            "collected_at": "2026-01-23T16:44:41.756000",
             "duration": 1385.0,
             "title": "서일준tv [2022년 서일준 국회의원 대정부 질문 풀영상(주52시간 문제, 대우조선 분리매각 반대, 거가대로 통행료 인하)]#국민의힘 #서일준tv #대우조선해양",
             "upload_date": null
@@ -220,7 +251,7 @@
             "url": "https://www.youtube.com/watch?v=gD25ksmnxlA",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-18T13:15:20.905000",
+            "collected_at": "2026-01-23T16:44:42.463000",
             "duration": 158.0,
             "title": "서일준tv [KDDX 방산비리 방산마피아, 서일준 \"총리님 진실을 명명백백히 밝혀야!\" 한덕수\"진실이 밝혀지도록 수사 이뤄져야!\"]  #거제시 #국민의힘 #서일준TV 서일준tv",
             "upload_date": null
@@ -230,7 +261,7 @@
             "url": "https://www.youtube.com/watch?v=b6P7D8ZZRx0",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-21T08:46:25.649000",
+            "collected_at": "2026-01-23T16:44:41.756000",
             "duration": 130.0,
             "title": "제22대 국회의원 총선 : 국민의 힘 서일준 후보 당선",
             "upload_date": null
@@ -240,7 +271,7 @@
             "url": "https://www.youtube.com/watch?v=gqbRMm0_fnM",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-18T13:15:19.869000",
+            "collected_at": "2026-01-23T16:44:41.756000",
             "duration": 1062.0,
             "title": "20200718 서일준국회의원초청인터뷰",
             "upload_date": null
@@ -250,7 +281,7 @@
             "url": "https://www.youtube.com/watch?v=c6kcKvHZxWI",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-14T10:19:32.781000",
+            "collected_at": "2026-01-23T16:44:41.756000",
             "duration": 158.0,
             "title": "서일준 의원, LNG 화물창 국산화 추진! 로얄티 아껴 조선업 영속성 유지해야! #거제시 #조선업 #국민의힘",
             "upload_date": null
@@ -260,7 +291,7 @@
             "url": "https://www.youtube.com/watch?v=acyuetcQUY0",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-21T08:46:26.382000",
+            "collected_at": "2026-01-23T16:44:42.463000",
             "duration": 453.0,
             "title": "서일준 \"어떻게 장관이 발표 안 할 수 있나\" [티조Clip]",
             "upload_date": null
@@ -270,7 +301,7 @@
             "url": "https://www.youtube.com/watch?v=6wOROa4qQTU",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-21T08:46:25.649000",
+            "collected_at": "2026-01-23T16:44:41.756000",
             "duration": 323.0,
             "title": "거제시 서일준 의원 무능정치, 이젠 사퇴할 때",
             "upload_date": null
@@ -290,11 +321,11 @@
             "url": "https://www.youtube.com/watch?v=rmmHwN8HECM",
             "HG_NM": "서일준",
             "MONA_CD": "MR210505",
-            "collected_at": "2026-01-18T13:15:20.905000",
+            "collected_at": "2026-01-23T16:44:42.463000",
             "duration": 310.0,
             "title": "[당선인에게 듣는다] ‘거제’ 서일준 [MBC경남 뉴스데스크] 200424",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:22.682215"
+    "exported_at": "2026-01-26T14:36:29.501039"
 }

@@ -53,36 +53,40 @@
     "analysis": {
         "keywords": [
             "장관",
-            "에너지",
             "기후",
-            "원전",
-            "용인",
-            "정책",
-            "반도체",
-            "재생",
+            "에너지",
             "환경부",
-            "이전",
-            "산단",
-            "회관",
             "토론회",
-            "클러스터",
-            "전력"
+            "용인",
+            "낙동강",
+            "문제",
+            "전략",
+            "반도체",
+            "회관",
+            "이전",
+            "해결",
+            "재생",
+            "산단"
         ],
         "keyword_frequency": [
             {
                 "text": "장관",
-                "value": 40
-            },
-            {
-                "text": "에너지",
-                "value": 34
+                "value": 57
             },
             {
                 "text": "기후",
-                "value": 26
+                "value": 45
             },
             {
-                "text": "원전",
+                "text": "에너지",
+                "value": 45
+            },
+            {
+                "text": "환경부",
+                "value": 24
+            },
+            {
+                "text": "토론회",
                 "value": 22
             },
             {
@@ -90,19 +94,23 @@
                 "value": 22
             },
             {
-                "text": "정책",
-                "value": 17
+                "text": "낙동강",
+                "value": 20
+            },
+            {
+                "text": "문제",
+                "value": 15
+            },
+            {
+                "text": "전략",
+                "value": 15
             },
             {
                 "text": "반도체",
-                "value": 16
+                "value": 15
             },
             {
-                "text": "재생",
-                "value": 14
-            },
-            {
-                "text": "환경부",
+                "text": "회관",
                 "value": 14
             },
             {
@@ -110,49 +118,249 @@
                 "value": 12
             },
             {
+                "text": "해결",
+                "value": 11
+            },
+            {
+                "text": "재생",
+                "value": 11
+            },
+            {
                 "text": "산단",
                 "value": 10
-            },
-            {
-                "text": "회관",
-                "value": 9
-            },
-            {
-                "text": "토론회",
-                "value": 9
-            },
-            {
-                "text": "클러스터",
-                "value": 8
-            },
-            {
-                "text": "전력",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:09.265786",
+        "last_analyzed_at": "2026-01-26T14:36:15.146725",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
-                0,
-                1,
-                1,
-                1,
                 3,
-                0
+                0,
+                3,
+                8,
+                0,
+                3,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fcf18459600028997f70",
+            "link": "https://n.news.naver.com/mnews/article/057/0001932019?sid=101",
+            "created_at": "2026-01-26T14:34:38.454000",
+            "description": "기후에너지환경부가 지난 23일 국회의원회관 제1세미나실에서 '낙동강 먹는 물 문제 해결을 위한 전략토론회... 행사에는 김성환 기후부 장관을 비롯해 유영하·우재준 국민의힘 의원과 김정기 대구시장 권한대행이... ",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5171303",
+            "press": "매일경제",
+            "pubDate": "2026-01-26T09:53:00",
+            "related_members": [
+                "JZV5283U",
+                "XSP20229",
+                "8UC4779G"
+            ],
+            "title": "'낙동강 먹는 물 문제 해결'…국회서 전략 토론회 개최"
+        },
+        {
+            "_id": "6976fcf18459600028997f71",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955098?sid=100",
+            "created_at": "2026-01-26T14:34:38.455000",
+            "description": "‘공로명과 나’로 명명된 이 문집엔 국내에서는 반기문 전 유엔 사무총장, 유명환·김성환 전 외교부 장관... 심윤조 전 국회의원은 “(주일 대사관 근무 시절) 일본인들도 공 대사의 인품과 실력에 대해 존경심을 표하는... ",
+            "originallink": "https://www.chosun.com/politics/diplomacy-defense/2026/01/25/IYY2KXTHQRC6PN4KK6QUC7A6M4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T22:31:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "中·러 ‘북방외교’ 핵심 역할, 공로명 前장관 94세로 별세"
+        },
+        {
+            "_id": "6976fcf18459600028997f72",
+            "link": "https://ysmbc.co.kr/NewsArticle/1502261",
+            "created_at": "2026-01-26T14:34:38.455000",
+            "description": "관련해 김성환 기후부 장관이 여수를 방문할 예정입니다. 문형철 기자입니다. ◀ 리포트 ▶ 지역의 최대... 이어 오는 30일 여수에서는 국회의원과 지자체 등이 공동으로 시민들의 의견을 수렴하는 토론회를 열... ",
+            "originallink": "https://ysmbc.co.kr/NewsArticle/1502261",
+            "press": "MBC",
+            "pubDate": "2026-01-25T21:00:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "[이슈 프리뷰] 동부권 공청회 시작...기후부 장관 여수 방문"
+        },
+        {
+            "_id": "6976fcef8459600028997f6c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732620?sid=102",
+            "created_at": "2026-01-26T14:34:36.784000",
+            "description": "25일 대구시와 정치권 등에 따르면 기후에너지환경부는 지난 23일 국회 의원회관에서 대구시와 정치권 등과... 김상훈·유영하·우재준 국민의힘 의원 등이 참석했다. 토론회에서 기후에너지환경부와 대구시 등은 지난해... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6049756",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T09:02:00",
+            "related_members": [
+                "1Y73132H",
+                "JZV5283U",
+                "8UC4779G",
+                "XSP20229"
+            ],
+            "title": "\"먹는 물 불안 줄인다\"…정부·대구시, 국회서 물 문제 해결 토론회"
+        },
+        {
+            "_id": "6976fcf18459600028997f73",
+            "link": "https://n.news.naver.com/mnews/article/016/0002590153?sid=101",
+            "created_at": "2026-01-26T14:34:38.455000",
+            "description": "기후부, 낙동강 먹는 물 문제 해결을 위한 전략토론회 개최 김성환(왼쪽) 기후에너지환경부 장관이 23일 서울 여의도 국회 의원회관에서 열린 낙동강 맑은 물 공급 전략 토론회에 참석하여 인사말을 하고 있다.... ",
+            "originallink": "https://biz.heraldcorp.com/article/10661590?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-23T14:01:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "김성환 “낙동강 먹는물 문제, 실질적 해법 반드시 도출”"
+        },
+        {
+            "_id": "6976fcf18459600028997f75",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730547?sid=101",
+            "created_at": "2026-01-26T14:34:38.455000",
+            "description": "= 김성환 기후에너지환경부 장관이 23일 서울 여의도 국회 의원회관에서 열린 낙동강 맑은 물 공급 전략 토론회에 참석해 인사말을 하고 있다. (기후에너지환경부 제공. 재판매 및 DB 금지) 2026.1.23/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7711896",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T10:46:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "인사말하는 김성환 기후부 장관"
+        },
+        {
+            "_id": "6976fcf18459600028997f74",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730545?sid=101",
+            "created_at": "2026-01-26T14:34:38.455000",
+            "description": "= 김성환 기후에너지환경부 장관이 23일 서울 여의도 국회 의원회관에서 열린 낙동강 맑은 물 공급 전략 토론회에 참석해 인사말을 하고 있다. (기후에너지환경부 제공. 재판매 및 DB 금지) 2026.1.23/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7711894",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T10:46:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "인사말하는 김성환 장관"
+        },
+        {
+            "_id": "6976fcef8459600028997f6e",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730548?sid=101",
+            "created_at": "2026-01-26T14:34:36.784000",
+            "description": "= 김성환 기후에너지환경부장관이 23일 서울 여의도 국회 의원회관에서 낙동강 맑은 물 공급 전략 토론회 시작에 앞서 김정기 대구시장 권한대행, 김상훈 국회의원, 유영하 국회의원, 우재준 국회의원 등 참석자들과... ",
+            "originallink": "https://www.news1.kr/photos/7711892",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T10:46:00",
+            "related_members": [
+                "1Y73132H",
+                "JZV5283U",
+                "XSP20229",
+                "8UC4779G"
+            ],
+            "title": "기념촬영하는 김성환 장관"
+        },
+        {
+            "_id": "6976fcf18459600028997f77",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730546?sid=101",
+            "created_at": "2026-01-26T14:34:38.456000",
+            "description": "= 김성환 기후에너지환경부 장관이 23일 서울 여의도 국회 의원회관에서 열린 낙동강 맑은 물 공급 전략 토론회에서 발언을 하고 있다. (기후에너지환경부 제공. 재판매 및 DB 금지) 2026.1.23/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7711895",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T10:46:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "발언하는 김성환 장관"
+        },
+        {
+            "_id": "6976fcf18459600028997f76",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730544?sid=101",
+            "created_at": "2026-01-26T14:34:38.456000",
+            "description": "= 김성환 기후에너지환경부 장관이 23일 서울 여의도 국회 의원회관에서 열린 낙동강 맑은 물 공급 전략 토론회에서 발언을 하고 있다. (기후에너지환경부 제공. 재판매 및 DB 금지) 2026.1.23/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7711893",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T10:46:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "김성환 장관, '낙동강 맑은 물 공급 전략 토론회' 참석"
+        },
+        {
+            "_id": "6972d1f984596000289976f1",
+            "link": "https://n.news.naver.com/mnews/article/003/0013726635?sid=101",
+            "created_at": "2026-01-23T10:42:15.952000",
+            "description": "김성환 기후에너지환경부 장관이 오랜 지역 현안인 낙동강 먹는물 문제 해결을 위해 전문가들과 머리를 맞대며 대구 물문제 해결의 의지를 밝혔다. 기후부는 23일 국회 의원회관에서 '낙동강 먹는물 문제 해결을 위한... ",
+            "originallink": "https://www.newsis.com/view/NISX20260123_0003487294",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T10:00:00",
+            "related_members": [
+                "XSP20229"
+            ],
+            "title": "기후부, 낙동강 먹는물 불안 줄인다…대구 물문제 해법 논의"
+        },
+        {
+            "_id": "6972d1f984596000289976f2",
+            "link": "https://n.news.naver.com/mnews/article/382/0001250139?sid=102",
+            "created_at": "2026-01-23T10:42:15.953000",
+            "description": "이날 간담회는 김성환 장관 취임 후 첫 호남 방문 일정으로 마련됐으며, 김영록 지사를 비롯해 신정훈 국회의원, 김동철 한전 사장, 윤병태 나주시장, 박진호 한국에너지공대 총장대행 등 지역 에너지 생태계를 이끄는... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260123/133214950/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-23T07:07:00",
+            "related_members": [
+                "M7O7878U",
+                "XSP20229"
+            ],
+            "title": "전남도, 기후부 장관 만나 ‘에너지 주권’ 건의"
+        },
+        {
+            "_id": "6972d1f984596000289976f3",
+            "link": "https://n.news.naver.com/mnews/article/022/0004099705?sid=102",
+            "created_at": "2026-01-23T10:42:15.953000",
+            "description": "대구안실련 제공 기후부는 23일 오전 국회의원회관 제1세미나실에서 대한환경공학회, 대한상하수도학회... 행사에는 김성환 기후부 장관을 비롯해 국민의힘 유영하·우재준 의원 등 지역 의원과 김정기 대구시장... ",
+            "originallink": "https://www.segye.com/newsView/20260122516651?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-22T17:47:00",
+            "related_members": [
+                "8UC4779G",
+                "XSP20229",
+                "JZV5283U"
+            ],
+            "title": "‘낙동강 먹는 물 문제 해결’…국회서 전략 토론회 개최"
+        },
+        {
+            "_id": "6972d1f984596000289976f4",
+            "link": "https://n.news.naver.com/mnews/article/421/0008729550?sid=102",
+            "created_at": "2026-01-23T10:42:15.953000",
+            "description": "김성환 기후부 장관의 취임 후 첫 호남 방문 일정의 하나로 열린 이번 간담회에는 김영록 전남도지사와 신정훈 국회의원, 김동철 한전 사장, 윤병태 나주시장, 박진호 한국에너지공대 총장대행 등이 참석했다. 김영록... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6048052",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T16:58:00",
+            "related_members": [
+                "M7O7878U",
+                "XSP20229"
+            ],
+            "title": "\"발전사업 인허가권 지방 이양해야\" 전남도, 기후부에 건의"
+        },
+        {
+            "_id": "6972d1f984596000289976f5",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108041?sid=102",
+            "created_at": "2026-01-23T10:42:15.953000",
+            "description": "김성환 기후부 장관의 취임 후 첫 호남 방문 일정의 하나로 열린 이번 간담회에는 김영록 전남도지사와 신정훈 국회의원, 김동철 한전 사장, 윤병태 나주시장, 박진호 한국에너지공대 총장대행 등 지역 에너지 생태계를... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6460536?utm_source=naver&utm_medium=article&utm_campaign=20260122040812",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-22T16:09:00",
+            "related_members": [
+                "M7O7878U",
+                "XSP20229"
+            ],
+            "title": "전남도, 발전사업 인허가권 이양 등 '에너지 수도' 현안 건의"
+        },
         {
             "_id": "69701236297082fcc2b34c52",
             "link": "https://n.news.naver.com/mnews/article/028/0002787409?sid=102",
@@ -367,71 +575,6 @@
                 "XSP20229"
             ],
             "title": "청와대 “반도체 클러스터 이전 검토 안 해”"
-        },
-        {
-            "_id": "6964b54c631fd174349960e6",
-            "link": "https://n.news.naver.com/mnews/article/015/0005234708?sid=100",
-            "created_at": "2026-01-12T17:48:09.496000",
-            "description": "전날 김성환 기후에너지환경부 장관은 국회의원회관 정책토론회에서 “마음 같아선 전체 전력을 재생에너지로만 할 수 있으면 좋겠지만, 전력을 안정적으로 공급해야 하는 현실을 고려할 때 쉽지 않다”고 말하며 원전의... ",
-            "originallink": "https://www.hankyung.com/article/202601089948i",
-            "press": "한국경제",
-            "pubDate": "2026-01-08T17:47:00",
-            "related_members": [
-                "XSP20229"
-            ],
-            "title": "靑 \"원전 신설, 아직 말하긴 이르다\"…설문조사 후 결정할 듯"
-        },
-        {
-            "_id": "6964b54c631fd174349960e7",
-            "link": "https://n.news.naver.com/mnews/article/011/0004576463?sid=100",
-            "created_at": "2026-01-12T17:48:09.496000",
-            "description": "앞서 김성환 기후에너지환경부 장관도 에너지 정책의 현실적 조정이 필요하다는 인식을 내비쳤다. 김 장관은 전날 여의도 국회의원회관에서 열린 ‘바람직한 에너지믹스’ 토론회에서 “한국은 반도체 같은 굉장히... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7825I12L",
-            "press": "서울경제",
-            "pubDate": "2026-01-08T17:37:00",
-            "related_members": [
-                "XSP20229"
-            ],
-            "title": "李대통령 \"거창한 숫자보다 국민체감 정책이 중요\""
-        },
-        {
-            "_id": "6964b54c631fd174349960e8",
-            "link": "https://n.news.naver.com/mnews/article/009/0005618707?sid=101",
-            "created_at": "2026-01-12T17:48:09.496000",
-            "description": "기후에너지환경부는 7일 국회 의원회관에서 ‘바람직한 에너지믹스 2차 정책토론회’를 열고, 전력계통... 김성환 기후부 장관 역시 원전을 배제하지 않겠다는 입장을 분명히 했다. 김성환 장관은 “마음 같아서는 전체... ",
-            "originallink": "https://www.mk.co.kr/article/11927166",
-            "press": "매일경제",
-            "pubDate": "2026-01-08T17:09:00",
-            "related_members": [
-                "XSP20229"
-            ],
-            "title": "“AI 핵심은 에너지, 해법은 원전 확대”…기후장관 “탈원전 정책, 궁..."
-        },
-        {
-            "_id": "6964b54c631fd174349960e9",
-            "link": "https://n.news.naver.com/mnews/article/024/0000102630?sid=102",
-            "created_at": "2026-01-12T17:48:09.496000",
-            "description": "7일 서울 여의도 국회 의원회관에서 열린 ‘바람직한 에너지믹스 2차 정책 토론회’에 참석한 김성환 장관은 “원전 분야에 있어 우리나라가 세계 최고의 경쟁력을 가진 것은 사실”이라고 운을 똈다. 김 장관은... ",
-            "originallink": "https://www.mk.co.kr/article/11926950",
-            "press": "매일경제",
-            "pubDate": "2026-01-08T14:51:00",
-            "related_members": [
-                "XSP20229"
-            ],
-            "title": "“탈원전론자였는데…” 돌변한 김성환 기후부 장관"
-        },
-        {
-            "_id": "6964b54c631fd174349960ea",
-            "link": "https://n.news.naver.com/mnews/article/011/0004576082?sid=101",
-            "created_at": "2026-01-12T17:48:09.496000",
-            "description": "김성환 기후에너지환경부 장관이 문재인 정부의 탈(脫)원전 정책을 “궁색했다”고 평가했다. 설계 수명이... 김 장관은 7일 국회 의원회관에서 열린 ‘바람직한 에너지믹스 2차 정책토론회’에서 “대한민국은 원전... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K780A6HXE",
-            "press": "서울경제",
-            "pubDate": "2026-01-08T05:31:00",
-            "related_members": [
-                "XSP20229"
-            ],
-            "title": "김성환 \"원전 짓지 않으면서 수출, 궁색…재생e 만으로는 어렵다“[Pick..."
         }
     ],
     "recent_videos": [
@@ -456,13 +599,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d496",
-            "url": "https://www.youtube.com/watch?v=ASBdwIOy_cU",
+            "_id": "6960abfe631fd1743497d495",
+            "url": "https://www.youtube.com/watch?v=kutiqqxdxIs",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:39.223000",
-            "duration": 244.0,
-            "title": "국회의원 김성환이 말합니다.",
+            "collected_at": "2026-01-23T16:40:55.151000",
+            "duration": 87.0,
+            "title": "6월 항쟁을 몸으로 직접 치른 김성환 국회의원의 회고 [6.10 민주항쟁]",
             "upload_date": null
         },
         {
@@ -470,7 +613,7 @@
             "url": "https://www.youtube.com/watch?v=aO1hHHW1NpI",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:40.020000",
+            "collected_at": "2026-01-23T16:40:55.961000",
             "duration": 577.0,
             "title": "'거시기' 배우 김성환 \"정윤희·장미희 애인이었다\" - 김명준의 뉴스파이터",
             "upload_date": null
@@ -480,19 +623,19 @@
             "url": "https://www.youtube.com/watch?v=JgvNN9mFFf0",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:40.020000",
+            "collected_at": "2026-01-23T16:40:55.961000",
             "duration": 111.0,
             "title": "하늘로 떠난 ‘고바우 영감’…‘시사만화 대부’ 김성환 화백 별세 / KBS뉴스(News)",
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d49a",
-            "url": "https://www.youtube.com/watch?v=pk8anIFwh-M",
+            "_id": "6960abfe631fd1743497d499",
+            "url": "https://www.youtube.com/watch?v=T07krgVe0Uw",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-18T13:10:52.449000",
-            "duration": 2065.0,
-            "title": "[씀: 싸이다Live] 민주당이 민주당했다?! 대화하는 국회의원 김성환",
+            "collected_at": "2026-01-09T16:19:22.890000",
+            "duration": 319.0,
+            "title": "[김성환 국회의원 인권위원장 인사청문회] 인권위 향후 과제는 무엇인가",
             "upload_date": null
         },
         {
@@ -506,13 +649,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d493",
-            "url": "https://www.youtube.com/watch?v=pyFc6F_yn1c",
+            "_id": "6960abfe631fd1743497d494",
+            "url": "https://www.youtube.com/watch?v=QrDUz2LMVmM",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:39.223000",
-            "duration": 357.0,
-            "title": "[김어준의 다스뵈이다] 총수를 감동시킨 김성환 의원의 위스토리(Westory)",
+            "collected_at": "2026-01-23T16:40:55.151000",
+            "duration": 580.0,
+            "title": "[국회 300인의 희망인터뷰] 김성환 의원 - 나의 세가지 키워드!",
             "upload_date": null
         },
         {
@@ -520,7 +663,7 @@
             "url": "https://www.youtube.com/watch?v=vM46LLVptME",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:40.020000",
+            "collected_at": "2026-01-23T16:40:55.961000",
             "duration": 193.0,
             "title": "김성환 기후부 장관이 겪은 이 대통령 업무 스타일은?｜이가혁 라이브",
             "upload_date": null
@@ -530,7 +673,7 @@
             "url": "https://www.youtube.com/watch?v=9nfWZTTwdis",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:39.223000",
+            "collected_at": "2026-01-23T16:40:55.151000",
             "duration": 350.0,
             "title": "'기후에 진심'인 두사람 (이소영 국회의원&김성환 환경부장관)",
             "upload_date": null
@@ -540,7 +683,7 @@
             "url": "https://www.youtube.com/watch?v=ivTWzrBt0l0",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:40.020000",
+            "collected_at": "2026-01-23T16:40:55.961000",
             "duration": 252.0,
             "title": "김성환, 故 송대관에게 10억 빌려준 사연 공개 / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -556,13 +699,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d499",
-            "url": "https://www.youtube.com/watch?v=T07krgVe0Uw",
+            "_id": "6960abfe631fd1743497d49a",
+            "url": "https://www.youtube.com/watch?v=pk8anIFwh-M",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-09T16:19:22.890000",
-            "duration": 319.0,
-            "title": "[김성환 국회의원 인권위원장 인사청문회] 인권위 향후 과제는 무엇인가",
+            "collected_at": "2026-01-18T13:10:52.449000",
+            "duration": 2065.0,
+            "title": "[씀: 싸이다Live] 민주당이 민주당했다?! 대화하는 국회의원 김성환",
             "upload_date": null
         },
         {
@@ -576,13 +719,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d495",
-            "url": "https://www.youtube.com/watch?v=kutiqqxdxIs",
+            "_id": "6960abfe631fd1743497d493",
+            "url": "https://www.youtube.com/watch?v=pyFc6F_yn1c",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:39.223000",
-            "duration": 87.0,
-            "title": "6월 항쟁을 몸으로 직접 치른 김성환 국회의원의 회고 [6.10 민주항쟁]",
+            "collected_at": "2026-01-23T16:40:55.151000",
+            "duration": 357.0,
+            "title": "[김어준의 다스뵈이다] 총수를 감동시킨 김성환 의원의 위스토리(Westory)",
             "upload_date": null
         },
         {
@@ -600,19 +743,19 @@
             "url": "https://www.youtube.com/watch?v=UCVwCEfX77O5aXZSt5wYQO1w",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:39.223000",
+            "collected_at": "2026-01-23T16:40:55.151000",
             "duration": null,
             "title": "김성환TV",
             "upload_date": null
         },
         {
-            "_id": "6960abfe631fd1743497d494",
-            "url": "https://www.youtube.com/watch?v=QrDUz2LMVmM",
+            "_id": "6960abfe631fd1743497d496",
+            "url": "https://www.youtube.com/watch?v=ASBdwIOy_cU",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-21T08:42:39.223000",
-            "duration": 580.0,
-            "title": "[국회 300인의 희망인터뷰] 김성환 의원 - 나의 세가지 키워드!",
+            "collected_at": "2026-01-23T16:40:55.151000",
+            "duration": 244.0,
+            "title": "국회의원 김성환이 말합니다.",
             "upload_date": null
         },
         {
@@ -620,7 +763,7 @@
             "url": "https://www.youtube.com/watch?v=qmwa32MuOu8",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-14T10:15:48.191000",
+            "collected_at": "2026-01-23T16:40:55.151000",
             "duration": 1783.0,
             "title": "[YTN 뉴스앤이슈 ] '김성환 국회의원 여야 의원 대담 코너' FULL VER.",
             "upload_date": null
@@ -636,5 +779,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:09.265786"
+    "exported_at": "2026-01-26T14:36:15.146725"
 }

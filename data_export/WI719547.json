@@ -43,20 +43,20 @@
     "analysis": {
         "keywords": [
             "의료",
-            "디지털",
             "개혁",
             "신당",
+            "디지털",
             "헬스케어",
+            "관리",
             "제도",
             "정책",
             "국정",
             "감사",
+            "보건",
             "회관",
             "헬스",
             "통합",
-            "돌봄",
-            "만성",
-            "질환"
+            "돌봄"
         ],
         "keyword_frequency": [
             {
@@ -64,20 +64,24 @@
                 "value": 16
             },
             {
+                "text": "개혁",
+                "value": 14
+            },
+            {
+                "text": "신당",
+                "value": 14
+            },
+            {
                 "text": "디지털",
                 "value": 14
             },
             {
-                "text": "개혁",
-                "value": 13
-            },
-            {
-                "text": "신당",
-                "value": 13
-            },
-            {
                 "text": "헬스케어",
                 "value": 12
+            },
+            {
+                "text": "관리",
+                "value": 11
             },
             {
                 "text": "제도",
@@ -96,6 +100,10 @@
                 "value": 8
             },
             {
+                "text": "보건",
+                "value": 7
+            },
+            {
                 "text": "회관",
                 "value": 7
             },
@@ -110,29 +118,21 @@
             {
                 "text": "돌봄",
                 "value": 6
-            },
-            {
-                "text": "만성",
-                "value": 6
-            },
-            {
-                "text": "질환",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:32.922804",
+        "last_analyzed_at": "2026-01-26T14:36:40.590024",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                3,
+                0,
                 1,
                 0,
                 0,
@@ -143,6 +143,19 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6972d22c84596000289977fd",
+            "link": "https://n.news.naver.com/mnews/article/374/0000487868?sid=101",
+            "created_at": "2026-01-23T10:43:06.220000",
+            "description": "[이주영 / 개혁신당 의원(국회 보건복지위원회) : 결과에 대한 정확성이나 제품 품질에 대한 관리가 제대로 이뤄지지 않고 있습니다. 미국의 경우에는 FDA에서 관리를 하는 것과 마찬가지로 국가적인 관리가 필요한... ",
+            "originallink": "https://biz.sbs.co.kr/article_hub/20000286529?division=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-21T18:39:00",
+            "related_members": [
+                "WI719547"
+            ],
+            "title": "MZ 핫플에 버젓이 '마약 검사키트'…검증도, 관리도 없다"
+        },
         {
             "_id": "6969b992297082fcc2b1948a",
             "link": "https://n.news.naver.com/mnews/article/020/0003689908?sid=105",
@@ -349,6 +362,16 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad94631fd1743497dada",
+            "url": "https://www.youtube.com/watch?v=noNtXko2Zpw",
+            "HG_NM": "이주영",
+            "MONA_CD": "WI719547",
+            "collected_at": "2026-01-23T16:47:39.613000",
+            "duration": 234.0,
+            "title": "[2025년 국정감사] 우리도 못쓰는 긴급의료비, 외국인이 탕진? #개혁신당 #쇼츠 #이주영 #국회의원 #릴스 #국정감사",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad94631fd1743497dad9",
             "url": "https://www.youtube.com/watch?v=i-u-e1EWPNU",
             "HG_NM": "이주영",
@@ -359,33 +382,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad94631fd1743497dada",
-            "url": "https://www.youtube.com/watch?v=noNtXko2Zpw",
-            "HG_NM": "이주영",
-            "MONA_CD": "WI719547",
-            "collected_at": "2026-01-21T08:49:26.307000",
-            "duration": 234.0,
-            "title": "[2025년 국정감사] 우리도 못쓰는 긴급의료비, 외국인이 탕진? #개혁신당 #쇼츠 #이주영 #국회의원 #릴스 #국정감사",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad94631fd1743497dadb",
             "url": "https://www.youtube.com/watch?v=1i5UUQ1eF5M",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-21T08:49:26.307000",
+            "collected_at": "2026-01-23T16:47:39.613000",
             "duration": 223.0,
             "title": "[2025년 국정감사] 우리집 앞 약사, 어떤 약사일까? #약사 #개혁신당 #릴스 #쇼츠 #이주영 #국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad94631fd1743497dadc",
-            "url": "https://www.youtube.com/watch?v=302QW-brbjA",
-            "HG_NM": "이주영",
-            "MONA_CD": "WI719547",
-            "collected_at": "2026-01-21T08:49:26.307000",
-            "duration": 496.0,
-            "title": "“매우 우수”라던 보건복지부, 현실은? #릴스 #개혁신당 #쇼츠 #이주영 #국회 #shorts ",
             "upload_date": null
         },
         {
@@ -393,7 +396,7 @@
             "url": "https://www.youtube.com/watch?v=9g2F5-pxqQ4",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-21T08:49:26.307000",
+            "collected_at": "2026-01-23T16:47:39.613000",
             "duration": 952.0,
             "title": "이주영 “시급한 건 응급실 ‘사법리스크 해소’…필수의료 낮은 전공의 복귀율, 정부 진지한 정책 고민 필요” (25.9.2.) | 이주영 개혁신당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
@@ -403,9 +406,19 @@
             "url": "https://www.youtube.com/watch?v=vOyH64MTwLw",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-14T10:22:29.882000",
+            "collected_at": "2026-01-23T16:47:40.379000",
             "duration": 215.0,
             "title": "이주영 \"남의 일엔 서릿발, 자기 일엔 애매모호\"  [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad94631fd1743497dadc",
+            "url": "https://www.youtube.com/watch?v=302QW-brbjA",
+            "HG_NM": "이주영",
+            "MONA_CD": "WI719547",
+            "collected_at": "2026-01-23T16:47:39.613000",
+            "duration": 496.0,
+            "title": "“매우 우수”라던 보건복지부, 현실은? #릴스 #개혁신당 #쇼츠 #이주영 #국회 #shorts ",
             "upload_date": null
         },
         {
@@ -413,7 +426,7 @@
             "url": "https://www.youtube.com/watch?v=yEFoYY9AI_0",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-21T08:49:27.096000",
+            "collected_at": "2026-01-23T16:47:40.379000",
             "duration": 86.0,
             "title": "[14/12/23 뉴스데스크] 이주영 해양수산부 장관 사표 수리…인적 개편 신호탄?",
             "upload_date": null
@@ -423,7 +436,7 @@
             "url": "https://www.youtube.com/watch?v=JuSWZueFDDo",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-21T08:49:27.096000",
+            "collected_at": "2026-01-23T16:47:40.379000",
             "duration": 91.0,
             "title": "[14/07/01 정오뉴스] 세월호 기관 보고...이주영 장관 \"책임 통감...거듭 사죄\"",
             "upload_date": null
@@ -443,7 +456,7 @@
             "url": "https://www.youtube.com/watch?v=rrFfceG1AX8",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-13T09:49:49.514000",
+            "collected_at": "2026-01-23T16:47:39.613000",
             "duration": 337.0,
             "title": "[2025년 국정감사] 다이어트 한약, 국민 속여 돈벌이로? #개혁신당 #쇼츠 #이주영 #릴스 #국회의원",
             "upload_date": null
@@ -459,5 +472,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:32.922804"
+    "exported_at": "2026-01-26T14:36:40.590024"
 }

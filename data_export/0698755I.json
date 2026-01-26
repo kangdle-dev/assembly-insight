@@ -44,28 +44,32 @@
         "keywords": [
             "쿠팡",
             "조국",
+            "혁신",
             "구글",
             "출신",
-            "혁신",
             "정보",
             "한미",
-            "현장",
             "자막",
+            "선거",
             "데이터",
             "센터",
             "토론회",
             "왕진",
             "보안",
-            "전력"
+            "개인"
         ],
         "keyword_frequency": [
             {
                 "text": "쿠팡",
-                "value": 39
+                "value": 37
             },
             {
                 "text": "조국",
-                "value": 14
+                "value": 20
+            },
+            {
+                "text": "혁신",
+                "value": 16
             },
             {
                 "text": "구글",
@@ -76,24 +80,20 @@
                 "value": 12
             },
             {
-                "text": "혁신",
-                "value": 11
-            },
-            {
                 "text": "정보",
-                "value": 6
+                "value": 8
             },
             {
                 "text": "한미",
                 "value": 6
             },
             {
-                "text": "현장",
+                "text": "자막",
                 "value": 6
             },
             {
-                "text": "자막",
-                "value": 6
+                "text": "선거",
+                "value": 5
             },
             {
                 "text": "데이터",
@@ -116,25 +116,25 @@
                 "value": 5
             },
             {
-                "text": "전력",
+                "text": "개인",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:33.841466",
+        "last_analyzed_at": "2026-01-26T14:36:41.550804",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
                 0,
-                0,
+                3,
                 0,
                 0,
                 0,
@@ -143,6 +143,55 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6972d22e8459600028997802",
+            "link": "https://n.news.naver.com/mnews/article/448/0000585555?sid=100",
+            "created_at": "2026-01-23T10:43:08.011000",
+            "description": "조국혁신당 이해민 의원(국회 과학기술방송통신위원회)은 22일 해당 법안을 대표 발의했다. 최근 딥페이크 성범죄나 사이버 렉카 악성 게시물로 고통받는 미성년자가 늘고 있지만, 현행법상 피해 구제를 위해서는 피해자가... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/22/2026012290254.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-22T19:17:00",
+            "related_members": [
+                "0698755I"
+            ],
+            "title": "조국혁신당 이해민 \"미성년자 개인정보 보호 강화\"…정통망법 개정안 등..."
+        },
+        {
+            "_id": "6972d1fd845960002899770c",
+            "link": "https://n.news.naver.com/mnews/article/055/0001326631?sid=100",
+            "created_at": "2026-01-23T10:42:19.251000",
+            "description": "▶ 주진우 / 국민의힘 의원 : 아마 국회 표결한 걸 보면 통계가 딱 나올 것 같아요. 그러니까 사실상 지금 합쳐져서 거대 여당이 되는 게 아니라 현재 민주당도 거대 여당인 상황에서 사실 범여권으로 분류되지 않습니까.... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008414302&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-22T15:07:00",
+            "related_members": [
+                "RPN2293B",
+                "OFE45081",
+                "2385336L",
+                "YS38221N",
+                "GJK57930",
+                "QWL7778X",
+                "0698755I",
+                "2S73768V",
+                "BCQ55105"
+            ],
+            "title": "[여담야담] 정청래, 조국혁신당에 깜짝 합당 제안…당내선 '갑론을박'"
+        },
+        {
+            "_id": "6972d219845960002899779f",
+            "link": "https://n.news.naver.com/mnews/article/079/0004107947?sid=102",
+            "created_at": "2026-01-23T10:42:47.960000",
+            "description": "간담회에는 신장식·정춘생·이해민 국회의원 등 조국혁신당 지도부도 함께 참석할 예정이다. 특히 이 자리에서는 광주·전남 행정통합, 지방선거 제도 개편, 정치개혁 과제, 풀뿌리 의회 정치와 시민의회 구성, 사회대개혁... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6460373?utm_source=naver&utm_medium=article&utm_campaign=20260122045712",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-22T14:04:00",
+            "related_members": [
+                "0698755I",
+                "XG348314",
+                "NPD75153"
+            ],
+            "title": "광주 찾는 조국, 호남 정치판에 오른 통합 화두"
+        },
         {
             "_id": "6964b57f631fd17434996402",
             "link": "https://it.chosun.com/news/articleView.html?idxno=2023092154600",
@@ -201,7 +250,7 @@
             "_id": "6964b554631fd17434996183",
             "link": "https://n.news.naver.com/mnews/article/421/0008684962?sid=100",
             "created_at": "2026-01-12T17:48:17.445000",
-            "description": "조국혁신당은 29일 조국 대표와 이해민 사무총장이 서울 광화문 일대에서 구세군 자선냄비 봉사활동에... 이어 국회의원회관에서 조국혁신당 신년회를 열어 한 해 성과와 새해 목표를 공유한다. 혁신당은 1월 4일 국회... ",
+            "description": "정춘생 최고위원과 김준형 정책위의장은 동대문역 인근에서 봉사활동을 진행했다. 이날 오후 6시에는 광주... 이어 국회의원회관에서 조국혁신당 신년회를 열어 한 해 성과와 새해 목표를 공유한다. 혁신당은 1월 4일 국회... ",
             "originallink": "https://www.news1.kr/politics/assembly/6022760",
             "press": "뉴스1",
             "pubDate": "2025-12-29T16:08:00",
@@ -303,56 +352,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "696c5f38297082fcc2b19cef",
-            "url": "https://www.youtube.com/watch?v=XXltguNMzWo",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-18T13:19:03.984000",
-            "duration": 68.0,
-            "title": "속이 너무 보여서 가소롭다!...쿠팡, 한미 갈라치기에 이해민 강력경고",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db17",
-            "url": "https://www.youtube.com/watch?v=vS-VlbabWsg",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-21T08:49:41.444000",
-            "duration": 1942.0,
-            "title": "[이해민-뉴스공장] '겸손은힘들다' 출연! 후안무치 쿠팡 직격!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db11",
-            "url": "https://www.youtube.com/watch?v=Dc9kHtleCwE",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-21T08:49:40.686000",
-            "duration": 360.0,
-            "title": "전문 용어 줄줄이...쿠팡 정보 책임자에게 일침 가한 '구글 출신' 이해민 [현장영상+] / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b1d3297082fcc2b19104",
-            "url": "https://www.youtube.com/watch?v=7Jprx9_Cq4I",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-21T08:49:41.444000",
-            "duration": 259.0,
-            "title": "[자막] 이해민 \"쿠팡, 미국 로비스트 내세워 한미 관계 이간질... '가짜 뉴스'로 국회 압박 멈춰라\"",
-            "upload_date": null
-        },
-        {
-            "_id": "696596be887d07f7ba2fadd9",
-            "url": "https://www.youtube.com/watch?v=6T0Fuv6aONM",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-13T09:50:03.660000",
-            "duration": 651.0,
-            "title": "구글 출신 이해민 만나자 ‘방어논리’ 다 깨진 쿠팡...속이 뻥 뚫리는 참교육",
-            "upload_date": null
-        },
-        {
             "_id": "6960ada2631fd1743497db15",
             "url": "https://www.youtube.com/watch?v=f4vMk7ocnVs",
             "HG_NM": "이해민",
@@ -373,63 +372,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ada2631fd1743497db0e",
-            "url": "https://www.youtube.com/watch?v=0-uu_R5t8LE",
+            "_id": "696c5f38297082fcc2b19cef",
+            "url": "https://www.youtube.com/watch?v=XXltguNMzWo",
             "HG_NM": "이해민",
             "MONA_CD": "0698755I",
-            "collected_at": "2026-01-15T18:22:23.127000",
-            "duration": 2426.0,
-            "title": "[이해민-매불쇼] 괘씸한 쿠팡! 국회의 역할을 충실히 수행하겠습니다.",
-            "upload_date": null
-        },
-        {
-            "_id": "696596be887d07f7ba2fadd8",
-            "url": "https://www.youtube.com/watch?v=mLzWfPJ9_o8",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-13T09:50:04.336000",
-            "duration": 918.0,
-            "title": "[박정호의 핫스팟] \"탈팡 이후 OO이 쿠팡 가장 아프게 할 것~\" 이해민이 뽑은 대체제는?",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db12",
-            "url": "https://www.youtube.com/watch?v=qxDRXwSjn4k",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-15T18:22:23.127000",
-            "duration": 641.0,
-            "title": "대통령의 '영어' 듣고 있자니…이해민이 '직격' 날린 이유 #뉴스다 / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b1d3297082fcc2b19103",
-            "url": "https://www.youtube.com/watch?v=El_m7SxsAvc",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-15T18:22:23.127000",
-            "duration": 430.0,
-            "title": "[자막] 이해민, 쿠팡의 '살인 알고리즘' 급소 찔렀다! \"자신 있으면 소스 코드 당장 내놓으세요\"",
-            "upload_date": null
-        },
-        {
-            "_id": "696596be887d07f7ba2fadda",
-            "url": "https://www.youtube.com/watch?v=mr4UI0BsHC4",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-21T08:49:40.686000",
-            "duration": 60.0,
-            "title": "조국혁신당 이해민 의원, 쿠팡 CISO에게 팩트 폭격 날려버린 순간",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db14",
-            "url": "https://www.youtube.com/watch?v=wk-zY2WJXho",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-09T16:26:22.794000",
-            "duration": 490.0,
-            "title": "'구글 출신' 이해민, 전문용어 '술술' 나오자...쿠팡 보안책임자 '멘붕'..발언 번복?",
+            "collected_at": "2026-01-18T13:19:03.984000",
+            "duration": 68.0,
+            "title": "속이 너무 보여서 가소롭다!...쿠팡, 한미 갈라치기에 이해민 강력경고",
             "upload_date": null
         },
         {
@@ -443,53 +392,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ada2631fd1743497db10",
-            "url": "https://www.youtube.com/watch?v=KcPLebZ9cBU",
+            "_id": "6968b1d3297082fcc2b19104",
+            "url": "https://www.youtube.com/watch?v=7Jprx9_Cq4I",
             "HG_NM": "이해민",
             "MONA_CD": "0698755I",
-            "collected_at": "2026-01-21T08:49:40.686000",
-            "duration": 563.0,
-            "title": "[자막] 이해민 의원, 쿠팡의 '면책 약관' 자백받아냈다!",
+            "collected_at": "2026-01-21T08:49:41.444000",
+            "duration": 259.0,
+            "title": "[자막] 이해민 \"쿠팡, 미국 로비스트 내세워 한미 관계 이간질... '가짜 뉴스'로 국회 압박 멈춰라\"",
             "upload_date": null
         },
         {
-            "_id": "6960ada2631fd1743497db16",
-            "url": "https://www.youtube.com/watch?v=WTISW2Zc-Zo",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-15T18:22:23.956000",
-            "duration": 659.0,
-            "title": "쿠팡 대응전략 간파...분석 끝났다!...이해민 나노분석에...쿠팡 '단체 멘붕'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db0d",
-            "url": "https://www.youtube.com/watch?v=WC1k7mWMr-k",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-21T08:49:40.686000",
-            "duration": 126.0,
-            "title": "\"쿠팡 탈퇴 성공\" 최민희 의원의 '포효'…\"로저스 답변 끝까지 받는다\" 이해민 의원의 '딥빡'｜성공과 실패?…그 생생한 현장 [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db0f",
-            "url": "https://www.youtube.com/watch?v=Sr-2To4ibS0",
+            "_id": "6968b1d3297082fcc2b19103",
+            "url": "https://www.youtube.com/watch?v=El_m7SxsAvc",
             "HG_NM": "이해민",
             "MONA_CD": "0698755I",
             "collected_at": "2026-01-15T18:22:23.127000",
-            "duration": 1008.0,
-            "title": "계엄군 막으며 이해민 의원 독촉한 정희정 보좌관 | 그날그곳",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ada2631fd1743497db13",
-            "url": "https://www.youtube.com/watch?v=Gs0cKWZNZUo",
-            "HG_NM": "이해민",
-            "MONA_CD": "0698755I",
-            "collected_at": "2026-01-14T10:22:43.929000",
-            "duration": 446.0,
-            "title": "\"두 가지만 물어볼게요 Mr.매티스\" 구글 출신 찐 전문가 이해민이 꼬집자..'당황'",
+            "duration": 430.0,
+            "title": "[자막] 이해민, 쿠팡의 '살인 알고리즘' 급소 찔렀다! \"자신 있으면 소스 코드 당장 내놓으세요\"",
             "upload_date": null
         },
         {
@@ -501,7 +420,127 @@
             "duration": 1000.0,
             "title": "\"이래놓고도 쿠팡이 빅테크 기업입니까?\" 구글 출신 이해민 의원의 팩트폭격 #이해민 #쿠팡",
             "upload_date": null
+        },
+        {
+            "_id": "696596be887d07f7ba2fadda",
+            "url": "https://www.youtube.com/watch?v=mr4UI0BsHC4",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-21T08:49:40.686000",
+            "duration": 60.0,
+            "title": "조국혁신당 이해민 의원, 쿠팡 CISO에게 팩트 폭격 날려버린 순간",
+            "upload_date": null
+        },
+        {
+            "_id": "696596be887d07f7ba2fadd9",
+            "url": "https://www.youtube.com/watch?v=6T0Fuv6aONM",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-13T09:50:03.660000",
+            "duration": 651.0,
+            "title": "구글 출신 이해민 만나자 ‘방어논리’ 다 깨진 쿠팡...속이 뻥 뚫리는 참교육",
+            "upload_date": null
+        },
+        {
+            "_id": "696596be887d07f7ba2fadd8",
+            "url": "https://www.youtube.com/watch?v=mLzWfPJ9_o8",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-13T09:50:04.336000",
+            "duration": 918.0,
+            "title": "[박정호의 핫스팟] \"탈팡 이후 OO이 쿠팡 가장 아프게 할 것~\" 이해민이 뽑은 대체제는?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db0e",
+            "url": "https://www.youtube.com/watch?v=0-uu_R5t8LE",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:53.833000",
+            "duration": 2426.0,
+            "title": "[이해민-매불쇼] 괘씸한 쿠팡! 국회의 역할을 충실히 수행하겠습니다.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db17",
+            "url": "https://www.youtube.com/watch?v=vS-VlbabWsg",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:54.619000",
+            "duration": 1942.0,
+            "title": "[이해민-뉴스공장] '겸손은힘들다' 출연! 후안무치 쿠팡 직격!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db16",
+            "url": "https://www.youtube.com/watch?v=WTISW2Zc-Zo",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:54.619000",
+            "duration": 659.0,
+            "title": "쿠팡 대응전략 간파...분석 끝났다!...이해민 나노분석에...쿠팡 '단체 멘붕'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db14",
+            "url": "https://www.youtube.com/watch?v=wk-zY2WJXho",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:53.833000",
+            "duration": 490.0,
+            "title": "'구글 출신' 이해민, 전문용어 '술술' 나오자...쿠팡 보안책임자 '멘붕'..발언 번복?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db12",
+            "url": "https://www.youtube.com/watch?v=qxDRXwSjn4k",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:54.619000",
+            "duration": 641.0,
+            "title": "대통령의 '영어' 듣고 있자니…이해민이 '직격' 날린 이유 #뉴스다 / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db13",
+            "url": "https://www.youtube.com/watch?v=Gs0cKWZNZUo",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:53.833000",
+            "duration": 446.0,
+            "title": "\"두 가지만 물어볼게요 Mr.매티스\" 구글 출신 찐 전문가 이해민이 꼬집자..'당황'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db11",
+            "url": "https://www.youtube.com/watch?v=Dc9kHtleCwE",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:54.619000",
+            "duration": 360.0,
+            "title": "전문 용어 줄줄이...쿠팡 정보 책임자에게 일침 가한 '구글 출신' 이해민 [현장영상+] / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db10",
+            "url": "https://www.youtube.com/watch?v=KcPLebZ9cBU",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:53.833000",
+            "duration": 563.0,
+            "title": "[자막] 이해민 의원, 쿠팡의 '면책 약관' 자백받아냈다!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ada2631fd1743497db0f",
+            "url": "https://www.youtube.com/watch?v=Sr-2To4ibS0",
+            "HG_NM": "이해민",
+            "MONA_CD": "0698755I",
+            "collected_at": "2026-01-23T16:47:53.833000",
+            "duration": 1008.0,
+            "title": "계엄군 막으며 이해민 의원 독촉한 정희정 보좌관 | 그날그곳",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:33.841466"
+    "exported_at": "2026-01-26T14:36:41.550804"
 }

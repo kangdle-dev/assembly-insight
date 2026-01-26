@@ -57,107 +57,487 @@
     },
     "analysis": {
         "keywords": [
-            "대표",
-            "국민",
-            "원내",
-            "대구시장",
-            "출마",
             "대구",
-            "선거",
-            "시장",
-            "선언",
-            "달서구",
+            "출마",
+            "대구시장",
+            "국민",
             "주호영",
-            "최고",
-            "위원",
-            "경북",
-            "행정"
+            "대표",
+            "원내",
+            "선언",
+            "선거",
+            "추경호",
+            "부의장",
+            "시장",
+            "현역",
+            "부총리",
+            "경제"
         ],
         "keyword_frequency": [
             {
-                "text": "대표",
-                "value": 26
-            },
-            {
-                "text": "국민",
-                "value": 24
-            },
-            {
-                "text": "원내",
-                "value": 23
-            },
-            {
-                "text": "대구시장",
-                "value": 22
+                "text": "대구",
+                "value": 59
             },
             {
                 "text": "출마",
-                "value": 22
+                "value": 58
             },
             {
-                "text": "대구",
-                "value": 21
+                "text": "대구시장",
+                "value": 42
             },
             {
-                "text": "선거",
-                "value": 14
-            },
-            {
-                "text": "시장",
-                "value": 10
-            },
-            {
-                "text": "선언",
-                "value": 10
-            },
-            {
-                "text": "달서구",
-                "value": 9
+                "text": "국민",
+                "value": 42
             },
             {
                 "text": "주호영",
-                "value": 9
+                "value": 36
             },
             {
-                "text": "최고",
-                "value": 8
+                "text": "대표",
+                "value": 33
             },
             {
-                "text": "위원",
-                "value": 8
+                "text": "원내",
+                "value": 29
             },
             {
-                "text": "경북",
-                "value": 7
+                "text": "선언",
+                "value": 28
             },
             {
-                "text": "행정",
-                "value": 6
+                "text": "선거",
+                "value": 26
+            },
+            {
+                "text": "추경호",
+                "value": 19
+            },
+            {
+                "text": "부의장",
+                "value": 18
+            },
+            {
+                "text": "시장",
+                "value": 18
+            },
+            {
+                "text": "현역",
+                "value": 16
+            },
+            {
+                "text": "부총리",
+                "value": 14
+            },
+            {
+                "text": "경제",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:28.144764",
+        "last_analyzed_at": "2026-01-26T14:36:35.430434",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 2,
-                0,
-                0,
+                2,
+                1,
                 0,
                 1,
-                2,
-                0
+                15,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fd18845960002899804c",
+            "link": "https://n.news.naver.com/mnews/article/437/0000475296?sid=100",
+            "created_at": "2026-01-26T14:35:17.477000",
+            "description": "가장 먼저 3선의 추경호 의원이 나섰고, [추경호/국민의힘 의원(지난해 12월) : 제가 평생 경제, 행정, 정치... 앞으로도 전현직 국회의원이 더 출마할 것으로 점쳐지면서 본선보다 당내 경선이 더 치열할 전망입니다.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281842?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-26T11:04:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "대구시장, 국힘 안전지대?...6선 주호영 등 금배지 5명 도전 '집안 난투..."
+        },
+        {
+            "_id": "6976fd18845960002899804d",
+            "link": "https://n.news.naver.com/mnews/article/021/0002766319?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "중앙정부와 당당히 협상하며 현안을 해결할 정치력을 갖춰야 한다”며 “6선 의원과 국회 부의장을 거치며 쌓은 경험을 대구를 위해 쓰겠다”고 말했다. 국민의힘에서 지난달 29일 3선 추경호(대구 달성군) 의원이 가장... ",
+            "originallink": "https://www.munhwa.com/article/11563519?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-25T22:17:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "주호영 국회 부의장, 대구시장 선거 출마...대구로 몰리는 국민의힘 의..."
+        },
+        {
+            "_id": "6976fceb8459600028997f3c",
+            "link": "https://n.news.naver.com/mnews/article/016/0002590629?sid=100",
+            "created_at": "2026-01-26T14:34:32.645000",
+            "description": "아울러 나경원, 김기현, 김상훈, 김석기, 김정재, 윤상현, 이헌승, 성일종 국회의원과 박완수 경남지사, 김태흠 충남지사 등 과거 함께 정치 역정을 함께 한 인사들도 영상 축사 및 축전을 통해 최 전 부총리의 출판기념회를... ",
+            "originallink": "https://biz.heraldcorp.com/article/10662277?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-25T21:34:00",
+            "related_members": [
+                "1Y73132H",
+                "7XY7109I",
+                "E1J8836Y",
+                "MSY7784L",
+                "EVH1507C",
+                "ZYP7962W",
+                "X7I4680R",
+                "SLW27496",
+                "ZRF3039U",
+                "OSV9142K",
+                "Y0X4618N"
+            ],
+            "title": "최경환 전 경제부총리, 출판기념회 ‘성황’"
+        },
+        {
+            "_id": "6976fd18845960002899804e",
+            "link": "https://n.news.naver.com/mnews/article/015/0005241806?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "대구시장은 홍준표 전 시장이 지난해 4월 대선 출마로 사퇴하면서 현역 국회의원의 출마 선언이 잇따르고 있다. 앞서 국민의힘에선 경제부총리를 지낸 추경호 의원(3선)과 CJ제일제당 대표이사 출신 최은석 의원(초선)이... ",
+            "originallink": "https://www.hankyung.com/article/202601251310i",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T19:39:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "4019850M",
+                "G152611B"
+            ],
+            "title": "'격전지 대구시장 선거'…6선 주호영 등 금배지 5명 도전장"
+        },
+        {
+            "_id": "6976fcf28459600028997f7b",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626986?sid=100",
+            "created_at": "2026-01-26T14:34:39.895000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 선거 출마에 나섰고... ",
+            "originallink": "https://www.mk.co.kr/article/11942687",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T18:00:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구시장 '도전'"
+        },
+        {
+            "_id": "6976fd18845960002899804f",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138241?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국민의힘에서는 지난달 29일 3선의 추경호(대구 달성군) 의원이 가장 먼저 대구시장 출마 선언을 한 뒤 최은석(대구 동구군위갑) 의원이 지난 5일 출마 입장을 공개적으로 밝히는 등 현역 국회의원들의 대구시장 출마... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/25/ZIBGHJBIY5HLDNLLALXQ5MH5TI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T17:08:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "주호영, 대구시장 출마 선언… “대구 다시 일으켜 세우겠다”"
+        },
+        {
+            "_id": "6976fd188459600028998050",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626881?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "현직 국회의원은 주 부의장을 포함해 모두 5명이다. 보수정당 계열 현역 의원 5명이 동시에 대구시장 출마 의사를 밝힌 것은 대구시장 선거 역사상 처음이다. 앞서 국민의힘에선 추경호 의원(3선)과 최은석 의원(초선)이... ",
+            "originallink": "https://www.mk.co.kr/article/11942521",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T16:49:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "6선 주호영도 대구시장 출마…국힘 현역 5명 경쟁, 선거 열기↑"
+        },
+        {
+            "_id": "6976fceb8459600028997f3d",
+            "link": "https://n.news.naver.com/mnews/article/382/0001250567?sid=102",
+            "created_at": "2026-01-26T14:34:32.645000",
+            "description": "나경원·김기현·김상훈·김석기·김정재·윤상현·이헌승·성일종 국회의원과 박완수 경남도지사, 김태흠 충남도지사 등은 영상 축사와 축전을 통해 출판기념회를 축하했다. 내빈들은 축사를 통해 “대한민국 경제의... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260125/133224736/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-25T16:46:00",
+            "related_members": [
+                "1Y73132H",
+                "7XY7109I",
+                "E1J8836Y",
+                "MSY7784L",
+                "EVH1507C",
+                "ZYP7962W",
+                "X7I4680R",
+                "SLW27496",
+                "ZRF3039U",
+                "OSV9142K",
+                "Y0X4618N"
+            ],
+            "title": "최경환 전 경제부총리, 10년 만의 ‘귀환’… 경산에 결집한 올드보이와..."
+        },
+        {
+            "_id": "6976fce98459600028997f2d",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955079?sid=102",
+            "created_at": "2026-01-26T14:34:30.936000",
+            "description": "무주공산 대구시장 자리에 추경호, 최은석 등 현역 의원 3명 출마 기초단체장 출신의 도전도 이어져 국민의힘 6선 의원인 주호영(대구 수성갑) 국회 부의장이 25일 동대구역 광장 내 박정희 전 대통령 동상 앞에서... ",
+            "originallink": "https://www.chosun.com/national/regional/2026/01/25/PM52XCI23JHTHJWWJKWWEU5XE4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T16:43:00",
+            "related_members": [
+                "LYY5513O",
+                "8SV6917G",
+                "ZRF3039U",
+                "JZV5283U",
+                "G152611B",
+                "4019850M",
+                "UF53617M"
+            ],
+            "title": "6선 주호영 국회부의장, 대구시장 출마 선언"
+        },
+        {
+            "_id": "6976fd188459600028998051",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101467?sid=101",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "중앙정부와 당당히 협상하며 현안을 해결할 정치력을 갖춰야 한다\"며 \"6선 의원과 국회부의장을 거치며 쌓은 모든 경험을 대구를 위해 쓰겠다\"고 말했다. 국민의힘에서는 지난 달 29일 3선의 추경호(대구 달성군) 의원이... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202601251058b",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T16:32:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "6선 주호영 대구시장 출마 선언···\"대구 다시일으켜 세울것\""
+        },
+        {
+            "_id": "6976fd188459600028998052",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828159?sid=102",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국민의힘 중진(6선) 의원인 주호영(대구 수성갑) 국회 부의장이 25일 대구시장에 출마를 선언했다. 주 의원은... 국민의힘에서는 3선의 추경호(대구 달성군) 의원이 가장 먼저 대구시장 출마를 선언했고 이어 최은석(대구... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029300301&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-25T16:28:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "4019850M",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "국힘 6선 주호영 국회의원 대구시장 출마 선언"
+        },
+        {
+            "_id": "6976fcf28459600028997f7c",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626878?sid=100",
+            "created_at": "2026-01-26T14:34:39.896000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고... ",
+            "originallink": "https://www.mk.co.kr/article/11942517",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T16:28:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구...국민의힘 후보자들 지선 출마 선언 잇따라"
+        },
+        {
+            "_id": "6976fd188459600028998053",
+            "link": "https://n.news.naver.com/mnews/article/022/0004100304?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국회 부의장이자 국민의힘 6선(대구 수성갑)인 주호영 의원이 25일 대구시장 출마를 선언했다. 최은석(대구 동∙군위갑),추경호(대구 달성) 의원에 이어 원내에서 대구시장 출마를 선언한 건 이번이 세번째다. 주 부의장은... ",
+            "originallink": "https://www.segye.com/newsView/20260125506747?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-25T15:07:00",
+            "related_members": [
+                "4019850M",
+                "8SV6917G",
+                "ZRF3039U",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영, 대구시장 출사표… “박정희 길 위에서 대구 다시 일으켜 세울..."
+        },
+        {
+            "_id": "6976fd188459600028998054",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423604?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국회 부의장이자 국민의힘 6선(대구 수성갑)인 주호영 의원이 25일 대구시장 출마를 선언했다. 최은석(대구 동·군위갑)·추경호(대구 달성) 의원에 이어 원내에서 대구시장 출마를 선언한 건 이번이 세번째다. 주 의원은... ",
+            "originallink": "https://www.khan.co.kr/article/202601251448001",
+            "press": "경향신문",
+            "pubDate": "2026-01-25T14:48:00",
+            "related_members": [
+                "4019850M",
+                "8SV6917G",
+                "ZRF3039U",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영, 대구시장 출마 선언…“박정희 길 위에서 대구 재도약”"
+        },
+        {
+            "_id": "6976fd188459600028998055",
+            "link": "https://n.news.naver.com/mnews/article/421/0008732976?sid=102",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "정치권에 따르면 국민의힘 현직 국회의원으로 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해... 현역 의원 5명이 한꺼번에 출마 의사를 밝힌 건 전례가 없는 일이다. 앞서 국민의힘에선 추경호 의원(3선)과... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6050044",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T14:20:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "G152611B",
+                "UF53617M"
+            ],
+            "title": "'주호영까지 등판' 국힘 '현역 배지' 5명, 대구시장 도전에 몰려"
+        },
+        {
+            "_id": "6976fd188459600028998056",
+            "link": "https://n.news.naver.com/mnews/article/015/0005241662?sid=100",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "국민의힘에서는 지난달 29일 3선의 추경호(대구 달성군) 의원이 가장 먼저 대구시장 출마 선언을 한 뒤 최은석(대구 동구군위갑) 의원이 지난 5일 출마 입장을 공개적으로 밝히는 등 현역 국회의원들의 대구시장 출마... ",
+            "originallink": "https://www.hankyung.com/article/2026012509187",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T14:11:00",
+            "related_members": [
+                "ZRF3039U",
+                "8SV6917G",
+                "JZV5283U",
+                "UF53617M",
+                "G152611B"
+            ],
+            "title": "주호영 국회 부의장, 대구시장 출마 선언…\"대구 일으켜 세울 것\""
+        },
+        {
+            "_id": "6976fd028459600028997fe0",
+            "link": "https://n.news.naver.com/mnews/article/003/0013728441?sid=102",
+            "created_at": "2026-01-26T14:34:56.433000",
+            "description": "국민의힘 윤재옥·이만희·박수민 국회의원과 강은희 대구시 교육감, 이강덕 포항시장, 신현국 문경시장, 김하수 청도군수도 참석했다. 최 전 부총리측은 이날 지지자 3000여명이 행사장을 찾았다고 밝혔다. 최 전 부총리는... ",
+            "originallink": "https://www.newsis.com/view/NISX20260124_0003488870",
+            "press": "뉴시스",
+            "pubDate": "2026-01-24T19:59:00",
+            "related_members": [
+                "ZRF3039U",
+                "OSV9142K",
+                "Y0X4618N"
+            ],
+            "title": "경북도지사 출마 최경환 전 경제부총리, 출판기념회 성황"
+        },
+        {
+            "_id": "6972d2008459600028997731",
+            "link": "https://n.news.naver.com/mnews/article/003/0013725183?sid=102",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "경북도지사 선거출마를 준비 중인 최경환 전 경제부총리가 국회의원 4선을 한 경북 경산시에서 24일... 국민의힘 TK(대구·경북) 지역구인 윤재옥·이만희·김정재·이상휘 의원도 참석할 예정이라고 최 전 부총리 측은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003486543",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T13:48:00",
+            "related_members": [
+                "E1J8836Y",
+                "ZRF3039U",
+                "8L52480G",
+                "OSV9142K"
+            ],
+            "title": "최경환 전 경제부총리, 경북지사 출마…24일 출판기념회"
+        },
+        {
+            "_id": "6972d1f184596000289976bb",
+            "link": "https://n.news.naver.com/mnews/article/056/0012109556?sid=100",
+            "created_at": "2026-01-23T10:42:07.143000",
+            "description": "국민의힘 송언석 원내대표는 오늘(21일) 국회에서 긴급 의원총회를 진행한 뒤 중진인 나경원·윤상현·윤재옥·박덕흠 의원 등과 장 대표를 찾아 \"계속 단식을 진행하면 부작용이 있을 수 있어, 의원들 전부 단식을... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8465104&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-21T16:49:00",
+            "related_members": [
+                "ZRF3039U",
+                "SLW27496",
+                "MSY7784L",
+                "KFM1081G",
+                "REG96285",
+                "6EN68926",
+                "N4R2421C",
+                "NX534083",
+                "QQ429063"
+            ],
+            "title": "‘쌍특검 단식’ 7일차 장동혁, 병원 이송 거부…“나는 여기 묻힐 것”"
+        },
+        {
+            "_id": "6972d1f884596000289976f0",
+            "link": "https://n.news.naver.com/mnews/article/421/0008726861?sid=100",
+            "created_at": "2026-01-23T10:42:14.802000",
+            "description": "송언석 원내대표는 이날 오후 국회에서 열린 의원총회 후 단식 중인 장 대표를 찾았다. 이 자리에는 중진인 나경원, 윤상현, 윤재옥, 박덕흠 의원 등이 함께 했다. 송 원내대표는 \"당 대표의 대여투쟁을 강력히 전적으로... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046506",
+            "press": "뉴스1",
+            "pubDate": "2026-01-21T16:21:00",
+            "related_members": [
+                "KFM1081G",
+                "ZYP7962W",
+                "ZRF3039U",
+                "SLW27496",
+                "N4R2421C",
+                "MSY7784L",
+                "6EN68926",
+                "PFG2137X",
+                "REG96285",
+                "G6W8250J"
+            ],
+            "title": "'단식 7일' 장동혁 \"나는 여기 묻힐 것\"…구급차 호송 끝내 거부"
+        },
         {
             "_id": "6970125e297082fcc2b34d22",
             "link": "https://n.news.naver.com/mnews/article/015/0005239545?sid=102",
@@ -227,7 +607,7 @@
             "_id": "6968adb4297082fcc2b18d87",
             "link": "https://n.news.naver.com/mnews/article/421/0008715912?sid=102",
             "created_at": "2026-01-15T18:04:49.083000",
-            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 앞서 국민의힘에선 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고, 윤재옥 의원(4선)도... ",
+            "description": "국민의힘 현직 국회의원으로서 이번 대구시장 선거에 뛰어든 인사는 주 부의장을 비롯해 5명에 이른다.... 윤재옥 의원(4선)도 이달 말이나 다음 달 초 출마를 선언할 예정이다. 유영하 의원(초선)도 사실상 이달 중 출마... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6040048",
             "press": "뉴스1",
             "pubDate": "2026-01-15T11:46:00",
@@ -244,7 +624,7 @@
             "_id": "6964b571631fd1743499634f",
             "link": "https://n.news.naver.com/mnews/article/421/0008707682?sid=102",
             "created_at": "2026-01-12T17:48:47.018000",
-            "description": "앞서 3선의 추경호 의원과 초선의 최은석 의원이 시장 출마를 공식화했고, 4선의 윤재옥 의원은 이달 말 출마를 선언할 예정이다. 국민의힘 최다선인 6선의 주호영 국회 부의장은 오는 25일 국민의힘 대구시당에서 회견을... ",
+            "description": "국민의힘 최다선인 6선의 주호영 국회 부의장은 오는 25일 국민의힘 대구시당에서 회견을 열어 시장 선거 출사표를 던질 것으로 전해졌다. 초선인 유영하 의원도 사실상 이달 중 출마 선언을 예고한 상태다. 현역 의원이... ",
             "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6035070",
             "press": "뉴스1",
             "pubDate": "2026-01-12T07:01:00",
@@ -261,7 +641,7 @@
             "_id": "6964b571631fd17434996350",
             "link": "https://n.news.naver.com/mnews/article/079/0004103895?sid=102",
             "created_at": "2026-01-12T17:48:47.018000",
-            "description": "시장의 경우 인지도가 큰 바탕이 되기 때문에 현역 국회의원, 구청장들이 줄줄이 손을 들고 있다. 가장 먼저... 아울러 당내 중진인 6선의 주호영 의원, 3선의 윤재옥 의원도 곧 출마 의사를 밝힐 것으로 전망된다. 특히 윤... ",
+            "description": "있는 유영하 의원도 다시 출마 의사를 밝혔다. 이번에 3선 구청장 임기를 마치는 이태훈 달서구청장, 배광식 북구청장도 물밑에서 출마를 준비 중인 것으로 알려졌다. 여기에 홍석준 전 국회의원, 이재만 전 최고위원도... ",
             "originallink": "https://www.nocutnews.co.kr/news/6453463?utm_source=naver&utm_medium=article&utm_campaign=20260112060055",
             "press": "노컷뉴스",
             "pubDate": "2026-01-12T06:01:00",
@@ -330,114 +710,9 @@
                 "9YO73104"
             ],
             "title": "‘미니 총선급’ 판 커지는 6·3 재보선…10곳 안팎 가능성"
-        },
-        {
-            "_id": "6964b571631fd17434996352",
-            "link": "http://andongmbc.co.kr/adboard/NewsView80026",
-            "created_at": "2026-01-12T17:48:47.018000",
-            "description": "어제는 대기업 출신의 최은석 국민의힘 국회의원이 대구시장에 출마하겠다고 선언했는데요. 당내 경선을... 생각했다가는 대구가 직면한 난제를 풀 수가 없습니다. MBC뉴스 권윤수입니다. (영상취재 이동삼 그래픽 한민수)",
-            "originallink": "http://andongmbc.co.kr/adboard/NewsView80026",
-            "press": "MBC",
-            "pubDate": "2026-01-06T09:16:00",
-            "related_members": [
-                "JZV5283U",
-                "UF53617M",
-                "8SV6917G",
-                "G152611B",
-                "ZRF3039U",
-                "8JG4358H"
-            ],
-            "title": "투데이R]대구시장직이 정치적 타이틀인가?..우후죽순 도전장"
-        },
-        {
-            "_id": "6964b573631fd17434996366",
-            "link": "https://n.news.naver.com/mnews/article/056/0012098899?sid=100",
-            "created_at": "2026-01-12T17:48:48.463000",
-            "description": "국민의힘 최은석 국회의원이 오늘(5일) 기자회견을 열고, 6·3 지방선거 대구시장 출마를 선언했습니다. 최... 앞서 대구 지역구 의원 중에선 윤재옥·주호영·추경호 의원이 대구시장 출마를 공식화하거나 준비 중이라고... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8450848&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-05T21:54:00",
-            "related_members": [
-                "UF53617M",
-                "8SV6917G",
-                "G152611B",
-                "ZRF3039U"
-            ],
-            "title": "최은석 국회의원, 대구시장 출마 공식 선언"
-        },
-        {
-            "_id": "6964b571631fd17434996353",
-            "link": "https://n.news.naver.com/mnews/article/005/0001824235?sid=100",
-            "created_at": "2026-01-12T17:48:47.018000",
-            "description": "주호영 국회부의장과 유영하(대구 달서갑) 의원도 이달 중 출마 여부에 대한 입장을 밝힐 것으로 알려졌다. 민주당에서는 현재까지 대구시 경제부시장을 지낸 홍의락 전 의원이 대구시장 도전 의사를 밝혔다.",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029206748&code=61111711&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-05T15:18:00",
-            "related_members": [
-                "JZV5283U",
-                "UF53617M",
-                "8SV6917G",
-                "G152611B",
-                "ZRF3039U"
-            ],
-            "title": "최은석 의원 대구시장 출마 선언…대구시장 출마 러시"
-        },
-        {
-            "_id": "6964b544631fd17434996036",
-            "link": "https://n.news.naver.com/mnews/article/421/0008692988?sid=102",
-            "created_at": "2026-01-12T17:48:01.451000",
-            "description": "장동혁 대표는 참석하지 않았지만 경북 김천을 지역구로 둔 송언석 원내대표 등 지도부와 이인선 국민의힘 대구시당위원장, 구자근 국민의힘 경북도당위원장 등 대구·경북(TK) 국회의원 대부분이 참석했다. 특히 주호영... ",
-            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6027211",
-            "press": "뉴스1",
-            "pubDate": "2026-01-02T17:54:00",
-            "related_members": [
-                "7469929V",
-                "KFM1081G",
-                "6EN68926",
-                "8SV6917G",
-                "DWK26447",
-                "JZV5283U",
-                "G152611B",
-                "UF53617M",
-                "1Y73132H",
-                "ZRF3039U"
-            ],
-            "title": "대구시장 출마 예정자 집결…세 과시장된 국힘 신년인사회"
-        },
-        {
-            "_id": "6964b546631fd1743499606e",
-            "link": "https://n.news.naver.com/mnews/article/079/0004090935?sid=100",
-            "created_at": "2026-01-12T17:48:03.766000",
-            "description": "실제로 당 지도부 외 현장을 지킨 현역 의원은 주호영 국회부의장과 강대식·권영진·김상훈·김기웅·김승수·유영하·윤재옥·이달희·이만희 의원 등 10여 명 남짓이었다. 지역구 때문에라도 불참이 어려운 인사들이... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6435769?utm_source=naver&utm_medium=article&utm_campaign=20251129011126",
-            "press": "노컷뉴스",
-            "pubDate": "2025-11-29T05:01:00",
-            "related_members": [
-                "JZV5283U",
-                "L2I9861C",
-                "OSV9142K",
-                "5K93695T",
-                "ROS6754L",
-                "1Y73132H",
-                "ZRF3039U",
-                "HE08888N",
-                "8SV6917G",
-                "LYY5513O"
-            ],
-            "title": "[르포]대구 채운 \"사과 반대\"…'계엄의 강'만 확인한 국힘"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960ad3f631fd1743497d99b",
-            "url": "https://www.youtube.com/watch?v=kUKtZ1NcaFg",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:03.515000",
-            "duration": 136.0,
-            "title": "윤재옥 \"가짜뉴스와 통계조작에 민주주의 무너져\" (2023.09.20/뉴스데스크/MBC)",
-            "upload_date": null
-        },
         {
             "_id": "69701435297082fcc2b34e69",
             "url": "https://www.youtube.com/watch?v=T7dfT9K_XVI",
@@ -449,13 +724,23 @@
             "upload_date": null
         },
         {
-            "_id": "696c5ec9297082fcc2b19cd1",
-            "url": "https://www.youtube.com/watch?v=GjNGZcxg9LE",
+            "_id": "6960ad3f631fd1743497d997",
+            "url": "https://www.youtube.com/watch?v=RngbL9BiApk",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:13.255000",
-            "duration": 60.0,
-            "title": "#윤재옥 #국민의힘 #shorts",
+            "collected_at": "2026-01-23T16:46:15.637000",
+            "duration": 418.0,
+            "title": "윤재옥 국회의원 국정 2020년 대한민국 자치발전 대상",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad3f631fd1743497d998",
+            "url": "https://www.youtube.com/watch?v=Iv9U49-5mTI",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-23T16:46:15.637000",
+            "duration": 1654.0,
+            "title": "[LIVE] 국민의힘 최고위원회의/김기현 대표·윤재옥 원내대표 참석/2023년 12월 4일(월)/KBS",
             "upload_date": null
         },
         {
@@ -469,56 +754,6 @@
             "upload_date": null
         },
         {
-            "_id": "6968b169297082fcc2b190d9",
-            "url": "https://www.youtube.com/watch?v=ih392F5FM8k",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-18T13:17:12.111000",
-            "duration": 603.0,
-            "title": "윤재옥, 野 ‘돈봉투’ 의원에 “공천 배제 등 필요” | 김진의 돌직구쇼",
-            "upload_date": null
-        },
-        {
-            "_id": "6965965e887d07f7ba2fad4f",
-            "url": "https://www.youtube.com/watch?v=Dh0sHwDNdBc",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
-            "duration": 121.0,
-            "title": "여, 새 원내대표에 'TK' 윤재옥…\"야, 폭주 막겠다\" / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad3f631fd1743497d99f",
-            "url": "https://www.youtube.com/watch?v=CTHvS6-aosE",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:03.515000",
-            "duration": 111.0,
-            "title": "새 원내대표 윤재옥 230407ㅣTBC뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad3f631fd1743497d99e",
-            "url": "https://www.youtube.com/watch?v=rWaeu_IUUBs",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:03.515000",
-            "duration": 128.0,
-            "title": "윤재옥 \"의회 민주주의 위기‥민생에 집중\" (2023.09.20/12MBC뉴스)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad3f631fd1743497d99d",
-            "url": "https://www.youtube.com/watch?v=wbv5xEjuG1o",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:03.515000",
-            "duration": 1353.0,
-            "title": "[더뉴스] \"윤재옥, 민주 파죽지세 해결 인물\" vs \"대중 언어 안 해본 정치인\" / YTN",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad3f631fd1743497d99c",
             "url": "https://www.youtube.com/watch?v=48VdHxUkMls",
             "HG_NM": "윤재옥",
@@ -526,16 +761,6 @@
             "collected_at": "2026-01-15T18:20:38.800000",
             "duration": 151.0,
             "title": "여당 새 원내대표에 윤재옥 당선‥\"잇단 설화·선거 패배 위기감 반영\" (2023.04.07/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad3f631fd1743497d992",
-            "url": "https://www.youtube.com/watch?v=n4AHV1QrTWQ",
-            "HG_NM": "윤재옥",
-            "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
-            "duration": 5046.0,
-            "title": "국민의힘 새 원내대표에 3선 윤재옥 의원 선출..109명 중 65표 득표/국민의힘 의원총회/[리얼라이브] 2023년 4월 7일(금)/KBS",
             "upload_date": null
         },
         {
@@ -549,6 +774,26 @@
             "upload_date": null
         },
         {
+            "_id": "6973274b8459600028997a56",
+            "url": "https://www.youtube.com/watch?v=ivIdNUhmlIM",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-23T16:46:15.637000",
+            "duration": 944.0,
+            "title": "[1번지초대석] 국민의힘 원내대표 경선…윤재옥 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad3f631fd1743497d994",
+            "url": "https://www.youtube.com/watch?v=ul4mlIHOpV0",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-23T16:46:15.637000",
+            "duration": 321.0,
+            "title": "한국당 최고위원 출마한 윤재옥 의원, \"내비게이션 역할 하겠다\" 대구서 지지 호소",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad3f631fd1743497d999",
             "url": "https://www.youtube.com/watch?v=twFLXlpdfAM",
             "HG_NM": "윤재옥",
@@ -559,23 +804,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad3f631fd1743497d998",
-            "url": "https://www.youtube.com/watch?v=Iv9U49-5mTI",
+            "_id": "6960ad3f631fd1743497d99d",
+            "url": "https://www.youtube.com/watch?v=wbv5xEjuG1o",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
-            "duration": 1654.0,
-            "title": "[LIVE] 국민의힘 최고위원회의/김기현 대표·윤재옥 원내대표 참석/2023년 12월 4일(월)/KBS",
+            "collected_at": "2026-01-23T16:46:16.376000",
+            "duration": 1353.0,
+            "title": "[더뉴스] \"윤재옥, 민주 파죽지세 해결 인물\" vs \"대중 언어 안 해본 정치인\" / YTN",
             "upload_date": null
         },
         {
-            "_id": "6960ad3f631fd1743497d997",
-            "url": "https://www.youtube.com/watch?v=RngbL9BiApk",
+            "_id": "6968b169297082fcc2b190d9",
+            "url": "https://www.youtube.com/watch?v=ih392F5FM8k",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
-            "duration": 418.0,
-            "title": "윤재옥 국회의원 국정 2020년 대한민국 자치발전 대상",
+            "collected_at": "2026-01-18T13:17:12.111000",
+            "duration": 603.0,
+            "title": "윤재옥, 野 ‘돈봉투’ 의원에 “공천 배제 등 필요” | 김진의 돌직구쇼",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad3f631fd1743497d99f",
+            "url": "https://www.youtube.com/watch?v=CTHvS6-aosE",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-21T08:48:03.515000",
+            "duration": 111.0,
+            "title": "새 원내대표 윤재옥 230407ㅣTBC뉴스",
             "upload_date": null
         },
         {
@@ -583,9 +838,19 @@
             "url": "https://www.youtube.com/watch?v=ZfRGAy8X2eA",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
+            "collected_at": "2026-01-23T16:46:15.637000",
             "duration": 1507.0,
             "title": "[라이브] 국민의힘 최고위원회의/윤재옥 원내대표 주재/2023년 7월 13일(목)/KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5ec9297082fcc2b19cd1",
+            "url": "https://www.youtube.com/watch?v=GjNGZcxg9LE",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-18T13:17:13.255000",
+            "duration": 60.0,
+            "title": "#윤재옥 #국민의힘 #shorts",
             "upload_date": null
         },
         {
@@ -599,13 +864,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad3f631fd1743497d994",
-            "url": "https://www.youtube.com/watch?v=ul4mlIHOpV0",
+            "_id": "6960ad3f631fd1743497d99b",
+            "url": "https://www.youtube.com/watch?v=kUKtZ1NcaFg",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
-            "duration": 321.0,
-            "title": "한국당 최고위원 출마한 윤재옥 의원, \"내비게이션 역할 하겠다\" 대구서 지지 호소",
+            "collected_at": "2026-01-23T16:46:16.376000",
+            "duration": 136.0,
+            "title": "윤재옥 \"가짜뉴스와 통계조작에 민주주의 무너져\" (2023.09.20/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad3f631fd1743497d992",
+            "url": "https://www.youtube.com/watch?v=n4AHV1QrTWQ",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-23T16:46:15.637000",
+            "duration": 5046.0,
+            "title": "국민의힘 새 원내대표에 3선 윤재옥 의원 선출..109명 중 65표 득표/국민의힘 의원총회/[리얼라이브] 2023년 4월 7일(금)/KBS",
             "upload_date": null
         },
         {
@@ -613,11 +888,31 @@
             "url": "https://www.youtube.com/watch?v=ZjkNzvcHtBg",
             "HG_NM": "윤재옥",
             "MONA_CD": "ZRF3039U",
-            "collected_at": "2026-01-21T08:48:02.823000",
+            "collected_at": "2026-01-23T16:46:15.637000",
             "duration": 280.0,
             "title": "[장동혁 국회의원] 윤재옥 원내대표 의정보고회 축사",
             "upload_date": null
+        },
+        {
+            "_id": "6960ad3f631fd1743497d99e",
+            "url": "https://www.youtube.com/watch?v=rWaeu_IUUBs",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-23T16:46:16.376000",
+            "duration": 128.0,
+            "title": "윤재옥 \"의회 민주주의 위기‥민생에 집중\" (2023.09.20/12MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6965965e887d07f7ba2fad4f",
+            "url": "https://www.youtube.com/watch?v=Dh0sHwDNdBc",
+            "HG_NM": "윤재옥",
+            "MONA_CD": "ZRF3039U",
+            "collected_at": "2026-01-23T16:46:15.637000",
+            "duration": 121.0,
+            "title": "여, 새 원내대표에 'TK' 윤재옥…\"야, 폭주 막겠다\" / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:28.144764"
+    "exported_at": "2026-01-26T14:36:35.430434"
 }

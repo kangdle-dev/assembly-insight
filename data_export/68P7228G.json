@@ -62,16 +62,16 @@
             "투표",
             "선거",
             "민주당",
+            "의혹",
             "보궐",
             "위원장",
             "신임",
             "위원",
             "당원",
+            "교수",
             "한병도",
             "수수",
-            "의혹",
-            "강선",
-            "개최"
+            "강선"
         ],
         "keyword_frequency": [
             {
@@ -95,6 +95,10 @@
                 "value": 23
             },
             {
+                "text": "의혹",
+                "value": 16
+            },
+            {
                 "text": "보궐",
                 "value": 14
             },
@@ -115,6 +119,10 @@
                 "value": 11
             },
             {
+                "text": "교수",
+                "value": 10
+            },
+            {
                 "text": "한병도",
                 "value": 10
             },
@@ -123,34 +131,26 @@
                 "value": 10
             },
             {
-                "text": "의혹",
-                "value": 10
-            },
-            {
                 "text": "강선",
                 "value": 9
-            },
-            {
-                "text": "개최",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:40.712150",
+        "last_analyzed_at": "2026-01-26T14:36:48.995520",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
+                2,
                 1,
                 0,
                 0
@@ -158,6 +158,45 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fd3484596000289980aa",
+            "link": "https://n.news.naver.com/mnews/article/023/0003954948?sid=102",
+            "created_at": "2026-01-26T14:35:45.607000",
+            "description": "본지가 23일 국회 교육위 진선미 의원실(더불어민주당)을 통해 확보한 현황 자료에 따르면, 올해 전국에 ‘입학 예정자 0명’인 초등학교는 모두 198곳에 달했다. 이는 학교별 학급 편성 상황 및 예비 소집 결과를 집계한... ",
+            "originallink": "https://www.chosun.com/national/education/2026/01/24/75LJ7HD3DBEWJGHF4YMWDP2OBA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-24T00:55:00",
+            "related_members": [
+                "68P7228G"
+            ],
+            "title": "서울 초등학교도 ‘입학생 0명’ 쇼크"
+        },
+        {
+            "_id": "6976fd3484596000289980ab",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730992?sid=102",
+            "created_at": "2026-01-26T14:35:45.607000",
+            "description": "경찰이 유승민 전 국회의원의 딸 유담 씨의 교수 임용 과정 특혜 의혹과 관련해 인천대를 압수 수색했다.... 앞서 진선미 더불어민주당 의원도 \"31세의 유 교수가 무역학과 교수가 된 것에 이의 제기가 많이 있다\"며 \"임용된... ",
+            "originallink": "https://www.news1.kr/local/incheon/6048904",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T13:06:00",
+            "related_members": [
+                "68P7228G"
+            ],
+            "title": "경찰 '유승민 딸 채용 의혹' 인천대 압수수색…서류 확보(종합)"
+        },
+        {
+            "_id": "6976fd3484596000289980ac",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730885?sid=102",
+            "created_at": "2026-01-26T14:35:45.607000",
+            "description": "경찰이 유승민 전 국회의원의 딸인 유담 씨의 교수 임용 과정 특혜 의혹과 관련해 인천대를 압수 수색했다.... 앞서 진선미 더불어민주당 의원도 \"31세의 유 교수가 무역학과 교수가 된 것에 이의 제기가 많이 있다\"며... ",
+            "originallink": "https://www.news1.kr/local/incheon/6048892",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T12:48:00",
+            "related_members": [
+                "68P7228G"
+            ],
+            "title": "경찰 '유승민 딸 채용 의혹' 인천대 압수수색…서류 확보(상보)"
+        },
         {
             "_id": "69701234297082fcc2b34c4f",
             "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
@@ -624,7 +663,7 @@
             "url": "https://www.youtube.com/watch?v=KazDMsHHWwg",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:09.666000",
+            "collected_at": "2026-01-23T16:49:53.194000",
             "duration": 238.0,
             "title": "COOLKKADANG 쿨까당 법안을 국회로!!! (ft. 진선미 의원) #04 161123 EP.194",
             "upload_date": null
@@ -654,7 +693,7 @@
             "url": "https://www.youtube.com/watch?v=7aVIyesbPXI",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:10.698000",
+            "collected_at": "2026-01-23T16:49:54.019000",
             "duration": 437.0,
             "title": "[뉴스야?!] 진선미, 환상 속의 그 아파트?",
             "upload_date": null
@@ -664,7 +703,7 @@
             "url": "https://www.youtube.com/watch?v=R9fBf1djhoQ",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:10.698000",
+            "collected_at": "2026-01-23T16:49:54.019000",
             "duration": 102.0,
             "title": "여당 진선미 \"아파트 환상 버려라\" 논란…야당 \"본인은 아파트 살면서\" [뉴스 9]",
             "upload_date": null
@@ -674,29 +713,19 @@
             "url": "https://www.youtube.com/watch?v=7Gbd67GmI94",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-21T08:51:31.256000",
+            "collected_at": "2026-01-23T16:49:54.019000",
             "duration": 87.0,
             "title": "진선미 “차기 총선 출마” …‘1년 짜리 장관’ 논란 | 뉴스A",
             "upload_date": null
         },
         {
-            "_id": "6960ae12631fd1743497dcac",
-            "url": "https://www.youtube.com/watch?v=UCJjg88xb_nV020aichTln3A",
+            "_id": "6960ae12631fd1743497dcae",
+            "url": "https://www.youtube.com/watch?v=4oeVEjE6SDc",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-21T08:51:30.547000",
-            "duration": null,
-            "title": "진선미TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae12631fd1743497dcb4",
-            "url": "https://www.youtube.com/watch?v=wFyjHiePjhg",
-            "HG_NM": "진선미",
-            "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:09.666000",
-            "duration": 205.0,
-            "title": "[국회의원 진선미] 대학원생 죽음으로 내몬 교수의 갑질!",
+            "collected_at": "2026-01-23T16:49:53.194000",
+            "duration": 184.0,
+            "title": "진선미 의원, 3분만에 알아보자!",
             "upload_date": null
         },
         {
@@ -704,9 +733,29 @@
             "url": "https://www.youtube.com/watch?v=6BkotF4prIo",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:09.666000",
+            "collected_at": "2026-01-23T16:49:53.194000",
             "duration": 517.0,
             "title": "[국회방송 300인의 희망인터뷰]진선미 의원 편",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae12631fd1743497dcb4",
+            "url": "https://www.youtube.com/watch?v=wFyjHiePjhg",
+            "HG_NM": "진선미",
+            "MONA_CD": "68P7228G",
+            "collected_at": "2026-01-23T16:49:53.194000",
+            "duration": 205.0,
+            "title": "[국회의원 진선미] 대학원생 죽음으로 내몬 교수의 갑질!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae12631fd1743497dcad",
+            "url": "https://www.youtube.com/watch?v=ZE6fTjxJ6t4",
+            "HG_NM": "진선미",
+            "MONA_CD": "68P7228G",
+            "collected_at": "2026-01-23T16:49:53.194000",
+            "duration": 520.0,
+            "title": "[국회의원 진선미] 31살에 교수된 유담, 무경력! 논문 쪼개기! 이래도 문제 없습니까?",
             "upload_date": null
         },
         {
@@ -714,9 +763,29 @@
             "url": "https://www.youtube.com/watch?v=oxep2YoZdCI",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:09.666000",
+            "collected_at": "2026-01-23T16:49:53.194000",
             "duration": 308.0,
             "title": "[국회의원 진선미] 지옥같은 한국교육, 우리 어른들 책임입니다.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae12631fd1743497dcaf",
+            "url": "https://www.youtube.com/watch?v=uN1NfvxziWw",
+            "HG_NM": "진선미",
+            "MONA_CD": "68P7228G",
+            "collected_at": "2026-01-23T16:49:53.194000",
+            "duration": 326.0,
+            "title": "[국회의원 진선미]  통일교 '청탁 시도'...교육부와의 은밀한 연결 고리",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae12631fd1743497dcac",
+            "url": "https://www.youtube.com/watch?v=UCJjg88xb_nV020aichTln3A",
+            "HG_NM": "진선미",
+            "MONA_CD": "68P7228G",
+            "collected_at": "2026-01-23T16:49:53.194000",
+            "duration": null,
+            "title": "진선미TV",
             "upload_date": null
         },
         {
@@ -724,7 +793,7 @@
             "url": "https://www.youtube.com/watch?v=r2Wt7ucJbDI",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-18T13:21:09.666000",
+            "collected_at": "2026-01-23T16:49:53.194000",
             "duration": 277.0,
             "title": "[국회의원 진선미] 친구 데리고 공공기관 견학? 이배용의 권한남용, 부끄럽습니다!",
             "upload_date": null
@@ -734,41 +803,11 @@
             "url": "https://www.youtube.com/watch?v=glCgGqxteEw",
             "HG_NM": "진선미",
             "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-21T08:51:31.256000",
+            "collected_at": "2026-01-23T16:49:54.019000",
             "duration": 140.0,
             "title": "야 의원 \"동성애자?\"…진선미 \"질문 자체가 차별\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
-        },
-        {
-            "_id": "6960ae12631fd1743497dcaf",
-            "url": "https://www.youtube.com/watch?v=uN1NfvxziWw",
-            "HG_NM": "진선미",
-            "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-21T08:51:30.547000",
-            "duration": 326.0,
-            "title": "[국회의원 진선미]  통일교 '청탁 시도'...교육부와의 은밀한 연결 고리",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae12631fd1743497dcae",
-            "url": "https://www.youtube.com/watch?v=4oeVEjE6SDc",
-            "HG_NM": "진선미",
-            "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-21T08:51:30.547000",
-            "duration": 184.0,
-            "title": "진선미 의원, 3분만에 알아보자!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae12631fd1743497dcad",
-            "url": "https://www.youtube.com/watch?v=ZE6fTjxJ6t4",
-            "HG_NM": "진선미",
-            "MONA_CD": "68P7228G",
-            "collected_at": "2026-01-21T08:51:30.547000",
-            "duration": 520.0,
-            "title": "[국회의원 진선미] 31살에 교수된 유담, 무경력! 논문 쪼개기! 이래도 문제 없습니까?",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:40.712150"
+    "exported_at": "2026-01-26T14:36:48.995520"
 }

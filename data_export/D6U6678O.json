@@ -50,6 +50,8 @@
             "더불어민주당",
             "예방",
             "산업",
+            "책임",
+            "김포",
             "산재",
             "당정",
             "안전",
@@ -58,15 +60,13 @@
             "발언",
             "단장",
             "회관",
-            "책임",
-            "주주",
-            "디스커버리",
-            "간담회"
+            "서울",
+            "연장"
         ],
         "keyword_frequency": [
             {
                 "text": "더불어민주당",
-                "value": 18
+                "value": 19
             },
             {
                 "text": "예방",
@@ -75,6 +75,14 @@
             {
                 "text": "산업",
                 "value": 16
+            },
+            {
+                "text": "책임",
+                "value": 12
+            },
+            {
+                "text": "김포",
+                "value": 12
             },
             {
                 "text": "산재",
@@ -106,48 +114,58 @@
             },
             {
                 "text": "회관",
-                "value": 11
-            },
-            {
-                "text": "책임",
                 "value": 10
             },
             {
-                "text": "주주",
-                "value": 9
+                "text": "서울",
+                "value": 10
             },
             {
-                "text": "디스커버리",
+                "text": "연장",
                 "value": 9
-            },
-            {
-                "text": "간담회",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:12.983407",
+        "last_analyzed_at": "2026-01-26T14:36:19.097682",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
-                4,
-                0,
+                1,
                 0,
                 0,
                 1,
+                0,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fcec8459600028997f4a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013727158?sid=100",
+            "created_at": "2026-01-26T14:34:33.543000",
+            "description": "아울러 민주당에서 박해철·정진욱 의원이 역시 새로 합류하기로 했다. 김 의원은 \"노사정과 국회의 사회적 대화의 틀이 완성됐다\"고 평가했다. 권 차관은 이날 회의에서 \"정년 연장을 속도감 있게 풀어내야 할 것 같다\"며... ",
+            "originallink": "https://www.newsis.com/view/NISX20260123_0003487871",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T13:15:00",
+            "related_members": [
+                "ZDR63255",
+                "GX38539O",
+                "NXB3178C",
+                "D6U6678O",
+                "9HE7226N",
+                "E2B3753X"
+            ],
+            "title": "與, 지선 전후 '65세 정년' 법안 마련키로…한노총 \"무책임한 시간끌기..."
+        },
         {
             "_id": "6970123e297082fcc2b34c94",
             "link": "https://n.news.naver.com/mnews/article/056/0012108404?sid=101",
@@ -198,7 +216,7 @@
             "_id": "696c5be9297082fcc2b19b7b",
             "link": "https://n.news.naver.com/mnews/article/028/0002786874?sid=101",
             "created_at": "2026-01-18T13:04:57.913000",
-            "description": "16일 서울 여의도 국회의원회관에서 열린 ‘주주가치 훼손에 대한 민사책임 추궁 활성화 모색 간담회’에서... 이용우 전 의원 사회로 진행된 토론에서 이창민 한양대 경영학과 교수는 “주주대표소송의 성패를 가르는... ",
+            "description": "16일 서울 여의도 국회의원회관에서 열린 ‘주주가치 훼손에 대한 민사책임 추궁 활성화 모색 간담회’에서... 오기형 더불어민주당 코스피5000 특별위원회 위원장도 “상법 개정 이후 이사의 주주에 대한 충실 의무를... ",
             "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1240163.html",
             "press": "한겨레",
             "pubDate": "2026-01-16T15:40:00",
@@ -388,7 +406,7 @@
             "_id": "6964b54c631fd174349960de",
             "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
             "created_at": "2026-01-12T17:48:09.211000",
-            "description": "9일 국회의원회관 제2소회의실에서 열린 ‘제2차 경기도 도시철도망 신속 추진을 위한 국회 토론회’에는 김 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원, 도민, 시군... ",
+            "description": "특히 이날 토론회는 25명의 국회의원(김성원·김성회·김승원·김영진·김영환·김은혜·김주영·김준혁·김태년·문정복·박상혁·백혜련·부승찬·소병훈·손명수·안철수·안태준·염태영·이기헌·이상식·이수진·이언주... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
             "press": "뉴스1",
             "pubDate": "2026-01-09T15:47:00",
@@ -463,13 +481,153 @@
     ],
     "recent_videos": [
         {
+            "_id": "6960ac3c631fd1743497d59d",
+            "url": "https://www.youtube.com/watch?v=k1h0eDX0ezY",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:58.143000",
+            "duration": 2720.0,
+            "title": "[다시보기] '용의 눈물' 배우 김주영, 폐렴으로 별세…향년 73세 - 김명준의 뉴스파이터 (2025.10.2)",
+            "upload_date": null
+        },
+        {
+            "_id": "697326498459600028997994",
+            "url": "https://www.youtube.com/watch?v=zPzWJX23Q_8",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 1202.0,
+            "title": "[김주영 김포(갑) 국회의원 인터뷰] 헬로 이슈토크 '서울5호선 김포 연장' 대담",
+            "upload_date": null
+        },
+        {
+            "_id": "6970132e297082fcc2b34df4",
+            "url": "https://www.youtube.com/watch?v=yPAqpddlwF0",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-21T08:43:40.478000",
+            "duration": 1597.0,
+            "title": "김주영 국회의원_신율의 이슈메이커 (20230721)",
+            "upload_date": null
+        },
+        {
+            "_id": "6970132e297082fcc2b34df3",
+            "url": "https://www.youtube.com/watch?v=3CruOomUJnI",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 418.0,
+            "title": "김주영 더불어민주당 의원 “제 역할은 일자리입니다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6970132e297082fcc2b34df2",
+            "url": "https://www.youtube.com/watch?v=8DLSkemFyB0",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 92.0,
+            "title": "[국회는 지금] 김주영 의원, “상습 임금체불 뿌리 뽑아야”ㅣ#헬로tv뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6970132e297082fcc2b34df1",
+            "url": "https://www.youtube.com/watch?v=JRt5K142q54",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 573.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 김주영 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6970132e297082fcc2b34df0",
+            "url": "https://www.youtube.com/watch?v=l8gbodM1pVQ",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 1346.0,
+            "title": "[풀버전]250416 김주영 의원 교육·사회·문화 대정부질문",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee81887d07f7ba2fb3e1",
+            "url": "https://www.youtube.com/watch?v=xap95WUQWJE",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-14T10:16:49.973000",
+            "duration": 720.0,
+            "title": "[표창원의 뉴스 하이킥] 내돈내산 한혜연 집단소송 간다 - 김주영 (변호사  |  서울대학교 법학전문대학원)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d59e",
+            "url": "https://www.youtube.com/watch?v=DIMVY4l1HPk",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:58.143000",
+            "duration": 448.0,
+            "title": "'용의 눈물' 배우 김주영, 폐렴으로 별세…향년 73세 - 김명준의 뉴스파이터",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac3c631fd1743497d595",
             "url": "https://www.youtube.com/watch?v=UCZNx1EOc3M10QqrqJ_6tbGg",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
+            "collected_at": "2026-01-23T16:41:57.395000",
             "duration": null,
             "title": "김주영TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d59a",
+            "url": "https://www.youtube.com/watch?v=yunObPYyZgA",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:58.143000",
+            "duration": 205.0,
+            "title": "김주영 의원 ‘쪼개기 매입’…“아버지가 사기 당한 듯” | 뉴스A 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d598",
+            "url": "https://www.youtube.com/watch?v=paGjF4kW2rc",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 1387.0,
+            "title": "노동존중 사회를 꿈꾸던 노동운동가에서 국회의원으로 변신! '김주영 더불어민주당 의원' (2023.6.20. 방송) | 국회의원 25시 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d59c",
+            "url": "https://www.youtube.com/watch?v=WzhQsqPk4DU",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-18T13:12:07.239000",
+            "duration": 88.0,
+            "title": "[2025국감] 체불액 77% 미청산 대유위니아...부끄럽지 않습니까?  #김주영  #국회의원  #국정감사  #더불어민주당  #고용노동부 #대유위니아 #임금체불",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d59b",
+            "url": "https://www.youtube.com/watch?v=hplxEvV6OI8",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-23T16:41:57.395000",
+            "duration": 997.0,
+            "title": "김어준의 다스뵈이다 '김주영 의원' 출연! (23.11.10 )",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d599",
+            "url": "https://www.youtube.com/watch?v=rbBbpyaktXs",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-18T13:12:07.239000",
+            "duration": 84.0,
+            "title": "[2025국정감사]  발전공기업 구조개편, 정의로운 전환이 우선돼야! #김주영 #국회의원 #국정감사 #더불어민주당 #발전공기업 #기후에너지환경부 #한전 #정의로운전환",
             "upload_date": null
         },
         {
@@ -491,137 +649,7 @@
             "duration": 95.0,
             "title": "[2025국정감사] \"근로자들 꼭 퇴직금 받았으면\" 쿠팡 검사의 용기 있는 눈물 #김주영 #국회의원 #국정감사 #더불어민주당 #고용노동부 #쿠팡  #부천지청 #엄희준 #문지석검사",
             "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d598",
-            "url": "https://www.youtube.com/watch?v=paGjF4kW2rc",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 1387.0,
-            "title": "노동존중 사회를 꿈꾸던 노동운동가에서 국회의원으로 변신! '김주영 더불어민주당 의원' (2023.6.20. 방송) | 국회의원 25시 | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d599",
-            "url": "https://www.youtube.com/watch?v=rbBbpyaktXs",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-18T13:12:07.239000",
-            "duration": 84.0,
-            "title": "[2025국정감사]  발전공기업 구조개편, 정의로운 전환이 우선돼야! #김주영 #국회의원 #국정감사 #더불어민주당 #발전공기업 #기후에너지환경부 #한전 #정의로운전환",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d59a",
-            "url": "https://www.youtube.com/watch?v=yunObPYyZgA",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:41.202000",
-            "duration": 205.0,
-            "title": "김주영 의원 ‘쪼개기 매입’…“아버지가 사기 당한 듯” | 뉴스A 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d59b",
-            "url": "https://www.youtube.com/watch?v=hplxEvV6OI8",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 997.0,
-            "title": "김어준의 다스뵈이다 '김주영 의원' 출연! (23.11.10 )",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d59c",
-            "url": "https://www.youtube.com/watch?v=WzhQsqPk4DU",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-18T13:12:07.239000",
-            "duration": 88.0,
-            "title": "[2025국감] 체불액 77% 미청산 대유위니아...부끄럽지 않습니까?  #김주영  #국회의원  #국정감사  #더불어민주당  #고용노동부 #대유위니아 #임금체불",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d59d",
-            "url": "https://www.youtube.com/watch?v=k1h0eDX0ezY",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:41.202000",
-            "duration": 2720.0,
-            "title": "[다시보기] '용의 눈물' 배우 김주영, 폐렴으로 별세…향년 73세 - 김명준의 뉴스파이터 (2025.10.2)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d59e",
-            "url": "https://www.youtube.com/watch?v=DIMVY4l1HPk",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:41.202000",
-            "duration": 448.0,
-            "title": "'용의 눈물' 배우 김주영, 폐렴으로 별세…향년 73세 - 김명준의 뉴스파이터",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee81887d07f7ba2fb3e1",
-            "url": "https://www.youtube.com/watch?v=xap95WUQWJE",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-14T10:16:49.973000",
-            "duration": 720.0,
-            "title": "[표창원의 뉴스 하이킥] 내돈내산 한혜연 집단소송 간다 - 김주영 (변호사  |  서울대학교 법학전문대학원)",
-            "upload_date": null
-        },
-        {
-            "_id": "6970132e297082fcc2b34df0",
-            "url": "https://www.youtube.com/watch?v=l8gbodM1pVQ",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 1346.0,
-            "title": "[풀버전]250416 김주영 의원 교육·사회·문화 대정부질문",
-            "upload_date": null
-        },
-        {
-            "_id": "6970132e297082fcc2b34df1",
-            "url": "https://www.youtube.com/watch?v=JRt5K142q54",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 573.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 김주영 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6970132e297082fcc2b34df2",
-            "url": "https://www.youtube.com/watch?v=8DLSkemFyB0",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 92.0,
-            "title": "[국회는 지금] 김주영 의원, “상습 임금체불 뿌리 뽑아야”ㅣ#헬로tv뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6970132e297082fcc2b34df3",
-            "url": "https://www.youtube.com/watch?v=3CruOomUJnI",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 418.0,
-            "title": "김주영 더불어민주당 의원 “제 역할은 일자리입니다\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6970132e297082fcc2b34df4",
-            "url": "https://www.youtube.com/watch?v=yPAqpddlwF0",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-21T08:43:40.478000",
-            "duration": 1597.0,
-            "title": "김주영 국회의원_신율의 이슈메이커 (20230721)",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:12.983407"
+    "exported_at": "2026-01-26T14:36:19.097682"
 }

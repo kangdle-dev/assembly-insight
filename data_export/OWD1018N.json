@@ -43,56 +43,64 @@
     "analysis": {
         "keywords": [
             "신동",
-            "국민",
             "대표",
-            "장동",
-            "계엄",
+            "국민",
             "최고",
             "위원",
+            "장동",
             "한동훈",
+            "계엄",
+            "충북",
             "제명",
+            "출마",
             "사과",
             "특검",
-            "비판",
-            "당원",
-            "앵커",
-            "단식"
+            "이혜훈",
+            "대통령"
         ],
         "keyword_frequency": [
             {
                 "text": "신동",
-                "value": 75
-            },
-            {
-                "text": "국민",
-                "value": 21
+                "value": 70
             },
             {
                 "text": "대표",
+                "value": 25
+            },
+            {
+                "text": "국민",
                 "value": 20
             },
             {
-                "text": "장동",
-                "value": 19
-            },
-            {
-                "text": "계엄",
-                "value": 19
-            },
-            {
                 "text": "최고",
-                "value": 15
+                "value": 19
             },
             {
                 "text": "위원",
-                "value": 15
+                "value": 19
+            },
+            {
+                "text": "장동",
+                "value": 17
             },
             {
                 "text": "한동훈",
                 "value": 15
             },
             {
+                "text": "계엄",
+                "value": 15
+            },
+            {
+                "text": "충북",
+                "value": 13
+            },
+            {
                 "text": "제명",
+                "value": 13
+            },
+            {
+                "text": "출마",
                 "value": 12
             },
             {
@@ -104,50 +112,210 @@
                 "value": 11
             },
             {
-                "text": "비판",
+                "text": "이혜훈",
                 "value": 10
             },
             {
-                "text": "당원",
+                "text": "대통령",
                 "value": 10
-            },
-            {
-                "text": "앵커",
-                "value": 8
-            },
-            {
-                "text": "단식",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:24.270125",
+        "last_analyzed_at": "2026-01-26T14:36:31.173702",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                8,
-                0,
                 1,
                 4,
-                2,
-                1,
+                0,
+                0,
+                0,
+                5,
                 1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6976fd108459600028998034",
+            "link": "https://n.news.naver.com/mnews/article/052/0002305879?sid=100",
+            "created_at": "2026-01-26T14:35:10.423000",
+            "description": "저희 당에서 5번 공천을 받았고 현직 당협위원장이었으며 3번을 국회의원을 하고 제3당의 당대표까지 하셨던... 어제 조승래 사무총장기자들과 만나 민주당이라는 큰 생명체 안에서 혁신당의 DNA도 잘 섞이게 될 것이란 말을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601261232341101",
+            "press": "YTN",
+            "pubDate": "2026-01-26T12:32:00",
+            "related_members": [
+                "OWD1018N",
+                "JZV5283U",
+                "QWL7778X",
+                "KFM1081G",
+                "9YO73104",
+                "2385336L",
+                "FYI20317"
+            ],
+            "title": "[시사정각] 이혜훈 결국 낙마...이 대통령, 보수 인사 영입 시도할까?"
+        },
+        {
+            "_id": "6976fcf28459600028997f7b",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626986?sid=100",
+            "created_at": "2026-01-26T14:34:39.895000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 선거 출마에 나섰고... ",
+            "originallink": "https://www.mk.co.kr/article/11942687",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T18:00:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구시장 '도전'"
+        },
+        {
+            "_id": "6976fce58459600028997f03",
+            "link": "https://n.news.naver.com/mnews/article/421/0008733235?sid=100",
+            "created_at": "2026-01-26T14:34:26.716000",
+            "description": "그러면서 \"특히 과거 보수정당에서 여러 차례 국회의원을 지낸 정치인을 정치적 지향과 진영 논리를 과감히... 이준석 개혁신당 대표는 천하람 원내대표가 이 후보자의 부정청탁 의혹을 밝혀낸 데 의미를 부여하며... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6050153",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T17:57:00",
+            "related_members": [
+                "8P37634C",
+                "NUB4941Z",
+                "FU87526G",
+                "5TQ6306B",
+                "E2B3753X",
+                "6EN68926",
+                "OWD1018N",
+                "PFG2137X",
+                "QWL7778X",
+                "YGB8604T"
+            ],
+            "title": "이혜훈 지명 철회에 與 \"결단 존중\" 野 \"대통령 사과하라\"(종합2보)"
+        },
+        {
+            "_id": "6976fd038459600028997feb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008733190?sid=100",
+            "created_at": "2026-01-26T14:34:56.744000",
+            "description": "박 의원은 청와대가 이날 철회를 발표하며 지명 배경으로 '보수 정당에서 세 차례나 국회의원을 지냈다'는... 최은석 원내수석대변인은 국회에서 기자들과 만나 \"후보자의 청문회에서 거짓과 위선, 탐욕으로 점철된 것이... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6050132",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T17:02:00",
+            "related_members": [
+                "FU87526G",
+                "4X525582",
+                "6EN68926",
+                "OWD1018N",
+                "PFG2137X",
+                "UF53617M"
+            ],
+            "title": "국힘 \"이혜훈 검증 실패 책임은 李대통령에…대국민 사과해야'(종합)"
+        },
+        {
+            "_id": "6976fcf28459600028997f7c",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626878?sid=100",
+            "created_at": "2026-01-26T14:34:39.896000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고... ",
+            "originallink": "https://www.mk.co.kr/article/11942517",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T16:28:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구...국민의힘 후보자들 지선 출마 선언 잇따라"
+        },
+        {
+            "_id": "6976fce98459600028997f2a",
+            "link": "https://n.news.naver.com/mnews/article/020/0003692144?sid=100",
+            "created_at": "2026-01-26T14:34:30.607000",
+            "description": "같은 당 신동욱 의원도 “이번 사태는 결국 이재명 정권의 도덕적 자살로 평가받을 것”이라고 날 선 비판을... 그러면서 이 후보자가 국민의힘 계열 정당에서 3선 국회의원을 지냈다는 여권 지적에는 “문제의 본질을... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260125/133225468/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-25T15:44:00",
+            "related_members": [
+                "LG63087O",
+                "OWD1018N"
+            ],
+            "title": "국힘 “인사 참사, 李대통령 사과해야”…개혁신당 “국힘도 책임”"
+        },
+        {
+            "_id": "6972d1fc8459600028997707",
+            "link": "https://n.news.naver.com/mnews/article/079/0004107640?sid=102",
+            "created_at": "2026-01-23T10:42:18.332000",
+            "description": "김 지사는 국민의힘 신동욱·양향자·조광한 최고위원과 엄태영 국회의원을 잇따라 만나 \"통합 추진 과정에서 충북이 소외되거나 역차별을 받는 일이 발생하지 않도록 충북 특별지원 법률 제·개정이 필요하다\"고... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6459955?utm_source=naver&utm_medium=article&utm_campaign=20260121055501",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-21T17:56:00",
+            "related_members": [
+                "OWD1018N",
+                "8348421R",
+                "8O34202I"
+            ],
+            "title": "김영환 충북지사, 국회 찾아 충북 지원 특별법 제·개정 등 건의"
+        },
+        {
+            "_id": "6972d1fc8459600028997708",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723472?sid=102",
+            "created_at": "2026-01-23T10:42:18.333000",
+            "description": "김영환 충북도지사가 21일 국회를 방문해 신동욱·양향자·조광한 최고위원과 엄태영 의원 등을 만나 국회 차원의 적극적인 지원을 건의했다. 김 지사는 광역지자체 간 통합 추진 과정에서 충북이 소외되거나 역차별받는... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003484967",
+            "press": "뉴시스",
+            "pubDate": "2026-01-21T17:19:00",
+            "related_members": [
+                "OWD1018N",
+                "8348421R",
+                "8O34202I"
+            ],
+            "title": "김영환 지사, 국회 찾아 충북 지원 특별법 제·개정 건의"
+        },
+        {
+            "_id": "6972d1fc8459600028997709",
+            "link": "https://n.news.naver.com/mnews/article/421/0008727041?sid=102",
+            "created_at": "2026-01-23T10:42:18.333000",
+            "description": "김 지사는 국민의힘 소속 신동욱·양향자·조광한 최고위원과 엄태영 국회의원을 만나 \"행정통합 과정에서 충북이 소외되거나 역차별을 받는 일이 발생하지 않도록 지원해 달라\"고 말했다. 김 지사는 이를 위해... ",
+            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6046601",
+            "press": "뉴스1",
+            "pubDate": "2026-01-21T17:09:00",
+            "related_members": [
+                "OWD1018N",
+                "8348421R",
+                "8O34202I"
+            ],
+            "title": "김영환 지사, 국회 찾아 충북 지원 특별법 제개정 건의"
+        },
+        {
             "_id": "69701233297082fcc2b34c3a",
             "link": "https://n.news.naver.com/mnews/article/079/0004107251?sid=100",
             "created_at": "2026-01-21T08:39:29.688000",
-            "description": "◇ 박재홍&gt; 천하람 원내대표 같은 경우는 이분이 하는 얘기는 100시간도 할 수 있다, 지금까지. ◆ 신동욱... ◆ 신동욱&gt; 그동안 인사 검증이라는 게 국회의원을 이분이 했기 때문에 국회의원은 재산 신고의 의무만 있는... ",
+            "description": "징계 수위는 정하지 않지만 그러면 거기에 있는 여러 이를테면 저 같은 사람도 있을 수 있고 또 우재준 의원... ◆ 신동욱&gt; 그동안 인사 검증이라는 게 국회의원을 이분이 했기 때문에 국회의원은 재산 신고의 의무만 있는... ",
             "originallink": "https://www.nocutnews.co.kr/news/6459319?utm_source=naver&utm_medium=article&utm_campaign=20260121073056",
             "press": "노컷뉴스",
             "pubDate": "2026-01-21T07:31:00",
@@ -168,7 +336,7 @@
             "_id": "69701255297082fcc2b34cf8",
             "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202602100016",
             "created_at": "2026-01-21T08:40:04.286000",
-            "description": "지난 1월 9일, 서울 여의도 국회의원회관. 국민의힘 신동욱 의원(서초 을)은 잠시 서 있었다. 사진기자의 사각... 핍박에 끝까지 앞장서던 추미애 장관 이야기도 넷째로 많은 조회를 기록했습니다. 정권과 집권당의 그 필사적... ",
+            "description": "지난 1월 9일, 서울 여의도 국회의원회관. 국민의힘 신동욱 의원(서초 을)은 잠시 서 있었다. 사진기자의 사각 앵글을 향해 그는 어깨를 돌렸다. 금세 카메라가 원하는 각도와 그가 익숙한 각도가 절묘하게 겹쳐 있었다. 그는... ",
             "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202602100016",
             "press": "조선일보",
             "pubDate": "2026-01-20T15:28:00",
@@ -199,7 +367,7 @@
             "_id": "6970122d297082fcc2b34c18",
             "link": "https://n.news.naver.com/mnews/article/055/0001325452?sid=100",
             "created_at": "2026-01-21T08:39:23.823000",
-            "description": "▶곽규택 : 그러니까 지금 이른바 쌍특검, 그러니까 전재수 전 장관 등 정치인들이 통일교로부터 불법적인... 그날 목요일 같은 날 있었던 의원총회에서 많은 국회의원들이 이 문제를 급하게 처리할 것이 아니고 조금 더... ",
+            "description": "- 장동혁 단식 5일째, 심신 굉장히 힘든 시기 - 與와 물밑 논의 중…쌍특검 대화 의지 보여야 - 배현진 등 당내... 그날 목요일 같은 날 있었던 의원총회에서 많은 국회의원들이 이 문제를 급하게 처리할 것이 아니고 조금 더... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008409023&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-19T08:57:00",
@@ -218,7 +386,7 @@
             "_id": "69701234297082fcc2b34c51",
             "link": "https://n.news.naver.com/mnews/article/052/0002302332?sid=100",
             "created_at": "2026-01-21T08:39:31.022000",
-            "description": "각종 의혹에 대한 국회의 자료제출 요구를 거부하더니 정당한 문제를 제기한 한 국회의원을 오히려... 하지만 비당권파인 이언주 강득구 황명선 최고위원이 문제를 제기한 사실이 뒤늦게 알려졌습니다. 이번 보궐선거에서... ",
+            "description": "이런 가운데 한 전 대표 지지자 수백 명은 국회의사당역 앞에서 집회를 열고 한 전 대표 징계 취소를 촉구했습니다. 친한계인 배현진 의원은 당대표가 굶어 죽어 얻을 것이 아무것도 없는 시점이라며 단식 중단을... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601181430200116",
             "press": "YTN",
             "pubDate": "2026-01-18T14:30:00",
@@ -259,7 +427,7 @@
             "_id": "696c5bec297082fcc2b19b89",
             "link": "https://n.news.naver.com/mnews/article/262/0000019090?sid=100",
             "created_at": "2026-01-18T13:05:00.817000",
-            "description": "당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신... 신 의원은 5% 지지율을 기록하며 서영교(3.1%), 전현희(3.0%), 김영배(2.0%) 등 여권 중진들보다 앞선 지지율을 기록한... ",
+            "description": "당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신... 통일교 특검은 전재수 전 해양수산부 장관의 불법 자금 수수 문제가 뇌관이 돼 특검을 하자는 것이다. 그 문제가... ",
             "originallink": "https://shindonga.donga.com/3/all/13/6061345/1",
             "press": "동아일보",
             "pubDate": "2026-01-18T09:01:00",
@@ -324,7 +492,7 @@
             "_id": "696902c2297082fcc2b1927d",
             "link": "https://n.news.naver.com/mnews/article/022/0004097951?sid=100",
             "created_at": "2026-01-16T00:07:46.832000",
-            "description": "심각 국민의힘 장동혁 대표(오른쪽)가 15일 국회에서 열린 당 의원총회에서 신동욱 최고위원과 귀엣말을 하고... 5선 윤상현 의원은 의총 중 기자들과 만나 “당원게시판 사태는 법률 문제로 치환될 것이 아니라 정치력으로... ",
+            "description": "심각 국민의힘 장동혁 대표(오른쪽)가 15일 국회에서 열린 당 의원총회에서 신동욱 최고위원과 귀엣말을 하고... 초선 김종양 의원은 “(한 전 대표가) 제명할 정도의 대역죄를 저질렀느냐”고 반문하며 “강성 지지층에... ",
             "originallink": "https://www.segye.com/newsView/20260115516457?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-15T18:32:00",
@@ -341,7 +509,7 @@
             "_id": "6968ad87297082fcc2b18cd0",
             "link": "https://n.news.naver.com/mnews/article/055/0001324668?sid=100",
             "created_at": "2026-01-15T18:04:04.184000",
-            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 오늘 오전에 국민의힘 의원총회가 있었는데 의총 후에 반응도 들어보겠습니다. ▷ 편상욱 / 앵커 : 윤상현 의원... ",
+            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 송언석 원내대표가 있고 신동욱 수석 최고위원, 양양자 최고위원, 김민수 최고위원, 김재원 최고위원, 우재준... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405649&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-15T15:29:00",
@@ -505,329 +673,17 @@
                 "OWD1018N"
             ],
             "title": "서초구, 수변감성공간 ‘여의천 소원카페’ 오픈"
-        },
-        {
-            "_id": "6964b54a631fd174349960c3",
-            "link": "https://n.news.naver.com/mnews/article/052/0002298490?sid=100",
-            "created_at": "2026-01-12T17:48:07.785000",
-            "description": "그리고 신동욱 의원님께서 사형이라는 말을 쉽게 쓴다고 하는데 그렇지 않습니다. 전두환 씨의 판례 때문에... 특히나 국회는 의장님이나 저나 다 있었지만 국회의원에게 절대적 권력이 있는 곳입니다. 의원면직제도라고... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601091636445529",
-            "press": "YTN",
-            "pubDate": "2026-01-09T16:36:00",
-            "related_members": [
-                "VDN5593C",
-                "OWD1018N",
-                "YGB8604T"
-            ],
-            "title": "윤석열, 운명의 날...사형? 무기형? 곧 검찰 구형"
-        },
-        {
-            "_id": "6964b548631fd1743499608a",
-            "link": "https://n.news.naver.com/mnews/article/056/0012101629?sid=100",
-            "created_at": "2026-01-12T17:48:05.254000",
-            "description": "양향자, 우재준 이분들은 조금 다른 결이잖아요. 그럼 이 세 분들이 하는 메시지가 당 대표의 메시지라고... 나와서 국민의힘에서 지난번에 남양주 국회의원 나왔단 말이에요. 그러니까 너희만 보수 인사 영입해? 우리도... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8454621&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-09T10:00:00",
-            "related_members": [
-                "X7E7893P",
-                "ANS8383S",
-                "LH97552Q",
-                "9D939735",
-                "57B28032",
-                "DMP1439I",
-                "7XY7109I",
-                "8SV6917G",
-                "6EN68926",
-                "3OQ8273H",
-                "3249208I",
-                "KFM1081G",
-                "OWD1018N",
-                "EB16073M",
-                "IC499858",
-                "8UC4779G",
-                "LJK4960Z"
-            ],
-            "title": "[전격시사] 신영대 등 ‘의원직 상실’…지선 영향은? (김준일) “거의..."
-        },
-        {
-            "_id": "6964b56b631fd17434996309",
-            "link": "https://n.news.naver.com/mnews/article/021/0002762486?sid=102",
-            "created_at": "2026-01-12T17:48:40.423000",
-            "description": "행사에는 전성수 서초구청장을 비롯한 신동욱 서초을 국회의원, 최호정 서울시의회 의장 등 내빈과 양재·내곡 지역 주민 100여 명이 참석해 의미를 더했다. 여의천 소원카페는 단순히 식음료를 먹는 장소의 의미를 넘어... ",
-            "originallink": "https://www.munhwa.com/article/11559629?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-09T07:58:00",
-            "related_members": [
-                "OWD1018N"
-            ],
-            "title": "서초구, ‘여의천 소원카페’ 개소식 열고 본격 운영!"
-        },
-        {
-            "_id": "6964b56b631fd1743499630a",
-            "link": "https://n.news.naver.com/mnews/article/016/0002583213?sid=102",
-            "created_at": "2026-01-12T17:48:40.423000",
-            "description": "행사에는 전성수 서초구청장을 비롯한 신동욱 서초을 국회의원, 최호정 서울시의회 의장 등 내빈과 양재·내곡 지역 주민 100여 명이 참석해 의미를 더했다. 여의천 소원카페는 단순히 식음료를 먹는 장소의 의미를 넘어... ",
-            "originallink": "https://biz.heraldcorp.com/article/10651926?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-09T07:07:00",
-            "related_members": [
-                "OWD1018N"
-            ],
-            "title": "서초구 ‘여의천 소원카페’ 개소영"
-        },
-        {
-            "_id": "6964b556631fd174349961be",
-            "link": "https://n.news.naver.com/mnews/article/005/0001825057?sid=100",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "더불어민주당 국회의원 2명이 8일 당선무효가 확정돼 6·3 지방선거와 함께 치러지는 국회의원 재보궐선거의... 전현희 의원 등이 출마를 선언했거나 준비 중이다. 국민의힘에선 나경원·신동욱·조은희·조정훈 의원이... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1767862243&code=11121100&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-09T00:06:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "S824682L",
-                "B7D7534L",
-                "TKJ4800F",
-                "SLW27496",
-                "3249208I",
-                "MQU41854",
-                "WJL30106",
-                "OWD1018N",
-                "EB16073M",
-                "3OQ8273H",
-                "IC499858",
-                "GF286398",
-                "URV1689Q",
-                "BCQ55105",
-                "VCP96419"
-            ],
-            "title": "與이병진·신영대 의원직 상실… 판 커진 6·3 재보선"
-        },
-        {
-            "_id": "6964b548631fd17434996090",
-            "link": "https://n.news.naver.com/mnews/article/052/0002298166?sid=100",
-            "created_at": "2026-01-12T17:48:05.535000",
-            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 있었냐면 김도읍 의원이 빠졌던 정책위의장 자리에 PK 3선의 정점식 의원을 지명했고요. 그리고 지명직... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601082154190243",
-            "press": "YTN",
-            "pubDate": "2026-01-08T21:54:00",
-            "related_members": [
-                "LH97552Q",
-                "KFM1081G",
-                "LJK4960Z",
-                "8Q88373R",
-                "DMP1439I",
-                "OWD1018N",
-                "6EN68926",
-                "3OQ8273H",
-                "FYI20317"
-            ],
-            "title": "[뉴스NIGHT] 장동혁 '계엄 사과' 후폭풍...민주, '김병기 방지법' 도입"
-        },
-        {
-            "_id": "6964b56b631fd1743499630b",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102987?sid=100",
-            "created_at": "2026-01-12T17:48:40.423000",
-            "description": "민주주의 정당은 국회의원 중심으로 가는 겁니다. 국회의원이 선거를 통해서 국민의 대표로 뽑혔잖아요.... 앞서 저희가 일부에서는 국민의힘의 신동욱 수석 최고위원을 불러서 관련된 입장을 좀 들어봤고요. 지금은... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453220?utm_source=naver&utm_medium=article&utm_campaign=20260108102911",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-08T10:30:00",
-            "related_members": [
-                "KFM1081G",
-                "OWD1018N"
-            ],
-            "title": "조갑제의 일침 \"'계엄 사과' 장동혁, 한동훈에게도 사과해야\""
-        },
-        {
-            "_id": "6964b552631fd17434996163",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102946?sid=100",
-            "created_at": "2026-01-12T17:48:15.525000",
-            "description": "들어서 김재원 최고위원 같은 경우도 나가서 입당원서를 받으면서 내가 고성국 라인이 되겠다 이런 얘기를... 당의 국회의원으로서의 공천 과정에서. ◇ 박성태&gt; 공천은 다섯 번이죠, 사실은. ◆ 신동욱&gt; 그것은 다른... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453168?utm_source=naver&utm_medium=article&utm_campaign=20260108102210",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-08T09:56:00",
-            "related_members": [
-                "OWD1018N",
-                "DMP1439I"
-            ],
-            "title": "신동욱 \"김종혁의 쇄신안 비판, 국힘 당원이라 할 수 있나?\""
-        },
-        {
-            "_id": "6964b541631fd17434995ff5",
-            "link": "https://n.news.naver.com/mnews/article/053/0000054851?sid=100",
-            "created_at": "2026-01-12T17:47:59.155000",
-            "description": "곽규택 국민의힘 원내수석대변인과 강선영, 박충권 원내부대표는 7일 국회 의안과에 '김병기·강선우 국회의원의 공천 뇌물 수수 의혹 사건 진상규명을 위한 특검법'을 제출했다. 발의 명단에는 나경원·조배숙·김재섭... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47568",
-            "press": "조선일보",
-            "pubDate": "2026-01-07T21:10:00",
-            "related_members": [
-                "NQO7187X",
-                "IWK63872",
-                "57B28032",
-                "8Q88373R",
-                "GP21946O",
-                "MNZ4401T",
-                "SLW27496",
-                "REG96285",
-                "WJG74792",
-                "CNW5754J",
-                "GJK57930",
-                "OWD1018N"
-            ],
-            "title": "국힘, '공천헌금 의혹' 특검 추진...수사 대상에 이재명 포함"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "696c5e7b297082fcc2b19ca8",
-            "url": "https://www.youtube.com/watch?v=i5NSDJl6ZDg",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-18T13:15:54.547000",
-            "duration": 27056.0,
-            "title": "[Live] 방송장악 3법 무제한토론 | 신동욱 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6965961c887d07f7ba2fad0f",
-            "url": "https://www.youtube.com/watch?v=RaOtQHhmfOw",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-18T13:15:55.608000",
-            "duration": 159.0,
-            "title": "신동욱 \"국힘은 계엄 사과하냐 안 하냐, 이렇게만 자꾸 물어보면...충분히 사과했고 반성 중\"｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acfb631fd1743497d8a4",
-            "url": "https://www.youtube.com/watch?v=Qa6OO_-vkZM",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-14T10:20:00.288000",
-            "duration": 476.0,
-            "title": "[현장] \"무죄 왜 명백해?!\" 신동욱 입 때문에 민주당 대폭발, 법사위는 결국…",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e7b297082fcc2b19ca6",
-            "url": "https://www.youtube.com/watch?v=QKMrdhPdJ_k",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-18T13:15:54.547000",
-            "duration": 117.0,
-            "title": "'방송법' 무제한토론 첫 주자로 나선 방송국 출신 국회의원 신동욱",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef40887d07f7ba2fb474",
-            "url": "https://www.youtube.com/watch?v=aswC3xQBRsc",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-14T10:20:00.995000",
-            "duration": 1458.0,
-            "title": "신동욱 \"4심제? 대통령이 '뭐'라고 헌법 손대나\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acfb631fd1743497d8a8",
-            "url": "https://www.youtube.com/watch?v=LgAW7OjIM_s",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-15T18:19:27.051000",
-            "duration": 66.0,
-            "title": "윤석열 구형 '운명의 날'…신동욱 \"2시간짜리 계엄을 내란으로 보는 게 맞냐? 잘못된 표현 아냐\"｜지금 이 쇼츠",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e7b297082fcc2b19ca9",
-            "url": "https://www.youtube.com/watch?v=WxUFdIZelEc",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-18T13:15:54.547000",
-            "duration": 170.0,
-            "title": "TV조선 앵커 출신 신동욱의원.. 그 시절 방송국 압박 받은 이야기 꺼내더니",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acfb631fd1743497d89f",
-            "url": "https://www.youtube.com/watch?v=hHYrqoCJH2g",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-21T08:46:54.216000",
-            "duration": 952.0,
-            "title": "[인터뷰] 신동욱 \"국힘 균열, 한동훈 대표 때 시작…당사자들의 전향적 생각 필요\" / SBS / 편상욱의 뉴스브리핑",
-            "upload_date": null
-        },
-        {
-            "_id": "6965961c887d07f7ba2fad10",
-            "url": "https://www.youtube.com/watch?v=Rzf7MZURpiQ",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-14T10:20:00.995000",
-            "duration": 143.0,
-            "title": "\"조용히 해!\"... 신동욱, 박지원의 '사자후'에 '당황'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acfb631fd1743497d8a5",
-            "url": "https://www.youtube.com/watch?v=BXAZ3dHDUI0",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-13T09:47:23.062000",
-            "duration": 2195.0,
-            "title": "신동욱 “한동훈, ‘본질흐리기’ 그만!”…“윤리위, 팩트는 이렇습니다!” [뉴캐]",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b122297082fcc2b190bc",
-            "url": "https://www.youtube.com/watch?v=DDYNnLCxnkA",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-15T18:19:27.051000",
-            "duration": 229.0,
-            "title": "신동욱 \"특검으로 흥한자, 특검으로 망할 것\" [현장영상] / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef40887d07f7ba2fb475",
-            "url": "https://www.youtube.com/watch?v=9iXtse0hwWQ",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-14T10:20:00.995000",
-            "duration": 489.0,
-            "title": "신동욱 “당장 나가라” vs 장경태 “허위·조작 보도” / 채널A / 뉴스TOP 10",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acfb631fd1743497d8a7",
-            "url": "https://www.youtube.com/watch?v=nJlOCy4T6cs",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-09T16:23:36.611000",
-            "duration": 109.0,
-            "title": "신동욱 \"중국 선거 개입 의심하는 학자적 양심이 무슨 잘못? 부정선거 의심하는 당원도 양심의 자유\"｜지금 이 뉴스",
-            "upload_date": null
-        },
         {
             "_id": "696c5e7b297082fcc2b19ca7",
             "url": "https://www.youtube.com/watch?v=0D3u74wyTMQ",
             "HG_NM": "신동욱",
             "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-18T13:15:54.547000",
+            "collected_at": "2026-01-23T16:45:09.573000",
             "duration": 1081.0,
             "title": "[신동욱 인터뷰] 조선일보와 싸우는 국힘? 野최고위원 공개 반박! | #국민의힘 #장동혁 #조선일보 #신동욱",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acfb631fd1743497d8a2",
-            "url": "https://www.youtube.com/watch?v=kcOjn3Hw3eQ",
-            "HG_NM": "신동욱",
-            "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-21T08:46:54.216000",
-            "duration": 1162.0,
-            "title": "신동욱 \"추미애, 보수의 할머니\"…고성 끝 나온 발언, 무슨 뜻?｜이가혁 라이브",
             "upload_date": null
         },
         {
@@ -841,13 +697,123 @@
             "upload_date": null
         },
         {
-            "_id": "6960acfb631fd1743497d89e",
-            "url": "https://www.youtube.com/watch?v=UCsjAKlsXNwcrxCSe_RfOI2A",
+            "_id": "6960acfb631fd1743497d8a4",
+            "url": "https://www.youtube.com/watch?v=Qa6OO_-vkZM",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-14T10:20:00.288000",
+            "duration": 476.0,
+            "title": "[현장] \"무죄 왜 명백해?!\" 신동욱 입 때문에 민주당 대폭발, 법사위는 결국…",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b122297082fcc2b190bc",
+            "url": "https://www.youtube.com/watch?v=DDYNnLCxnkA",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-15T18:19:27.051000",
+            "duration": 229.0,
+            "title": "신동욱 \"특검으로 흥한자, 특검으로 망할 것\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6965961c887d07f7ba2fad10",
+            "url": "https://www.youtube.com/watch?v=Rzf7MZURpiQ",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-14T10:20:00.995000",
+            "duration": 143.0,
+            "title": "\"조용히 해!\"... 신동욱, 박지원의 '사자후'에 '당황'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d8a7",
+            "url": "https://www.youtube.com/watch?v=nJlOCy4T6cs",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-09T16:23:36.611000",
+            "duration": 109.0,
+            "title": "신동욱 \"중국 선거 개입 의심하는 학자적 양심이 무슨 잘못? 부정선거 의심하는 당원도 양심의 자유\"｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e7b297082fcc2b19ca8",
+            "url": "https://www.youtube.com/watch?v=i5NSDJl6ZDg",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-18T13:15:54.547000",
+            "duration": 27056.0,
+            "title": "[Live] 방송장악 3법 무제한토론 | 신동욱 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d8a0",
+            "url": "https://www.youtube.com/watch?v=2mZJHWbElxc",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-23T16:45:09.573000",
+            "duration": 398.0,
+            "title": "\"서영교!! 조용히 해!!!\"…野 신동욱 분노 폭발 [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6965961c887d07f7ba2fad0f",
+            "url": "https://www.youtube.com/watch?v=RaOtQHhmfOw",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-23T16:45:10.362000",
+            "duration": 159.0,
+            "title": "신동욱 \"국힘은 계엄 사과하냐 안 하냐, 이렇게만 자꾸 물어보면...충분히 사과했고 반성 중\"｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d8a3",
+            "url": "https://www.youtube.com/watch?v=XlqE2QdKbZ4",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-23T16:45:09.573000",
+            "duration": 185.0,
+            "title": "[현장영상] \"자료 봤는데 신동욱 의원이\"…최혁진 한마디에 국힘 '술렁' / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b122297082fcc2b190bb",
+            "url": "https://www.youtube.com/watch?v=0WVifi9HjgY",
             "HG_NM": "신동욱",
             "MONA_CD": "OWD1018N",
             "collected_at": "2026-01-21T08:46:54.216000",
-            "duration": null,
-            "title": "신동욱의 시선",
+            "duration": 60.0,
+            "title": "최혁진 \"계엄 날, 본회의장 이탈 유도\" 발언에...분노한 신동욱 \"기사나 똑바로 읽어\" [현장영상]",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef40887d07f7ba2fb474",
+            "url": "https://www.youtube.com/watch?v=aswC3xQBRsc",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-14T10:20:00.995000",
+            "duration": 1458.0,
+            "title": "신동욱 \"4심제? 대통령이 '뭐'라고 헌법 손대나\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d8a5",
+            "url": "https://www.youtube.com/watch?v=BXAZ3dHDUI0",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-13T09:47:23.062000",
+            "duration": 2195.0,
+            "title": "신동욱 “한동훈, ‘본질흐리기’ 그만!”…“윤리위, 팩트는 이렇습니다!” [뉴캐]",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e7b297082fcc2b19ca6",
+            "url": "https://www.youtube.com/watch?v=QKMrdhPdJ_k",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-18T13:15:54.547000",
+            "duration": 117.0,
+            "title": "'방송법' 무제한토론 첫 주자로 나선 방송국 출신 국회의원 신동욱",
             "upload_date": null
         },
         {
@@ -855,9 +821,39 @@
             "url": "https://www.youtube.com/watch?v=OJGFWjfit9g",
             "HG_NM": "신동욱",
             "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-21T08:46:54.216000",
+            "collected_at": "2026-01-23T16:45:09.573000",
             "duration": 69.0,
             "title": "[자막] 최혁진 \"신동욱 의원, 계엄해제 반대했다면 법사위 퇴출시켜야\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d8a8",
+            "url": "https://www.youtube.com/watch?v=LgAW7OjIM_s",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-15T18:19:27.051000",
+            "duration": 66.0,
+            "title": "윤석열 구형 '운명의 날'…신동욱 \"2시간짜리 계엄을 내란으로 보는 게 맞냐? 잘못된 표현 아냐\"｜지금 이 쇼츠",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d89e",
+            "url": "https://www.youtube.com/watch?v=UCsjAKlsXNwcrxCSe_RfOI2A",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-23T16:45:09.573000",
+            "duration": null,
+            "title": "신동욱의 시선",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acfb631fd1743497d89f",
+            "url": "https://www.youtube.com/watch?v=hHYrqoCJH2g",
+            "HG_NM": "신동욱",
+            "MONA_CD": "OWD1018N",
+            "collected_at": "2026-01-23T16:45:10.362000",
+            "duration": 952.0,
+            "title": "[인터뷰] 신동욱 \"국힘 균열, 한동훈 대표 때 시작…당사자들의 전향적 생각 필요\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -871,15 +867,15 @@
             "upload_date": null
         },
         {
-            "_id": "6968b122297082fcc2b190bb",
-            "url": "https://www.youtube.com/watch?v=0WVifi9HjgY",
+            "_id": "6966ef40887d07f7ba2fb475",
+            "url": "https://www.youtube.com/watch?v=9iXtse0hwWQ",
             "HG_NM": "신동욱",
             "MONA_CD": "OWD1018N",
-            "collected_at": "2026-01-21T08:46:54.216000",
-            "duration": 60.0,
-            "title": "최혁진 \"계엄 날, 본회의장 이탈 유도\" 발언에...분노한 신동욱 \"기사나 똑바로 읽어\" [현장영상]",
+            "collected_at": "2026-01-14T10:20:00.995000",
+            "duration": 489.0,
+            "title": "신동욱 “당장 나가라” vs 장경태 “허위·조작 보도” / 채널A / 뉴스TOP 10",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:24.270644"
+    "exported_at": "2026-01-26T14:36:31.173702"
 }

@@ -53,20 +53,20 @@
     "analysis": {
         "keywords": [
             "민주당",
+            "합당",
             "서울시장",
-            "김병기",
-            "서영",
-            "더불어민주당",
-            "오세훈",
-            "박용진",
-            "출마",
-            "선언",
+            "정청래",
+            "추진",
             "서울",
-            "대표",
-            "제명",
-            "묵살",
-            "참사",
-            "경고"
+            "출마",
+            "더불어민주당",
+            "후보",
+            "당원",
+            "반발",
+            "서영",
+            "국민",
+            "회견",
+            "오세훈"
         ],
         "keyword_frequency": [
             {
@@ -74,27 +74,23 @@
                 "value": 23
             },
             {
+                "text": "합당",
+                "value": 21
+            },
+            {
                 "text": "서울시장",
-                "value": 22
+                "value": 18
             },
             {
-                "text": "김병기",
-                "value": 19
+                "text": "정청래",
+                "value": 16
             },
             {
-                "text": "서영",
+                "text": "추진",
                 "value": 15
             },
             {
-                "text": "더불어민주당",
-                "value": 13
-            },
-            {
-                "text": "오세훈",
-                "value": 13
-            },
-            {
-                "text": "박용진",
+                "text": "서울",
                 "value": 13
             },
             {
@@ -102,57 +98,459 @@
                 "value": 13
             },
             {
-                "text": "선언",
-                "value": 12
+                "text": "더불어민주당",
+                "value": 13
             },
             {
-                "text": "서울",
+                "text": "후보",
                 "value": 11
             },
             {
-                "text": "대표",
+                "text": "당원",
                 "value": 10
             },
             {
-                "text": "제명",
+                "text": "반발",
                 "value": 10
             },
             {
-                "text": "묵살",
-                "value": 8
+                "text": "서영",
+                "value": 9
             },
             {
-                "text": "참사",
-                "value": 8
+                "text": "국민",
+                "value": 9
             },
             {
-                "text": "경고",
+                "text": "회견",
+                "value": 9
+            },
+            {
+                "text": "오세훈",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:36.545407",
+        "last_analyzed_at": "2026-01-26T14:36:44.292594",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                5,
-                0,
-                1,
-                1,
-                5,
                 2,
-                4
+                9,
+                8,
+                3,
+                0,
+                2,
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fcf28459600028997f78",
+            "link": "https://n.news.naver.com/mnews/article/036/0000053040?sid=102",
+            "created_at": "2026-01-26T14:34:39.895000",
+            "description": "사흘 앞선 1월9일 6·1 지방선거를 준비하는 민주당 서울시장 후보(김영배·박홍근·박주민·서영교·전현희 의원, 홍익표 전 의원)들은 국회에서 전장연과 만났다. 김영배 의원이 1월6일 서울 혜화역 전장연의 ‘출근길... ",
+            "originallink": "https://h21.hani.co.kr/arti/society/society_general/58743.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-26T13:56:00",
+            "related_members": [
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "3TP65086"
+            ],
+            "title": "지하철 시위에서 ‘오세훈 현장 부재’만 보는 민주당 후보들"
+        },
+        {
+            "_id": "6976fd058459600028997ff9",
+            "link": "https://n.news.naver.com/mnews/article/437/0000475280?sid=102",
+            "created_at": "2026-01-26T14:34:59.154000",
+            "description": "시작은 다음 달 12일 국회 의원회관입니다. 김 전 부원장 측은 행사 소개 글에 \"(김 전 부원장은) 정치검찰의... 서영교 전현희 정원오 등 서울시장 후보들을 초청해 함께 진행할 예정인 것으로 전해졌습니다. 한 현직... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281826?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-26T10:23:00",
+            "related_members": [
+                "25G2571T",
+                "S824682L",
+                "6AU2417B",
+                "TKJ4800F"
+            ],
+            "title": "보석으로 나와 북콘서트…김용, 민주당 서울시장 후보들 초청"
+        },
+        {
+            "_id": "6976fd058459600028997ffa",
+            "link": "https://n.news.naver.com/mnews/article/020/0003692221?sid=100",
+            "created_at": "2026-01-26T14:34:59.154000",
+            "description": "12일 국회 의원회관에서 첫 북콘서트를 열 예정이다. 김 전 부원장 측은 행사 소개 글에 “(김 전 부원장은)... 서영교 전현희 정원오 등 서울시장 후보들을 초청해 함께 진행할 예정인 것으로 전해졌다. 이에 대해 한... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260126/133228038/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-26T04:32:00",
+            "related_members": [
+                "25G2571T",
+                "S824682L",
+                "6AU2417B",
+                "TKJ4800F"
+            ],
+            "title": "[단독]‘李 성남-경기라인’ 김용, 보석중 북콘서트 논란"
+        },
+        {
+            "_id": "6976fcf28459600028997f7b",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626986?sid=100",
+            "created_at": "2026-01-26T14:34:39.895000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 선거 출마에 나섰고... ",
+            "originallink": "https://www.mk.co.kr/article/11942687",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T18:00:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구시장 '도전'"
+        },
+        {
+            "_id": "6976fcf28459600028997f7c",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626878?sid=100",
+            "created_at": "2026-01-26T14:34:39.896000",
+            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고... ",
+            "originallink": "https://www.mk.co.kr/article/11942517",
+            "press": "매일경제",
+            "pubDate": "2026-01-25T16:28:00",
+            "related_members": [
+                "8SV6917G",
+                "TKJ4800F",
+                "6AU2417B",
+                "B7D7534L",
+                "25G2571T",
+                "S824682L",
+                "G152611B",
+                "UF53617M",
+                "SLW27496",
+                "WJL30106",
+                "OWD1018N",
+                "JZV5283U",
+                "ZRF3039U"
+            ],
+            "title": "윤희숙 서울·주호영 대구...국민의힘 후보자들 지선 출마 선언 잇따라"
+        },
+        {
+            "_id": "6976fcf48459600028997f8a",
+            "link": "https://n.news.naver.com/mnews/article/021/0002766101?sid=100",
+            "created_at": "2026-01-26T14:34:41.735000",
+            "description": "알았고, 국회의원들도 뉴스를 보고서야 합당 추진을 알았다. 당의 운명을 이렇게 깜짝쇼로 진행할 수는... 의원도 “조국혁신당과 합당은 당원에게 충분한 설명, 숙의 과정과 동의가 필요하다”고 일침했고, 전현희 의원도... ",
+            "originallink": "https://www.munhwa.com/article/11563300?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-23T16:41:00",
+            "related_members": [
+                "2385336L",
+                "OFE45081",
+                "N2P9317N",
+                "2NV6751W",
+                "25G2571T"
+            ],
+            "title": "“민주당은 과거에도 통합 깜짝 발표”…코너 몰린 정청래 지원사격 나..."
+        },
+        {
+            "_id": "6976fd2b8459600028998089",
+            "link": "https://n.news.naver.com/mnews/article/003/0013727441?sid=100",
+            "created_at": "2026-01-26T14:35:36.511000",
+            "description": "전현희 더불어민주당 의원이 23일 오후 서울 여의도 국회 의원회관에서 열린 독서국가 선포식 및 독서국가 추진위원회 출범식에서 국민의례하고 있다. 2026.01.23. kmn@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260123_0021137207",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T14:37:00",
+            "related_members": [
+                "25G2571T"
+            ],
+            "title": "국민의례하는 전현희 의원"
+        },
+        {
+            "_id": "6976fd2b8459600028998088",
+            "link": "https://n.news.naver.com/mnews/article/003/0013727440?sid=100",
+            "created_at": "2026-01-26T14:35:36.511000",
+            "description": "전현희 더불어민주당 의원이 23일 오후 서울 여의도 국회 의원회관에서 열린 독서국가 선포식 및 독서국가 추진위원회 출범식에서 국민의례하고 있다. 2026.01.23. kmn@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260123_0021137206",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T14:37:00",
+            "related_members": [
+                "25G2571T"
+            ],
+            "title": "국민의례하는 전현희 의원"
+        },
+        {
+            "_id": "6972d1ee845960002899768f",
+            "link": "https://n.news.naver.com/mnews/article/421/0008729495?sid=100",
+            "created_at": "2026-01-23T10:42:04.433000",
+            "description": "장철민 의원도 \"최고위원들도 기자회견 20분 전에 알았고, 국회의원들도 뉴스를 보고서야 합당 추진을 알았다... 예정했던 전현희 의원은 일정을 미루고 \"진정한 당원주권정당이라면 합당은 당원들의 의견수렴과 숙의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6048002",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T16:40:00",
+            "related_members": [
+                "2NV6751W",
+                "RJH6314D",
+                "2385336L",
+                "8P37634C",
+                "JG77046J",
+                "OFE45081",
+                "5TQ6306B",
+                "BCQ55105",
+                "25G2571T",
+                "H5476989"
+            ],
+            "title": "'1인1표' 한다면서 합당은 혼자 발표…정청래 '통보' 당내 반발(종합)"
+        },
+        {
+            "_id": "6972d1fb84596000289976fd",
+            "link": "https://n.news.naver.com/mnews/article/056/0012110416?sid=100",
+            "created_at": "2026-01-23T10:42:17.721000",
+            "description": "한정애 정책위의장은 \"합당에 대한 의견을 밝혀달라는 당원들의 요구가 있는 것으로 안다\"며 \"의총 말미에... 전남 중진 박지원 의원은 국회에서 열린 '검찰개혁 토론회'에서 조국혁신당 박은정 의원에게 \"민주당 박은정... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8466256&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-22T15:40:00",
+            "related_members": [
+                "1A82234K",
+                "8BF5855P",
+                "2385336L",
+                "5765663F",
+                "VRY5522V",
+                "JG77046J",
+                "25G2571T",
+                "XPP2564T",
+                "RJH6314D"
+            ],
+            "title": "민주당 의총서 정청래 ‘합당 제안’ 성토…“논의 없는 독단적 제안”"
+        },
+        {
+            "_id": "6972d1fb84596000289976f9",
+            "link": "https://n.news.naver.com/mnews/article/009/0005625764?sid=100",
+            "created_at": "2026-01-23T10:42:17.413000",
+            "description": "박홍근·박주민·김영배·서영교 의원이 서울시장 출마를 공식화했으며 조만간 전현희 의원도 이 대열에... 1 도시’로 완성하겠다는 각오로 힘차게 출발하겠다”며 “3선 국회의원의 정치력과 권익위원장으로서... ",
+            "originallink": "https://www.mk.co.kr/article/11940250",
+            "press": "매일경제",
+            "pubDate": "2026-01-22T15:16:00",
+            "related_members": [
+                "6AU2417B",
+                "B7D7534L",
+                "S824682L",
+                "TKJ4800F",
+                "SLW27496",
+                "25G2571T"
+            ],
+            "title": "서울시장 후보, 여권에선 너도나도 손드는데…야권에서는 누구?"
+        },
+        {
+            "_id": "6972d1fd845960002899770d",
+            "link": "https://n.news.naver.com/mnews/article/015/0005240734?sid=100",
+            "created_at": "2026-01-23T10:42:19.251000",
+            "description": "장철민 의원도 \"최고위원들도 기자회견 20분 전에 알았고, 국회의원들도 뉴스를 보고서야 합당 추진을 알았다... 한준호 의원도 \"합당은 당원에게 충분한 설명, 숙의 과정과 동의가 필요하다\"는 의견을 내놨다. 전현희... ",
+            "originallink": "https://www.hankyung.com/article/2026012263197",
+            "press": "한국경제",
+            "pubDate": "2026-01-22T12:22:00",
+            "related_members": [
+                "OFE45081",
+                "2385336L",
+                "8BF5855P",
+                "2NV6751W",
+                "25G2571T",
+                "BCQ55105",
+                "YS38221N"
+            ],
+            "title": "\"정청래 독단으로 조국혁신당 합당 추진\"…민주당 의원들 반발"
+        },
+        {
+            "_id": "6972d1fd845960002899770e",
+            "link": "https://n.news.naver.com/mnews/article/003/0013724849?sid=100",
+            "created_at": "2026-01-23T10:42:19.251000",
+            "description": "알았고, 국회의원들도 뉴스를 보고서야 합당 추진을 알았다. 당의 운명을 이렇게 깜짝쇼로 진행할 수는 없다... 한준호 의원도 \"조국혁신당과 합당은 당원에게 충분한 설명, 숙의 과정과 동의가 필요하다\"고 했다. 전현희... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003486449",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T12:11:00",
+            "related_members": [
+                "OFE45081",
+                "2385336L",
+                "5TQ6306B",
+                "25G2571T",
+                "BCQ55105"
+            ],
+            "title": "정청래發 합당론에 범여권 술렁…與 내부 공개 반발도"
+        },
+        {
+            "_id": "6972d1fd845960002899770f",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728398?sid=100",
+            "created_at": "2026-01-23T10:42:19.251000",
+            "description": "장철민 의원도 \"최고위원들도 기자회견 20분 전에 알았고, 국회의원들도 뉴스를 보고서야 합당 추진을 알았다... 예정했던 전현희 의원은 일정을 미루고 \"진정한 당원주권정당이라면 합당은 당원들의 의견수렴과 숙의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6047523",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T12:05:00",
+            "related_members": [
+                "OFE45081",
+                "2385336L",
+                "8BF5855P",
+                "2NV6751W",
+                "25G2571T",
+                "YS38221N",
+                "BCQ55105"
+            ],
+            "title": "정청래, 조국혁신당 합당 독단 추진…與 의원들 강력 반발"
+        },
+        {
+            "_id": "6972d2008459600028997732",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723757?sid=100",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 김교흥 의원, [인천광역시 현안 관련 입장 발표 기자회견] 11:00 허종식 의원, [인천대교·영종대교 통행료... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485644",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T05:00:00",
+            "related_members": [
+                "E1J8836Y",
+                "N2P9317N",
+                "1A82234K",
+                "5KV82250",
+                "6AU2417B",
+                "VCP96419",
+                "JSA8739I",
+                "RQQ3807K",
+                "3TP65086",
+                "P8A4624C",
+                "O7R5461J",
+                "HSW1214Q",
+                "TJW93720",
+                "25G2571T",
+                "X1K3667J"
+            ],
+            "title": "[오늘의 주요일정]국회(1월22일 목요일)"
+        },
+        {
+            "_id": "6972d2008459600028997733",
+            "link": "https://n.news.naver.com/mnews/article/421/0008727404?sid=100",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 김교흥 의원, [인천광역시 현안 관련 입장 발표 기자회견] 11:00 허종식 의원, [인천대교·영종대교 통행료... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046840",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T05:00:00",
+            "related_members": [
+                "E1J8836Y",
+                "N2P9317N",
+                "1A82234K",
+                "5KV82250",
+                "6AU2417B",
+                "VCP96419",
+                "JSA8739I",
+                "RQQ3807K",
+                "3TP65086",
+                "P8A4624C",
+                "O7R5461J",
+                "HSW1214Q",
+                "TJW93720",
+                "25G2571T",
+                "X1K3667J"
+            ],
+            "title": "[오늘의 국회일정] (22일, 목)"
+        },
+        {
+            "_id": "6972d1fb84596000289976fa",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723697?sid=100",
+            "created_at": "2026-01-23T10:42:17.413000",
+            "description": "갈 길이 멀다\"라며 \"당정청이 원팀·원보이스로 대통령을 든든하게 뒷받침하고, 국회의원들은 당원들한테... 박홍근·서영교·박주민·전현희·김영배 의원과 한정애 정책위의장, 김영진 교육연수원장, 황희 서울시당... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485650",
+            "press": "뉴시스",
+            "pubDate": "2026-01-21T22:59:00",
+            "related_members": [
+                "6AU2417B",
+                "B7D7534L",
+                "XPP2564T",
+                "2385336L",
+                "25G2571T",
+                "S824682L",
+                "TKJ4800F",
+                "0VU8517U",
+                "5765663F",
+                "OIA3741M"
+            ],
+            "title": "정청래 \"제발 친명이니 친청이니 말라…원팀·원보이스 일치단결\""
+        },
+        {
+            "_id": "6972d1fb84596000289976fb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008727302?sid=100",
+            "created_at": "2026-01-23T10:42:17.413000",
+            "description": "제발 국회의원들은 당원들을 잘 모시라\"고 말했다. 지방선거 공천과 관련해선 \"억울한 컷오프를 없애고 다... 박홍근·서영교·김영배·전현희·박주민 의원 등 민주당 서울시장 후보군을 비롯해 한정애 정책위의장, 김영진... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046836",
+            "press": "뉴스1",
+            "pubDate": "2026-01-21T22:08:00",
+            "related_members": [
+                "6AU2417B",
+                "B7D7534L",
+                "2385336L",
+                "25G2571T",
+                "S824682L",
+                "TKJ4800F",
+                "XPP2564T",
+                "5765663F"
+            ],
+            "title": "정청래 \"제발 친명·친청 같은 거 하지말자…원팀으로 지선 승리\""
+        },
+        {
+            "_id": "6972d2338459600028997810",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723135?sid=100",
+            "created_at": "2026-01-23T10:43:13.320000",
+            "description": "전현희 더불어민주당 의원이 21일 'AI(인공지능) 클라우드형 5G 단독모드(SA, Stand Alone)'를 통한 3만 원대... 서울시장 출마 예정인 전 의원은 이날 국회 소통관 기자회견을 통해 \"AI 세계 3대 강국으로의 도약을 앞둔... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485197",
+            "press": "뉴시스",
+            "pubDate": "2026-01-21T15:27:00",
+            "related_members": [
+                "25G2571T"
+            ],
+            "title": "전현희 \"클라우드형 5G로 '통신 고속도로' 구축해야\""
+        },
+        {
+            "_id": "6972d2338459600028997811",
+            "link": "https://n.news.naver.com/mnews/article/421/0008725966?sid=100",
+            "created_at": "2026-01-23T10:43:13.320000",
+            "description": "오는 22일 서울시장 후보 출마 예정인 전현희 더불어민주당 의원은 21일 \"AI 클라우드형 5G 단독모드(SA, Stand... 전 의원은 이날 국회 기자회견에서 \"국민은 대부분 5G 요금을 내고 있지만 실제로는 설비의존형 5G... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046048",
+            "press": "뉴스1",
+            "pubDate": "2026-01-21T11:45:00",
+            "related_members": [
+                "25G2571T"
+            ],
+            "title": "'서울시장 출마' 전현희 \"3만원대 이하 데이터 무제한 요금제 도입해야..."
+        },
+        {
+            "_id": "6972d1fb84596000289976fc",
+            "link": "https://n.news.naver.com/mnews/article/036/0000053009?sid=100",
+            "created_at": "2026-01-23T10:42:17.413000",
+            "description": "선언했고 전현희 의원, 박용진 전 의원도 도전 채비를 하고 있다. 정원오(58) 서울 성동구청장은 여당 후보군 중 유일하게 국회의원 경험이 없지만, 존재감은 전·현직 의원들을 능가한다. 2025년 12월 이재명 대통령이... ",
+            "originallink": "https://h21.hani.co.kr/arti/politics/politics_general/58717.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-21T10:00:00",
+            "related_members": [
+                "B7D7534L",
+                "S824682L",
+                "TKJ4800F",
+                "25G2571T",
+                "6AU2417B"
+            ],
+            "title": "“오세훈도 신인이었다…대권 말고 시민 보는 서울시장 필요”"
+        },
         {
             "_id": "6970126f297082fcc2b34d53",
             "link": "https://mpmbc.co.kr/NewsArticle/1501569",
@@ -170,7 +568,7 @@
             "_id": "6970126f297082fcc2b34d54",
             "link": "https://kjmbc.co.kr/NewsArticle/1501597",
             "created_at": "2026-01-21T08:40:30.035000",
-            "description": "◀ SYNC ▶ 전현희 / 더불어민주당 국회의원('AI국민신문고법' 대표 발의자) \"AI 신문고가 구축되면 안전 관련 사전 징후들이 자동으로 검색되고, 해당 공무원에게 자동으로 전달됩니다. 그리고 공무원이 즉각적으로 대책을... ",
+            "description": "* 전현희 / 더불어민주당 국회의원('AI국민신문고법' 대표 발의자) \"AI 신문고가 구축되면 안전 관련 사전 징후들이 자동으로 검색되고, 해당 공무원에게 자동으로 전달됩니다. 그리고 공무원이 즉각적으로 대책을 세울 수... ",
             "originallink": "https://kjmbc.co.kr/NewsArticle/1501597",
             "press": "MBC",
             "pubDate": "2026-01-21T07:45:00",
@@ -200,7 +598,7 @@
             "_id": "6970122f297082fcc2b34c25",
             "link": "https://n.news.naver.com/mnews/article/023/0003954230?sid=100",
             "created_at": "2026-01-21T08:39:25.682000",
-            "description": "지방선거 공천 놓고 명·청 긴장감 이재명 대통령이 더불어민주당 한준호 의원에게 ‘대통령 1호 감사패’를... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게... ",
+            "description": "한 의원을 콕 집어 3개월 전 성과를 포상했다는 이유에서다. 민주당에선 추미애(6선)·권칠승(3선)·김병주... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게 도대체... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/21/TK4M4QOYUFBIXHEZ7GWLEWUJTI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-21T00:49:00",
@@ -282,7 +680,7 @@
             "_id": "6970122a297082fcc2b34bf4",
             "link": "https://n.news.naver.com/mnews/article/056/0012107526?sid=100",
             "created_at": "2026-01-21T08:39:21.165000",
-            "description": "서영교는 국회의원 중에 입법 활동 그리고 공약 이행률 등 압도적입니다. 서울 시민을 섬기는 행정으로 서울... 박주민 의원, 박홍근 의원, 전현희 의원 전부 다 최고위원들 하고 원내대표 하고 그리고 상임위원장 하고 이런... ",
+            "description": "서영교는 국회의원 중에 입법 활동 그리고 공약 이행률 등 압도적입니다. 서울 시민을 섬기는 행정으로 서울... 그리고 또 김영배 의원도 저희랑 같이 뛰고 있는데요. 모든 분들이 만만치 않은 경쟁자이고 모든 분들이... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462418&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-19T10:17:00",
@@ -298,426 +696,6 @@
                 "KFM1081G"
             ],
             "title": "[전격시사] 서영교 더불어민주당 의원 - “오세훈 서울시장은 명태균 작..."
-        },
-        {
-            "_id": "69701237297082fcc2b34c5d",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106944&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-21T08:39:34.123000",
-            "description": "□ 박용진 : 국회의원 수가 워낙 많고 정부 여당이고 그러다 보니까 당연히 이견이 있고, 충돌이 있고, 논쟁이... 의원, 박홍근 의원, 서영교 의원까지. □ 박용진 : 김영배 의원님도 선언을 했어요. ◆ 김영수 : 전현희 의원도... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106944&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-19T09:30:00",
-            "related_members": [
-                "TKJ4800F",
-                "25G2571T",
-                "B7D7534L",
-                "S824682L",
-                "6AU2417B",
-                "SLW27496",
-                "XBT9550Q"
-            ],
-            "title": "박용진 \"한동훈 사과? '정치 미숙' 이상한 사람... 반성문 미진하면 가중..."
-        },
-        {
-            "_id": "69701237297082fcc2b34c5e",
-            "link": "https://n.news.naver.com/mnews/article/052/0002302570?sid=100",
-            "created_at": "2026-01-21T08:39:34.123000",
-            "description": "□ 박용진 : 국회의원 수가 워낙 많고 정부 여당이고 그러다 보니까 당연히 이견이 있고, 충돌이 있고, 논쟁이... 의원, 박홍근 의원, 서영교 의원까지. □ 박용진 : 김영배 의원님도 선언을 했어요. ◆ 김영수 : 전현희 의원도... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601190747166762",
-            "press": "YTN",
-            "pubDate": "2026-01-19T07:47:00",
-            "related_members": [
-                "TKJ4800F",
-                "25G2571T",
-                "B7D7534L",
-                "S824682L",
-                "6AU2417B",
-                "SLW27496",
-                "XBT9550Q"
-            ],
-            "title": "박용진 \"한동훈 사과? '정치 미숙' 이상한 사람... 반성문 미진하면 가중..."
-        },
-        {
-            "_id": "696c5bec297082fcc2b19b89",
-            "link": "https://n.news.naver.com/mnews/article/262/0000019090?sid=100",
-            "created_at": "2026-01-18T13:05:00.817000",
-            "description": "당 지도부, 국회의원, 당원들의 대체적인 뜻은 이(당게) 문제를 하루빨리 정리해야 된다는 것이다.” 신... 신 의원은 5% 지지율을 기록하며 서영교(3.1%), 전현희(3.0%), 김영배(2.0%) 등 여권 중진들보다 앞선 지지율을 기록한... ",
-            "originallink": "https://shindonga.donga.com/3/all/13/6061345/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-18T09:01:00",
-            "related_members": [
-                "H5476989",
-                "8Q88373R",
-                "25G2571T",
-                "B7D7534L",
-                "TKJ4800F",
-                "OWD1018N",
-                "9YO73104",
-                "URV1689Q"
-            ],
-            "title": "신동욱 “국민이 ‘됐다’ 할 때까지 계엄에 미안한 마음 가져야”"
-        },
-        {
-            "_id": "696c5be2297082fcc2b19b57",
-            "link": "https://n.news.naver.com/mnews/article/022/0004098268?sid=100",
-            "created_at": "2026-01-18T13:04:50.882000",
-            "description": "김병기 전 원내대표와 전현희·김병주·한준호 최고위원으로 있던 전임 지도부 시절 이미 1인1표제 도입을... 대의원 입장에서는 전당대회에서 국회·지방의원, 지자체장, 당직자 등 ‘오랜 기간 당에 헌신하고 당비를 내온... ",
-            "originallink": "https://www.segye.com/newsView/20260116514259?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-17T08:44:00",
-            "related_members": [
-                "JG77046J",
-                "2385336L",
-                "8P37634C",
-                "RJH6314D",
-                "MLH1404S",
-                "25G2571T",
-                "BCQ55105",
-                "GF286398",
-                "8Q88373R",
-                "GOC54665",
-                "5TQ6306B",
-                "N2P9317N",
-                "H5476989",
-                "FYI20317"
-            ],
-            "title": "정청래, 1인1표제 재추진 의결에도 첫 최고위부터 ‘삐그덕’"
-        },
-        {
-            "_id": "696902bc297082fcc2b19275",
-            "link": "https://n.news.naver.com/mnews/article/032/0003421872?sid=100",
-            "created_at": "2026-01-16T00:07:40.401000",
-            "description": "서영교 더불어민주당 의원이 15일 서울시장 출마를 선언했다. 서 의원은 이날 국회에서 “서울시를 세계 1등... 서 의원 외 민주당의 서울시장 출마 후보군은 김영배·박주민·박홍근·전현희 의원과 정원오 성동구청장... ",
-            "originallink": "https://www.khan.co.kr/article/202601152030001",
-            "press": "경향신문",
-            "pubDate": "2026-01-15T20:30:00",
-            "related_members": [
-                "TKJ4800F",
-                "6AU2417B",
-                "B7D7534L",
-                "S824682L",
-                "25G2571T"
-            ],
-            "title": "서영교 “서울을 세계 1등 도시로 만들겠다”…서울시장 출마 선언"
-        },
-        {
-            "_id": "696902b8297082fcc2b19272",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106902&s_mcd=0263&s_hcd=01",
-            "created_at": "2026-01-16T00:07:36.296000",
-            "description": "그동안 출마 선언은 박주민 의원, 박용진 의원, 전현희 의원, 박홍근 의원, 김영배 의원 다 하셨고요. 홍익표... 국회의원 활동하는 걸 보면 윤석열 정권과 싸우면서 가장 속 시원하게 한다고 하는 의미가 있을 것 같고요.... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106902&s_mcd=0263&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-15T20:30:00",
-            "related_members": [
-                "TKJ4800F",
-                "8Q88373R",
-                "S824682L",
-                "B7D7534L",
-                "6AU2417B",
-                "25G2571T",
-                "SLW27496",
-                "KFM1081G",
-                "2385336L"
-            ],
-            "title": "서영교 \"오세훈, 국힘 지도부와 각 세워...서울시장 후보에서 밀려난 듯..."
-        },
-        {
-            "_id": "696902b8297082fcc2b19273",
-            "link": "https://n.news.naver.com/mnews/article/052/0002301384?sid=100",
-            "created_at": "2026-01-16T00:07:36.296000",
-            "description": "그동안 출마 선언은 박주민 의원, 박용진 의원, 전현희 의원, 박홍근 의원, 김영배 의원 다 하셨고요. 홍익표... 국회의원 활동하는 걸 보면 윤석열 정권과 싸우면서 가장 속 시원하게 한다고 하는 의미가 있을 것 같고요.... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601151946034916",
-            "press": "YTN",
-            "pubDate": "2026-01-15T19:46:00",
-            "related_members": [
-                "TKJ4800F",
-                "8Q88373R",
-                "S824682L",
-                "B7D7534L",
-                "6AU2417B",
-                "25G2571T",
-                "SLW27496",
-                "KFM1081G",
-                "2385336L"
-            ],
-            "title": "서영교 \"오세훈, 국힘 지도부와 각 세워...서울시장 후보에서 밀려난 듯..."
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d12",
-            "link": "https://n.news.naver.com/mnews/article/055/0001324632?sid=100",
-            "created_at": "2026-01-15T18:04:13.253000",
-            "description": "▲ 더불어민주당 서영교 의원이 15일 국회 소통관에서 서울시장 출마 선언 기자회견을 하고 있다. 서영교... 선언했고, 전현희 의원과·박용진 전 의원, 정원오 성동구청장 등도 출마할 것으로 예상됩니다. (사진... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405732&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-15T14:29:00",
-            "related_members": [
-                "S824682L",
-                "6AU2417B",
-                "TKJ4800F",
-                "B7D7534L",
-                "25G2571T"
-            ],
-            "title": "민주당 서영교 \"집 걱정 없는 서울 만들겠다\"…서울시장 출마 선언"
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d13",
-            "link": "https://n.news.naver.com/mnews/article/021/0002764020?sid=100",
-            "created_at": "2026-01-15T18:04:13.253000",
-            "description": "서 의원은 이날 국회 소통관에서 기자회견을 열고 “서울의 역동적 대전환을 시작하기 위해 서울시장... 전현희 의원과 정원오 성동구청장도 출마를 준비 중이다. 박용진·홍익표 전 의원도 후보군에 오르내린다. 경선은... ",
-            "originallink": "https://www.munhwa.com/article/11561186?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-15T11:53:00",
-            "related_members": [
-                "S824682L",
-                "25G2571T",
-                "6AU2417B",
-                "B7D7534L",
-                "TKJ4800F"
-            ],
-            "title": "강경해야 유리?… 민주당 서울시장 후보들 1차경선 고심"
-        },
-        {
-            "_id": "6968ada0297082fcc2b18d53",
-            "link": "https://n.news.naver.com/mnews/article/011/0004578783?sid=100",
-            "created_at": "2026-01-15T18:04:29.579000",
-            "description": "서울경찰청 공공범죄수사대는 이날 김 의원의 자택과 국회 의원회관, 지역구 사무실 등 6곳에 수사관을 보내... 전현희 의원은 이날 라디오 인터뷰에서 “이번 제명 처분은 스스로 선당후사 결단을 하지 않은 상황에서의... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7AUKM4TA",
-            "press": "서울경제",
-            "pubDate": "2026-01-14T19:02:00",
-            "related_members": [
-                "8Q88373R",
-                "5TQ6306B",
-                "25G2571T"
-            ],
-            "title": "김병기 자택 등 6곳 압수수색…前보좌진 \"의혹 대부분 사실\""
-        },
-        {
-            "_id": "6968ada2297082fcc2b18d58",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104909?sid=100",
-            "created_at": "2026-01-15T18:04:31.608000",
-            "description": "민주당 전현희 의원은 국회에서 기자회견을 열고 “지금 서울시 버스는 사실상 준공영제로서 서울시의 버스 요금이나 기사들의 임금, 버스 관련 제도, 모든 책임은 서울시가 주무 부처”라면서 “오세훈 서울시장에게 이... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458858&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-14T16:22:00",
-            "related_members": [
-                "6AU2417B",
-                "25G2571T"
-            ],
-            "title": "민주당 “서울 버스파업은 오세훈 책임…운송원가 재산정해야”"
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d15",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714311?sid=100",
-            "created_at": "2026-01-15T18:04:13.533000",
-            "description": "정성호 법무부 장관은 이날 오전 국회에서 민주당 일부 의원들과 만난 후 기자들에게 \"(검찰개혁 안과 관련) 다양한 의견들이 있는 것은 자연스러운 것이다\"라며 \"대통령께서 숙의하면 좋겠다고 했는데 이제 숙의가 시작된... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039038",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T15:39:00",
-            "related_members": [
-                "5765663F",
-                "URV1689Q",
-                "V429892C",
-                "5TQ6306B",
-                "1A82234K",
-                "25G2571T"
-            ],
-            "title": "\"괴물 중수청\" 정부 檢개혁안 후폭풍…\"수사·기소 분리가 대원칙\""
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d17",
-            "link": "https://n.news.naver.com/mnews/article/421/0008713509?sid=100",
-            "created_at": "2026-01-15T18:04:13.533000",
-            "description": "전현희 의원은 CBS라디오에서 \"이번 제명 처분은 스스로 선당후사 결단을 하지 않은 상황에서의 고육지책... 그는 \"제명은 국회의원이나 민주당 당원에 대한 정치적으로 마지막을 끊는 문제이기 때문에 절차와 과정을... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6038675",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T11:50:00",
-            "related_members": [
-                "5765663F",
-                "8Q88373R",
-                "5TQ6306B",
-                "25G2571T"
-            ],
-            "title": "'김병기 반발' 징계 회의 29일 다시…당내선 \"나가야\" \"승복해야\"(종합)"
-        },
-        {
-            "_id": "6968ada0297082fcc2b18d55",
-            "link": "https://n.news.naver.com/mnews/article/015/0005236943?sid=100",
-            "created_at": "2026-01-15T18:04:29.579000",
-            "description": "정치권 일각에서 성추행 의혹에 휩싸인 장경태 의원과의 형평성 문제를 제기하고 있는 점도 당에 부담으로... 동작구의원 2명으로부터 3000만원을 받고 돌려줬다는 의혹과 관련해서다. 압수수색 대상엔 국회 내 의원실과... ",
-            "originallink": "https://www.hankyung.com/article/202601149429i",
-            "press": "한국경제",
-            "pubDate": "2026-01-14T11:17:00",
-            "related_members": [
-                "25G2571T",
-                "8Q88373R",
-                "5TQ6306B",
-                "RPN2293B"
-            ],
-            "title": "이번엔 국회 압수수색…김병기發 민주당 내홍 지속"
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d18",
-            "link": "https://n.news.naver.com/mnews/article/448/0000583510?sid=100",
-            "created_at": "2026-01-15T18:04:13.534000",
-            "description": "전현희 의원도 CBS 라디오 ‘박성태의 뉴스쇼’에서 “이번 제명은 본인이 선당후사의 결단을 하지 않은... 그는 “제명은 국회의원은 물론 민주당 당원으로서의 정치적 생명을 정리하는 중대한 사안”이라며 “절차와... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/14/2026011490073.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-14T10:22:00",
-            "related_members": [
-                "5765663F",
-                "8Q88373R",
-                "25G2571T"
-            ],
-            "title": "\"제명돼도 못 떠난다\"는 김병기…與 난감"
-        },
-        {
-            "_id": "6966ec7a887d07f7ba2fb2a0",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712934?sid=100",
-            "created_at": "2026-01-14T10:08:10.816000",
-            "description": "전현희 의원은 CBS라디오 '박성태의 뉴스쇼'에서 \"이번 제명 처분은 본인이 스스로 선당후사 결단을 하지 않은... 그는 \"제명은 국회의원이나 민주당 당원에 대한 정치적으로 마지막을 끊는 문제이기 때문에 절차와 과정을... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6038373",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T09:48:00",
-            "related_members": [
-                "8Q88373R",
-                "5765663F",
-                "8BF5855P",
-                "25G2571T"
-            ],
-            "title": "김병기 \"제명돼도 못 떠나\"…징계심사 2라운드' 난감한 與"
-        },
-        {
-            "_id": "6966ec72887d07f7ba2fb26c",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104830?sid=100",
-            "created_at": "2026-01-14T10:08:03.097000",
-            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 전현희(더불어민주당 국회의원) ◇ 박성태&gt; 1부에서 야당 목소리... 구체적으로는 입법 예고한 공소청 그리고 중수청 관련된 법안에 대해서 김용민 의원은 이런 얘기를 했습니다.... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455861?utm_source=naver&utm_medium=article&utm_campaign=20260114094138",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-14T09:42:00",
-            "related_members": [
-                "25G2571T",
-                "8Q88373R",
-                "MNZ4401T",
-                "OFE45081",
-                "KFM1081G",
-                "V429892C"
-            ],
-            "title": "전현희 \"김병기, 재심 신청? 당의 결정에 승복하라\""
-        },
-        {
-            "_id": "6966ec77887d07f7ba2fb282",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
-            "created_at": "2026-01-14T10:08:08.240000",
-            "description": "[서울=뉴시스] ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475751",
-            "press": "뉴시스",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "IUX1829H",
-                "9D939735",
-                "88O1334C",
-                "NPD75153",
-                "P8A4624C",
-                "5N65159P",
-                "D6U6678O",
-                "FU87526G",
-                "04T3751T",
-                "HXT76735",
-                "1A82234K",
-                "2KM3589W",
-                "25G2571T",
-                "BRU2690F",
-                "MSY7784L",
-                "RBM5454A",
-                "WJL30106",
-                "WJG74792"
-            ],
-            "title": "[오늘의 주요일정]국회(1월14일 수요일)"
-        },
-        {
-            "_id": "6966ec77887d07f7ba2fb281",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
-            "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037918",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "WJL30106",
-                "IUX1829H",
-                "MSY7784L",
-                "9D939735",
-                "88O1334C",
-                "04T3751T",
-                "NPD75153",
-                "P8A4624C",
-                "5N65159P",
-                "D6U6678O",
-                "FU87526G",
-                "HXT76735",
-                "1A82234K",
-                "2KM3589W",
-                "25G2571T",
-                "BRU2690F",
-                "RBM5454A",
-                "WJG74792"
-            ],
-            "title": "[오늘의 국회일정] (14일, 수)"
-        },
-        {
-            "_id": "69659499887d07f7ba2fab15",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
-            "created_at": "2026-01-13T09:40:55.415000",
-            "description": "지금 국회의원들 5년 10년 사건도 불거지면 다 징계할 거냐 이렇게 나오는 것이잖아요. 법률적 문제인데 지금... ◇ 박재홍&gt; 원내 운영 수석부대표로 천준호 의원이 임명됐는데 이분이 이재명 대표 시절에 비서실장했던... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455087?utm_source=naver&utm_medium=article&utm_campaign=20260113080014",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-13T08:01:00",
-            "related_members": [
-                "GOC54665",
-                "2385336L",
-                "N2P9317N",
-                "8P37634C",
-                "MNZ4401T",
-                "8Q88373R",
-                "BCQ55105",
-                "URV1689Q",
-                "URX8075K",
-                "GF286398",
-                "2NV6751W",
-                "VDN5593C",
-                "H5476989",
-                "A494529E",
-                "NUB4941Z",
-                "6AU2417B",
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "KFM1081G",
-                "QWL7778X",
-                "3C23171A"
-            ],
-            "title": "이동형 \"친청이 반명이냐? '명청 대결' 했다면 명이 이겨\"[한판승부]"
-        },
-        {
-            "_id": "6964b556631fd174349961b7",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=106818&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-12T17:48:20.125000",
-            "description": "21대 국회의원 지냈고요. 지난해 대선 패배 이후 당의 혁신위원장을 맡기도 했죠? KDI 한국개발원 연구원... ◆ 김영수 : 그러면 장동혁 대표 체제에서 최근에 정책위의장도 새로 정점식 의원이 임명이 됐고요. 조광한 전... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106818&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-12T08:30:00",
-            "related_members": [
-                "25G2571T",
-                "6AU2417B",
-                "QWL7778X",
-                "OWD1018N",
-                "SLW27496",
-                "KFM1081G",
-                "9YO73104",
-                "8Q88373R",
-                "LJK4960Z"
-            ],
-            "title": "윤희숙 \"오세훈 식상해, 서울시장 출마 '기백' 모으는 중... 개혁신당과..."
         }
     ],
     "recent_videos": [
@@ -732,13 +710,83 @@
             "upload_date": null
         },
         {
-            "_id": "696596e7887d07f7ba2fae0e",
-            "url": "https://www.youtube.com/watch?v=P21UZUecTMc",
+            "_id": "696596e7887d07f7ba2fae0f",
+            "url": "https://www.youtube.com/watch?v=Nt4FURpdcdk",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-18T13:19:51.706000",
-            "duration": 74.0,
-            "title": "전현희 옆에 두고 민주당 작심비판하는 이주영 의원 #Shorts",
+            "collected_at": "2026-01-18T13:19:52.667000",
+            "duration": 95.0,
+            "title": "전합 회부 전 #스캔본 읽도록 지시? 날카롭게 지적하는 #전현희",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcd631fd1743497dbbc",
+            "url": "https://www.youtube.com/watch?v=x2FVQwcV8yQ",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-23T16:48:39.646000",
+            "duration": 202.0,
+            "title": "\"전현희 의원! 옆자린데 소름끼치지도 않습니까?\" 신동욱, 장경태 향한 융단폭격 [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f00b887d07f7ba2fb515",
+            "url": "https://www.youtube.com/watch?v=Yof0drSzchM",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-14T10:23:23.228000",
+            "duration": 174.0,
+            "title": "왜 나경원, 법사위 간사 부적격?...3분동안 팩폭하는 전현희",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f00b887d07f7ba2fb511",
+            "url": "https://www.youtube.com/watch?v=0h4P2htreGA",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-15T18:23:07.318000",
+            "duration": 150.0,
+            "title": "전현희 거수경례‥임성근·이종섭·이시원 10분간 '퇴장' (2024.06.21/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcd631fd1743497dbc2",
+            "url": "https://www.youtube.com/watch?v=lCQrKAI-4Kg",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-13T09:50:45.698000",
+            "duration": 96.0,
+            "title": "\"법사위 모든 활동 논의 못 해\".. 김병기 반발에 전현희 '단호' #Shorts (MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f00b887d07f7ba2fb518",
+            "url": "https://www.youtube.com/watch?v=hpg1REuZzmg",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-21T08:50:23.754000",
+            "duration": 11186.0,
+            "title": "[🔴LIVE] 전현희 \"극우세력 여전히 준동..'조희대 사법부' 내란종식 방해 막아야\"  | SBS 실시간 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcd631fd1743497dbc0",
+            "url": "https://www.youtube.com/watch?v=ZMJlO9yo2Uw",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-13T09:50:45.698000",
+            "duration": 145.0,
+            "title": "'전현희 감사' 의혹 최재해·유병호 공소 제기 요구‥\"전산 조작\" (2026.01.06/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f00b887d07f7ba2fb510",
+            "url": "https://www.youtube.com/watch?v=lllnjJQflSs",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-23T16:48:39.646000",
+            "duration": 132.0,
+            "title": "[자막] “송언석, 국민·민주당에 사과하라…제명 추진까지” 전현희 의원",
             "upload_date": null
         },
         {
@@ -756,19 +804,19 @@
             "url": "https://www.youtube.com/watch?v=Quia4Y1B3bY",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
+            "collected_at": "2026-01-23T16:48:39.646000",
             "duration": 179.0,
             "title": "전현희, 'OOO 죽었으면' 송언석 역대급 막말에 분노하며 '이 카드' 꺼내…",
             "upload_date": null
         },
         {
-            "_id": "6966f00b887d07f7ba2fb511",
-            "url": "https://www.youtube.com/watch?v=0h4P2htreGA",
+            "_id": "6966f00b887d07f7ba2fb512",
+            "url": "https://www.youtube.com/watch?v=iNcZLIu7s10",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-15T18:23:07.318000",
-            "duration": 150.0,
-            "title": "전현희 거수경례‥임성근·이종섭·이시원 10분간 '퇴장' (2024.06.21/뉴스데스크/MBC)",
+            "collected_at": "2026-01-23T16:48:39.646000",
+            "duration": 42901.0,
+            "title": "[🔴이슈PLAY] 민주당 분란 점입가경... 김병기 격노에 전현희가 던진 돌직구",
             "upload_date": null
         },
         {
@@ -782,76 +830,6 @@
             "upload_date": null
         },
         {
-            "_id": "6966f00b887d07f7ba2fb518",
-            "url": "https://www.youtube.com/watch?v=hpg1REuZzmg",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.754000",
-            "duration": 11186.0,
-            "title": "[🔴LIVE] 전현희 \"극우세력 여전히 준동..'조희대 사법부' 내란종식 방해 막아야\"  | SBS 실시간 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcd631fd1743497dbbc",
-            "url": "https://www.youtube.com/watch?v=x2FVQwcV8yQ",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
-            "duration": 202.0,
-            "title": "\"전현희 의원! 옆자린데 소름끼치지도 않습니까?\" 신동욱, 장경태 향한 융단폭격 [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f00b887d07f7ba2fb510",
-            "url": "https://www.youtube.com/watch?v=lllnjJQflSs",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
-            "duration": 132.0,
-            "title": "[자막] “송언석, 국민·민주당에 사과하라…제명 추진까지” 전현희 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcd631fd1743497dbc0",
-            "url": "https://www.youtube.com/watch?v=ZMJlO9yo2Uw",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-13T09:50:45.698000",
-            "duration": 145.0,
-            "title": "'전현희 감사' 의혹 최재해·유병호 공소 제기 요구‥\"전산 조작\" (2026.01.06/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f00b887d07f7ba2fb513",
-            "url": "https://www.youtube.com/watch?v=jawKO4cYKvo",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
-            "duration": 620.0,
-            "title": "[EP.9] 전현희 의원의 부캐(?) 탄생! 순둥美 한껏 끌어 올려↗ MC유정까지 사로잡은 매력 대공개 | 국집소2 | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f00b887d07f7ba2fb512",
-            "url": "https://www.youtube.com/watch?v=iNcZLIu7s10",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
-            "duration": 42901.0,
-            "title": "[🔴이슈PLAY] 민주당 분란 점입가경... 김병기 격노에 전현희가 던진 돌직구",
-            "upload_date": null
-        },
-        {
-            "_id": "6960adcd631fd1743497dbc2",
-            "url": "https://www.youtube.com/watch?v=lCQrKAI-4Kg",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-13T09:50:45.698000",
-            "duration": 96.0,
-            "title": "\"법사위 모든 활동 논의 못 해\".. 김병기 반발에 전현희 '단호' #Shorts (MBC뉴스)",
-            "upload_date": null
-        },
-        {
             "_id": "6966f00b887d07f7ba2fb516",
             "url": "https://www.youtube.com/watch?v=85VL4R2Czfw",
             "HG_NM": "전현희",
@@ -862,33 +840,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960adcd631fd1743497dbbe",
-            "url": "https://www.youtube.com/watch?v=oooLPhC33Zk",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
-            "duration": 160.0,
-            "title": "전현희 의원 vs 송석준 의원, 여야 의원들 청문회에서 고성으로 언쟁 벌이다 결국 정회 (현장영상) / SBS",
-            "upload_date": null
-        },
-        {
-            "_id": "696596e7887d07f7ba2fae0f",
-            "url": "https://www.youtube.com/watch?v=Nt4FURpdcdk",
-            "HG_NM": "전현희",
-            "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-18T13:19:52.667000",
-            "duration": 95.0,
-            "title": "전합 회부 전 #스캔본 읽도록 지시? 날카롭게 지적하는 #전현희",
-            "upload_date": null
-        },
-        {
             "_id": "6960adcd631fd1743497dbbb",
             "url": "https://www.youtube.com/watch?v=UCxDSg4ch-i57tzukpLRaxkw",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
+            "collected_at": "2026-01-23T16:48:39.646000",
             "duration": null,
             "title": "전현희TV",
+            "upload_date": null
+        },
+        {
+            "_id": "696596e7887d07f7ba2fae0e",
+            "url": "https://www.youtube.com/watch?v=P21UZUecTMc",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-18T13:19:51.706000",
+            "duration": 74.0,
+            "title": "전현희 옆에 두고 민주당 작심비판하는 이주영 의원 #Shorts",
             "upload_date": null
         },
         {
@@ -896,9 +864,19 @@
             "url": "https://www.youtube.com/watch?v=4TUDPsE8Xbg",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-21T08:50:23.043000",
+            "collected_at": "2026-01-23T16:48:39.646000",
             "duration": 656.0,
             "title": "[생중계] 전현희 더불어민주당 의원, 의료법·약사법 개정안 대표발의 기자회견 (2025.11.13 오후)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960adcd631fd1743497dbbe",
+            "url": "https://www.youtube.com/watch?v=oooLPhC33Zk",
+            "HG_NM": "전현희",
+            "MONA_CD": "25G2571T",
+            "collected_at": "2026-01-23T16:48:39.646000",
+            "duration": 160.0,
+            "title": "전현희 의원 vs 송석준 의원, 여야 의원들 청문회에서 고성으로 언쟁 벌이다 결국 정회 (현장영상) / SBS",
             "upload_date": null
         },
         {
@@ -912,15 +890,15 @@
             "upload_date": null
         },
         {
-            "_id": "6966f00b887d07f7ba2fb515",
-            "url": "https://www.youtube.com/watch?v=Yof0drSzchM",
+            "_id": "6966f00b887d07f7ba2fb513",
+            "url": "https://www.youtube.com/watch?v=jawKO4cYKvo",
             "HG_NM": "전현희",
             "MONA_CD": "25G2571T",
-            "collected_at": "2026-01-14T10:23:23.228000",
-            "duration": 174.0,
-            "title": "왜 나경원, 법사위 간사 부적격?...3분동안 팩폭하는 전현희",
+            "collected_at": "2026-01-21T08:50:23.043000",
+            "duration": 620.0,
+            "title": "[EP.9] 전현희 의원의 부캐(?) 탄생! 순둥美 한껏 끌어 올려↗ MC유정까지 사로잡은 매력 대공개 | 국집소2 | 국회방송",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:36.545407"
+    "exported_at": "2026-01-26T14:36:44.292594"
 }

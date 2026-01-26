@@ -45,42 +45,50 @@
             "조국",
             "혁신",
             "아들",
-            "의원실",
-            "인사말",
             "포럼",
-            "미국",
+            "의원실",
             "세계",
-            "회관",
-            "윤석열",
-            "인터뷰",
-            "인사",
+            "대표",
+            "인사말",
+            "미국",
             "외교",
-            "격랑",
-            "극단"
+            "총회",
+            "인사",
+            "트럼프",
+            "회관",
+            "윤석열"
         ],
         "keyword_frequency": [
             {
                 "text": "조국",
-                "value": 41
+                "value": 49
             },
             {
                 "text": "혁신",
-                "value": 35
+                "value": 43
             },
             {
                 "text": "아들",
                 "value": 15
             },
             {
+                "text": "포럼",
+                "value": 14
+            },
+            {
                 "text": "의원실",
                 "value": 11
             },
             {
-                "text": "인사말",
+                "text": "세계",
+                "value": 11
+            },
+            {
+                "text": "대표",
                 "value": 10
             },
             {
-                "text": "포럼",
+                "text": "인사말",
                 "value": 10
             },
             {
@@ -88,8 +96,20 @@
                 "value": 9
             },
             {
-                "text": "세계",
+                "text": "외교",
                 "value": 9
+            },
+            {
+                "text": "총회",
+                "value": 8
+            },
+            {
+                "text": "인사",
+                "value": 8
+            },
+            {
+                "text": "트럼프",
+                "value": 8
             },
             {
                 "text": "회관",
@@ -98,51 +118,98 @@
             {
                 "text": "윤석열",
                 "value": 8
-            },
-            {
-                "text": "인터뷰",
-                "value": 7
-            },
-            {
-                "text": "인사",
-                "value": 7
-            },
-            {
-                "text": "외교",
-                "value": 7
-            },
-            {
-                "text": "격랑",
-                "value": 7
-            },
-            {
-                "text": "극단",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:13.254805",
+        "last_analyzed_at": "2026-01-26T14:36:19.396961",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
-                0,
-                0,
-                0,
+                1,
                 0,
                 1,
+                0,
+                2,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fce48459600028997efb",
+            "link": "https://n.news.naver.com/mnews/article/003/0013728323?sid=100",
+            "created_at": "2026-01-26T14:34:26.118000",
+            "description": "조국 대표는 24일 국회에서 긴급 의원총회를 열고 민주당의 합당 제안을 논의한 뒤 이같이 말했다. 조 대표는... 비공개 의원총회에는 조 대표와 서 원내대표 외에도 김준형·신장식·정춘생·이혜민·백선희·강경숙·황운하... ",
+            "originallink": "https://www.newsis.com/view/NISX20260124_0003488784",
+            "press": "뉴시스",
+            "pubDate": "2026-01-24T13:36:00",
+            "related_members": [
+                "8A05621B",
+                "YN160848",
+                "XG348314",
+                "T2T8225E",
+                "NPD75153",
+                "1A82234K",
+                "0YT3774N",
+                "DMP1439I",
+                "7GW5372Y",
+                "KNP22261",
+                "80C5885Z"
+            ],
+            "title": "조국혁신당 '합당 논의' 의원총회…조국 \"혁신당 DNA는 보존·확대\"(종합..."
+        },
+        {
+            "_id": "6976fce48459600028997efd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013728282?sid=100",
+            "created_at": "2026-01-26T14:34:26.118000",
+            "description": "서왕진 조국혁신당 원내대표는 이날 국회에서 열린 의원총회에서 \"정 대표의 합당 제안에 대한 논의를 위해... 이날 비공개 의원총회에는 서 원내대표 외에도 김준형·신장식·정춘생·이혜민·백선희·강경숙·황운하... ",
+            "originallink": "https://www.newsis.com/view/NISX20260124_0003488748",
+            "press": "뉴시스",
+            "pubDate": "2026-01-24T11:29:00",
+            "related_members": [
+                "8A05621B",
+                "YN160848",
+                "0YT3774N",
+                "XG348314",
+                "T2T8225E",
+                "80C5885Z",
+                "NPD75153",
+                "7GW5372Y",
+                "1A82234K",
+                "DMP1439I",
+                "KNP22261"
+            ],
+            "title": "조국혁신당 '합당 논의' 의원총회…서왕진 \"엄중히 검토\""
+        },
+        {
+            "_id": "6972d1f884596000289976ee",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728940?sid=100",
+            "created_at": "2026-01-23T10:42:14.213000",
+            "description": "포럼에는 더불어민주당과 조국혁신당 소속 국회의원들과 학계·시민사회 인사들이 참석해, 북한의 제9차... 포럼에는 윤후덕·김상욱·김준형·이용선·이재강·이재정·조정식·홍기원 의원을 비롯해, 박인휘 이화여대... ",
+            "originallink": "https://www.news1.kr/diplomacy/unikorea/6047699",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T14:35:00",
+            "related_members": [
+                "VDN5593C",
+                "UQ282145",
+                "5MD4184K",
+                "9JF4562W",
+                "ARP89147",
+                "3LP22204",
+                "8A05621B",
+                "O7R5461J",
+                "IN328264"
+            ],
+            "title": "민화협 통일정책포럼 개최…정동영 \"선제적 평화 조치 일관되게 추진\""
+        },
         {
             "_id": "6970123e297082fcc2b34c95",
             "link": "https://n.news.naver.com/mnews/article/421/0008723943?sid=100",
@@ -161,7 +228,7 @@
             "_id": "6964b552631fd17434996161",
             "link": "https://n.news.naver.com/mnews/article/028/0002785988?sid=102",
             "created_at": "2026-01-12T17:48:15.524000",
-            "description": "“동료 국회의원 여러분, 이번 국회에서는 피하지 말고 차별금지법 제정합시다. 시민 여러분, 제정까지 함께... 이번 법안엔 이주희 더불어민주당 의원, 김재원·서왕진·김준형 조국혁신당 의원, 전종덕·정혜경·윤종오... ",
+            "description": "손 의원이 국회 공론화위원회 설치를 제안하고, 여야 의원들에게 직접 손편지를 보내며 발의정족수 10명을 모아 비로소 지난 7일 법안을 발의했다. 이번 법안엔 이주희 더불어민주당 의원, 김재원·서왕진·김준형... ",
             "originallink": "https://www.hani.co.kr/arti/society/women/1239242.html",
             "press": "한겨레",
             "pubDate": "2026-01-12T16:14:00",
@@ -253,7 +320,7 @@
             "_id": "6964b554631fd17434996183",
             "link": "https://n.news.naver.com/mnews/article/421/0008684962?sid=100",
             "created_at": "2026-01-12T17:48:17.445000",
-            "description": "조국혁신당은 29일 조국 대표와 이해민 사무총장이 서울 광화문 일대에서 구세군 자선냄비 봉사활동에... 이어 국회의원회관에서 조국혁신당 신년회를 열어 한 해 성과와 새해 목표를 공유한다. 혁신당은 1월 4일 국회... ",
+            "description": "정춘생 최고위원과 김준형 정책위의장은 동대문역 인근에서 봉사활동을 진행했다. 이날 오후 6시에는 광주... 이어 국회의원회관에서 조국혁신당 신년회를 열어 한 해 성과와 새해 목표를 공유한다. 혁신당은 1월 4일 국회... ",
             "originallink": "https://www.news1.kr/politics/assembly/6022760",
             "press": "뉴스1",
             "pubDate": "2025-12-29T16:08:00",
@@ -263,19 +330,6 @@
                 "0698755I"
             ],
             "title": "조국, 연말 맞아 구세군 자선냄비 봉사…\"온기 회복에 앞장\" (종합)"
-        },
-        {
-            "_id": "6964b554631fd17434996184",
-            "link": "https://n.news.naver.com/mnews/article/003/0013667807?sid=100",
-            "created_at": "2026-01-12T17:48:17.445000",
-            "description": "김준형 조국혁신당 의원이 19일 서울 여의도 국회 의원회관에서 국회외평포럼, 외교광장, 김준형 조국혁신당 의원실 주최로 열린 '격랑과 극단의 세계와 대한민국' 포럼에서 인사말을 하고 있다. 2025.12.19.... ",
-            "originallink": "https://www.newsis.com/view/NISI20251219_0021101411",
-            "press": "뉴시스",
-            "pubDate": "2025-12-19T15:03:00",
-            "related_members": [
-                "8A05621B"
-            ],
-            "title": "인사말하는 김준형 의원"
         },
         {
             "_id": "6964b554631fd17434996185",
@@ -324,6 +378,19 @@
             "created_at": "2026-01-12T17:48:17.445000",
             "description": "김준형 조국혁신당 의원이 19일 서울 여의도 국회 의원회관에서 국회외평포럼, 외교광장, 김준형 조국혁신당 의원실 주최로 열린 '격랑과 극단의 세계와 대한민국' 포럼에서 인사말을 하고 있다. 2025.12.19.... ",
             "originallink": "https://www.newsis.com/view/NISI20251219_0021101410",
+            "press": "뉴시스",
+            "pubDate": "2025-12-19T15:03:00",
+            "related_members": [
+                "8A05621B"
+            ],
+            "title": "인사말하는 김준형 의원"
+        },
+        {
+            "_id": "6964b554631fd17434996184",
+            "link": "https://n.news.naver.com/mnews/article/003/0013667807?sid=100",
+            "created_at": "2026-01-12T17:48:17.445000",
+            "description": "김준형 조국혁신당 의원이 19일 서울 여의도 국회 의원회관에서 국회외평포럼, 외교광장, 김준형 조국혁신당 의원실 주최로 열린 '격랑과 극단의 세계와 대한민국' 포럼에서 인사말을 하고 있다. 2025.12.19.... ",
+            "originallink": "https://www.newsis.com/view/NISI20251219_0021101411",
             "press": "뉴시스",
             "pubDate": "2025-12-19T15:03:00",
             "related_members": [
@@ -415,133 +482,63 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac41631fd1743497d5ac",
-            "url": "https://www.youtube.com/watch?v=UCNC8h39KqUttdW_pX0B4ksw",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.068000",
-            "duration": null,
-            "title": "김준형TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5ad",
-            "url": "https://www.youtube.com/watch?v=bsUznu7Ag2E",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-09T16:20:29.751000",
-            "duration": 252.0,
-            "title": "국회의원 김준형 [한미동맹 지지 결의안] 반대토론",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5ae",
-            "url": "https://www.youtube.com/watch?v=9dL_ERLk8iI",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.068000",
-            "duration": 3304.0,
-            "title": "중일 갈등 속, 우리는 어떻게 해야하나? l 조국혁신당 김준형 국회의원 [심층인터뷰]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5af",
-            "url": "https://www.youtube.com/watch?v=pjz9Er72iKw",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.068000",
-            "duration": 261.0,
-            "title": "[자막] “윤석열 굴종 외교가 부른 조지아 한국인 구금” 김준형 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5b0",
-            "url": "https://www.youtube.com/watch?v=VscDpWyJ4Dg",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.068000",
-            "duration": 4186.0,
-            "title": "정치배움터 1강 김준형 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5b1",
-            "url": "https://www.youtube.com/watch?v=6F-37SXDVVc",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.068000",
-            "duration": 2864.0,
-            "title": "'한미 관세협상 극적 타결'의 내막, 그리고 앞으로 벌어질 일 | 조국혁신당, 김준형 의원(전. 국립외교원 원장) [긴급인터뷰]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5b2",
-            "url": "https://www.youtube.com/watch?v=DsEmvYF5e5s",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.757000",
-            "duration": 964.0,
-            "title": "김준형 \"마두로 납치에 김정은 긴장? 상황 전혀 달라\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5b3",
-            "url": "https://www.youtube.com/watch?v=5AJ4h3uMvo8",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-09T16:20:30.578000",
-            "duration": 3306.0,
-            "title": "\"전쟁 터진 남미, 문 열린 중국\" 2026년 신냉전 속 한국의 생존 전략은? | 김준형 조국혁신당 국회의원 [심층인터뷰]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac41631fd1743497d5b4",
-            "url": "https://www.youtube.com/watch?v=AyZWpNqkYJc",
-            "HG_NM": "김준형",
-            "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.757000",
-            "duration": 1293.0,
-            "title": "김준형 \"조국 사면 필요..재보궐이든 지방선거든 출마해야\"",
-            "upload_date": null
-        },
-        {
             "_id": "69659576887d07f7ba2fac2f",
             "url": "https://www.youtube.com/watch?v=CftUQSThf34",
             "HG_NM": "김준형",
             "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.068000",
+            "collected_at": "2026-01-23T16:42:02.040000",
             "duration": 1535.0,
             "title": "김준형  “극우화 日, 다카이치 계속 악수 두는 듯” \"조국 VS 장동혁 토론 성사 가능성 높아\" [한판승부]",
             "upload_date": null
         },
         {
-            "_id": "6966ee86887d07f7ba2fb3e2",
-            "url": "https://www.youtube.com/watch?v=LzJBRxdoMSg",
+            "_id": "6973264d845960002899799a",
+            "url": "https://www.youtube.com/watch?v=o2uBs4aNGsI",
             "HG_NM": "김준형",
             "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-18T13:12:14.556000",
-            "duration": 60.0,
-            "title": "[조국혁신당 김준형의원 대정부질문] 김준형의원, 반윤석열 정부 대표적 인사 선포! #대통령실",
+            "collected_at": "2026-01-23T16:42:02.950000",
+            "duration": 2784.0,
+            "title": "이 대통령 협상은 \"얻은 게 아니라 덜 뺏긴 것 뿐\" 금관에 숨긴 진짜 뜻?! (김준형) #이재명 #트럼프 #금관 #APEC #김창현의창 (1102_일)",
             "upload_date": null
         },
         {
-            "_id": "6966ee86887d07f7ba2fb3e3",
-            "url": "https://www.youtube.com/watch?v=H2k3VflBjM4",
+            "_id": "6973264d8459600028997999",
+            "url": "https://www.youtube.com/watch?v=v2ARZ7y6xOQ",
             "HG_NM": "김준형",
             "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-14T10:16:54.170000",
-            "duration": 3697.0,
-            "title": "이재명-트럼프, 윤석열-바이든과 무엇이 근본적으로 다를까? 그리고 조국혁신당의 운명은 [미국의 배신과 흔들리는 세계] 1부 | 김준형 국회의원 | 알릴레오 북’s 시즌 6 30회",
+            "collected_at": "2026-01-23T16:42:02.040000",
+            "duration": 1190.0,
+            "title": "[갓생쇼] ①한중정상회담이 남긴 것들 ②거침없는 ‘돈로주의’, ‘돈로 독트린’ 어디로 갈까｜김준형 조국혁신당 의원｜KBS 260106 방송",
             "upload_date": null
         },
         {
-            "_id": "6966ee86887d07f7ba2fb3e4",
-            "url": "https://www.youtube.com/watch?v=uO6wycOHfYU",
+            "_id": "6973264d8459600028997998",
+            "url": "https://www.youtube.com/watch?v=XyxlV-WG93A",
             "HG_NM": "김준형",
             "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-15T18:16:08.311000",
-            "duration": 2831.0,
-            "title": "\"李, 다카이치 만나 0000 말해라!\" 트럼프-尹 미친 평행이론, 계엄-탄핵도? 김여정 뉘앙스 바뀐 이유! 김준형X이승원 분석!｜[김은지의 뉴스IN] 260112 방송 #시사인",
+            "collected_at": "2026-01-23T16:42:02.040000",
+            "duration": 1655.0,
+            "title": "김준형 \"트럼프는 그냥 자연재해!! 불리한 협상에 왜 사인을 합니까? 3500억달러 해법...버티는 게 답!!\" #전체영상",
+            "upload_date": null
+        },
+        {
+            "_id": "6973264d8459600028997997",
+            "url": "https://www.youtube.com/watch?v=q0KSmu_UHnk",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.040000",
+            "duration": 3569.0,
+            "title": "[김준형 의원 대담] 격변하는 세계와 한반도 외교! #김준형 #외교 #외환죄 #관세협상 #모스탄",
+            "upload_date": null
+        },
+        {
+            "_id": "69701333297082fcc2b34df5",
+            "url": "https://www.youtube.com/watch?v=HX8dt-1AxoU",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.950000",
+            "duration": 2875.0,
+            "title": "한미정상회담 깨알 분석 \"한장면 한장면.. 이렇게 보세요\" (by 김준형 & 박원곤)",
             "upload_date": null
         },
         {
@@ -555,15 +552,125 @@
             "upload_date": null
         },
         {
-            "_id": "69701333297082fcc2b34df5",
-            "url": "https://www.youtube.com/watch?v=HX8dt-1AxoU",
+            "_id": "6966ee86887d07f7ba2fb3e4",
+            "url": "https://www.youtube.com/watch?v=uO6wycOHfYU",
             "HG_NM": "김준형",
             "MONA_CD": "8A05621B",
-            "collected_at": "2026-01-21T08:43:45.757000",
-            "duration": 2875.0,
-            "title": "한미정상회담 깨알 분석 \"한장면 한장면.. 이렇게 보세요\" (by 김준형 & 박원곤)",
+            "collected_at": "2026-01-15T18:16:08.311000",
+            "duration": 2831.0,
+            "title": "\"李, 다카이치 만나 0000 말해라!\" 트럼프-尹 미친 평행이론, 계엄-탄핵도? 김여정 뉘앙스 바뀐 이유! 김준형X이승원 분석!｜[김은지의 뉴스IN] 260112 방송 #시사인",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee86887d07f7ba2fb3e3",
+            "url": "https://www.youtube.com/watch?v=H2k3VflBjM4",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.040000",
+            "duration": 3697.0,
+            "title": "이재명-트럼프, 윤석열-바이든과 무엇이 근본적으로 다를까? 그리고 조국혁신당의 운명은 [미국의 배신과 흔들리는 세계] 1부 | 김준형 국회의원 | 알릴레오 북’s 시즌 6 30회",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee86887d07f7ba2fb3e2",
+            "url": "https://www.youtube.com/watch?v=LzJBRxdoMSg",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-18T13:12:14.556000",
+            "duration": 60.0,
+            "title": "[조국혁신당 김준형의원 대정부질문] 김준형의원, 반윤석열 정부 대표적 인사 선포! #대통령실",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5ac",
+            "url": "https://www.youtube.com/watch?v=UCNC8h39KqUttdW_pX0B4ksw",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.040000",
+            "duration": null,
+            "title": "김준형TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5b4",
+            "url": "https://www.youtube.com/watch?v=AyZWpNqkYJc",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.950000",
+            "duration": 1293.0,
+            "title": "김준형 \"조국 사면 필요..재보궐이든 지방선거든 출마해야\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5b3",
+            "url": "https://www.youtube.com/watch?v=5AJ4h3uMvo8",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-09T16:20:30.578000",
+            "duration": 3306.0,
+            "title": "\"전쟁 터진 남미, 문 열린 중국\" 2026년 신냉전 속 한국의 생존 전략은? | 김준형 조국혁신당 국회의원 [심층인터뷰]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5b1",
+            "url": "https://www.youtube.com/watch?v=6F-37SXDVVc",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-21T08:43:45.068000",
+            "duration": 2864.0,
+            "title": "'한미 관세협상 극적 타결'의 내막, 그리고 앞으로 벌어질 일 | 조국혁신당, 김준형 의원(전. 국립외교원 원장) [긴급인터뷰]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5af",
+            "url": "https://www.youtube.com/watch?v=pjz9Er72iKw",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-21T08:43:45.068000",
+            "duration": 261.0,
+            "title": "[자막] “윤석열 굴종 외교가 부른 조지아 한국인 구금” 김준형 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5b2",
+            "url": "https://www.youtube.com/watch?v=DsEmvYF5e5s",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.950000",
+            "duration": 964.0,
+            "title": "김준형 \"마두로 납치에 김정은 긴장? 상황 전혀 달라\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5b0",
+            "url": "https://www.youtube.com/watch?v=VscDpWyJ4Dg",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-21T08:43:45.068000",
+            "duration": 4186.0,
+            "title": "정치배움터 1강 김준형 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5ae",
+            "url": "https://www.youtube.com/watch?v=9dL_ERLk8iI",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-23T16:42:02.040000",
+            "duration": 3304.0,
+            "title": "중일 갈등 속, 우리는 어떻게 해야하나? l 조국혁신당 김준형 국회의원 [심층인터뷰]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac41631fd1743497d5ad",
+            "url": "https://www.youtube.com/watch?v=bsUznu7Ag2E",
+            "HG_NM": "김준형",
+            "MONA_CD": "8A05621B",
+            "collected_at": "2026-01-09T16:20:29.751000",
+            "duration": 252.0,
+            "title": "국회의원 김준형 [한미동맹 지지 결의안] 반대토론",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:13.254805"
+    "exported_at": "2026-01-26T14:36:19.397472"
 }

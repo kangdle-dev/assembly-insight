@@ -67,112 +67,483 @@
     },
     "analysis": {
         "keywords": [
-            "의장",
+            "이해찬",
+            "총리",
             "더불어민주당",
-            "추미애",
-            "전남",
-            "김영록",
-            "도지사",
-            "우원식",
-            "후보",
-            "총선",
-            "통합",
+            "의장",
             "대통령",
-            "대표",
             "민주당",
-            "특검",
-            "정무"
+            "별세",
+            "정무",
+            "특보",
+            "민주",
+            "수석",
+            "국무총리",
+            "베트남",
+            "추미애",
+            "부의장"
         ],
         "keyword_frequency": [
+            {
+                "text": "이해찬",
+                "value": 31
+            },
+            {
+                "text": "총리",
+                "value": 24
+            },
+            {
+                "text": "더불어민주당",
+                "value": 24
+            },
             {
                 "text": "의장",
                 "value": 24
             },
             {
-                "text": "더불어민주당",
+                "text": "대통령",
+                "value": 20
+            },
+            {
+                "text": "민주당",
+                "value": 18
+            },
+            {
+                "text": "별세",
+                "value": 18
+            },
+            {
+                "text": "정무",
+                "value": 18
+            },
+            {
+                "text": "특보",
+                "value": 16
+            },
+            {
+                "text": "민주",
+                "value": 15
+            },
+            {
+                "text": "수석",
+                "value": 14
+            },
+            {
+                "text": "국무총리",
+                "value": 14
+            },
+            {
+                "text": "베트남",
                 "value": 14
             },
             {
                 "text": "추미애",
-                "value": 13
+                "value": 12
             },
             {
-                "text": "전남",
+                "text": "부의장",
                 "value": 11
-            },
-            {
-                "text": "김영록",
-                "value": 8
-            },
-            {
-                "text": "도지사",
-                "value": 8
-            },
-            {
-                "text": "우원식",
-                "value": 8
-            },
-            {
-                "text": "후보",
-                "value": 8
-            },
-            {
-                "text": "총선",
-                "value": 8
-            },
-            {
-                "text": "통합",
-                "value": 7
-            },
-            {
-                "text": "대통령",
-                "value": 7
-            },
-            {
-                "text": "대표",
-                "value": 7
-            },
-            {
-                "text": "민주당",
-                "value": 7
-            },
-            {
-                "text": "특검",
-                "value": 6
-            },
-            {
-                "text": "정무",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:39.825036",
+        "last_analyzed_at": "2026-01-26T14:36:47.905710",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                0,
-                2,
+                1,
                 0,
                 3,
+                6,
                 1,
-                1,
-                0
+                9,
+                4
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "6976fced8459600028997f57",
+            "link": "https://n.news.naver.com/mnews/article/021/0002766480?sid=100",
+            "created_at": "2026-01-26T14:34:35.261000",
+            "description": "최보윤 국민의힘 수석대변인은 25일 논평을 통해 “재야에서 (정치를) 시작해 국정의 책임을 맡기까지의... 이 수석부의장은 민주화 운동의 선두에 섰던 투사이자, 7선 국회의원, 국무총리, 민주당 대표 등을 역임한 민주... ",
+            "originallink": "https://www.munhwa.com/article/11563681?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-26T11:58:00",
+            "related_members": [
+                "MLH1404S",
+                "CCU1009B",
+                "IN328264",
+                "2385336L",
+                "UOS16250"
+            ],
+            "title": "‘운동권 대부’ 이해찬 사회장 검토… 진보진영 애도 물결"
+        },
+        {
+            "_id": "6976fd32845960002899809f",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112231?sid=100",
+            "created_at": "2026-01-26T14:35:43.492000",
+            "description": "유가족과 위독 소식에 급파된 조정식 청와대 정무특보, 민주당 의원들이 임종을 지켰습니다. 학생운동을 거쳐 국회의원, 교육부장관, 국무총리를 지내며 민주주의 50년의 산증인으로 평가받는 이 전 총리. 지난해 10월... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468647&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-26T10:16:00",
+            "related_members": [
+                "IN328264"
+            ],
+            "title": "이해찬 전 총리 베트남서 별세…내일 인천공항 운구"
+        },
+        {
+            "_id": "6976fd3284596000289980a0",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112177?sid=100",
+            "created_at": "2026-01-26T14:35:43.492000",
+            "description": "유가족과 위독 소식에 급파된 조정식 청와대 정무특보, 민주당 의원들이 임종을 지켰습니다. 학생운동을 거쳐 국회의원, 교육부장관, 국무총리를 지내며 민주주의 50년의 산증인으로 평가받는 이 전 총리. 지난해 10월... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468582&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-26T09:36:00",
+            "related_members": [
+                "IN328264"
+            ],
+            "title": "이해찬 전 총리 베트남서 별세…내일 인천공항 운구"
+        },
+        {
+            "_id": "6976fd3284596000289980a1",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112046?sid=100",
+            "created_at": "2026-01-26T14:35:43.492000",
+            "description": "유가족과 위독 소식에 급파된 조정식 청와대 정무특보, 민주당 의원들이 임종을 지켰습니다. 학생운동을 거쳐 국회의원, 교육부장관, 국무총리를 지내며 민주주의 50년의 산증인으로 평가받는 이 전 총리. 지난해 10월... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468390&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-26T06:10:00",
+            "related_members": [
+                "IN328264"
+            ],
+            "title": "이해찬 전 총리 베트남서 별세…내일 인천공항 운구"
+        },
+        {
+            "_id": "6976fcf98459600028997fa6",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955097?sid=100",
+            "created_at": "2026-01-26T14:34:47.443000",
+            "description": "이 전 총리는 ‘1세대 운동권’ 출신으로 36세 때인 1988년 13대 총선에서 국회에 입성해 7선 국회의원을... 조정식 의원을 현지에 급파했다. 이해찬계로 분류되는 민주당 김태년·이재정·김현·이해식·최민희 의원 등도... ",
+            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/25/GEJTLNXPHZFUVPC4XIIAIKQ2VY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T22:28:00",
+            "related_members": [
+                "CCU1009B",
+                "IN328264",
+                "1WE5693J",
+                "UQ282145",
+                "YS38221N",
+                "7YL9580G"
+            ],
+            "title": "‘민주당 대부’ 이해찬 前총리 별세... DJ·盧·文·李 대통령과 각별"
+        },
+        {
+            "_id": "6976fcf98459600028997fa7",
+            "link": "https://n.news.naver.com/mnews/article/003/0013729268?sid=100",
+            "created_at": "2026-01-26T14:34:47.443000",
+            "description": "표한다\"며 \"7선 국회의원과 국무총리를 역임하시며 오랜 세월 대한민국 정치 현장에서 소임을 다하셨다\"고 적었다. 국민의힘에서는 최보윤 수석대변인이 논평을 내고 \"급작스러운 비보에 깊은 애도를 표한다\"며 \"재야에서... ",
+            "originallink": "https://www.newsis.com/view/NISX20260125_0003489316",
+            "press": "뉴시스",
+            "pubDate": "2026-01-25T21:52:00",
+            "related_members": [
+                "CCU1009B",
+                "1WE5693J",
+                "YS38221N",
+                "UQ282145",
+                "QWL7778X",
+                "IN328264",
+                "UOS16250"
+            ],
+            "title": "'민주진영 킹메이커' 이해찬 전 총리 별세…정치권 애도 물결(종합3보)"
+        },
+        {
+            "_id": "6976fd268459600028998077",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108768?sid=100",
+            "created_at": "2026-01-26T14:35:31.473000",
+            "description": "7선 국회의원이자 DJ정부의 교육부 장관, 노무현 정부의 국무총리 등을 역임했다. 당에서도 원내부총무부터... 회고록서 \"못한 건 또 하면 돼…실패 아냐\"민주당 최민희 의원과 대담 형식의 최고록에서 고인이 자신의... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461575?utm_source=naver&utm_medium=article&utm_campaign=20260125091151",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-25T21:12:00",
+            "related_members": [
+                "CCU1009B",
+                "IN328264",
+                "YS38221N"
+            ],
+            "title": "대통령의 멘토, 민주당의 기둥…이해찬의 73년 발자취"
+        },
+        {
+            "_id": "6976fcfa8459600028997fa8",
+            "link": "https://n.news.naver.com/mnews/article/003/0013729239?sid=100",
+            "created_at": "2026-01-26T14:34:47.443000",
+            "description": "표한다\"며 \"7선 국회의원과 국무총리를 역임하시며 오랜 세월 대한민국 정치 현장에서 소임을 다하셨다\"고 적었다. 국민의힘에서는 최보윤 수석대변인이 논평을 내고 \"급작스러운 비보에 깊은 애도를 표한다\"며 \"재야에서... ",
+            "originallink": "https://www.newsis.com/view/NISX20260125_0003489283",
+            "press": "뉴시스",
+            "pubDate": "2026-01-25T19:57:00",
+            "related_members": [
+                "CCU1009B",
+                "1WE5693J",
+                "YS38221N",
+                "UQ282145",
+                "IN328264",
+                "UOS16250"
+            ],
+            "title": "'민주 집권 핵심 축' 이해찬 전 총리 별세…정치권 애도 물결(종합2보)"
+        },
+        {
+            "_id": "6976fcfa8459600028997fa9",
+            "link": "https://n.news.naver.com/mnews/article/015/0005241810?sid=100",
+            "created_at": "2026-01-26T14:34:47.443000",
+            "description": "7선 국회의원이자 대통령 4명을 만들어낸 ‘킹 메이커’, 더불어민주당 진영 대부의 타계에 정치권... 이해식 김현 최민희 김태년 의원 등도 베트남을 긴급 방문해 곁을 지켰다. 1952년생인 이 수석부의장은 충남 청양... ",
+            "originallink": "https://www.hankyung.com/article/2026012513591",
+            "press": "한국경제",
+            "pubDate": "2026-01-25T19:57:00",
+            "related_members": [
+                "CCU1009B",
+                "1WE5693J",
+                "YS38221N",
+                "7YL9580G",
+                "IN328264"
+            ],
+            "title": "노무현·문재인 동지이자 李 멘토…'민주진영 대부' 이해찬 떠났다"
+        },
+        {
+            "_id": "6976fd30845960002899809c",
+            "link": "https://n.news.naver.com/mnews/article/448/0000586104?sid=102",
+            "created_at": "2026-01-26T14:35:42.302000",
+            "description": "대통령 정무특별보좌관인 조정식 의원이 현지에 파견돼 국내 이송 방안을 논의하던 중이었습니다. 조승래... 1980년 김대중 내란음모 사건으로 복역한 뒤 36살에 13대 국회에 입성해 20대 국회까지 7선 의원을 지냈습니다.... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/25/2026012590138.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T19:11:00",
+            "related_members": [
+                "IN328264",
+                "FYI20317"
+            ],
+            "title": "'민주당 원로' 이해찬, 베트남서 별세…향년 73세"
+        },
+        {
+            "_id": "6976fcfa8459600028997faa",
+            "link": "https://n.news.naver.com/mnews/article/421/0008733288?sid=100",
+            "created_at": "2026-01-26T14:34:47.443000",
+            "description": "현지에는 이재명 대통령의 정무특별보좌관인 조정식 더불어민주당 의원을 비롯해 최민희·김현·김태년... 7선 국회의원 및 국무총리를 역임한 민주 진영의 산증인이다. 1952년 충남 청양에서 태어난 그는, 서울대... ",
+            "originallink": "https://www.news1.kr/diplomacy/unikorea/6050195",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T18:39:00",
+            "related_members": [
+                "IN328264",
+                "1WE5693J",
+                "YS38221N",
+                "7YL9580G"
+            ],
+            "title": "민주화의 산증인, 정치사의 거물이 졌다…이해찬 前 총리 별세(종합)"
+        },
+        {
+            "_id": "6976fcf28459600028997f7a",
+            "link": "https://n.news.naver.com/mnews/article/011/0004582713?sid=100",
+            "created_at": "2026-01-26T14:34:39.895000",
+            "description": "1952년 충남 청양에서 태어난 고인은 7선 국회의원을 지내며 더불어민주당 대표와 제36대 국무총리까지... 김영배 의원 등이 현지에서 고인의 마지막 순간까지 자리를 지켰다. 이 대통령도 조정식 정무특보를 급파해... ",
+            "originallink": "https://www.sedaily.com/article/20000318?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-25T18:16:00",
+            "related_members": [
+                "CCU1009B",
+                "1WE5693J",
+                "YS38221N",
+                "B7D7534L",
+                "7YL9580G",
+                "IN328264"
+            ],
+            "title": "운동권 대부서 총리까지…민주진영 거목 지다"
+        },
+        {
+            "_id": "6976fcfa8459600028997fac",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138243?sid=100",
+            "created_at": "2026-01-26T14:34:47.443000",
+            "description": "이재명 대통령이 급파한 조정식 정무특보와 김태년·이해식·이재정·최민희 민주당 의원 등이 베트남... 고인은 국회의원으로 7선을 지냈고 노무현 정부에서 국무총리, 문재인 정부에서는 더불어민주당 대표, 이재명... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/25/BVMAFUDFZBE5NI7LNL3B7J4ONM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-25T17:18:00",
+            "related_members": [
+                "CCU1009B",
+                "IN328264",
+                "1WE5693J",
+                "UQ282145",
+                "YS38221N"
+            ],
+            "title": "‘민주화 거목’ 이해찬 민주평통 수석부의장 별세"
+        },
+        {
+            "_id": "6976fcea8459600028997f37",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055293?sid=100",
+            "created_at": "2026-01-26T14:34:32.095000",
+            "description": "의원과 서영석 의원도 \"반드시 쾌차해 돌아오기를 바란다\", \"빠른 회복을 간절히 기도한다\"는 글을 남겼다. 1952년생으로 올해 74세인 이 수석부의장은 7선 국회의원 출신으로, 노무현 정부에서 국무총리를 지냈다. 민주당... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48122",
+            "press": "조선일보",
+            "pubDate": "2026-01-24T15:29:00",
+            "related_members": [
+                "IN328264",
+                "XR24352K",
+                "X1K3667J",
+                "2385336L",
+                "7YL9580G",
+                "TKJ4800F"
+            ],
+            "title": "이해찬, 의식 없이 위중한 상태…이대통령, 조정식 정무특보 급파"
+        },
+        {
+            "_id": "6976fd22845960002899806d",
+            "link": "https://n.news.naver.com/mnews/article/011/0004582436?sid=100",
+            "created_at": "2026-01-26T14:35:27.852000",
+            "description": "이재정 의원 등 일부 더불어민주당 인사들도 현지로 향하는 것으로 전해진다. 이 수석부의장은 이날 호흡히... 이 부의장은 7선 국회의원과 국무총리 등을 지냈으며 지난해 10월 민주평통 수석부의장으로 임명됐다.",
+            "originallink": "https://www.sedaily.com/NewsView/2K7EYMYZA3",
+            "press": "서울경제",
+            "pubDate": "2026-01-23T21:38:00",
+            "related_members": [
+                "IN328264",
+                "UQ282145"
+            ],
+            "title": "李대통령, 이해찬 전 총리 위독에 조정식 정무특보 베트남 급파"
+        },
+        {
+            "_id": "6976fd22845960002899806e",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828024?sid=100",
+            "created_at": "2026-01-26T14:35:27.852000",
+            "description": "이재정 의원을 비롯한 당내 주요 인사들도 항공편이 확보되는 대로 현지로 향해 이 수석부의장의 상태를... 이 수석부의장은 7선 국회의원과 국무총리, 당 대표를 지내고 지난해 10월 민주평통 수석부의장으로 임명되어... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029294459&code=61111111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-23T21:29:00",
+            "related_members": [
+                "IN328264",
+                "UQ282145"
+            ],
+            "title": "李대통령, 이해찬 前총리 위독에 조정식 정무특보 베트남 급파"
+        },
+        {
+            "_id": "6972d23b845960002899782b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013726436?sid=100",
+            "created_at": "2026-01-23T10:43:21.249000",
+            "description": "조정식 더불어민주당 의원과 최형두(오른쪽) 국민의힘 의원이 23일 오전 서울 여의도 국회에서 열린 국회가톨릭신도의원회 신년미사에서 대화를 하고 있다. 2025.01.23. suncho21@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260123_0021136705",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T08:53:00",
+            "related_members": [
+                "A0P4646G",
+                "IN328264"
+            ],
+            "title": "대화하는 조정식-최형두"
+        },
+        {
+            "_id": "6972d23b845960002899782c",
+            "link": "https://n.news.naver.com/mnews/article/003/0013726372?sid=100",
+            "created_at": "2026-01-23T10:43:21.249000",
+            "description": "최형두 국민의힘 의원, 조정식 더불어민주당 의원을 비롯한 참석자들이 23일 오전 서울 여의도 국회에서 열린 국회가톨릭신도의원회 신년미사에서 두 손을 모으고 기도를 하고 있다. 2025.01.23. suncho21... ",
+            "originallink": "https://www.newsis.com/view/NISI20260123_0021136677",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T08:17:00",
+            "related_members": [
+                "A0P4646G",
+                "IN328264"
+            ],
+            "title": "국회가톨릭신도의원회 신년미사"
+        },
+        {
+            "_id": "6972d1f584596000289976d4",
+            "link": "https://n.news.naver.com/mnews/article/003/0013726375?sid=100",
+            "created_at": "2026-01-23T10:42:11.222000",
+            "description": "최보윤(앞줄 왼쪽부터) 국민의힘 의원, 조정식, 김남희 더불어민주당 의원을 비롯한 참석자들이 23일 오전 서울 여의도 국회에서 열린 국회가톨릭신도의원회 신년미사에서 찬송가를 부르고 있다. 2025.01.... ",
+            "originallink": "https://www.newsis.com/view/NISI20260123_0021136680",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T08:17:00",
+            "related_members": [
+                "UOS16250",
+                "NXB3178C",
+                "IN328264"
+            ],
+            "title": "국회가톨릭신도의원회 신년미사"
+        },
+        {
+            "_id": "6972d1f584596000289976d5",
+            "link": "https://n.news.naver.com/mnews/article/003/0013726371?sid=100",
+            "created_at": "2026-01-23T10:42:11.222000",
+            "description": "최보윤(앞줄 왼쪽부터) 국민의힘 의원, 조정식, 김남희 더불어민주당 의원을 비롯한 참석자들이 23일 오전 서울 여의도 국회에서 열린 국회가톨릭신도의원회 신년미사에서 기도를 하고 있다. 2025.01.23.... ",
+            "originallink": "https://www.newsis.com/view/NISI20260123_0021136679",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T08:17:00",
+            "related_members": [
+                "UOS16250",
+                "NXB3178C",
+                "IN328264"
+            ],
+            "title": "국회가톨릭신도의원회 신년미사"
+        },
+        {
+            "_id": "6972d1ef84596000289976aa",
+            "link": "https://n.news.naver.com/mnews/article/052/0002304465?sid=100",
+            "created_at": "2026-01-23T10:42:05.625000",
+            "description": "[한민수] 제가 그걸 어떻게 알겠습니까? 그리고 저런 문제는 지금 비서실장이시고 또 그다음에 본인이 가장 중요할 거예요. 출마 같은 경우는 정치인들은 어디 국회의원이 됐든 지자체장이 됐든 본인 결심이 제일 중요한... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601221641202248",
+            "press": "YTN",
+            "pubDate": "2026-01-22T16:41:00",
+            "related_members": [
+                "KFM1081G",
+                "8Q88373R",
+                "MNZ4401T",
+                "E1J8836Y",
+                "TZP9391O",
+                "S824682L",
+                "6EN68926",
+                "QWL7778X",
+                "9YO73104",
+                "IN328264",
+                "UF53617M",
+                "8JG4358H"
+            ],
+            "title": "[정치ON] 박근혜 만류로 끝난 8일의 '장동혁 단식'...정치적 득과 실은?"
+        },
+        {
+            "_id": "6972d1f884596000289976ee",
+            "link": "https://n.news.naver.com/mnews/article/421/0008728940?sid=100",
+            "created_at": "2026-01-23T10:42:14.213000",
+            "description": "포럼에는 더불어민주당과 조국혁신당 소속 국회의원들과 학계·시민사회 인사들이 참석해, 북한의 제9차... 포럼에는 윤후덕·김상욱·김준형·이용선·이재강·이재정·조정식·홍기원 의원을 비롯해, 박인휘 이화여대... ",
+            "originallink": "https://www.news1.kr/diplomacy/unikorea/6047699",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T14:35:00",
+            "related_members": [
+                "VDN5593C",
+                "UQ282145",
+                "5MD4184K",
+                "9JF4562W",
+                "ARP89147",
+                "3LP22204",
+                "8A05621B",
+                "O7R5461J",
+                "IN328264"
+            ],
+            "title": "민화협 통일정책포럼 개최…정동영 \"선제적 평화 조치 일관되게 추진\""
+        },
+        {
+            "_id": "6972d23b845960002899782d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013724030?sid=100",
+            "created_at": "2026-01-23T10:43:21.249000",
+            "description": "조정식 더불어민주당 의원은 22일 장동혁 국민의힘 대표를 향해 \"빨리 단식을 풀고 진지하게 대화의 시간을... 한편 조 의원은 올해 하반기 국회의장 선거에 도전할 예정이다. 그는 국회의장이 될 경우 정무특보직을... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003485924",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T09:14:00",
+            "related_members": [
+                "KFM1081G",
+                "IN328264"
+            ],
+            "title": "조정식 \"李 단식 때 野 얼마나 매몰찼나…장동혁, 단식 풀어야\""
+        },
+        {
             "_id": "6970122b297082fcc2b34bf6",
             "link": "https://n.news.naver.com/mnews/article/056/0012108679?sid=100",
             "created_at": "2026-01-21T08:39:21.472000",
-            "description": "이성권·엄태영·권영진·고동진·유용원·서범수·안상훈 의원도 국회에서 조찬 모임을 마친 뒤 농성장을... 5선의 조정식 의원은 정무특보라는 분께서 한 번 찾아오지도 않는다\"고 비판했습니다. 이어 \"지금이라도 늦지... ",
+            "description": "당내 소장파 초·재선 의원 모임 '대안과 미래' 소속 이성권·엄태영·권영진·고동진·유용원·서범수·안상훈 의원도 국회에서 조찬 모임을 마친 뒤 농성장을 찾아 장 대표를 응원했습니다. 유승민 전 의원 역시 오늘... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463946&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-20T17:01:00",
@@ -321,130 +692,6 @@
                 "IN328264"
             ],
             "title": "[단독]‘의혹 백화점’ 이혜훈, 불성실 의정활동까지…“4년 임기 중 19..."
-        },
-        {
-            "_id": "6964b546631fd17434996068",
-            "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
-            "created_at": "2026-01-12T17:48:03.471000",
-            "description": "우원식 국회의장, 김민석 국무총리, 정청래 민주당 대표, 조정식 이재명 대통령 정무특별보좌관, 이한주 이재명 대통령 정책특별보좌관, 송영길 전 더불어민주당 대표, 어기구 국회 농해수위원장, 임오경 국회의원 등은... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K79UTNT2Q",
-            "press": "서울경제",
-            "pubDate": "2026-01-12T07:33:00",
-            "related_members": [
-                "X1K3667J",
-                "IN328264",
-                "4T026790",
-                "2385336L",
-                "8FB1535Y",
-                "XBT9550Q",
-                "MLH1404S",
-                "RUZ25800",
-                "J1G57517",
-                "3OQ8273H",
-                "6K79158C",
-                "2S73768V",
-                "8TU8443O",
-                "VCP96419",
-                "VZA76236",
-                "4019850M",
-                "5TQ6306B",
-                "GX38539O",
-                "BT62420K",
-                "TKJ4800F"
-            ],
-            "title": "김교흥 “메가시티 인천” 비전…출판기념회 7000명 운집"
-        },
-        {
-            "_id": "6964b546631fd17434996069",
-            "link": "https://n.news.naver.com/mnews/article/016/0002583891?sid=100",
-            "created_at": "2026-01-12T17:48:03.471000",
-            "description": "박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재 국립 인천대학교 총장... ",
-            "originallink": "https://biz.heraldcorp.com/article/10652879?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-11T09:11:00",
-            "related_members": [
-                "X1K3667J",
-                "RUZ25800",
-                "J1G57517",
-                "3OQ8273H",
-                "6K79158C",
-                "2S73768V",
-                "8TU8443O",
-                "VCP96419",
-                "VZA76236",
-                "GX38539O",
-                "BT62420K",
-                "4019850M",
-                "5TQ6306B",
-                "TKJ4800F",
-                "4T026790",
-                "8FB1535Y",
-                "IN328264",
-                "2385336L",
-                "XBT9550Q",
-                "MLH1404S"
-            ],
-            "title": "김교흥 의원, ‘인천, 한국 메가시티 비전’ 제시…‘김교흥의 길’ 출..."
-        },
-        {
-            "_id": "6964b54c631fd174349960de",
-            "link": "https://n.news.naver.com/mnews/article/421/0008705730?sid=102",
-            "created_at": "2026-01-12T17:48:09.211000",
-            "description": "9일 국회의원회관 제2소회의실에서 열린 ‘제2차 경기도 도시철도망 신속 추진을 위한 국회 토론회’에는 김 지사를 비롯해 김태년·백혜련·김승원·이수진·한준호·김준혁·부승찬·안태준·이기헌 국회의원, 도민, 시군... ",
-            "originallink": "https://www.news1.kr/local/gyeonggi/6034179",
-            "press": "뉴스1",
-            "pubDate": "2026-01-09T15:47:00",
-            "related_members": [
-                "JG77046J",
-                "6I88973D",
-                "HXT76735",
-                "8O34202I",
-                "YM42715P",
-                "D6U6678O",
-                "88O1334C",
-                "GOC54665",
-                "HSS7466Y",
-                "W8L9421K",
-                "0R68099X",
-                "5765663F",
-                "ATB59635",
-                "9D939735",
-                "L5P27909",
-                "ZDR63255",
-                "W3U3344O",
-                "JSA8739I",
-                "URX8075K",
-                "W8W95421",
-                "YOG1280B",
-                "1WE5693J",
-                "BCQ55105",
-                "IN328264",
-                "V429892C"
-            ],
-            "title": "김동연 \"제2차 경기도 도시철도망 계획 12개 노선 신속 추진\""
-        },
-        {
-            "_id": "6964b547631fd17434996087",
-            "link": "https://n.news.naver.com/mnews/article/003/0013697046?sid=102",
-            "created_at": "2026-01-12T17:48:04.961000",
-            "description": "이 자리에는 김승원 도당위원장, 추미애·한준호·염태영·조정식·홍기원·이건태·이재강·김남희·부승찬·민병덕 국회의원, 안민석·양기대 전 국회의원, 경기도의회 김진경 의장·정윤경 부의장·최종현 대표의원을... ",
-            "originallink": "https://www.newsis.com/view/NISX20260107_0003468074",
-            "press": "뉴시스",
-            "pubDate": "2026-01-07T10:53:00",
-            "related_members": [
-                "TZ228122",
-                "IN328264",
-                "3LP22204",
-                "6I88973D",
-                "NXB3178C",
-                "5MD4184K",
-                "BCQ55105",
-                "ATB59635",
-                "URV1689Q",
-                "7YC6702R",
-                "URX8075K"
-            ],
-            "title": "민주당 경기도당 단배식…\"목표는 6·3 지방선거 압승\""
         }
     ],
     "recent_videos": [
@@ -548,14 +795,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a746631fd1743497ce5d",
-            "url": "https://www.youtube.com/watch?v=fDx44W_BO_A",
+            "_id": "6960a746631fd1743497ce5e",
+            "url": "https://www.youtube.com/watch?v=ocvZtaDrliU",
             "HG_NM": "조정식",
             "MONA_CD": "IN328264",
-            "collected_at": "2026-01-15T18:24:04.967000",
-            "duration": 782.0,
-            "source": "국회방송",
-            "title": "국회의장 후보에 조정식, 우원식, 추미애, 정성호…박지원 막판까지 고심 / SBS / 편상욱의 뉴스브리핑",
+            "collected_at": "2026-01-09T15:59:07.978000",
+            "duration": 3655.0,
+            "source": "SBS뉴스",
+            "title": "SBS 모바일24 라이브 개국쇼 by 장예원_조정식 (feat. 김현우) / SBS",
             "upload_date": null
         },
         {
@@ -596,7 +843,7 @@
             "url": "https://www.youtube.com/watch?v=SYE_qgjKdeM",
             "HG_NM": "조정식",
             "MONA_CD": "IN328264",
-            "collected_at": "2026-01-15T18:24:04.967000",
+            "collected_at": "2026-01-23T16:49:36.099000",
             "duration": 1009.0,
             "source": "국회방송",
             "title": "[김태현의 정치쇼] 조정식 \"내년 하반기 국회의장 출마할 것...민생국회 만들어야\" |이너:뷰 251218(목)",
@@ -647,14 +894,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a746631fd1743497ce5e",
-            "url": "https://www.youtube.com/watch?v=ocvZtaDrliU",
+            "_id": "6960a746631fd1743497ce5d",
+            "url": "https://www.youtube.com/watch?v=fDx44W_BO_A",
             "HG_NM": "조정식",
             "MONA_CD": "IN328264",
-            "collected_at": "2026-01-09T15:59:07.978000",
-            "duration": 3655.0,
-            "source": "SBS뉴스",
-            "title": "SBS 모바일24 라이브 개국쇼 by 장예원_조정식 (feat. 김현우) / SBS",
+            "collected_at": "2026-01-23T16:49:36.099000",
+            "duration": 782.0,
+            "source": "국회방송",
+            "title": "국회의장 후보에 조정식, 우원식, 추미애, 정성호…박지원 막판까지 고심 / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -669,5 +916,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:39.825036"
+    "exported_at": "2026-01-26T14:36:47.905710"
 }

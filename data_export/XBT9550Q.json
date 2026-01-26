@@ -63,106 +63,410 @@
     "analysis": {
         "keywords": [
             "의장",
+            "내란",
+            "재판부",
+            "전담",
+            "헌법",
+            "국민",
+            "소원",
             "대표",
-            "체포",
+            "청구",
+            "제기",
             "전남",
             "현장",
-            "장관",
-            "대통령",
-            "민주당",
-            "통합",
-            "이슈",
-            "본회의",
-            "광주",
-            "인사",
-            "박용진",
-            "김영록"
+            "심판",
+            "위원장",
+            "인사"
         ],
         "keyword_frequency": [
             {
                 "text": "의장",
-                "value": 59
+                "value": 55
+            },
+            {
+                "text": "내란",
+                "value": 38
+            },
+            {
+                "text": "재판부",
+                "value": 30
+            },
+            {
+                "text": "전담",
+                "value": 24
+            },
+            {
+                "text": "헌법",
+                "value": 24
+            },
+            {
+                "text": "국민",
+                "value": 20
+            },
+            {
+                "text": "소원",
+                "value": 19
             },
             {
                 "text": "대표",
-                "value": 22
+                "value": 19
             },
             {
-                "text": "체포",
-                "value": 16
+                "text": "청구",
+                "value": 18
+            },
+            {
+                "text": "제기",
+                "value": 12
             },
             {
                 "text": "전남",
-                "value": 15
+                "value": 12
             },
             {
                 "text": "현장",
-                "value": 14
-            },
-            {
-                "text": "장관",
                 "value": 12
             },
             {
-                "text": "대통령",
-                "value": 12
+                "text": "심판",
+                "value": 11
             },
             {
-                "text": "민주당",
-                "value": 12
-            },
-            {
-                "text": "통합",
-                "value": 9
-            },
-            {
-                "text": "이슈",
-                "value": 9
-            },
-            {
-                "text": "본회의",
-                "value": 9
-            },
-            {
-                "text": "광주",
-                "value": 8
+                "text": "위원장",
+                "value": 10
             },
             {
                 "text": "인사",
-                "value": 8
-            },
-            {
-                "text": "박용진",
-                "value": 8
-            },
-            {
-                "text": "김영록",
-                "value": 8
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:26.802842",
+        "last_analyzed_at": "2026-01-26T14:36:33.880783",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                7,
-                4,
-                2,
-                4,
-                7,
                 1,
-                0
+                4,
+                1,
+                0,
+                0,
+                2,
+                13
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fce78459600028997f1c",
+            "link": "https://n.news.naver.com/mnews/article/015/0005242119?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "또 우원식 국회의장에 대해선 법안 처리 과정에서 절차를 위반했다며 헌재에 권한쟁의심판을 청구했다.... 기습 상정하고 가결을 선포함으로써 국회의원들이 실질적으로 내용을 검토하고 시정할 기회를 박탈했다\"고 말했다.",
+            "originallink": "https://www.hankyung.com/article/202601262883i",
+            "press": "한국경제",
+            "pubDate": "2026-01-26T14:29:00",
+            "related_members": [
+                "XBT9550Q",
+                "REG96285"
+            ],
+            "title": "국힘, 내란전담재판부법 헌소 제기…우원식엔 권한쟁의심판 청구"
+        },
+        {
+            "_id": "6976fd168459600028998040",
+            "link": "https://n.news.naver.com/mnews/article/437/0000475327?sid=100",
+            "created_at": "2026-01-26T14:35:15.948000",
+            "description": "앞서 더불어민주당이 지난달 내란전담재판부 설치법을 통과시키자 장동혁 국민의힘 대표는 \"국민의힘을... 국민의힘은 \"국회의원들이 실질적으로 내용을 검토하고 시정할 기회를 박탈했다\"고 덧붙였습니다.",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281873?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-26T14:11:00",
+            "related_members": [
+                "XBT9550Q",
+                "KFM1081G"
+            ],
+            "title": "\"내란재판부 목적은 국힘 해산\"…국민의힘, '헌법소원'·'권한쟁의심판..."
+        },
+        {
+            "_id": "6976fce78459600028997f1d",
+            "link": "https://n.news.naver.com/mnews/article/052/0002305910?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "당 법률자문위원장인 곽규택 의원은 오늘(26일) 헌법재판소에 헌법소원심판 청구서를 제출하고, 이를 통과시킨 우원식 국회의장을 상대로 하는 권한쟁의심판도 함께 청구했다고 밝혔습니다. 곽 의원은 내란전담재판부는... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601261340194145",
+            "press": "YTN",
+            "pubDate": "2026-01-26T13:40:00",
+            "related_members": [
+                "XBT9550Q",
+                "REG96285"
+            ],
+            "title": "국민의힘, '내란전담재판부법' 헌법소원심판 청구"
+        },
+        {
+            "_id": "6976fce78459600028997f1e",
+            "link": "https://n.news.naver.com/mnews/article/448/0000586229?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "국힘은 또 우원식 국회의장이 내란전담재판부법과 정보통신망법 일부 개정안 처리 과정에서 절차를... 곽규택 당 법률자문위원장은 \"우 의장은 이들 법안을 상정하고 가결을 선포해 국회의원들이 실질적으로 내용을... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/26/2026012690133.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-26T13:18:00",
+            "related_members": [
+                "REG96285",
+                "XBT9550Q"
+            ],
+            "title": "국힘, 내란전담재판부법 헌소 제기…\"평등권·재판청구권 침해\""
+        },
+        {
+            "_id": "6976fce78459600028997f1f",
+            "link": "https://n.news.naver.com/mnews/article/057/0001932062?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "본회의에 기습 상정하고 가결을 선포함으로써 국회의원들이 실질적으로 내용을 검토하고 시정할 기회를 박탈했다\"고 비판했습니다. #내란전담재판부 #국민의힘 #더불어민주당 #헌법소원 #우원식 #국회의장 #권한쟁의심판",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5171362",
+            "press": "매일경제",
+            "pubDate": "2026-01-26T12:56:00",
+            "related_members": [
+                "XBT9550Q",
+                "REG96285"
+            ],
+            "title": "국힘, '내란전담재판부법' 헌법소원…우원식 권한쟁의심판도 청구"
+        },
+        {
+            "_id": "6976fd168459600028998041",
+            "link": "https://n.news.naver.com/mnews/article/421/0008734467?sid=100",
+            "created_at": "2026-01-26T14:35:15.948000",
+            "description": "관련해 우원식 국회의장을 상대로 권한쟁의심판도 청구했다. 우 의장이 내란 전담재판부법과 온라인... 이에 국회의원들이 실질적으로 내용을 검토하고 시정할 기회를 박탈했다는 것이 국민의힘 측의 주장이다.",
+            "originallink": "https://www.news1.kr/politics/assembly/6050939",
+            "press": "뉴스1",
+            "pubDate": "2026-01-26T12:49:00",
+            "related_members": [
+                "XBT9550Q"
+            ],
+            "title": "국힘 '내란재판부법' 헌법소원 제기…\"폭거 막을 최후수단\""
+        },
+        {
+            "_id": "6976fce78459600028997f20",
+            "link": "https://n.news.naver.com/mnews/article/015/0005242075?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "국민의힘은 또 우원식 국회의장이 내란전담재판부법과 '정보통신망 이용촉진 및 정보보호 등에 관한 법률... 상정하고 가결을 선포함으로써 국회의원들이 실질적으로 내용을 검토하고 시정할 기회를 박탈했다\"고 비판했다.",
+            "originallink": "https://www.hankyung.com/article/2026012626627",
+            "press": "한국경제",
+            "pubDate": "2026-01-26T12:44:00",
+            "related_members": [
+                "REG96285",
+                "XBT9550Q"
+            ],
+            "title": "\"내란재판부법, 헌법 질서 훼손\"…국힘 '헌법소원' 제기"
+        },
+        {
+            "_id": "6976fce78459600028997f21",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112281?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "또, ‘내란전담재판부법’과 ‘정보통신망법 개정안’ 통과에 대해 우원식 국회의장을 상대로 ‘권한쟁의심판’도 함께 청구했습니다. 국민의힘 법률자문위원장인 곽규택 의원은 오늘(25일) 오전 보도자료를 통해... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468809&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-26T11:41:00",
+            "related_members": [
+                "XBT9550Q",
+                "REG96285"
+            ],
+            "title": "국민의힘, 민주당 주도 ‘내란전담재판부 설치법’ 헌법소원 제기"
+        },
+        {
+            "_id": "6976fd168459600028998042",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955231?sid=100",
+            "created_at": "2026-01-26T14:35:15.948000",
+            "description": "앞서 장동혁 대표는 지난달 22~23일 내란 전담 재판부법 반대를 위한 24시간 필리버스터(무제한 토론)를 했으나... 기습 상정하고 가결을 선포해, 국회의원들이 실질적으로 내용을 검토하고 시정할 기회를 박탈했다”고 밝혔다.",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/01/26/GGAFUSQRYFGQNLACSF3M27SGBE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-26T11:36:00",
+            "related_members": [
+                "XBT9550Q",
+                "KFM1081G"
+            ],
+            "title": "국민의힘 ‘위헌 논란’ 내란 전담 재판부법 헌법소원 청구"
+        },
+        {
+            "_id": "6976fce78459600028997f22",
+            "link": "https://n.news.naver.com/mnews/article/003/0013730171?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "국회 법제사법위원회 소속 국민의힘 의원들은 이날 우원식 국회의장을 상대로 권한쟁의심판도 함께 청구했다. 우 의장이 내란전담재판부법과 온라인 입틀막법(정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부... ",
+            "originallink": "https://www.newsis.com/view/NISX20260126_0003490056",
+            "press": "뉴시스",
+            "pubDate": "2026-01-26T11:35:00",
+            "related_members": [
+                "REG96285",
+                "XBT9550Q"
+            ],
+            "title": "국힘 \"내란전담재판부법 심각한 위헌성 존재\"…헌법소원 청구"
+        },
+        {
+            "_id": "6976fce78459600028997f23",
+            "link": "https://n.news.naver.com/mnews/article/016/0002590936?sid=100",
+            "created_at": "2026-01-26T14:34:29.391000",
+            "description": "이어 국회 법제사법위원회 소속 국민의힘 의원들이 우원식 국회의장을 상대로 권한 쟁의 심판을 함께 청구했다는 사실을 덧붙였다. 곽규택 국민의힘 법률자문위원장은 “합리적 이유 없이 특정 범죄와 그 피고인을... ",
+            "originallink": "https://biz.heraldcorp.com/article/10662678?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-26T11:22:00",
+            "related_members": [
+                "XBT9550Q",
+                "REG96285",
+                "6EN68926"
+            ],
+            "title": "[속보] 국힘, ‘내란 전담 재판부법’ 헌법 소원 제기"
+        },
+        {
+            "_id": "6976fd14845960002899803f",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108860?sid=102",
+            "created_at": "2026-01-26T14:35:13.464000",
+            "description": "행사에는 강기정 광주시장과 김영록 전라남도지사, 양부남 더불어민주당 광주시당위원장, 국회의원, 지방자치단체장, 교육계 인사 등이 참석했다. 우원식 국회의장과 정청래 더불어민주당 당대표 등은 영상과 축전을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461696?utm_source=naver&utm_medium=article&utm_campaign=20260126103857",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-26T10:39:00",
+            "related_members": [
+                "2385336L",
+                "CK143054",
+                "XBT9550Q"
+            ],
+            "title": "임택 광주 동구청장, '인문도시의 여정' 출판기념회 열어"
+        },
+        {
+            "_id": "6976fce58459600028997f00",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108805?sid=102",
+            "created_at": "2026-01-26T14:34:26.716000",
+            "description": "자치구의회 의원 등 각계 인사들이 대거 참석해 출판을 축하했다. 우원식 국회의장과 황명선·문정복·강득구 더불어민주당 최고위원, 김윤덕 국토교통부 장관, 박찬대·천준호·김문수 국회의원은 영상 축사를 통해... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461616?utm_source=naver&utm_medium=article&utm_campaign=20260126091357",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-26T09:14:00",
+            "related_members": [
+                "8P37634C",
+                "A494529E",
+                "GOC54665",
+                "5N65159P",
+                "BT62420K",
+                "RJH6314D",
+                "JZY9937U",
+                "XBT9550Q",
+                "86R9476S",
+                "IWR8966I",
+                "M7O7878U",
+                "CK143054",
+                "EB16073M",
+                "VRY5522V",
+                "9HE7226N",
+                "IC499858",
+                "QUR40502"
+            ],
+            "title": "신수정의 '진심', 20년 정치 여정 시민 6천명과 나누다"
+        },
+        {
+            "_id": "6976fcf98459600028997fa4",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423659?sid=110",
+            "created_at": "2026-01-26T14:34:46.529000",
+            "description": "야당의 반대가 있었으나 우원식 국회의장과 김준혁·백승아 의원 등의 노력으로 법안을 제정할 수 있었다. 법안의 결과물로 차관급 기관인 국회기록원이 설립된 것이다. 법안의 가장 큰 특징은 국회의원, 교섭단체 또는... ",
+            "originallink": "https://www.khan.co.kr/article/202601252002005",
+            "press": "경향신문",
+            "pubDate": "2026-01-25T20:02:00",
+            "related_members": [
+                "YM42715P",
+                "XBT9550Q",
+                "MDC3257K"
+            ],
+            "title": "[지금, 여기]국회기록원, 시민 기록의 장으로"
+        },
+        {
+            "_id": "6976fd258459600028998076",
+            "link": "https://n.news.naver.com/mnews/article/016/0002590533?sid=100",
+            "created_at": "2026-01-26T14:35:30.902000",
+            "description": "국회에서 학벌주의 괴수에 첫 화살 출신학교 채용 차별 방지법 추진 국민대회 국회의원-시민-정부 대표 400명... 우원식 국회의장, 이학영 국회부의장은 해외 순방 중임에도 영상을 통해 이 법안 추진 운동에 지지의사를... ",
+            "originallink": "https://biz.heraldcorp.com/article/10662129?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-25T12:09:00",
+            "related_members": [
+                "XBT9550Q",
+                "K5F2023J"
+            ],
+            "title": "“학벌주의 금지법은 소년공 이재명 대통령이 국민께 드리는 선물”"
+        },
+        {
+            "_id": "6972d21e84596000289977c2",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787922?sid=102",
+            "created_at": "2026-01-23T10:42:52.860000",
+            "description": "통일·평화운동 원로들을 주축으로 한 시민단체 ‘남북평화회의’는 22일 오후 2시 국회 의원회관... 이재정 전 통일부 장관도 “남북 간 신뢰 회복이 중요하고, 주변 정세 역시 중요하다”는 메시지를 전했다. 이어 강민조... ",
+            "originallink": "https://www.hani.co.kr/arti/area/capital/1241237.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-22T19:46:00",
+            "related_members": [
+                "XBT9550Q",
+                "UQ282145"
+            ],
+            "title": "“막힌 남북관계, 어떻게 풀까”…남북평화회의, 국회 심포지엄 개최"
+        },
+        {
+            "_id": "6972d1f784596000289976e1",
+            "link": "https://n.news.naver.com/mnews/article/023/0003954385?sid=004",
+            "created_at": "2026-01-23T10:42:12.968000",
+            "description": "기사에서 정동영 전 통일부 장관은 정동영 통일부 장관의 잘못이므로 바로잡습니다.(11월 4일 자 A2면)... (6월 21일자 A2면) ▲국회의원 김병기 의원실 이운웅 전 비서관의 배우자 폭행 의혹에 대한 본지의 2020년 4월... ",
+            "originallink": "https://www.chosun.com/special/ombusman/2026/01/21/PNQOLGYGTVFSRH6N4AYRSN24MY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-21T21:19:00",
+            "related_members": [
+                "MLH1404S",
+                "8Q88373R",
+                "XBT9550Q",
+                "SLW27496",
+                "ARP89147",
+                "YS38221N"
+            ],
+            "title": "2025년 조선일보 고충처리인 활동사항"
+        },
+        {
+            "_id": "6972d1fc84596000289976ff",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787663?sid=102",
+            "created_at": "2026-01-23T10:42:18.052000",
+            "description": "피고인은 어떻게 생각하느냐’는 서일준 의원의 질의에 대하여, 헌법 규정에 따르면 계엄을 선포하더라도 국회가 과반수로 의결하면 즉각 해제하게 돼 있지 않느냐. 그러면 결국 그 논리는 계엄을 통해서 국회의 기능을... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1241007.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-21T19:24:00",
+            "related_members": [
+                "7BM2933Y",
+                "MR210505",
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "[전문1] 이진관 재판장 “한덕수 피고인을 징역 23년에 처한다”"
+        },
+        {
+            "_id": "6972d2158459600028997793",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303839?sid=100",
+            "created_at": "2026-01-23T10:42:43.861000",
+            "description": "피고인은 어떻게 생각하느냐는 취지의 서일준 의원의 질의에 대하여 헌법 규정에 따르면 계엄을 선포하더라도 국회가 과반수로 의결하면 즉각 해제하게 되어 있지 않느냐. 그러면 결국 그 논리는 계엄을 통해서 국회의... ",
+            "originallink": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202601211405245040",
+            "press": "YTN",
+            "pubDate": "2026-01-21T14:05:00",
+            "related_members": [
+                "MR210505",
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "한덕수 전 국무총리 '내란 재판' 1심 선고…이 시각 중앙지법"
+        },
+        {
+            "_id": "6972d21e84596000289977c3",
+            "link": "https://n.news.naver.com/mnews/article/052/0002303841?sid=102",
+            "created_at": "2026-01-23T10:42:52.860000",
+            "description": "근거하여 국회의원, 정치인 등 주요 인사와 중앙선관위 관계자들을 영장 없이 체포, 구금하고 MBC, JTBC... 피고인이 당시 국민의힘 원내대표였던 추경호와 통화하면서 추 대표, 걱정하지 마라는 취지로 말한 사실. 피고인이... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601211353199003",
+            "press": "YTN",
+            "pubDate": "2026-01-21T13:53:00",
+            "related_members": [
+                "XBT9550Q",
+                "G152611B"
+            ],
+            "title": "'내란 재판' 한덕수 1심 선고...윤 내란죄 형량 가늠자?"
+        },
         {
             "_id": "6970122a297082fcc2b34bee",
             "link": "https://n.news.naver.com/mnews/article/016/0002588171?sid=102",
@@ -222,7 +526,7 @@
             "_id": "69701237297082fcc2b34c5d",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106944&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-21T08:39:34.123000",
-            "description": "□ 박용진 : 국회의원 수가 워낙 많고 정부 여당이고 그러다 보니까 당연히 이견이 있고, 충돌이 있고, 논쟁이... 의원, 박홍근 의원, 서영교 의원까지. □ 박용진 : 김영배 의원님도 선언을 했어요. ◆ 김영수 : 전현희 의원도... ",
+            "description": "그 당시 때 우원식 지금 국회의장이 원내대표를 했더라고요. 그 당시 때도 우원식 원내대표가 처음에는 받지... □ 박용진 : 국회의원 수가 워낙 많고 정부 여당이고 그러다 보니까 당연히 이견이 있고, 충돌이 있고, 논쟁이... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106944&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-19T09:30:00",
@@ -302,7 +606,7 @@
             "_id": "69701237297082fcc2b34c5e",
             "link": "https://n.news.naver.com/mnews/article/052/0002302570?sid=100",
             "created_at": "2026-01-21T08:39:34.123000",
-            "description": "□ 박용진 : 국회의원 수가 워낙 많고 정부 여당이고 그러다 보니까 당연히 이견이 있고, 충돌이 있고, 논쟁이... 의원, 박홍근 의원, 서영교 의원까지. □ 박용진 : 김영배 의원님도 선언을 했어요. ◆ 김영수 : 전현희 의원도... ",
+            "description": "그 당시 때 우원식 지금 국회의장이 원내대표를 했더라고요. 그 당시 때도 우원식 원내대표가 처음에는 받지... □ 박용진 : 국회의원 수가 워낙 많고 정부 여당이고 그러다 보니까 당연히 이견이 있고, 충돌이 있고, 논쟁이... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601190747166762",
             "press": "YTN",
             "pubDate": "2026-01-19T07:47:00",
@@ -390,337 +694,6 @@
                 "86R9476S"
             ],
             "title": "김영록 전남도지사 “광주·전남 대통합으로 전례 없는 도약 이끌 것”"
-        },
-        {
-            "_id": "69701242297082fcc2b34ca9",
-            "link": "https://n.news.naver.com/mnews/article/003/0013716802?sid=102",
-            "created_at": "2026-01-21T08:39:45.063000",
-            "description": "국회의장, 조정식 대통령 정무특보, 이철우 경북도지사, 이개호 국회의원 등은 축하 영상과 축전을 보냈다. 김 지사는 지역 최대 이슈로 부상한 광주·전남 대통합을 전격 제안한 이유에 대해 \"지금까지 산업화시대에... ",
-            "originallink": "https://www.newsis.com/view/NISX20260118_0003480965",
-            "press": "뉴시스",
-            "pubDate": "2026-01-18T18:04:00",
-            "related_members": [
-                "GRP3908I",
-                "8BF5855P",
-                "9HE7226N",
-                "IC499858",
-                "86R9476S",
-                "EB16073M",
-                "I7R13867",
-                "H5476989",
-                "XBT9550Q",
-                "MLH1404S",
-                "JG77046J",
-                "2385336L",
-                "IN328264"
-            ],
-            "title": "김영록 전남지사 \"대통합으로 새 역사 열어가겠다\""
-        },
-        {
-            "_id": "696c5be4297082fcc2b19b5b",
-            "link": "https://n.news.naver.com/mnews/article/052/0002302282?sid=100",
-            "created_at": "2026-01-18T13:04:52.147000",
-            "description": "일반 국회의원 선거에서도 공천이 이런 경우를 숱하게 많이 들어왔어요. 보도 안 된 것도 어디까지가... 그리고 통일교 특검이라는 부분들이 지금 현 정권의 초대 해수부 장관 전재수 장관이라든가 또는 정동영 통일부... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601181034343817",
-            "press": "YTN",
-            "pubDate": "2026-01-18T10:34:00",
-            "related_members": [
-                "MNZ4401T",
-                "86R9476S",
-                "8Q88373R",
-                "XBT9550Q",
-                "KFM1081G",
-                "GP07421U",
-                "QWL7778X",
-                "EH27538E",
-                "ARP89147",
-                "9YO73104"
-            ],
-            "title": "'공천 헌금' 진실공방...김경 시의원, 3차 소환"
-        },
-        {
-            "_id": "696c5bed297082fcc2b19b8f",
-            "link": "https://n.news.naver.com/mnews/article/382/0001248716?sid=102",
-            "created_at": "2026-01-18T13:05:01.198000",
-            "description": "또 우원식 국회의장, 윤후덕(파주시갑)·박정(파주시을) 국회의원, 황명선 더불어민주당 최고위원, 김승원 경기도당위원장, 이인영·김병주·부승찬 국회의원, 강남훈 (사)기본사회 이사장 등이 추천사를 통해 책의 출간을... ",
-            "originallink": "https://sports.donga.com/region/article/all/20260117/133176773/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-17T18:23:00",
-            "related_members": [
-                "O7R5461J",
-                "ATB59635",
-                "6I88973D",
-                "4019850M",
-                "XBT9550Q",
-                "3ZR4438W",
-                "RJH6314D",
-                "GF286398"
-            ],
-            "title": "“현장에 답이 있다” 김경일 파주시장, 출판기념회서 ‘소통 행정’ 강..."
-        },
-        {
-            "_id": "696c5bef297082fcc2b19b93",
-            "link": "https://n.news.naver.com/mnews/article/009/0005623151?sid=100",
-            "created_at": "2026-01-18T13:05:03.424000",
-            "description": "김성환 의원은 기후환경부 장관이 됐다. 우원식 국회의장과 이학영 부의장도 더좋은미래 출신이다. 당 내에서도 더좋은미래 소속 조승래(사무총장), 천준호(원내운영수석부대표), 이해식(전략기획위원장) 등 여러... ",
-            "originallink": "https://www.mk.co.kr/article/11935537",
-            "press": "매일경제",
-            "pubDate": "2026-01-17T08:31:00",
-            "related_members": [
-                "XBT9550Q",
-                "K5F2023J",
-                "XSP20229",
-                "CCU1009B",
-                "A494529E",
-                "FYI20317"
-            ],
-            "title": "또 주목받는 민주당 ‘더좋은미래’"
-        },
-        {
-            "_id": "696c5c17297082fcc2b19bc5",
-            "link": "https://n.news.naver.com/mnews/article/437/0000473901?sid=100",
-            "created_at": "2026-01-18T13:05:43.567000",
-            "description": "국회의원직을 사퇴한 인요한 전 국민의힘 의원의 비례대표 의원직을 승계받은 이소희 의원이 지난 15일 국회 본회의에서 '선서'를 했습니다. 의원직을 승계하는 의원은 선서를 마친 뒤 선서문을 단상 위 국회의장에게... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12280416?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-16T16:42:00",
-            "related_members": [
-                "XBT9550Q",
-                "B7789327"
-            ],
-            "title": "의장 단상 내려가 선서문 받은 우원식 국회의장 '헌정 사상 최초'"
-        },
-        {
-            "_id": "696c5c03297082fcc2b19baf",
-            "link": "https://n.news.naver.com/mnews/article/056/0012106558?sid=100",
-            "created_at": "2026-01-18T13:05:23.346000",
-            "description": "조국혁신당은 이같은 국회법 개정안은 소수 정당의 토론권을 사실상 박탈한다며 반대해왔습니다. 백승아... 앞서 민주당은 국회의원 60명 이상이 출석하지 않으면 국회의장이 필리버스터를 중단시킬 수 있도록 규정을... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8461150&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-16T14:48:00",
-            "related_members": [
-                "5TQ6306B",
-                "MDC3257K",
-                "XBT9550Q",
-                "H5476989"
-            ],
-            "title": "민주당, 국회법 개정 예고…“엉터리 필리버스터 원천 차단”"
-        },
-        {
-            "_id": "6969b97e297082fcc2b1947a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786796?sid=102",
-            "created_at": "2026-01-16T13:07:24.421000",
-            "description": "지난 9일 손솔 진보당 의원은 22대 국회 개원 1년6개월 만에 차별금지법을 발의했다. 무지개행동은 이날 공개서한에서 “우 의장이 종교 지도자에게 건넨 ‘걱정하지 않아도 된다’는 메시지는, 차별을 겪는 시민들에게는... ",
-            "originallink": "https://www.hani.co.kr/arti/society/women/1240091.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-16T10:34:00",
-            "related_members": [
-                "2KM3589W",
-                "XBT9550Q"
-            ],
-            "title": "성소수자단체 “국회의장은 이해집단 불안 관리하는 자리 아냐”"
-        },
-        {
-            "_id": "6969b985297082fcc2b19483",
-            "link": "https://n.news.naver.com/mnews/article/055/0001324869?sid=100",
-            "created_at": "2026-01-16T13:07:31.531000",
-            "description": "5 MHz 7:00 ~ 9:00) ■ 일자 : 2026년 1월 16일 (금) ■ 진행 : 김태현 변호사 ■ 출연 : 윤건영 더불어민주당 의원 (국회 행안위 여당간사) ▷김태현 : 윤석열 전 대통령의 체포방해 사건 1심 선고가 오늘 나옵니다. 윤 전 대통령에게... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008406638&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-16T09:08:00",
-            "related_members": [
-                "GP07421U",
-                "XBT9550Q",
-                "KFM1081G",
-                "QWL7778X",
-                "YGB8604T"
-            ],
-            "title": "[정치쇼] 윤건영 \"윤 체포방해 '올려치기' 선고해야…장동혁 단식? 번지..."
-        },
-        {
-            "_id": "6968adb2297082fcc2b18d80",
-            "link": "https://n.news.naver.com/mnews/article/079/0004105590?sid=103",
-            "created_at": "2026-01-15T18:04:47.617000",
-            "description": "법안이 통과되자 방청석에서 지켜보던 유가족들은 박수를 치며 환영했고, 우원식 국회의장이 \"유가족들에게 힘내시라고 박수를 보내자\"고 권하면서 국회의원들과 유가족들이 함께 박수를 치는 장면이 연출됐다.... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6456958?utm_source=naver&utm_medium=article&utm_campaign=20260115035806",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-15T15:59:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "12.29 여객기 참사 조사, 국토부에서 국무총리 소속으로 이관 확정"
-        },
-        {
-            "_id": "6968adb2297082fcc2b18d81",
-            "link": "https://n.news.naver.com/mnews/article/421/0008716700?sid=100",
-            "created_at": "2026-01-15T18:04:47.618000",
-            "description": "안은나 유승관 신웅수 기자 = 인요한 전 국회의원의 의원직 사퇴로 비례 의석을 공식 승계한 이소희 국민의힘 의원이 15일 국회 본회의에서 의원 선서를 하며 본격적인 의정 활동에 돌입했다. 이 의원은 \"장애인, 여성... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6040415",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T15:42:00",
-            "related_members": [
-                "XBT9550Q",
-                "B7789327"
-            ],
-            "title": "[뉴스1 PICK]'하반신 마비 장애 딛고 변호사' 인요한 뒤 이은 이소희, 국..."
-        },
-        {
-            "_id": "6968adb2297082fcc2b18d82",
-            "link": "https://n.news.naver.com/mnews/article/003/0013712969?sid=100",
-            "created_at": "2026-01-15T18:04:47.618000",
-            "description": "국민의힘 비례대표를 승계받은 이소희 의원이 15일 오후 서울 여의도 국회에서 열린 제431회국회(임시회) 제1차 본회의에서 우원식 국회의장에게 선서문을 제출하고 있다. 2026.01.15. kgb@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260115_0021128092",
-            "press": "뉴시스",
-            "pubDate": "2026-01-15T14:55:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "선서문 제출하는 이소희 국민의힘 비례대표 국회의원"
-        },
-        {
-            "_id": "6968ad84297082fcc2b18cc2",
-            "link": "https://n.news.naver.com/mnews/article/056/0012105574?sid=100",
-            "created_at": "2026-01-15T18:04:01.564000",
-            "description": "국민의힘 송언석 원내대표는 오늘 국회에서 열린 의원총회에서 “본회의에 이른바 2차 종합특검법이... 앞서 여야 원내지도부는 오늘 오전 우원식 국회의장 주재로 본회의에 어떤 법안을 상정할지 논의했지만, 통일교... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459868&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-15T11:51:00",
-            "related_members": [
-                "8Q88373R",
-                "MNZ4401T",
-                "XBT9550Q",
-                "6EN68926"
-            ],
-            "title": "국힘, 본회의 앞두고 “민주당 종합특검만 추진하면 필리버스터 나설 것..."
-        },
-        {
-            "_id": "6968ada3297082fcc2b18d5a",
-            "link": "https://n.news.naver.com/mnews/article/056/0012105456?sid=100",
-            "created_at": "2026-01-15T18:04:32.178000",
-            "description": "특히 더 큰 공로는 마의 200명 국회의원 있어야 탄핵이 되잖아요. 그거 채워줬어요. 그렇기 때문에 어떤... 주무장관인 정성호 장관은 법사위에 나와서 재가 꿈도 꾸지 마라, 턱도 없다 이렇게 추궁을 했더니 정부의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459667&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-15T09:55:00",
-            "related_members": [
-                "8BF5855P",
-                "TST4507I",
-                "XBT9550Q",
-                "V2R7430Z",
-                "MNZ4401T",
-                "V429892C"
-            ],
-            "title": "[전격시사] 박지원 더불어민주당 의원 - 제2의 검찰청법? “검찰 개혁 수..."
-        },
-        {
-            "_id": "6968ada3297082fcc2b18d5d",
-            "link": "https://n.news.naver.com/mnews/article/052/0002300986?sid=100",
-            "created_at": "2026-01-15T18:04:32.179000",
-            "description": "하지만 전재수 의원 사건에서도 알 수 있듯이 경찰이 수사 결과를 발표하겠다고 해놓고 발표를 안 하잖아요.... 국회의원직까지 고민해야 되는 것 아닌가 싶습니다. 말씀하신 것처럼 의원총회에서는 절반 이상의 찬성을... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601150831394703",
-            "press": "YTN",
-            "pubDate": "2026-01-15T08:31:00",
-            "related_members": [
-                "8BF5855P",
-                "8Q88373R",
-                "MNZ4401T",
-                "XBT9550Q",
-                "9YO73104",
-                "YGB8604T"
-            ],
-            "title": "[뉴스UP] 김경 \"1억 줄 때 강선우도 있었다\"...엇갈린 진술, 진실은?"
-        },
-        {
-            "_id": "6968adb2297082fcc2b18d83",
-            "link": "https://n.news.naver.com/mnews/article/020/0003689549?sid=100",
-            "created_at": "2026-01-15T18:04:47.618000",
-            "description": "우원식 국회의장과 여야 대표 등 주요 정치인을 체포하라고 지시했다는 혐의에 대해 윤 전 대통령은 “국회의원 체포가 동네 애 이름 얘기하듯이 나오는 것이냐”며 “체포하면 그다음은 어떻게 할 거냐. 말도 안 되는... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260115/133159777/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-15T04:36:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "90분 최후진술 尹 “이런 바보가 쿠데타하나”… 책상치며 궤변"
-        },
-        {
-            "_id": "6968adb2297082fcc2b18d84",
-            "link": "https://n.news.naver.com/mnews/article/020/0003689415?sid=100",
-            "created_at": "2026-01-15T18:04:47.618000",
-            "description": "우원식 국회의장과 여야 대표 등 주요 정치인을 체포하라고 지시했다는 혐의에 대해 윤 전 대통령은 “국회의원 체포가 동네 애 이름 얘기하듯이 나오는 것이냐”며 “체포하면 그 다음은 어떻게 할거냐. 말도 안 되는... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133155914/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-14T19:55:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "尹 “바보가 어떻게 친위 쿠데타를 하나”…사과 없이 일방주장 되풀이"
-        },
-        {
-            "_id": "6966ec72887d07f7ba2fb26f",
-            "link": "https://n.news.naver.com/mnews/article/055/0001324138?sid=100",
-            "created_at": "2026-01-14T10:08:03.097000",
-            "description": "하고 박은정 조국혁신당 의원이 검찰 출신 아니에요. 조곤조곤 잘 따지더라고요. 역시 실력 있어요. 그러니까 정성호 장관이 제 질문에 답변하는 게 입법권은 국회에 있기 때문에 국회에서 잘 결정해 주십시오. 정성호... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008403403&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-14T08:53:00",
-            "related_members": [
-                "8BF5855P",
-                "8Q88373R",
-                "MNZ4401T",
-                "1A82234K",
-                "V429892C",
-                "XBT9550Q",
-                "KFM1081G",
-                "2385336L"
-            ],
-            "title": "[정치쇼] 박지원 \"윤 사형 선고 확신…공소청·중수청법? 턱도 없다\""
-        },
-        {
-            "_id": "6966eca0887d07f7ba2fb318",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708776?sid=102",
-            "created_at": "2026-01-14T10:08:48.635000",
-            "description": "대통령으로부터 의원 체포 지시 등을 받았다고 진술했다. 또 지난해 11월 3일 공판에서는 윤 전 대통령이 계엄... 구민회 방첩사 수사조정과장은 계엄 해제 의결이 임박한 시점에 우원식 당시 국회의장, 이재명 당시... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475334",
-            "press": "뉴시스",
-            "pubDate": "2026-01-14T02:46:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "\"평화적 메시지 계엄\" vs \"의원 체포 지시\"…尹 재판 353일의 기록"
-        },
-        {
-            "_id": "6966eca0887d07f7ba2fb319",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708600?sid=100",
-            "created_at": "2026-01-14T10:08:48.635000",
-            "description": "이승재 우지은 기자 = 장동혁 국민의힘 대표와 이준석 개혁신당 대표가 13일 우원식 국회의장을 만나 오는... 그러면서 \"그런데 통일교는 여당 인사, 장관까지 지낸 현직 국회의원이 관련돼 있는 사건이고 이미 증거가 다... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475678",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T19:08:00",
-            "related_members": [
-                "KFM1081G",
-                "QWL7778X",
-                "XBT9550Q",
-                "2385336L"
-            ],
-            "title": "장동혁·이준석, 우 의장에 \"15일 본회의 '2차특검법' 상정하지 말아야..."
-        },
-        {
-            "_id": "6966eca0887d07f7ba2fb31a",
-            "link": "https://n.news.naver.com/mnews/article/016/0002585223?sid=101",
-            "created_at": "2026-01-14T10:08:48.636000",
-            "description": "당대표 / 조배숙 국회의원 / 임광현 국세청 [중기중앙회] 뒤이은 야당 대표 장동혁 국민의힘 대표는 ‘꼭 여당이 돼야겠다’는 생각을 하게 됐다고 뼈있는 농담을 했다. 장 대표는 준비했던 원고를 가리키며 “국회의장님이... ",
-            "originallink": "https://biz.heraldcorp.com/article/10654782?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-13T17:52:00",
-            "related_members": [
-                "KFM1081G",
-                "2385336L",
-                "XBT9550Q",
-                "IWK63872",
-                "TZP9391O",
-                "K5F2023J"
-            ],
-            "title": "국회 “법? 다해줄게”·중기부 장관 “휴~”… 훈훈했던 ‘중기 신년회..."
         }
     ],
     "recent_videos": [
@@ -736,69 +709,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a72f631fd1743497cdd0",
-            "url": "https://www.youtube.com/watch?v=042h1AMIbvU",
+            "_id": "6960a72f631fd1743497cdd1",
+            "url": "https://www.youtube.com/watch?v=RBdLkplIs4Q",
             "HG_NM": "우원식",
             "MONA_CD": "XBT9550Q",
             "collected_at": "2026-01-09T15:58:44.702000",
-            "duration": 908.0,
+            "duration": 7395.0,
             "source": "SBS뉴스",
-            "title": "\"나경원 의원님, 인사 안합니까?\" 우원식 의장과 시작부터 불붙은 나경원 의원…결국 마이크 꺼지자 / SBS / 바로이뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdca",
-            "url": "https://www.youtube.com/watch?v=DdM5lGpxJi0",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T16:24:20.889000",
-            "duration": 11187.0,
-            "source": "MBC뉴스",
-            "title": "우원식 국회의장 방미통위 김종철 위원장 접견 - [현장PLAY] MBC뉴스 2026년 01월 08일",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdd6",
-            "url": "https://www.youtube.com/watch?v=0_z4dKaqJJU",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:45.582000",
-            "duration": 8544.0,
-            "source": "JTBC News",
-            "title": "[다시보기] 조지호·김봉식 등 법정 영상...'우원식 체포조장' 방첩사 수사단장 \"체포해 수방사로 이동 명령, 법적으로 해선 안 되겠다 생각해\" [이슈현장] / JTBC News",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdd2",
-            "url": "https://www.youtube.com/watch?v=Y0ZdTtRwTgc",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:44.702000",
-            "duration": 3283.0,
-            "source": "SBS뉴스",
-            "title": "'여야 원 구성 극한 대치' 우원식 국회의장 기자회견 / SBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdce",
-            "url": "https://www.youtube.com/watch?v=xt2X3koLvI0",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:44.702000",
-            "duration": 10136.0,
-            "source": "SBS뉴스",
-            "title": "🔴속보 | \"국힘은 안 만나\" 정청래, 우원식·야4당 대표 예방 | SBS LIVE",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdd9",
-            "url": "https://www.youtube.com/watch?v=etEHTrxVnbg",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:45.582000",
-            "duration": 424.0,
-            "source": "JTBC News",
-            "title": "\"추후에 우원식이 매달려서\"…'조작' 억지에 판사마저 [이슈PLAY] / JTBC News",
+            "title": "우원식 국회의장 관훈클럽 토론회..원 구성 입장 주목 / SBS",
             "upload_date": null
         },
         {
@@ -813,69 +731,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a72f631fd1743497cdd1",
-            "url": "https://www.youtube.com/watch?v=RBdLkplIs4Q",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:44.702000",
-            "duration": 7395.0,
-            "source": "SBS뉴스",
-            "title": "우원식 국회의장 관훈클럽 토론회..원 구성 입장 주목 / SBS",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdcb",
-            "url": "https://www.youtube.com/watch?v=P1btxVB2fx0",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-18T13:16:45.440000",
-            "duration": 373.0,
-            "source": "MBC뉴스",
-            "title": "담장 넘어 '의사봉'‥우원식 국회의장의 1년 (2025.12.03/뉴스데스크/MBC)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdd5",
-            "url": "https://www.youtube.com/watch?v=b4TcDhQDP5U",
+            "_id": "6960a72f631fd1743497cdd6",
+            "url": "https://www.youtube.com/watch?v=0_z4dKaqJJU",
             "HG_NM": "우원식",
             "MONA_CD": "XBT9550Q",
             "collected_at": "2026-01-09T15:58:45.582000",
-            "duration": 1602.0,
+            "duration": 8544.0,
             "source": "JTBC News",
-            "title": "[단도직입｜풀버전] 우원식 국회의장 인터뷰 / JTBC 뉴스룸",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdd3",
-            "url": "https://www.youtube.com/watch?v=J5gt3cyyExY",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:44.702000",
-            "duration": 1097.0,
-            "source": "SBS뉴스",
-            "title": "눈물 흘린 우원식…\"한국당 추경 반대 기막혀 '울컥'\" / SBS / 주영진의 브리핑",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdcd",
-            "url": "https://www.youtube.com/watch?v=r3jWjBiu8y8",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:44.702000",
-            "duration": 568.0,
-            "source": "SBS뉴스",
-            "title": "\"싹 잡아들이란 건 반국가단체\" 궤변에…\"이재명·우원식·한동훈이?\" 되치기 / SBS / 바로이뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960a72f631fd1743497cdd7",
-            "url": "https://www.youtube.com/watch?v=BxoowxRnVzM",
-            "HG_NM": "우원식",
-            "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:45.582000",
-            "duration": 319.0,
-            "source": "JTBC News",
-            "title": "[다시보기] 우원식 국회의장 주재, 여야 원내대표 회동-12월 9일 (화) 풀영상 [이슈현장] / JTBC News",
+            "title": "[다시보기] 조지호·김봉식 등 법정 영상...'우원식 체포조장' 방첩사 수사단장 \"체포해 수방사로 이동 명령, 법적으로 해선 안 되겠다 생각해\" [이슈현장] / JTBC News",
             "upload_date": null
         },
         {
@@ -890,25 +753,47 @@
             "upload_date": null
         },
         {
-            "_id": "6960a72f631fd1743497cdcf",
-            "url": "https://www.youtube.com/watch?v=aiEHrydTw3Q",
+            "_id": "6960a72f631fd1743497cdcd",
+            "url": "https://www.youtube.com/watch?v=r3jWjBiu8y8",
             "HG_NM": "우원식",
             "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-21T08:47:38.809000",
-            "duration": 264.0,
+            "collected_at": "2026-01-09T15:58:44.702000",
+            "duration": 568.0,
             "source": "SBS뉴스",
-            "title": "계엄 소식 들었을 때 든 생각은?…우원식 국회의장 인터뷰 / SBS 특집 8뉴스",
+            "title": "\"싹 잡아들이란 건 반국가단체\" 궤변에…\"이재명·우원식·한동훈이?\" 되치기 / SBS / 바로이뉴스",
             "upload_date": null
         },
         {
-            "_id": "6960a72f631fd1743497cdc6",
-            "url": "https://www.youtube.com/watch?v=OlN58rGSF90",
+            "_id": "6960a72f631fd1743497cdd9",
+            "url": "https://www.youtube.com/watch?v=etEHTrxVnbg",
             "HG_NM": "우원식",
             "MONA_CD": "XBT9550Q",
-            "collected_at": "2026-01-09T15:58:43.139000",
-            "duration": 1927.0,
-            "source": "KBS뉴스",
-            "title": "[현장] 김정은 \"반갑\"…\"곧 보자\" 시진핑 '끄덕'/우원식 '전승절 생생 후기' 풀영상/2025년 9월 4일(목)/KBS",
+            "collected_at": "2026-01-09T15:58:45.582000",
+            "duration": 424.0,
+            "source": "JTBC News",
+            "title": "\"추후에 우원식이 매달려서\"…'조작' 억지에 판사마저 [이슈PLAY] / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdd3",
+            "url": "https://www.youtube.com/watch?v=J5gt3cyyExY",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:44.702000",
+            "duration": 1097.0,
+            "source": "SBS뉴스",
+            "title": "눈물 흘린 우원식…\"한국당 추경 반대 기막혀 '울컥'\" / SBS / 주영진의 브리핑",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdd2",
+            "url": "https://www.youtube.com/watch?v=Y0ZdTtRwTgc",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:44.702000",
+            "duration": 3283.0,
+            "source": "SBS뉴스",
+            "title": "'여야 원 구성 극한 대치' 우원식 국회의장 기자회견 / SBS",
             "upload_date": null
         },
         {
@@ -923,6 +808,17 @@
             "upload_date": null
         },
         {
+            "_id": "6960a72f631fd1743497cdd5",
+            "url": "https://www.youtube.com/watch?v=b4TcDhQDP5U",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:45.582000",
+            "duration": 1602.0,
+            "source": "JTBC News",
+            "title": "[단도직입｜풀버전] 우원식 국회의장 인터뷰 / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
             "_id": "6960a72f631fd1743497cdcc",
             "url": "https://www.youtube.com/watch?v=tOitsZul70c",
             "HG_NM": "우원식",
@@ -931,6 +827,61 @@
             "duration": 342.0,
             "source": "MBC뉴스",
             "title": "우원식 국회의장 강경화 주미대사 내정자 접견 - [현장PLAY] MBC뉴스 2025년 09월 29일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdcb",
+            "url": "https://www.youtube.com/watch?v=P1btxVB2fx0",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-18T13:16:45.440000",
+            "duration": 373.0,
+            "source": "MBC뉴스",
+            "title": "담장 넘어 '의사봉'‥우원식 국회의장의 1년 (2025.12.03/뉴스데스크/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdd7",
+            "url": "https://www.youtube.com/watch?v=BxoowxRnVzM",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:45.582000",
+            "duration": 319.0,
+            "source": "JTBC News",
+            "title": "[다시보기] 우원식 국회의장 주재, 여야 원내대표 회동-12월 9일 (화) 풀영상 [이슈현장] / JTBC News",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdc6",
+            "url": "https://www.youtube.com/watch?v=OlN58rGSF90",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:43.139000",
+            "duration": 1927.0,
+            "source": "KBS뉴스",
+            "title": "[현장] 김정은 \"반갑\"…\"곧 보자\" 시진핑 '끄덕'/우원식 '전승절 생생 후기' 풀영상/2025년 9월 4일(목)/KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdcf",
+            "url": "https://www.youtube.com/watch?v=aiEHrydTw3Q",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-23T16:45:52.631000",
+            "duration": 264.0,
+            "source": "SBS뉴스",
+            "title": "계엄 소식 들었을 때 든 생각은?…우원식 국회의장 인터뷰 / SBS 특집 8뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdd0",
+            "url": "https://www.youtube.com/watch?v=042h1AMIbvU",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:44.702000",
+            "duration": 908.0,
+            "source": "SBS뉴스",
+            "title": "\"나경원 의원님, 인사 안합니까?\" 우원식 의장과 시작부터 불붙은 나경원 의원…결국 마이크 꺼지자 / SBS / 바로이뉴스",
             "upload_date": null
         },
         {
@@ -943,7 +894,29 @@
             "source": "SBS뉴스",
             "title": "SBS 오뉴스 - '의대 증원 가처분' 잠시 뒤 법원 결정 / 22대 첫 국회의장 후보 우원식..'추 탈락' 이변 (2024년 5월 16일)",
             "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdca",
+            "url": "https://www.youtube.com/watch?v=DdM5lGpxJi0",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T16:24:20.889000",
+            "duration": 11187.0,
+            "source": "MBC뉴스",
+            "title": "우원식 국회의장 방미통위 김종철 위원장 접견 - [현장PLAY] MBC뉴스 2026년 01월 08일",
+            "upload_date": null
+        },
+        {
+            "_id": "6960a72f631fd1743497cdce",
+            "url": "https://www.youtube.com/watch?v=xt2X3koLvI0",
+            "HG_NM": "우원식",
+            "MONA_CD": "XBT9550Q",
+            "collected_at": "2026-01-09T15:58:44.702000",
+            "duration": 10136.0,
+            "source": "SBS뉴스",
+            "title": "🔴속보 | \"국힘은 안 만나\" 정청래, 우원식·야4당 대표 예방 | SBS LIVE",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:26.802842"
+    "exported_at": "2026-01-26T14:36:33.880783"
 }

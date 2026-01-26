@@ -46,54 +46,62 @@
             "전남",
             "통합",
             "정진",
-            "대통령",
-            "행정",
             "김영록",
+            "대통령",
             "지역",
+            "행정",
             "더불어민주당",
+            "호남",
+            "의장",
             "지사",
             "도지사",
-            "회견",
-            "위원장",
-            "의장",
-            "특별법"
+            "민주당",
+            "시장"
         ],
         "keyword_frequency": [
             {
                 "text": "광주",
-                "value": 64
+                "value": 54
             },
             {
                 "text": "전남",
-                "value": 60
+                "value": 52
             },
             {
                 "text": "통합",
-                "value": 57
+                "value": 50
             },
             {
                 "text": "정진",
-                "value": 44
-            },
-            {
-                "text": "대통령",
-                "value": 20
-            },
-            {
-                "text": "행정",
-                "value": 18
+                "value": 47
             },
             {
                 "text": "김영록",
                 "value": 17
             },
             {
+                "text": "대통령",
+                "value": 16
+            },
+            {
                 "text": "지역",
-                "value": 17
+                "value": 16
+            },
+            {
+                "text": "행정",
+                "value": 16
             },
             {
                 "text": "더불어민주당",
-                "value": 15
+                "value": 14
+            },
+            {
+                "text": "호남",
+                "value": 14
+            },
+            {
+                "text": "의장",
+                "value": 12
             },
             {
                 "text": "지사",
@@ -101,48 +109,118 @@
             },
             {
                 "text": "도지사",
-                "value": 12
-            },
-            {
-                "text": "회견",
-                "value": 12
-            },
-            {
-                "text": "위원장",
                 "value": 11
             },
             {
-                "text": "의장",
-                "value": 11
+                "text": "민주당",
+                "value": 10
             },
             {
-                "text": "특별법",
-                "value": 11
+                "text": "시장",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:38.006185",
+        "last_analyzed_at": "2026-01-26T14:36:45.861295",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                4,
                 0,
                 0,
-                6,
-                2,
+                1,
+                1,
                 0,
-                0
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fce58459600028997f00",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108805?sid=102",
+            "created_at": "2026-01-26T14:34:26.716000",
+            "description": "자치구의회 의원 등 각계 인사들이 대거 참석해 출판을 축하했다. 우원식 국회의장과 황명선·문정복·강득구 더불어민주당 최고위원, 김윤덕 국토교통부 장관, 박찬대·천준호·김문수 국회의원은 영상 축사를 통해... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461616?utm_source=naver&utm_medium=article&utm_campaign=20260126091357",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-26T09:14:00",
+            "related_members": [
+                "8P37634C",
+                "A494529E",
+                "GOC54665",
+                "5N65159P",
+                "BT62420K",
+                "RJH6314D",
+                "JZY9937U",
+                "XBT9550Q",
+                "86R9476S",
+                "IWR8966I",
+                "M7O7878U",
+                "CK143054",
+                "EB16073M",
+                "VRY5522V",
+                "9HE7226N",
+                "IC499858",
+                "QUR40502"
+            ],
+            "title": "신수정의 '진심', 20년 정치 여정 시민 6천명과 나누다"
+        },
+        {
+            "_id": "6976fcff8459600028997fcf",
+            "link": "https://n.news.naver.com/mnews/article/421/0008733342?sid=102",
+            "created_at": "2026-01-26T14:34:52.489000",
+            "description": "주철현 국회의원은 \"깊은 슬픔과 비통함을 금할 수 없다\"며 \"교육개혁과 지방분권, 책임 정치의 확립을 위해 평생을 헌신하신 그 발자취는 우리 정치사에 오래도록 남을 것\"이라며 명복을 빌었다. 이어 \"정치적 유불리를... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6050244",
+            "press": "뉴스1",
+            "pubDate": "2026-01-25T20:43:00",
+            "related_members": [
+                "EB16073M",
+                "VRY5522V",
+                "M7O7878U",
+                "9HE7226N",
+                "T465023H"
+            ],
+            "title": "\"민주주의 산증인\" 이해찬 전 총리 별세에 광주·전남 애도 물결"
+        },
+        {
+            "_id": "6976fcec8459600028997f4a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013727158?sid=100",
+            "created_at": "2026-01-26T14:34:33.543000",
+            "description": "아울러 민주당에서 박해철·정진욱 의원이 역시 새로 합류하기로 했다. 김 의원은 \"노사정과 국회의 사회적 대화의 틀이 완성됐다\"고 평가했다. 권 차관은 이날 회의에서 \"정년 연장을 속도감 있게 풀어내야 할 것 같다\"며... ",
+            "originallink": "https://www.newsis.com/view/NISX20260123_0003487871",
+            "press": "뉴시스",
+            "pubDate": "2026-01-23T13:15:00",
+            "related_members": [
+                "ZDR63255",
+                "GX38539O",
+                "NXB3178C",
+                "D6U6678O",
+                "9HE7226N",
+                "E2B3753X"
+            ],
+            "title": "與, 지선 전후 '65세 정년' 법안 마련키로…한노총 \"무책임한 시간끌기..."
+        },
+        {
+            "_id": "6972d2368459600028997816",
+            "link": "https://n.news.naver.com/mnews/article/016/0002589585?sid=101",
+            "created_at": "2026-01-23T10:43:16.339000",
+            "description": "국회에서는 정진욱·조인철 의원 등이 자리를 함께했다. 김기문 중기중앙회 회장은 신년사를 통해 “중소기업 중심의 지방 주도 성장을 통한 ‘모두의 성장’으로의 대전환이 호남에서 시작되길 기대한다”며 “60년 만에... ",
+            "originallink": "https://biz.heraldcorp.com/article/10660389?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-22T14:01:00",
+            "related_members": [
+                "ZKB18611",
+                "9HE7226N"
+            ],
+            "title": "중기중앙회, ‘2026 호남권 중소기업인 신년인사회’ 개최"
+        },
         {
             "_id": "69701232297082fcc2b34c39",
             "link": "https://n.news.naver.com/mnews/article/079/0004106389?sid=102",
@@ -499,7 +577,7 @@
             "_id": "696594a6887d07f7ba2fab3b",
             "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
-            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱 의원... ",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 17:00 김우영 의원실, K-청년 라운드 우리의 언어로 문화를 보다: [2주차] K-기술과 K-컬처: 과연 연관성이... ",
             "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
             "press": "뉴시스",
             "pubDate": "2026-01-13T05:00:00",
@@ -523,7 +601,7 @@
             "_id": "696594a6887d07f7ba2fab3c",
             "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
-            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱... ",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 17:00 김우영 의원실, K-청년 라운드 우리의 언어로 문화를 보다: [2주차] K-기술과 K-컬처: 과연 연관성이... ",
             "originallink": "https://www.news1.kr/politics/assembly/6036526",
             "press": "뉴스1",
             "pubDate": "2026-01-13T05:00:00",
@@ -677,73 +755,6 @@
                 "8TU8443O"
             ],
             "title": "與 광주·전남 의원들 \"정부, 15일께 광주·전남 통합 지원특례 발표\"…..."
-        },
-        {
-            "_id": "6964b56e631fd17434996337",
-            "link": "https://n.news.naver.com/mnews/article/421/0008705772?sid=100",
-            "created_at": "2026-01-12T17:48:43.549000",
-            "description": "광주시당위원장인 양부남·전남도당위원장인 김원이 의원은 이날 국회 소통관에서 브리핑을 갖고 이같이... 정진욱 의원은 \"시기상 지방선거까지 주민투표를 실시하기엔 여유가 없다\"며 \"지방자치법이 규정하는 시도의회... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6034160",
-            "press": "뉴스1",
-            "pubDate": "2026-01-09T15:56:00",
-            "related_members": [
-                "4L695580",
-                "CK143054",
-                "9HE7226N"
-            ],
-            "title": "李대통령-與 '광주·전남 행정통합' 합심…당 15일 법안 발의(종합)"
-        },
-        {
-            "_id": "6964b548631fd174349960a2",
-            "link": "https://n.news.naver.com/mnews/article/023/0003952000?sid=100",
-            "created_at": "2026-01-12T17:48:06.111000",
-            "description": "이 대통령은 이날 광주·전남 지역 시도지사·국회의원 오찬에서 이같이 약속했다고 오찬에 참석한 의원들이... 조인철 의원은 통화에서 “이 대통령은 지방 균형 성장에 대한 확고한 의지를 보였다”면서 “통합시도에... ",
-            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/09/AYX6YNOV5VEFLIG3URRO5EGXIU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-09T15:47:00",
-            "related_members": [
-                "8TU8443O",
-                "86R9476S",
-                "M7O7878U",
-                "CK143054",
-                "IC499858",
-                "9HE7226N",
-                "ZKB18611"
-            ],
-            "title": "李 힘 실은 광주·전남 통합... 당정 “2월에 특별법 통과”"
-        },
-        {
-            "_id": "6964b548631fd174349960a3",
-            "link": "https://n.news.naver.com/mnews/article/003/0013702057?sid=100",
-            "created_at": "2026-01-12T17:48:06.111000",
-            "description": "더불어민주당 전남도당위원장인 김원이 의원은 9일 국회에서 기자회견을 열고 \"전남·광주 의원들은 이재명... 양부남 의원, 전남에서 신정훈·김문수·조계원 의원, 광주에서 정준호·정진욱 의원 등이 참석했다．",
-            "originallink": "https://www.newsis.com/view/NISX20260109_0003471532",
-            "press": "뉴시스",
-            "pubDate": "2026-01-09T15:24:00",
-            "related_members": [
-                "4L695580",
-                "86R9476S",
-                "M7O7878U",
-                "CK143054",
-                "IC499858",
-                "8TU8443O",
-                "9HE7226N"
-            ],
-            "title": "與 광주·전남 의원들 \"정부, 15일께 광주·전남 통합 지원특례 발표\"…..."
-        },
-        {
-            "_id": "6964b55c631fd1743499621a",
-            "link": "http://andongmbc.co.kr/adboard/NewsView80094",
-            "created_at": "2026-01-12T17:48:25.680000",
-            "description": "◀ SYNC ▶정종섭/외교부 서기관 \"올해 말부터 내년 초까지 미얀마에서 총선이 개최될 예정인데 저희가 총선에 대해서 아직 국제사회에서 우려가 좀 많이 있는 상황입니다.\" 더불어민주당 박선원 국회의원은 어려운... ",
-            "originallink": "http://andongmbc.co.kr/adboard/NewsView80094",
-            "press": "MBC",
-            "pubDate": "2026-01-08T21:24:00",
-            "related_members": [
-                "VZA76236",
-                "9HE7226N"
-            ],
-            "title": "R]\"수세미로 닦으면 태극마크 나온다\"... KAL858기 확인 '정부 의지만 남..."
         }
     ],
     "recent_videos": [
@@ -762,7 +773,7 @@
             "url": "https://www.youtube.com/watch?v=ysLXit5GAw4",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-21T08:50:46.710000",
+            "collected_at": "2026-01-23T16:49:04.651000",
             "duration": 125.0,
             "title": "[현장영상] 주진우 \"장난하고 있어요?\"... 정진욱 \"이렇게 할 거예요?\" / 채널A",
             "upload_date": null
@@ -772,7 +783,7 @@
             "url": "https://www.youtube.com/watch?v=owvV18En-FE",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-21T08:50:45.972000",
+            "collected_at": "2026-01-23T16:49:04.651000",
             "duration": 505.0,
             "title": "[2024국정감사] 더불어민주당 정진욱 의원, 무식하단 발언에 아수라장.. 결국 중단된 토론",
             "upload_date": null
@@ -782,7 +793,7 @@
             "url": "https://www.youtube.com/watch?v=SHnIZio69Hc",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-18T13:20:18.548000",
+            "collected_at": "2026-01-23T16:49:03.865000",
             "duration": 291.0,
             "title": "검은넥타이 매고 등장..폭발한 정진욱...국민의힘 \"배준영은 무릎 꿇고 사죄하라\"",
             "upload_date": null
@@ -792,7 +803,7 @@
             "url": "https://www.youtube.com/watch?v=u6Xc2Ft9DRQ",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-21T08:50:45.972000",
+            "collected_at": "2026-01-23T16:49:03.865000",
             "duration": 127.0,
             "title": "[축사 영상] 정진욱 국회의원의 '대한민국 재계지도' 포럼 축사",
             "upload_date": null
@@ -802,7 +813,7 @@
             "url": "https://www.youtube.com/watch?v=UQ6HHc9iSXQ",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-21T08:50:45.972000",
+            "collected_at": "2026-01-23T16:49:03.865000",
             "duration": 228.0,
             "title": "\"청산해야 될 시기\" 정진욱 '초선 당선인' \"윤석열, 스스로 물러날지 탄핵 당할지 선.택.해!\"",
             "upload_date": null
@@ -812,7 +823,7 @@
             "url": "https://www.youtube.com/watch?v=ln5uBaY5HJE",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-21T08:50:45.972000",
+            "collected_at": "2026-01-23T16:49:03.865000",
             "duration": 392.0,
             "title": "민주당 정진욱 의원,공공배달앱 관련 기자회견",
             "upload_date": null
@@ -832,7 +843,7 @@
             "url": "https://www.youtube.com/watch?v=5-_yqJbqD0w",
             "HG_NM": "정진욱",
             "MONA_CD": "9HE7226N",
-            "collected_at": "2026-01-18T13:20:19.623000",
+            "collected_at": "2026-01-23T16:49:04.651000",
             "duration": 62.0,
             "title": "[총선브리핑] 안태욱 김주업 정진욱 (뉴스투데이 2024.04.02 광주MBC)",
             "upload_date": null
@@ -876,7 +887,37 @@
             "duration": 77.0,
             "title": "지역 경제 살릴 한국형 글로벌 전시회 육성 필요! | 250827 예결위 경제부처 결산 질의 | 정진욱TV",
             "upload_date": null
+        },
+        {
+            "_id": "697327f38459600028997ab7",
+            "url": "https://www.youtube.com/watch?v=Db-Mw6LUsPs",
+            "HG_NM": "정진욱",
+            "MONA_CD": "9HE7226N",
+            "collected_at": "2026-01-23T16:49:03.865000",
+            "duration": 158.0,
+            "title": "\"진실이 가려지지 않도록.. 제한 없이 밝혀져야..!\" 정진욱, 방송 관행 폐기 요구 [운영위] 2025.02.19.",
+            "upload_date": null
+        },
+        {
+            "_id": "697327f38459600028997ab8",
+            "url": "https://www.youtube.com/watch?v=Z-Ij1IrN9kw",
+            "HG_NM": "정진욱",
+            "MONA_CD": "9HE7226N",
+            "collected_at": "2026-01-23T16:49:03.865000",
+            "duration": 433.0,
+            "title": "(정진욱 의원) 대왕고래 프로젝트는 국면전환용, 대국민사기극 맹비난...\"철없는 오빠, 무식한 오빠 아니면 못하는 일\"",
+            "upload_date": null
+        },
+        {
+            "_id": "697327f38459600028997ab9",
+            "url": "https://www.youtube.com/watch?v=XE8J7aqnNPY",
+            "HG_NM": "정진욱",
+            "MONA_CD": "9HE7226N",
+            "collected_at": "2026-01-23T16:49:04.651000",
+            "duration": 535.0,
+            "title": "\"친윤라인 정치검찰의 집단 반발!\"...검찰 향한 작심발언 날리는 정진욱",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:38.006185"
+    "exported_at": "2026-01-26T14:36:45.861295"
 }

@@ -47,23 +47,27 @@
     },
     "analysis": {
         "keywords": [
+            "국비",
             "군민",
             "국민",
+            "경북도",
             "의성",
             "충원",
             "공항",
-            "경북도",
+            "확보",
             "소통",
-            "박은정",
             "티조",
-            "국비",
+            "박은정",
             "예산",
             "정책",
             "더뉴스",
-            "연관",
-            "고민정"
+            "연관"
         ],
         "keyword_frequency": [
+            {
+                "text": "국비",
+                "value": 8
+            },
             {
                 "text": "군민",
                 "value": 8
@@ -71,6 +75,10 @@
             {
                 "text": "국민",
                 "value": 8
+            },
+            {
+                "text": "경북도",
+                "value": 7
             },
             {
                 "text": "의성",
@@ -85,7 +93,7 @@
                 "value": 5
             },
             {
-                "text": "경북도",
+                "text": "확보",
                 "value": 4
             },
             {
@@ -93,15 +101,11 @@
                 "value": 4
             },
             {
-                "text": "박은정",
-                "value": 4
-            },
-            {
                 "text": "티조",
                 "value": 4
             },
             {
-                "text": "국비",
+                "text": "박은정",
                 "value": 4
             },
             {
@@ -119,28 +123,24 @@
             {
                 "text": "연관",
                 "value": 4
-            },
-            {
-                "text": "고민정",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:20.000693",
+        "last_analyzed_at": "2026-01-26T14:36:26.668854",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
                 0,
                 1,
-                1,
+                0,
                 0,
                 0,
                 0
@@ -148,6 +148,19 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6972d2108459600028997787",
+            "link": "http://andongmbc.co.kr/adboard/NewsView80343",
+            "created_at": "2026-01-23T10:42:38.311000",
+            "description": "활동한 박형수 의원에게 감사패를 전달했습니다. 경북도는 여야 구도가 바뀐 상황에서도 국비 확보 캠프를 조기 가동하고 시군·지역 국회의원과 공조한 끝에 역대 최대 규모인 12조 7,356억 원의 국비를 확보했습니다.... ",
+            "originallink": "http://andongmbc.co.kr/adboard/NewsView80343",
+            "press": "MBC",
+            "pubDate": "2026-01-22T09:16:00",
+            "related_members": [
+                "6U243644"
+            ],
+            "title": "경북도, 박형수 의원 2026년 국비 확보 감사패 전달"
+        },
         {
             "_id": "6970124c297082fcc2b34ce0",
             "link": "https://n.news.naver.com/mnews/article/016/0002587366?sid=100",
@@ -190,13 +203,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960acb2631fd1743497d77c",
-            "url": "https://www.youtube.com/watch?v=prKjwbwMxoQ",
+            "_id": "6960acb2631fd1743497d77e",
+            "url": "https://www.youtube.com/watch?v=Ic5jPFl6tO8",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:39.752000",
-            "duration": 868.0,
-            "title": "[박은정의 킬샷?] 깐족대던 국힘 박형수의원. 박은정의원과 김용민의원의 한방 킬샷에 녹다운..",
+            "collected_at": "2026-01-23T16:43:56.493000",
+            "duration": 60.0,
+            "title": "#국민의힘 #박형수 #국회의원 #대구는 #찬밥이냐?라며 #대통령실 #직격",
             "upload_date": null
         },
         {
@@ -204,19 +217,19 @@
             "url": "https://www.youtube.com/watch?v=svu0bO3ck-M",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:39.753000",
+            "collected_at": "2026-01-23T16:43:56.493000",
             "duration": 187.0,
             "title": "박형수 \"국회의원은 왜 있습니까?\" [티조Clip]",
             "upload_date": null
         },
         {
-            "_id": "6960acb2631fd1743497d77e",
-            "url": "https://www.youtube.com/watch?v=Ic5jPFl6tO8",
+            "_id": "6960acb2631fd1743497d77c",
+            "url": "https://www.youtube.com/watch?v=prKjwbwMxoQ",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-09T16:22:23.234000",
-            "duration": 60.0,
-            "title": "#국민의힘 #박형수 #국회의원 #대구는 #찬밥이냐?라며 #대통령실 #직격",
+            "collected_at": "2026-01-23T16:43:56.493000",
+            "duration": 868.0,
+            "title": "[박은정의 킬샷?] 깐족대던 국힘 박형수의원. 박은정의원과 김용민의원의 한방 킬샷에 녹다운..",
             "upload_date": null
         },
         {
@@ -224,19 +237,9 @@
             "url": "https://www.youtube.com/watch?v=D_BOIgLZJyE",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:39.753000",
+            "collected_at": "2026-01-23T16:43:56.493000",
             "duration": 2174.0,
             "title": "박형수 국회의원 울진군 2025년도 국비예산 정책협의 2024 05 29",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acb2631fd1743497d780",
-            "url": "https://www.youtube.com/watch?v=95VJZY5AYIc",
-            "HG_NM": "박형수",
-            "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:39.753000",
-            "duration": 1132.0,
-            "title": "\"피의자 신문하시나\" 박형수 국민의힘 의원 질문에 대한 추미애 법무부 장관의 답변",
             "upload_date": null
         },
         {
@@ -244,9 +247,19 @@
             "url": "https://www.youtube.com/watch?v=phRX3AIy4Rg",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:40.521000",
+            "collected_at": "2026-01-23T16:43:57.287000",
             "duration": 145.0,
             "title": "박형수 의원 '의성行'..김재원 등 각축 예고 (2024.02.20/뉴스투데이/포항MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acb2631fd1743497d780",
+            "url": "https://www.youtube.com/watch?v=95VJZY5AYIc",
+            "HG_NM": "박형수",
+            "MONA_CD": "6U243644",
+            "collected_at": "2026-01-23T16:43:56.493000",
+            "duration": 1132.0,
+            "title": "\"피의자 신문하시나\" 박형수 국민의힘 의원 질문에 대한 추미애 법무부 장관의 답변",
             "upload_date": null
         },
         {
@@ -254,7 +267,7 @@
             "url": "https://www.youtube.com/watch?v=RRCFkvaxK0U",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:39.753000",
+            "collected_at": "2026-01-23T16:43:56.493000",
             "duration": 358.0,
             "title": "[국회는지금] \"산불 피해 복구 지원 확대해야\" 박형수 국회의원ㅣ#헬로tv뉴스",
             "upload_date": null
@@ -264,7 +277,7 @@
             "url": "https://www.youtube.com/watch?v=-j9iRCRuBhg",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:39.753000",
+            "collected_at": "2026-01-23T16:43:56.493000",
             "duration": 386.0,
             "title": "위원장 사퇴하세요!! 박형수 발끈하자..국회법 꺼내더니 칼차단 하는 이춘석",
             "upload_date": null
@@ -274,7 +287,7 @@
             "url": "https://www.youtube.com/watch?v=pohCx-pyqs8",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-13T09:46:10.179000",
+            "collected_at": "2026-01-23T16:43:57.287000",
             "duration": 73.0,
             "title": "거대양당간 불꽃튀는 정치현안…국민의힘 박형수 긴급 기자회견 / KNN",
             "upload_date": null
@@ -284,7 +297,7 @@
             "url": "https://www.youtube.com/watch?v=4FT66EDOsQ0",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:40.521000",
+            "collected_at": "2026-01-23T16:43:57.287000",
             "duration": 1437.0,
             "title": "[더뉴스] 박형수 \"조폭과 연관 의심\" vs 고민정 \"연관있길 기도?\" / YTN",
             "upload_date": null
@@ -294,19 +307,9 @@
             "url": "https://www.youtube.com/watch?v=m-F0bvEPRkU",
             "HG_NM": "박형수",
             "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:40.521000",
+            "collected_at": "2026-01-23T16:43:57.287000",
             "duration": 929.0,
             "title": "\"더탐사 사법처리해야\" 박형수, \"조민 취재는...\" [뉴스킹 박지훈입니다] / YTN라디오",
-            "upload_date": null
-        },
-        {
-            "_id": "6966eef7887d07f7ba2fb449",
-            "url": "https://www.youtube.com/watch?v=X6QkJzQ5vCw",
-            "HG_NM": "박형수",
-            "MONA_CD": "6U243644",
-            "collected_at": "2026-01-21T08:45:40.521000",
-            "duration": 1520.0,
-            "title": "[더뉴스] 박형수 \"李 정치보복 코스프레\" vs 고민정 \"김건희 방탄에 이용\" / YTN",
             "upload_date": null
         },
         {
@@ -317,6 +320,16 @@
             "collected_at": "2026-01-21T08:45:39.753000",
             "duration": 185.0,
             "title": "윤경희 청송군수_박형수 국회의원과 ‘2025년도 국비예산정책협의회’ 개최",
+            "upload_date": null
+        },
+        {
+            "_id": "6966eef7887d07f7ba2fb449",
+            "url": "https://www.youtube.com/watch?v=X6QkJzQ5vCw",
+            "HG_NM": "박형수",
+            "MONA_CD": "6U243644",
+            "collected_at": "2026-01-21T08:45:40.521000",
+            "duration": 1520.0,
+            "title": "[더뉴스] 박형수 \"李 정치보복 코스프레\" vs 고민정 \"김건희 방탄에 이용\" / YTN",
             "upload_date": null
         },
         {
@@ -350,5 +363,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:20.000693"
+    "exported_at": "2026-01-26T14:36:26.668854"
 }

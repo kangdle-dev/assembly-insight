@@ -59,44 +59,48 @@
         "keywords": [
             "국민",
             "옥천",
+            "선거",
             "지방",
             "괴산",
-            "선거",
             "군수",
+            "보좌관",
             "충북도",
             "위원장",
-            "인사",
-            "신년",
             "보은",
             "영동",
-            "영동군",
-            "논란",
-            "수주"
+            "인사",
+            "항소심",
+            "감형",
+            "신년"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 19
+                "value": 24
             },
             {
                 "text": "옥천",
-                "value": 16
-            },
-            {
-                "text": "지방",
-                "value": 14
-            },
-            {
-                "text": "괴산",
-                "value": 14
+                "value": 22
             },
             {
                 "text": "선거",
-                "value": 13
+                "value": 22
+            },
+            {
+                "text": "지방",
+                "value": 15
+            },
+            {
+                "text": "괴산",
+                "value": 15
             },
             {
                 "text": "군수",
-                "value": 12
+                "value": 15
+            },
+            {
+                "text": "보좌관",
+                "value": 14
             },
             {
                 "text": "충북도",
@@ -104,60 +108,166 @@
             },
             {
                 "text": "위원장",
-                "value": 10
+                "value": 11
+            },
+            {
+                "text": "보은",
+                "value": 9
+            },
+            {
+                "text": "영동",
+                "value": 9
             },
             {
                 "text": "인사",
                 "value": 9
             },
             {
-                "text": "신년",
+                "text": "항소심",
                 "value": 8
             },
             {
-                "text": "보은",
-                "value": 7
+                "text": "감형",
+                "value": 8
             },
             {
-                "text": "영동",
-                "value": 7
-            },
-            {
-                "text": "영동군",
-                "value": 7
-            },
-            {
-                "text": "논란",
-                "value": 7
-            },
-            {
-                "text": "수주",
-                "value": 7
+                "text": "신년",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:16.466596",
+        "last_analyzed_at": "2026-01-26T14:36:22.929732",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
+                2,
+                4,
                 0,
                 0,
                 0,
-                0,
-                0,
-                0
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fd008459600028997fd6",
+            "link": "https://n.news.naver.com/mnews/article/421/0008733472?sid=102",
+            "created_at": "2026-01-26T14:34:53.665000",
+            "description": "지난해 4월 더불어민주당 이원택 국회의원은 도의원 정수 기준 인구를 5만 명에서 4만 명으로 낮추는 공직선거법 개정안을 발의했으나, 현재까지 계류 중이다. 더불어민주당 이재한 동남4군지역위원장(보은·옥천·영동... ",
+            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6050146",
+            "press": "뉴스1",
+            "pubDate": "2026-01-26T07:00:00",
+            "related_members": [
+                "N4R2421C",
+                "DAV7257X",
+                "RG972910"
+            ],
+            "title": "'유지냐, 축소냐' 옥천군 광역의원 1·2선거구에 쏠린 눈"
+        },
+        {
+            "_id": "6972d2098459600028997762",
+            "link": "https://n.news.naver.com/mnews/article/421/0008729730?sid=102",
+            "created_at": "2026-01-23T10:42:31.052000",
+            "description": "선거법 위반 혐의로 기소됐다가 법원 판결로 6·3 지방선거 피선거권을 유지하게 된 전상인 보좌관(박덕흠 국민의힘 국회의원실)이 22일 \"모든 불확실성이 해소된 만큼 옥천 발전과 군민 행복만 생각하며 2배로 뛰겠다\"고... ",
+            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6048224",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T19:03:00",
+            "related_members": [
+                "N4R2421C"
+            ],
+            "title": "'선거법 위반' 전상인 보좌관, 항소심서 감형…피선거권 유지"
+        },
+        {
+            "_id": "6972d2098459600028997763",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108131?sid=102",
+            "created_at": "2026-01-23T10:42:31.052000",
+            "description": "22대 총선을 앞두고 선거구민 등에게 무료 마술쇼 공연을 제공한 혐의로 기소된 국민의힘 박덕흠(보은·옥천·영동·괴산) 국회의원의 보좌관이 항소심에서 감형됐다. 대전고등법원 청주재판부 형사1부(박은영... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6460682?utm_source=naver&utm_medium=article&utm_campaign=20260122061314",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-22T18:14:00",
+            "related_members": [
+                "N4R2421C"
+            ],
+            "title": "'무료 마술쇼 제공' 박덕흠 의원 보좌관 항소심서 감형"
+        },
+        {
+            "_id": "6972d2098459600028997764",
+            "link": "https://n.news.naver.com/mnews/article/003/0013725670?sid=102",
+            "created_at": "2026-01-23T10:42:31.052000",
+            "description": "전상인 (박덕흠 국회의원) 보좌관이 피선거권을 유지함으로써 6월 옥천군수 선거 국민의힘 예비주자 구도에 변화가 일 것으로 보인다. 대전고법 청주재판부 형사1부(부장판사 박은영)는 22일 공직선거법 위반(기부행위)... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003486186",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T15:36:00",
+            "related_members": [
+                "N4R2421C"
+            ],
+            "title": "전상인 '생환'…옥천군수 선거 야당 후보 구도에 관심"
+        },
+        {
+            "_id": "6972d2098459600028997765",
+            "link": "https://n.news.naver.com/mnews/article/003/0013725622?sid=102",
+            "created_at": "2026-01-23T10:42:31.052000",
+            "description": "22대 총선 당시 무료 마술쇼를 주도한 국민의힘 박덕흠 국회의원 보좌관이 항소심에서 감형을 받았다. 대전고법 청주재판부 형사1부(부장판사 박은영)는 22일 공직선거법 위반(기부행위) 혐의로 불구속 기소된 A(56)씨에게... ",
+            "originallink": "https://www.newsis.com/view/NISX20260122_0003486772",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T15:23:00",
+            "related_members": [
+                "N4R2421C"
+            ],
+            "title": "'무료 마술쇼 제공' 박덕흠 의원 보좌관, 항소심서 감형"
+        },
+        {
+            "_id": "6972d1f184596000289976bb",
+            "link": "https://n.news.naver.com/mnews/article/056/0012109556?sid=100",
+            "created_at": "2026-01-23T10:42:07.143000",
+            "description": "국민의힘 송언석 원내대표는 오늘(21일) 국회에서 긴급 의원총회를 진행한 뒤 중진인 나경원·윤상현·윤재옥·박덕흠 의원 등과 장 대표를 찾아 \"계속 단식을 진행하면 부작용이 있을 수 있어, 의원들 전부 단식을... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8465104&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-21T16:49:00",
+            "related_members": [
+                "ZRF3039U",
+                "SLW27496",
+                "MSY7784L",
+                "KFM1081G",
+                "REG96285",
+                "6EN68926",
+                "N4R2421C",
+                "NX534083",
+                "QQ429063"
+            ],
+            "title": "‘쌍특검 단식’ 7일차 장동혁, 병원 이송 거부…“나는 여기 묻힐 것”"
+        },
+        {
+            "_id": "6972d1f884596000289976f0",
+            "link": "https://n.news.naver.com/mnews/article/421/0008726861?sid=100",
+            "created_at": "2026-01-23T10:42:14.802000",
+            "description": "송언석 원내대표는 이날 오후 국회에서 열린 의원총회 후 단식 중인 장 대표를 찾았다. 이 자리에는 중진인 나경원, 윤상현, 윤재옥, 박덕흠 의원 등이 함께 했다. 송 원내대표는 \"당 대표의 대여투쟁을 강력히 전적으로... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046506",
+            "press": "뉴스1",
+            "pubDate": "2026-01-21T16:21:00",
+            "related_members": [
+                "KFM1081G",
+                "ZYP7962W",
+                "ZRF3039U",
+                "SLW27496",
+                "N4R2421C",
+                "MSY7784L",
+                "6EN68926",
+                "PFG2137X",
+                "REG96285",
+                "G6W8250J"
+            ],
+            "title": "'단식 7일' 장동혁 \"나는 여기 묻힐 것\"…구급차 호송 끝내 거부"
+        },
         {
             "_id": "6966ec8b887d07f7ba2fb2e1",
             "link": "https://n.news.naver.com/mnews/article/056/0012103676?sid=100",
@@ -350,7 +460,7 @@
             "url": "https://www.youtube.com/watch?v=UCMUO5qsfNNNKLp99PslcIWw",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": null,
             "title": "박덕흠 [국회의원 더큼이]",
             "upload_date": null
@@ -360,7 +470,7 @@
             "url": "https://www.youtube.com/watch?v=K-p6KHPkDJ0",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 206.0,
             "title": "'산안법' 의결 임박하자 달려온 박덕흠 의원…이유는?",
             "upload_date": null
@@ -370,7 +480,7 @@
             "url": "https://www.youtube.com/watch?v=JLNGi18sSYo",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 1803.0,
             "title": "[나이트포커스] 박덕흠 의원 해명에도...국민의힘 '고심' / YTN",
             "upload_date": null
@@ -380,7 +490,7 @@
             "url": "https://www.youtube.com/watch?v=Je-4lPEL7sw",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:40.216000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 413.0,
             "title": "[시선집중][B-CUT NEWS] 4주택자 박덕흠 의원, \"집값 올려서 화난다\" - 이종훈 (작가)",
             "upload_date": null
@@ -390,7 +500,7 @@
             "url": "https://www.youtube.com/watch?v=cKeIQlxbxfM",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 302.0,
             "title": "'이해충돌 논란' 국민의힘 박덕흠 의원, 1천억 원대 공사 수주 등 일체 의혹 정면 반박 (현장영상) / SBS",
             "upload_date": null
@@ -400,7 +510,7 @@
             "url": "https://www.youtube.com/watch?v=X9eL-lPcegk",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 153.0,
             "title": "불어나는 박덕흠 이해충돌 논란...민주 \"국회 윤리위 제소 추진\" / YTN",
             "upload_date": null
@@ -410,7 +520,7 @@
             "url": "https://www.youtube.com/watch?v=81z7H0uRpow",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 1681.0,
             "title": "힐링대담 - 박덕흠 국회의원, 국회 정보위원장  @불교공뉴스",
             "upload_date": null
@@ -420,19 +530,9 @@
             "url": "https://www.youtube.com/watch?v=HOZWFaeQG_4",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:39.556000",
+            "collected_at": "2026-01-23T16:42:57.323000",
             "duration": 101.0,
             "title": "국회인싸 박덕흠 지역 홍보모음zip",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac77631fd1743497d697",
-            "url": "https://www.youtube.com/watch?v=JyO1PnYC_0E",
-            "HG_NM": "박덕흠",
-            "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:40.216000",
-            "duration": 397.0,
-            "title": "“국회의원이 업계 대변”…박덕흠 ‘이해충돌’ 논란 가열 | 뉴스A 라이브",
             "upload_date": null
         },
         {
@@ -440,9 +540,19 @@
             "url": "https://www.youtube.com/watch?v=uMyfyfQrU60",
             "HG_NM": "박덕흠",
             "MONA_CD": "N4R2421C",
-            "collected_at": "2026-01-21T08:44:40.216000",
+            "collected_at": "2026-01-23T16:42:58.038000",
             "duration": 125.0,
             "title": "\"박덕흠 수사 지지부진\"…고발인, '공수처 이첩' 신청 / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac77631fd1743497d697",
+            "url": "https://www.youtube.com/watch?v=JyO1PnYC_0E",
+            "HG_NM": "박덕흠",
+            "MONA_CD": "N4R2421C",
+            "collected_at": "2026-01-23T16:42:58.038000",
+            "duration": 397.0,
+            "title": "“국회의원이 업계 대변”…박덕흠 ‘이해충돌’ 논란 가열 | 뉴스A 라이브",
             "upload_date": null
         },
         {
@@ -476,5 +586,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:16.467597"
+    "exported_at": "2026-01-26T14:36:22.930726"
 }

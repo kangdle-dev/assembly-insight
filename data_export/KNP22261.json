@@ -45,54 +45,58 @@
             "조국",
             "혁신",
             "이혜훈",
-            "회견",
             "후보자",
-            "공천",
-            "발의",
-            "논란",
-            "개혁",
-            "병역",
-            "의혹",
             "청문회",
+            "회견",
             "자료",
-            "기획",
-            "청문"
+            "대표",
+            "청문",
+            "원내",
+            "병역",
+            "공천",
+            "논란",
+            "합당",
+            "민주당"
         ],
         "keyword_frequency": [
             {
                 "text": "조국",
-                "value": 61
+                "value": 58
             },
             {
                 "text": "혁신",
-                "value": 47
+                "value": 48
             },
             {
                 "text": "이혜훈",
-                "value": 29
-            },
-            {
-                "text": "회견",
-                "value": 21
+                "value": 37
             },
             {
                 "text": "후보자",
-                "value": 17
+                "value": 23
             },
             {
-                "text": "공천",
-                "value": 17
+                "text": "청문회",
+                "value": 18
             },
             {
-                "text": "발의",
+                "text": "회견",
+                "value": 18
+            },
+            {
+                "text": "자료",
                 "value": 16
             },
             {
-                "text": "논란",
+                "text": "대표",
                 "value": 14
             },
             {
-                "text": "개혁",
+                "text": "청문",
+                "value": 13
+            },
+            {
+                "text": "원내",
                 "value": 12
             },
             {
@@ -100,43 +104,39 @@
                 "value": 12
             },
             {
-                "text": "의혹",
+                "text": "공천",
+                "value": 12
+            },
+            {
+                "text": "논란",
                 "value": 11
             },
             {
-                "text": "청문회",
-                "value": 11
-            },
-            {
-                "text": "자료",
+                "text": "합당",
                 "value": 10
             },
             {
-                "text": "기획",
-                "value": 10
-            },
-            {
-                "text": "청문",
+                "text": "민주당",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:41.215700",
+        "last_analyzed_at": "2026-01-26T14:36:49.345116",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                1,
-                1,
                 0,
                 0,
-                5,
+                0,
+                6,
+                2,
                 0,
                 0
             ]
@@ -144,10 +144,178 @@
     },
     "recent_news": [
         {
+            "_id": "6976fce48459600028997efb",
+            "link": "https://n.news.naver.com/mnews/article/003/0013728323?sid=100",
+            "created_at": "2026-01-26T14:34:26.118000",
+            "description": "조국 대표는 24일 국회에서 긴급 의원총회를 열고 민주당의 합당 제안을 논의한 뒤 이같이 말했다. 조 대표는... 비공개 의원총회에는 조 대표와 서 원내대표 외에도 김준형·신장식·정춘생·이혜민·백선희·강경숙·황운하... ",
+            "originallink": "https://www.newsis.com/view/NISX20260124_0003488784",
+            "press": "뉴시스",
+            "pubDate": "2026-01-24T13:36:00",
+            "related_members": [
+                "8A05621B",
+                "YN160848",
+                "XG348314",
+                "T2T8225E",
+                "NPD75153",
+                "1A82234K",
+                "0YT3774N",
+                "DMP1439I",
+                "7GW5372Y",
+                "KNP22261",
+                "80C5885Z"
+            ],
+            "title": "조국혁신당 '합당 논의' 의원총회…조국 \"혁신당 DNA는 보존·확대\"(종합..."
+        },
+        {
+            "_id": "6976fce48459600028997efd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013728282?sid=100",
+            "created_at": "2026-01-26T14:34:26.118000",
+            "description": "서왕진 조국혁신당 원내대표는 이날 국회에서 열린 의원총회에서 \"정 대표의 합당 제안에 대한 논의를 위해... 이날 비공개 의원총회에는 서 원내대표 외에도 김준형·신장식·정춘생·이혜민·백선희·강경숙·황운하... ",
+            "originallink": "https://www.newsis.com/view/NISX20260124_0003488748",
+            "press": "뉴시스",
+            "pubDate": "2026-01-24T11:29:00",
+            "related_members": [
+                "8A05621B",
+                "YN160848",
+                "0YT3774N",
+                "XG348314",
+                "T2T8225E",
+                "80C5885Z",
+                "NPD75153",
+                "7GW5372Y",
+                "1A82234K",
+                "DMP1439I",
+                "KNP22261"
+            ],
+            "title": "조국혁신당 '합당 논의' 의원총회…서왕진 \"엄중히 검토\""
+        },
+        {
+            "_id": "6976fd278459600028998079",
+            "link": "https://n.news.naver.com/mnews/article/448/0000585818?sid=100",
+            "created_at": "2026-01-26T14:35:32.921000",
+            "description": "국회의원과 장관을 지낸 이 후보자 시아버지의 훈장이 장남의 대학 입시에 활용된 사실도 추가로 드러났는데... 차규근 / 조국혁신당 의원 \"서민들에게 돈 빌려주고 여차하면 담보 물건 뺏어다가 경매 넘겨버린 업체를 두고... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/23/2026012390242.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-23T21:06:00",
+            "related_members": [
+                "EH27538E",
+                "KNP22261"
+            ],
+            "title": "\"가족이 했다\" \"몰랐다\" 책임전가 일관…野 \"시아버지 훈장으로 장남 연..."
+        },
+        {
+            "_id": "6976fd27845960002899807b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730880?sid=100",
+            "created_at": "2026-01-26T14:35:32.921000",
+            "description": "최은석 국민의힘 의원은 이날 오전 국회에서 열린 인사청문회에서 이 후보자의 장남이 '사회 기여자 전형... 천하람 개혁신당 의원은 갑질 논란으로 장관직에서 낙마한 강선우 무소속 의원(전 더불어민주당)을 거론하며... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6048879",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T12:42:00",
+            "related_members": [
+                "EH27538E",
+                "LT72093S",
+                "UF53617M",
+                "3C23171A",
+                "KNP22261",
+                "YGB8604T",
+                "MNZ4401T"
+            ],
+            "title": "여야 모두 이혜훈 질타…\"입만 열면 거짓말\" \"불법 청약 부정입학\""
+        },
+        {
+            "_id": "6976fd038459600028997fe4",
+            "link": "https://n.news.naver.com/mnews/article/052/0002304836?sid=100",
+            "created_at": "2026-01-26T14:34:56.433000",
+            "description": "지난 12월 3일 저희 국회의원 107명을 대표해서 송언석 원내대표도 계엄에 대해서 사과하셨습니다. 저희가... [위원장] 차규근 위원님. [질문] 자료 제출 관련해서 이사계약서를 제가 네 번 했기 때문에 4건의 이사계약서를... ",
+            "originallink": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202601231145500561",
+            "press": "YTN",
+            "pubDate": "2026-01-23T11:45:00",
+            "related_members": [
+                "Y0X4618N",
+                "6EN68926",
+                "KNP22261"
+            ],
+            "title": "오늘 이혜훈 청문회…'부정 청약·갑질 의혹' 쟁점"
+        },
+        {
+            "_id": "6976fcff8459600028997fd4",
+            "link": "https://n.news.naver.com/mnews/article/016/0002590061?sid=100",
+            "created_at": "2026-01-26T14:34:53.355000",
+            "description": "이날 박대출 의원실에 따르면, 이 후보자는 제17·18·20대 국회의원 임기 12년간 97번 해외로 출국, 해외 체류... 천하람 개혁신당 의원은 이 후보자의 비망록을 공유하며 “후보자가 청문위원을 고소하겠다라고까지 운운한... ",
+            "originallink": "https://biz.heraldcorp.com/article/10661471?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-23T11:30:00",
+            "related_members": [
+                "W4X85128",
+                "EH27538E",
+                "KNP22261",
+                "YGB8604T"
+            ],
+            "title": "우여곡절 끝 열린 ‘이혜훈 청문회’…野 “자료제출 부실” 맹질타"
+        },
+        {
+            "_id": "6976fcff8459600028997fd5",
+            "link": "https://n.news.naver.com/mnews/article/016/0002589996?sid=100",
+            "created_at": "2026-01-26T14:34:53.355000",
+            "description": "제17·18·20대 국회의원 임기 12년간 97번 해외로 출국, 해외 체류 일수는 총 651일에 달했다. 이 중 공식적인 국외 출장 횟수는 17번에 불과했다. 이날 청문회에서는 시작부터 자료 추가 제출 요구가 이어졌다. 차규근... ",
+            "originallink": "https://biz.heraldcorp.com/article/10661391?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-23T10:51:00",
+            "related_members": [
+                "W4X85128",
+                "EH27538E",
+                "KNP22261"
+            ],
+            "title": "‘이혜훈 청문회’ 또 자료 공방…李 “과오를 국정으로 갚으란 명령으..."
+        },
+        {
+            "_id": "6972d1ee8459600028997688",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108196?sid=100",
+            "created_at": "2026-01-23T10:42:04.433000",
+            "description": "막 국회의원들이 나도 몰랐는데 그리고 당원들이 국회의원들한테 문자를 막 날리고 이거 어떻게 된 거냐고... 또 이게 스스로 조국 없이도 자강할 수 있다는 황운하나 박은정이나 반조국파도 많다는 거예요. ◇ 박재홍... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6460757?utm_source=naver&utm_medium=article&utm_campaign=20260123070020",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-23T07:01:00",
+            "related_members": [
+                "8P37634C",
+                "JG77046J",
+                "VDN5593C",
+                "J1G57517",
+                "6AU2417B",
+                "VZA76236",
+                "OFE45081",
+                "NXB3178C",
+                "GF286398",
+                "MLH1404S",
+                "2385336L",
+                "8Q88373R",
+                "5TQ6306B",
+                "1A82234K",
+                "0YT3774N",
+                "8BF5855P",
+                "S824682L",
+                "RG972910",
+                "TKJ4800F",
+                "KNP22261",
+                "NPD75153",
+                "N2P9317N",
+                "M7O7878U",
+                "YS38221N",
+                "YOG1280B",
+                "RJH6314D",
+                "3LP22204",
+                "KFM1081G",
+                "QWL7778X",
+                "9YO73104",
+                "BCQ55105"
+            ],
+            "title": "윤희석 \"국힘은 있는 사람도 제명, 민주당 합당 부럽다\""
+        },
+        {
             "_id": "69701238297082fcc2b34c64",
             "link": "https://n.news.naver.com/mnews/article/032/0003422467?sid=100",
             "created_at": "2026-01-21T08:39:34.438000",
-            "description": "임 위원장은 전체회의에서 “어떻게 후보자가 (자신을) 검증하겠다는 국회의원을 고발하겠다고 하나”라며... 야당 의원들은 이 후보자가 비망록 의혹을 제기한 천하람 개혁신당 의원을 상대로 고발을 시사하고 재경위에... ",
+            "description": "임 위원장은 전체회의에서 “어떻게 후보자가 (자신을) 검증하겠다는 국회의원을 고발하겠다고 하나”라며... 차규근 조국혁신당 의원도 “이 후보자가 인사청문위원을 고발할 수 있다는 태도를 보인 점은 매우... ",
             "originallink": "https://www.khan.co.kr/article/202601191740001",
             "press": "경향신문",
             "pubDate": "2026-01-19T17:40:00",
@@ -166,7 +334,7 @@
             "_id": "69701267297082fcc2b34d42",
             "link": "https://n.news.naver.com/mnews/article/055/0001325626?sid=100",
             "created_at": "2026-01-21T08:40:22.175000",
-            "description": "개혁신당 천하람 의원의 목소리는 더 컸습니다. \"낙마를 해도 백번도 더 했어야할 후보자에 대해 허술한... 과거 보수 정당에서 국회의원을 지내면서 보좌진들에게 사적 심부름과 폭언을 일삼았다는 내용입니다. 알려진... ",
+            "description": "차규근 의원은 이 후보자가 아들의 사생활을 이유로 자료 제출을 거부하는 부분을 빗대 '제설기 부모'라는... 과거 보수 정당에서 국회의원을 지내면서 보좌진들에게 사적 심부름과 폭언을 일삼았다는 내용입니다. 알려진... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410024&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-19T17:24:00",
@@ -182,7 +350,7 @@
             "_id": "6970122e297082fcc2b34c21",
             "link": "https://n.news.naver.com/mnews/article/015/0005239020?sid=100",
             "created_at": "2026-01-21T08:39:24.994000",
-            "description": "국회 재정경제기획위원회의 박수영 국민의힘 간사는 \"이 후보자가 의혹을 제기한 국회의원을 고발해야... 천하람 개혁신당 의원은 \"이렇게 국민적인 의혹이 많은 후보에 대해 허술한 자료로 그냥 면죄부를 주는 청문회가... ",
+            "description": "대해 국회에서 추가 자료를 요구할 수 있을 것\"이라고 말했다. 차규근 조국혁신당 의원은 이 후보자의 태도에 대해 강하게 질타했다. 차 의원은 \"후보자가 청문위원에 대해 고발할 수 있다고 발언한 것은 부적절하다\"며... ",
             "originallink": "https://www.hankyung.com/article/202601198887i",
             "press": "한국경제",
             "pubDate": "2026-01-19T14:09:00",
@@ -217,7 +385,7 @@
             "_id": "69701238297082fcc2b34c66",
             "link": "https://n.news.naver.com/mnews/article/020/0003690411?sid=100",
             "created_at": "2026-01-21T08:39:34.439000",
-            "description": "국민의힘 소속 임이자 국회 재정경제기획위원장은 이날 오전 10시 3분경 재경위 전체회의를 열어 “국회법... 개혁신당 천하람 의원은 “여당이 다수당이고 밀어붙이는 힘이 세다고 해 가지고 허술한 자료로 그냥 면죄부... ",
+            "description": "국민의힘 소속 임이자 국회 재정경제기획위원장은 이날 오전 10시 3분경 재경위 전체회의를 열어 “국회법... 조국혁신당 차규근 의원도 “자료제출 건에 대해서 민주당이 노력했다고 하지만 부족한 부분이 여전히 좀 있는... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260119/133183807/2",
             "press": "동아일보",
             "pubDate": "2026-01-19T11:59:00",
@@ -323,34 +491,10 @@
             "title": "이혜훈 두 아들 ‘병역특혜’ 논란…청문계획서 채택 불발"
         },
         {
-            "_id": "696594a6887d07f7ba2fab3b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
-            "created_at": "2026-01-13T09:41:09.070000",
-            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱 의원... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T05:00:00",
-            "related_members": [
-                "NB64509Z",
-                "CC78321E",
-                "3UI95829",
-                "DWK26447",
-                "3TP65086",
-                "1WE5693J",
-                "6AU2417B",
-                "VRY5522V",
-                "K5F2023J",
-                "8348421R",
-                "9HE7226N",
-                "KNP22261"
-            ],
-            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
-        },
-        {
             "_id": "696594a6887d07f7ba2fab3c",
             "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
-            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 10:00 차규근 의원, [중수청·공소청 설치 관련 논란에 대한 조국혁신당 입장 발표 기자회견] 10:20 정진욱... ",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 17:00 김우영 의원실, K-청년 라운드 우리의 언어로 문화를 보다: [2주차] K-기술과 K-컬처: 과연 연관성이... ",
             "originallink": "https://www.news1.kr/politics/assembly/6036526",
             "press": "뉴스1",
             "pubDate": "2026-01-13T05:00:00",
@@ -369,6 +513,30 @@
                 "KNP22261"
             ],
             "title": "[오늘의 국회일정] (13일, 화)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견(의장집무실) 15:30 2026 중소기업인 신년인사회... 17:00 김우영 의원실, K-청년 라운드 우리의 언어로 문화를 보다: [2주차] K-기술과 K-컬처: 과연 연관성이... ",
+            "originallink": "https://www.newsis.com/view/NISX20260112_0003474229",
+            "press": "뉴시스",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 주요일정]국회(1월13일 화요일)"
         },
         {
             "_id": "696594b4887d07f7ba2fab4c",
@@ -465,7 +633,7 @@
             "_id": "6964b545631fd17434996053",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-12T17:48:02.626000",
-            "description": "◇ 김준우 : 그것은 조국혁신당에서는 정춘생 의원이 들어가는 거죠? ◆ 차규근 : 행안위 소속의 정춘생... 조금 다르긴 한데 민주당 국회의원 배지가 오늘 2개 날아갔습니다. 이병진 의원님과 신영대 의원인데요. 그러면서... ",
+            "description": "조금 다르긴 한데 민주당 국회의원 배지가 오늘 2개 날아갔습니다. 이병진 의원님과 신영대 의원인데요.... 민형배 의원께서는 헌법재판소를 광주로, 이성윤 의원께서는 헌법재판소를 전주로, 그리고 이해식 의원님 같은... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=106790&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-08T20:30:00",
@@ -486,7 +654,7 @@
             "_id": "6964b545631fd17434996054",
             "link": "https://n.news.naver.com/mnews/article/052/0002298138?sid=100",
             "created_at": "2026-01-12T17:48:02.626000",
-            "description": "◇ 김준우 : 그것은 조국혁신당에서는 정춘생 의원이 들어가는 거죠? ◆ 차규근 : 행안위 소속의 정춘생... 조금 다르긴 한데 민주당 국회의원 배지가 오늘 2개 날아갔습니다. 이병진 의원님과 신영대 의원인데요. 그러면서... ",
+            "description": "조금 다르긴 한데 민주당 국회의원 배지가 오늘 2개 날아갔습니다. 이병진 의원님과 신영대 의원인데요.... 민형배 의원께서는 헌법재판소를 광주로, 이성윤 의원께서는 헌법재판소를 전주로, 그리고 이해식 의원님 같은... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601081915439463",
             "press": "YTN",
             "pubDate": "2026-01-08T19:15:00",
@@ -515,130 +683,17 @@
                 "KNP22261"
             ],
             "title": "조국, 8일 대구 방문…지선 앞두고 '정치개혁' 메시지 전한다"
-        },
-        {
-            "_id": "6964b58e631fd174349964b8",
-            "link": "https://n.news.naver.com/mnews/article/003/0013698024?sid=100",
-            "created_at": "2026-01-12T17:49:15.472000",
-            "description": "조국혁신당은 7일 오후 보도자료를 내고 \"조국 대표는 오는 8일 당 지도부, 차규근 대구시당위원장, 당 소속 국회의원들과 함께 대구에서 정치 개혁과 선거 제도 개편 필요성의 메시지를 전한다\"고 했다. 조 대표를 비롯한... ",
-            "originallink": "https://www.newsis.com/view/NISX20260107_0003468612",
-            "press": "뉴시스",
-            "pubDate": "2026-01-07T15:18:00",
-            "related_members": [
-                "KNP22261"
-            ],
-            "title": "조국, 내일 대구 찾는다…\"보수 텃밭서 정치개혁 필요성 강조\""
-        },
-        {
-            "_id": "6964b56b631fd17434996314",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696001?sid=100",
-            "created_at": "2026-01-12T17:48:41",
-            "description": "조국혁신당 '국힘 제로·부패 제로 지방선거기획단' 단장인 신장식 의원과 정치개혁특별위원회 공동 위원장인 정춘생·차규근 의원은 이날 오후 국회 소통관에서 기자회견을 열고 \"더불어민주당, 국민의힘에 '돈 공천... ",
-            "originallink": "https://www.newsis.com/view/NISX20260106_0003467341",
-            "press": "뉴시스",
-            "pubDate": "2026-01-06T17:14:00",
-            "related_members": [
-                "NPD75153",
-                "KNP22261",
-                "XG348314"
-            ],
-            "title": "조국혁신당, 민주·국힘에 \"'돈 공천' 추방 4대 입법과제 제안\""
-        },
-        {
-            "_id": "6964b58e631fd174349964b9",
-            "link": "https://n.news.naver.com/mnews/article/011/0004574466?sid=100",
-            "created_at": "2026-01-12T17:49:15.472000",
-            "description": "조 대표는 이날 국회 의원회관에서 열린 신년 기자간담회에서 “대한민국의 총체적 문제는 부동산이다. 집값... 신장식 의원, 부단장은 차규근 의원과 윤재관 전략기획위원장이 맡았다. 세 분이 가라는 곳으로 가서... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7688UYW0",
-            "press": "서울경제",
-            "pubDate": "2026-01-04T14:55:00",
-            "related_members": [
-                "NPD75153",
-                "KNP22261"
-            ],
-            "title": "조국 \"서울공항 등 공공부지 활용해 공공임대주택 12만호 공급해야\""
-        },
-        {
-            "_id": "6964b58e631fd174349964ba",
-            "link": "https://n.news.naver.com/mnews/article/421/0008694316?sid=100",
-            "created_at": "2026-01-12T17:49:15.472000",
-            "description": "6·3 지방선거에서 광역단체장에 출마할지, 국회의원 보궐선거에 출마할지에 대해서는 당 선거기획단이... 신장식 의원, 부단장은 차규근 의원과 윤재관 전략기획위원장이 맡았다\"며 \"세 분이 가라고 하는 곳으로 가서... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6027795",
-            "press": "뉴스1",
-            "pubDate": "2026-01-04T13:16:00",
-            "related_members": [
-                "NPD75153",
-                "KNP22261"
-            ],
-            "title": "조국 '민주당 공천헌금' 의혹에 \"대통령에게 부담, 깨끗하게 털고 가야..."
-        },
-        {
-            "_id": "6964b585631fd1743499645a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784510?sid=102",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "지난달 29일 차규근 조국혁신당 의원과 정동영 더불어민주당 의원이 공동발의한 5·18특별법 개정안은 법에... 계승하고 헌법을 존중하는 정당과 국회의원이라면 이 점 또한 숙고해 법제 개혁에 나서야 한다”고 강조했다.",
-            "originallink": "https://www.hani.co.kr/arti/area/yeongnam/1237747.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-02T15:16:00",
-            "related_members": [
-                "4019850M",
-                "ARP89147",
-                "KNP22261"
-            ],
-            "title": "‘전두환 미화 방지법’ 국회 발의…시민단체 “이승만·박정희 기념도..."
-        },
-        {
-            "_id": "6964b585631fd1743499645c",
-            "link": "https://kjmbc.co.kr/NewsArticle/1498455",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "* 차규근 조국혁신당 국회의원 \"반란과 내란 수괴죄로 사형을 선고받은 전두환 씨를 기념하는 것은 일반 상식과 민주주의 가치에 정면으로 배치되는 것입니다.\" 생명의 숲 되찾기 합천군민운동본부는 \"일해공원 문제에... ",
-            "originallink": "https://kjmbc.co.kr/NewsArticle/1498455",
-            "press": "MBC",
-            "pubDate": "2025-12-30T20:40:00",
-            "related_members": [
-                "ARP89147",
-                "KNP22261"
-            ],
-            "title": "[경남] '전두환 기념사업 전면 금지' 5.18 특별법 개정안 발의"
-        },
-        {
-            "_id": "6964b540631fd17434995fd1",
-            "link": "https://n.news.naver.com/mnews/article/028/0002783930?sid=102",
-            "created_at": "2026-01-12T17:47:57.718000",
-            "description": "장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원·양부남(이상 민주당), 서왕진·황운하·김준형·정춘생·김선민·강경숙·백선희·이해민... ",
-            "originallink": "https://www.hani.co.kr/arti/area/honam/1237161.html",
-            "press": "한겨레",
-            "pubDate": "2025-12-30T11:44:00",
-            "related_members": [
-                "0YT3774N",
-                "8BF5855P",
-                "7GW5372Y",
-                "YN160848",
-                "80C5885Z",
-                "XG348314",
-                "T2T8225E",
-                "86R9476S",
-                "CK143054",
-                "0698755I",
-                "8A05621B",
-                "ARP89147",
-                "CC78321E",
-                "KNP22261",
-                "3TP65086",
-                "P8A4624C"
-            ],
-            "title": "‘전두환 미화 방지법’ 국회 발의…합천 일해공원 논란 끝낼까"
         }
     ],
     "recent_videos": [
         {
-            "_id": "696c5fbf297082fcc2b19d30",
-            "url": "https://www.youtube.com/watch?v=k8nzQWI9LfQ",
+            "_id": "696c5fbf297082fcc2b19d31",
+            "url": "https://www.youtube.com/watch?v=KUkybZENyZg",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-18T13:21:17.854000",
-            "duration": 454.0,
-            "title": "조국혁신당 차규근 의원,대통령경호처폐지 법안 발의 기자회견",
+            "collected_at": "2026-01-23T16:49:58.083000",
+            "duration": 1607.0,
+            "title": "조국 광복절 특사 출소 I 차규근 \"민주당과 조국혁신당 합당? 시너지 없어\", \"기괴한 尹 기소수순으로 갈 것” [한판승부]",
             "upload_date": null
         },
         {
@@ -652,23 +707,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae19631fd1743497dcce",
-            "url": "https://www.youtube.com/watch?v=LCLYXKvRYAs",
+            "_id": "6960ae19631fd1743497dccd",
+            "url": "https://www.youtube.com/watch?v=_9-CgJDm3a0",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-09T16:28:22.092000",
-            "duration": 215.0,
-            "title": "\"김문수 부모 일본인?\" 부모 언급에 '버럭', 일관성 없는 대답...고성이 오가는 예결위 (차규근 의원 vs 김문수 고용노동부장관)",
+            "collected_at": "2026-01-23T16:49:58.083000",
+            "duration": 415.0,
+            "title": "조국혁신당 차규근 의원1 11 2 합,김학의 출국금지 사건 관련 기자회견",
             "upload_date": null
         },
         {
-            "_id": "6968b251297082fcc2b19147",
-            "url": "https://www.youtube.com/watch?v=vXQRVjT-oN8",
+            "_id": "6968b251297082fcc2b19148",
+            "url": "https://www.youtube.com/watch?v=zL1UEAwlSjM",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-21T08:51:37.247000",
-            "duration": 1291.0,
-            "title": "[차규근 인터뷰] \"전북·평택 무공천 하라\" 조국당 재보선 기선제압!? | #조국혁신당 #더불어민주당 #이병진 #신영대 #재보궐선거",
+            "collected_at": "2026-01-18T13:21:19.010000",
+            "duration": 248.0,
+            "title": "[자막] 차규근의 일갈 \"이혜훈은 기획예산 아니라 기획부동산 전문가입니까? 당장 사퇴하십시오!\"",
             "upload_date": null
         },
         {
@@ -676,7 +731,7 @@
             "url": "https://www.youtube.com/watch?v=le74gDam2cQ",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-21T08:51:37.247000",
+            "collected_at": "2026-01-23T16:49:58.083000",
             "duration": 1187.0,
             "title": "차규근 “‘대파’ 尹 2년 만에 나라 붕괴, 처참..살기 위해 정권 심판, 조국 9해야”[여의도초대석]",
             "upload_date": null
@@ -692,13 +747,13 @@
             "upload_date": null
         },
         {
-            "_id": "696c5fbf297082fcc2b19d31",
-            "url": "https://www.youtube.com/watch?v=KUkybZENyZg",
+            "_id": "696c5fbf297082fcc2b19d30",
+            "url": "https://www.youtube.com/watch?v=k8nzQWI9LfQ",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
             "collected_at": "2026-01-18T13:21:17.854000",
-            "duration": 1607.0,
-            "title": "조국 광복절 특사 출소 I 차규근 \"민주당과 조국혁신당 합당? 시너지 없어\", \"기괴한 尹 기소수순으로 갈 것” [한판승부]",
+            "duration": 454.0,
+            "title": "조국혁신당 차규근 의원,대통령경호처폐지 법안 발의 기자회견",
             "upload_date": null
         },
         {
@@ -706,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=s3e2WsVZO_s",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-14T10:24:27.164000",
+            "collected_at": "2026-01-23T16:49:58.083000",
             "duration": 454.0,
             "title": "조국혁신당 차규근 의원,대통령경호처폐지 법안 발의 기자회견",
             "upload_date": null
@@ -722,13 +777,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae19631fd1743497dccf",
-            "url": "https://www.youtube.com/watch?v=8NHMmE5vzb8",
+            "_id": "6960ae19631fd1743497dcce",
+            "url": "https://www.youtube.com/watch?v=LCLYXKvRYAs",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
             "collected_at": "2026-01-09T16:28:22.092000",
-            "duration": 368.0,
-            "title": "조국혁신당 차규근 의원1 11 2 합 상속 및 증여세법 일부 개정 법률안 관련 기자회견",
+            "duration": 215.0,
+            "title": "\"김문수 부모 일본인?\" 부모 언급에 '버럭', 일관성 없는 대답...고성이 오가는 예결위 (차규근 의원 vs 김문수 고용노동부장관)",
             "upload_date": null
         },
         {
@@ -756,29 +811,29 @@
             "url": "https://www.youtube.com/watch?v=THIG1XxfX1M",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-09T16:28:22.772000",
+            "collected_at": "2026-01-23T16:49:58.809000",
             "duration": 679.0,
             "title": "본회의장에서 맞붙은 차규근과 이소영... 반대 토론 들은 이소영, 작심한 듯...",
             "upload_date": null
         },
         {
-            "_id": "6968b251297082fcc2b19148",
-            "url": "https://www.youtube.com/watch?v=zL1UEAwlSjM",
+            "_id": "6968b251297082fcc2b19147",
+            "url": "https://www.youtube.com/watch?v=vXQRVjT-oN8",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-18T13:21:19.010000",
-            "duration": 248.0,
-            "title": "[자막] 차규근의 일갈 \"이혜훈은 기획예산 아니라 기획부동산 전문가입니까? 당장 사퇴하십시오!\"",
+            "collected_at": "2026-01-23T16:49:58.083000",
+            "duration": 1291.0,
+            "title": "[차규근 인터뷰] \"전북·평택 무공천 하라\" 조국당 재보선 기선제압!? | #조국혁신당 #더불어민주당 #이병진 #신영대 #재보궐선거",
             "upload_date": null
         },
         {
-            "_id": "6960ae19631fd1743497dccd",
-            "url": "https://www.youtube.com/watch?v=_9-CgJDm3a0",
+            "_id": "6960ae19631fd1743497dccf",
+            "url": "https://www.youtube.com/watch?v=8NHMmE5vzb8",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-14T10:24:27.164000",
-            "duration": 415.0,
-            "title": "조국혁신당 차규근 의원1 11 2 합,김학의 출국금지 사건 관련 기자회견",
+            "collected_at": "2026-01-09T16:28:22.092000",
+            "duration": 368.0,
+            "title": "조국혁신당 차규근 의원1 11 2 합 상속 및 증여세법 일부 개정 법률안 관련 기자회견",
             "upload_date": null
         },
         {
@@ -796,7 +851,7 @@
             "url": "https://www.youtube.com/watch?v=Ot0cIoDXrwI",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-21T08:51:37.964000",
+            "collected_at": "2026-01-23T16:49:58.809000",
             "duration": 112.0,
             "title": "'구속 기로' 차규근 영장 심사…\"불법 출금 아니다\" / SBS",
             "upload_date": null
@@ -806,7 +861,7 @@
             "url": "https://www.youtube.com/watch?v=bp-fJZepSTw",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-18T13:21:17.854000",
+            "collected_at": "2026-01-23T16:49:58.083000",
             "duration": 364.0,
             "title": "조국혁신당 차규근 의원,형사소송법 개정안 발의 기자회견",
             "upload_date": null
@@ -816,7 +871,7 @@
             "url": "https://www.youtube.com/watch?v=KnRPOk2h9Gg",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-21T08:51:37.964000",
+            "collected_at": "2026-01-23T16:49:58.809000",
             "duration": 114.0,
             "title": "차규근 \"김학의 출국금지 불법 아니다\"…구속기로 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -826,11 +881,11 @@
             "url": "https://www.youtube.com/watch?v=d5GPIjuacKs",
             "HG_NM": "차규근",
             "MONA_CD": "KNP22261",
-            "collected_at": "2026-01-14T10:24:27.164000",
+            "collected_at": "2026-01-23T16:49:58.083000",
             "duration": 368.0,
             "title": "조국혁신당 차규근 의원1 11 2 합 상속 및 증여세법 일부 개정 법률안 관련 기자회견",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:41.215700"
+    "exported_at": "2026-01-26T14:36:49.345116"
 }

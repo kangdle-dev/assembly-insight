@@ -47,107 +47,478 @@
     },
     "analysis": {
         "keywords": [
+            "코스피",
             "상법",
             "개정",
-            "공시",
-            "소송",
-            "코스피",
-            "주주",
+            "특위",
             "민주당",
-            "제도",
+            "대통령",
             "더불어민주당",
             "위원회",
+            "주주",
+            "토론회",
             "기업",
-            "집단",
-            "대표",
-            "경제",
-            "회견"
+            "공시",
+            "위원장",
+            "오찬",
+            "회관"
         ],
         "keyword_frequency": [
             {
+                "text": "코스피",
+                "value": 40
+            },
+            {
                 "text": "상법",
-                "value": 23
+                "value": 32
             },
             {
                 "text": "개정",
-                "value": 23
+                "value": 29
             },
             {
-                "text": "공시",
-                "value": 21
-            },
-            {
-                "text": "소송",
-                "value": 17
-            },
-            {
-                "text": "코스피",
-                "value": 17
-            },
-            {
-                "text": "주주",
-                "value": 14
+                "text": "특위",
+                "value": 24
             },
             {
                 "text": "민주당",
-                "value": 14
+                "value": 21
             },
             {
-                "text": "제도",
-                "value": 14
+                "text": "대통령",
+                "value": 21
             },
             {
                 "text": "더불어민주당",
-                "value": 14
+                "value": 16
             },
             {
                 "text": "위원회",
-                "value": 12
+                "value": 16
+            },
+            {
+                "text": "주주",
+                "value": 16
+            },
+            {
+                "text": "토론회",
+                "value": 15
             },
             {
                 "text": "기업",
-                "value": 12
+                "value": 14
             },
             {
-                "text": "집단",
-                "value": 12
+                "text": "공시",
+                "value": 14
             },
             {
-                "text": "대표",
+                "text": "위원장",
+                "value": 13
+            },
+            {
+                "text": "오찬",
                 "value": 11
             },
             {
-                "text": "경제",
-                "value": 11
-            },
-            {
-                "text": "회견",
-                "value": 11
+                "text": "회관",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:26.372271",
+        "last_analyzed_at": "2026-01-26T14:36:33.423786",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                7,
-                7,
                 0,
-                0,
-                0,
-                0,
+                2,
+                11,
+                3,
+                1,
+                4,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fced8459600028997f58",
+            "link": "https://n.news.naver.com/mnews/article/079/0004108758?sid=102",
+            "created_at": "2026-01-26T14:34:35.261000",
+            "description": "더불어민주당 허성무(창원성산구, 산업통상자원중소벤처기업위원회) 국회의원이  '2026 의정보고회'를... 서영석·박정·김영배·박성준·박해철·모경종·장철민·김병주·박선원·이재관·홍기원·김원이·황정아·김영호... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6461560?utm_source=naver&utm_medium=article&utm_campaign=20260125084551",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-25T20:46:00",
+            "related_members": [
+                "5N65159P",
+                "2385336L",
+                "4019850M",
+                "JZY9937U",
+                "XR24352K",
+                "MLH1404S",
+                "HHB5652A",
+                "H5476989",
+                "VZA76236",
+                "2NV6751W",
+                "E2B3753X",
+                "5MD4184K",
+                "GF286398",
+                "RKS3658I",
+                "J1G57517",
+                "T6A6557F",
+                "B7D7534L",
+                "IL74008M",
+                "4L695580",
+                "7BM2933Y",
+                "CCU1009B",
+                "8BF5855P",
+                "OIA3741M",
+                "3LP22204",
+                "JG77046J",
+                "6WK3815W",
+                "CIZ8557P",
+                "TJW93720",
+                "ZDR63255",
+                "7YL9580G",
+                "GOC54665",
+                "QUR40502",
+                "XPP2564T"
+            ],
+            "title": "허성무 의원, '2026 의정보고회' 성료…\"주민 목소리 적극 반영\""
+        },
+        {
+            "_id": "6976fcfa8459600028997fbc",
+            "link": "https://n.news.naver.com/mnews/article/022/0004100338?sid=100",
+            "created_at": "2026-01-26T14:34:48.113000",
+            "description": "민주당 진성준 의원은 “명백히 불법이다. 이 집을 내놓으셔야 한다”고 지적했다. “미안하다, 사죄한다고... 차례나 국회의원을 지냈다’는 점을 언급한 데엔 “본인 책임은 철저히 외면했다. 후보자만큼 뻔뻔한 이재명... ",
+            "originallink": "https://www.segye.com/newsView/20260125508408?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-25T18:18:00",
+            "related_members": [
+                "NUB4941Z",
+                "LT72093S",
+                "FU87526G",
+                "5TQ6306B",
+                "E2B3753X",
+                "2KM3589W",
+                "6EN68926",
+                "OIA3741M",
+                "3C23171A"
+            ],
+            "title": "의혹 해소 못하고 논란만 더 커져… 여당도 “옹호 어렵다” [이혜훈 후..."
+        },
+        {
+            "_id": "6976fcfa8459600028997fbe",
+            "link": "https://n.news.naver.com/mnews/article/003/0013729034?sid=100",
+            "created_at": "2026-01-26T14:34:48.113000",
+            "description": "오기형 의원도 \"진영논리를 넘어 국민통합을 위한 인사는 계속 검토해야 하지만, 지명 철회는 부득이하다\"고... 3차례나 국회의원을 지냈지만 안타깝게도 국민주권정부의 기획예산처 장관으로서 국민 눈높이에 부합하지... ",
+            "originallink": "https://www.newsis.com/view/NISX20260125_0003489185",
+            "press": "뉴시스",
+            "pubDate": "2026-01-25T16:02:00",
+            "related_members": [
+                "NUB4941Z",
+                "E2B3753X",
+                "OIA3741M"
+            ],
+            "title": "민주 '이혜훈 지명 철회'에 \"국민 눈높이 고려한 고심 결과\""
+        },
+        {
+            "_id": "6976fcfa8459600028997fc0",
+            "link": "https://n.news.naver.com/mnews/article/020/0003692132?sid=100",
+            "created_at": "2026-01-26T14:34:48.113000",
+            "description": "박 대변인은 특히 “과거 보수정당에서 여러 차례 국회의원을 지낸 정치인을 정치적 지향과 진영 논리를... 이광희 민주당 의원도 페이스북에서 “고심 많으셨다. 그럼에도 탕평인사는 필요하다”고 밝혔다. 오기형 의원은... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260125/133225082/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-25T14:42:00",
+            "related_members": [
+                "NUB4941Z",
+                "E2B3753X",
+                "OIA3741M",
+                "95J3282H"
+            ],
+            "title": "이혜훈 지명 철회에 與 “겸허히 수용…탕평 인사는 필요“"
+        },
+        {
+            "_id": "6976fcf58459600028997f9f",
+            "link": "https://n.news.naver.com/mnews/article/028/0002788099?sid=101",
+            "created_at": "2026-01-26T14:34:43.255000",
+            "description": "23일 오전 국회의원회관에서 ‘스튜어드십 코드 실효성 제고를 위한 내실화 방안’을 주제로 한 토론회가... 오기형 의원(민주당 코스피 5000 위원장)은 인삿말에서 “일본은 2014년 도입 이후 세차례나 스튜어드십 코드를... ",
+            "originallink": "https://www.hani.co.kr/arti/economy/finance/1241425.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-24T08:02:00",
+            "related_members": [
+                "5N65159P",
+                "OIA3741M"
+            ],
+            "title": "코스피 5000 넘어 도약하려면…스튜어드십 코드 내실화 ‘발등의 불’"
+        },
+        {
+            "_id": "6976fceb8459600028997f45",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138052?sid=100",
+            "created_at": "2026-01-26T14:34:33.235000",
+            "description": "민주당 코스피5000특별위원회는 23일 오전 국회 의원회관에서 ‘스튜어드십코드 실효성 제고를 위한 내실화 방안 모색’을 주제로 토론회를 개최했다. 토론회에는 코스피5000특위 소속 오기형·김남근·박홍배 의원을 포함해... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/23/RYLMY5CKHBCR3DKOOREMRKTAJY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-23T15:25:00",
+            "related_members": [
+                "OIA3741M",
+                "IUX1829H",
+                "ZW43496R",
+                "5N65159P"
+            ],
+            "title": "與 “국민연금, 스튜어드십 코드 적극 나서야… 운용사 평가도 필요”"
+        },
+        {
+            "_id": "6972d21d84596000289977b7",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101393?sid=101",
+            "created_at": "2026-01-23T10:42:51.822000",
+            "description": "코스피5000특위 위원장인 오기형 의원도 이날 국회에서 기자들과 만나 \"과거 물적 분할 케이스처럼 중복상장 엄격하게 처리하자, 자본시장 개정법이 나와 있지만 막혀 있다는 부분에 대한 문제 제기가 있었다\"고 말한... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202601238214b",
+            "press": "한국경제",
+            "pubDate": "2026-01-23T10:01:00",
+            "related_members": [
+                "OIA3741M"
+            ],
+            "title": "\"L자 주식 사면 안돼\" 동학개미 출신 이재명의 경고…LS그룹 '긴장'"
+        },
+        {
+            "_id": "6972d21d84596000289977b8",
+            "link": "https://n.news.naver.com/mnews/article/020/0003691797?sid=101",
+            "created_at": "2026-01-23T10:42:51.822000",
+            "description": "민주당 코스피 5000 특위 위원장인 오기형 의원은 국회에서 기자들과 만나 “당과 청와대가 자본시장 기초 체력을 강화하기 위한 노력은 지속적으로 해야겠다는 데 공감했다”고 밝혔다. 당 특위는 자본시장... ",
+            "originallink": "https://www.donga.com/news/Economy/article/all/20260123/133214610/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-23T04:34:00",
+            "related_members": [
+                "OIA3741M"
+            ],
+            "title": "‘코스피 5000’ 공약 달성 李… ETF 투자 3000만원 수익"
+        },
+        {
+            "_id": "6972d21d84596000289977b9",
+            "link": "https://n.news.naver.com/mnews/article/020/0003691686?sid=101",
+            "created_at": "2026-01-23T10:42:51.822000",
+            "description": "민주당 코스피 5000 특위 위원장인 오기형 의원은 국회에서 기자들과 만나 “당과 청와대가 자본시장 기초 체력을 강화하기 위한 노력은 지속적으로 해야겠다는 데 공감했다”고 밝혔다. 당 특위는 자본시장... ",
+            "originallink": "https://www.donga.com/news/Economy/article/all/20260122/133213723/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-22T20:56:00",
+            "related_members": [
+                "OIA3741M"
+            ],
+            "title": "‘오천피’에…李대통령 ETF 3000만원 수익 추정"
+        },
+        {
+            "_id": "6972d1f484596000289976d0",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423305?sid=100",
+            "created_at": "2026-01-23T10:42:10.904000",
+            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 특히 주가 누르기 방지법은 이소영 민주당 의원이 지난해 5월 발의한 것으로, 기업 상속을 앞둔 대주주의 비정상적... ",
+            "originallink": "https://www.khan.co.kr/article/202601222037005",
+            "press": "경향신문",
+            "pubDate": "2026-01-22T20:37:00",
+            "related_members": [
+                "TZ228122",
+                "6VC83722",
+                "HXT76735",
+                "EB16073M",
+                "AEO5706C",
+                "7YL9580G",
+                "O0I2045I",
+                "IUX1829H",
+                "8O34202I",
+                "WTR5885Y",
+                "OIA3741M",
+                "H5476989"
+            ],
+            "title": "‘5000피’ 찍은 날…당·청 “3차 상법 개정, 조속 추진” 공감대"
+        },
+        {
+            "_id": "6972d21a84596000289977a2",
+            "link": "https://n.news.naver.com/mnews/article/009/0005626049?sid=100",
+            "created_at": "2026-01-23T10:42:48.877000",
+            "description": "23일에는 국회 의원회관에서 ‘스튜어드십코드 실효성 제고를 위한 내실화 방안 모색 토론회’를 연다.... 재정경제기획위원회 소속 여당 간사인 정태호 의원과 안도걸 의원은 해외 주식을 매도한 자금을 원화로... ",
+            "originallink": "https://www.mk.co.kr/article/11940676",
+            "press": "매일경제",
+            "pubDate": "2026-01-22T20:33:00",
+            "related_members": [
+                "EB16073M",
+                "UHB5553T",
+                "OIA3741M",
+                "H5476989"
+            ],
+            "title": "‘민주당 오천피 특위’ 대통령 만났다…주가 누르기 방지법 뭐길래"
+        },
+        {
+            "_id": "6972d21d84596000289977ba",
+            "link": "https://n.news.naver.com/mnews/article/005/0001827827?sid=101",
+            "created_at": "2026-01-23T10:42:51.823000",
+            "description": "코스피5000특위 위원장인 오기형 의원도 이날 국회에서 기자들과 만나 “LG화학 물적 분할 케이스처럼... 오 의원은 대통령과 위원들 간 오찬 이후 기자들과 만나 “이소영 의원이 대표발의한 주가 누르기 방지법을... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029289530&code=61141211&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-22T20:16:00",
+            "related_members": [
+                "OIA3741M",
+                "WTR5885Y"
+            ],
+            "title": "[단독] 李 “L자 들어가는 주식 사면 안된다면서요?” 중복상장 지적"
+        },
+        {
+            "_id": "6972d21d84596000289977bb",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787916?sid=100",
+            "created_at": "2026-01-23T10:42:51.823000",
+            "description": "이날 이 대통령 초청으로 청와대를 방문한 오천특위 위원장 오기형 의원은 오찬 뒤 국회에서 기자들과 만나 “(코스피 5000 돌파는) 자본시장 활성화 티에프(TF) 구성, 상법 개정 추진 등 이재명 대통령이 당대표 시절부터... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1241231.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-22T19:38:00",
+            "related_members": [
+                "OIA3741M"
+            ],
+            "title": "오천피 찍은 날…민주, 자사주 소각 의무화 3차 상법개정 ‘고삐’"
+        },
+        {
+            "_id": "6972d21d84596000289977bc",
+            "link": "https://n.news.naver.com/mnews/article/056/0012110449?sid=100",
+            "created_at": "2026-01-23T10:42:51.823000",
+            "description": "이 대통령은 오늘(22일) 청와대로 오기형 코스피 5,000 특별위원회 위원장을 비롯한 특위 위원들을 초청해 오찬을 함께 했습니다. 오 의원은 오찬 뒤 국회에서 기자들과 만나 “당과 청와대가 자본시장 기초 체력을... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8466288&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-22T16:49:00",
+            "related_members": [
+                "OIA3741M"
+            ],
+            "title": "이 대통령, 민주당 코스피 특위 오찬…“상법 3차 개정 조속 추진”"
+        },
+        {
+            "_id": "6972d1f484596000289976d1",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423226?sid=100",
+            "created_at": "2026-01-23T10:42:10.904000",
+            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 한정애 정책위의장은 “국정운영의 우선순위를 모두 재조정하고 정부가 지닌 자원과 역량을 완전히 재배치해... ",
+            "originallink": "https://www.khan.co.kr/article/202601221615001",
+            "press": "경향신문",
+            "pubDate": "2026-01-22T16:15:00",
+            "related_members": [
+                "TZ228122",
+                "6VC83722",
+                "HXT76735",
+                "EB16073M",
+                "AEO5706C",
+                "7YL9580G",
+                "O0I2045I",
+                "IUX1829H",
+                "8O34202I",
+                "WTR5885Y",
+                "OIA3741M",
+                "H5476989",
+                "XPP2564T"
+            ],
+            "title": "‘5000피’ 찍은 날 “자사주 1년 내 의무 소각” 노 젓기···이 대통령..."
+        },
+        {
+            "_id": "6972d21d84596000289977bd",
+            "link": "https://n.news.naver.com/mnews/article/437/0000474840?sid=100",
+            "created_at": "2026-01-23T10:42:51.823000",
+            "description": "민주당 코스피 5000 특위 위원장인 오기형 의원은 오찬 직후 국회 브리핑을 통해 \"코스피 5000은 이 대통령의... 특위 소속 이소영 의원이 대표 발의해둔 상태로, 이 대통령 역시 그 취지에 공감을 표시한 것으로... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12281374?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-22T16:06:00",
+            "related_members": [
+                "OIA3741M",
+                "WTR5885Y"
+            ],
+            "title": "'코스피 5000' 쏜 날 민주당 특위 만난 이 대통령…\"3차 상법 개정 조속..."
+        },
+        {
+            "_id": "6972d1fc8459600028997701",
+            "link": "https://n.news.naver.com/mnews/article/016/0002589650?sid=100",
+            "created_at": "2026-01-23T10:42:18.332000",
+            "description": "더불어민주당 코스피 5000 특별위원회 위원장인 오기형 의원은 이날 국회에서 기자들과 만나 “오늘 이... 대해서는 “이소영, 김영환 의원이 같이 논쟁해 왔고, 오늘 두 분이 주도적으로 이야기하면서 공감이 많이... ",
+            "originallink": "https://biz.heraldcorp.com/article/10660924?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-22T15:44:00",
+            "related_members": [
+                "WTR5885Y",
+                "OIA3741M",
+                "8O34202I"
+            ],
+            "title": "李 만난 코스피 5000 특위 “3차 상법 개정 조속히 하자는데 공감”"
+        },
+        {
+            "_id": "6972d1f484596000289976d2",
+            "link": "https://n.news.naver.com/mnews/article/028/0002787818?sid=101",
+            "created_at": "2026-01-23T10:42:10.904000",
+            "description": "경제개혁연대(소장 김우찬 고려대 교수)는 오는 30일 오후 2시 서울 여의도 국회의원회관 제8간담회의실에서 더불어민주당의 오기형 코스피5000위원장, 김남근 의원, 이강일 의원과 공동으로 ‘주주 관여활동 및 주주제한... ",
+            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1241129.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-22T15:30:00",
+            "related_members": [
+                "OIA3741M",
+                "IUX1829H",
+                "AEO5706C"
+            ],
+            "title": "‘주주 관여활동 및 주주제한 활성화 방안’ 간담회 30일 개최"
+        },
+        {
+            "_id": "6972d21d84596000289977be",
+            "link": "https://n.news.naver.com/mnews/article/421/0008729192?sid=100",
+            "created_at": "2026-01-23T10:42:51.824000",
+            "description": "자사주 소각 의무화를 담고 있는 3차 상법 개정안은 이번 주 국회 법제사법위원회 법안심사 소위원회에서 논의될 예정이었으나 장동혁 국민의힘 대표의 단식 등 여야의 대치 속 불발됐다. 특위 소속 이소영 의원이 대표... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6047809",
+            "press": "뉴스1",
+            "pubDate": "2026-01-22T15:23:00",
+            "related_members": [
+                "OIA3741M",
+                "KFM1081G",
+                "WTR5885Y"
+            ],
+            "title": "오천피 날, 李대통령 與 코스피오천특위 오찬…\"3차 상법 조속히\""
+        },
+        {
+            "_id": "6972d1fb84596000289976fa",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723697?sid=100",
+            "created_at": "2026-01-23T10:42:17.413000",
+            "description": "갈 길이 멀다\"라며 \"당정청이 원팀·원보이스로 대통령을 든든하게 뒷받침하고, 국회의원들은 당원들한테... 박홍근·서영교·박주민·전현희·김영배 의원과 한정애 정책위의장, 김영진 교육연수원장, 황희 서울시당... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485650",
+            "press": "뉴시스",
+            "pubDate": "2026-01-21T22:59:00",
+            "related_members": [
+                "6AU2417B",
+                "B7D7534L",
+                "XPP2564T",
+                "2385336L",
+                "25G2571T",
+                "S824682L",
+                "TKJ4800F",
+                "0VU8517U",
+                "5765663F",
+                "OIA3741M"
+            ],
+            "title": "정청래 \"제발 친명이니 친청이니 말라…원팀·원보이스 일치단결\""
+        },
+        {
+            "_id": "6972d1f484596000289976d3",
+            "link": "https://n.news.naver.com/mnews/article/016/0002589118?sid=102",
+            "created_at": "2026-01-23T10:42:10.904000",
+            "description": "김남근 국회의원, 김영배 국회의원, 박홍근 국회의원, 서왕진 국회의원, 오기형 국회의원, 채현일 국회의원, 최기상 국회의원의 사진이 있는 홍보 포스터다. [헤럴드경제=박종일 선임기자]송파구에서 서울 도시경쟁력... ",
+            "originallink": "https://biz.heraldcorp.com/article/10660205?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-21T18:02:00",
+            "related_members": [
+                "1S05899F",
+                "B7D7534L",
+                "I5I2468R",
+                "80C5885Z",
+                "IUX1829H",
+                "OIA3741M",
+                "S824682L"
+            ],
+            "title": "서울 도시경쟁력 강화 위한 정책토론회 개최"
+        },
         {
             "_id": "696c5be9297082fcc2b19b79",
             "link": "https://n.news.naver.com/mnews/article/009/0005623049?sid=100",
@@ -184,7 +555,7 @@
             "_id": "696c5be9297082fcc2b19b7b",
             "link": "https://n.news.naver.com/mnews/article/028/0002786874?sid=101",
             "created_at": "2026-01-18T13:04:57.913000",
-            "description": "16일 서울 여의도 국회의원회관에서 열린 ‘주주가치 훼손에 대한 민사책임 추궁 활성화 모색 간담회’에서... 이용우 전 의원 사회로 진행된 토론에서 이창민 한양대 경영학과 교수는 “주주대표소송의 성패를 가르는... ",
+            "description": "16일 서울 여의도 국회의원회관에서 열린 ‘주주가치 훼손에 대한 민사책임 추궁 활성화 모색 간담회’에서... 오기형 더불어민주당 코스피5000 특별위원회 위원장도 “상법 개정 이후 이사의 주주에 대한 충실 의무를... ",
             "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1240163.html",
             "press": "한겨레",
             "pubDate": "2026-01-16T15:40:00",
@@ -250,7 +621,7 @@
             "_id": "6969b95c297082fcc2b19455",
             "link": "https://n.news.naver.com/mnews/article/005/0001826537?sid=100",
             "created_at": "2026-01-16T13:06:49.708000",
-            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 15일 국회에서 ‘상법 개정에 따른... 이용우 경제더하기연구소장은 “‘주주 충실의무’와 관련해 가장 중요한 건 기업의 지배구조”라며 “소액주주의... ",
+            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 15일 국회에서 ‘상법 개정에 따른 기업공시 개정방안’ 토론회를 공동 주최했다. 이날 토론회에선 지난 1차 상법 개정안 통과로 명시된 ‘이사의... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768467012&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-16T02:03:00",
@@ -266,7 +637,7 @@
             "_id": "696902b5297082fcc2b19269",
             "link": "https://n.news.naver.com/mnews/article/011/0004579319?sid=100",
             "created_at": "2026-01-16T00:07:33.435000",
-            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 이날 국회 의원회관에서 ‘상법 개정에... 토론회에 참석한 이용우 경제더하기연구소 대표는 “상법상 이사의 주주에 대한 충실 의무를 이사회가 어떻게... ",
+            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 이날 국회 의원회관에서 ‘상법 개정에 따른 기업공시 개정 방안’ 토론회를 열었다. 이 의원은 “해외 유수의 투자 기업들이 우리나라 기업공시 제도의... ",
             "originallink": "https://www.sedaily.com/NewsView/2K7BASEEOR",
             "press": "서울경제",
             "pubDate": "2026-01-15T18:56:00",
@@ -282,7 +653,7 @@
             "_id": "696902b5297082fcc2b1926a",
             "link": "https://n.news.naver.com/mnews/article/011/0004579312?sid=100",
             "created_at": "2026-01-16T00:07:33.435000",
-            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 이날 국회 의원회관에서 ‘상법 개정에... 토론회에 참석한 이용우 경제더하기연구소 대표는 “상법상 이사의 주주에 대한 충실의무를 이사회가 어떻게... ",
+            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 이날 국회 의원회관에서 ‘상법 개정에 따른 기업공시 개정방안’ 토론회를 열었다. 이강일 의원은 “해외 유수의 투자기업들이 우리나라의 기업 공시... ",
             "originallink": "https://www.sedaily.com/NewsView/2K7B9WB50P",
             "press": "서울경제",
             "pubDate": "2026-01-15T18:50:00",
@@ -293,345 +664,6 @@
                 "6K79158C"
             ],
             "title": "與 공시제도 개선 토론회…\"자본비용·임원보수 내역도 상세히 공개해야..."
-        },
-        {
-            "_id": "696902b5297082fcc2b1926b",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786697?sid=101",
-            "created_at": "2026-01-16T00:07:33.435000",
-            "description": "이용우 전 의원은 15일 서울 여의도 국회의원회관에서 열린 ‘상법 개정에 따른 기업공시 개정 방안’... 이날 토론회는 민주당의 오기형, 김남근, 이강일 의원이 공동주최하고 한국기업거버넌스포럼(회장 이남우)과... ",
-            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1239990.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-15T18:28:00",
-            "related_members": [
-                "IUX1829H",
-                "6K79158C",
-                "OIA3741M",
-                "AEO5706C"
-            ],
-            "title": "민주당, 상법 개정 후속으로 공시제도 강화"
-        },
-        {
-            "_id": "6968ad89297082fcc2b18cf0",
-            "link": "https://n.news.naver.com/mnews/article/009/0005622489?sid=100",
-            "created_at": "2026-01-15T18:04:06.800000",
-            "description": "경제더하기연구소 대표를 맡고 있는 이용우 전 의원은 15일 국회에서 오기형·김남근·이강일 민주당 의원이 주최한 '상법 개정에 따른 기업 공시 개정 방안' 토론회에서 \"이사·감사·집행임원의 보수 총액에 대해 급여... ",
-            "originallink": "https://www.mk.co.kr/article/11934296",
-            "press": "매일경제",
-            "pubDate": "2026-01-15T17:51:00",
-            "related_members": [
-                "OIA3741M",
-                "IUX1829H",
-                "6K79158C",
-                "AEO5706C"
-            ],
-            "title": "\"임원 겸직보수까지 다 공개해야 … 주식보상도 공시를\""
-        },
-        {
-            "_id": "6968ad89297082fcc2b18cf1",
-            "link": "https://n.news.naver.com/mnews/article/015/0005237813?sid=100",
-            "created_at": "2026-01-15T18:04:06.800000",
-            "description": "15일 민주당 코스피5000특별위원회의 오기형·김남근·이강일 의원은 국회에서 ‘상법 개정에 따른 기업공시 개정 방안’ 간담회를 열고 이 같은 공시 제도 강화 방안을 논의했다. 코스피5000특위는 이사의 주주 충실 의무... ",
-            "originallink": "https://www.hankyung.com/article/2026011535181",
-            "press": "한국경제",
-            "pubDate": "2026-01-15T17:33:00",
-            "related_members": [
-                "OIA3741M",
-                "IUX1829H",
-                "AEO5706C",
-                "6K79158C"
-            ],
-            "title": "與, 자사주 소각 이어 공시제도까지 손댄다"
-        },
-        {
-            "_id": "6968ad88297082fcc2b18ce2",
-            "link": "https://n.news.naver.com/mnews/article/003/0013711356?sid=100",
-            "created_at": "2026-01-15T18:04:05.328000",
-            "description": "◇국회의장 10:00 윤종빈 한국정치학회 회장 접견(의장집무실) ◇상임위원회 10:00 12.... 14:00 오기형 의원실 등, 상법개정에 따른 기업공시 개정 방안(의원회관 제6간담회의실) ◇소통관 기자회견 10:20 서영교 의원... ",
-            "originallink": "https://www.newsis.com/view/NISX20260114_0003477362",
-            "press": "뉴시스",
-            "pubDate": "2026-01-15T05:00:00",
-            "related_members": [
-                "TQP7167T",
-                "SLW27496",
-                "NUB4941Z",
-                "YN160848",
-                "04T3751T",
-                "L7J93733",
-                "TKJ4800F",
-                "OIA3741M",
-                "6K79158C"
-            ],
-            "title": "[오늘의 주요일정]국회(1월15일 목요일)"
-        },
-        {
-            "_id": "6968ad88297082fcc2b18ce1",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714876?sid=100",
-            "created_at": "2026-01-15T18:04:05.328000",
-            "description": "= ◇국회의장 10:00 윤종빈 한국정치학회 회장 접견 (의장집무실) ◇상임위원회 10:00 12·29 여객기참사... 14:00 오기형 의원실 등, 상법개정에 따른 기업공시 개정 방안 (의원회관 제6간담회의실) ◇소통관 기자회견 10... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039443",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T05:00:00",
-            "related_members": [
-                "TQP7167T",
-                "SLW27496",
-                "NUB4941Z",
-                "YN160848",
-                "04T3751T",
-                "L7J93733",
-                "TKJ4800F",
-                "OIA3741M",
-                "6K79158C"
-            ],
-            "title": "[오늘의 국회일정] (15일, 목)"
-        },
-        {
-            "_id": "696594c6887d07f7ba2fab5f",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786097?sid=101",
-            "created_at": "2026-01-13T09:41:40.534000",
-            "description": "여의도동 국회의원회관 제2소회의실에서 개최한다. ‘코리아 프리미엄 시대, 무엇을 할 것인가?’를 주제로... 마지막 종합토론에서는 김우진 서울대 교수(경영학)의 사회로 오기형 더불어민주당 코스피 5000 특별위원회... ",
-            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1239358.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-13T07:02:00",
-            "related_members": [
-                "OIA3741M"
-            ],
-            "title": "코스피 5000이 ‘반환점’이 되지 않으려면"
-        },
-        {
-            "_id": "6964b547631fd17434996080",
-            "link": "https://n.news.naver.com/mnews/article/011/0004575429?sid=100",
-            "created_at": "2026-01-12T17:48:04.685000",
-            "description": "오기형 민주당 의원은 6일 국회에서 기자회견을 갖고 “대규모 소비자 피해를 방치하지 않고 실질적으로 구제할 수 있는 집단소송 제도 도입을 담은 집단소송법을 오늘 대표 발의했다”고 밝혔다. 오 의원은 “쿠팡은... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K774VQPSJ",
-            "press": "서울경제",
-            "pubDate": "2026-01-06T16:48:00",
-            "related_members": [
-                "IUX1829H",
-                "OIA3741M"
-            ],
-            "title": "與, 쿠팡 겨냥 '집단소송제' 확대 추진…개인정보 유출에도 적용"
-        },
-        {
-            "_id": "6964b56f631fd1743499633b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008699313?sid=100",
-            "created_at": "2026-01-12T17:48:44.683000",
-            "description": "오기형 더불어민주당 의원은 6일 국회 소통관에서 기자회견을 열고 \"더 이상 대규모 소비자 피해를 방치하지 말고 실질적으로 구제할 수 있는 제도를 도입하는 '집단소송법안'을 대표 발의한다\"고 밝혔다. 오 의원은 사안의... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6030513",
-            "press": "뉴스1",
-            "pubDate": "2026-01-06T16:44:00",
-            "related_members": [
-                "OIA3741M"
-            ],
-            "title": "與 오기형, 쿠팡 겨냥 집단소송 확대법 발의…\"소액·다수 피해자 구제..."
-        },
-        {
-            "_id": "6964b547631fd17434996081",
-            "link": "https://n.news.naver.com/mnews/article/009/0005617318?sid=100",
-            "created_at": "2026-01-12T17:48:04.685000",
-            "description": "6일 오기형 민주당 의원은 국회에서 기자회견을 열고 대규모 소비자 피해를 구제하기 위해 개인정보 유출·소비재 분쟁 등 분야로 집단소송 범위를 넓히는 집단소송법안을 발의했다고 밝혔다. 오 의원은 “쿠팡 사태... ",
-            "originallink": "https://www.mk.co.kr/article/11924683",
-            "press": "매일경제",
-            "pubDate": "2026-01-06T16:20:00",
-            "related_members": [
-                "IUX1829H",
-                "OIA3741M",
-                "HSS7466Y",
-                "TJW93720",
-                "K5F2023J",
-                "6AU2417B"
-            ],
-            "title": "쿠팡 조준 나선 與…오기형 의원, 집단소송제 확대 법안 발의"
-        },
-        {
-            "_id": "6964b542631fd17434996011",
-            "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
-            "originallink": "https://www.hankyung.com/article/2026010644427",
-            "press": "한국경제",
-            "pubDate": "2026-01-06T14:33:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "5N65159P",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "VRY5522V",
-                "BT62420K",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "OIA3741M",
-                "BRU2690F",
-                "GP07421U",
-                "JC14718Q",
-                "MQK9493H",
-                "7YC6702R",
-                "W3U3344O",
-                "95J3282H",
-                "0R68099X",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "CCU1009B",
-                "FH777496",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "3C23171A",
-                "8TU8443O",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "與 의원 68명 \"미국의 베네수엘라 군사작전, 국제평화 위협\" [전문]"
-        },
-        {
-            "_id": "6964b542631fd17434996012",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-06T11:58:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "BT62420K",
-                "VRY5522V",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "OIA3741M",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "BRU2690F",
-                "MQK9493H",
-                "GP07421U",
-                "7YC6702R",
-                "JC14718Q",
-                "95J3282H",
-                "0R68099X",
-                "W3U3344O",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "CCU1009B",
-                "FH777496",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "8TU8443O",
-                "3C23171A",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b55a631fd174349961f5",
-            "link": "https://n.news.naver.com/mnews/article/421/0008697339?sid=100",
-            "created_at": "2026-01-12T17:48:23.330000",
-            "description": "14:00 민홍철 의원실 등, 지주회사법과 가상자산법의 현황과 과제 (국회도서관 소강당) ◇소통관 기자회견 10:00 이광희 의원, [유동철 최고위원 후보 긴급 정책 제안 기자회견] 10:40 박태우 부대변인, [진보당... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6029307",
-            "press": "뉴스1",
-            "pubDate": "2026-01-06T05:00:00",
-            "related_members": [
-                "O6D8329R",
-                "95J3282H",
-                "57B28032",
-                "OIA3741M"
-            ],
-            "title": "[오늘의 국회일정] (6일, 화)"
-        },
-        {
-            "_id": "6964b55a631fd174349961f4",
-            "link": "https://n.news.naver.com/mnews/article/003/0013693971?sid=100",
-            "created_at": "2026-01-12T17:48:23.330000",
-            "description": "14:00 민홍철 의원실 등, 지주회사법과 가상자산법의 현황과 과제(국회도서관 소강당) ◇소통관 기자회견 10:00 이광희 의원, [유동철 최고위원 후보 긴급 정책 제안 기자회견] 10:40 박태우 부대변인, [진보당... ",
-            "originallink": "https://www.newsis.com/view/NISX20260105_0003466003",
-            "press": "뉴시스",
-            "pubDate": "2026-01-06T05:00:00",
-            "related_members": [
-                "O6D8329R",
-                "95J3282H",
-                "57B28032",
-                "OIA3741M"
-            ],
-            "title": "[오늘의 주요일정]국회(1월6일 화요일)"
         }
     ],
     "recent_videos": [
@@ -640,7 +672,7 @@
             "url": "https://www.youtube.com/watch?v=UCtvE0aNvn4Kzqmy-rXpFeew",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:30.324000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": null,
             "title": "오기형 TV",
             "upload_date": null
@@ -650,7 +682,7 @@
             "url": "https://www.youtube.com/watch?v=EaCTHAwk9WA",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:30.324000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 327.0,
             "title": "[오기형TV] 자산불평등 확대에 대응한 합리적 세제개편 필요  |  2025년 기획재정위원회 국정감사 (25. 10. 30.)",
             "upload_date": null
@@ -660,7 +692,7 @@
             "url": "https://www.youtube.com/watch?v=bAkg_htrb5g",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:30.324000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 82.0,
             "title": "예고) 경제 통상 전문가 더불어민주당 오기형 의원의 인생책 I 책추천",
             "upload_date": null
@@ -670,7 +702,7 @@
             "url": "https://www.youtube.com/watch?v=KcbGStWXtR4",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:31.174000",
+            "collected_at": "2026-01-23T16:45:45.401000",
             "duration": 1701.0,
             "title": "[뉴스레터K] 코스피 5천을 향해 ... 與 전략은? - 오기형 더불어민주당 의원ㅣKBS 251113 방송",
             "upload_date": null
@@ -690,7 +722,7 @@
             "url": "https://www.youtube.com/watch?v=s6zoD3i9ndg",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:30.324000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 1587.0,
             "title": "[오기형TV] 오기형 국회의원, 경제분야 국회 대정부질문 (2022. 07. 26.)",
             "upload_date": null
@@ -700,19 +732,9 @@
             "url": "https://www.youtube.com/watch?v=dtA5-hsk6pg",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:30.324000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 2701.0,
             "title": "대놓고 부탁한 셀프자랑, 뭐라했을까 (feat.오기형 의원) [오유경의 인생책방 149회]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad20631fd1743497d925",
-            "url": "https://www.youtube.com/watch?v=1wuxlWbInkE",
-            "HG_NM": "오기형",
-            "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:31.174000",
-            "duration": 972.0,
-            "title": "[1번지초대석] 국장 전성기 올까…오기형 '코스피5천 특위' 위원장에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -720,9 +742,19 @@
             "url": "https://www.youtube.com/watch?v=-I53Q4LUY70",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:31.174000",
+            "collected_at": "2026-01-23T16:45:45.401000",
             "duration": 580.0,
             "title": "[모닝콜] 오기형 \"자사주는 자산 아냐‥그냥 소각하면 돼\" (2025.11.04/뉴스투데이/MBC)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad20631fd1743497d925",
+            "url": "https://www.youtube.com/watch?v=1wuxlWbInkE",
+            "HG_NM": "오기형",
+            "MONA_CD": "OIA3741M",
+            "collected_at": "2026-01-23T16:45:45.401000",
+            "duration": 972.0,
+            "title": "[1번지초대석] 국장 전성기 올까…오기형 '코스피5천 특위' 위원장에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -730,7 +762,7 @@
             "url": "https://www.youtube.com/watch?v=hlEIb56zdp0",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:31.174000",
+            "collected_at": "2026-01-23T16:45:45.401000",
             "duration": 194.0,
             "title": "[뉴스투데이]'더불어민주당' 영입 오기형",
             "upload_date": null
@@ -750,7 +782,7 @@
             "url": "https://www.youtube.com/watch?v=dfPZTDKFmSk",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-21T08:47:30.324000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 1559.0,
             "title": "[오기형TV] 오기형 국회의원, 교육·사회·문화 국회 대정부질문 (2023. 04. 05.)",
             "upload_date": null
@@ -760,7 +792,7 @@
             "url": "https://www.youtube.com/watch?v=PnGcFqe7O0o",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-15T18:20:05.128000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 184.0,
             "title": "상법 개정안 본회의 통과 관련 기자회견 [오기형의원 모두발언] (25. 7. 3.)",
             "upload_date": null
@@ -780,11 +812,21 @@
             "url": "https://www.youtube.com/watch?v=ewZqRSZWFAQ",
             "HG_NM": "오기형",
             "MONA_CD": "OIA3741M",
-            "collected_at": "2026-01-15T18:20:05.128000",
+            "collected_at": "2026-01-23T16:45:44.706000",
             "duration": 590.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 오기형 의원(더불어민주당)",
             "upload_date": null
+        },
+        {
+            "_id": "6973272c8459600028997a41",
+            "url": "https://www.youtube.com/watch?v=xppts5bErSk",
+            "HG_NM": "오기형",
+            "MONA_CD": "OIA3741M",
+            "collected_at": "2026-01-23T16:45:44.706000",
+            "duration": 1440.0,
+            "title": "[전격시사] '코스피 사상 첫 5,000 돌파'…의미는? - 오기형 더불어민주당 의원ㅣKBS 260123 방송",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:26.372271"
+    "exported_at": "2026-01-26T14:36:33.423786"
 }

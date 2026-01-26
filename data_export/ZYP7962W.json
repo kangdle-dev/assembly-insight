@@ -55,6 +55,7 @@
             "경주",
             "국민",
             "복지",
+            "대표",
             "신년",
             "경주시",
             "시민",
@@ -65,7 +66,6 @@
             "새해",
             "도약",
             "회의",
-            "참석",
             "국정"
         ],
         "keyword_frequency": [
@@ -80,6 +80,10 @@
             {
                 "text": "복지",
                 "value": 10
+            },
+            {
+                "text": "대표",
+                "value": 9
             },
             {
                 "text": "신년",
@@ -122,37 +126,114 @@
                 "value": 7
             },
             {
-                "text": "참석",
-                "value": 6
-            },
-            {
                 "text": "국정",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:08.758065",
+        "last_analyzed_at": "2026-01-26T14:36:14.611821",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                1,
+                0,
+                2,
                 0,
                 0,
                 0,
-                0,
-                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fceb8459600028997f3c",
+            "link": "https://n.news.naver.com/mnews/article/016/0002590629?sid=100",
+            "created_at": "2026-01-26T14:34:32.645000",
+            "description": "아울러 나경원, 김기현, 김상훈, 김석기, 김정재, 윤상현, 이헌승, 성일종 국회의원과 박완수 경남지사, 김태흠 충남지사 등 과거 함께 정치 역정을 함께 한 인사들도 영상 축사 및 축전을 통해 최 전 부총리의 출판기념회를... ",
+            "originallink": "https://biz.heraldcorp.com/article/10662277?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-25T21:34:00",
+            "related_members": [
+                "1Y73132H",
+                "7XY7109I",
+                "E1J8836Y",
+                "MSY7784L",
+                "EVH1507C",
+                "ZYP7962W",
+                "X7I4680R",
+                "SLW27496",
+                "ZRF3039U",
+                "OSV9142K",
+                "Y0X4618N"
+            ],
+            "title": "최경환 전 경제부총리, 출판기념회 ‘성황’"
+        },
+        {
+            "_id": "6976fceb8459600028997f3d",
+            "link": "https://n.news.naver.com/mnews/article/382/0001250567?sid=102",
+            "created_at": "2026-01-26T14:34:32.645000",
+            "description": "나경원·김기현·김상훈·김석기·김정재·윤상현·이헌승·성일종 국회의원과 박완수 경남도지사, 김태흠 충남도지사 등은 영상 축사와 축전을 통해 출판기념회를 축하했다. 내빈들은 축사를 통해 “대한민국 경제의... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260125/133224736/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-25T16:46:00",
+            "related_members": [
+                "1Y73132H",
+                "7XY7109I",
+                "E1J8836Y",
+                "MSY7784L",
+                "EVH1507C",
+                "ZYP7962W",
+                "X7I4680R",
+                "SLW27496",
+                "ZRF3039U",
+                "OSV9142K",
+                "Y0X4618N"
+            ],
+            "title": "최경환 전 경제부총리, 10년 만의 ‘귀환’… 경산에 결집한 올드보이와..."
+        },
+        {
+            "_id": "6972d1f884596000289976ef",
+            "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=199526&mode=view",
+            "created_at": "2026-01-23T10:42:14.802000",
+            "description": "위원회는 2009년 용산참사 당시 서울지방경찰청장으로서 진압 작전을 지휘했던 김석기 국회의원의 책임을 지적하며, 사건에 대한 철저한 진상규명과 책임자 처벌을 요구했습니다. 당시 진압 과정에서 6명이 사망한 만큼... ",
+            "originallink": "http://www.phmbc.co.kr/www/news/desk_news?idx=199526&mode=view",
+            "press": "MBC",
+            "pubDate": "2026-01-21T20:42:00",
+            "related_members": [
+                "ZYP7962W"
+            ],
+            "title": "용산참사 17주기..김석기 의원 사무실 앞 규탄 기자회견"
+        },
+        {
+            "_id": "6972d1f884596000289976f0",
+            "link": "https://n.news.naver.com/mnews/article/421/0008726861?sid=100",
+            "created_at": "2026-01-23T10:42:14.802000",
+            "description": "송언석 원내대표는 이날 오후 국회에서 열린 의원총회 후 단식 중인 장 대표를 찾았다. 이 자리에는 중진인 나경원, 윤상현, 윤재옥, 박덕흠 의원 등이 함께 했다. 송 원내대표는 \"당 대표의 대여투쟁을 강력히 전적으로... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6046506",
+            "press": "뉴스1",
+            "pubDate": "2026-01-21T16:21:00",
+            "related_members": [
+                "KFM1081G",
+                "ZYP7962W",
+                "ZRF3039U",
+                "SLW27496",
+                "N4R2421C",
+                "MSY7784L",
+                "6EN68926",
+                "PFG2137X",
+                "REG96285",
+                "G6W8250J"
+            ],
+            "title": "'단식 7일' 장동혁 \"나는 여기 묻힐 것\"…구급차 호송 끝내 거부"
+        },
         {
             "_id": "6968ad8d297082fcc2b18d0e",
             "link": "https://n.news.naver.com/mnews/article/079/0004105371?sid=102",
@@ -209,7 +290,7 @@
             "_id": "6964b54b631fd174349960ce",
             "link": "https://n.news.naver.com/mnews/article/056/0012102311?sid=100",
             "created_at": "2026-01-12T17:48:08.356000",
-            "description": "비롯해, 더불어민주당 민홍철·이재강·이재정·홍기원 의원, 국민의힘 김석기·송언석·배현진·우재준·이성권·안철수·진종오 의원 등이 참석했습니다. [사진 출처 : 주호영 국회부의장실 제공]",
+            "description": "주호영 국회부의장 등 한일의원연맹·국회 외교통일위원회 소속 의원들이 다카이치 사나에 일본 총리를 만나... 면담에는 주호영 부의장을 비롯해, 더불어민주당 민홍철·이재강·이재정·홍기원 의원, 국민의힘 김석기... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8455442&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-10T11:50:00",
@@ -340,33 +421,33 @@
     ],
     "recent_videos": [
         {
-            "_id": "6968b00a297082fcc2b19030",
-            "url": "https://www.youtube.com/watch?v=pqRBcHy16FA",
+            "_id": "6968b00a297082fcc2b1902f",
+            "url": "https://www.youtube.com/watch?v=Yc4OxI8qJ2c",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
             "collected_at": "2026-01-15T18:14:47.226000",
-            "duration": 478.0,
-            "title": "[윈티비 뉴스24] 윈미디어 김왕기 회장, 김석기의원 단독 인터뷰",
+            "duration": 171.0,
+            "title": "[BBS뉴스] [佛心의 政治를 말하다 21] 김석기 자유한국당 의원",
             "upload_date": null
         },
         {
-            "_id": "6960abf4631fd1743497d46f",
-            "url": "https://www.youtube.com/watch?v=91A0bdUpKQY",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:29.569000",
-            "duration": 224.0,
-            "title": "[국회의원 김석기] 김석기 국회의원 TBC 8시 뉴스 출연! / 230616",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d469",
-            "url": "https://www.youtube.com/watch?v=Iylz9NQGNug",
+            "_id": "6960abf4631fd1743497d46d",
+            "url": "https://www.youtube.com/watch?v=WKIc9kzOFkA",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
             "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 325.0,
-            "title": "법사위원장 들먹인 김석기에 정청래 '국회법 교육'...\"퇴장명령은 1차 경고 후에\"",
+            "duration": 542.0,
+            "title": "[국회의원 김석기] 국민의힘 '혼용무도 이재명정권 6개월 국정평가 회의' 공개발언",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46a",
+            "url": "https://www.youtube.com/watch?v=dsF-JvuwW5E",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 215.0,
+            "title": "김석기 국민의힘 국회의원 230616ㅣTBC뉴스",
             "upload_date": null
         },
         {
@@ -390,106 +471,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960abf4631fd1743497d46d",
-            "url": "https://www.youtube.com/watch?v=WKIc9kzOFkA",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 542.0,
-            "title": "[국회의원 김석기] 국민의힘 '혼용무도 이재명정권 6개월 국정평가 회의' 공개발언",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5d42297082fcc2b19c1a",
-            "url": "https://www.youtube.com/watch?v=ZU8MHDWF-S4",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 285.0,
-            "title": "[국회의원 김석기]불법폭력 시위에 대한 정당한 공권력 행사를 국가폭력으로 규정하는 것은 적절하지 않습니다",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d466",
-            "url": "https://www.youtube.com/watch?v=jk5cZauJAf4",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 327.0,
-            "title": "[국회의원 김석기] 2025 국회 통일부(정동영 장관) 국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d470",
-            "url": "https://www.youtube.com/watch?v=ReLp9bXQ-bY",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:29.569000",
-            "duration": 605.0,
-            "title": "뉴스타파 · ICIJ 공동 '조세피난처 프로젝트' 5회 - 김석기, 수배중 버젓이 국내사업(2013.6.6)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46a",
-            "url": "https://www.youtube.com/watch?v=dsF-JvuwW5E",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 215.0,
-            "title": "김석기 국민의힘 국회의원 230616ㅣTBC뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee3b887d07f7ba2fb3a5",
-            "url": "https://www.youtube.com/watch?v=RkTNUsgMMWc",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-14T10:15:38.907000",
-            "duration": 139.0,
-            "title": "[국회의원 김석기] 8년간 업적을 남긴 김문수, 4년간 비리만 남긴 이재명!",
-            "upload_date": null
-        },
-        {
-            "_id": "6965953c887d07f7ba2fabf0",
-            "url": "https://www.youtube.com/watch?v=LBCXcKfV-kQ",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-13T09:43:38.586000",
-            "duration": 158.0,
-            "title": "산회 전 위원장의 '대폭발'?...화내는 김석기에 차관 답변은?",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d46c",
-            "url": "https://www.youtube.com/watch?v=Tp2PYuz6_-s",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 386.0,
-            "title": "[국회의원 김석기] 김석기의원 사이다 발언! 정권이 바뀌지 않으면, 자유 대한민국 위험해진다! / 211021 국회 외교통일위원회 종합 국정감사",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b00a297082fcc2b1902f",
-            "url": "https://www.youtube.com/watch?v=Yc4OxI8qJ2c",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-15T18:14:47.226000",
-            "duration": 171.0,
-            "title": "[BBS뉴스] [佛心의 政治를 말하다 21] 김석기 자유한국당 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abf4631fd1743497d468",
-            "url": "https://www.youtube.com/watch?v=cuM4hCKiTBM",
-            "HG_NM": "김석기",
-            "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 332.0,
-            "title": "[국회의원 김석기] 경주 출신 국회의원 최초 '정당 사무총장', 김석기 국회의원 칭찬 릴레이!",
-            "upload_date": null
-        },
-        {
             "_id": "6960abf4631fd1743497d46e",
             "url": "https://www.youtube.com/watch?v=BXDjbSezzxw",
             "HG_NM": "김석기",
@@ -500,23 +481,33 @@
             "upload_date": null
         },
         {
+            "_id": "696c5d42297082fcc2b19c1a",
+            "url": "https://www.youtube.com/watch?v=ZU8MHDWF-S4",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 285.0,
+            "title": "[국회의원 김석기]불법폭력 시위에 대한 정당한 공권력 행사를 국가폭력으로 규정하는 것은 적절하지 않습니다",
+            "upload_date": null
+        },
+        {
             "_id": "6960abf4631fd1743497d465",
             "url": "https://www.youtube.com/watch?v=UCWNIJ6knOvVykYTQDI3cCOg",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
+            "collected_at": "2026-01-23T16:40:45.578000",
             "duration": null,
             "title": "김석기TV",
             "upload_date": null
         },
         {
-            "_id": "6960abf4631fd1743497d467",
-            "url": "https://www.youtube.com/watch?v=D3QgKqA4soQ",
+            "_id": "6960abf4631fd1743497d470",
+            "url": "https://www.youtube.com/watch?v=ReLp9bXQ-bY",
             "HG_NM": "김석기",
             "MONA_CD": "ZYP7962W",
-            "collected_at": "2026-01-21T08:42:28.887000",
-            "duration": 1196.0,
-            "title": "[헬로 이슈토크] 신년대담 김석기 국회의원",
+            "collected_at": "2026-01-21T08:42:29.569000",
+            "duration": 605.0,
+            "title": "뉴스타파 · ICIJ 공동 '조세피난처 프로젝트' 5회 - 김석기, 수배중 버젓이 국내사업(2013.6.6)",
             "upload_date": null
         },
         {
@@ -538,7 +529,97 @@
             "duration": 90.0,
             "title": "\"윤석열은 내란수괴범 아냐\".. 반대하는 민주당은 퇴장?? 국민 분노하게 만드는 김석기",
             "upload_date": null
+        },
+        {
+            "_id": "6965953c887d07f7ba2fabf0",
+            "url": "https://www.youtube.com/watch?v=LBCXcKfV-kQ",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:46.304000",
+            "duration": 158.0,
+            "title": "산회 전 위원장의 '대폭발'?...화내는 김석기에 차관 답변은?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d469",
+            "url": "https://www.youtube.com/watch?v=Iylz9NQGNug",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 325.0,
+            "title": "법사위원장 들먹인 김석기에 정청래 '국회법 교육'...\"퇴장명령은 1차 경고 후에\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b00a297082fcc2b19030",
+            "url": "https://www.youtube.com/watch?v=pqRBcHy16FA",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-15T18:14:47.226000",
+            "duration": 478.0,
+            "title": "[윈티비 뉴스24] 윈미디어 김왕기 회장, 김석기의원 단독 인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d468",
+            "url": "https://www.youtube.com/watch?v=cuM4hCKiTBM",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 332.0,
+            "title": "[국회의원 김석기] 경주 출신 국회의원 최초 '정당 사무총장', 김석기 국회의원 칭찬 릴레이!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46f",
+            "url": "https://www.youtube.com/watch?v=91A0bdUpKQY",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:46.304000",
+            "duration": 224.0,
+            "title": "[국회의원 김석기] 김석기 국회의원 TBC 8시 뉴스 출연! / 230616",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d466",
+            "url": "https://www.youtube.com/watch?v=jk5cZauJAf4",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 327.0,
+            "title": "[국회의원 김석기] 2025 국회 통일부(정동영 장관) 국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d467",
+            "url": "https://www.youtube.com/watch?v=D3QgKqA4soQ",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 1196.0,
+            "title": "[헬로 이슈토크] 신년대담 김석기 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abf4631fd1743497d46c",
+            "url": "https://www.youtube.com/watch?v=Tp2PYuz6_-s",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-23T16:40:45.578000",
+            "duration": 386.0,
+            "title": "[국회의원 김석기] 김석기의원 사이다 발언! 정권이 바뀌지 않으면, 자유 대한민국 위험해진다! / 211021 국회 외교통일위원회 종합 국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee3b887d07f7ba2fb3a5",
+            "url": "https://www.youtube.com/watch?v=RkTNUsgMMWc",
+            "HG_NM": "김석기",
+            "MONA_CD": "ZYP7962W",
+            "collected_at": "2026-01-14T10:15:38.907000",
+            "duration": 139.0,
+            "title": "[국회의원 김석기] 8년간 업적을 남긴 김문수, 4년간 비리만 남긴 이재명!",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:08.758065"
+    "exported_at": "2026-01-26T14:36:14.611821"
 }

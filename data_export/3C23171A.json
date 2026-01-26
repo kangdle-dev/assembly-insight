@@ -55,54 +55,70 @@
             "원내",
             "대표",
             "선거",
-            "출마",
-            "더불어민주당",
+            "이혜훈",
             "민주당",
+            "더불어민주당",
             "투표",
+            "출마",
             "한병도",
-            "보궐",
-            "김병기",
-            "민주",
+            "의혹",
+            "청약",
             "이날",
-            "선언",
-            "임기",
-            "총회"
+            "후보자",
+            "김병기",
+            "부정"
         ],
         "keyword_frequency": [
             {
                 "text": "원내",
-                "value": 53
+                "value": 54
             },
             {
                 "text": "대표",
-                "value": 48
+                "value": 50
             },
             {
                 "text": "선거",
                 "value": 21
             },
             {
-                "text": "출마",
+                "text": "이혜훈",
+                "value": 20
+            },
+            {
+                "text": "민주당",
                 "value": 18
             },
             {
                 "text": "더불어민주당",
-                "value": 15
-            },
-            {
-                "text": "민주당",
-                "value": 13
+                "value": 17
             },
             {
                 "text": "투표",
-                "value": 13
+                "value": 17
+            },
+            {
+                "text": "출마",
+                "value": 17
             },
             {
                 "text": "한병도",
+                "value": 15
+            },
+            {
+                "text": "의혹",
+                "value": 13
+            },
+            {
+                "text": "청약",
+                "value": 13
+            },
+            {
+                "text": "이날",
                 "value": 12
             },
             {
-                "text": "보궐",
+                "text": "후보자",
                 "value": 11
             },
             {
@@ -110,49 +126,233 @@
                 "value": 10
             },
             {
-                "text": "민주",
+                "text": "부정",
                 "value": 9
-            },
-            {
-                "text": "이날",
-                "value": 9
-            },
-            {
-                "text": "선언",
-                "value": 9
-            },
-            {
-                "text": "임기",
-                "value": 9
-            },
-            {
-                "text": "총회",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:40.870731",
+        "last_analyzed_at": "2026-01-26T14:36:48.842622",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
                 0,
+                1,
                 0,
-                0,
-                0,
-                0,
-                0,
+                7,
+                2,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "6976fcfa8459600028997fbc",
+            "link": "https://n.news.naver.com/mnews/article/022/0004100338?sid=100",
+            "created_at": "2026-01-26T14:34:48.113000",
+            "description": "민주당 진성준 의원은 “명백히 불법이다. 이 집을 내놓으셔야 한다”고 지적했다. “미안하다, 사죄한다고... 차례나 국회의원을 지냈다’는 점을 언급한 데엔 “본인 책임은 철저히 외면했다. 후보자만큼 뻔뻔한 이재명... ",
+            "originallink": "https://www.segye.com/newsView/20260125508408?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-25T18:18:00",
+            "related_members": [
+                "NUB4941Z",
+                "LT72093S",
+                "FU87526G",
+                "5TQ6306B",
+                "E2B3753X",
+                "2KM3589W",
+                "6EN68926",
+                "OIA3741M",
+                "3C23171A"
+            ],
+            "title": "의혹 해소 못하고 논란만 더 커져… 여당도 “옹호 어렵다” [이혜훈 후..."
+        },
+        {
+            "_id": "6976fd13845960002899803e",
+            "link": "https://n.news.naver.com/mnews/article/052/0002305233?sid=100",
+            "created_at": "2026-01-26T14:35:12.753000",
+            "description": "[여선웅] 정일영 의원도 마찬가지고 어제 진성준 의원님도 관련해서 아파트를 내놔야 되지 않냐, 이런 식으로... 제가 계속 누차 말씀드리지만 총선 같은 경우에는 국회의원의 지역구가 달려있기 때문에 합당이 굉장히... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601241018460736",
+            "press": "YTN",
+            "pubDate": "2026-01-24T10:18:00",
+            "related_members": [
+                "YOG1280B",
+                "EH27538E",
+                "LT72093S",
+                "3C23171A"
+            ],
+            "title": "'꼬리에 꼬리 무는' 이혜훈 의혹...여야 모두 질타"
+        },
+        {
+            "_id": "6976fcfa8459600028997fb4",
+            "link": "https://n.news.naver.com/mnews/article/020/0003692062?sid=100",
+            "created_at": "2026-01-26T14:34:47.741000",
+            "description": "혼인신고 천하람 “며느리는 청약 도운 효부” 李 “장남 심리문제로 치료” 눈물도 54평형 80억 아파트 포기... ● 갑질 녹취엔 한숨 푹… “국민의힘이 보좌진 압박” 이날 청문회에선 이 후보자가 국회의원 재직 시절... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260124/133221902/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-24T01:44:00",
+            "related_members": [
+                "UF53617M",
+                "P0F1530P",
+                "LT72093S",
+                "3C23171A",
+                "YGB8604T"
+            ],
+            "title": "부정청약 아니라는 이혜훈, 與도 “명백한 불법”"
+        },
+        {
+            "_id": "6976fcf38459600028997f86",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423488?sid=100",
+            "created_at": "2026-01-26T14:34:40.836000",
+            "description": "여야 의원들은 이날 국회 재정경제기획위원회에서 열린 이 후보자 인사청문회에서 이 후보자를 둘러싼 각종... 이 후보자가 결혼한 아들을 ‘미혼’ 부양가족으로 포함한 이유로 아들 부부의 불화를 언급하자 진성준... ",
+            "originallink": "https://www.khan.co.kr/article/202601232008001",
+            "press": "경향신문",
+            "pubDate": "2026-01-23T20:08:00",
+            "related_members": [
+                "8O34202I",
+                "NUB4941Z",
+                "NX534083",
+                "WTR5885Y",
+                "LT72093S",
+                "UHB5553T",
+                "3C23171A"
+            ],
+            "title": "여당, 이혜훈 부정청약 의혹 ‘송곳 검증’…“주택법 위반 사과하라”..."
+        },
+        {
+            "_id": "6976fcfa8459600028997fb6",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828015?sid=100",
+            "created_at": "2026-01-26T14:34:47.741000",
+            "description": "여권 의원들마저 이 후보자를 질타하는 모습이 연출됐다. 여야 의원들은 국회 재정경제기획위원회에서 열린... 더불어민주당 진성준 의원은 “청약 규칙에 미혼 자녀만 부양가족으로 인정되는데, 사실상 혼인을 하지... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1769158965&code=11121300&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-23T18:52:00",
+            "related_members": [
+                "P0F1530P",
+                "WTR5885Y",
+                "3C23171A"
+            ],
+            "title": "겨우 열린 청문회, 이혜훈 해명 들어봤지만… 與조차 “불법”"
+        },
+        {
+            "_id": "6976fcfa8459600028997fb7",
+            "link": "https://n.news.naver.com/mnews/article/015/0005241481?sid=100",
+            "created_at": "2026-01-26T14:34:47.741000",
+            "description": "국회의원이 국위 선양한 사람이냐”고 지적했다. 장남이 연세대에 지원했을 당시 아버지인 김영세 교수가... 진성준 민주당 의원도 “청약 규칙에 미혼 자녀만 부양가족으로 인정되고, 사실상 자녀는 혼인을 했다”며... ",
+            "originallink": "https://www.hankyung.com/article/2026012395061",
+            "press": "한국경제",
+            "pubDate": "2026-01-23T18:15:00",
+            "related_members": [
+                "UF53617M",
+                "P0F1530P",
+                "NUB4941Z",
+                "NX534083",
+                "WTR5885Y",
+                "NLS46526",
+                "EH27538E",
+                "3C23171A"
+            ],
+            "title": "이혜훈 \"아니다, 사정있어, 죄송\"…여야 \"거짓말\" 질타"
+        },
+        {
+            "_id": "6976fcfa8459600028997fb8",
+            "link": "https://n.news.naver.com/mnews/article/032/0003423466?sid=100",
+            "created_at": "2026-01-26T14:34:47.741000",
+            "description": "천하람 개혁신당 의원은 “이 후보자는 책에서 ‘갑질 근절이 후보자가 정치를 하는 이유’라고 했는데... 국민의힘 의원들은 청문회장에서 이 후보자가 국회의원 시절 보좌진에게 폭언하는 녹음을 수차례 틀었다.... ",
+            "originallink": "https://www.khan.co.kr/article/202601231634001",
+            "press": "경향신문",
+            "pubDate": "2026-01-23T16:34:00",
+            "related_members": [
+                "P0F1530P",
+                "NUB4941Z",
+                "S824682L",
+                "UHB5553T",
+                "WTR5885Y",
+                "EH27538E",
+                "3C23171A",
+                "YGB8604T"
+            ],
+            "title": "눈가 훔친 이혜훈, ‘부정 청약’ 의혹에 “장남, 혼인관계 파경으로 치..."
+        },
+        {
+            "_id": "6976fd188459600028998057",
+            "link": "https://n.news.naver.com/mnews/article/052/0002304984?sid=102",
+            "created_at": "2026-01-26T14:35:17.478000",
+            "description": "유의동 의원님께서 이야기하신 그 부분을 직접 듣고 오겠습니다.오늘 청문회에서 천하람 의원이 비망록을... 지금 교섭단체가 아니기 때문에 조국혁신당의 국회의원들이 불편한 게 너무 많아서 합치자는 의견이 상당히... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601231603117309",
+            "press": "YTN",
+            "pubDate": "2026-01-23T16:03:00",
+            "related_members": [
+                "JZV5283U",
+                "3C23171A",
+                "YGB8604T"
+            ],
+            "title": "[정치ON] 이혜훈, 장남 '위장 미혼' 의혹에 \"결혼식 후 부부관계 최악\""
+        },
+        {
+            "_id": "6976fcf38459600028997f88",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138044?sid=100",
+            "created_at": "2026-01-26T14:34:40.836000",
+            "description": "박홍근 민주당 의원은 23일 국회 재정경제기획위원회에서 열린 이 후보자 인사청문회에서 “정책 노선을 볼... 진성준 민주당 의원도 원펜타스 부정 청약 의혹을 언급하면서 “청약 규칙에 미혼인 자녀만 부양가족으로... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/23/YIKM5UXQWFHDLNKGHNM4VNH2MM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-23T14:59:00",
+            "related_members": [
+                "8O34202I",
+                "S824682L",
+                "EB16073M",
+                "WTR5885Y",
+                "LT72093S",
+                "3C23171A"
+            ],
+            "title": "“정책 질문 준비했는데 이혜훈 답변에 의구심”…與 의원들도 방어 대..."
+        },
+        {
+            "_id": "6976fd27845960002899807b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008730880?sid=100",
+            "created_at": "2026-01-26T14:35:32.921000",
+            "description": "최은석 국민의힘 의원은 이날 오전 국회에서 열린 인사청문회에서 이 후보자의 장남이 '사회 기여자 전형... 천하람 개혁신당 의원은 갑질 논란으로 장관직에서 낙마한 강선우 무소속 의원(전 더불어민주당)을 거론하며... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6048879",
+            "press": "뉴스1",
+            "pubDate": "2026-01-23T12:42:00",
+            "related_members": [
+                "EH27538E",
+                "LT72093S",
+                "UF53617M",
+                "3C23171A",
+                "KNP22261",
+                "YGB8604T",
+                "MNZ4401T"
+            ],
+            "title": "여야 모두 이혜훈 질타…\"입만 열면 거짓말\" \"불법 청약 부정입학\""
+        },
+        {
+            "_id": "6972d20d845960002899777d",
+            "link": "https://n.news.naver.com/mnews/article/262/0000019097?sid=100",
+            "created_at": "2026-01-23T10:42:35.127000",
+            "description": "그러나 원내대표 선거의 경우 권리당원 투표 20%, 국회의원 투표 80%를 반영한다는 점에서 백 의원의 선명성은 빛을 보지 못했다. 당 전략기획위원장과 정책위의장을 역임한 진성준 의원은 자타 공인의 ‘전략통’... ",
+            "originallink": "https://shindonga.donga.com/3/all/13/6066907/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-21T09:01:00",
+            "related_members": [
+                "H5476989",
+                "4019850M",
+                "3C23171A",
+                "HSS7466Y",
+                "XEF29171",
+                "DAV7257X",
+                "M0A1658U",
+                "IWK63872"
+            ],
+            "title": "[Who's who?] 더불어민주당 신임 원내대표 ‘한병도’는 누구?"
+        },
         {
             "_id": "69659499887d07f7ba2fab15",
             "link": "https://n.news.naver.com/mnews/article/079/0004104307?sid=100",
@@ -191,7 +391,7 @@
             "_id": "69659499887d07f7ba2fab16",
             "link": "https://n.news.naver.com/mnews/article/079/0004104302?sid=100",
             "created_at": "2026-01-13T09:40:55.415000",
-            "description": "이 컴퓨터가 이미 작년 10월 진종오 국민의힘 의원으로부터 지방선거 경선에 종교단체가 동원됐다는 의혹이... 국회의원? ◆ 김성열&gt; 그런데 이 얘기가 어디서 나오는 거냐면. ◇ 박재홍&gt; 질문에만 답을 해주세요. ◆ 김성열... ",
+            "description": "어제 국회에서 열린 원내대표 선출 의원총회에서 신임 원내대표 자리에 올랐는데요. 의원 투표 80% 그리고 권리당원 투표 20%를 합산한 결과였습니다. 이번 보궐선거는 한병도, 백혜련, 박정, 진성준 의원의 4파전이었는데... ",
             "originallink": "https://www.nocutnews.co.kr/news/6455085?utm_source=naver&utm_medium=article&utm_campaign=20260113070013",
             "press": "노컷뉴스",
             "pubDate": "2026-01-13T07:01:00",
@@ -497,7 +697,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원 68명이 “최근 베네수엘라에서 발생한 미국의 군사작전과 관련해 국제법적... 이재정, 이주희, 이해식, 이훈기, 임미애, 임오경, 임호선, 장경태, 전진숙, 정태호, 조계원, 진성준, 최민희, 한준호... ",
+            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -660,20 +860,6 @@
                 "3C23171A"
             ],
             "title": "3선 진성준, 與원내대표 출사표…“잔여임기 4개월만 수행”"
-        },
-        {
-            "_id": "6964b557631fd174349961d0",
-            "link": "https://n.news.naver.com/mnews/article/056/0012096243?sid=100",
-            "created_at": "2026-01-12T17:48:21.005000",
-            "description": "더불어민주당 진성준 의원이 오늘(31일) 원내대표 보궐선거에 출마하겠다고 밝혔습니다. 진 의원은 오늘 국회... 맹성규 의원은 SNS에 “제한된 임기 아래에서는 원내 협상 전략을 꾸리고, 당정청 협력 구조를 안정시키는 등... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8447334&ref=A",
-            "press": "KBS",
-            "pubDate": "2025-12-31T12:43:00",
-            "related_members": [
-                "FJK3396E",
-                "3C23171A"
-            ],
-            "title": "민주 진성준, 보궐 원내대표 첫 출사표…“연임 안한다” 배수진"
         }
     ],
     "recent_videos": [
@@ -698,13 +884,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae14631fd1743497dcbe",
-            "url": "https://www.youtube.com/watch?v=otYpHq0a4Hk",
+            "_id": "6960ae14631fd1743497dcbf",
+            "url": "https://www.youtube.com/watch?v=w6Ss_yDgvV0",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-18T13:21:12.475000",
-            "duration": 123.0,
-            "title": "진성준, 토론 끝나자마자 \"집값 안 떨어질 겁니다\" / SBS",
+            "collected_at": "2026-01-14T10:24:21.465000",
+            "duration": 108.0,
+            "title": "[자막] 진성준, 정책위의장 임기 마무리, 마지막 메시지",
             "upload_date": null
         },
         {
@@ -712,7 +898,7 @@
             "url": "https://www.youtube.com/watch?v=wwfcQ-q46UE",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:32.832000",
+            "collected_at": "2026-01-23T16:49:50.753000",
             "duration": 1505.0,
             "title": "진성준, 한병도, 백혜련, 박정 다 친명? 4명 성향 완벽 분석!  (20260108 목요일 클립) 봉지욱 신인규 곽수산",
             "upload_date": null
@@ -732,7 +918,7 @@
             "url": "https://www.youtube.com/watch?v=BFMBdP_9K7g",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-09T16:28:18.067000",
+            "collected_at": "2026-01-23T16:49:50.753000",
             "duration": 778.0,
             "title": "[박정호의 핫스팟] ‘원내대표 출마’ 진성준 “김병기 사퇴 원인 경악...선출되면 세 가지 조치 즉각 실행”(1월 8일 전체보기)",
             "upload_date": null
@@ -752,7 +938,7 @@
             "url": "https://www.youtube.com/watch?v=7Sm-fu5d9Wc",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:33.456000",
+            "collected_at": "2026-01-23T16:49:50.753000",
             "duration": 1201.0,
             "title": "[다시보기] 진성준, 더불어민주당 원내대표 보궐선거 출마 기자회견 “당청일치 구현…연임 도전 안할 것”-12월 31일 (수) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -762,19 +948,19 @@
             "url": "https://www.youtube.com/watch?v=oediuIxVOY0",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:33.456000",
+            "collected_at": "2026-01-23T16:49:51.579000",
             "duration": 310.0,
             "title": "진성준 “부동산 보유세 인상 조치 불가피” / 채널A / 뉴스TOP 10",
             "upload_date": null
         },
         {
-            "_id": "6960ae14631fd1743497dcbf",
-            "url": "https://www.youtube.com/watch?v=w6Ss_yDgvV0",
+            "_id": "6960ae14631fd1743497dcbe",
+            "url": "https://www.youtube.com/watch?v=otYpHq0a4Hk",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-14T10:24:21.465000",
-            "duration": 108.0,
-            "title": "[자막] 진성준, 정책위의장 임기 마무리, 마지막 메시지",
+            "collected_at": "2026-01-18T13:21:12.475000",
+            "duration": 123.0,
+            "title": "진성준, 토론 끝나자마자 \"집값 안 떨어질 겁니다\" / SBS",
             "upload_date": null
         },
         {
@@ -802,7 +988,7 @@
             "url": "https://www.youtube.com/watch?v=SVDtmzth1mQ",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:33.456000",
+            "collected_at": "2026-01-23T16:49:51.579000",
             "duration": 1282.0,
             "title": "진성준 \"김병기, 억울하더라도 선당후사해야\"",
             "upload_date": null
@@ -818,13 +1004,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae14631fd1743497dcbd",
-            "url": "https://www.youtube.com/watch?v=UrnmPSdlkEE",
+            "_id": "6960ae14631fd1743497dcbc",
+            "url": "https://www.youtube.com/watch?v=Wfw8q8S4ioY",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:32.832000",
-            "duration": 75.0,
-            "title": "[현장영상] 배현진 \"쳐봐!\" 열받은 진성준의 행동은? / 채널A",
+            "collected_at": "2026-01-23T16:49:50.753000",
+            "duration": 1250.0,
+            "title": "진성준 \"보유세, 용기 내자... 집값 못 잡는게 선거에 더 위험\"     \"똘똘한 한 채로 간다? 그것도 손봐야\"",
             "upload_date": null
         },
         {
@@ -842,19 +1028,19 @@
             "url": "https://www.youtube.com/watch?v=UCzWEju7x5X_6-rR4eFJnZqw",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:32.832000",
+            "collected_at": "2026-01-23T16:49:50.753000",
             "duration": null,
             "title": "진성준 TV",
             "upload_date": null
         },
         {
-            "_id": "6960ae14631fd1743497dcbc",
-            "url": "https://www.youtube.com/watch?v=Wfw8q8S4ioY",
+            "_id": "6960ae14631fd1743497dcbd",
+            "url": "https://www.youtube.com/watch?v=UrnmPSdlkEE",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:32.832000",
-            "duration": 1250.0,
-            "title": "진성준 \"보유세, 용기 내자... 집값 못 잡는게 선거에 더 위험\"     \"똘똘한 한 채로 간다? 그것도 손봐야\"",
+            "collected_at": "2026-01-23T16:49:50.753000",
+            "duration": 75.0,
+            "title": "[현장영상] 배현진 \"쳐봐!\" 열받은 진성준의 행동은? / 채널A",
             "upload_date": null
         },
         {
@@ -878,5 +1064,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:40.870731"
+    "exported_at": "2026-01-26T14:36:48.842622"
 }

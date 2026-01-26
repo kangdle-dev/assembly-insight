@@ -52,16 +52,16 @@
             "단식",
             "이상",
             "엄태영",
-            "권영진",
             "반도체",
             "지지",
             "회관",
-            "박정하"
+            "권영진",
+            "초·재선"
         ],
         "keyword_frequency": [
             {
                 "text": "모임",
-                "value": 26
+                "value": 27
             },
             {
                 "text": "국민",
@@ -69,19 +69,19 @@
             },
             {
                 "text": "대안",
-                "value": 15
+                "value": 16
             },
             {
                 "text": "미래",
-                "value": 15
+                "value": 16
             },
             {
                 "text": "소장파",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "이성권",
-                "value": 14
+                "value": 13
             },
             {
                 "text": "장동",
@@ -97,10 +97,6 @@
             },
             {
                 "text": "엄태영",
-                "value": 11
-            },
-            {
-                "text": "권영진",
                 "value": 10
             },
             {
@@ -116,28 +112,32 @@
                 "value": 9
             },
             {
-                "text": "박정하",
+                "text": "권영진",
+                "value": 9
+            },
+            {
+                "text": "초·재선",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-21T10:09:04.734092",
+        "last_analyzed_at": "2026-01-26T14:36:10.343998",
         "trend_news": {
             "labels": [
-                "01-15",
-                "01-16",
-                "01-17",
-                "01-18",
-                "01-19",
                 "01-20",
-                "01-21"
+                "01-21",
+                "01-22",
+                "01-23",
+                "01-24",
+                "01-25",
+                "01-26"
             ],
             "data": [
-                2,
-                0,
-                0,
-                0,
-                0,
                 5,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0
             ]
         }
@@ -175,7 +175,7 @@
             "_id": "6970122b297082fcc2b34bf6",
             "link": "https://n.news.naver.com/mnews/article/056/0012108679?sid=100",
             "created_at": "2026-01-21T08:39:21.472000",
-            "description": "이성권·엄태영·권영진·고동진·유용원·서범수·안상훈 의원도 국회에서 조찬 모임을 마친 뒤 농성장을... 5선의 조정식 의원은 정무특보라는 분께서 한 번 찾아오지도 않는다\"고 비판했습니다. 이어 \"지금이라도 늦지... ",
+            "description": "당내 소장파 초·재선 의원 모임 '대안과 미래' 소속 이성권·엄태영·권영진·고동진·유용원·서범수·안상훈 의원도 국회에서 조찬 모임을 마친 뒤 농성장을 찾아 장 대표를 응원했습니다. 유승민 전 의원 역시 오늘... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463946&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-20T17:01:00",
@@ -308,7 +308,7 @@
             "_id": "6968ad85297082fcc2b18cc9",
             "link": "https://n.news.naver.com/mnews/article/055/0001324240?sid=100",
             "created_at": "2026-01-15T18:04:02.464000",
-            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 권영진·김형동·박정하·배준영·서범수·엄태영·이성권·조은희·최형두(이상 재선), 고동진·김건·김소희·김용태... ",
+            "description": "'대안과 미래'는 오늘(14일) 오전 국회 의원회관에서 긴급 회동을 한 뒤 이런 입장문을 발표했다. 이들은... 고동진·김건·김소희·김용태·김재섭·박정훈·안상훈·우재준·유용원·정연욱·진종오(이상 초선) 의원 등 23명이... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008404024&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-14T13:29:00",
@@ -344,7 +344,7 @@
             "_id": "6968ad85297082fcc2b18cca",
             "link": "https://n.news.naver.com/mnews/article/020/0003689296?sid=100",
             "created_at": "2026-01-15T18:04:02.464000",
-            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위 결정에... ",
+            "description": "14일 ‘대안과 미래’ 소속 국민의힘 의원 23인은 서울 여의도 국회 의원회관에서 긴급 회동을 한 뒤 입장문을... 조은희, 진종오, 최형두 의원이 이름을 올렸다. 송 의원은 입장문 발표 이후 기자들과 만난 자리에서 윤리위... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260114/133154308/2",
             "press": "동아일보",
             "pubDate": "2026-01-14T12:54:00",
@@ -678,76 +678,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960abb0631fd1743497d35a",
-            "url": "https://www.youtube.com/watch?v=UCFHerzIcuzRrQtIvPNpIXsw",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-21T08:41:22.635000",
-            "duration": null,
-            "title": "고동진 TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb0631fd1743497d35b",
-            "url": "https://www.youtube.com/watch?v=EliS8ux6PUo",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-21T08:41:22.635000",
-            "duration": 3460.0,
-            "title": "고동진 의원, 명태균 전과 내용으로 공격하자, 명태균 \"이러면 국힘 감당 안될텐데요...\" 그 후 이어가는 발언이.. 충격..",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb0631fd1743497d35c",
-            "url": "https://www.youtube.com/watch?v=hhGjsmtCOHM",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-21T08:41:22.635000",
-            "duration": 1005.0,
-            "title": "[폴리티션스토리] 노트7 폭발 사고 이겨낸 고동진 의원의 고난 극복법은? | 2부 '리더 고동진' 편",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb0631fd1743497d35d",
-            "url": "https://www.youtube.com/watch?v=pdixYROMyfE",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-21T08:41:22.635000",
-            "duration": 75.0,
-            "title": "'333억' 초선 의원 재산 1위 고동진…100억대 자산가 모두 국힘 #소셜픽 / JTBC 아침&",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb0631fd1743497d35e",
-            "url": "https://www.youtube.com/watch?v=-aNE_hUntZI",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-18T13:09:22.715000",
-            "duration": 83.0,
-            "title": "[현장영상] 한동훈, 삼성전자 출신 고동진 의원에게 반도체 설명 듣고… / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb0631fd1743497d35f",
-            "url": "https://www.youtube.com/watch?v=rz2gxNtFgbk",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-18T13:09:22.715000",
-            "duration": 1059.0,
-            "title": "[폴리티션스토리] '삼성 평사원에서 사장까지'...고동진 의원이 말하는 성공의 원동력은? | 1부 '인간 고동진' 편",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb0631fd1743497d360",
-            "url": "https://www.youtube.com/watch?v=NFM9YTyJl_8",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-18T13:09:22.715000",
-            "duration": 21194.0,
-            "title": "[Live] 경찰관 직무집행법 개정안 무제한토론 | 고동진 국회의원",
-            "upload_date": null
-        },
-        {
             "_id": "6960abb0631fd1743497d361",
             "url": "https://www.youtube.com/watch?v=wwbW0TgyMgM",
             "HG_NM": "고동진",
@@ -758,53 +688,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960abb0631fd1743497d362",
-            "url": "https://www.youtube.com/watch?v=1Nhbt1G89n4",
+            "_id": "697325bd8459600028997916",
+            "url": "https://www.youtube.com/watch?v=rXzxHQa66k0",
             "HG_NM": "고동진",
             "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-09T16:18:05.275000",
-            "duration": 505.0,
-            "title": "\"‘주 52시간 예외’ 반도체특별법  또 미뤄져… 장관 생각은?\" 고동진 국민의힘 의원 | 美 상호관세 조치 등 현안질의 (25.4.9.) | 국회방송",
+            "collected_at": "2026-01-23T16:39:38.758000",
+            "duration": 428.0,
+            "title": "선관위원 후보 이력 보고 작심 발언 쏟아낸 고동진 [티조Clip]",
             "upload_date": null
         },
         {
-            "_id": "6960abb0631fd1743497d363",
-            "url": "https://www.youtube.com/watch?v=oaGvbQ9Iytg",
+            "_id": "697325bd8459600028997915",
+            "url": "https://www.youtube.com/watch?v=1Dr2nCNq3bM",
             "HG_NM": "고동진",
             "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-18T13:09:23.708000",
-            "duration": 289.0,
-            "title": "[CEO풍향계] 급여 반납 정성립ㆍ다시 무대 오른 고동진 / 연합뉴스TV (YonhapnewsTV)",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": 61.0,
+            "title": "고동진 의원 의정보고회, 22대 국회 의정 성과와 향후 계획 공개",
             "upload_date": null
         },
         {
-            "_id": "6960abb0631fd1743497d364",
-            "url": "https://www.youtube.com/watch?v=kR7AjHyL554",
+            "_id": "6966edfa887d07f7ba2fb35a",
+            "url": "https://www.youtube.com/watch?v=Ho7R51ub1UQ",
             "HG_NM": "고동진",
             "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-14T10:14:34.769000",
-            "duration": 105.0,
-            "title": "고동진 “日규제 지속땐 스마트폰 생산차질” 위기감 토로",
-            "upload_date": null
-        },
-        {
-            "_id": "69659509887d07f7ba2fab9d",
-            "url": "https://www.youtube.com/watch?v=oaHooUBFZOc",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-21T08:41:23.305000",
-            "duration": 120.0,
-            "title": "[제21대 대선 - 정정당당 김문수] 고동진 의원의 송파 석촌호수 지원 유세! #고동진 #국민의힘 #국회의원 #강남 #강남 #대치 #도곡 #삼성 #제21대대통령선거",
-            "upload_date": null
-        },
-        {
-            "_id": "69659509887d07f7ba2fab9e",
-            "url": "https://www.youtube.com/watch?v=i06s68E8e7w",
-            "HG_NM": "고동진",
-            "MONA_CD": "HS39431V",
-            "collected_at": "2026-01-21T08:41:23.305000",
-            "duration": 89.0,
-            "title": "[제21대 대선 - 정정당당 김문수] 고동진 의원의 삼성동 거리 유세 현장",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": 65.0,
+            "title": "[자막뉴스] 국민의힘 고동진, 2억원대 페라리 포함 재산 333억 원 신고…신규등록 의원 부자 1위 / 채널A",
             "upload_date": null
         },
         {
@@ -818,15 +728,125 @@
             "upload_date": null
         },
         {
-            "_id": "6966edfa887d07f7ba2fb35a",
-            "url": "https://www.youtube.com/watch?v=Ho7R51ub1UQ",
+            "_id": "69659509887d07f7ba2fab9e",
+            "url": "https://www.youtube.com/watch?v=i06s68E8e7w",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-21T08:41:23.305000",
+            "duration": 89.0,
+            "title": "[제21대 대선 - 정정당당 김문수] 고동진 의원의 삼성동 거리 유세 현장",
+            "upload_date": null
+        },
+        {
+            "_id": "69659509887d07f7ba2fab9d",
+            "url": "https://www.youtube.com/watch?v=oaHooUBFZOc",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-21T08:41:23.305000",
+            "duration": 120.0,
+            "title": "[제21대 대선 - 정정당당 김문수] 고동진 의원의 송파 석촌호수 지원 유세! #고동진 #국민의힘 #국회의원 #강남 #강남 #대치 #도곡 #삼성 #제21대대통령선거",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d363",
+            "url": "https://www.youtube.com/watch?v=oaGvbQ9Iytg",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-18T13:09:23.708000",
+            "duration": 289.0,
+            "title": "[CEO풍향계] 급여 반납 정성립ㆍ다시 무대 오른 고동진 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d362",
+            "url": "https://www.youtube.com/watch?v=1Nhbt1G89n4",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-09T16:18:05.275000",
+            "duration": 505.0,
+            "title": "\"‘주 52시간 예외’ 반도체특별법  또 미뤄져… 장관 생각은?\" 고동진 국민의힘 의원 | 美 상호관세 조치 등 현안질의 (25.4.9.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d35a",
+            "url": "https://www.youtube.com/watch?v=UCFHerzIcuzRrQtIvPNpIXsw",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": null,
+            "title": "고동진 TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d364",
+            "url": "https://www.youtube.com/watch?v=kR7AjHyL554",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-14T10:14:34.769000",
+            "duration": 105.0,
+            "title": "고동진 “日규제 지속땐 스마트폰 생산차질” 위기감 토로",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d360",
+            "url": "https://www.youtube.com/watch?v=NFM9YTyJl_8",
             "HG_NM": "고동진",
             "MONA_CD": "HS39431V",
             "collected_at": "2026-01-18T13:09:22.715000",
-            "duration": 65.0,
-            "title": "[자막뉴스] 국민의힘 고동진, 2억원대 페라리 포함 재산 333억 원 신고…신규등록 의원 부자 1위 / 채널A",
+            "duration": 21194.0,
+            "title": "[Live] 경찰관 직무집행법 개정안 무제한토론 | 고동진 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d35f",
+            "url": "https://www.youtube.com/watch?v=rz2gxNtFgbk",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": 1059.0,
+            "title": "[폴리티션스토리] '삼성 평사원에서 사장까지'...고동진 의원이 말하는 성공의 원동력은? | 1부 '인간 고동진' 편",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d35c",
+            "url": "https://www.youtube.com/watch?v=hhGjsmtCOHM",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": 1005.0,
+            "title": "[폴리티션스토리] 노트7 폭발 사고 이겨낸 고동진 의원의 고난 극복법은? | 2부 '리더 고동진' 편",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d35e",
+            "url": "https://www.youtube.com/watch?v=-aNE_hUntZI",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": 83.0,
+            "title": "[현장영상] 한동훈, 삼성전자 출신 고동진 의원에게 반도체 설명 듣고… / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d35d",
+            "url": "https://www.youtube.com/watch?v=pdixYROMyfE",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-23T16:39:38.081000",
+            "duration": 75.0,
+            "title": "'333억' 초선 의원 재산 1위 고동진…100억대 자산가 모두 국힘 #소셜픽 / JTBC 아침&",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb0631fd1743497d35b",
+            "url": "https://www.youtube.com/watch?v=EliS8ux6PUo",
+            "HG_NM": "고동진",
+            "MONA_CD": "HS39431V",
+            "collected_at": "2026-01-23T16:39:38.758000",
+            "duration": 3460.0,
+            "title": "고동진 의원, 명태균 전과 내용으로 공격하자, 명태균 \"이러면 국힘 감당 안될텐데요...\" 그 후 이어가는 발언이.. 충격..",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-21T10:09:04.735092"
+    "exported_at": "2026-01-26T14:36:10.343998"
 }
