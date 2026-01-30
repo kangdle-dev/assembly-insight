@@ -47,107 +47,464 @@
     },
     "analysis": {
         "keywords": [
-            "국민",
-            "인사",
             "경북",
-            "구미",
-            "의정",
-            "지방",
+            "통합",
             "대구",
-            "신년",
-            "선거",
+            "우수",
+            "국민",
+            "중기중앙회",
+            "발의",
+            "박성",
+            "법안",
+            "선정",
             "위원장",
-            "활동",
-            "보고",
-            "의원실",
-            "참석",
-            "시민"
+            "행정",
+            "특별법",
+            "대상",
+            "특별"
         ],
         "keyword_frequency": [
             {
-                "text": "국민",
-                "value": 9
-            },
-            {
-                "text": "인사",
-                "value": 7
-            },
-            {
                 "text": "경북",
-                "value": 7
+                "value": 39
             },
             {
-                "text": "구미",
-                "value": 6
-            },
-            {
-                "text": "의정",
-                "value": 6
-            },
-            {
-                "text": "지방",
-                "value": 5
+                "text": "통합",
+                "value": 37
             },
             {
                 "text": "대구",
-                "value": 5
+                "value": 32
             },
             {
-                "text": "신년",
-                "value": 4
+                "text": "우수",
+                "value": 32
             },
             {
-                "text": "선거",
-                "value": 4
+                "text": "국민",
+                "value": 28
+            },
+            {
+                "text": "중기중앙회",
+                "value": 23
+            },
+            {
+                "text": "발의",
+                "value": 22
+            },
+            {
+                "text": "박성",
+                "value": 20
+            },
+            {
+                "text": "법안",
+                "value": 19
+            },
+            {
+                "text": "선정",
+                "value": 18
             },
             {
                 "text": "위원장",
-                "value": 4
+                "value": 17
             },
             {
-                "text": "활동",
-                "value": 4
+                "text": "행정",
+                "value": 15
             },
             {
-                "text": "보고",
-                "value": 4
+                "text": "특별법",
+                "value": 14
             },
             {
-                "text": "의원실",
-                "value": 3
+                "text": "대상",
+                "value": 13
             },
             {
-                "text": "참석",
-                "value": 3
-            },
-            {
-                "text": "시민",
-                "value": 3
+                "text": "특별",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:10.901401",
+        "last_analyzed_at": "2026-01-30T23:35:41.215093",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
+                1,
                 0,
+                9,
                 0,
-                0,
-                0,
-                0
+                12
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1c38b0cf4096976a6c",
+            "link": "https://n.news.naver.com/mnews/article/022/0004101979?sid=102",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "법안이 2월 임시국회에서 본회의를 통과하면 오는 6월 지방선거에서는 기존 대구시장과 경북도지사 대신... 경북 북부 지역 소외 가능성을 우려하는 김형동, 박형수, 임종득 의원 등 3명은 서명하지 않았다. 특별법안은... ",
+            "originallink": "https://www.segye.com/newsView/20260130509958?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-30T23:02:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "JEZ3130Q",
+                "6U243644",
+                "RAJ1024Z"
+            ],
+            "title": "대구∙경북 행정통합 특별법안 발의…국회 통과하면 6월 통합단체장 선..."
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a6d",
+            "link": "https://n.news.naver.com/mnews/article/016/0002593823?sid=102",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "한편 이날 경북 북부 지역의 소외 가능성을 우려하는 김형동(안동·예천)·박형수(의성·청송·영덕·울진)·임종득(영주·영양·봉화) 의원 등 3명은 서명하지 않았다. 법안이 일정대로 국회에서 통과되면 대구·경북에서는... ",
+            "originallink": "https://biz.heraldcorp.com/article/10666780?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-30T22:33:00",
+            "related_members": [
+                "7469929V",
+                "6U243644",
+                "RAJ1024Z",
+                "JEZ3130Q",
+                "DWK26447"
+            ],
+            "title": "대구·경북 행정통합 특별법안 국회 발의, 입법절차 본격 돌입"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a6e",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116090?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "법안 발의에 북부권 국회의원 일부가 끝내 불참하면서 통합을 둘러싼 지역 내 과제도 함께 남겼습니다.... [이인선/국민의힘 대구시당위원장 : \"재정이나 이런 데서 조금 난관이 있습니다마는 굉장히 의욕을 가지고 이재명... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473774&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-30T21:45:00",
+            "related_members": [
+                "7469929V",
+                "6U243644",
+                "DWK26447"
+            ],
+            "title": "‘TK 통합 특별법’ 국회 발의…북부권 반발 속 ‘입법 시험대’"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a6f",
+            "link": "https://n.news.naver.com/mnews/article/056/0012115979?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "법안 발의에 북부권 국회의원 일부가 끝내 불참하면서 통합을 둘러싼 지역 내 과제도 함께 남겼습니다.... [이인선/국민의힘 대구시당위원장 : \"재정이나 이런 데서 조금 난관이 있습니다마는 굉장히 의욕을 가지고 이재명... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473640&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-30T19:35:00",
+            "related_members": [
+                "7469929V",
+                "6U243644",
+                "DWK26447"
+            ],
+            "title": "‘TK 통합 특별법’ 국회 발의…북부권 반발 속 ‘입법 시험대’"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a70",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585021?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "국민의힘 경북도당·대구시당 위원장인 구자근·이인선 의원은 이날 국회 의안과에 ‘대구·경북특별시 설치... 대구 중심의 행정 통합 시 경북 북부권 소외 가능성을 우려하는 김형동·박형수·임종득 의원 등 3명은... ",
+            "originallink": "https://www.sedaily.com/article/20003039?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-30T18:00:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "JEZ3130Q",
+                "6U243644",
+                "RAJ1024Z"
+            ],
+            "title": "TK 통합 특별법 발의…통합단체장 선출 가시화"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a71",
+            "link": "https://n.news.naver.com/mnews/article/009/0005630081?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "이들 법안이 2월 임시국회에서 처리되면 당장 이번 6·3 지방선거에서부터 단체장을 1명만 뽑게 된다. 천준호... 국민의힘 경북도당 위원장인 구자근 의원과 대구시당 위원장인 이인선 의원은 이날 국회 의안과에 대구·경북... ",
+            "originallink": "https://www.mk.co.kr/article/11948708",
+            "press": "매일경제",
+            "pubDate": "2026-01-30T17:53:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "JEZ3130Q",
+                "6U243644",
+                "RAJ1024Z",
+                "7XY7109I",
+                "A494529E"
+            ],
+            "title": "與, 충남대전·전남광주 특별법 발의 … 野도 TK통합 추진"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a72",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956209?sid=102",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "특별법안에는 국민의힘 소속 대구 지역 국회의원 12명 전원, 경북 지역 국회의원 13명 중 10명이 공동 발의자로 이름을 올렸다. 경북 북부 지역구인 김형동(안동·예천)·박형수(의성·청송·영덕·울진)·임종득(영주·영양... ",
+            "originallink": "https://www.chosun.com/national/regional/2026/01/30/DLKSXOJU7BFYFCXG2J44JRONXE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-30T15:16:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "6U243644",
+                "RAJ1024Z",
+                "JEZ3130Q"
+            ],
+            "title": "대구·경북 행정통합 특별법안 30일 발의… 7월 ‘대구경북특별시’ 출..."
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a73",
+            "link": "https://n.news.naver.com/mnews/article/015/0005244671?sid=102",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "특별법 대표발의는 ‘구자근’ 국회의원(국민의힘, 경북 구미)이, 공동발의에는 대구경북 지역의원을... 이인선 국민의힘 대구광역시당 위원장은 “대구·경북 행정통합은 가장 오랜 기간 논의돼왔고, 준비도 가장 잘... ",
+            "originallink": "https://www.hankyung.com/article/202601303687h",
+            "press": "한국경제",
+            "pubDate": "2026-01-30T13:41:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447"
+            ],
+            "title": "대구․경북 행정통합 특별법안 국회 발의"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a74",
+            "link": "https://n.news.naver.com/mnews/article/421/0008744374?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "경북도당위원장인 구자근(경북 구미갑) 의원과 이인선(대구 수성을) 의원은 이날 TK 지역 국회의원들의 서명을 받아 대표로 국회 의안과에 '대구경북 행정통합 특별법안–대구경북특별시, 한반도 신경제 중심축으로'라고... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6056629",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T11:42:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447"
+            ],
+            "title": "국힘 TK 의원들, 대구·경북 행정통합 특별법안 제출…속도"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a75",
+            "link": "https://n.news.naver.com/mnews/article/366/0001139485?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "천준호 민주당 원내운영수석부대표는 이날 법안을 국회 의안과에 접수한 뒤 기자들을 만나 “법안은 서울... 국민의힘 경북도당위원장인 구자근 의원과 대구시당위원장 이인선 의원은 국회 의안과에 ‘대구경북특별시... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/30/2RGUQZE32JA2XKBSATUIISGBXY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-30T11:38:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "A494529E"
+            ],
+            "title": "與 ‘충남·대전’ ‘전남·광주’, 野 ‘대구·경북’… 국회, 행정통합..."
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a76",
+            "link": "https://n.news.naver.com/mnews/article/016/0002593599?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "국민의힘 경북도당위원장인 구자근 의원과 대구시당위원장인 이인선 의원은 이날 오전 국회 의안과에... 경북 북부 지역 소외 가능성을 우려하는 김형동(안동·예천)·박형수(의성·청송·영덕·울진)·임종득(영주·영양... ",
+            "originallink": "https://biz.heraldcorp.com/article/10666376?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-30T11:31:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "JEZ3130Q",
+                "6U243644",
+                "RAJ1024Z"
+            ],
+            "title": "TK 통합 특별법 추진…통합단체장 선출 본격화"
+        },
+        {
+            "_id": "697cbd2f38b0cf4096976b70",
+            "link": "https://n.news.naver.com/mnews/article/016/0002593504?sid=100",
+            "created_at": "2026-01-30T23:16:15.383000",
+            "description": "국민의힘 경북도당위원장인 구자근 의원, 대구시당위원장인 이인선 의원은 이날 국회 의안과에... 경북 북부 지역 소외 가능성을 우려하는 김형동(안동·예천)·박형수(의성·청송·영덕·울진)·임종득(영주·영양·봉화)... ",
+            "originallink": "https://biz.heraldcorp.com/article/10666258?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-30T10:28:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "JEZ3130Q",
+                "6U243644",
+                "RAJ1024Z"
+            ],
+            "title": "TK 통합 특별법 발의…6월 지선 통합 단체장 선출하나"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976ab6",
+            "link": "https://n.news.naver.com/mnews/article/448/0000586889?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "최우수 국회의원으로는 김남근·김동아 더불어민주당 의원과 박성민·구자근 국민의힘 의원이 각각 선정됐다. 김남근 의원은 하도급대금 조정 대상에 에너지 비용을 포함하고 한국형 디스커버리 제도 도입을 위한 하도급법... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/28/2026012890258.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-28T18:28:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "중기중앙회, 중소기업 지원 최우수 국회의원 선정"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976ab7",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628760?sid=100",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "김남근·김동아 더불어민주당 의원과 박성민·구자근 국민의힘 의원이 중소기업중앙회의 '최우수 국회의원'으로 선정됐다. 28일 중기중앙회는 서울 여의도 중기중앙회관에서 '2025년 최우수 국회의원 대상 시상식'을... ",
+            "originallink": "https://www.mk.co.kr/article/11945939",
+            "press": "매일경제",
+            "pubDate": "2026-01-28T17:21:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "중기가 뽑은 '최우수 국회의원' 김남근·김동아·박성민·구자근"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976ab8",
+            "link": "https://n.news.naver.com/mnews/article/022/0004101257?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "최우수 국회의원 대상 시상식’을 개최했다고 밝혔다. 김동아 의원, 박성민 의원, 김기문 중기중앙회장, 김남근 의원, 구자근 의원이 28일 서울 여의도 중기중앙회에서 열린 ‘2025년 최우수 국회의원 대상 시상식’에서... ",
+            "originallink": "https://www.segye.com/newsView/20260128514583?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-28T16:09:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "‘2025년 中企 지원 최우수 국회의원’에 김남근·김동아·박성민·구자..."
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976ab9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008739308?sid=102",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "최우수 국회의원 대상 시상식'을 개최했다고 밝혔다. 사진은 김동아 더불어민주당 의원, 박성민 국민의힘 의원, 김기문 중소기업중앙회 회장, 김남근 더불어민주당 의원, 구자근 국민의힘 의원이 시상식에서... ",
+            "originallink": "https://www.news1.kr/photos/7719524",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T13:06:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "중기중앙회, 2025년 최우수 국회의원 대상 시상식 개최"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976aba",
+            "link": "https://n.news.naver.com/mnews/article/016/0002592263?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "사진 왼쪽부터 김동아 국회의원, 박성민 의원, 김기문 중기중앙회 회장, 김남근 의원 , 구자근 의원 [중기중앙회] 김남근·김동아·박성민·구자근 의원 수상 중소기업중앙회는 28일 서울 여의도 중기중앙회에서 한 해 동안... ",
+            "originallink": "https://biz.heraldcorp.com/article/10664264?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-28T11:31:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "중기중앙회 선정 최우수 국회의원에 김남근·김동아·박성민·구자근"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976abb",
+            "link": "https://n.news.naver.com/mnews/article/079/0004109800?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "지난해 최우수 국회의원 대상에는 더불어민주당 김남근·김동아 의원과 국민의힘 박성민·구자근 의원이 선정됐다. 중기중앙회는 김남근 의원이 하도급대금 조정 대상에 에너지 비용을 포함하고, 한국형 디스커버리... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463070?utm_source=naver&utm_medium=article&utm_campaign=20260128013728",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-28T11:31:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "중기중앙회, '2025년 中企 지원 최우수 국회의원' 선정"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976abc",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138907?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "2025년 최우수 국회의원 대상에는 더불어민주당 김남근 의원, 김동아 의원과 국민의힘 박성민 의원, 구자근 의원이 선정됐다. 김남근 의원은 하도급대금 조정 대상에 에너지 비용을 포함하고, 한국형 디스커버리 제도를... ",
+            "originallink": "https://biz.chosun.com/industry/business-venture/2026/01/28/EWKYA6YMCVCERGCADW6GDWIOF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-28T11:31:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "김남근·김동아·박성민·구자근 의원, ‘中企 지원 최우수 의원’ 선정"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976abd",
+            "link": "https://n.news.naver.com/mnews/article/421/0008739082?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "중소기업중앙회는 2025년 중소기업 경영환경 개선 및 권익 보호에 기여한 최우수 국회의원 대상에 더불어민주당 김남근·김동아 의원과 국민의힘 박성민·구자근 의원을 선정했다고 28일 밝혔다. 김남근 의원은 하도급대금... ",
+            "originallink": "https://www.news1.kr/industry/sb-founded/6053360",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T11:30:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "2025년 중기중앙회 선정 최우수 국회의원에 김남근·박성민 등 4명"
+        },
+        {
+            "_id": "697cbd1f38b0cf4096976abe",
+            "link": "https://n.news.naver.com/mnews/article/003/0013734785?sid=101",
+            "created_at": "2026-01-30T23:15:59.345000",
+            "description": "중소기업중앙회(중기중앙회)는 '2025년 최우수 국회의원 대상'에 김남근·김동아 더불어민주당 의원과 박성민·구자근 국민의힘 의원을 선정했다고 28일 밝혔다. 중기중앙회는 이날 서울 영등포구 중기중앙회에서 '2025년... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493025",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T11:30:00",
+            "related_members": [
+                "X3170462",
+                "7469929V",
+                "MIS62075",
+                "IUX1829H"
+            ],
+            "title": "중기중앙회, '최우수 국회의원' 선정…\"권익 보호 이바지\""
+        },
+        {
+            "_id": "697cbd2838b0cf4096976b1c",
+            "link": "https://n.news.naver.com/mnews/article/022/0004100703?sid=102",
+            "created_at": "2026-01-30T23:16:07.909000",
+            "description": "우수 국회의원에는 더불어민주당 전현희·김용민·이성윤 의원, 국민의힘 구자근·신동욱·김재섭 의원, 조국혁신당 황운하 의원이, 우수 경찰에는 서울 강남경찰서 김환익 경감, 수서경찰서 박예은 경위, 강동경찰서... ",
+            "originallink": "https://www.segye.com/newsView/20260126515254?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-26T22:17:00",
+            "related_members": [
+                "25G2571T",
+                "OWD1018N",
+                "0YT3774N",
+                "OFE45081",
+                "57B28032",
+                "7469929V",
+                "N2P9317N"
+            ],
+            "title": "세계일보 사회부 안경준 기자, ‘우수 법조언론인상’ 수상"
+        },
         {
             "_id": "6970122e297082fcc2b34c1a",
             "link": "https://n.news.naver.com/mnews/article/032/0003422509?sid=100",
@@ -204,7 +561,7 @@
             "url": "https://www.youtube.com/watch?v=UCspm0OPmD02LBw_YsjfsQYg",
             "HG_NM": "구자근",
             "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:47.366000",
+            "collected_at": "2026-01-30T23:18:22.306000",
             "duration": null,
             "title": "구자근TV",
             "upload_date": null
@@ -224,7 +581,7 @@
             "url": "https://www.youtube.com/watch?v=OSHkAOUIgOo",
             "HG_NM": "구자근",
             "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:47.366000",
+            "collected_at": "2026-01-30T23:18:22.306000",
             "duration": 66.0,
             "title": "구자근 국회의원 추석명절 인사",
             "upload_date": null
@@ -234,19 +591,9 @@
             "url": "https://www.youtube.com/watch?v=Yj1kqGnbJ2c",
             "HG_NM": "구자근",
             "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:47.366000",
+            "collected_at": "2026-01-30T23:18:22.306000",
             "duration": 319.0,
             "title": "\"민주당 무도하다\"는 국민의힘 구자근 의원 [오늘의 이슈]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abba631fd1743497d388",
-            "url": "https://www.youtube.com/watch?v=MBQKhmkQkqQ",
-            "HG_NM": "구자근",
-            "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:48.207000",
-            "duration": 225.0,
-            "title": "[정치현장] 국힘, 경북 지방선거 공천 방향은?ㅣ구자근 국힘 경북도당위원장 대담ㅣTBC뉴스",
             "upload_date": null
         },
         {
@@ -254,9 +601,19 @@
             "url": "https://www.youtube.com/watch?v=CNgzDaecro0",
             "HG_NM": "구자근",
             "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:47.366000",
+            "collected_at": "2026-01-30T23:18:22.306000",
             "duration": 105.0,
             "title": "이제 물까지 뿌리는 국힘당 국회의원 구자근",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abba631fd1743497d388",
+            "url": "https://www.youtube.com/watch?v=MBQKhmkQkqQ",
+            "HG_NM": "구자근",
+            "MONA_CD": "7469929V",
+            "collected_at": "2026-01-30T23:18:23.729000",
+            "duration": 225.0,
+            "title": "[정치현장] 국힘, 경북 지방선거 공천 방향은?ㅣ구자근 국힘 경북도당위원장 대담ㅣTBC뉴스",
             "upload_date": null
         },
         {
@@ -264,9 +621,19 @@
             "url": "https://www.youtube.com/watch?v=0pvhzzehSpw",
             "HG_NM": "구자근",
             "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:48.207000",
+            "collected_at": "2026-01-30T23:18:23.729000",
             "duration": 131.0,
             "title": "김기현, 취임 일성은 '민생·총선·당정 협력'…비서실장에 구자근 [MBN 뉴스7]",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee03887d07f7ba2fb363",
+            "url": "https://www.youtube.com/watch?v=TvArE8UtpEA",
+            "HG_NM": "구자근",
+            "MONA_CD": "7469929V",
+            "collected_at": "2026-01-30T23:18:23.729000",
+            "duration": 95.0,
+            "title": "[TBC뉴스8] 공공기관 절반 경영 악화 - 구미갑 구자근 국회의원",
             "upload_date": null
         },
         {
@@ -290,16 +657,6 @@
             "upload_date": null
         },
         {
-            "_id": "6966ee03887d07f7ba2fb363",
-            "url": "https://www.youtube.com/watch?v=TvArE8UtpEA",
-            "HG_NM": "구자근",
-            "MONA_CD": "7469929V",
-            "collected_at": "2026-01-14T10:14:44.048000",
-            "duration": 95.0,
-            "title": "[TBC뉴스8] 공공기관 절반 경영 악화 - 구미갑 구자근 국회의원",
-            "upload_date": null
-        },
-        {
             "_id": "6966ee03887d07f7ba2fb364",
             "url": "https://www.youtube.com/watch?v=hbciggx9X5o",
             "HG_NM": "구자근",
@@ -314,7 +671,7 @@
             "url": "https://www.youtube.com/watch?v=YkzsxaX5ZVE",
             "HG_NM": "구자근",
             "MONA_CD": "7469929V",
-            "collected_at": "2026-01-23T16:39:47.366000",
+            "collected_at": "2026-01-30T23:18:22.306000",
             "duration": 296.0,
             "title": "국회의원 구자근 의정보고회 시민 인터뷰 영상",
             "upload_date": null
@@ -330,5 +687,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:10.901401"
+    "exported_at": "2026-01-30T23:35:41.215093"
 }

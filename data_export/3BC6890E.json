@@ -50,16 +50,16 @@
             "국민",
             "공개",
             "발의",
-            "후원",
             "회의",
+            "후원",
+            "토요",
+            "민생",
             "국적",
             "인사",
+            "지방",
             "간호사",
             "최소",
             "기준",
-            "토요",
-            "민생",
-            "지방",
             "외국인",
             "영남"
         ],
@@ -74,15 +74,23 @@
             },
             {
                 "text": "발의",
+                "value": 10
+            },
+            {
+                "text": "회의",
                 "value": 9
             },
             {
                 "text": "후원",
-                "value": 7
+                "value": 8
             },
             {
-                "text": "회의",
-                "value": 7
+                "text": "토요",
+                "value": 8
+            },
+            {
+                "text": "민생",
+                "value": 8
             },
             {
                 "text": "국적",
@@ -90,6 +98,10 @@
             },
             {
                 "text": "인사",
+                "value": 6
+            },
+            {
+                "text": "지방",
                 "value": 6
             },
             {
@@ -105,18 +117,6 @@
                 "value": 6
             },
             {
-                "text": "토요",
-                "value": 6
-            },
-            {
-                "text": "민생",
-                "value": 6
-            },
-            {
-                "text": "지방",
-                "value": 5
-            },
-            {
                 "text": "외국인",
                 "value": 5
             },
@@ -125,16 +125,16 @@
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:13.536756",
+        "last_analyzed_at": "2026-01-30T23:35:43.859252",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
@@ -205,7 +205,7 @@
             "_id": "6966ec72887d07f7ba2fb272",
             "link": "https://n.news.naver.com/mnews/article/005/0001825981?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "부산 부산진갑의 정성국 국민의힘 의원도 5명의 시·구의원 당선자로부터 2400만원의 후원금을 받았다. 전직 의원까지 포함하면 후원금 규모는 3300만원으로 늘어난다. 민주당 부산시당은 “공천권을 가진 국회의원에... ",
+            "description": "지난해 김미애 국민의힘 의원이 지방선거 전 6개월 동안 출마 예정자의 후원을 받지 못하도록 하는 내용의 정치자금법 개정안을 발의했지만 아무런 논의가 없는 상태다. 한 국회 관계자는 “기초의회로 갈수록 거대... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768294957&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-14T00:04:00",
@@ -405,19 +405,9 @@
             "url": "https://www.youtube.com/watch?v=UCkI25oVwVFJq5Ji1XXA7mHA",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:27.848000",
+            "collected_at": "2026-01-30T23:19:22.564000",
             "duration": null,
             "title": "김미애TV #미애이야기",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abe3631fd1743497d432",
-            "url": "https://www.youtube.com/watch?v=kA9LKURUpQE",
-            "HG_NM": "김미애",
-            "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:27.848000",
-            "duration": 5041.0,
-            "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(25.11.29.)",
             "upload_date": null
         },
         {
@@ -425,9 +415,19 @@
             "url": "https://www.youtube.com/watch?v=5VZID4sQt4I",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:27.848000",
+            "collected_at": "2026-01-30T23:19:22.564000",
             "duration": 147.0,
             "title": "[자막] 정은경 청문회, 김미애, 발끈하며 청문회장 이탈… 복지위 파행",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abe3631fd1743497d432",
+            "url": "https://www.youtube.com/watch?v=kA9LKURUpQE",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-30T23:19:22.564000",
+            "duration": 5041.0,
+            "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(25.11.29.)",
             "upload_date": null
         },
         {
@@ -435,7 +435,7 @@
             "url": "https://www.youtube.com/watch?v=Az5J9ALruYs",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:28.652000",
+            "collected_at": "2026-01-30T23:19:22.564000",
             "duration": 99.0,
             "title": "[자막] 정은경 가짜뉴스는 김미애가 퍼뜨려놓고… 사과는 이소영에게?",
             "upload_date": null
@@ -445,7 +445,7 @@
             "url": "https://www.youtube.com/watch?v=CZ7qiqglavg",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:28.652000",
+            "collected_at": "2026-01-30T23:19:23.977000",
             "duration": 359.0,
             "title": "[이슈&피플] 오거돈 전 시장 사퇴 4개월_김미애 국회의원(미래통합당)",
             "upload_date": null
@@ -455,7 +455,7 @@
             "url": "https://www.youtube.com/watch?v=ssLwAkOLa7c",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:27.848000",
+            "collected_at": "2026-01-30T23:19:22.564000",
             "duration": 1918.0,
             "title": "‘약자와의 동행’ 김미애 의원 “윤석열 눈에서 꿀 떨어질 때…” | #강찬호의 투머치토커",
             "upload_date": null
@@ -475,7 +475,7 @@
             "url": "https://www.youtube.com/watch?v=JUL9PsS-jlA",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:27.848000",
+            "collected_at": "2026-01-30T23:19:22.564000",
             "duration": 2270.0,
             "title": "[김미애TV 국회의원 김미애와 함께하는 토요 민생 회의(23.05.27)",
             "upload_date": null
@@ -485,7 +485,7 @@
             "url": "https://www.youtube.com/watch?v=hvnUWbfTsj4",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:28.652000",
+            "collected_at": "2026-01-30T23:19:23.977000",
             "duration": 372.0,
             "title": "'민변' 김호철 감사원장 후보 대북관 검증 나선 김미애 [티조Clip]",
             "upload_date": null
@@ -535,11 +535,21 @@
             "url": "https://www.youtube.com/watch?v=RBDNyuYrty8",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-23T16:40:28.652000",
+            "collected_at": "2026-01-30T23:19:23.977000",
             "duration": 498.0,
             "title": "김미애 \"민변일 땐 말하고 후보자 되니 입 닫나\" [티조Clip]",
             "upload_date": null
+        },
+        {
+            "_id": "697cbdec38b0cf4096976d73",
+            "url": "https://www.youtube.com/watch?v=oaZGVwsNJ0M",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-01-30T23:19:22.564000",
+            "duration": 5530.0,
+            "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(26.1.24.)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:13.536756"
+    "exported_at": "2026-01-30T23:35:43.859252"
 }

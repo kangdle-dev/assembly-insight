@@ -52,21 +52,21 @@
             "민주당",
             "인사",
             "충남",
+            "통합",
             "도당",
             "위원장",
-            "이재명",
-            "인터뷰",
-            "스퀘어",
             "탄핵",
+            "스퀘어",
+            "인터뷰",
+            "이재명",
             "반발",
             "신년",
-            "통합",
             "당원"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 18
+                "value": 19
             },
             {
                 "text": "예산",
@@ -82,6 +82,10 @@
             },
             {
                 "text": "충남",
+                "value": 8
+            },
+            {
+                "text": "통합",
                 "value": 6
             },
             {
@@ -93,11 +97,7 @@
                 "value": 6
             },
             {
-                "text": "이재명",
-                "value": 6
-            },
-            {
-                "text": "인터뷰",
+                "text": "탄핵",
                 "value": 6
             },
             {
@@ -105,7 +105,11 @@
                 "value": 6
             },
             {
-                "text": "탄핵",
+                "text": "인터뷰",
+                "value": 6
+            },
+            {
+                "text": "이재명",
                 "value": 6
             },
             {
@@ -117,29 +121,25 @@
                 "value": 5
             },
             {
-                "text": "통합",
-                "value": 4
-            },
-            {
                 "text": "당원",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:10.061325",
+        "last_analyzed_at": "2026-01-30T23:35:40.335117",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -148,6 +148,20 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1a38b0cf4096976a48",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112428?sid=102",
+            "created_at": "2026-01-30T23:15:54.069000",
+            "description": "■ 프로그램명: KBS대전 생생토론 ■ 방송시간 :오후 7시 40분(KBS 1TV) ■ 진행 : 박지은 편집부장 ■ 출연 : 장종태 더불어민주당 국회의원, 강승규 국민의힘 국회의원 ■ 구성 : 이혜정 작가 ■ 기술 : 서상훈 감독 ■ 유튜브... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468930&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-26T15:49:00",
+            "related_members": [
+                "CIZ8557P",
+                "42K7317Y"
+            ],
+            "title": "[생생토론] 속도 내는 ‘대전·충남 통합특별시’"
+        },
         {
             "_id": "6970122c297082fcc2b34c0d",
             "link": "https://n.news.naver.com/mnews/article/079/0004106732?sid=102",
@@ -292,23 +306,23 @@
             "upload_date": null
         },
         {
-            "_id": "69659505887d07f7ba2fab98",
-            "url": "https://www.youtube.com/watch?v=Qz3RO8GVJLk",
+            "_id": "69659505887d07f7ba2fab97",
+            "url": "https://www.youtube.com/watch?v=NvN0f_lj-Ns",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-13T09:42:43.815000",
-            "duration": 122.0,
-            "title": "[연합뉴스TV 뉴스1번지] 이재명정부, 민주당의 폭주기관차! 폭주 법사위! 강승규 의원 2025.9.23",
+            "collected_at": "2026-01-13T09:42:43.240000",
+            "duration": 60.0,
+            "title": "尹 탄핵 심판 선고 '초읽기' MBN 아침&매일경제 국회의원 강승규  2025.3.4",
             "upload_date": null
         },
         {
-            "_id": "6960abac631fd1743497d34b",
-            "url": "https://www.youtube.com/watch?v=0KnAllAladw",
+            "_id": "6960abac631fd1743497d34d",
+            "url": "https://www.youtube.com/watch?v=EUMAJ-HZmSw",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-09T16:18:00.603000",
-            "duration": 60.0,
-            "title": "강승규 의원, 예산 민원의날 예산홍성 LEVELUP! 2024.9.7",
+            "collected_at": "2026-01-13T09:42:43.815000",
+            "duration": 115.0,
+            "title": "[YTN 뉴스퀘어 2PM] 민주당 정기국회! 이상한 그림! 정치쇼! 강승규 의원 2025.9.1",
             "upload_date": null
         },
         {
@@ -316,7 +330,7 @@
             "url": "https://www.youtube.com/watch?v=huC55kL2Hfg",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:33.219000",
+            "collected_at": "2026-01-30T23:18:00.623000",
             "duration": 69.0,
             "title": "강승규 의원 예산결산특별위원회 위원 선임ㅣ#국회는지금 #헬로tv뉴스",
             "upload_date": null
@@ -326,7 +340,7 @@
             "url": "https://www.youtube.com/watch?v=UCtwVjCHuZ0ak_nS0CdTpMMA",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:33.219000",
+            "collected_at": "2026-01-30T23:18:00.623000",
             "duration": null,
             "title": "융합캔버스 강승규TV",
             "upload_date": null
@@ -346,9 +360,29 @@
             "url": "https://www.youtube.com/watch?v=xPixjNPUrGo",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:34.255000",
+            "collected_at": "2026-01-30T23:18:02.090000",
             "duration": 904.0,
             "title": "[YTN 뉴스퀘어 2PM] 이재명 정부 내란몰이! 가짜뉴스 프레임 공격의 재판! 풀버전 강승규 의원 2025.9.22",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abac631fd1743497d34a",
+            "url": "https://www.youtube.com/watch?v=4sPzXonumJw",
+            "HG_NM": "강승규",
+            "MONA_CD": "42K7317Y",
+            "collected_at": "2026-01-30T23:18:00.623000",
+            "duration": 1054.0,
+            "title": "\"개헌이 추진되면 이재명 대통령이 다음 선거에 출마할 수 있죠?\" 강승규 국민의힘 의원 | 대정부질문 (25.9.18.) | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "69659505887d07f7ba2fab99",
+            "url": "https://www.youtube.com/watch?v=r0a0uVNhu7Y",
+            "HG_NM": "강승규",
+            "MONA_CD": "42K7317Y",
+            "collected_at": "2026-01-30T23:18:02.090000",
+            "duration": 1322.0,
+            "title": "[뉴스 바사삭] \"어휴, MBC 저놈들...매국언론\" 강승규 시민사회수석, MBC 앞 우파 시위 요청 의혹 | MBC 230906 방송",
             "upload_date": null
         },
         {
@@ -359,26 +393,6 @@
             "collected_at": "2026-01-09T16:18:01.310000",
             "duration": 127.0,
             "title": "[연합뉴스TV 여의도펀치] 국민의힘 계엄·탄핵의 강을 건너 미래로! 구체적 쇄신안! 강승규 의원 2026.1.7",
-            "upload_date": null
-        },
-        {
-            "_id": "69659505887d07f7ba2fab99",
-            "url": "https://www.youtube.com/watch?v=r0a0uVNhu7Y",
-            "HG_NM": "강승규",
-            "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:34.255000",
-            "duration": 1322.0,
-            "title": "[뉴스 바사삭] \"어휴, MBC 저놈들...매국언론\" 강승규 시민사회수석, MBC 앞 우파 시위 요청 의혹 | MBC 230906 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abac631fd1743497d34d",
-            "url": "https://www.youtube.com/watch?v=EUMAJ-HZmSw",
-            "HG_NM": "강승규",
-            "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-13T09:42:43.815000",
-            "duration": 115.0,
-            "title": "[YTN 뉴스퀘어 2PM] 민주당 정기국회! 이상한 그림! 정치쇼! 강승규 의원 2025.9.1",
             "upload_date": null
         },
         {
@@ -396,19 +410,19 @@
             "url": "https://www.youtube.com/watch?v=YMLtj0HznEk",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:33.219000",
+            "collected_at": "2026-01-30T23:18:00.623000",
             "duration": 1257.0,
             "title": "[강승규 인터뷰]  국회의원 강승규 탄핵 심판의 평가와 전망은? KBS 인터뷰 2025.2.21",
             "upload_date": null
         },
         {
-            "_id": "6960abac631fd1743497d349",
-            "url": "https://www.youtube.com/watch?v=H5GtntH7y08",
+            "_id": "6960abac631fd1743497d350",
+            "url": "https://www.youtube.com/watch?v=2QBH5rmzXvs",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-13T09:42:43.240000",
-            "duration": 136.0,
-            "title": "국회 산자부 국정감사 강승규 의원 코트라 前 노조 위원장 알선수수료 비위 은폐! 전수조사 촉구! 2025.10.16",
+            "collected_at": "2026-01-13T09:42:43.815000",
+            "duration": 60.0,
+            "title": "'尹 시계 의혹' 강승규 공천?..경쟁자 \"경선 포기..잣대 가혹\" #Shorts (MBC뉴스)",
             "upload_date": null
         },
         {
@@ -416,29 +430,9 @@
             "url": "https://www.youtube.com/watch?v=1BcWV7WWo5w",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:33.219000",
+            "collected_at": "2026-01-30T23:18:00.623000",
             "duration": 1323.0,
             "title": "새정치연합 지지율 2주 연속 하락세 [강승규, 전 새누리당 의원·서갑원, 전 민주당 의원] / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abac631fd1743497d34a",
-            "url": "https://www.youtube.com/watch?v=4sPzXonumJw",
-            "HG_NM": "강승규",
-            "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:33.219000",
-            "duration": 1054.0,
-            "title": "\"개헌이 추진되면 이재명 대통령이 다음 선거에 출마할 수 있죠?\" 강승규 국민의힘 의원 | 대정부질문 (25.9.18.) | 국회방송",
-            "upload_date": null
-        },
-        {
-            "_id": "69659505887d07f7ba2fab97",
-            "url": "https://www.youtube.com/watch?v=NvN0f_lj-Ns",
-            "HG_NM": "강승규",
-            "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-13T09:42:43.240000",
-            "duration": 60.0,
-            "title": "尹 탄핵 심판 선고 '초읽기' MBN 아침&매일경제 국회의원 강승규  2025.3.4",
             "upload_date": null
         },
         {
@@ -452,13 +446,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960abac631fd1743497d350",
-            "url": "https://www.youtube.com/watch?v=2QBH5rmzXvs",
+            "_id": "69659505887d07f7ba2fab98",
+            "url": "https://www.youtube.com/watch?v=Qz3RO8GVJLk",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
             "collected_at": "2026-01-13T09:42:43.815000",
+            "duration": 122.0,
+            "title": "[연합뉴스TV 뉴스1번지] 이재명정부, 민주당의 폭주기관차! 폭주 법사위! 강승규 의원 2025.9.23",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abac631fd1743497d349",
+            "url": "https://www.youtube.com/watch?v=H5GtntH7y08",
+            "HG_NM": "강승규",
+            "MONA_CD": "42K7317Y",
+            "collected_at": "2026-01-13T09:42:43.240000",
+            "duration": 136.0,
+            "title": "국회 산자부 국정감사 강승규 의원 코트라 前 노조 위원장 알선수수료 비위 은폐! 전수조사 촉구! 2025.10.16",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abac631fd1743497d34b",
+            "url": "https://www.youtube.com/watch?v=0KnAllAladw",
+            "HG_NM": "강승규",
+            "MONA_CD": "42K7317Y",
+            "collected_at": "2026-01-09T16:18:00.603000",
             "duration": 60.0,
-            "title": "'尹 시계 의혹' 강승규 공천?..경쟁자 \"경선 포기..잣대 가혹\" #Shorts (MBC뉴스)",
+            "title": "강승규 의원, 예산 민원의날 예산홍성 LEVELUP! 2024.9.7",
             "upload_date": null
         },
         {
@@ -476,11 +490,11 @@
             "url": "https://www.youtube.com/watch?v=j7_y-CiFlyA",
             "HG_NM": "강승규",
             "MONA_CD": "42K7317Y",
-            "collected_at": "2026-01-23T16:39:34.255000",
+            "collected_at": "2026-01-30T23:18:00.623000",
             "duration": 1019.0,
             "title": "KBS1 사사건건 뉴스대담 강승규 국회의원 당선인",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:10.061325"
+    "exported_at": "2026-01-30T23:35:40.335117"
 }

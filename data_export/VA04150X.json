@@ -47,21 +47,21 @@
             "밀양",
             "국가",
             "세미나",
-            "후보",
             "나노",
             "산단",
+            "후보",
+            "개최",
+            "활성",
             "참석",
             "한국폴리텍대학",
             "사업비",
             "신년",
-            "초선",
-            "대표",
-            "함안"
+            "초선"
         ],
         "keyword_frequency": [
             {
                 "text": "박상",
-                "value": 41
+                "value": 43
             },
             {
                 "text": "국민",
@@ -69,27 +69,35 @@
             },
             {
                 "text": "밀양",
-                "value": 22
+                "value": 24
             },
             {
                 "text": "국가",
-                "value": 9
+                "value": 11
             },
             {
                 "text": "세미나",
-                "value": 8
+                "value": 10
+            },
+            {
+                "text": "나노",
+                "value": 9
+            },
+            {
+                "text": "산단",
+                "value": 9
             },
             {
                 "text": "후보",
                 "value": 8
             },
             {
-                "text": "나노",
+                "text": "개최",
                 "value": 7
             },
             {
-                "text": "산단",
-                "value": 7
+                "text": "활성",
+                "value": 6
             },
             {
                 "text": "참석",
@@ -110,32 +118,24 @@
             {
                 "text": "초선",
                 "value": 6
-            },
-            {
-                "text": "대표",
-                "value": 6
-            },
-            {
-                "text": "함안",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:23.309594",
+        "last_analyzed_at": "2026-01-30T23:35:53.827468",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                1,
                 0,
                 0,
-                1,
+                0,
+                0,
                 0,
                 0,
                 0
@@ -212,7 +212,7 @@
             "_id": "6966ec72887d07f7ba2fb272",
             "link": "https://n.news.naver.com/mnews/article/005/0001825981?sid=100",
             "created_at": "2026-01-14T10:08:03.097000",
-            "description": "부산 부산진갑의 정성국 국민의힘 의원도 5명의 시·구의원 당선자로부터 2400만원의 후원금을 받았다. 전직 의원까지 포함하면 후원금 규모는 3300만원으로 늘어난다. 민주당 부산시당은 “공천권을 가진 국회의원에... ",
+            "description": "지난해 김미애 국민의힘 의원이 지방선거 전 6개월 동안 출마 예정자의 후원을 받지 못하도록 하는 내용의 정치자금법 개정안을 발의했지만 아무런 논의가 없는 상태다. 한 국회 관계자는 “기초의회로 갈수록 거대... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768294957&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-14T00:04:00",
@@ -294,7 +294,7 @@
             "url": "https://www.youtube.com/watch?v=9ZE91Qj9FwE",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 609.0,
             "title": "\"트럼프 행정부의 상호관세율 계산법 한국에만 특별히 불리하게 적용?\" 박상웅 국민의힘 의원 | 美 상호관세 조치 등 현안질의 (25.4.9.) | 국회방송",
             "upload_date": null
@@ -304,7 +304,7 @@
             "url": "https://www.youtube.com/watch?v=zruf2QxsWHA",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 619.0,
             "title": "박상웅 국민의힘 국회의원 후보_함안 출정식_3월28일",
             "upload_date": null
@@ -314,7 +314,7 @@
             "url": "https://www.youtube.com/watch?v=UCt2_dV3O6oRjlIGDghm4R9g",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": null,
             "title": "박상웅 선거캠프",
             "upload_date": null
@@ -324,19 +324,9 @@
             "url": "https://www.youtube.com/watch?v=t-ZFlIZILFc",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 138.0,
             "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅 / KBS  2024.04.01.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac7e631fd1743497d6b6",
-            "url": "https://www.youtube.com/watch?v=kBSQdoYS-EU",
-            "HG_NM": "박상웅",
-            "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
-            "duration": 701.0,
-            "title": "박상웅 국민의힘 국회의원 후보_밀양 출정식_3월28일",
             "upload_date": null
         },
         {
@@ -344,9 +334,19 @@
             "url": "https://www.youtube.com/watch?v=AVXGW8WuXlY",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 1736.0,
             "title": "지역과 함께 꿈꾸다! 준비된 미래 정치 '박상웅 국민의힘 의원' | 국회의원 25시 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac7e631fd1743497d6b6",
+            "url": "https://www.youtube.com/watch?v=kBSQdoYS-EU",
+            "HG_NM": "박상웅",
+            "MONA_CD": "VA04150X",
+            "collected_at": "2026-01-30T23:23:16.574000",
+            "duration": 701.0,
+            "title": "박상웅 국민의힘 국회의원 후보_밀양 출정식_3월28일",
             "upload_date": null
         },
         {
@@ -354,7 +354,7 @@
             "url": "https://www.youtube.com/watch?v=bU380QL82ys",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 126.0,
             "title": "[MBC가 간다]  \"당론이 내 입장이지..\" 뽑아준 지역민보다 당이 우선? | 사라진 경남 국민의힘 박상웅 의원을 찾아서",
             "upload_date": null
@@ -384,7 +384,7 @@
             "url": "https://www.youtube.com/watch?v=znS3dMc164A",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:05.269000",
+            "collected_at": "2026-01-30T23:23:18.094000",
             "duration": 306.0,
             "title": "[다시보기] 국민의힘 초선의원 모임 후 박상웅 초선의원 대표 백브리핑 -12월 16일 (화) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -394,7 +394,7 @@
             "url": "https://www.youtube.com/watch?v=WhkZjFLv7M4",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:05.269000",
+            "collected_at": "2026-01-30T23:23:18.094000",
             "duration": 239.0,
             "title": "[국회는 지금]박상웅 \"남북6축고속도로 연장 촉구\", 허성무 \"GM 철수설 재확산 규탄\"",
             "upload_date": null
@@ -414,7 +414,7 @@
             "url": "https://www.youtube.com/watch?v=QOGoud3wtgU",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-23T16:43:04.523000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 462.0,
             "title": "국민의힘 박상웅 의원,2차 공공기관 이전 3법 대표발의 기자회견",
             "upload_date": null
@@ -424,11 +424,21 @@
             "url": "https://www.youtube.com/watch?v=rGQPXB4Q2lc",
             "HG_NM": "박상웅",
             "MONA_CD": "VA04150X",
-            "collected_at": "2026-01-21T08:44:46.513000",
+            "collected_at": "2026-01-30T23:23:16.574000",
             "duration": 372.0,
             "title": "국민의힘 박상웅 의원, 인사를 다음에 하겠다고? 마지막 빡쳐서 바로 산회하는 우원식",
             "upload_date": null
+        },
+        {
+            "_id": "697cbed638b0cf4096976dcc",
+            "url": "https://www.youtube.com/watch?v=ecaIdi_Rtk0",
+            "HG_NM": "박상웅",
+            "MONA_CD": "VA04150X",
+            "collected_at": "2026-01-30T23:23:18.094000",
+            "duration": 122.0,
+            "title": "[국회는 지금] 박상웅 \"'밀양 나노국가산단 활성화 세미나' 개최\"…최형두 \"정보보안 패키지 법안 발의\"ㅣ#헬로tv뉴스",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:23.309594"
+    "exported_at": "2026-01-30T23:35:53.827468"
 }

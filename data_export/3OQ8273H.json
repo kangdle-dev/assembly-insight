@@ -52,9 +52,9 @@
             "무효형",
             "출판",
             "기념회",
+            "민주당",
             "신영",
             "항소심",
-            "민주당",
             "재보선",
             "대표"
         ],
@@ -93,10 +93,14 @@
             },
             {
                 "text": "출판",
-                "value": 10
+                "value": 11
             },
             {
                 "text": "기념회",
+                "value": 11
+            },
+            {
+                "text": "민주당",
                 "value": 10
             },
             {
@@ -108,10 +112,6 @@
                 "value": 10
             },
             {
-                "text": "민주당",
-                "value": 9
-            },
-            {
                 "text": "재보선",
                 "value": 9
             },
@@ -120,24 +120,24 @@
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:32.862313",
+        "last_analyzed_at": "2026-01-30T23:36:03.338857",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                1,
                 0,
                 1,
                 0,
                 0,
-                1,
+                0,
+                0,
                 0
             ]
         }
@@ -147,7 +147,7 @@
             "_id": "6976fceb8459600028997f3e",
             "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
             "created_at": "2026-01-26T14:34:32.940000",
-            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
+            "description": "이날 출판기념회에는 김승원(민주당 경기도당위원장), 김영진, 박성준, 전용기, 김기표, 김동아, 염태영, 이건태, 이상식 국회의원, 이재준 수원특례시장, 백군기 전 용인특례시장, 이종걸, 김병욱, 양정숙, 양이원영 전... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
             "press": "뉴스1",
             "pubDate": "2026-01-25T13:11:00",
@@ -172,7 +172,7 @@
             "_id": "6972d200845960002899772d",
             "link": "https://m.sports.naver.com/general/article/022/0004099775",
             "created_at": "2026-01-23T10:42:22.182000",
-            "description": "앞줄 왼쪽부터 이수경 선수단장, 쇼트트랙 최민정, 유승민 대한체육회장, 최휘영 문화체육관광부 장관, 스피드스케이팅 정재원, 조계원 국회의원. 연합뉴스 최휘영 장관은 격려사를 통해 “국가대표 여러분의 끈기와... ",
+            "description": "이날 결단식에는 최휘영 문화체육관광부 장관과 유승민 대한체육회장, 양문석·조계원·김재원 등 국회의원, 이수경 선수단장(대한빙상경기연맹 회장)을 포함한 대한체육회 임원, 참가 종목단체 관계자 등 약 100명이... ",
             "originallink": "https://www.segye.com/newsView/20260122515717?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-22T21:02:00",
@@ -324,7 +324,7 @@
             "_id": "6964b546631fd17434996068",
             "link": "https://n.news.naver.com/mnews/article/011/0004577391?sid=102",
             "created_at": "2026-01-12T17:48:03.471000",
-            "description": "박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문 중소기업중앙회장을 비롯해 도성훈 인천시 교육감, 이인재 국립인천대학교 총장... ",
+            "description": "원내대표), 유동수(정책수석부의장), 박정, 박수현(수석대변인), 허종식, 박선원, 이훈기, 조계원, 양문석, 노종면, 이용우, 모경종 국회의원, 박남춘 전 인천시장 등 여권 핵심인사들이 대거 참석했다. 또 김기문... ",
             "originallink": "https://www.sedaily.com/NewsView/2K79UTNT2Q",
             "press": "서울경제",
             "pubDate": "2026-01-12T07:33:00",
@@ -535,13 +535,33 @@
     ],
     "recent_videos": [
         {
-            "_id": "69659636887d07f7ba2fad28",
-            "url": "https://www.youtube.com/watch?v=7-8ptNWnLaA",
+            "_id": "69659636887d07f7ba2fad27",
+            "url": "https://www.youtube.com/watch?v=SOAGTRN85Z4",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:36.183000",
-            "duration": 722.0,
-            "title": "\"이러면 격조 있는 질문이 힘들어\"...양문석, 증인 쏘아 보더니 폭발",
+            "collected_at": "2026-01-30T23:26:59.049000",
+            "duration": 96.0,
+            "title": "‘딸 명의 대출사기 혐의’ 양문석, 2심도 당선 무효형 / 채널A / 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbfb438b0cf4096976e31",
+            "url": "https://www.youtube.com/watch?v=-tgcIwTNPgc",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-30T23:27:00.624000",
+            "duration": 240.0,
+            "title": "[시사쇼 정치다] 양문석 부인, 자료 위조 요구… 양문석 \"허위사실 유포 행위, 법적 책임\"",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbfb438b0cf4096976e30",
+            "url": "https://www.youtube.com/watch?v=qvBn4ArsaQM",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-30T23:27:00.624000",
+            "duration": 647.0,
+            "title": "Ep260. 양문석 대법원 선고 임박, 사법부가 뱃지 뗀다",
             "upload_date": null
         },
         {
@@ -579,7 +599,7 @@
             "url": "https://www.youtube.com/watch?v=AbEwSHnnM6c",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:36.183000",
+            "collected_at": "2026-01-30T23:27:00.624000",
             "duration": 115.0,
             "title": "양문석 “우리 가족 대출로 피해자 있나” | 뉴스A",
             "upload_date": null
@@ -599,19 +619,9 @@
             "url": "https://www.youtube.com/watch?v=fFHuCzMl0Os",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:35.395000",
+            "collected_at": "2026-01-30T23:26:59.049000",
             "duration": 1623.0,
             "title": "반쪽 국회의원 하려고 1년만에 20억 넘게 날린 양문석 의원ㅠㅠ",
-            "upload_date": null
-        },
-        {
-            "_id": "69659636887d07f7ba2fad2a",
-            "url": "https://www.youtube.com/watch?v=Lzave_7QI5w",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-15T18:19:52.088000",
-            "duration": 60.0,
-            "title": "[속보]양문석, 항소심도 의원직 상실형…딸 명의로 ‘사기 대출’ 혐의 [자막뉴스] / 채널A",
             "upload_date": null
         },
         {
@@ -629,19 +639,29 @@
             "url": "https://www.youtube.com/watch?v=UCa28SQOj1JCqZcFeArJXJKQ",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:35.395000",
+            "collected_at": "2026-01-30T23:26:59.049000",
             "duration": null,
             "title": "양문석 TV",
             "upload_date": null
         },
         {
-            "_id": "69659636887d07f7ba2fad27",
-            "url": "https://www.youtube.com/watch?v=SOAGTRN85Z4",
+            "_id": "69659636887d07f7ba2fad28",
+            "url": "https://www.youtube.com/watch?v=7-8ptNWnLaA",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:35.395000",
-            "duration": 96.0,
-            "title": "‘딸 명의 대출사기 혐의’ 양문석, 2심도 당선 무효형 / 채널A / 뉴스A",
+            "collected_at": "2026-01-30T23:27:00.624000",
+            "duration": 722.0,
+            "title": "\"이러면 격조 있는 질문이 힘들어\"...양문석, 증인 쏘아 보더니 폭발",
+            "upload_date": null
+        },
+        {
+            "_id": "69659636887d07f7ba2fad2a",
+            "url": "https://www.youtube.com/watch?v=Lzave_7QI5w",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-15T18:19:52.088000",
+            "duration": 60.0,
+            "title": "[속보]양문석, 항소심도 의원직 상실형…딸 명의로 ‘사기 대출’ 혐의 [자막뉴스] / 채널A",
             "upload_date": null
         },
         {
@@ -649,7 +669,7 @@
             "url": "https://www.youtube.com/watch?v=eqgNGcxYPgY",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:35.395000",
+            "collected_at": "2026-01-30T23:26:59.049000",
             "duration": 365.0,
             "title": "\"어디 조선일보 따위에!!!\" 반성하면 안되겠습니까...물음에 단호하게 거부하는 #양문석의원",
             "upload_date": null
@@ -659,7 +679,7 @@
             "url": "https://www.youtube.com/watch?v=K_ebCP5h5gY",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-18T13:16:22.418000",
+            "collected_at": "2026-01-30T23:26:59.049000",
             "duration": 204.0,
             "title": "양문석, 유인촌 장관에 고함치며 \"한 놈도 없냐고!\" [현장영상] / 채널A",
             "upload_date": null
@@ -672,6 +692,16 @@
             "collected_at": "2026-01-09T16:24:01.483000",
             "duration": 61.0,
             "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형 #shorts",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fd",
+            "url": "https://www.youtube.com/watch?v=0eeOtFflFCI",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-14T10:20:26.734000",
+            "duration": 185.0,
+            "title": "\"제발 이중잣대 좀 그만!!\" 신동욱에 극대노한 양문석",
             "upload_date": null
         },
         {
@@ -689,21 +719,11 @@
             "url": "https://www.youtube.com/watch?v=aGM2HTphygA",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:35.395000",
+            "collected_at": "2026-01-30T23:26:59.049000",
             "duration": 116.0,
             "title": "민주당 양문석 2심도 당선무효형...이상식은 감형돼 의원직 유지 / YTN",
             "upload_date": null
-        },
-        {
-            "_id": "6960ad14631fd1743497d8fd",
-            "url": "https://www.youtube.com/watch?v=0eeOtFflFCI",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-14T10:20:26.734000",
-            "duration": 185.0,
-            "title": "\"제발 이중잣대 좀 그만!!\" 신동욱에 극대노한 양문석",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:32.862313"
+    "exported_at": "2026-01-30T23:36:03.338857"
 }

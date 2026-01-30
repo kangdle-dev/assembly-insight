@@ -42,37 +42,45 @@
     },
     "analysis": {
         "keywords": [
-            "충북도",
             "더불어민주당",
-            "인사",
+            "충북도",
+            "위원장",
             "충북",
+            "민주당",
+            "인사",
             "지방",
             "선거",
-            "위원장",
+            "전략",
             "최고",
-            "정부",
             "이날",
             "특례",
             "중부",
             "내륙",
-            "특별법",
-            "위원"
+            "특별법"
         ],
         "keyword_frequency": [
+            {
+                "text": "더불어민주당",
+                "value": 20
+            },
             {
                 "text": "충북도",
                 "value": 20
             },
             {
-                "text": "더불어민주당",
-                "value": 18
-            },
-            {
-                "text": "인사",
-                "value": 13
+                "text": "위원장",
+                "value": 19
             },
             {
                 "text": "충북",
+                "value": 14
+            },
+            {
+                "text": "민주당",
+                "value": 13
+            },
+            {
+                "text": "인사",
                 "value": 13
             },
             {
@@ -84,16 +92,12 @@
                 "value": 13
             },
             {
-                "text": "위원장",
+                "text": "전략",
                 "value": 12
             },
             {
                 "text": "최고",
                 "value": 11
-            },
-            {
-                "text": "정부",
-                "value": 10
             },
             {
                 "text": "이날",
@@ -114,28 +118,24 @@
             {
                 "text": "특별법",
                 "value": 9
-            },
-            {
-                "text": "위원",
-                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:38.503666",
+        "last_analyzed_at": "2026-01-30T23:36:09.448664",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
-                0,
-                0,
+                1,
+                1,
                 0,
                 0,
                 0
@@ -143,6 +143,38 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd5538b0cf4096976c9c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004109237?sid=102",
+            "created_at": "2026-01-30T23:16:53.227000",
+            "description": "충북 청주 흥덕을 지역구로 둔 더불어민주당 이연희 국회의원이 중앙당 전략기획위원장에 임명됐다고 27일 밝혔다. 민주당 전략기획위원장는 당의 전반적인 전략 수립과 여론조사 업무 등의 실무를 총괄하는 요직으로... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6462245?utm_source=naver&utm_medium=article&utm_campaign=20260127085710",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-27T08:58:00",
+            "related_members": [
+                "EBH1101V"
+            ],
+            "title": "'전략통' 이연희 의원, 민주당 전략기획위원장 임명"
+        },
+        {
+            "_id": "697cbd2638b0cf4096976b0f",
+            "link": "https://n.news.naver.com/mnews/article/015/0005242142?sid=100",
+            "created_at": "2026-01-30T23:16:06.390000",
+            "description": "주로 재선 이상 국회의원이 맡아온 당직이다. 박 수석대변인은 전략기획위원장 교체 사유에 대해 \"이해식... 임호선 민주당 수석사무부총장도 사의를 밝힘에 따라 최기상 정책위원회 사회수석부의장이 후임으로 정해졌다.... ",
+            "originallink": "https://www.hankyung.com/article/202601262728i",
+            "press": "한국경제",
+            "pubDate": "2026-01-26T15:11:00",
+            "related_members": [
+                "CCU1009B",
+                "EBH1101V",
+                "5765663F",
+                "ZW43496R",
+                "1WE5693J",
+                "FH777496",
+                "I5I2468R"
+            ],
+            "title": "이해식 민주당 전략기획위원장 사임…후임은 '전략통' 이연희 의원"
+        },
         {
             "_id": "696c5c11297082fcc2b19bba",
             "link": "https://n.news.naver.com/mnews/article/421/0008719885?sid=102",
@@ -354,7 +386,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -434,7 +466,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -756,129 +788,9 @@
             "url": "https://www.youtube.com/watch?v=O1rKy4KSNHk",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-23T16:47:06.917000",
+            "collected_at": "2026-01-30T23:29:23.801000",
             "duration": 181.0,
             "title": "‘스타들의 결혼 소식’ 이연희×전진, 핑크빛 결혼 소식♥ㅣ본격연예 한밤(New Late Night E-NEWS)ㅣSBS ENTER.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da54",
-            "url": "https://www.youtube.com/watch?v=p3pI9J5bc1I",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-23T16:47:06.231000",
-            "duration": 68.0,
-            "title": "[국회의원 이연희] 2025 설 인사드립니다",
-            "upload_date": null
-        },
-        {
-            "_id": "6965968f887d07f7ba2fad8c",
-            "url": "https://www.youtube.com/watch?v=pQeu_XxYoWY",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-18T13:18:11.698000",
-            "duration": 60.0,
-            "title": "대통령관저가 보안시설이더라도 불법이 합리화 되는건가? #이연희 #국회의원 #국정감사 #대통령관저 #윤석열 #김건희 #21그램",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da5c",
-            "url": "https://www.youtube.com/watch?v=5Q8uSFRulbI",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-21T08:48:56.288000",
-            "duration": 125.0,
-            "title": "이연희(LEEYEONHEE), '인형 비주얼' 제작발표회 리액션 모음 [NewsenTV]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da58",
-            "url": "https://www.youtube.com/watch?v=xDqItJO5y_0",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 2424.0,
-            "title": "[제361회  임시회 2차 본회의 이연희 의원 도정질문]",
-            "upload_date": null
-        },
-        {
-            "_id": "6965968f887d07f7ba2fad8f",
-            "url": "https://www.youtube.com/watch?v=OVuoawJ8c_Y",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-13T09:49:17.324000",
-            "duration": 66.0,
-            "title": "긴급대피 요청 4번 무시한 충북도! 오송참사, 재수사해야! #국회의원 #이연희",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da53",
-            "url": "https://www.youtube.com/watch?v=45UrvJAf5bw",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-23T16:47:06.231000",
-            "duration": 288.0,
-            "title": "[국회의원 이연희] 2024 의정보고",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da5d",
-            "url": "https://www.youtube.com/watch?v=FUmbWh_qFPA",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-09T16:25:37.940000",
-            "duration": 125.0,
-            "title": "이연희(LEEYEONHEE), '결혼 후 물 오른 미모' (SF8 제작보고회) [NewsenTV]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da5a",
-            "url": "https://www.youtube.com/watch?v=879534VWGO4",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-09T16:25:37.194000",
-            "duration": 258.0,
-            "title": "[국회의원 이연희] 2024 의정보고회 영상축사 모음💙]",
-            "upload_date": null
-        },
-        {
-            "_id": "6965968f887d07f7ba2fad8b",
-            "url": "https://www.youtube.com/watch?v=8UPK1ah-DHI",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-18T13:18:12.841000",
-            "duration": 71.0,
-            "title": "부동산거래 신고 해제 급증, '의도적 가격 띄우기' 방지해야! #국회의원 #이연희",
-            "upload_date": null
-        },
-        {
-            "_id": "6965968f887d07f7ba2fad89",
-            "url": "https://www.youtube.com/watch?v=FRdtT9r3lB4",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-18T13:18:11.698000",
-            "duration": 79.0,
-            "title": "내란수괴 윤석열을 즉시 파면하라! #국회의원 #이연희",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad74631fd1743497da57",
-            "url": "https://www.youtube.com/watch?v=HOo05bXVY3U",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-14T10:21:57.298000",
-            "duration": 1735.0,
-            "title": "[ 2부 : 이연희 국회의원(더불어민주당) ] 구본상의 '허심탄회' | MBC충북 | 241107",
-            "upload_date": null
-        },
-        {
-            "_id": "6965968f887d07f7ba2fad8d",
-            "url": "https://www.youtube.com/watch?v=YXAWncDM9MQ",
-            "HG_NM": "이연희",
-            "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-18T13:18:11.698000",
-            "duration": 80.0,
-            "title": "오송참사 2주기, 우리는 오송에 섭니다 #국회의원 #이연희",
             "upload_date": null
         },
         {
@@ -892,6 +804,26 @@
             "upload_date": null
         },
         {
+            "_id": "6965968f887d07f7ba2fad8c",
+            "url": "https://www.youtube.com/watch?v=pQeu_XxYoWY",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-18T13:18:11.698000",
+            "duration": 60.0,
+            "title": "대통령관저가 보안시설이더라도 불법이 합리화 되는건가? #이연희 #국회의원 #국정감사 #대통령관저 #윤석열 #김건희 #21그램",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da5d",
+            "url": "https://www.youtube.com/watch?v=FUmbWh_qFPA",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-09T16:25:37.940000",
+            "duration": 125.0,
+            "title": "이연희(LEEYEONHEE), '결혼 후 물 오른 미모' (SF8 제작보고회) [NewsenTV]",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad74631fd1743497da59",
             "url": "https://www.youtube.com/watch?v=u2ibgxFyqmo",
             "HG_NM": "이연희",
@@ -902,23 +834,33 @@
             "upload_date": null
         },
         {
+            "_id": "6965968f887d07f7ba2fad8f",
+            "url": "https://www.youtube.com/watch?v=OVuoawJ8c_Y",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-13T09:49:17.324000",
+            "duration": 66.0,
+            "title": "긴급대피 요청 4번 무시한 충북도! 오송참사, 재수사해야! #국회의원 #이연희",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad74631fd1743497da52",
             "url": "https://www.youtube.com/watch?v=BBE_tX6uk3w",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-23T16:47:06.231000",
+            "collected_at": "2026-01-30T23:29:22.302000",
             "duration": 1067.0,
             "title": "[국회의원 이연희] 대정부질문 정치분야 풀영상",
             "upload_date": null
         },
         {
-            "_id": "6960ad74631fd1743497da51",
-            "url": "https://www.youtube.com/watch?v=UCXUbKFlcTvoOjTmvpbJ-uKA",
+            "_id": "6960ad74631fd1743497da5c",
+            "url": "https://www.youtube.com/watch?v=5Q8uSFRulbI",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-01-23T16:47:06.231000",
-            "duration": null,
-            "title": "이연희TV",
+            "collected_at": "2026-01-21T08:48:56.288000",
+            "duration": 125.0,
+            "title": "이연희(LEEYEONHEE), '인형 비주얼' 제작발표회 리액션 모음 [NewsenTV]",
             "upload_date": null
         },
         {
@@ -940,7 +882,97 @@
             "duration": 72.0,
             "title": "비상계엄의 위법성은 자명하다. 윤석열을 즉각 파면하라! #국회의원 #이연희",
             "upload_date": null
+        },
+        {
+            "_id": "6965968f887d07f7ba2fad89",
+            "url": "https://www.youtube.com/watch?v=FRdtT9r3lB4",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-18T13:18:11.698000",
+            "duration": 79.0,
+            "title": "내란수괴 윤석열을 즉시 파면하라! #국회의원 #이연희",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da58",
+            "url": "https://www.youtube.com/watch?v=xDqItJO5y_0",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-14T10:21:57.298000",
+            "duration": 2424.0,
+            "title": "[제361회  임시회 2차 본회의 이연희 의원 도정질문]",
+            "upload_date": null
+        },
+        {
+            "_id": "6965968f887d07f7ba2fad8d",
+            "url": "https://www.youtube.com/watch?v=YXAWncDM9MQ",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-18T13:18:11.698000",
+            "duration": 80.0,
+            "title": "오송참사 2주기, 우리는 오송에 섭니다 #국회의원 #이연희",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da54",
+            "url": "https://www.youtube.com/watch?v=p3pI9J5bc1I",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-30T23:29:22.302000",
+            "duration": 68.0,
+            "title": "[국회의원 이연희] 2025 설 인사드립니다",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da5a",
+            "url": "https://www.youtube.com/watch?v=879534VWGO4",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-09T16:25:37.194000",
+            "duration": 258.0,
+            "title": "[국회의원 이연희] 2024 의정보고회 영상축사 모음💙]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da51",
+            "url": "https://www.youtube.com/watch?v=UCXUbKFlcTvoOjTmvpbJ-uKA",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-30T23:29:22.302000",
+            "duration": null,
+            "title": "이연희TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da53",
+            "url": "https://www.youtube.com/watch?v=45UrvJAf5bw",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-30T23:29:22.302000",
+            "duration": 288.0,
+            "title": "[국회의원 이연희] 2024 의정보고",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad74631fd1743497da57",
+            "url": "https://www.youtube.com/watch?v=HOo05bXVY3U",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-14T10:21:57.298000",
+            "duration": 1735.0,
+            "title": "[ 2부 : 이연희 국회의원(더불어민주당) ] 구본상의 '허심탄회' | MBC충북 | 241107",
+            "upload_date": null
+        },
+        {
+            "_id": "6965968f887d07f7ba2fad8b",
+            "url": "https://www.youtube.com/watch?v=8UPK1ah-DHI",
+            "HG_NM": "이연희",
+            "MONA_CD": "EBH1101V",
+            "collected_at": "2026-01-18T13:18:12.841000",
+            "duration": 71.0,
+            "title": "부동산거래 신고 해제 급증, '의도적 가격 띄우기' 방지해야! #국회의원 #이연희",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:38.503666"
+    "exported_at": "2026-01-30T23:36:09.448664"
 }

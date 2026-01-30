@@ -50,34 +50,50 @@
             "대구",
             "국민",
             "북구",
+            "선관위",
+            "선거",
             "문화",
+            "정개특위",
+            "제도",
             "질문",
+            "위원회",
+            "개선",
             "장관",
+            "적극",
             "대정부",
-            "불법",
-            "예술",
-            "웹툰",
-            "중요",
-            "자료",
-            "문체",
-            "지방",
             "체육"
         ],
         "keyword_frequency": [
             {
                 "text": "대구",
-                "value": 11
+                "value": 14
             },
             {
                 "text": "국민",
-                "value": 10
+                "value": 13
             },
             {
                 "text": "북구",
-                "value": 9
+                "value": 12
+            },
+            {
+                "text": "선관위",
+                "value": 10
+            },
+            {
+                "text": "선거",
+                "value": 10
             },
             {
                 "text": "문화",
+                "value": 9
+            },
+            {
+                "text": "정개특위",
+                "value": 8
+            },
+            {
+                "text": "제도",
                 "value": 8
             },
             {
@@ -85,69 +101,113 @@
                 "value": 8
             },
             {
+                "text": "위원회",
+                "value": 7
+            },
+            {
+                "text": "개선",
+                "value": 7
+            },
+            {
                 "text": "장관",
                 "value": 7
+            },
+            {
+                "text": "적극",
+                "value": 6
             },
             {
                 "text": "대정부",
                 "value": 6
             },
             {
-                "text": "불법",
-                "value": 5
-            },
-            {
-                "text": "예술",
-                "value": 5
-            },
-            {
-                "text": "웹툰",
-                "value": 5
-            },
-            {
-                "text": "중요",
-                "value": 5
-            },
-            {
-                "text": "자료",
-                "value": 5
-            },
-            {
-                "text": "문체",
-                "value": 4
-            },
-            {
-                "text": "지방",
-                "value": 4
-            },
-            {
                 "text": "체육",
-                "value": 4
+                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:15.710375",
+        "last_analyzed_at": "2026-01-30T23:35:45.983228",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
+                2,
+                1,
                 0,
-                0,
-                0,
-                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2538b0cf4096976b04",
+            "link": "https://n.news.naver.com/mnews/article/036/0000053062?sid=100",
+            "created_at": "2026-01-30T23:16:05.509000",
+            "description": "매일신문은 국회 문화체육관광위원회 소속인 국민의힘 김승수 의원(대구 북구을)과 손잡고 2025년 국정감사에 맞춰 이 정책을 집중적으로 문제 삼았다. 2025년 10월5일부터 9일까지, 무려 다섯 차례에 걸쳐 “여자·LGBT 안... ",
+            "originallink": "https://h21.hani.co.kr/arti/politics/politics_general/58725.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-29T12:48:00",
+            "related_members": [
+                "5K93695T"
+            ],
+            "title": "차별 시정 싫어하는 어느 신문의 ‘지극정성’ 백래시"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b05",
+            "link": "https://n.news.naver.com/mnews/article/052/0002306244?sid=100",
+            "created_at": "2026-01-30T23:16:05.509000",
+            "description": "조국혁신당 정춘생 의원도 선관위가 국회 입법만 기다릴 게 아니라 올바른 선거제도가 어떤 것인지 적극적으로 검토하고 제도 개선 요구 의지를 보여야 한다고 강조했습니다. 야당은 선관위의 선거 관리 부실과 외국인의... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601270316101636",
+            "press": "YTN",
+            "pubDate": "2026-01-27T03:16:00",
+            "related_members": [
+                "XG348314",
+                "5K93695T",
+                "X639721U"
+            ],
+            "title": "국회 정개특위 \"선관위, 행정통합 선거제도 개선 노력 미흡\""
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b06",
+            "link": "https://n.news.naver.com/mnews/article/003/0013731458?sid=100",
+            "created_at": "2026-01-30T23:16:05.509000",
+            "description": "바꿔달라'고 국회에 제출해야 한다\"고 했다. 한편 정개특위는 이날 '공직선거법 및 지방선거구제 개편심사소위원회' '정치관계법심사소위원회' 구성의 건도 의결했다. 정개특위 여야 간사인 윤건영 민주당 의원과 조정훈... ",
+            "originallink": "https://www.newsis.com/view/NISX20260126_0003490875",
+            "press": "뉴시스",
+            "pubDate": "2026-01-26T20:31:00",
+            "related_members": [
+                "X639721U",
+                "5K93695T",
+                "GP07421U",
+                "WJL30106",
+                "XG348314"
+            ],
+            "title": "여야, 정개특위서 \"선관위가 선거구 획정 적극 나서야\" 한목소리 질타"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b07",
+            "link": "https://n.news.naver.com/mnews/article/052/0002306123?sid=100",
+            "created_at": "2026-01-30T23:16:05.509000",
+            "description": "조국혁신당 정춘생 의원도 선관위가 국회 입법만 기다릴 게 아니라 올바른 선거제도가 어떤 것인지 적극적으로 검토하고 제도 개선 요구 의지를 보여야 한다고 강조했습니다. 야당은 선관위의 선거 관리 부실과 외국인의... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601261924139612",
+            "press": "YTN",
+            "pubDate": "2026-01-26T19:24:00",
+            "related_members": [
+                "XG348314",
+                "5K93695T",
+                "X639721U"
+            ],
+            "title": "국회 정개특위 \"선관위, 행정통합 선거제도 개선 노력 미흡\""
+        },
         {
             "_id": "696594a5887d07f7ba2fab37",
             "link": "https://n.news.naver.com/mnews/article/011/0004577823?sid=103",
@@ -277,83 +337,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac05631fd1743497d4b8",
-            "url": "https://www.youtube.com/watch?v=49oL0umXgO8",
+            "_id": "697cbe1f38b0cf4096976d8a",
+            "url": "https://www.youtube.com/watch?v=cF9-ua5C6T0",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-15T18:15:05.756000",
-            "duration": 164.0,
-            "title": "다시, 첫사랑 - 김승수, 뉴스에 나온 명세빈 영상 드디어 봤다.20170316",
-            "upload_date": null
-        },
-        {
-            "_id": "697326148459600028997964",
-            "url": "https://www.youtube.com/watch?v=bJ93Ba9-kEA",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:05.174000",
-            "duration": 417.0,
-            "title": "김승수 뭘 물었길래? 참다못한 김민석, 국힘 측 노려보더지 \"저걸 질의라고 볼 수 없지 않나? 솔.직.히.\"",
-            "upload_date": null
-        },
-        {
-            "_id": "697012f8297082fcc2b34dd5",
-            "url": "https://www.youtube.com/watch?v=6I3DmY0nF1s",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-21T08:42:47.086000",
-            "duration": 1058.0,
-            "title": "[뉴스파이팅] \"능력이 중요하지 출신지역 중요한가?” #김승수 #배승희 _240510",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee4e887d07f7ba2fb3b5",
-            "url": "https://www.youtube.com/watch?v=etLki0YT2OU",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-14T10:15:58.430000",
-            "duration": 907.0,
-            "title": "국회방송 뉴스N 파워인터뷰 김승수 국민의힘 의원 출연 2022년 1월 4일",
-            "upload_date": null
-        },
-        {
-            "_id": "6965954a887d07f7ba2fabfb",
-            "url": "https://www.youtube.com/watch?v=X787HvjuKEM",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:05.174000",
-            "duration": 343.0,
-            "title": "김승수 “지방선거 앞두고 민주당 가짜뉴스 공세에 조직적 대응”ㅣTBC 정치in직캠",
-            "upload_date": null
-        },
-        {
-            "_id": "6965954a887d07f7ba2fabfa",
-            "url": "https://www.youtube.com/watch?v=UO0nC4nDiJA",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-13T09:43:53.005000",
-            "duration": 62.0,
-            "title": "배우 김승수 전격 결혼 발표!",
-            "upload_date": null
-        },
-        {
-            "_id": "6965954a887d07f7ba2fabf9",
-            "url": "https://www.youtube.com/watch?v=HwsBpTrDeZQ",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 713.0,
-            "title": "[대구 북구을 국회의원 김승수] 뉴스핌 정치이너뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "6965954a887d07f7ba2fabf8",
-            "url": "https://www.youtube.com/watch?v=jyyNKL0PgeI",
-            "HG_NM": "김승수",
-            "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 1870.0,
-            "title": "김승수 의원의 문화예술성장법! [국회방송 법테랑 인터뷰]",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 726.0,
+            "title": "[대구 북구을 국회의원 김승수] 한국행정연구원 정책세미나 l 국민의힘 대표 토론자 김승수 의원",
             "upload_date": null
         },
         {
@@ -367,23 +357,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac05631fd1743497d4af",
-            "url": "https://www.youtube.com/watch?v=UC-P15fmnNHOYk6_G8nRLm8Q",
+            "_id": "6960ac05631fd1743497d4b3",
+            "url": "https://www.youtube.com/watch?v=1EW4Sb4v8L4",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": null,
-            "title": "김승수 대구북구을 국회의원",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 121.0,
+            "title": "'성남 FC'관련 김승수 의원 대정부 질문[국민의힘 대구북구을 김승수 국회의원]",
             "upload_date": null
         },
         {
-            "_id": "6960ac05631fd1743497d4b6",
-            "url": "https://www.youtube.com/watch?v=3a7dQg4xHhA",
+            "_id": "697012f8297082fcc2b34dd5",
+            "url": "https://www.youtube.com/watch?v=6I3DmY0nF1s",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-21T08:42:47.086000",
+            "duration": 1058.0,
+            "title": "[뉴스파이팅] \"능력이 중요하지 출신지역 중요한가?” #김승수 #배승희 _240510",
+            "upload_date": null
+        },
+        {
+            "_id": "6965954a887d07f7ba2fabf8",
+            "url": "https://www.youtube.com/watch?v=jyyNKL0PgeI",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
             "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 122.0,
-            "title": "김승수 20250821 제428회 국회 임시회  제02차 문화체육관광위원회 김승수위원국민의힘질의최휘영장관문화 H 634611 1 1",
+            "duration": 1870.0,
+            "title": "김승수 의원의 문화예술성장법! [국회방송 법테랑 인터뷰]",
             "upload_date": null
         },
         {
@@ -397,13 +397,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac05631fd1743497d4b5",
-            "url": "https://www.youtube.com/watch?v=z75afy4f5dk",
+            "_id": "697cbe1f38b0cf4096976d8b",
+            "url": "https://www.youtube.com/watch?v=W0mpZChNKoY",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 280.0,
-            "title": "[대구 북구을 국회의원 김승수] 2026 병오년 신년 인사, 새해 복 많이 받으십시오",
+            "collected_at": "2026-01-30T23:20:15.445000",
+            "duration": 375.0,
+            "title": "[긴급속보] '박세리-김승수, 비공개 결혼 발표'…세기의 커플 탄생인 줄 알았더니 [아침&매일경제]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac05631fd1743497d4b0",
+            "url": "https://www.youtube.com/watch?v=Jokcvti-TzE",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 80.0,
+            "title": "[김승수 국회의원 대정부질문 영상 - 간첩과 함께 방북한 국무위원! 명확한 답을 내지 못하는 김민석 총리!]",
+            "upload_date": null
+        },
+        {
+            "_id": "6965954a887d07f7ba2fabfa",
+            "url": "https://www.youtube.com/watch?v=UO0nC4nDiJA",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-13T09:43:53.005000",
+            "duration": 62.0,
+            "title": "배우 김승수 전격 결혼 발표!",
             "upload_date": null
         },
         {
@@ -411,19 +431,79 @@
             "url": "https://www.youtube.com/watch?v=ixIoc6K7Rwk",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
+            "collected_at": "2026-01-30T23:20:14.024000",
             "duration": 164.0,
             "title": "[김승수 국회의원 Youtube 영상 - 국회 문체위 전체회의, 자료제출 안하는 최휘영 후보자! 검증을 위한 자료제출에 적극 응해야!]",
             "upload_date": null
         },
         {
-            "_id": "6960ac05631fd1743497d4b3",
-            "url": "https://www.youtube.com/watch?v=1EW4Sb4v8L4",
+            "_id": "6966ee4e887d07f7ba2fb3b5",
+            "url": "https://www.youtube.com/watch?v=etLki0YT2OU",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 121.0,
-            "title": "'성남 FC'관련 김승수 의원 대정부 질문[국민의힘 대구북구을 김승수 국회의원]",
+            "collected_at": "2026-01-14T10:15:58.430000",
+            "duration": 907.0,
+            "title": "국회방송 뉴스N 파워인터뷰 김승수 국민의힘 의원 출연 2022년 1월 4일",
+            "upload_date": null
+        },
+        {
+            "_id": "6965954a887d07f7ba2fabf9",
+            "url": "https://www.youtube.com/watch?v=HwsBpTrDeZQ",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 713.0,
+            "title": "[대구 북구을 국회의원 김승수] 뉴스핌 정치이너뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac05631fd1743497d4b6",
+            "url": "https://www.youtube.com/watch?v=3a7dQg4xHhA",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 122.0,
+            "title": "김승수 20250821 제428회 국회 임시회  제02차 문화체육관광위원회 김승수위원국민의힘질의최휘영장관문화 H 634611 1 1",
+            "upload_date": null
+        },
+        {
+            "_id": "697326148459600028997964",
+            "url": "https://www.youtube.com/watch?v=bJ93Ba9-kEA",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-23T16:41:05.174000",
+            "duration": 417.0,
+            "title": "김승수 뭘 물었길래? 참다못한 김민석, 국힘 측 노려보더지 \"저걸 질의라고 볼 수 없지 않나? 솔.직.히.\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac05631fd1743497d4b2",
+            "url": "https://www.youtube.com/watch?v=VPQinf1rGo8",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 152.0,
+            "title": "[김승수 국회의원 - 수해피해 상황서도 그대로 진행된 광복절 전야제, 중복행사로 취지도 훼손 돼!]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac05631fd1743497d4b8",
+            "url": "https://www.youtube.com/watch?v=49oL0umXgO8",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-15T18:15:05.756000",
+            "duration": 164.0,
+            "title": "다시, 첫사랑 - 김승수, 뉴스에 나온 명세빈 영상 드디어 봤다.20170316",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac05631fd1743497d4af",
+            "url": "https://www.youtube.com/watch?v=UC-P15fmnNHOYk6_G8nRLm8Q",
+            "HG_NM": "김승수",
+            "MONA_CD": "5K93695T",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": null,
+            "title": "김승수 대구북구을 국회의원",
             "upload_date": null
         },
         {
@@ -437,25 +517,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac05631fd1743497d4b2",
-            "url": "https://www.youtube.com/watch?v=VPQinf1rGo8",
+            "_id": "6960ac05631fd1743497d4b5",
+            "url": "https://www.youtube.com/watch?v=z75afy4f5dk",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 152.0,
-            "title": "[김승수 국회의원 - 수해피해 상황서도 그대로 진행된 광복절 전야제, 중복행사로 취지도 훼손 돼!]",
+            "collected_at": "2026-01-30T23:20:14.024000",
+            "duration": 280.0,
+            "title": "[대구 북구을 국회의원 김승수] 2026 병오년 신년 인사, 새해 복 많이 받으십시오",
             "upload_date": null
         },
         {
-            "_id": "6960ac05631fd1743497d4b0",
-            "url": "https://www.youtube.com/watch?v=Jokcvti-TzE",
+            "_id": "6965954a887d07f7ba2fabfb",
+            "url": "https://www.youtube.com/watch?v=X787HvjuKEM",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-01-23T16:41:04.447000",
-            "duration": 80.0,
-            "title": "[김승수 국회의원 대정부질문 영상 - 간첩과 함께 방북한 국무위원! 명확한 답을 내지 못하는 김민석 총리!]",
+            "collected_at": "2026-01-23T16:41:05.174000",
+            "duration": 343.0,
+            "title": "김승수 “지방선거 앞두고 민주당 가짜뉴스 공세에 조직적 대응”ㅣTBC 정치in직캠",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:15.710375"
+    "exported_at": "2026-01-30T23:35:45.983228"
 }

@@ -52,112 +52,357 @@
     },
     "analysis": {
         "keywords": [
-            "사무총장",
-            "민주당",
-            "제명",
-            "더불어민주당",
-            "탈당",
             "합당",
-            "자진",
-            "공천",
-            "김병기",
-            "간담회",
+            "대표",
+            "사무총장",
+            "조국",
+            "민주당",
+            "더불어민주당",
             "정청래",
             "이해찬",
-            "대표",
-            "위원",
-            "의혹"
+            "대통령",
+            "간담회",
+            "총리",
+            "혁신",
+            "공동",
+            "인터뷰",
+            "제안"
         ],
         "keyword_frequency": [
             {
-                "text": "사무총장",
+                "text": "합당",
                 "value": 34
             },
             {
-                "text": "민주당",
-                "value": 29
+                "text": "대표",
+                "value": 33
             },
             {
-                "text": "제명",
+                "text": "사무총장",
                 "value": 28
             },
             {
+                "text": "조국",
+                "value": 24
+            },
+            {
+                "text": "민주당",
+                "value": 22
+            },
+            {
                 "text": "더불어민주당",
-                "value": 25
+                "value": 22
             },
             {
-                "text": "탈당",
-                "value": 23
+                "text": "정청래",
+                "value": 17
             },
             {
-                "text": "합당",
-                "value": 21
+                "text": "이해찬",
+                "value": 17
             },
             {
-                "text": "자진",
-                "value": 18
-            },
-            {
-                "text": "공천",
-                "value": 16
-            },
-            {
-                "text": "김병기",
-                "value": 16
+                "text": "대통령",
+                "value": 15
             },
             {
                 "text": "간담회",
                 "value": 14
             },
             {
-                "text": "정청래",
+                "text": "총리",
                 "value": 13
             },
             {
-                "text": "이해찬",
-                "value": 13
+                "text": "혁신",
+                "value": 12
             },
             {
-                "text": "대표",
+                "text": "공동",
                 "value": 11
             },
             {
-                "text": "위원",
-                "value": 11
+                "text": "인터뷰",
+                "value": 9
             },
             {
-                "text": "의혹",
-                "value": 11
+                "text": "제안",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:47.290155",
+        "last_analyzed_at": "2026-01-30T23:36:18.163230",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                7,
-                3,
-                2,
-                0,
                 0,
                 4,
-                10
+                10,
+                3,
+                6,
+                3,
+                2
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd4138b0cf4096976bdd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738943?sid=100",
+            "created_at": "2026-01-30T23:16:33.546000",
+            "description": "황운하 조국혁신당 국회의원은 29일 BBS '금태섭의 아침저널' 인터뷰에서 민주당과의 합당에 관해 \"조국 대표가 공동 대표로 참여해야만 당의 독자적인 가치·비전 등이 유지될 수 있다\"고 말했다. 최근 민주당 내부에서... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495637",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T05:00:00",
+            "related_members": [
+                "80C5885Z",
+                "0YT3774N",
+                "FYI20317"
+            ],
+            "title": "민주·조국혁신당 '합당론' 신경전 이어져…'조국 공동대표론'도 등장"
+        },
+        {
+            "_id": "697cbd6638b0cf4096976d07",
+            "link": "https://n.news.naver.com/mnews/article/382/0001251845?sid=102",
+            "created_at": "2026-01-30T23:17:10.486000",
+            "description": "조승래 국회의원(대전 유성구갑·더불어민주당)이 지난해 대표 발의한 ‘국민체육진흥법’ 및 ‘공연법’ 일부개정안이 지난 29일 국회 본회의를 통과했다. 이번 개정안은 입장권 부정판매에 대한 기준과 처벌을 대폭... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260130/133262363/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-30T03:20:00",
+            "related_members": [
+                "FYI20317"
+            ],
+            "title": "조승래 의원, 암표 처벌 강화 법안 본회의 가결 이끌어"
+        },
+        {
+            "_id": "697cbd2138b0cf4096976ae2",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
+            "created_at": "2026-01-30T23:16:01.469000",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-29T20:30:00",
+            "related_members": [
+                "6VC83722",
+                "7YL9580G",
+                "MLH1404S",
+                "8Q88373R",
+                "NX534083",
+                "XBT9550Q",
+                "K5F2023J",
+                "EH27538E",
+                "FYI20317",
+                "8SV6917G",
+                "0YT3774N"
+            ],
+            "title": "與김현정 \"합당, 당내서 핵폭탄급 문제로 터져...공동대표? 정치적 관점..."
+        },
+        {
+            "_id": "697cbd2138b0cf4096976ae3",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307758?sid=100",
+            "created_at": "2026-01-30T23:16:01.469000",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601291934537352",
+            "press": "YTN",
+            "pubDate": "2026-01-29T19:34:00",
+            "related_members": [
+                "6VC83722",
+                "7YL9580G",
+                "MLH1404S",
+                "8Q88373R",
+                "NX534083",
+                "XBT9550Q",
+                "K5F2023J",
+                "EH27538E",
+                "FYI20317",
+                "8SV6917G",
+                "0YT3774N"
+            ],
+            "title": "與김현정 \"합당, 당내서 핵폭탄급 문제로 터져...공동대표? 정치적 관점..."
+        },
+        {
+            "_id": "697cbd3e38b0cf4096976bc7",
+            "link": "https://n.news.naver.com/mnews/article/023/0003955989?sid=100",
+            "created_at": "2026-01-30T23:16:30.238000",
+            "description": "조국혁신당 황운하 의원이 29일 “더불어민주당과 합당시 조국 조국혁신당 대표가 정청래 민주당 대표와... 그러면서 “조국 대표는 지방선거 단체장 후보보다는 보궐선거를 통해 국회로 들어와야 한다”라며 “지금까지... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/01/29/XWECTSZHXVH2HCHCWTLB2NBZFA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-29T16:22:00",
+            "related_members": [
+                "0YT3774N",
+                "2385336L",
+                "MDC3257K",
+                "FYI20317"
+            ],
+            "title": "황운하 “합당시 정청래·조국 공동대표”... 조국 “매우 부적절 발언..."
+        },
+        {
+            "_id": "697cbd1838b0cf4096976a2a",
+            "link": "https://n.news.naver.com/mnews/article/015/0005243303?sid=100",
+            "created_at": "2026-01-30T23:15:52.531000",
+            "description": "한병도 원내대표와 이언주·강득구·이성윤·문정복·황명선 최고위원, 조승래 사무총장 등 당 지도부도 이른... 반기문 전 유엔 사무총장과 정몽준 전 국회의원 등도 이날 오전 서울 종로구 서울대병원 장례식장에 마련된... ",
+            "originallink": "https://www.hankyung.com/article/2026012878537",
+            "press": "한국경제",
+            "pubDate": "2026-01-28T12:12:00",
+            "related_members": [
+                "GOC54665",
+                "H5476989",
+                "FYI20317",
+                "N2P9317N",
+                "RJH6314D",
+                "8P37634C",
+                "JG77046J"
+            ],
+            "title": "이해찬 전 총리 빈소 이틀째…야당 인사들도 조문"
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a95",
+            "link": "https://n.news.naver.com/mnews/article/056/0012113892?sid=100",
+            "created_at": "2026-01-30T23:15:57.183000",
+            "description": "얘기를 조승래 사무총장이 한 것과 관련해서 우리를 마치 흡수 합당하는 것처럼 그런 발언이 나오는 건 좀... 수도 국회의원 수가 부족해서 전력을 다해서 똘똘 뭉쳐서 함께 가도 사실 대응하기가 굉장히 힘든 상황인데... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8470953&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-28T10:11:00",
+            "related_members": [
+                "C7E79345",
+                "HRG9655C",
+                "FYI20317"
+            ],
+            "title": "[전격시사] 국회 비준 vs 특별법 입법 (권칠승) “일방적 팩트시트, 비준..."
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a96",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107106&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-30T23:15:57.183000",
+            "description": "21대, 22대 국회의원으로 당선이 됐고. 지난 전당대회 때 당 지도부 최고위원으로 선출이 됐습니다. 경기지사... 추미애 의원, 한준호 의원도 있고, 권칠승 의원도 있고요. 현역 의원 7명이 자격 심사 받고 있어요? ◇ 김병주... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107106&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-28T09:00:00",
+            "related_members": [
+                "C7E79345",
+                "BCQ55105",
+                "URV1689Q",
+                "MLH1404S",
+                "GF286398",
+                "FYI20317"
+            ],
+            "title": "김병주 \"김민석, 현실에 집중하는 스타일.. 당 대표보다는 총리 업무 올..."
+        },
+        {
+            "_id": "697cbd4138b0cf4096976bdf",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107105&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-30T23:16:33.547000",
+            "description": "◆ 김영수 : 이재명 대통령이 성남시장 거처 경기도지사, 국회의원, 대통령까지 오르는 모습을 쭉... 지금 조승래 사무총장 혹은 서왕진 의원 사이에 오간 설전이 이 국면으로 넘어가고 있다는 것을 보여주는 겁니다.... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107105&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-28T08:00:00",
+            "related_members": [
+                "80C5885Z",
+                "FYI20317",
+                "3ZR4438W"
+            ],
+            "title": "우상호 \"민간인 결혼할 때도 다툼 생겨… 설전 접고 ‘물밑 접촉’할 때..."
+        },
+        {
+            "_id": "697cbd4138b0cf4096976be0",
+            "link": "https://n.news.naver.com/mnews/article/052/0002306958?sid=100",
+            "created_at": "2026-01-30T23:16:33.547000",
+            "description": "◆ 김영수 : 이재명 대통령이 성남시장 거처 경기도지사, 국회의원, 대통령까지 오르는 모습을 쭉... 지금 조승래 사무총장 혹은 서왕진 의원 사이에 오간 설전이 이 국면으로 넘어가고 있다는 것을 보여주는 겁니다.... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601280743372157",
+            "press": "YTN",
+            "pubDate": "2026-01-28T07:43:00",
+            "related_members": [
+                "80C5885Z",
+                "FYI20317",
+                "3ZR4438W"
+            ],
+            "title": "우상호 \"민간인 결혼할 때도 다툼 생겨... 설전 접고 '물밑 접촉'할 때\""
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a97",
+            "link": "https://n.news.naver.com/mnews/article/052/0002306959?sid=100",
+            "created_at": "2026-01-30T23:15:57.183000",
+            "description": "21대, 22대 국회의원으로 당선이 됐고. 지난 전당대회 때 당 지도부 최고위원으로 선출이 됐습니다. 경기지사... 추미애 의원, 한준호 의원도 있고, 권칠승 의원도 있고요. 현역 의원 7명이 자격 심사 받고 있어요? ◇ 김병주... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601280743416537",
+            "press": "YTN",
+            "pubDate": "2026-01-28T07:43:00",
+            "related_members": [
+                "C7E79345",
+                "BCQ55105",
+                "URV1689Q",
+                "MLH1404S",
+                "GF286398",
+                "FYI20317"
+            ],
+            "title": "김병주 \"김민석, 현실에 집중하는 스타일.. 당 대표보다는 총리 업무 올..."
+        },
+        {
+            "_id": "697cbd5538b0cf4096976c9b",
+            "link": "https://n.news.naver.com/mnews/article/437/0000475564?sid=100",
+            "created_at": "2026-01-30T23:16:52.916000",
+            "description": "그 이유로 한국 국회가 합의를 이행하지 않았다라고 했거든요. [한민수/더불어민주당 의원 : 일단 저도 깜짝 놀랐습니다. 놀랐고 인천공항에 있다가 그런 속보를 보고 저희들끼리 정책위의장도 계셨기 때문에 이게 무슨... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12282079?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-27T18:47:00",
+            "related_members": [
+                "8JG4358H",
+                "JG77046J",
+                "FYI20317"
+            ],
+            "title": "[더in터뷰] 한민수 \"합당 제안이 연임용? 성립 안 돼…지선 승리 위해 뛸..."
+        },
+        {
+            "_id": "697cbd2438b0cf4096976afa",
+            "link": "https://n.news.naver.com/mnews/article/003/0013733210?sid=100",
+            "created_at": "2026-01-30T23:16:04.511000",
+            "description": "김부겸 전 국무총리와 추미애 전 법무부 장관, 한명숙 전 총리, 유시민 전 노무현재단 이사장 등도 빈소를... 참여정부 국무총리를 지낸 이 수석부의장은 국회의원과 주요 공직을 두루 거친 정치계 원로로 한국 정치의... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003492026",
+            "press": "뉴시스",
+            "pubDate": "2026-01-27T15:33:00",
+            "related_members": [
+                "XBT9550Q",
+                "M0A1658U",
+                "MLH1404S",
+                "XSP20229",
+                "URV1689Q",
+                "FYI20317",
+                "IN328264"
+            ],
+            "title": "이해찬 전 국무총리 빈소… 범여권 인사들 조문행렬 [뉴시스Pic]"
+        },
+        {
+            "_id": "697cbd2438b0cf4096976afb",
+            "link": "https://n.news.naver.com/mnews/article/003/0013732136?sid=100",
+            "created_at": "2026-01-30T23:16:04.511000",
+            "description": "김부겸 전 국무총리와 민주당 소속 추미애 전 법무부 장관 등도 빈소를 찾아 고인을 기렸다. 장례는 이날부터... 참여정부 국무총리를 지낸 이 수석부의장은 국회의원과 주요 공직을 두루 거친 정치계 원로로 한국 정치의... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003491406",
+            "press": "뉴시스",
+            "pubDate": "2026-01-27T10:28:00",
+            "related_members": [
+                "MLH1404S",
+                "XBT9550Q",
+                "XSP20229",
+                "2385336L",
+                "M0A1658U",
+                "TJW93720",
+                "5TQ6306B",
+                "URV1689Q",
+                "FYI20317"
+            ],
+            "title": "이해찬 전 총리 시신 서울대병원 빈소 도착…정청래 대표 상주"
+        },
+        {
             "_id": "6976fd108459600028998034",
             "link": "https://n.news.naver.com/mnews/article/052/0002305879?sid=100",
             "created_at": "2026-01-26T14:35:10.423000",
-            "description": "저희 당에서 5번 공천을 받았고 현직 당협위원장이었으며 3번을 국회의원을 하고 제3당의 당대표까지 하셨던... 어제 조승래 사무총장기자들과 만나 민주당이라는 큰 생명체 안에서 혁신당의 DNA도 잘 섞이게 될 것이란 말을... ",
+            "description": "저희 당에서 5번 공천을 받았고 현직 당협위원장이었으며 3번을 국회의원을 하고 제3당의 당대표까지 하셨던... 지금 말씀해 주신 지방선거에서 지분과 관련해서 박근혜 전 대통령의 최측근인 유영하 의원의 대구시장... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601261232341101",
             "press": "YTN",
             "pubDate": "2026-01-26T12:32:00",
@@ -177,7 +422,7 @@
             "link": "https://n.news.naver.com/mnews/article/079/0004108923?sid=100",
             "created_at": "2026-01-26T14:34:27.877000",
             "description": "국회의원들을 자기 편으로 만들겠다, 그래서 중앙위원들까지 포섭해서 당 대표 연임하겠다는 그런 계획이 있는 것 같습니다. 그것뿐만 아니라 전 대통령실의 입장도 분명히 합당을 원한다고 생각을 해요. 왜냐하면 천하람... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6461661?utm_source=naver&utm_medium=article&utm_campaign=20260126113658",
+            "originallink": "https://www.nocutnews.co.kr/news/6461661?utm_source=naver&utm_medium=article&utm_campaign=20260129014141",
             "press": "노컷뉴스",
             "pubDate": "2026-01-26T11:37:00",
             "related_members": [
@@ -192,13 +437,13 @@
                 "FYI20317",
                 "YGB8604T"
             ],
-            "title": "[정치맛집]\"조국혁신당에 손 내민 정청래의 진짜 속내는?\""
+            "title": "\"조국혁신당에 손 내민 정청래의 진짜 속내는?\"[정치맛집]"
         },
         {
             "_id": "6976fcec8459600028997f47",
             "link": "https://n.news.naver.com/mnews/article/016/0002590976?sid=100",
             "created_at": "2026-01-26T14:34:33.543000",
-            "description": "대표와 한병도 원내대표를 비롯한 최고위원들이 26일 국회에서 열린 최고위원회의에서 이해찬 전... 1952년생으로 7선 국회의원을 지낸 이 전 총리는 1973년 박정희 대통령 유신체제에 맞선 민주화운동을 시작으로... ",
+            "description": "1952년생으로 7선 국회의원을 지낸 이 전 총리는 1973년 박정희 대통령 유신체제에 맞선 민주화운동을... 정 대표는 전날 제주상공회의소에서 열린 청솔포럼 비전 선포식 강연을 마친 직후 한민수 당대표 비서실장으로부터... ",
             "originallink": "https://biz.heraldcorp.com/article/10662723?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-26T11:31:00",
@@ -217,7 +462,7 @@
             "_id": "6976fcec8459600028997f48",
             "link": "https://n.news.naver.com/mnews/article/016/0002590865?sid=100",
             "created_at": "2026-01-26T14:34:33.543000",
-            "description": "1952년생으로 7선 국회의원을 지낸 이 전 총리는 1973년 박정희 대통령 유신체제에 맞선 민주화운동을... 정청래 더불어민주당 대표와 한병도 원내대표를 비롯한 최고위원들이 26일 국회에서 열린 최고위원회의에서 이해찬... ",
+            "description": "1952년생으로 7선 국회의원을 지낸 이 전 총리는 1973년 박정희 대통령 유신체제에 맞선 민주화운동을... 정 대표는 전날 제주상공회의소에서 열린 청솔포럼 비전 선포식 강연을 마친 직후 한민수 당대표 비서실장으로부터... ",
             "originallink": "https://biz.heraldcorp.com/article/10662581?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-26T10:40:00",
@@ -304,7 +549,7 @@
             "_id": "6976fce58459600028997f01",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107051&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-26T14:34:26.716000",
-            "description": "강득구 최고위원, 황명선 최고위원이요. 합당 제안과 관련해서 이언주 의원은 ‘이재명 대통령과의 교감... ◇ 이건태 : 국민의힘에서 세 번이나 국회의원을 하신 분이잖아요? 그러면 국회의원들은 비교적 자기 관리가... ",
+            "description": "◇ 이건태 : 국민의힘에서 세 번이나 국회의원을 하신 분이잖아요? 그러면 국회의원들은 비교적 자기 관리가 국민의 눈높이에 맞는, 자기 관리가 잘 된 분들입니다. 그래서 인사청문회에서 국회의원들은 많은 분들이... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107051&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-26T08:30:00",
@@ -322,7 +567,7 @@
             "_id": "6976fce58459600028997f02",
             "link": "https://n.news.naver.com/mnews/article/052/0002305740?sid=100",
             "created_at": "2026-01-26T14:34:26.716000",
-            "description": "강득구 최고위원, 황명선 최고위원이요. 합당 제안과 관련해서 이언주 의원은 '이재명 대통령과의 교감... ◇ 이건태 : 국민의힘에서 세 번이나 국회의원을 하신 분이잖아요? 그러면 국회의원들은 비교적 자기 관리가... ",
+            "description": "◇ 이건태 : 국민의힘에서 세 번이나 국회의원을 하신 분이잖아요? 그러면 국회의원들은 비교적 자기 관리가 국민의 눈높이에 맞는, 자기 관리가 잘 된 분들입니다. 그래서 인사청문회에서 국회의원들은 많은 분들이... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601260746073988",
             "press": "YTN",
             "pubDate": "2026-01-26T07:46:00",
@@ -434,210 +679,6 @@
                 "BCQ55105"
             ],
             "title": "[사사건건] 8일 만에 장동혁 단식 중단…출구 전략은 박 전 대통령?"
-        },
-        {
-            "_id": "6972d2398459600028997827",
-            "link": "https://n.news.naver.com/mnews/article/028/0002787551?sid=102",
-            "created_at": "2026-01-23T10:43:19.831000",
-            "description": "실시와 국회의원의 지역위원장 겸직 금지 등 개혁안을 촉구했다. 경실련은 “이번 사태의 발단이 된 2022년... 특히 지난 8일 조승래 더불어민주당 사무총장이 공직선거법 공소시효 만료를 이유로 공천 관련 자료를... ",
-            "originallink": "https://www.hani.co.kr/arti/society/society_general/1240886.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-21T13:40:00",
-            "related_members": [
-                "FYI20317"
-            ],
-            "title": "경실련 “민주당 공천 헌금 의혹, ‘휴먼 에러’ 아닌 구조적 문제”"
-        },
-        {
-            "_id": "6972d2398459600028997828",
-            "link": "https://n.news.naver.com/mnews/article/366/0001137510?sid=102",
-            "created_at": "2026-01-23T10:43:19.831000",
-            "description": "경실련은 조승래 민주당 사무총장이 “선거법 공소시효가 지나 모든 자료를 파기해 전수조사가... 몸통인 ‘국회의원 겸직’ 구조를 깨지 않는 한 백약이 무효하다”고 했다. 경실련은 민주당이 공천비리 의혹... ",
-            "originallink": "https://biz.chosun.com/topics/topics_social/2026/01/21/CPCOFXIGSBB33LJRP2ZA3XIXVI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-21T13:33:00",
-            "related_members": [
-                "FYI20317"
-            ],
-            "title": "경실련 “민주당 공천비리 의혹, 독립기구 만들어 전수조사해야”"
-        },
-        {
-            "_id": "6972d2398459600028997829",
-            "link": "https://n.news.naver.com/mnews/article/421/0008725646?sid=102",
-            "created_at": "2026-01-23T10:43:19.831000",
-            "description": "이들은 또 지난 8일 조승래 민주당 사무총장이 \"선거법 공소시효가 지나 모든 자료를 관행적으로 파기해... 단체는 \"문제의 본질은 국회의원이 당연직으로 지역위원장을 겸직하며 공천권을 사유화하는 것\"이라면서 \"공천... ",
-            "originallink": "https://www.news1.kr/society/incident-accident/6045329",
-            "press": "뉴스1",
-            "pubDate": "2026-01-21T10:30:00",
-            "related_members": [
-                "FYI20317"
-            ],
-            "title": "경실련 \"與 공천헌금 의혹, 독립기구 만들어 전수조사해야\""
-        },
-        {
-            "_id": "69701275297082fcc2b34d6a",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108313?sid=100",
-            "created_at": "2026-01-21T08:40:35.729000",
-            "description": "정당법상 국회의원을 당에서 내보내려면 의총 등에서 소속 의원 절반이 동의해야하는데, 동료 의원들 손에... [조승래/더불어민주당 사무총장 : \"탈당하지 않고는 의총에서 제명 의결을 피할 방법이 없습니다. 그 점에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463550&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-20T09:34:00",
-            "related_members": [
-                "8Q88373R",
-                "FYI20317"
-            ],
-            "title": "버티던 김병기, 제명 처분 일주일 만에 자진 탈당"
-        },
-        {
-            "_id": "69701269297082fcc2b34d46",
-            "link": "https://n.news.naver.com/mnews/article/448/0000584749?sid=100",
-            "created_at": "2026-01-21T08:40:24.006000",
-            "description": "\" 정당법상 국회의원 제명엔 소속 정당 의원 과반 동의가 필요합니다. 3선 중진에 원내대표까지 지낸 김... 앞서 이춘석 의원 땐 다음 날, 강선우 의원 땐 당일에 탈당 뒤 최고위의 제명 의결이 이뤄졌습니다. TV조선... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/20/2026012090011.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-20T07:40:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "V2R7430Z",
-                "FYI20317"
-            ],
-            "title": "김병기, 재심 포기 이어 '자진 탈당'…복당 염두에 두고 '제명 확정' 피..."
-        },
-        {
-            "_id": "6970122e297082fcc2b34c1f",
-            "link": "https://n.news.naver.com/mnews/article/079/0004106806?sid=100",
-            "created_at": "2026-01-21T08:39:24.994000",
-            "description": "정당법상 국회의원의 제명은 당 소속 의원들의 2분의 1 이상 찬성을 받아야 한다고 합니다. 그래서 지금... 권영세 의원이나 성일종 의원이 이거 정치적으로 해결하자. 징계 철회하고 대신 한동훈 사과하고 정리하자고... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6458683?utm_source=naver&utm_medium=article&utm_campaign=20260120070044",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-20T07:01:00",
-            "related_members": [
-                "LG63087O",
-                "KFM1081G",
-                "7XY7109I",
-                "4019850M",
-                "AEJ19639",
-                "MNZ4401T",
-                "8Q88373R",
-                "FYI20317"
-            ],
-            "title": "노영희 \"한동훈, 장동혁 옆에서 함께 단식했어야\"[한판승부]"
-        },
-        {
-            "_id": "6970124b297082fcc2b34cda",
-            "link": "https://n.news.naver.com/mnews/article/055/0001325738?sid=100",
-            "created_at": "2026-01-21T08:39:53.711000",
-            "description": "현행 정당법은 국회의원을 제명할 땐 소속 의원 과반이 찬성해야 한다고 규정하고 있습니다. 현역 의원인 김... 반드시 의원총회를 거쳐야 하는 만큼, 결국 탈당으로 선회한 걸로 보입니다. [조승래/민주당 사무총장... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410327&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-20T06:19:00",
-            "related_members": [
-                "8BF5855P",
-                "FYI20317"
-            ],
-            "title": "\"의혹 해소하고 돌아오겠다\"…자진 탈당"
-        },
-        {
-            "_id": "69701275297082fcc2b34d6b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108239?sid=100",
-            "created_at": "2026-01-21T08:40:35.729000",
-            "description": "정당법상 국회의원을 당에서 내보내려면 의총 등에서 소속 의원 절반이 동의해야하는데, 동료 의원들 손에... [조승래/더불어민주당 사무총장 : \"탈당하지 않고는 의총에서 제명 의결을 피할 방법이 없습니다. 그 점에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463351&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-20T06:15:00",
-            "related_members": [
-                "8Q88373R",
-                "FYI20317"
-            ],
-            "title": "버티던 김병기, 제명 처분 일주일 만에 자진 탈당"
-        },
-        {
-            "_id": "69701275297082fcc2b34d6c",
-            "link": "https://n.news.naver.com/mnews/article/023/0003954002?sid=100",
-            "created_at": "2026-01-21T08:40:35.729000",
-            "description": "김 의원은 이날 국회에서 기자회견을 열고 “저로 인해 당 안에 이견이 생기고 동료들에게 조금이라도 마음에... 그러나 김 의원은 기자회견 3시간여 만에 입장을 바꾸고 탈당계를 제출했다. 조승래 사무총장은 “정당법상... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2026/01/20/ANRQ7EG265D2ZOSJIXDQDBZFHE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-20T00:49:00",
-            "related_members": [
-                "8Q88373R",
-                "FYI20317"
-            ],
-            "title": "김병기, 제명 결정 일주일만에 자진 탈당"
-        },
-        {
-            "_id": "6970124b297082fcc2b34cdb",
-            "link": "https://n.news.naver.com/mnews/article/055/0001325705?sid=100",
-            "created_at": "2026-01-21T08:39:53.711000",
-            "description": "현행 정당법은 국회의원을 제명할 땐 소속 의원 과반이 찬성해야 한다고 규정하고 있습니다. 현역 의원인 김... 반드시 의원총회를 거쳐야 하는 만큼, 결국 탈당으로 선회한 걸로 보입니다. [조승래/민주당 사무총장... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008410250&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-20T00:24:00",
-            "related_members": [
-                "8BF5855P",
-                "FYI20317"
-            ],
-            "title": "'의원총회' 피할 수 없게 되자…결국 자진 탈당"
-        },
-        {
-            "_id": "69701275297082fcc2b34d6d",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108194?sid=100",
-            "created_at": "2026-01-21T08:40:35.729000",
-            "description": "정당법상 국회의원을 당에서 내보내려면 의총 등에서 소속 의원 절반이 동의해야하는데, 동료 의원들 손에... [조승래/더불어민주당 : \"사무총장 탈당하지 않고는 의총에서 제명 의결을 피할 방법이 없습니다. 그 점에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463275&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-19T23:04:00",
-            "related_members": [
-                "8Q88373R",
-                "FYI20317"
-            ],
-            "title": "버티던 김병기, 제명 처분 일주일 만에 자진 탈당"
-        },
-        {
-            "_id": "69701269297082fcc2b34d47",
-            "link": "https://n.news.naver.com/mnews/article/003/0013719082?sid=100",
-            "created_at": "2026-01-21T08:40:24.006000",
-            "description": "이춘석 의원에 대해서도 같은 조치를 취했다. 김 의원은 앞서 이날 오전 기자회견을 열고 윤리심판원 제명 조치에 재심을 신청하지 않겠다며 최고위를 통해 최종 결정을 내려 달라고 요청한 바 있다. 그러나 민주당은 국회... ",
-            "originallink": "https://www.newsis.com/view/NISX20260119_0003482534",
-            "press": "뉴시스",
-            "pubDate": "2026-01-19T21:28:00",
-            "related_members": [
-                "8Q88373R",
-                "V2R7430Z",
-                "FYI20317"
-            ],
-            "title": "與윤심원, '탈당' 김병기 사후 제명…추후 복당심사시 반영"
-        },
-        {
-            "_id": "69701275297082fcc2b34d6e",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108039?sid=100",
-            "created_at": "2026-01-21T08:40:35.729000",
-            "description": "정당법상 국회의원을 당에서 내보내려면 의총 등에서 소속 의원 절반이 동의해야하는데, 동료 의원들 손에... [조승래/더불어민주당 사무총장 : \"탈당하지 않고는 의총에서 제명 의결을 피할 방법이 없습니다. 그 점에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463087&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-19T21:10:00",
-            "related_members": [
-                "8Q88373R",
-                "FYI20317"
-            ],
-            "title": "버티던 김병기, 제명 처분 일주일 만에 자진 탈당"
-        },
-        {
-            "_id": "69701269297082fcc2b34d48",
-            "link": "https://n.news.naver.com/mnews/article/448/0000584715?sid=100",
-            "created_at": "2026-01-21T08:40:24.006000",
-            "description": "그런데, 현행법상 국회의원 제명엔 의원총회 의결이 필요한데, 왜 이런 요구를 했을까요? 전정원 기자가... 앞서 이춘석 의원 땐 다음 날, 강선우 의원 땐 당일에 탈당 뒤 최고위의 제명 의결이 이뤄졌습니다. TV조선... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/19/2026011990275.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-19T21:06:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "V2R7430Z",
-                "FYI20317"
-            ],
-            "title": "김병기, 재심 포기 이어 '자진 탈당'…복당 염두에 두고 '제명 확정' 피..."
         }
     ],
     "recent_videos": [
@@ -662,13 +703,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc4e",
-            "url": "https://www.youtube.com/watch?v=8_bBMmW0WQs",
+            "_id": "6960adfa631fd1743497dc4d",
+            "url": "https://www.youtube.com/watch?v=fI-3GRP45E8",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-18T13:20:42.761000",
-            "duration": 85.0,
-            "title": "계엄부터 탄핵까지 조승래 수석대변인의 기록",
+            "collected_at": "2026-01-30T23:32:50.186000",
+            "duration": 1103.0,
+            "title": "인터뷰 릴레이 칭찬 285회 조승래 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -682,23 +723,23 @@
             "upload_date": null
         },
         {
-            "_id": "69659712887d07f7ba2fae57",
-            "url": "https://www.youtube.com/watch?v=22XmejAOteM",
+            "_id": "69659712887d07f7ba2fae58",
+            "url": "https://www.youtube.com/watch?v=3d_VmHkuZjE",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:26.374000",
-            "duration": 2920.0,
-            "title": "180201 [CMB] 김영진의 집대성 49회 (조승래 국회의원 편)",
+            "collected_at": "2026-01-30T23:32:50.186000",
+            "duration": 932.0,
+            "title": "180419 [국회방송] 생방송 파워인터뷰 오늘_조승래 의원 방송 인터뷰 영상",
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc4f",
-            "url": "https://www.youtube.com/watch?v=mvASCGTClOI",
+            "_id": "6960adfa631fd1743497dc51",
+            "url": "https://www.youtube.com/watch?v=wzhj8BgcnRE",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:27.136000",
-            "duration": 1228.0,
-            "title": "조승래 더불어민주당 사무총장 기자간담회 - [끝까지LIVE] MBC 중계방송 2025년 12월 07일",
+            "collected_at": "2026-01-09T16:27:51.855000",
+            "duration": 1033.0,
+            "title": "[다시보기] 민주당 조승래 \"시도당위원장 공천 기구 참여 배제시킬 것\"-1월 8일 (목) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
         },
         {
@@ -712,13 +753,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc4b",
-            "url": "https://www.youtube.com/watch?v=DNt0puT7RV8",
+            "_id": "6960adfa631fd1743497dc4a",
+            "url": "https://www.youtube.com/watch?v=bvlbmuvEUDY",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:26.374000",
-            "duration": 583.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 조승래 의원(더불어민주당)",
+            "collected_at": "2026-01-18T13:20:42.761000",
+            "duration": 81.0,
+            "title": "조승래 국회의원, 더불어민주당 사무총장 임명!",
             "upload_date": null
         },
         {
@@ -732,13 +773,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc4d",
-            "url": "https://www.youtube.com/watch?v=fI-3GRP45E8",
+            "_id": "6960adfa631fd1743497dc4e",
+            "url": "https://www.youtube.com/watch?v=8_bBMmW0WQs",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:26.374000",
-            "duration": 1103.0,
-            "title": "인터뷰 릴레이 칭찬 285회 조승래 의원(더불어민주당)",
+            "collected_at": "2026-01-18T13:20:42.761000",
+            "duration": 85.0,
+            "title": "계엄부터 탄핵까지 조승래 수석대변인의 기록",
             "upload_date": null
         },
         {
@@ -752,23 +793,23 @@
             "upload_date": null
         },
         {
-            "_id": "69659712887d07f7ba2fae58",
-            "url": "https://www.youtube.com/watch?v=3d_VmHkuZjE",
+            "_id": "69659712887d07f7ba2fae57",
+            "url": "https://www.youtube.com/watch?v=22XmejAOteM",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
             "collected_at": "2026-01-23T16:49:26.374000",
-            "duration": 932.0,
-            "title": "180419 [국회방송] 생방송 파워인터뷰 오늘_조승래 의원 방송 인터뷰 영상",
+            "duration": 2920.0,
+            "title": "180201 [CMB] 김영진의 집대성 49회 (조승래 국회의원 편)",
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc51",
-            "url": "https://www.youtube.com/watch?v=wzhj8BgcnRE",
+            "_id": "6960adfa631fd1743497dc50",
+            "url": "https://www.youtube.com/watch?v=fzHpQ2RDsr0",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-09T16:27:51.855000",
-            "duration": 1033.0,
-            "title": "[다시보기] 민주당 조승래 \"시도당위원장 공천 기구 참여 배제시킬 것\"-1월 8일 (목) 풀영상 [이슈현장] / JTBC News",
+            "collected_at": "2026-01-23T16:49:27.136000",
+            "duration": 3153.0,
+            "title": "조승래 민주당 사무총장 기자간담회  - [끝까지LIVE] MBC 중계방송 2025년 11월 30일",
             "upload_date": null
         },
         {
@@ -786,7 +827,7 @@
             "url": "https://www.youtube.com/watch?v=4ovFK-fcIMI",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:26.374000",
+            "collected_at": "2026-01-30T23:32:50.186000",
             "duration": 840.0,
             "title": "171219 [NATV 생방송 오늘]  조승래 국회의원",
             "upload_date": null
@@ -806,29 +847,29 @@
             "url": "https://www.youtube.com/watch?v=UCrhAtvNaWRA0Wg9c9U2dFew",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:26.374000",
+            "collected_at": "2026-01-30T23:32:50.186000",
             "duration": null,
             "title": "조승래TV",
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc4a",
-            "url": "https://www.youtube.com/watch?v=bvlbmuvEUDY",
+            "_id": "6960adfa631fd1743497dc4b",
+            "url": "https://www.youtube.com/watch?v=DNt0puT7RV8",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-18T13:20:42.761000",
-            "duration": 81.0,
-            "title": "조승래 국회의원, 더불어민주당 사무총장 임명!",
+            "collected_at": "2026-01-30T23:32:50.186000",
+            "duration": 583.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 조승래 의원(더불어민주당)",
             "upload_date": null
         },
         {
-            "_id": "6960adfa631fd1743497dc50",
-            "url": "https://www.youtube.com/watch?v=fzHpQ2RDsr0",
+            "_id": "6960adfa631fd1743497dc4f",
+            "url": "https://www.youtube.com/watch?v=mvASCGTClOI",
             "HG_NM": "조승래",
             "MONA_CD": "FYI20317",
-            "collected_at": "2026-01-23T16:49:27.136000",
-            "duration": 3153.0,
-            "title": "조승래 민주당 사무총장 기자간담회  - [끝까지LIVE] MBC 중계방송 2025년 11월 30일",
+            "collected_at": "2026-01-30T23:32:51.775000",
+            "duration": 1228.0,
+            "title": "조승래 더불어민주당 사무총장 기자간담회 - [끝까지LIVE] MBC 중계방송 2025년 12월 07일",
             "upload_date": null
         },
         {
@@ -842,5 +883,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:47.290155"
+    "exported_at": "2026-01-30T23:36:18.163230"
 }

@@ -44,19 +44,19 @@
         "keywords": [
             "노무현",
             "대통령",
-            "이혜훈",
-            "김어준",
-            "최민희",
             "곽상",
+            "김어준",
+            "이혜훈",
             "저격",
+            "최민희",
             "정신",
             "사위",
-            "반발",
             "민주당",
             "국민",
-            "지명",
-            "언급",
-            "뉴스트라다무스"
+            "반발",
+            "이해찬",
+            "민주",
+            "더불어민주당"
         ],
         "keyword_frequency": [
             {
@@ -68,23 +68,23 @@
                 "value": 15
             },
             {
+                "text": "곽상",
+                "value": 15
+            },
+            {
+                "text": "김어준",
+                "value": 14
+            },
+            {
                 "text": "이혜훈",
                 "value": 12
             },
             {
-                "text": "김어준",
-                "value": 12
+                "text": "저격",
+                "value": 10
             },
             {
                 "text": "최민희",
-                "value": 11
-            },
-            {
-                "text": "곽상",
-                "value": 11
-            },
-            {
-                "text": "저격",
                 "value": 10
             },
             {
@@ -96,58 +96,124 @@
                 "value": 10
             },
             {
+                "text": "민주당",
+                "value": 9
+            },
+            {
+                "text": "국민",
+                "value": 8
+            },
+            {
                 "text": "반발",
                 "value": 8
             },
             {
-                "text": "민주당",
-                "value": 7
-            },
-            {
-                "text": "국민",
-                "value": 7
-            },
-            {
-                "text": "지명",
+                "text": "이해찬",
                 "value": 6
             },
             {
-                "text": "언급",
+                "text": "민주",
                 "value": 6
             },
             {
-                "text": "뉴스트라다무스",
+                "text": "더불어민주당",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:10.798207",
+        "last_analyzed_at": "2026-01-30T23:35:41.084337",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
                 0,
+                1,
                 0,
-                0,
-                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd1b38b0cf4096976a69",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738819?sid=100",
+            "created_at": "2026-01-30T23:15:55.585000",
+            "description": "이외에도 국민의힘 이철규·이달희·김태호 의원 등이 빈소를 찾았다. 오는 30일에는 장동혁 대표와 송언석... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄수한 뒤 오전 11시께 서울 추모공원에서 화장을 하고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495839",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T21:03:00",
+            "related_members": [
+                "N2P9317N",
+                "B7D7534L",
+                "FIE6569O",
+                "MLH1404S",
+                "2385336L",
+                "ROS6754L",
+                "TZP9391O",
+                "6EN68926",
+                "KFM1081G",
+                "P0F1530P",
+                "SLW27496"
+            ],
+            "title": "故 이해찬 장례 사흘차에 여야 추모 발길…野 지도부도 내일 조문(종합..."
+        },
+        {
+            "_id": "697cbd1b38b0cf4096976a6a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738179?sid=100",
+            "created_at": "2026-01-30T23:15:55.585000",
+            "description": "차분한 분위기 속에 장례가 이어진 가운데, 곽상언·김영배·이성윤 민주당 의원, 김부겸 전 국무총리 등이... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄수한 뒤 오전 11시께 서울 추모공원에서 화장을 하고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495313",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T15:16:00",
+            "related_members": [
+                "SLW27496",
+                "N2P9317N",
+                "B7D7534L",
+                "FIE6569O"
+            ],
+            "title": "故 이해찬 장례 사흘차…나경원 \"민주당 가치에 가장 충실했던 분\""
+        },
+        {
+            "_id": "697cbd1b38b0cf4096976a6b",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628125?sid=100",
+            "created_at": "2026-01-30T23:15:55.585000",
+            "description": "또 권양숙 여사, 곽상언 민주당 의원뿐 아니라 안희정 전 충남지사, 추미애 민주당 의원, 한명숙 전 총리... 참여정부에서 국무총리를 지낸 이 전 총리는 국회의원과 주요 공직을 두루 거친 정치계 원로로 한국 정치의... ",
+            "originallink": "https://www.mk.co.kr/article/11944634",
+            "press": "매일경제",
+            "pubDate": "2026-01-27T16:59:00",
+            "related_members": [
+                "URV1689Q",
+                "2385336L",
+                "FIE6569O",
+                "MLH1404S",
+                "XSP20229",
+                "H5476989",
+                "B7D7534L",
+                "UQ282145",
+                "CCU1009B",
+                "YS38221N",
+                "XBT9550Q",
+                "UHB5553T",
+                "7YL9580G",
+                "M0A1658U",
+                "IN328264"
+            ],
+            "title": "여당 의원들 故 이해찬 조문 행렬…상주 역할은 정청래"
+        },
+        {
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -227,7 +293,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -390,13 +456,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6965950e887d07f7ba2fabaf",
-            "url": "https://www.youtube.com/watch?v=ICYGeNZwP9U",
+            "_id": "6965950e887d07f7ba2fabad",
+            "url": "https://www.youtube.com/watch?v=fbn0C4X9gGk",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.052000",
-            "duration": 86.0,
-            "title": "곽상언, 원내부대표 사임…\"탄핵 반발은 내란 시도\" 이재명 발언 반나절만｜지금 이 뉴스",
+            "collected_at": "2026-01-30T23:18:18.703000",
+            "duration": 132.0,
+            "title": "강성지지층 \"부엉이 바위에 오른 장인어른 곱씹어라\" 곽상언 집중포화 [MBN 뉴스7]",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbdac38b0cf4096976d5e",
+            "url": "https://www.youtube.com/watch?v=JQMw_Q_T1Y0",
+            "HG_NM": "곽상언",
+            "MONA_CD": "FIE6569O",
+            "collected_at": "2026-01-30T23:18:20.102000",
+            "duration": 1773.0,
+            "title": "총리실 \"선 넘었다\"에도 귓등?...다시보는 곽상언 '김어준 직격' [이슈PLAY] / JTBC News",
             "upload_date": null
         },
         {
@@ -404,7 +480,7 @@
             "url": "https://www.youtube.com/watch?v=1ehcWAgjjJo",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.807000",
+            "collected_at": "2026-01-30T23:18:20.102000",
             "duration": 18791.0,
             "title": "곽상언, 김어준 '공개 저격' 역린 건드렸다? 공천은... [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -414,9 +490,19 @@
             "url": "https://www.youtube.com/watch?v=fOLiRhh1wJM",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.052000",
+            "collected_at": "2026-01-30T23:18:18.703000",
             "duration": 138.0,
             "title": "최민희 ‘노무현 정신’ 언급에 곽상언 반발…국민의힘 “고발 하겠다” / KBS  2025.10.29.",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee01887d07f7ba2fb35c",
+            "url": "https://www.youtube.com/watch?v=-cXEPlOryqg",
+            "HG_NM": "곽상언",
+            "MONA_CD": "FIE6569O",
+            "collected_at": "2026-01-14T10:14:41.158000",
+            "duration": 194.0,
+            "title": "[더불어민주당 곽상언 국회의원 후보 유세송] 질풍가도 #종로구",
             "upload_date": null
         },
         {
@@ -444,7 +530,7 @@
             "url": "https://www.youtube.com/watch?v=hw7enc7BLE8",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.052000",
+            "collected_at": "2026-01-30T23:18:18.703000",
             "duration": 93.0,
             "title": "노무현 사위 곽상언,'노무현 정신' 언급한 최민희 직격 [자막뉴스] / 채널A",
             "upload_date": null
@@ -460,16 +546,6 @@
             "upload_date": null
         },
         {
-            "_id": "6966ee01887d07f7ba2fb35c",
-            "url": "https://www.youtube.com/watch?v=-cXEPlOryqg",
-            "HG_NM": "곽상언",
-            "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-14T10:14:41.158000",
-            "duration": 194.0,
-            "title": "[더불어민주당 곽상언 국회의원 후보 유세송] 질풍가도 #종로구",
-            "upload_date": null
-        },
-        {
             "_id": "6965950e887d07f7ba2fabb0",
             "url": "https://www.youtube.com/watch?v=0-ax5mcGXSg",
             "HG_NM": "곽상언",
@@ -480,13 +556,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abb7631fd1743497d37e",
-            "url": "https://www.youtube.com/watch?v=SxThdDNNdlQ",
+            "_id": "6960abb7631fd1743497d37c",
+            "url": "https://www.youtube.com/watch?v=UCHmBMimjBdm4AwWkuCAML_Q",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.807000",
-            "duration": 104.0,
-            "title": "\"격분한 의원이 유튜브 권력\"…곽상언 \"유튜브 따르고 존중하는 신앙 가져\"｜지금 이 뉴스",
+            "collected_at": "2026-01-30T23:18:18.703000",
+            "duration": null,
+            "title": "곽상언TV",
             "upload_date": null
         },
         {
@@ -500,13 +576,13 @@
             "upload_date": null
         },
         {
-            "_id": "6965950e887d07f7ba2fabad",
-            "url": "https://www.youtube.com/watch?v=fbn0C4X9gGk",
+            "_id": "6965950e887d07f7ba2fabaf",
+            "url": "https://www.youtube.com/watch?v=ICYGeNZwP9U",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
             "collected_at": "2026-01-23T16:39:45.052000",
-            "duration": 132.0,
-            "title": "강성지지층 \"부엉이 바위에 오른 장인어른 곱씹어라\" 곽상언 집중포화 [MBN 뉴스7]",
+            "duration": 86.0,
+            "title": "곽상언, 원내부대표 사임…\"탄핵 반발은 내란 시도\" 이재명 발언 반나절만｜지금 이 뉴스",
             "upload_date": null
         },
         {
@@ -514,19 +590,19 @@
             "url": "https://www.youtube.com/watch?v=fTvJHPGkJeQ",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.807000",
+            "collected_at": "2026-01-30T23:18:18.703000",
             "duration": 105.0,
             "title": "\"특정인 생각 따르는 게 민주적 결정이냐\"…곽상언 \"유튜브 권력이 정치권력 휘둘러\"｜지금 이 뉴스",
             "upload_date": null
         },
         {
-            "_id": "6960abb7631fd1743497d37d",
-            "url": "https://www.youtube.com/watch?v=FqpzYEFUEPk",
+            "_id": "6960abb7631fd1743497d382",
+            "url": "https://www.youtube.com/watch?v=nxtAnzPzi74",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.052000",
-            "duration": 99.0,
-            "title": "'노무현 사위' 곽상언, 최민희 저격 \"그건 노무현 정신 아냐\" (자막뉴스) / SBS",
+            "collected_at": "2026-01-30T23:18:20.102000",
+            "duration": 140.0,
+            "title": "최민희 ‘노무현 정신’ 언급에 곽상언 반발…국민의힘 “고발 하겠다” [9시 뉴스] / KBS  2025.10.28.",
             "upload_date": null
         },
         {
@@ -540,35 +616,35 @@
             "upload_date": null
         },
         {
-            "_id": "6960abb7631fd1743497d37c",
-            "url": "https://www.youtube.com/watch?v=UCHmBMimjBdm4AwWkuCAML_Q",
-            "HG_NM": "곽상언",
-            "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.052000",
-            "duration": null,
-            "title": "곽상언TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abb7631fd1743497d382",
-            "url": "https://www.youtube.com/watch?v=nxtAnzPzi74",
-            "HG_NM": "곽상언",
-            "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.807000",
-            "duration": 140.0,
-            "title": "최민희 ‘노무현 정신’ 언급에 곽상언 반발…국민의힘 “고발 하겠다” [9시 뉴스] / KBS  2025.10.28.",
-            "upload_date": null
-        },
-        {
             "_id": "6960abb7631fd1743497d380",
             "url": "https://www.youtube.com/watch?v=f1cUnM8_Aqg",
             "HG_NM": "곽상언",
             "MONA_CD": "FIE6569O",
-            "collected_at": "2026-01-23T16:39:45.807000",
+            "collected_at": "2026-01-30T23:18:20.102000",
             "duration": 42898.0,
             "title": "[뉴스쏙] '축의금 논란' 최민희 \"다시 노무현 정신 무장\"…곽상언 \"엿장수 마음?\"  / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
+        },
+        {
+            "_id": "6960abb7631fd1743497d37e",
+            "url": "https://www.youtube.com/watch?v=SxThdDNNdlQ",
+            "HG_NM": "곽상언",
+            "MONA_CD": "FIE6569O",
+            "collected_at": "2026-01-30T23:18:20.102000",
+            "duration": 104.0,
+            "title": "\"격분한 의원이 유튜브 권력\"…곽상언 \"유튜브 따르고 존중하는 신앙 가져\"｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abb7631fd1743497d37d",
+            "url": "https://www.youtube.com/watch?v=FqpzYEFUEPk",
+            "HG_NM": "곽상언",
+            "MONA_CD": "FIE6569O",
+            "collected_at": "2026-01-30T23:18:18.703000",
+            "duration": 99.0,
+            "title": "'노무현 사위' 곽상언, 최민희 저격 \"그건 노무현 정신 아냐\" (자막뉴스) / SBS",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:10.798207"
+    "exported_at": "2026-01-30T23:35:41.084337"
 }

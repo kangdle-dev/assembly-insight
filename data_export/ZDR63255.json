@@ -59,23 +59,23 @@
             "시민",
             "비하",
             "인터뷰",
+            "의정",
+            "보고회",
+            "반영",
             "베네수엘라",
             "군사",
             "작전",
-            "완화",
-            "반영",
-            "민주당",
-            "미국",
-            "국제"
+            "국제",
+            "평화"
         ],
         "keyword_frequency": [
             {
                 "text": "병훈",
-                "value": 34
+                "value": 38
             },
             {
                 "text": "더불어민주당",
-                "value": 6
+                "value": 7
             },
             {
                 "text": "비서",
@@ -98,19 +98,11 @@
                 "value": 6
             },
             {
-                "text": "베네수엘라",
+                "text": "의정",
                 "value": 5
             },
             {
-                "text": "군사",
-                "value": 5
-            },
-            {
-                "text": "작전",
-                "value": 5
-            },
-            {
-                "text": "완화",
+                "text": "보고회",
                 "value": 5
             },
             {
@@ -118,36 +110,44 @@
                 "value": 4
             },
             {
-                "text": "민주당",
+                "text": "베네수엘라",
                 "value": 4
             },
             {
-                "text": "미국",
+                "text": "군사",
+                "value": 4
+            },
+            {
+                "text": "작전",
                 "value": 4
             },
             {
                 "text": "국제",
                 "value": 4
+            },
+            {
+                "text": "평화",
+                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:30.030553",
+        "last_analyzed_at": "2026-01-30T23:36:00.617104",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
-                0,
-                0,
                 1,
                 0,
-                1,
+                0,
+                0,
+                0,
                 0
             ]
         }
@@ -202,7 +202,7 @@
             "_id": "6976fcec8459600028997f4a",
             "link": "https://n.news.naver.com/mnews/article/003/0013727158?sid=100",
             "created_at": "2026-01-26T14:34:33.543000",
-            "description": "아울러 민주당에서 박해철·정진욱 의원이 역시 새로 합류하기로 했다. 김 의원은 \"노사정과 국회의 사회적 대화의 틀이 완성됐다\"고 평가했다. 권 차관은 이날 회의에서 \"정년 연장을 속도감 있게 풀어내야 할 것 같다\"며... ",
+            "description": "특위 간사인 김주영 의원은 23일 국회 본청 원내대표실에서 열린 제2차 본위원회의 이후 기자들과 만나 \"6개월... 이밖에 민주당에서 위원장인 소병훈 의원, 김남희·유동수 의원, 재계에서는 이동근 한국경영자총협회... ",
             "originallink": "https://www.newsis.com/view/NISX20260123_0003487871",
             "press": "뉴시스",
             "pubDate": "2026-01-23T13:15:00",
@@ -257,7 +257,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -337,7 +337,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -425,11 +425,21 @@
             "upload_date": null
         },
         {
+            "_id": "697cbf7538b0cf4096976e10",
+            "url": "https://www.youtube.com/watch?v=1E3p5ZCxYbI",
+            "HG_NM": "소병훈",
+            "MONA_CD": "ZDR63255",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 223.0,
+            "title": "2024 국회의원 소병훈 의정보고회",
+            "upload_date": null
+        },
+        {
             "_id": "697326f68459600028997a23",
             "url": "https://www.youtube.com/watch?v=9YR8GAVgytg",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.917000",
+            "collected_at": "2026-01-30T23:25:57.148000",
             "duration": 447.0,
             "title": "[국회의원 소병훈] OBS 뉴스M 전격인터뷰(2016. 9. 13.)",
             "upload_date": null
@@ -439,7 +449,7 @@
             "url": "https://www.youtube.com/watch?v=bS75aGMRLtw",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
+            "collected_at": "2026-01-30T23:25:55.541000",
             "duration": 247.0,
             "title": "[국회의원 소병훈] 인사청문회(김부겸 행자부 장관 후보자)_경찰위원회 (2017. 06. 14.)",
             "upload_date": null
@@ -469,7 +479,7 @@
             "url": "https://www.youtube.com/watch?v=XmvkqJ0bwr0",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.917000",
+            "collected_at": "2026-01-30T23:25:57.148000",
             "duration": 163.0,
             "title": "[뉴스줌인] 세금으로 월급받으면서…‘분신 시민 비하’ 소병훈 의원 비서 / KBS뉴스(News)",
             "upload_date": null
@@ -479,7 +489,7 @@
             "url": "https://www.youtube.com/watch?v=Wk2Yq1TWPq0",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.917000",
+            "collected_at": "2026-01-30T23:25:57.148000",
             "duration": 770.0,
             "title": "[표창원의 뉴스 하이킥] 종부세 완화 민주당 중론 아냐 - 소병훈 (국회의원 | 더불어민주당) | MBC 210423방송",
             "upload_date": null
@@ -489,7 +499,7 @@
             "url": "https://www.youtube.com/watch?v=-38GDCcBylc",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.917000",
+            "collected_at": "2026-01-30T23:25:57.148000",
             "duration": 126.0,
             "title": "종부세 완화에 잇따라 반발…소병훈 \"입 닥치길\" [MBN 종합뉴스]",
             "upload_date": null
@@ -499,39 +509,9 @@
             "url": "https://www.youtube.com/watch?v=q8cmv53C9K0",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.917000",
+            "collected_at": "2026-01-30T23:25:57.148000",
             "duration": 852.0,
             "title": "[국회의원 소병훈] YTN 뉴스통_소병훈 의원이 전하는 故 김군자 할머님의 삶(2017.07.25.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace8631fd1743497d850",
-            "url": "https://www.youtube.com/watch?v=bWnglqO4qp8",
-            "HG_NM": "소병훈",
-            "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
-            "duration": 515.0,
-            "title": "[국회의원 소병훈] 국회방송 300인의 희망인터뷰(2016. 8. 2.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace8631fd1743497d857",
-            "url": "https://www.youtube.com/watch?v=8XfJpa9XHH8",
-            "HG_NM": "소병훈",
-            "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
-            "duration": 203.0,
-            "title": "[국회의원 소병훈] 행안위 2018년도 업무보고 - 권력기관 내 성추행 문제(2018.02.01.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace8631fd1743497d852",
-            "url": "https://www.youtube.com/watch?v=D1Sw2c3lsuM",
-            "HG_NM": "소병훈",
-            "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
-            "duration": 265.0,
-            "title": "[국회의원 소병훈] 광주시 월남전참전자회 정기총회 축사 및 간담회(2018.01.20.)",
             "upload_date": null
         },
         {
@@ -539,39 +519,19 @@
             "url": "https://www.youtube.com/watch?v=UC9BK2KCPSPFUqCKrCX7EYHg",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
+            "collected_at": "2026-01-30T23:25:55.541000",
             "duration": null,
             "title": "소병훈TV",
             "upload_date": null
         },
         {
-            "_id": "6960ace8631fd1743497d854",
-            "url": "https://www.youtube.com/watch?v=gEzgIXrFRWk",
+            "_id": "6960ace8631fd1743497d857",
+            "url": "https://www.youtube.com/watch?v=8XfJpa9XHH8",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
-            "duration": 922.0,
-            "title": "[국회의원 소병훈] 국회방송 'TV, 도서관에 가다 - 내 인생의 책' (2016. 12. 9)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace8631fd1743497d853",
-            "url": "https://www.youtube.com/watch?v=ID2HcN5Jodk",
-            "HG_NM": "소병훈",
-            "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
-            "duration": 214.0,
-            "title": "[국회의원 소병훈] 본회의 교육·사회·문화분야 대정부질문 마무리발언(2016. 9. 23.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace8631fd1743497d851",
-            "url": "https://www.youtube.com/watch?v=BxwNoR2m0_c",
-            "HG_NM": "소병훈",
-            "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
-            "duration": 1454.0,
-            "title": "국회의원25시_282회 소병훈 의원 편[2017.03.22]",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 203.0,
+            "title": "[국회의원 소병훈] 행안위 2018년도 업무보고 - 권력기관 내 성추행 문제(2018.02.01.)",
             "upload_date": null
         },
         {
@@ -589,11 +549,61 @@
             "url": "https://www.youtube.com/watch?v=65ezEde-nf0",
             "HG_NM": "소병훈",
             "MONA_CD": "ZDR63255",
-            "collected_at": "2026-01-23T16:44:51.138000",
+            "collected_at": "2026-01-30T23:25:55.541000",
             "duration": 277.0,
             "title": "[국회의원 소병훈] 제20대 국회 개원 2주년 기념 - 국회의원 소병훈 주요 정책질의 및 정책질의 반영결과(2018.05.30.수)",
             "upload_date": null
+        },
+        {
+            "_id": "6960ace8631fd1743497d854",
+            "url": "https://www.youtube.com/watch?v=gEzgIXrFRWk",
+            "HG_NM": "소병훈",
+            "MONA_CD": "ZDR63255",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 922.0,
+            "title": "[국회의원 소병훈] 국회방송 'TV, 도서관에 가다 - 내 인생의 책' (2016. 12. 9)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ace8631fd1743497d853",
+            "url": "https://www.youtube.com/watch?v=ID2HcN5Jodk",
+            "HG_NM": "소병훈",
+            "MONA_CD": "ZDR63255",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 214.0,
+            "title": "[국회의원 소병훈] 본회의 교육·사회·문화분야 대정부질문 마무리발언(2016. 9. 23.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ace8631fd1743497d852",
+            "url": "https://www.youtube.com/watch?v=D1Sw2c3lsuM",
+            "HG_NM": "소병훈",
+            "MONA_CD": "ZDR63255",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 265.0,
+            "title": "[국회의원 소병훈] 광주시 월남전참전자회 정기총회 축사 및 간담회(2018.01.20.)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ace8631fd1743497d851",
+            "url": "https://www.youtube.com/watch?v=BxwNoR2m0_c",
+            "HG_NM": "소병훈",
+            "MONA_CD": "ZDR63255",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 1454.0,
+            "title": "국회의원25시_282회 소병훈 의원 편[2017.03.22]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ace8631fd1743497d850",
+            "url": "https://www.youtube.com/watch?v=bWnglqO4qp8",
+            "HG_NM": "소병훈",
+            "MONA_CD": "ZDR63255",
+            "collected_at": "2026-01-30T23:25:55.541000",
+            "duration": 515.0,
+            "title": "[국회의원 소병훈] 국회방송 300인의 희망인터뷰(2016. 8. 2.)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:30.030553"
+    "exported_at": "2026-01-30T23:36:00.617627"
 }

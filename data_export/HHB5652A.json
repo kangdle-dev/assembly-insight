@@ -45,35 +45,47 @@
             "허성",
             "지역",
             "위원장",
+            "경남",
             "보고회",
+            "창원",
+            "더불어민주당",
             "교육",
             "선거",
             "위원회",
-            "경남",
-            "더불어민주당",
+            "성산",
             "마산",
             "인구",
             "감소",
-            "의정",
-            "성산",
-            "발의"
+            "의정"
         ],
         "keyword_frequency": [
             {
                 "text": "허성",
-                "value": 30
+                "value": 40
             },
             {
                 "text": "지역",
-                "value": 24
+                "value": 30
             },
             {
                 "text": "위원장",
                 "value": 22
             },
             {
+                "text": "경남",
+                "value": 19
+            },
+            {
                 "text": "보고회",
                 "value": 19
+            },
+            {
+                "text": "창원",
+                "value": 18
+            },
+            {
+                "text": "더불어민주당",
+                "value": 18
             },
             {
                 "text": "교육",
@@ -88,11 +100,7 @@
                 "value": 16
             },
             {
-                "text": "경남",
-                "value": 16
-            },
-            {
-                "text": "더불어민주당",
+                "text": "성산",
                 "value": 15
             },
             {
@@ -110,39 +118,70 @@
             {
                 "text": "의정",
                 "value": 13
-            },
-            {
-                "text": "성산",
-                "value": 12
-            },
-            {
-                "text": "발의",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:52.612725",
+        "last_analyzed_at": "2026-01-30T23:36:23.496033",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 1,
                 2,
                 0,
                 0,
+                0,
                 1,
-                2,
-                0
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd7138b0cf4096976d43",
+            "link": "https://n.news.naver.com/mnews/article/003/0013740314?sid=102",
+            "created_at": "2026-01-30T23:17:21.455000",
+            "description": "더불어민주당 허성무 국회의원(창원시 성산구)이 30일 오전 한국지엠 경남 창원공장 연수관에서 열린 금속노조 한국지엠지부 창원지회와 간담회에 참석하고 있다. (사진=허성무 의원실 제공). 2026.01..30... ",
+            "originallink": "https://www.newsis.com/view/NISI20260130_0002052563",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T15:02:00",
+            "related_members": [
+                "HHB5652A"
+            ],
+            "title": "한국지엠지부 창원지회 간담회 참석한 허성무 의원"
+        },
+        {
+            "_id": "697cbd7138b0cf4096976d42",
+            "link": "https://n.news.naver.com/mnews/article/003/0013740313?sid=102",
+            "created_at": "2026-01-30T23:17:21.454000",
+            "description": "더불어민주당 허성무 국회의원(창원시 성산구)이 30일 오전 한국지엠 경남 창원공장 연수관에서 열린 금속노조 한국지엠지부 창원지회와 간담회에 참석해 기념촬영을 하고 있다. (사진=허성무 의원실 제공)... ",
+            "originallink": "https://www.newsis.com/view/NISI20260130_0002052562",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T15:02:00",
+            "related_members": [
+                "HHB5652A"
+            ],
+            "title": "한국지엠지부 창원지회 간담회 참석한 허성무 의원"
+        },
+        {
+            "_id": "697cbd7138b0cf4096976d44",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738846?sid=102",
+            "created_at": "2026-01-30T23:17:21.455000",
+            "description": "허성무(경남 창원성산) 국회의원이 29일 더불어민주당 경남도당 대회의실에서 ‘지역공공은행특별법 제정과 대안 시민토론회’ 를 개최했다. 이번 토론회는 지역 자금이 수도권으로 유출되는 구조적 한계를 극복하고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495870",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T22:02:00",
+            "related_members": [
+                "HHB5652A"
+            ],
+            "title": "허성무 의원 \"지역소멸 막을 '지역공공은행특별법' 필요\""
+        },
         {
             "_id": "6976fced8459600028997f58",
             "link": "https://n.news.naver.com/mnews/article/079/0004108758?sid=102",
@@ -463,13 +502,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6968b288297082fcc2b1916d",
-            "url": "https://www.youtube.com/watch?v=kj2ObJ0dT5k",
+            "_id": "6968b288297082fcc2b1916c",
+            "url": "https://www.youtube.com/watch?v=oLbAzUfI8Ro",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:50.609000",
-            "duration": 586.0,
-            "title": "[생중계] 허성무 더불어민주당 의원 정치 현안 관련 기자회견 (2025.10.29 오후)",
+            "collected_at": "2026-01-30T23:34:50.736000",
+            "duration": 1884.0,
+            "title": "경남도당 당원교육강좌5화  허성무 국회의원",
             "upload_date": null
         },
         {
@@ -477,7 +516,7 @@
             "url": "https://www.youtube.com/watch?v=uPyNi6K3fpw",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:49.903000",
+            "collected_at": "2026-01-30T23:34:50.736000",
             "duration": 105.0,
             "title": "허성무 창원시장, 주요현안 해결 위해 ‘고군분투’ [채널e뉴스]",
             "upload_date": null
@@ -497,7 +536,7 @@
             "url": "https://www.youtube.com/watch?v=Y4sWjnMtG0c",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-18T13:22:15.152000",
+            "collected_at": "2026-01-30T23:34:50.736000",
             "duration": 1464.0,
             "title": "[포커스 경남] 170화 : 허성무 국회의원ㅣMBC경남 260116 방송",
             "upload_date": null
@@ -517,7 +556,7 @@
             "url": "https://www.youtube.com/watch?v=P5dBGhfB_-s",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:50.609000",
+            "collected_at": "2026-01-30T23:34:52.135000",
             "duration": 2632.0,
             "title": "[뉴스파다] 윤석열 대통령 취임 1주년 평가, 코인 논란 김남국 탈당,,, 이준석(국민의힘 전 대표), 허성무(전 창원시장) 전격 출연!! | 20230515 월요일",
             "upload_date": null
@@ -527,7 +566,7 @@
             "url": "https://www.youtube.com/watch?v=xC43FePNkF8",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:50.609000",
+            "collected_at": "2026-01-30T23:34:52.135000",
             "duration": 2933.0,
             "title": "[뉴스파다] 이준석 & 허성무 콤비 재접선!! 집시법과 노란봉투법 그리고 日오염수 시찰단 마무리 평가..!│20230529 월요일",
             "upload_date": null
@@ -553,23 +592,23 @@
             "upload_date": null
         },
         {
-            "_id": "6968b288297082fcc2b1916c",
-            "url": "https://www.youtube.com/watch?v=oLbAzUfI8Ro",
+            "_id": "6968b288297082fcc2b1916d",
+            "url": "https://www.youtube.com/watch?v=kj2ObJ0dT5k",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:49.903000",
-            "duration": 1884.0,
-            "title": "경남도당 당원교육강좌5화  허성무 국회의원",
+            "collected_at": "2026-01-30T23:34:52.135000",
+            "duration": 586.0,
+            "title": "[생중계] 허성무 더불어민주당 의원 정치 현안 관련 기자회견 (2025.10.29 오후)",
             "upload_date": null
         },
         {
-            "_id": "6960ae4b631fd1743497dd84",
-            "url": "https://www.youtube.com/watch?v=ITQrWqjhouU",
+            "_id": "6960ae4b631fd1743497dd83",
+            "url": "https://www.youtube.com/watch?v=UC1Uv1G_oRszxGry7D6O2U2w",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-14T10:25:14.641000",
-            "duration": 135.0,
-            "title": "에너지 문제는 현실입니다 #더불어민주당 #허성무 #뉴스버스",
+            "collected_at": "2026-01-30T23:34:50.736000",
+            "duration": null,
+            "title": "허성무 TV",
             "upload_date": null
         },
         {
@@ -577,7 +616,7 @@
             "url": "https://www.youtube.com/watch?v=Iy0w_FiYTi8",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:49.903000",
+            "collected_at": "2026-01-30T23:34:50.736000",
             "duration": 254.0,
             "title": "[국회는지금]\"지역 산단은 대한민국의 미래\" 허성무 국회의원",
             "upload_date": null
@@ -603,33 +642,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae4b631fd1743497dd85",
-            "url": "https://www.youtube.com/watch?v=WoBEzRIAFU4",
-            "HG_NM": "허성무",
-            "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-14T10:25:14.641000",
-            "duration": 67.0,
-            "title": "허성무 PK 중도층 표심 잡기 총력전!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ae4b631fd1743497dd83",
-            "url": "https://www.youtube.com/watch?v=UC1Uv1G_oRszxGry7D6O2U2w",
-            "HG_NM": "허성무",
-            "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:49.903000",
-            "duration": null,
-            "title": "허성무 TV",
-            "upload_date": null
-        },
-        {
             "_id": "6960ae4b631fd1743497dd88",
             "url": "https://www.youtube.com/watch?v=e78LX9egHyI",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
-            "collected_at": "2026-01-23T16:50:50.609000",
+            "collected_at": "2026-01-30T23:34:52.135000",
             "duration": 619.0,
             "title": "연합뉴스TV 뉴스메이커 허성무 시장 인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae4b631fd1743497dd87",
+            "url": "https://www.youtube.com/watch?v=xP-8Lfg2bSM",
+            "HG_NM": "허성무",
+            "MONA_CD": "HHB5652A",
+            "collected_at": "2026-01-14T10:25:14.641000",
+            "duration": 81.0,
+            "title": "허성무 \"정부 실정에도 PK 박빙... 샤이 보수 막판 결집 우려\"",
             "upload_date": null
         },
         {
@@ -643,15 +672,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae4b631fd1743497dd87",
-            "url": "https://www.youtube.com/watch?v=xP-8Lfg2bSM",
+            "_id": "6960ae4b631fd1743497dd85",
+            "url": "https://www.youtube.com/watch?v=WoBEzRIAFU4",
             "HG_NM": "허성무",
             "MONA_CD": "HHB5652A",
             "collected_at": "2026-01-14T10:25:14.641000",
-            "duration": 81.0,
-            "title": "허성무 \"정부 실정에도 PK 박빙... 샤이 보수 막판 결집 우려\"",
+            "duration": 67.0,
+            "title": "허성무 PK 중도층 표심 잡기 총력전!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae4b631fd1743497dd84",
+            "url": "https://www.youtube.com/watch?v=ITQrWqjhouU",
+            "HG_NM": "허성무",
+            "MONA_CD": "HHB5652A",
+            "collected_at": "2026-01-14T10:25:14.641000",
+            "duration": 135.0,
+            "title": "에너지 문제는 현실입니다 #더불어민주당 #허성무 #뉴스버스",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:52.612725"
+    "exported_at": "2026-01-30T23:36:23.496112"
 }

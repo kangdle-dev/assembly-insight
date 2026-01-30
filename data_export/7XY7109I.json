@@ -54,105 +54,314 @@
         "keywords": [
             "통합",
             "충남",
-            "국민",
-            "성일",
             "대전",
-            "일종",
-            "대표",
-            "정부",
+            "국민",
+            "특별법",
             "행정",
-            "서산",
             "발의",
-            "장동",
-            "제명",
+            "일종",
+            "선거",
+            "성일",
+            "민주당",
             "법안",
-            "경제"
+            "이날",
+            "정부",
+            "술수"
         ],
         "keyword_frequency": [
             {
                 "text": "통합",
-                "value": 34
+                "value": 60
             },
             {
                 "text": "충남",
-                "value": 31
-            },
-            {
-                "text": "국민",
-                "value": 26
-            },
-            {
-                "text": "성일",
-                "value": 26
+                "value": 51
             },
             {
                 "text": "대전",
-                "value": 26
+                "value": 41
+            },
+            {
+                "text": "국민",
+                "value": 36
+            },
+            {
+                "text": "특별법",
+                "value": 29
+            },
+            {
+                "text": "행정",
+                "value": 27
+            },
+            {
+                "text": "발의",
+                "value": 27
             },
             {
                 "text": "일종",
                 "value": 22
             },
             {
-                "text": "대표",
-                "value": 15
+                "text": "선거",
+                "value": 21
             },
             {
-                "text": "정부",
-                "value": 15
+                "text": "성일",
+                "value": 21
             },
             {
-                "text": "행정",
-                "value": 15
-            },
-            {
-                "text": "서산",
-                "value": 14
-            },
-            {
-                "text": "발의",
-                "value": 14
-            },
-            {
-                "text": "장동",
-                "value": 14
-            },
-            {
-                "text": "제명",
-                "value": 12
+                "text": "민주당",
+                "value": 19
             },
             {
                 "text": "법안",
-                "value": 10
+                "value": 18
             },
             {
-                "text": "경제",
-                "value": 9
+                "text": "이날",
+                "value": 16
+            },
+            {
+                "text": "정부",
+                "value": 16
+            },
+            {
+                "text": "술수",
+                "value": 14
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:29.916148",
+        "last_analyzed_at": "2026-01-30T23:36:00.501200",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                2,
-                2,
-                2,
-                0,
                 1,
                 2,
-                1
+                1,
+                0,
+                2,
+                0,
+                13
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd4338b0cf4096976be3",
+            "link": "https://n.news.naver.com/mnews/article/020/0003693837?sid=100",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "더불어민주당 천준호 원내운영수석부대표는 이날 국회에 ‘충남대전통합특별시 설치 및... 국민의힘 성일종 의원은 국회에서 기자회견을 열고 “무늬만 지방분권 시대를 지속하며 행정통합을 선거에 이용만 하겠다는... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133266668/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-30T20:32:00",
+            "related_members": [
+                "7XY7109I",
+                "A494529E"
+            ],
+            "title": "민주 ‘충남·대전’ ‘전남·광주’, 국힘 ‘대구·경북’ 행정통합 특..."
+        },
+        {
+            "_id": "697cbd4338b0cf4096976be4",
+            "link": "https://n.news.naver.com/mnews/article/003/0013740709?sid=102",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "민주당 한병도 원내대표 등은 이날 '충남대전특별시 설치 및 경제과학국방중심도시 특별법안'을 국회... 법안 내용과 관련해 이정문 더불어민주당 충남도당위원장(천안병 국회의원)은 \"그간 길지 않은 시간이었음에도... ",
+            "originallink": "https://www.newsis.com/view/NISX20260130_0003497302",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T17:53:00",
+            "related_members": [
+                "O0I2045I",
+                "7XY7109I",
+                "H5476989"
+            ],
+            "title": "충남도, 충남·대전 통합 특별법 관련 '공식입장 자제' 움직임"
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a71",
+            "link": "https://n.news.naver.com/mnews/article/009/0005630081?sid=100",
+            "created_at": "2026-01-30T23:15:55.874000",
+            "description": "이들 법안이 2월 임시국회에서 처리되면 당장 이번 6·3 지방선거에서부터 단체장을 1명만 뽑게 된다. 천준호... 국민의힘 경북도당 위원장인 구자근 의원과 대구시당 위원장인 이인선 의원은 이날 국회 의안과에 대구·경북... ",
+            "originallink": "https://www.mk.co.kr/article/11948708",
+            "press": "매일경제",
+            "pubDate": "2026-01-30T17:53:00",
+            "related_members": [
+                "7469929V",
+                "DWK26447",
+                "JEZ3130Q",
+                "6U243644",
+                "RAJ1024Z",
+                "7XY7109I",
+                "A494529E"
+            ],
+            "title": "與, 충남대전·전남광주 특별법 발의 … 野도 TK통합 추진"
+        },
+        {
+            "_id": "697cbd4338b0cf4096976be5",
+            "link": "https://n.news.naver.com/mnews/article/056/0012115918?sid=100",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "더불어민주당이 발의한 충남·대전, 전남·광주 행정통합 특별법을 두고 충남 서산·태안이 지역구인 국민의힘 성일종 의원이 “국민을 속이는 선거용 술수”라고 비판했습니다. 성 의원은 오늘(30일) 국회 기자회견에서... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473575&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-30T17:41:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "국민의힘 성일종, 민주당 지역통합특별법에 “국민 속이는 선거용 술수..."
+        },
+        {
+            "_id": "697cbd4338b0cf4096976be6",
+            "link": "https://n.news.naver.com/mnews/article/003/0013740657?sid=102",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "앞서 국민의힘 특별법안을 대표발의한 성일종(서산·태안) 의원도 이날 국회서 기자회견을 열고 \"민주당이 발의한 법안에는 중앙정부에 예속된 채로 남지 말고 통합을 통해 지방정부의 자치권과 재정독립을 이뤄내는... ",
+            "originallink": "https://www.newsis.com/view/NISX20260130_0003497267",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T17:30:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "국힘 대전시당 \"민주당 대전충남 통합법은 숫자쇼\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976be7",
+            "link": "https://n.news.naver.com/mnews/article/057/0001932940?sid=100",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "성일종 국민의힘 의원이 오늘(30일) 더불어민주당이 당론으로 발의한 행정통합 특별법에 대해 \"행정통합을... 성 의원은 이날 오후 국회 소통관에서 기자회견을 열고 충남대전통합특별법안과 전남광주통합특별법안에... ",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5172614",
+            "press": "매일경제",
+            "pubDate": "2026-01-30T16:41:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "성일종 \"민주당 발의 행정통합법안은 선거용 술수…조세권 이양해라\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976be8",
+            "link": "https://n.news.naver.com/mnews/article/055/0001328979?sid=100",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "▲ 국민의힘 성일종 의원이 30일 국회 소통관에서 더불어민주당이 이날 발의한 행정통합 법안 관련 철회를 촉구하고 있다. 국민의힘 성일종 의원(충남 서산·태안)은 더불어민주당의 대전·충남 행정통합 특별법에 대해... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008425044&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-30T16:39:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "성일종, 여당의 대전·충남 행정통합법에 \"무늬만 분권…선거용\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976be9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008745173?sid=100",
+            "created_at": "2026-01-30T23:16:34.846000",
+            "description": "천준호 민주당 원내수석부대표는 이날 두 법안을 제출한 뒤 기자들과 만나 \"가능한 한 빠르게, 설 연휴 전... 성일종 국민의힘 의원은 이날 국회에서 기자회견을 열고 민주당의 특별법에 대해 \"조세권 이양 없는 행정통합은... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6057074",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T16:21:00",
+            "related_members": [
+                "7XY7109I",
+                "A494529E"
+            ],
+            "title": "與 '전남광주'·'충남대전'-野 '대구경북'…앞다퉈 특별법 발의"
+        },
+        {
+            "_id": "697cbd3938b0cf4096976ba2",
+            "link": "https://n.news.naver.com/mnews/article/448/0000587360?sid=100",
+            "created_at": "2026-01-30T23:16:25.118000",
+            "description": "민주당 한병도 원내대표가 이날 대표 발의한 '충남대전특별시 설치 및 경제과학국방중심도시 특별법안'에... 이와 관련, 성일종 의원은 이날 국회 소통관에서 기자회견을 열고 \"무늬만 지방분권 시대를 지속하며... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/30/2026013090185.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-30T16:11:00",
+            "related_members": [
+                "7XY7109I",
+                "HVV5250J",
+                "4019850M",
+                "H5476989"
+            ],
+            "title": "與 대전·충남 통합안에 조세 이양 빠져…국힘 \"선거용 술수\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976bea",
+            "link": "https://n.news.naver.com/mnews/article/003/0013740537?sid=100",
+            "created_at": "2026-01-30T23:16:34.847000",
+            "description": "성일종 국민의힘 의원은 30일 더불어민주당이 발의한 대전·충남 통합 특별법을 두고 \"행정통합을 선거에... 충남 서산·태안 지역구인 성 의원은 이날 오후 국회에서 기자회견을 열고 \"민주당이 '충남대전통합특별시 설치 및... ",
+            "originallink": "https://www.newsis.com/view/NISX20260130_0003497083",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T16:08:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "성일종, 與 대전·충남 통합 특별법에 \"지방분권 포기 선언문\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976beb",
+            "link": "https://n.news.naver.com/mnews/article/079/0004110797?sid=102",
+            "created_at": "2026-01-30T23:16:34.847000",
+            "description": "성일종 의원은 이날 국회 소통관에서 기자회견을 열고 \"민주당이 발의한 충남대전통합특별시 설치 및 경제과학국방중심도시 조성을 위한 특별법과 전남광주특별시 설치를 위한 특별법은 지방자치와 지방분권을 완전히... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6464542?utm_source=naver&utm_medium=article&utm_campaign=20260130030112",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-30T15:02:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "통합법 발의했지만, 벌써부터 잡음…\"숙의 부실\", \"선거용 술수\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976bec",
+            "link": "https://n.news.naver.com/mnews/article/421/0008744864?sid=102",
+            "created_at": "2026-01-30T23:16:34.847000",
+            "description": "성일종 국민의힘 의원(충남 서산·태안)은 30일 더불어민주당이 발의한 행정통합 관련 법안을 두고 “조세권 이양 없는 행정통합은 국민을 속이는 선거용 술수”라고 강하게 비판했다. 국회 국방위원장인 성 의원은 이날... ",
+            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6056856",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T14:59:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "성일종 \"조세권 이양 없는 행정통합은 선거용 술수…국민 기만\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976bed",
+            "link": "https://n.news.naver.com/mnews/article/421/0008744751?sid=100",
+            "created_at": "2026-01-30T23:16:34.847000",
+            "description": "성일종 국민의힘 의원은 30일 더불어민주당이 전남광주·충남대전 통합특별법을 발의한 것과 관련, \"특례조항... 당 국회의원 44명과 함께 '대전 충남 특별시 설치 및 경제과학수도 조성을 위한 특별법안'을 대표발의한... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6056832",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T14:34:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "성일종 \"與 전남광주·충남대전 특별법, 국민 속이는 선거용 술수\""
+        },
+        {
+            "_id": "697cbd4338b0cf4096976bee",
+            "link": "https://n.news.naver.com/mnews/article/011/0004584051?sid=100",
+            "created_at": "2026-01-30T23:16:34.847000",
+            "description": "유용원 국민의힘 의원은 이날 국회에서 주최한 ‘한국형 핵추진잠수함 특별법 제정을 위한 긴급 토론회’... 국민의힘 소속 성일종 국회 국방위원장은 “토론회를 바탕으로 조만간 특별법이 발의되면 국방위에서 서둘러... ",
+            "originallink": "https://www.sedaily.com/article/20001902?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-28T17:26:00",
+            "related_members": [
+                "KBK8836C",
+                "7XY7109I"
+            ],
+            "title": "국힘 “대통령 직속 핵잠사업단 신설해야”"
+        },
+        {
+            "_id": "697cbd4338b0cf4096976bef",
+            "link": "https://n.news.naver.com/mnews/article/421/0008740152?sid=100",
+            "created_at": "2026-01-30T23:16:34.847000",
+            "description": "성일종 국회 국방위원장이 28일 서울 여의도 국회 의원회관에서 열린 '한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한 긴급토론회'에 참석해 구호를 외치고 있다. 2026.1.28/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7719938",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T16:01:00",
+            "related_members": [
+                "7XY7109I"
+            ],
+            "title": "한국형 핵추진잠수함 특별법 제정을 위해"
+        },
         {
             "_id": "6976fd0e8459600028998029",
             "link": "https://n.news.naver.com/mnews/article/003/0013730358?sid=102",
@@ -288,7 +497,7 @@
             "_id": "6970122a297082fcc2b34bec",
             "link": "https://n.news.naver.com/mnews/article/052/0002303497?sid=100",
             "created_at": "2026-01-21T08:39:21.164000",
-            "description": "국회의원에게 주어진 청문이라는 게 절차잖아요. 인사했느냐라는 게 법에 나와 있는 거 아니에요.... 이래도 신천지 특검을 거부하겠습니까? ] [성일종 / 국민의힘 의원 (MBC 라디오 '김종배의 시선집중') : 신천지는 민주당이... ",
+            "description": "전 국회의원 : 우리 당이 가장 절실하게 해야 하는 건 국민의 신뢰와 지지를 받아서 보수를 재건하는 것. 머리를 맞대고 해결책을 찾아야 할 때라고 생각합니다.] 의사 출신이죠. 서명옥 의원 이야기를 들으셨습니다마는.... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601202202097520",
             "press": "YTN",
             "pubDate": "2026-01-20T22:02:00",
@@ -313,7 +522,7 @@
             "_id": "6970122e297082fcc2b34c1f",
             "link": "https://n.news.naver.com/mnews/article/079/0004106806?sid=100",
             "created_at": "2026-01-21T08:39:24.994000",
-            "description": "정당법상 국회의원의 제명은 당 소속 의원들의 2분의 1 이상 찬성을 받아야 한다고 합니다. 그래서 지금... 권영세 의원이나 성일종 의원이 이거 정치적으로 해결하자. 징계 철회하고 대신 한동훈 사과하고 정리하자고... ",
+            "description": "정당법상 국회의원의 제명은 당 소속 의원들의 2분의 1 이상 찬성을 받아야 한다고 합니다. 그래서 지금... 실제로 권영세 의원이나 성일종 의원이 이거 정치적으로 해결하자. 징계 철회하고 대신 한동훈 사과하고... ",
             "originallink": "https://www.nocutnews.co.kr/news/6458683?utm_source=naver&utm_medium=article&utm_campaign=20260120070044",
             "press": "노컷뉴스",
             "pubDate": "2026-01-20T07:01:00",
@@ -399,232 +608,6 @@
                 "7XY7109I"
             ],
             "title": "“선물 걷어차는 꼴” vs “사탕발림 꼼수” … 대전·충남 행정통합, 여..."
-        },
-        {
-            "_id": "69701253297082fcc2b34cef",
-            "link": "https://n.news.naver.com/mnews/article/421/0008721984?sid=102",
-            "created_at": "2026-01-21T08:40:01.621000",
-            "description": "지난해 10월 대전·충남 행정통합 특별법안을 대표발의한 국민의힘 성일종 의원(충남 서산·태안)이 정부의 인센티브를 \"선심성 꼼수정책\"이라고 비판했다. 성 의원은 19일 국회 소통관에서 기자회견을 열고 \"행정통합의... ",
-            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6043584",
-            "press": "뉴스1",
-            "pubDate": "2026-01-19T14:31:00",
-            "related_members": [
-                "7XY7109I"
-            ],
-            "title": "성일종 “통합 핵심은 조세권 이양, 꼼수 지원으로 선거 이용 말라”"
-        },
-        {
-            "_id": "696c5c0e297082fcc2b19bb6",
-            "link": "https://n.news.naver.com/mnews/article/021/0002764461?sid=102",
-            "created_at": "2026-01-18T13:05:34.828000",
-            "description": "성일종 국민의힘 의원. 윤성호 기자 국회에서 열린 한 행사에서 성일종 국민의힘 의원의 뺨을 때린 70대 여성이 1심에서 실형을 선고받았다. 2일 법조계에 따르면 서울남부지법 형사10단독(김주완 판사)은 지난 8일... ",
-            "originallink": "https://www.munhwa.com/article/11561632?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-17T11:44:00",
-            "related_members": [
-                "7XY7109I"
-            ],
-            "title": "“성일종 의원님이시죠?” 느닷없이 뺨 때린 여성…징역 4개월"
-        },
-        {
-            "_id": "696c5c0e297082fcc2b19bb7",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786838?sid=102",
-            "created_at": "2026-01-18T13:05:34.828000",
-            "description": "앞서 성일종 국민의힘 의원이 국회에 발의한 ‘대전충남특별시 설치 및 경제과학수도 조성을 위한 특별법’에는 ‘교육감의 선출 방식을 다르게 운영할 수 있다’는 특례가 포함됐다. 자치단체장과 교육감을... ",
-            "originallink": "https://www.hani.co.kr/arti/society/schooling/1240133.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-16T13:56:00",
-            "related_members": [
-                "7XY7109I"
-            ],
-            "title": "행정통합 속도 내는데…교육감 선출·교육청 통합은 ‘오리무중’"
-        },
-        {
-            "_id": "696902da297082fcc2b19284",
-            "link": "https://n.news.naver.com/mnews/article/421/0008717199?sid=102",
-            "created_at": "2026-01-16T00:08:10.526000",
-            "description": "국회에서 성일종 국민의힘 의원의 뺨을 때린 70대 여성이 1심에서 징역형을 선고받았다. 15일 서울남부지법 형사10단독(김주완 판사)은 폭력행위 등 처벌에 관한 법률 위반(폭행재범) 혐의를 받는 박 모 씨에 대해 지난... ",
-            "originallink": "https://www.news1.kr/society/incident-accident/6040854",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T20:48:00",
-            "related_members": [
-                "7XY7109I"
-            ],
-            "title": "\"성일종 의원님이시죠?\" 뺨 때린 70대 여성 징역 4개월"
-        },
-        {
-            "_id": "696902da297082fcc2b19285",
-            "link": "https://n.news.naver.com/mnews/article/016/0002586516?sid=102",
-            "created_at": "2026-01-16T00:08:10.526000",
-            "description": "A씨는 지난해 9월 10일 서울 영등포구 국회의사당 의원회관 대회의실에서 열린 한국 유방암 환우단체 세미나에 참석했다. 이 행사를 주재한 국민의힘 소속 성일종 의원을 발견하고 “성일종 의원님이시죠?”라고 물은 뒤... ",
-            "originallink": "https://biz.heraldcorp.com/article/10656458?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-15T18:45:00",
-            "related_members": [
-                "7XY7109I"
-            ],
-            "title": "“성일종 의원님 맞으시죠?” 느닷없이 뺨 때린 70대 여성 ‘징역형’ ..."
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd0",
-            "link": "https://n.news.naver.com/mnews/article/055/0001324668?sid=100",
-            "created_at": "2026-01-15T18:04:04.184000",
-            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 송언석 원내대표가 있고 신동욱 수석 최고위원, 양양자 최고위원, 김민수 최고위원, 김재원 최고위원, 우재준... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405649&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-15T15:29:00",
-            "related_members": [
-                "LG63087O",
-                "KFM1081G",
-                "OWD1018N",
-                "DMP1439I",
-                "8UC4779G",
-                "6EN68926",
-                "4019850M",
-                "AEJ19639",
-                "7XY7109I",
-                "MSY7784L",
-                "8SV6917G"
-            ],
-            "title": "[여담야담] 전 윤리위 부위원장 전주혜 \"이 결정문으론 법원 통과 못한..."
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd1",
-            "link": "https://n.news.naver.com/mnews/article/079/0004105345?sid=100",
-            "created_at": "2026-01-15T18:04:04.184000",
-            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 김재섭(국민의힘 국회의원) ◇ 박성태&gt;국민의힘 상황이 말이... 중진 의원들이 계시고 실제로 권영세 전 비대위원장 같은 분들, 5선에 제가 알기로 조배숙 의원도 비슷한 말씀을... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6456612?utm_source=naver&utm_medium=article&utm_campaign=20260115101701",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-15T10:17:00",
-            "related_members": [
-                "LG63087O",
-                "KFM1081G",
-                "57B28032",
-                "86R9476S",
-                "7XY7109I",
-                "QWL7778X",
-                "IWK63872"
-            ],
-            "title": "김재섭 \"한동훈 제명 대체 누가 이득? 장동혁 체제 이대론 못 간다\""
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd3",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714958?sid=100",
-            "created_at": "2026-01-15T18:04:04.184000",
-            "description": "중진 의원들까지 비판에 가세하면서다. 15일 정치권에 따르면 국민의힘은 이날 오전 11시 국회에서... 같은 5선의 조배숙 의원도 \"제명 처분은 정당이 내릴 수 있는 가장 극단적인 조치이자 정치적 사형 선고\"라며 윤리위... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039457",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T06:10:00",
-            "related_members": [
-                "LG63087O",
-                "7XY7109I",
-                "OWD1018N",
-                "IWK63872"
-            ],
-            "title": "두 쪽 난 국힘…한동훈 제명 '초강수' vs '제2계엄' 투쟁 선언"
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd5",
-            "link": "https://n.news.naver.com/mnews/article/052/0002300843?sid=100",
-            "created_at": "2026-01-15T18:04:04.184000",
-            "description": "보면 우재준 의원이 문제가 있다고 이야기하고 있고 양향자 의원, 어떻게 될지 모르겠고요. 그리고 지금 보면... 이상 국회의원의 동의를 받아야 되는데 현재 국회 구성상 그렇게 동의를 절대 받을 수 없음에도 불구하고... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601142226222036",
-            "press": "YTN",
-            "pubDate": "2026-01-14T22:26:00",
-            "related_members": [
-                "LG63087O",
-                "4X525582",
-                "7XY7109I",
-                "8UC4779G",
-                "LJK4960Z",
-                "6EN68926"
-            ],
-            "title": "[뉴스NIGHT] 한동훈 '심야 기습 제명' ...'공천 헌금' 수사 본격화"
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd6",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714570?sid=100",
-            "created_at": "2026-01-15T18:04:04.184000",
-            "description": "권영세, 성일종 등 당내 중진 의원들도 윤리위의 제명 조처를 두고 \"과했다\"고 목소리를 내는 상황이다. 15일 국회 본회의 전 열리는 의원총회에서도 한 전 대표 징계를 둘러싼 의원들의 발언이 나올 전망이다. 한 국민의힘... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039211",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T16:40:00",
-            "related_members": [
-                "7XY7109I",
-                "LG63087O",
-                "KFM1081G"
-            ],
-            "title": "장동혁호 '한동훈 제명' 이달말 최종 결론…당내 반발 변수"
-        },
-        {
-            "_id": "6968adaa297082fcc2b18d6c",
-            "link": "https://n.news.naver.com/mnews/article/016/0002585803?sid=100",
-            "created_at": "2026-01-15T18:04:39.782000",
-            "description": "[현대로템 제공] 성일종 국민의힘 의원(국회 국방위원장)은 14일 한동훈 전 대표 제명 논란과 관련해 한 전 대표의 사과와 장동혁 대표의 정치적 해결을 동시에 촉구하며 “정치적 문제를 법으로 풀겠다는 것은 정치를... ",
-            "originallink": "https://biz.heraldcorp.com/article/10655543?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-14T15:34:00",
-            "related_members": [
-                "7XY7109I",
-                "KFM1081G"
-            ],
-            "title": "국힘 성일종 “한동훈은 사과, 장동혁은 정치력 발휘해야…선당후사 결..."
-        },
-        {
-            "_id": "6968adaa297082fcc2b18d6d",
-            "link": "https://n.news.naver.com/mnews/article/005/0001826127?sid=102",
-            "created_at": "2026-01-15T18:04:39.782000",
-            "description": "이들은 지난해 10월 성일종 의원이 대표 발의한 ‘대전충남특별시 설치 및 경제과학수도 조성을 위한... 그러면서 “일부 국회의원들이 이 법안을 두고 종합선물세트라고 하던데, 지방 발전을 위해 좋은 법안을 만드는... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029249330&code=61121111&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-14T14:00:00",
-            "related_members": [
-                "7XY7109I",
-                "KFM1081G"
-            ],
-            "title": "장동혁 “대전·충남 행정통합 특별법, 특례조항 훼손 말아야”"
-        },
-        {
-            "_id": "6968adaa297082fcc2b18d6e",
-            "link": "https://n.news.naver.com/mnews/article/021/0002763709?sid=100",
-            "created_at": "2026-01-15T18:04:39.782000",
-            "description": "공교롭게도 서산시는 대전·충남 통합법을 가장 먼저 발의한 성일종 국회의원의 지역구다. 정치권에서는 “국민의힘이 쏘아 올린 대전·충남 통합 이슈의 주도권을 민주당이 갖겠다는 의도”라는 해석이 나왔다. 대전... ",
-            "originallink": "https://www.munhwa.com/article/11560869?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-14T11:57:00",
-            "related_members": [
-                "7XY7109I",
-                "2385336L",
-                "KFM1081G"
-            ],
-            "title": "정청래·장동혁 충청 방문… ‘지역 통합’ 민심잡기 경쟁"
-        },
-        {
-            "_id": "6966ec98887d07f7ba2fb306",
-            "link": "https://n.news.naver.com/mnews/article/421/0008710693?sid=102",
-            "created_at": "2026-01-14T10:08:41.045000",
-            "description": "이날 행사에는 조규선 서산장학재단 이사장을 비롯해 성일종 국회의원, 이완섭 서산시장, 조동식 서산시의회 의장, 이연희 충남도의원, 백종신 서산문화원장 등 지역 주요 인사와 장학생·회원 등 300여 명이 참석했다.... ",
-            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6037042",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T10:54:00",
-            "related_members": [
-                "EBH1101V",
-                "7XY7109I"
-            ],
-            "title": "서산장학재단 서산시지부 지부장 이·취임식 성료"
-        },
-        {
-            "_id": "6964b568631fd174349962ec",
-            "link": "https://n.news.naver.com/mnews/article/003/0013705364?sid=102",
-            "created_at": "2026-01-12T17:48:37.859000",
-            "description": "중 국회통과를 추진하는 등 속도전에 나서고 있는 것을 강력 견제하는 모양새다. 이들은 특히 지난해 10월 성일종(서산태안) 의원의 대표발의로 국힘이 제출한 '대전충남특별시 설치 및 경제과학수도 조성을 위한 특별법안... ",
-            "originallink": "https://www.newsis.com/view/NISX20260112_0003473604",
-            "press": "뉴시스",
-            "pubDate": "2026-01-12T14:32:00",
-            "related_members": [
-                "7XY7109I"
-            ],
-            "title": "국힘 대전시의원 \"민주, 국힘발의 대전충남특별법 존중해야\""
         }
     ],
     "recent_videos": [
@@ -693,7 +676,7 @@
             "url": "https://www.youtube.com/watch?v=-IzcrfUVUv8",
             "HG_NM": "성일종",
             "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-21T08:46:32.949000",
+            "collected_at": "2026-01-30T23:25:53.087000",
             "duration": 82.0,
             "title": "뚜껑 열린 성일종...추미애·최민희 저격",
             "upload_date": null
@@ -723,7 +706,7 @@
             "url": "https://www.youtube.com/watch?v=UCl_gTOca5HlspP4n3G7dhqA",
             "HG_NM": "성일종",
             "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-23T16:44:48.888000",
+            "collected_at": "2026-01-30T23:25:51.581000",
             "duration": null,
             "title": "성일종TV",
             "upload_date": null
@@ -739,26 +722,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ace6631fd1743497d847",
-            "url": "https://www.youtube.com/watch?v=R6ReSsq4vmU",
-            "HG_NM": "성일종",
-            "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-18T13:15:28.280000",
-            "duration": 1976.0,
-            "title": "민주당의 말과 행동은 이율배반적 | 성일종 국회의원 | YTN 더정치-더뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ace6631fd1743497d849",
-            "url": "https://www.youtube.com/watch?v=xEh9f1XCDKQ",
-            "HG_NM": "성일종",
-            "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-23T16:44:48.888000",
-            "duration": 111.0,
-            "title": "성일종 국회의원 설 명절 인사",
-            "upload_date": null
-        },
-        {
             "_id": "6960ace6631fd1743497d84a",
             "url": "https://www.youtube.com/watch?v=A6IbWQpqm58",
             "HG_NM": "성일종",
@@ -769,13 +732,33 @@
             "upload_date": null
         },
         {
+            "_id": "6960ace6631fd1743497d849",
+            "url": "https://www.youtube.com/watch?v=xEh9f1XCDKQ",
+            "HG_NM": "성일종",
+            "MONA_CD": "7XY7109I",
+            "collected_at": "2026-01-30T23:25:51.581000",
+            "duration": 111.0,
+            "title": "성일종 국회의원 설 명절 인사",
+            "upload_date": null
+        },
+        {
             "_id": "6960ace6631fd1743497d848",
             "url": "https://www.youtube.com/watch?v=EGTp2BVv-Ko",
             "HG_NM": "성일종",
             "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-23T16:44:49.583000",
+            "collected_at": "2026-01-30T23:25:51.581000",
             "duration": 493.0,
             "title": "\"성일종, 국익을 위해 조태용과 통화했다고?\"... 박선원, 정곡 찌르자 성일종 '당황'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ace6631fd1743497d847",
+            "url": "https://www.youtube.com/watch?v=R6ReSsq4vmU",
+            "HG_NM": "성일종",
+            "MONA_CD": "7XY7109I",
+            "collected_at": "2026-01-18T13:15:28.280000",
+            "duration": 1976.0,
+            "title": "민주당의 말과 행동은 이율배반적 | 성일종 국회의원 | YTN 더정치-더뉴스",
             "upload_date": null
         },
         {
@@ -783,7 +766,7 @@
             "url": "https://www.youtube.com/watch?v=kq5EgspHAWM",
             "HG_NM": "성일종",
             "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-23T16:44:48.888000",
+            "collected_at": "2026-01-30T23:25:51.581000",
             "duration": 845.0,
             "title": "[김경래의 최강시사] 성일종 “국회의원 4연임 제한, 당에서 합의 안돼” (200814)",
             "upload_date": null
@@ -793,7 +776,7 @@
             "url": "https://www.youtube.com/watch?v=HZMLDHvYrRA",
             "HG_NM": "성일종",
             "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-23T16:44:48.888000",
+            "collected_at": "2026-01-30T23:25:51.581000",
             "duration": 490.0,
             "title": "[현장영상] \"증거 조작에 성일종 이름이\"…박선원 종이 쓱 들며 '정조준' / JTBC News",
             "upload_date": null
@@ -803,11 +786,11 @@
             "url": "https://www.youtube.com/watch?v=Q6vlAe8cpzs",
             "HG_NM": "성일종",
             "MONA_CD": "7XY7109I",
-            "collected_at": "2026-01-23T16:44:48.888000",
+            "collected_at": "2026-01-30T23:25:51.581000",
             "duration": 1320.0,
             "title": "국회의원 25시 성일종 의원편!",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:29.916148"
+    "exported_at": "2026-01-30T23:36:00.501200"
 }

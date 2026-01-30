@@ -42,23 +42,27 @@
     },
     "analysis": {
         "keywords": [
+            "국민",
             "제출",
             "의혹",
             "원내",
+            "발의",
             "공천",
             "김병기",
-            "국민",
+            "쿠팡",
+            "위원장",
             "수사",
             "강선",
             "현지",
             "누나",
-            "발언",
             "현장",
-            "온라인",
-            "발의",
-            "의안"
+            "발언"
         ],
         "keyword_frequency": [
+            {
+                "text": "국민",
+                "value": 17
+            },
             {
                 "text": "제출",
                 "value": 15
@@ -72,6 +76,10 @@
                 "value": 13
             },
             {
+                "text": "발의",
+                "value": 12
+            },
+            {
                 "text": "공천",
                 "value": 12
             },
@@ -80,8 +88,12 @@
                 "value": 12
             },
             {
-                "text": "국민",
-                "value": 11
+                "text": "쿠팡",
+                "value": 10
+            },
+            {
+                "text": "위원장",
+                "value": 10
             },
             {
                 "text": "수사",
@@ -100,49 +112,101 @@
                 "value": 8
             },
             {
-                "text": "발언",
-                "value": 8
-            },
-            {
                 "text": "현장",
                 "value": 8
             },
             {
-                "text": "온라인",
-                "value": 7
-            },
-            {
-                "text": "발의",
-                "value": 7
-            },
-            {
-                "text": "의안",
-                "value": 7
+                "text": "발언",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:26.399876",
+        "last_analyzed_at": "2026-01-30T23:35:56.882081",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
-                0,
-                0
+                1,
+                2,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd3b38b0cf4096976bbb",
+            "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23679&Newsnumb=20260123679",
+            "created_at": "2026-01-30T23:16:27.416000",
+            "description": "국민의힘 소속 국회의원 10명과 이준석 개혁신당 대표는 30일 정보통신망법 일부개정안을 발의, 현행법 제44조의27 조항에 일일 평규 접속자 수와 매출액 등이 일정 규모 이상인 정보통신서비스 제공자의 경우 게시물을... ",
+            "originallink": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23679&Newsnumb=20260123679",
+            "press": "조선일보",
+            "pubDate": "2026-01-30T15:54:00",
+            "related_members": [
+                "QWL7778X",
+                "GP21946O"
+            ],
+            "title": "국민의힘 ‘댓글 국적 표기제’ 발의 | 박충권 대표발의, 이준석도 이름..."
+        },
+        {
+            "_id": "697cbd3b38b0cf4096976bbc",
+            "link": "https://n.news.naver.com/mnews/article/032/0003424736?sid=100",
+            "created_at": "2026-01-30T23:16:27.416000",
+            "description": "이 부사장은 ‘국정원이 일방적으로 용의자 접촉을 지시했다는 것이냐’는 최민희 과방위원장의 질의에... 이해민 혁신당 의원은 “국회에서 미국 정부의 의견도 아닌 (쿠팡 측) 로비를 받은 미국 공화당 의견을 대변하는... ",
+            "originallink": "https://www.khan.co.kr/article/202601292046005",
+            "press": "경향신문",
+            "pubDate": "2026-01-29T20:46:00",
+            "related_members": [
+                "GP21946O",
+                "OIA3741M",
+                "0698755I",
+                "YS38221N"
+            ],
+            "title": "‘쿠팡 위증’ 추가 고발…국민의힘 “조리돌림에 미 관세 인상”"
+        },
+        {
+            "_id": "697cbd3b38b0cf4096976bbd",
+            "link": "https://n.news.naver.com/mnews/article/032/0003424656?sid=100",
+            "created_at": "2026-01-30T23:16:27.416000",
+            "description": "이 부사장은 ‘국정원이 일방적으로 용의자 접촉을 지시했다는 것이냐’는 최민희 과방위원장의 질의에... 이해민 혁신당 의원은 “국회에서 미국 정부의 의견도 아닌 (쿠팡 측) 로비를 받은 미국 공화당 의견을 대변하는... ",
+            "originallink": "https://www.khan.co.kr/article/202601291631001",
+            "press": "경향신문",
+            "pubDate": "2026-01-29T16:31:00",
+            "related_members": [
+                "GP21946O",
+                "OIA3741M",
+                "0698755I",
+                "YS38221N"
+            ],
+            "title": "국회 과방위, 이재걸 쿠팡 부사장 추가 고발…국민의힘 ‘국회 조리돌림..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a2d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013735497?sid=100",
+            "created_at": "2026-01-30T23:15:53.399000",
+            "description": "여의도 국회 의원회관 세미나실에서 열린 한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한 긴급토론회에서 국민의례를 하고 있다.앞줄 오른쪽부터 최형두, 고동진 의원, 성 위원장, 유 의원, 박충권,조은희... ",
+            "originallink": "https://www.newsis.com/view/NISI20260128_0021142262",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T15:12:00",
+            "related_members": [
+                "GP21946O",
+                "MQU41854",
+                "NQO7187X",
+                "A0P4646G",
+                "HS39431V",
+                "RAJ1024Z"
+            ],
+            "title": "핵추진잠수함(K-SSN) 특별법 제정을 위한 긴급토론회"
+        },
         {
             "_id": "696902c0297082fcc2b19278",
             "link": "https://n.news.naver.com/mnews/article/011/0004579335?sid=100",
@@ -180,7 +244,7 @@
             "_id": "6964b559631fd174349961db",
             "link": "https://n.news.naver.com/mnews/article/052/0002298035?sid=100",
             "created_at": "2026-01-12T17:48:22.470000",
-            "description": "■ 진행 : 이하린 앵커 ■ 출연 : 한민수 더불어민주당 의원, 정성국 국민의힘 의원 * 아래 텍스트는 실제 방송... 국회의원 때 백지신탁했다가 임기 끝나고 되찾아간 건데,과거 상대 후보에 대해선 어떤 입장이었을까요? 이런... ",
+            "description": "대해서 박충권 의원은 무슨 얼 빠진 소리냐, 이런 비판하는 말을 했거든요. [정성국] 좀 돌아가보면 문재인... 국회의원 때 백지신탁했다가 임기 끝나고 되찾아간 건데,과거 상대 후보에 대해선 어떤 입장이었을까요? 이런... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601081643127475",
             "press": "YTN",
             "pubDate": "2026-01-08T16:43:00",
@@ -322,113 +386,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960acae631fd1743497d76f",
-            "url": "https://www.youtube.com/watch?v=sSQzheBAF8c",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-21T08:45:35.762000",
-            "duration": 430.0,
-            "title": "\"현지 누나 컨펌받았어요?\" 박충권의 계속 물고 늘어지는 질문에 방미통위 후보자의 답변은?",
-            "upload_date": null
-        },
-        {
             "_id": "697326bb84596000289979f0",
             "url": "https://www.youtube.com/watch?v=6E_h-fRuT6U",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:52.547000",
+            "collected_at": "2026-01-30T23:24:28.064000",
             "duration": 433.0,
             "title": "박충권 \"현지 누나 컨펌 받아야 되는 것 같던데?\" [티조Clip]",
-            "upload_date": null
-        },
-        {
-            "_id": "697326bb84596000289979ef",
-            "url": "https://www.youtube.com/watch?v=ZXcIUy6rb44",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:51.851000",
-            "duration": 1472.0,
-            "title": "'탈북 14년' 박충권 의원, 북한 엘리트 코스 밟다가 탈북한 이유",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b0ce297082fcc2b1909e",
-            "url": "https://www.youtube.com/watch?v=Qo_wCTNS1LE",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-21T08:45:35.762000",
-            "duration": 133.0,
-            "title": "[빠른뉴스 쨉] 박충권 \"'문용익, 최고 존엄' 현지누나한테 조인트 까이러 갔나?\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6966eef2887d07f7ba2fb442",
-            "url": "https://www.youtube.com/watch?v=f4oDkGVB_Ko",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-14T10:18:42.981000",
-            "duration": 353.0,
-            "title": "박충권, 최민희 충격적 행태 읊으며 \"무소불위 권력이 따로 없다\" [티조Clip]",
-            "upload_date": null
-        },
-        {
-            "_id": "6966eef2887d07f7ba2fb441",
-            "url": "https://www.youtube.com/watch?v=98jbFunrugw",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-21T08:45:35.762000",
-            "duration": 330.0,
-            "title": "\"김현지 여사가 김혜경 여사 위에 있나?\"...박충권 발언에 운영위 발칵",
-            "upload_date": null
-        },
-        {
-            "_id": "696595cf887d07f7ba2faccc",
-            "url": "https://www.youtube.com/watch?v=bv4jfHhoSQI",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-13T09:46:05.717000",
-            "duration": 77.0,
-            "title": "[빠른뉴스 쨉] 박충권 \"'문용익, 최고 존엄' 현지누나한테 조인트 까이러 갔나?\" #shorts",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acae631fd1743497d770",
-            "url": "https://www.youtube.com/watch?v=txwZWKYmAIw",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-09T16:22:19.431000",
-            "duration": 279.0,
-            "title": "박충권, 김혜경 여사 모욕하는 '선 넘는 발언'하자 폭발한 김병기 [G1현장영상]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acae631fd1743497d76d",
-            "url": "https://www.youtube.com/watch?v=xad5SNO-Hj4",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-09T16:22:19.431000",
-            "duration": 1346.0,
-            "title": "[박충권] 북한 방공망, 베네수엘라와 같은 중‧러 방공망…\"김정은 등골 서늘했을 것\" | 1월 8일 (목) 정치시그널",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acae631fd1743497d76c",
-            "url": "https://www.youtube.com/watch?v=qYwaWN9H1Xw",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-21T08:45:35.115000",
-            "duration": 272.0,
-            "title": "北 ICBM 전문학교의 유일한 탈북민 박충권이 이야기하는 '김정은국방종합대학'의 실체! | 이제 만나러 갑니다 643 회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acae631fd1743497d764",
-            "url": "https://www.youtube.com/watch?v=UCHD6SHEsM4gYqeG2hCMz2dA",
-            "HG_NM": "박충권",
-            "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:51.851000",
-            "duration": null,
-            "title": "이과맨 박충권",
             "upload_date": null
         },
         {
@@ -442,13 +406,73 @@
             "upload_date": null
         },
         {
-            "_id": "6960acae631fd1743497d76b",
-            "url": "https://www.youtube.com/watch?v=BdP_61Fx8oI",
+            "_id": "6960acae631fd1743497d768",
+            "url": "https://www.youtube.com/watch?v=R4Buk3k_kQQ",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:52.547000",
-            "duration": 353.0,
-            "title": "\"김현지 실장이 지침 줬나\" 박충권 발언에 방미통위 위원장 청문회 '술렁' [현장영상] / 채널A",
+            "collected_at": "2026-01-30T23:24:26.549000",
+            "duration": 1332.0,
+            "title": "北 엘리트였던 박충권 의원이 두만강을 건넌 이유는?  [나는정치인이다]",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b0ce297082fcc2b1909e",
+            "url": "https://www.youtube.com/watch?v=Qo_wCTNS1LE",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-21T08:45:35.762000",
+            "duration": 133.0,
+            "title": "[빠른뉴스 쨉] 박충권 \"'문용익, 최고 존엄' 현지누나한테 조인트 까이러 갔나?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acae631fd1743497d770",
+            "url": "https://www.youtube.com/watch?v=txwZWKYmAIw",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-09T16:22:19.431000",
+            "duration": 279.0,
+            "title": "박충권, 김혜경 여사 모욕하는 '선 넘는 발언'하자 폭발한 김병기 [G1현장영상]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acae631fd1743497d76c",
+            "url": "https://www.youtube.com/watch?v=qYwaWN9H1Xw",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-21T08:45:35.115000",
+            "duration": 272.0,
+            "title": "北 ICBM 전문학교의 유일한 탈북민 박충권이 이야기하는 '김정은국방종합대학'의 실체! | 이제 만나러 갑니다 643 회",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbf1c38b0cf4096976def",
+            "url": "https://www.youtube.com/watch?v=uga_Dp_8nEs",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-30T23:24:28.064000",
+            "duration": 4001.0,
+            "title": "샴푸 먹고, 욕도 먹고... 박충권 의원, 공격 실패?  \"샴푸가 먹는 겁니까?\" 최민희 위원장 한마디에 와르르..",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acae631fd1743497d765",
+            "url": "https://www.youtube.com/watch?v=CnKf3pMkC6k",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-30T23:24:26.549000",
+            "duration": 132.0,
+            "title": "국힘 원내부대표, 박충권 의원이 바라는 국민의힘 당대표는? [국회의사담 앵커스] 박충권 편",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acae631fd1743497d76f",
+            "url": "https://www.youtube.com/watch?v=sSQzheBAF8c",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-21T08:45:35.762000",
+            "duration": 430.0,
+            "title": "\"현지 누나 컨펌받았어요?\" 박충권의 계속 물고 늘어지는 질문에 방미통위 후보자의 답변은?",
             "upload_date": null
         },
         {
@@ -456,29 +480,49 @@
             "url": "https://www.youtube.com/watch?v=a8n2lsvxY1Q",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:51.851000",
+            "collected_at": "2026-01-30T23:24:26.549000",
             "duration": 850.0,
             "title": "박충권 충격 발언, 실소터진 우상호...대통령 건드리자 김병기 위원장 '대폭발",
             "upload_date": null
         },
         {
-            "_id": "6960acae631fd1743497d768",
-            "url": "https://www.youtube.com/watch?v=R4Buk3k_kQQ",
+            "_id": "6966eef2887d07f7ba2fb442",
+            "url": "https://www.youtube.com/watch?v=f4oDkGVB_Ko",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:51.851000",
-            "duration": 1332.0,
-            "title": "北 엘리트였던 박충권 의원이 두만강을 건넌 이유는?  [나는정치인이다]",
+            "collected_at": "2026-01-14T10:18:42.981000",
+            "duration": 353.0,
+            "title": "박충권, 최민희 충격적 행태 읊으며 \"무소불위 권력이 따로 없다\" [티조Clip]",
             "upload_date": null
         },
         {
-            "_id": "6960acae631fd1743497d76a",
-            "url": "https://www.youtube.com/watch?v=ynUcPhrAvLk",
+            "_id": "696595cf887d07f7ba2faccc",
+            "url": "https://www.youtube.com/watch?v=bv4jfHhoSQI",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:52.547000",
-            "duration": 760.0,
-            "title": "탈북 초선 박충권 \"왜 이렇게 뻔뻔하죠?\"…권태선 방문진 이사장과 정면충돌",
+            "collected_at": "2026-01-13T09:46:05.717000",
+            "duration": 77.0,
+            "title": "[빠른뉴스 쨉] 박충권 \"'문용익, 최고 존엄' 현지누나한테 조인트 까이러 갔나?\" #shorts",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acae631fd1743497d76b",
+            "url": "https://www.youtube.com/watch?v=BdP_61Fx8oI",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-30T23:24:26.549000",
+            "duration": 353.0,
+            "title": "\"김현지 실장이 지침 줬나\" 박충권 발언에 방미통위 위원장 청문회 '술렁' [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "697326bb84596000289979ef",
+            "url": "https://www.youtube.com/watch?v=ZXcIUy6rb44",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-30T23:24:26.549000",
+            "duration": 1472.0,
+            "title": "'탈북 14년' 박충권 의원, 북한 엘리트 코스 밟다가 탈북한 이유",
             "upload_date": null
         },
         {
@@ -492,25 +536,55 @@
             "upload_date": null
         },
         {
+            "_id": "6960acae631fd1743497d76d",
+            "url": "https://www.youtube.com/watch?v=xad5SNO-Hj4",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-09T16:22:19.431000",
+            "duration": 1346.0,
+            "title": "[박충권] 북한 방공망, 베네수엘라와 같은 중‧러 방공망…\"김정은 등골 서늘했을 것\" | 1월 8일 (목) 정치시그널",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acae631fd1743497d764",
+            "url": "https://www.youtube.com/watch?v=UCHD6SHEsM4gYqeG2hCMz2dA",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-30T23:24:26.549000",
+            "duration": null,
+            "title": "이과맨 박충권",
+            "upload_date": null
+        },
+        {
             "_id": "6960acae631fd1743497d766",
             "url": "https://www.youtube.com/watch?v=SPQBpv-0i5E",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:51.851000",
+            "collected_at": "2026-01-30T23:24:26.549000",
             "duration": 3564.0,
             "title": "[박충권x김금혁 출연] “北의 연애·정치…그리고 李” [금요비대위]",
             "upload_date": null
         },
         {
-            "_id": "6960acae631fd1743497d765",
-            "url": "https://www.youtube.com/watch?v=CnKf3pMkC6k",
+            "_id": "6960acae631fd1743497d76a",
+            "url": "https://www.youtube.com/watch?v=ynUcPhrAvLk",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-01-23T16:43:51.851000",
-            "duration": 132.0,
-            "title": "국힘 원내부대표, 박충권 의원이 바라는 국민의힘 당대표는? [국회의사담 앵커스] 박충권 편",
+            "collected_at": "2026-01-30T23:24:28.064000",
+            "duration": 760.0,
+            "title": "탈북 초선 박충권 \"왜 이렇게 뻔뻔하죠?\"…권태선 방문진 이사장과 정면충돌",
+            "upload_date": null
+        },
+        {
+            "_id": "6966eef2887d07f7ba2fb441",
+            "url": "https://www.youtube.com/watch?v=98jbFunrugw",
+            "HG_NM": "박충권",
+            "MONA_CD": "GP21946O",
+            "collected_at": "2026-01-21T08:45:35.762000",
+            "duration": 330.0,
+            "title": "\"김현지 여사가 김혜경 여사 위에 있나?\"...박충권 발언에 운영위 발칵",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:26.399876"
+    "exported_at": "2026-01-30T23:35:56.882081"
 }

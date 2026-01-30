@@ -47,107 +47,511 @@
     },
     "analysis": {
         "keywords": [
-            "강선",
-            "의혹",
-            "김병기",
             "경찰",
+            "강선",
             "공천",
-            "수사",
             "김경",
+            "김병기",
+            "의혹",
+            "조사",
             "소환",
             "헌금",
-            "압수",
-            "이혜훈",
-            "국민",
-            "후보자",
-            "조사",
-            "수색"
+            "이지희",
+            "로비",
+            "수사",
+            "측근",
+            "민주당",
+            "전달"
         ],
         "keyword_frequency": [
             {
-                "text": "강선",
-                "value": 47
-            },
-            {
-                "text": "의혹",
-                "value": 45
-            },
-            {
-                "text": "김병기",
-                "value": 41
-            },
-            {
                 "text": "경찰",
-                "value": 40
+                "value": 48
+            },
+            {
+                "text": "강선",
+                "value": 48
             },
             {
                 "text": "공천",
-                "value": 36
-            },
-            {
-                "text": "수사",
-                "value": 35
+                "value": 41
             },
             {
                 "text": "김경",
-                "value": 30
+                "value": 38
             },
             {
-                "text": "소환",
-                "value": 27
+                "text": "김병기",
+                "value": 37
             },
             {
-                "text": "헌금",
-                "value": 24
-            },
-            {
-                "text": "압수",
-                "value": 20
-            },
-            {
-                "text": "이혜훈",
-                "value": 20
-            },
-            {
-                "text": "국민",
-                "value": 16
-            },
-            {
-                "text": "후보자",
-                "value": 15
+                "text": "의혹",
+                "value": 31
             },
             {
                 "text": "조사",
+                "value": 31
+            },
+            {
+                "text": "소환",
+                "value": 23
+            },
+            {
+                "text": "헌금",
+                "value": 22
+            },
+            {
+                "text": "이지희",
                 "value": 14
             },
             {
-                "text": "수색",
-                "value": 14
+                "text": "로비",
+                "value": 13
+            },
+            {
+                "text": "수사",
+                "value": 12
+            },
+            {
+                "text": "측근",
+                "value": 12
+            },
+            {
+                "text": "민주당",
+                "value": 11
+            },
+            {
+                "text": "전달",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:09.939106",
+        "last_analyzed_at": "2026-01-30T23:35:40.207079",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
-                0,
                 3,
-                2,
-                5,
-                20
+                1,
+                0,
+                13,
+                13
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1938b0cf4096976a2e",
+            "link": "https://n.news.naver.com/mnews/article/032/0003424919?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "경찰은 김 전 시의원이 강선우 무소속(전 민주당) 의원 외에 다른 국회의원 등에도 금품을 제공하려 했다는 의혹에 대해서도 수사를 확대하고 있다. 다만 A씨는 현재까지 경찰에 입건되거나 소환조사를 받은 상태는 아닌... ",
+            "originallink": "https://www.khan.co.kr/article/202601301858001",
+            "press": "경향신문",
+            "pubDate": "2026-01-30T18:58:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "[단독]김경 녹음파일 속 “돈 줘야 한다”···민주당 당직자 이례적 인..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a2f",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308242?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "경찰은 또 김병기 의원의 측근으로 꼽히는 이지희 동작구 의원도 오늘 다시 불러 조사했습니다. 사회부... 김 전 시의원은 오늘 새벽 경찰 조사를 마친 뒤 다시 한 번 고개를 숙였는데, 강선우 의원 외에 다른 국회의원에게... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601301759186658",
+            "press": "YTN",
+            "pubDate": "2026-01-30T17:59:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T"
+            ],
+            "title": "김경, '금품 전달' 일부 시인...'김병기 측근' 이지희 조사"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a30",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308200?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "경찰은 또, 김병기 의원의 측근으로 알려진 이지희 동작구 의원도 오늘(30일) 오전 다시 소환해 조사하고... 김 전 시의원은 오늘 새벽 경찰 조사를 마친 뒤 다시 한 번 고개를 숙였는데, 강선우 의원 외에 다른 국회의원에... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601301642443171",
+            "press": "YTN",
+            "pubDate": "2026-01-30T16:42:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T"
+            ],
+            "title": "김경, '금품 전달' 일부 인정...'김병기 측근' 이지희 재소환"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a31",
+            "link": "https://n.news.naver.com/mnews/article/056/0012115885?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "김민석 총리, 정청래 대표, 조국 대표까지 국무와 당무 대신 이해찬 전 총리 빈소를 지키는 상황, 또 복귀... 국무위원과 국회의원 간에 서로 소통한 문자를 보면 지금 굉장히 내부가 심상치 않다는 생각이 들 정도로, 또... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473510&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-30T15:59:00",
+            "related_members": [
+                "MNZ4401T",
+                "MLH1404S",
+                "2385336L",
+                "EPI69383",
+                "AEJ19639",
+                "4019850M",
+                "OWD1018N",
+                "QWL7778X",
+                "KFM1081G"
+            ],
+            "title": "[사사건건] “깐부에 같이 깨방정도 떨던 사이였는데…”"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a32",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308131?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "경찰은 또, 김병기 의원의 측근으로 알려진 이지희 동작구 의원도 오늘(30일) 오전 다시 소환해 조사하고... 김 전 시의원은 오늘 새벽 경찰 조사를 마친 뒤 다시 한 번 고개를 숙였는데, 강선우 의원 외에 다른 국회의원에... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601301434364931",
+            "press": "YTN",
+            "pubDate": "2026-01-30T14:34:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T"
+            ],
+            "title": "김경, '수백만 원 전달' 인정...'김병기 측근' 이지희 재소환"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a33",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308029?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "경찰은 또, 김병기 의원의 측근으로 알려진 이지희 동작구 의원도 오늘(30일) 오전 다시 소환해 조사하고... 김 전 시의원은 어제도 16시간 넘게 경찰 조사를 받았는데, 강선우 의원 외에 다른 국회의원에게도 공천헌금을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601301135439025",
+            "press": "YTN",
+            "pubDate": "2026-01-30T11:35:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T"
+            ],
+            "title": "김경, '수백만 원 전달' 인정...경찰, '김병기 측근' 이지희 재소환"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a34",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307960?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "김 전 시의원은 어제도 16시간 넘게 경찰 조사를 받았는데, 강선우 의원 외에 다른 국회의원에게도... 민주당 의원만 최소 7명이 언급된 만큼 추가 소환조사 등 수사 확대는 불가피하다는 전망입니다. 김병기 의원 비위... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601300938328942",
+            "press": "YTN",
+            "pubDate": "2026-01-30T09:38:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R"
+            ],
+            "title": "김경, '수백만 원 전달' 인정...경찰 \"대가 줬으면 일해야\" 녹취 확보"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a35",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107151&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 그래서 더군다나 이 명태균 씨 같은 경우에는 여기만 준 게 아니고 김종인 씨, 이준석 대표 다 줬다는 거예요. 그러면... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107151&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-30T09:00:00",
+            "related_members": [
+                "TQP7167T",
+                "MNZ4401T",
+                "GDG1847Z",
+                "MSY7784L",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "\"권성동보다 가볍다\" vs \"법 앞의 평등\" 김건희 선고에 형량 형평성 논란..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a36",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307942?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "대신에 국회의원 보좌관 계좌를 제시하면서 이 계좌로 돌려달라는 취지로 차명후원을 하였다는 의혹도... 사건, 강선우 의원과 의혹이 불거졌을 때 수사가 진행되는 과정에서 김 전 시의원은 PC 한 대를 초기화하는 과정을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601300851259327",
+            "press": "YTN",
+            "pubDate": "2026-01-30T08:51:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "[뉴스UP] 강서구청장 출마하려 또 공천헌금?...신병확보 주목"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a37",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307975?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 그래서 더군다나 이 명태균 씨 같은 경우에는 여기만 준 게 아니고 김종인 씨, 이준석 대표 다 줬다는 거예요. 그러면... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601300740444411",
+            "press": "YTN",
+            "pubDate": "2026-01-30T07:40:00",
+            "related_members": [
+                "TQP7167T",
+                "MNZ4401T",
+                "GDG1847Z",
+                "MSY7784L",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "\"권성동보다 가볍다\" vs \"법 앞의 평등\" 김건희 선고에 형량 형평성 논란..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a38",
+            "link": "https://n.news.naver.com/mnews/article/055/0001328774?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "죄송합니다.] 앞서 세 차례 조사에선 2022년 지방선거를 앞두고 강선우 의원 측에 건너간 1억 원에 대한... 당시 노웅래 의원 보좌관이던 김성열 전 개혁신당 최고위원이 \"공천 배제를 풀려면 실세 국회의원을 찾아가 보라... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008424018&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-30T06:35:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "4차 조사 마치고 귀가…'구청장 공천 로비' 추궁"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a39",
+            "link": "https://n.news.naver.com/mnews/article/055/0001328744?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "죄송합니다.] 앞서 세 차례 조사에서는 2022년 지방선거를 앞두고 강선우 의원 측에 건너간 1억 원에 대한... 당시 노웅래 의원 보좌관이던 김성열 전 개혁신당 최고위원이 \"공천 배제를 풀려면 실세 국회의원을 찾아가... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008423931&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-30T00:54:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "네 번째 경찰 소환…'구청장 공천 로비' 추궁"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a3a",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956115?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "알바 급여로 90만원 보낸다며, 실제론 900만원 넣고선 “실수” 국회의원 보좌관 계좌 알려주며 “여기로... 이런 가운데 최근 민주당을 탈당한 김병기(서울 동작갑) 의원 사건과 관련해 경찰은 이날 서울 송파구 쿠팡... ",
+            "originallink": "https://www.chosun.com/national/national_general/2026/01/30/ATQB7GB7XNCULDWXRBW37BTZ74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-30T00:47:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R"
+            ],
+            "title": "김경, 실수인 척... 알바생 계좌까지 뒷돈 보내는데 썼다"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a3b",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307813?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "최민희 의원도 국회 과학기술정보방송통신위원장 사회봉을 내려놓지 않았는데, 이날 회의에서도 거듭 결백을 호소했습니다. [최민희 / 더불어민주당 의원 : 제가 하지 않은 일에 대하여 사과드릴 수는 없습니다. 화환을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601292247084145",
+            "press": "YTN",
+            "pubDate": "2026-01-29T22:47:00",
+            "related_members": [
+                "8Q88373R",
+                "RPN2293B",
+                "MNZ4401T",
+                "YS38221N",
+                "I5I2468R"
+            ],
+            "title": "민주, 최민희·장경태 징계 논의 착수...친청계 봐주기 의식?"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a3c",
+            "link": "https://n.news.naver.com/mnews/article/055/0001328699?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "죄송합니다.] 앞서 세 차례 조사에서는 2022년 지방선거를 앞두고 강선우 의원 측에 건너간 1억 원에 대한... 당시 노웅래 의원 보좌관이던 김성열 전 개혁신당 최고위원이 \"공천 배제를 풀려면 실세 국회의원을 찾아가... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008423779&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-29T20:43:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "네 번째 경찰 소환…'구청장 공천 로비' 추궁"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a3d",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789104?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "서울시의원 공천을 강하게 주장했다는 증언이 나왔다. 김병기 의원과 대화에서 1억원 수수 사실을 밝히며... ‘국회의원이 왜 저렇게까지 하느냐’는 이야기가 나왔다”고 했다. 다만 당시 강 의원이 눈물을 보이면서... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1242433.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-29T20:28:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R"
+            ],
+            "title": "[단독] “강선우, 공관위 회의서 울고불며 김경 공천 밀어붙여”"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a3e",
+            "link": "https://n.news.naver.com/mnews/article/022/0004101673?sid=102",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "탈당한 김병기 의원이 쿠팡에 취업한 전직 보좌진의 인사 불이익을 요구했다는 의혹에 대해 경찰이... 김 의원은 지난해 국회 국정감사를 앞두고 박대준 전 한국 쿠팡 대표를 만나 쿠팡에 취업한 전 보좌진 2명에 대한... ",
+            "originallink": "https://www.segye.com/newsView/20260129517134?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-29T18:30:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T"
+            ],
+            "title": "警, ‘김병기 의혹’ 쿠팡 본사 압수수색"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a3f",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307723?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "최민희 의원도 국회 과학기술정보방송통신위원장 사회봉을 내려놓지 않았는데, 이날 회의에서도 거듭 결백을 호소했습니다. [최민희 / 더불어민주당 의원 : 제가 하지 않은 일에 대하여 사과드릴 수는 없습니다. 화환을... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601291816177384",
+            "press": "YTN",
+            "pubDate": "2026-01-29T18:16:00",
+            "related_members": [
+                "8Q88373R",
+                "RPN2293B",
+                "MNZ4401T",
+                "YS38221N",
+                "I5I2468R"
+            ],
+            "title": "민주, 최민희·장경태 징계 논의 착수...친청계 봐주기 의식?"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a40",
+            "link": "https://n.news.naver.com/mnews/article/032/0003424660?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "경찰이 강선우 무소속(전 더불어민주당) 의원에게 ‘1억 공천헌금’을 건넨 의혹으로 김경 전... 경찰은 김 전 시의원이 양모 전 서울시의회 의장을 통해 현역 국회의원에게 로비를 시도하려는 정황이 담긴 녹취... ",
+            "originallink": "https://www.khan.co.kr/article/202601291646001",
+            "press": "경향신문",
+            "pubDate": "2026-01-29T16:46:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "김경, 시의원직 제명 이틀만에 경찰 재출석…강선우 1억, 쪼개기·차명 ..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a41",
+            "link": "https://n.news.naver.com/mnews/article/032/0003424640?sid=100",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "경찰은 김 전 시의원이 양모 전 서울시의회 의장을 통해 현역 국회의원에게 로비를 시도하려는 정황이 담긴... 김 전 시의원은 C의원뿐 아니라 강선우 무소속(전 민주당) 의원에게 차명 후원했다는 의혹도 받고 있다.... ",
+            "originallink": "https://www.khan.co.kr/article/202601291603001",
+            "press": "경향신문",
+            "pubDate": "2026-01-29T16:03:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "“돈 너무 많이 썼다, 아깝다” 김경 녹취에 담긴 말들···현역 의원 로..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a42",
+            "link": "https://n.news.naver.com/mnews/article/421/0008742370?sid=100",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "저희 비록 3석밖에 안 되지만 이번 이혜훈 청문회에서도 보셨다시피 사실 천하람 대표가 발굴한 의제로 모든... 지난번 최고위 선거에서 이 중앙위원들, 당협위원장들이나 국회의원들 선거 투표에서 최고위 투표율이 90%가... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6055291",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T14:27:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "8X15119P",
+                "LYY5513O",
+                "KFM1081G",
+                "X7I4680R",
+                "86R9476S",
+                "GOC54665",
+                "N2P9317N",
+                "80C5885Z",
+                "JZV5283U",
+                "JG77046J",
+                "QWL7778X",
+                "YGB8604T",
+                "WI719547",
+                "B7789327"
+            ],
+            "title": "[인터뷰 전문] 이기인 \"韓 제명, 무조건 선거에 타격…최악의 판단\""
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a43",
+            "link": "https://n.news.naver.com/mnews/article/021/0002767436?sid=102",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "연합뉴스 2022년 지방선거 국면에서 강선우 당시 더불어민주당 의원에게 1억 원의 공천헌금을 건넨 혐의와... ‘국회의원들을 차명 후원 했느냐?’ , ‘구청장 공천을 청탁했느냐?’ 는 취재진 질문에는 답변하지 않았다.... ",
+            "originallink": "https://www.munhwa.com/article/11564672?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-29T12:09:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "4번째 경찰 소환된 김경 “국민께 죄송”…‘금품 로비’ 의원 공개하나..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a44",
+            "link": "https://n.news.naver.com/mnews/article/020/0003693379?sid=102",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "후원하려는 국회의원 보좌관 등 계좌로 반환하게 했다는 의혹을 받는다. 아울러 2022년 지방선거 공천 과정에서 당시 민주당 소속이던 강선우 의원에게 1억 원의 뇌물을 전달한 혐의도 경찰은 들여다본다. 특히 강 의원의... ",
+            "originallink": "https://www.donga.com/news/Society/article/all/20260129/133255781/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-29T10:38:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "김경, 4번째 경찰 출석…“할수 있는건 성실히 수사 임하는 것뿐”"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a45",
+            "link": "https://n.news.naver.com/mnews/article/003/0013736930?sid=102",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "류현주 정병혁 이지영 김윤영 수습 기자 = 더불어민주당 소속이던 강선우 의원에게 공천헌금 1억원을 건넨... 후원하려는 국회의원 보좌관 등 계좌로 반환하게 한 것으로 알려졌다. 구체적으로는 직원에게 급여와 연구비... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003494670",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T10:28:00",
+            "related_members": [
+                "5N65159P",
+                "MNZ4401T"
+            ],
+            "title": "'공천헌금 의혹' 김경 전 서울시의원 4차 조사 출석… 공천 청탁 질문엔..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a46",
+            "link": "https://n.news.naver.com/mnews/article/079/0004110197?sid=102",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "시의원은 \"국민 여러분께 심려를 끼쳐 드려 죄송하다\"며 \"조사에 성실히 임하겠다\"고 밝혔다. 다만 '강선우... 녹취 파일에는 현직 더불어민주당 국회의원들의 실명이 거론된 정황도 담긴 것으로 전해졌다. PC에는 민주당... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463682?utm_source=naver&utm_medium=article&utm_campaign=20260129102040",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-29T10:21:00",
+            "related_members": [
+                "MNZ4401T"
+            ],
+            "title": "'황금PC'에 또다른 공천헌금 의혹…김경, 네 번째 경찰 조사"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a47",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307428?sid=102",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "또 동생이 설립한 회사 재단의 직원과 회원 등에게 돈을 보낸 뒤 잘못 입금했다며 국회의원 후원 계좌로 돈을 보내게 하는 방식으로 차명 후원을 했다는 의혹까지 제기된 상황입니다. 경찰이 조금 전부터는 김병기 의원... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601291016282302",
+            "press": "YTN",
+            "pubDate": "2026-01-29T10:16:00",
+            "related_members": [
+                "MNZ4401T",
+                "8Q88373R"
+            ],
+            "title": "경찰, 김경 4차 소환...'공천 로비 의혹' 수사 집중"
+        },
+        {
+            "_id": "697cbd5f38b0cf4096976ce5",
+            "link": "https://n.news.naver.com/mnews/article/015/0005242809?sid=100",
+            "created_at": "2026-01-30T23:17:03.643000",
+            "description": "김정철 개혁신당 최고위원은 지난 26일 CBS라디오 '박재홍의 한판승부'에서 당 소속 천하람 의원이 제기한... 차례나 국회의원을 지냈다는 점을 강조하면서, 인사 검증 실패에 대해 국민 앞에 사과하지 않았다\"면서... ",
+            "originallink": "https://www.hankyung.com/article/2026012754507",
+            "press": "한국경제",
+            "pubDate": "2026-01-27T15:44:00",
+            "related_members": [
+                "9YO73104",
+                "MNZ4401T",
+                "YGB8604T"
+            ],
+            "title": "\"이혜훈, 장관 욕심에 정치생명 잃고 아파트도…\" 개혁신당 맹공"
+        },
         {
             "_id": "6976fce68459600028997f04",
             "link": "https://n.news.naver.com/mnews/article/052/0002305915?sid=102",
@@ -181,7 +585,7 @@
             "link": "https://n.news.naver.com/mnews/article/079/0004108923?sid=100",
             "created_at": "2026-01-26T14:34:27.877000",
             "description": "국회의원들을 자기 편으로 만들겠다, 그래서 중앙위원들까지 포섭해서 당 대표 연임하겠다는 그런 계획이 있는 것 같습니다. 그것뿐만 아니라 전 대통령실의 입장도 분명히 합당을 원한다고 생각을 해요. 왜냐하면 천하람... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6461661?utm_source=naver&utm_medium=article&utm_campaign=20260126113658",
+            "originallink": "https://www.nocutnews.co.kr/news/6461661?utm_source=naver&utm_medium=article&utm_campaign=20260129014141",
             "press": "노컷뉴스",
             "pubDate": "2026-01-26T11:37:00",
             "related_members": [
@@ -196,462 +600,38 @@
                 "FYI20317",
                 "YGB8604T"
             ],
-            "title": "[정치맛집]\"조국혁신당에 손 내민 정청래의 진짜 속내는?\""
-        },
-        {
-            "_id": "6976fce68459600028997f06",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305865?sid=102",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "정치헌금 의혹 등이 제기된 김병기 의원에 대한 소환 조사는 언제쯤 이뤄질까요? [기자] 경찰은 지난주 김병기 의원 차남 편입 논란과 관련된 업체, 그리고 아내 수사무마 의혹에 휩싸인 동작경찰서를 압수수색 하며... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601261137257506",
-            "press": "YTN",
-            "pubDate": "2026-01-26T11:37:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "김경 '구청장 공천 로비'도 수사 속도...재소환 관심"
-        },
-        {
-            "_id": "6976fce68459600028997f08",
-            "link": "https://n.news.naver.com/mnews/article/015/0005242019?sid=100",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "차례나 국회의원을 지냈다는 점을 강조하면서, 인사 검증 실패에 대해 국민 앞에 사과하지 않았다\"면서... 최보윤 국민의힘 수석대변인은 25일 논평을 내고 \"부동산·병역·입시·갑질, 이른바 '국민 4대 역린'을 모두 건드린... ",
-            "originallink": "https://www.hankyung.com/article/2026012621537",
-            "press": "한국경제",
-            "pubDate": "2026-01-26T10:46:00",
-            "related_members": [
-                "8Q88373R",
-                "MNZ4401T",
-                "9YO73104",
-                "QWL7778X",
-                "YGB8604T",
-                "UOS16250"
-            ],
-            "title": "'원펜타스 부정 청약이 결정타' 이혜훈 국민 역린 건드렸나"
-        },
-        {
-            "_id": "6976fce68459600028997f09",
-            "link": "https://n.news.naver.com/mnews/article/421/0008734119?sid=102",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "김경 서울시의원의 공천 헌금 의혹에 대한 경찰 수사가 더불어민주당을 탈당한 강선우 무소속 의원에 1억... 특히 현직 국회의원과 지방의회 의원 등에게 금품을 건네려고 하거나 중간 역할을 하는 인물에게 금품을... ",
-            "originallink": "https://www.news1.kr/society/incident-accident/6050733",
-            "press": "뉴스1",
-            "pubDate": "2026-01-26T10:41:00",
-            "related_members": [
-                "MNZ4401T"
-            ],
-            "title": "김경 '공천 로비' 의혹, 강서구청장 보선으로 확대…강제수사 돌입"
-        },
-        {
-            "_id": "6976fce68459600028997f0a",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305807?sid=100",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "그런 측면에서 앞으로 국회의원들이 과거에는 보좌진들에게 자신의 가정사 또는 개인사까지도 다 시켰던 게... 말씀하신 것처럼 갑작스럽게 이절차가 진행됐기 때문에 당내 진통도 상당한 것 같은데 조승래 사무총장 얘기... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601261025418334",
-            "press": "YTN",
-            "pubDate": "2026-01-26T10:25:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "KFM1081G",
-                "2385336L",
-                "FYI20317"
-            ],
-            "title": "[뉴스퀘어10] 이혜훈 전격 지명 철회...'부정청약 의혹' 결정적?"
-        },
-        {
-            "_id": "6976fce68459600028997f0b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012112228?sid=100",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "하지만 지명 직후 터져 나온 보좌진 갑질 논란을 시작으로, [이혜훈/당시 국회의원 : \"야!!! 야!!! 내가 정말 널... 이재명 정부 들어 국무위원 후보자 낙마는 이진숙 교육부 장관 후보자 강선우 여성가족부 장관 후보자에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468630&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-26T10:12:00",
-            "related_members": [
-                "MNZ4401T"
-            ],
-            "title": "이 대통령, 이혜훈 지명 철회…“국민 눈높이 부합 못해”"
-        },
-        {
-            "_id": "6976fce68459600028997f0c",
-            "link": "https://n.news.naver.com/mnews/article/056/0012112188?sid=100",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "박)공당의 이익으로 관철해야…정청래(개인)의 것으로 가면 안 돼 김)이번 지선 정청래 역량으로 치르겠다는... ▶ 박성준 : 우리 김성태 전 대표님도 아시겠지만 사실 국회에서 3선 의원 정도 하고 또 시민의 선택을 받지... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468607&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-26T09:50:00",
-            "related_members": [
-                "IL74008M",
-                "MNZ4401T",
-                "8Q88373R",
-                "KFM1081G",
-                "2385336L"
-            ],
-            "title": "[전격시사] “보수 인재 계속 등용?” (박성준) “운동장 넓게 써야” v..."
-        },
-        {
-            "_id": "6976fce68459600028997f0d",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305775?sid=102",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "정치헌금 의혹 등이 제기된 김병기 의원에 대한 소환 조사는 언제쯤 이뤄질까요. [기자] 경찰은 지난주 김병기 의원 차남 편입 논란과 관련된 업체, 그리고 아내 수사무마 의혹에 휩싸인 동작경찰서를 압수 수색하며... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601260939594827",
-            "press": "YTN",
-            "pubDate": "2026-01-26T09:39:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "김경 '구청장 공천 로비'로 수사 확대...재소환 관심"
-        },
-        {
-            "_id": "6976fce68459600028997f0f",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=107055&s_mcd=0214&s_hcd=01",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "전재수 터졌죠, 이춘석 터졌죠, 최민희 건부터 해서... 이런 전반적인 부분을 봐서는 민주당도 드러내놓고... 부산 시장 국회의원 출마 이런 얘기가 있잖아요? 조국 대표는 국회로 가려고 그랬죠. 그런데 정청래 대표로... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107055&s_mcd=0214&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-26T09:30:00",
-            "related_members": [
-                "2385336L",
-                "8Q88373R",
-                "MNZ4401T",
-                "MLH1404S",
-                "QWL7778X",
-                "YOG1280B",
-                "JZV5283U",
-                "YS38221N",
-                "V2R7430Z",
-                "9YO73104",
-                "KFM1081G"
-            ],
-            "title": "조원진 \"박근혜 전 대통령의 단식장 방문, 무도한 이재명 정권에 대한 ..."
-        },
-        {
-            "_id": "6976fce68459600028997f0e",
-            "link": "https://n.news.naver.com/mnews/article/056/0012112167?sid=100",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "하지만 지명 직후 터져 나온 보좌진 갑질 논란을 시작으로, [이혜훈/당시 국회의원 : \"야!!! 야!!! 내가 정말 널... 이재명 정부 들어 국무위원 후보자 낙마는 이진숙 교육부 장관 후보자 강선우 여성가족부 장관 후보자에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468566&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-26T09:30:00",
-            "related_members": [
-                "MNZ4401T"
-            ],
-            "title": "이 대통령, 이혜훈 지명 철회…“국민 눈높이 부합 못해”"
-        },
-        {
-            "_id": "6976fce68459600028997f10",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305741?sid=102",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "정치헌금 의혹 등이 제기된 김병기 의원에 대한 소환 조사는 언제쯤 이뤄질까요. [기자] 경찰은 지난주 김병기 의원 차남 편입 논란과 관련된 업체, 그리고 아내 수사무마 의혹에 휩싸인 동작경찰서를 압수 수색하기도... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601260840355212",
-            "press": "YTN",
-            "pubDate": "2026-01-26T08:40:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "'구청장 공천 로비' 수사 속도...김경 재소환 관심"
-        },
-        {
-            "_id": "6976fce68459600028997f11",
-            "link": "https://n.news.naver.com/mnews/article/448/0000586138?sid=102",
-            "created_at": "2026-01-26T14:34:27.877000",
-            "description": "강선우 의원의 공천헌금 의혹으로 시작된 김경 서울시의원 수사가 2023년 강서구청장 보궐선거 당시 민주당... A 의원은 현역 민주당 국회의원으로 당시 후보자 검증위에 속해있었습니다. 경찰은 양 전 의장 자택을... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/26/2026012690022.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-26T08:30:00",
-            "related_members": [
-                "MNZ4401T"
-            ],
-            "title": "경찰, '공천 헌금' 수사 확대…'지도부 측근' 前 서울시의장 곧 소환"
-        },
-        {
-            "_id": "6976fce68459600028997f12",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305805?sid=100",
-            "created_at": "2026-01-26T14:34:27.878000",
-            "description": "전재수 터졌죠, 이춘석 터졌죠, 최민희 건부터 해서... 이런 전반적인 부분을 봐서는 민주당도 드러내놓고... 부산 시장 국회의원 출마 이런 얘기가 있잖아요? 조국 대표는 국회로 가려고 그랬죠. 그런데 정청래 대표로... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601260746319308",
-            "press": "YTN",
-            "pubDate": "2026-01-26T07:46:00",
-            "related_members": [
-                "2385336L",
-                "8Q88373R",
-                "MNZ4401T",
-                "MLH1404S",
-                "QWL7778X",
-                "YOG1280B",
-                "JZV5283U",
-                "YS38221N",
-                "V2R7430Z",
-                "9YO73104",
-                "KFM1081G"
-            ],
-            "title": "조원진 \"박근혜 전 대통령의 단식장 방문, 무도한 이재명 정권에 대한 ..."
-        },
-        {
-            "_id": "6976fce68459600028997f13",
-            "link": "https://n.news.naver.com/mnews/article/011/0004582805?sid=102",
-            "created_at": "2026-01-26T14:34:27.878000",
-            "description": "시의원의 금품 전달 정황이 담긴 PC를 확보한 것으로 파악됐다. 이와는 별개로 김병기 무소속 의원이 전직... 이 녹취록에는 현역 더불어민주당 국회의원들이 여러 차례 언급된 것으로 전해졌다. 김 시의원이 공천을... ",
-            "originallink": "https://www.sedaily.com/article/20000405?ref=naver",
-            "press": "서울경제",
-            "pubDate": "2026-01-26T07:02:00",
-            "related_members": [
-                "8Q88373R",
-                "MNZ4401T"
-            ],
-            "title": "김병기·강선우 의혹도 갈 길 먼데… 김경 ‘황금PC’ 발견에 난감한 경..."
-        },
-        {
-            "_id": "6976fce68459600028997f14",
-            "link": "https://n.news.naver.com/mnews/article/056/0012112042?sid=100",
-            "created_at": "2026-01-26T14:34:27.878000",
-            "description": "하지만 지명 직후 터져 나온 보좌진 갑질 논란을 시작으로, [이혜훈/당시 국회의원 : \"야!!! 야!!! 내가 정말 널... 이재명 정부 들어 국무위원 후보자 낙마는 이진숙 교육부 장관 후보자 강선우 여성가족부 장관 후보자에... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468384&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-26T06:01:00",
-            "related_members": [
-                "MNZ4401T"
-            ],
-            "title": "이 대통령, 이혜훈 지명 철회…“국민 눈높이 부합 못해”"
-        },
-        {
-            "_id": "6976fce68459600028997f15",
-            "link": "https://n.news.naver.com/mnews/article/028/0002788265?sid=102",
-            "created_at": "2026-01-26T14:34:27.878000",
-            "description": "선거에 영향력을 행사할 만한 국회의원을 물색하는 김 시의원의 방식은 앞선 강선우 의원 공천헌금 사건을 빼닮았다. 본인 재력을 바탕으로 선출직 공직에 나서기 위해 중앙 정치권에 줄을 대려는 시의원과 선거 자금이... ",
-            "originallink": "https://www.hani.co.kr/arti/society/society_general/1241585.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-26T05:02:00",
-            "related_members": [
-                "MNZ4401T"
-            ],
-            "title": "‘김경 공천 로비’ 의혹 확산…강선우 넘어 2023년 민주당 지도부로"
-        },
-        {
-            "_id": "6976fce68459600028997f16",
-            "link": "https://n.news.naver.com/mnews/article/020/0003692273?sid=100",
-            "created_at": "2026-01-26T14:34:27.878000",
-            "description": "“이혜훈 후보자는 보수정당에서 세 차례나 국회의원을 지냈지만 안타깝게도 국민 눈높이에 부합하지... 반면 국민의힘 송언석 원내대표는 “진즉에 지명을 철회했어야 마땅한 사람을 20일 넘게 끌어온 데 따른 시간... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260126/133227693/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-26T04:34:00",
-            "related_members": [
-                "MNZ4401T",
-                "E2B3753X",
-                "6EN68926"
-            ],
-            "title": "이혜훈 ‘고구마 줄기 의혹’에 與도 싸늘… 깜짝인사 28일만에 낙마"
-        },
-        {
-            "_id": "6976fce68459600028997f17",
-            "link": "https://n.news.naver.com/mnews/article/023/0003955151?sid=100",
-            "created_at": "2026-01-26T14:34:27.878000",
-            "description": "그러면서 “이 후보자는 보수 정당에서 세 차례나 국회의원을 지냈지만, 안타깝게도 국민주권정부에서... 국민의힘 송언석 원내대표는 “명백한 인사 참사이자 인사 검증 실패”라며 이 대통령의 대국민 사과를 요구했다... ",
-            "originallink": "https://www.chosun.com/politics/blue_house/2026/01/26/L5QFVKVWFNGPDMXMVEK2ZMYDPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-26T00:56:00",
-            "related_members": [
-                "MNZ4401T",
-                "6EN68926"
-            ],
-            "title": "“통합” 28일 만에 이혜훈 지명철회"
-        },
-        {
-            "_id": "6976fcee8459600028997f59",
-            "link": "https://n.news.naver.com/mnews/article/448/0000586110?sid=102",
-            "created_at": "2026-01-26T14:34:35.845000",
-            "description": "김병기 강선우 의원으로 시작됐던 수사가 확대되고 있습니다. 선관위로 부터 수사의뢰를 받은 경찰이 어제... A 의원은 현역 민주당 국회의원으로 당시 후보자 검증위에 속해있었습니다. 경찰은 양 전 의장 자택을... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/25/2026012590150.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-25T19:22:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "경찰, '공천 헌금' 수사 확대…'지도부 측근' 前 서울시의장 곧 소환"
-        },
-        {
-            "_id": "6976fcee8459600028997f5a",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305567?sid=102",
-            "created_at": "2026-01-26T14:34:35.845000",
-            "description": "휴일인 오늘도 경찰은 김병기·강선우 의원을 둘러싼 의혹과 관련해 압수물을 분석하는 동시에 사건... 앞서, 경찰은 김 시의원이 현직 국회의원에게 청탁하려고 A 씨에게 돈을 건넸다는 녹취를 확보한 것으로... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601251644593140",
-            "press": "YTN",
-            "pubDate": "2026-01-25T16:44:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "김병기 소환 시기 주목...경찰, 휴일에도 수사 계속"
-        },
-        {
-            "_id": "6976fcee8459600028997f5c",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305534?sid=102",
-            "created_at": "2026-01-26T14:34:35.845000",
-            "description": "휴일인 오늘도 경찰은 김병기·강선우 의원을 둘러싼 의혹과 관련해 압수물을 분석하는 동시에 사건... 앞서, 경찰은 김 시의원이 강서구청장 보궐선거 공천을 앞두고, 현직 국회의원에게 청탁하려고 A 씨에게 돈을... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601251412133094",
-            "press": "YTN",
-            "pubDate": "2026-01-25T14:12:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "김병기 소환 시기 관심...경찰, 압수물 분석·참고인 조사"
-        },
-        {
-            "_id": "6976fcee8459600028997f5e",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305506?sid=102",
-            "created_at": "2026-01-26T14:34:35.845000",
-            "description": "휴일인 오늘도 경찰은 김병기·강선우 의원을 둘러싼 의혹과 관련해 압수물을 분석하는 동시에 사건... 앞서, 경찰은 김 시의원이 강서구청장 보궐선거 공천을 앞두고, 현직 국회의원에게 청탁하려고 A 씨에게 돈을... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601251214479055",
-            "press": "YTN",
-            "pubDate": "2026-01-25T12:14:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "김병기 소환시기 주목...경찰, 휴일에도 수사 계속"
-        },
-        {
-            "_id": "6976fcee8459600028997f60",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305474?sid=102",
-            "created_at": "2026-01-26T14:34:35.845000",
-            "description": "휴일인 오늘도 경찰은 김병기·강선우 의원을 둘러싼 의혹과 관련해 압수물을 분석하는 동시에 사건... 앞서, 경찰은 김 시의원이 강서구청장 보궐선거 공천을 앞두고, 현직 국회의원에게 청탁하려고 A 씨에게 돈을... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601250955075764",
-            "press": "YTN",
-            "pubDate": "2026-01-25T09:55:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "경찰, 김병기 소환시기 관심...휴일에도 수사 계속"
-        },
-        {
-            "_id": "6976fcee8459600028997f61",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305376?sid=100",
-            "created_at": "2026-01-26T14:34:35.845000",
-            "description": "그리고 지금 민주당 내의 기초단체장, 광역단체장 그다음에 국회의원들, 당원들의 권한을 그대로 침해를... 이것은 앞서 나왔던 조국 대표가 이끄는 조국혁신당 못지않게 사실상 이준석 대표라든가 천하람 의원 정도를... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601242239294473",
-            "press": "YTN",
-            "pubDate": "2026-01-24T22:39:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "NX534083",
-                "MDC3257K",
-                "JG77046J",
-                "QWL7778X",
-                "YGB8604T"
-            ],
-            "title": "'공천 헌금 의혹' 김경 압수수색...\"쌍특검\" vs \"성역없는 수사 중\""
-        },
-        {
-            "_id": "6976fcee8459600028997f64",
-            "link": "https://n.news.naver.com/mnews/article/005/0001828032?sid=100",
-            "created_at": "2026-01-26T14:34:35.846000",
-            "description": "핵심은 국회의원과 지방자치단체장, 시·도당위원장 등을 가리지 않고 최고 제명에 이르는 중징계를 결정할... 최민희 의원의 딸 결혼식 금품수수 의혹, 장경태 의원의 보좌진 성추행 의혹 관련 당 윤리감찰단 조사 결과는... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768978560&code=11121100&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-24T00:04:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "RPN2293B",
-                "YS38221N"
-            ],
-            "title": "연초부터 쏟아진 제명! 제명!… 중대 결정마다 논란의 중심"
-        },
-        {
-            "_id": "6976fd27845960002899807b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008730880?sid=100",
-            "created_at": "2026-01-26T14:35:32.921000",
-            "description": "최은석 국민의힘 의원은 이날 오전 국회에서 열린 인사청문회에서 이 후보자의 장남이 '사회 기여자 전형... 천하람 개혁신당 의원은 갑질 논란으로 장관직에서 낙마한 강선우 무소속 의원(전 더불어민주당)을 거론하며... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6048879",
-            "press": "뉴스1",
-            "pubDate": "2026-01-23T12:42:00",
-            "related_members": [
-                "EH27538E",
-                "LT72093S",
-                "UF53617M",
-                "3C23171A",
-                "KNP22261",
-                "YGB8604T",
-                "MNZ4401T"
-            ],
-            "title": "여야 모두 이혜훈 질타…\"입만 열면 거짓말\" \"불법 청약 부정입학\""
-        },
-        {
-            "_id": "6972d1ee8459600028997685",
-            "link": "https://n.news.naver.com/mnews/article/056/0012111085?sid=100",
-            "created_at": "2026-01-23T10:42:04.433000",
-            "description": "물론 전제 조건은 전재수 의원이 흔들려서 여권으로서는 여기에 투입할 대체제가 마땅치 않을 때 조 전 대표 카드는 살아있다고 보고 조 전 대표는 반드시 아마 국회로 올 생각을 할 거예요. 다만 호남일 경우에는 정... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8467129&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-23T10:33:00",
-            "related_members": [
-                "8P37634C",
-                "JG77046J",
-                "RJH6314D",
-                "MNZ4401T",
-                "MLH1404S",
-                "OFE45081",
-                "5TQ6306B",
-                "JZV5283U",
-                "QWL7778X",
-                "KFM1081G",
-                "9YO73104",
-                "2385336L",
-                "YGB8604T"
-            ],
-            "title": "[전격시사] (김준일) “합당, 지금이 적기” vs (최수영) “국힘도? 이준..."
-        },
-        {
-            "_id": "6972d1ef8459600028997697",
-            "link": "https://n.news.naver.com/mnews/article/052/0002304758?sid=102",
-            "created_at": "2026-01-23T10:42:05.624000",
-            "description": "특히 당시 후보자 검증위원에 속해 있던 현직 국회의원에게 자신이 출마할 수 있게 부탁하기 위해 당시... 시의원 측은 의혹을 전면 부인했습니다. 김병기 의원 관련 의혹들 수사 상황도 정리해주시죠. [기자] 네, 경찰은... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601230950098111",
-            "press": "YTN",
-            "pubDate": "2026-01-23T09:50:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R"
-            ],
-            "title": "경찰, '강선우 1억 의혹' 전 사무국장 재소환...'김경 녹취록' 분석"
+            "title": "\"조국혁신당에 손 내민 정청래의 진짜 속내는?\"[정치맛집]"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6966edf3887d07f7ba2fb34e",
-            "url": "https://www.youtube.com/watch?v=B5AzFSt7j7k",
+            "_id": "6966edf3887d07f7ba2fb350",
+            "url": "https://www.youtube.com/watch?v=ty0DX6Bnq74",
+            "HG_NM": "강선우",
+            "MONA_CD": "MNZ4401T",
+            "collected_at": "2026-01-14T10:14:27.806000",
+            "duration": 42897.0,
+            "title": "[🔴이슈를 켜라] 강선우, 경찰에 아이폰 비밀번호 제공 거부 / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "69659503887d07f7ba2fab8d",
+            "url": "https://www.youtube.com/watch?v=LndlBr4KwDA",
             "HG_NM": "강선우",
             "MONA_CD": "MNZ4401T",
             "collected_at": "2026-01-14T10:14:26.851000",
-            "duration": 688.0,
-            "title": "[시사쇼 정치다] 통일교 관계자 \"'어프로치 명단'은 강선우에게, '될 사람'은 정진상에게\"",
+            "duration": 819.0,
+            "title": "경찰, '공천헌금' 의혹 강선우·김경 주거지 압수수색 [이슈PLAY] / JTBC News",
             "upload_date": null
         },
         {
-            "_id": "69659503887d07f7ba2fab8e",
-            "url": "https://www.youtube.com/watch?v=Z5ga7OsFohQ",
+            "_id": "6960aba9631fd1743497d344",
+            "url": "https://www.youtube.com/watch?v=g1UdD_5QeBA",
             "HG_NM": "강선우",
             "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-23T16:39:30.304000",
-            "duration": 1022.0,
-            "title": "[풀버전] 국회의원 강선우, 대정부질문",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aba9631fd1743497d346",
-            "url": "https://www.youtube.com/watch?v=ZskJNQRl6iQ",
-            "HG_NM": "강선우",
-            "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-09T16:17:58.947000",
-            "duration": 29383.0,
-            "title": "[🔴이슈PLAY] 강선우 전 보좌관 \"1억 안 받았다\" 혐의 부인",
+            "collected_at": "2026-01-21T08:41:16.670000",
+            "duration": 151.0,
+            "title": "'1억 수수 의혹' 강선우 전격 민주당 탈당‥\"당에 너무 많은 부담\" (2026.01.01/뉴스데스크/MBC)",
             "upload_date": null
         },
         {
@@ -675,46 +655,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960aba9631fd1743497d347",
-            "url": "https://www.youtube.com/watch?v=U-rCtqx9cLk",
-            "HG_NM": "강선우",
-            "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-09T16:17:58.947000",
-            "duration": 500.0,
-            "title": "[시사쇼 정치다] '강선우 1억 의혹' 김경, 텔레그램 탈퇴 후 재가입… 김병기 의혹마다 등장한 이지희는 누구?",
-            "upload_date": null
-        },
-        {
-            "_id": "6966edf3887d07f7ba2fb34f",
-            "url": "https://www.youtube.com/watch?v=lXTeXZ9112A",
-            "HG_NM": "강선우",
-            "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-14T10:14:27.806000",
-            "duration": 824.0,
-            "title": "“수사에 적극 협조” 한다더니…비번 안 준 강선우 / 채널A / 뉴스TOP 10",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aba9631fd1743497d341",
-            "url": "https://www.youtube.com/watch?v=oz0TCyga6tU",
-            "HG_NM": "강선우",
-            "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-23T16:39:30.304000",
-            "duration": 147.0,
-            "title": "[단독] \"살려달라\"던 강선우…김경 당선 뒤엔 '원내대표' 밀어 / JTBC 뉴스룸",
-            "upload_date": null
-        },
-        {
-            "_id": "69659503887d07f7ba2fab8f",
-            "url": "https://www.youtube.com/watch?v=U3mSBV-fuKg",
-            "HG_NM": "강선우",
-            "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-23T16:39:30.304000",
-            "duration": 109.0,
-            "title": "민주당, '공천 헌금 수수 의혹' 강선우 제명...김병기는 징계 심판 요청｜지금 이 뉴스",
-            "upload_date": null
-        },
-        {
             "_id": "6960aba9631fd1743497d348",
             "url": "https://www.youtube.com/watch?v=j_9Sfy_jNso",
             "HG_NM": "강선우",
@@ -722,6 +662,46 @@
             "collected_at": "2026-01-09T16:17:58.947000",
             "duration": 418.0,
             "title": "[시사쇼 정치다] 강선우-前 사무국장, '1억 보관' 진실 게임 양상… '1억 원' 행방은?",
+            "upload_date": null
+        },
+        {
+            "_id": "6966edf3887d07f7ba2fb34e",
+            "url": "https://www.youtube.com/watch?v=B5AzFSt7j7k",
+            "HG_NM": "강선우",
+            "MONA_CD": "MNZ4401T",
+            "collected_at": "2026-01-14T10:14:26.851000",
+            "duration": 688.0,
+            "title": "[시사쇼 정치다] 통일교 관계자 \"'어프로치 명단'은 강선우에게, '될 사람'은 정진상에게\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aba9631fd1743497d340",
+            "url": "https://www.youtube.com/watch?v=UCTDli6TqWf2P-mWuJpFby3w",
+            "HG_NM": "강선우",
+            "MONA_CD": "MNZ4401T",
+            "collected_at": "2026-01-30T23:17:57.144000",
+            "duration": null,
+            "title": "강선우",
+            "upload_date": null
+        },
+        {
+            "_id": "69659503887d07f7ba2fab8f",
+            "url": "https://www.youtube.com/watch?v=U3mSBV-fuKg",
+            "HG_NM": "강선우",
+            "MONA_CD": "MNZ4401T",
+            "collected_at": "2026-01-30T23:17:57.144000",
+            "duration": 109.0,
+            "title": "민주당, '공천 헌금 수수 의혹' 강선우 제명...김병기는 징계 심판 요청｜지금 이 뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aba9631fd1743497d345",
+            "url": "https://www.youtube.com/watch?v=v4oZvUREe80",
+            "HG_NM": "강선우",
+            "MONA_CD": "MNZ4401T",
+            "collected_at": "2026-01-09T16:17:58.947000",
+            "duration": null,
+            "title": "[속보] 김경, 공천헌금 혐의 인정 자술서 경찰 제출···\"강선우에 1억 줬다\"  [무조건 간다 LIVE]",
             "upload_date": null
         },
         {
@@ -745,13 +725,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960aba9631fd1743497d345",
-            "url": "https://www.youtube.com/watch?v=v4oZvUREe80",
+            "_id": "6960aba9631fd1743497d347",
+            "url": "https://www.youtube.com/watch?v=U-rCtqx9cLk",
             "HG_NM": "강선우",
             "MONA_CD": "MNZ4401T",
             "collected_at": "2026-01-09T16:17:58.947000",
-            "duration": null,
-            "title": "[속보] 김경, 공천헌금 혐의 인정 자술서 경찰 제출···\"강선우에 1억 줬다\"  [무조건 간다 LIVE]",
+            "duration": 500.0,
+            "title": "[시사쇼 정치다] '강선우 1억 의혹' 김경, 텔레그램 탈퇴 후 재가입… 김병기 의혹마다 등장한 이지희는 누구?",
             "upload_date": null
         },
         {
@@ -765,23 +745,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960aba9631fd1743497d344",
-            "url": "https://www.youtube.com/watch?v=g1UdD_5QeBA",
+            "_id": "6960aba9631fd1743497d343",
+            "url": "https://www.youtube.com/watch?v=amjatUmdBOI",
             "HG_NM": "강선우",
             "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-21T08:41:16.670000",
-            "duration": 151.0,
-            "title": "'1억 수수 의혹' 강선우 전격 민주당 탈당‥\"당에 너무 많은 부담\" (2026.01.01/뉴스데스크/MBC)",
+            "collected_at": "2026-01-30T23:17:57.144000",
+            "duration": 2269.0,
+            "title": "민주, 강선우 전격 제명...김병기 징계심판 결정 요청 / YTN",
             "upload_date": null
         },
         {
-            "_id": "69659503887d07f7ba2fab8d",
-            "url": "https://www.youtube.com/watch?v=LndlBr4KwDA",
+            "_id": "69659503887d07f7ba2fab8e",
+            "url": "https://www.youtube.com/watch?v=Z5ga7OsFohQ",
             "HG_NM": "강선우",
             "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-14T10:14:26.851000",
-            "duration": 819.0,
-            "title": "경찰, '공천헌금' 의혹 강선우·김경 주거지 압수수색 [이슈PLAY] / JTBC News",
+            "collected_at": "2026-01-30T23:17:57.144000",
+            "duration": 1022.0,
+            "title": "[풀버전] 국회의원 강선우, 대정부질문",
             "upload_date": null
         },
         {
@@ -796,23 +776,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960aba9631fd1743497d343",
-            "url": "https://www.youtube.com/watch?v=amjatUmdBOI",
-            "HG_NM": "강선우",
-            "MONA_CD": "MNZ4401T",
-            "collected_at": "2026-01-21T08:41:15.929000",
-            "duration": 2269.0,
-            "title": "민주, 강선우 전격 제명...김병기 징계심판 결정 요청 / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aba9631fd1743497d340",
-            "url": "https://www.youtube.com/watch?v=UCTDli6TqWf2P-mWuJpFby3w",
+            "_id": "6960aba9631fd1743497d341",
+            "url": "https://www.youtube.com/watch?v=oz0TCyga6tU",
             "HG_NM": "강선우",
             "MONA_CD": "MNZ4401T",
             "collected_at": "2026-01-23T16:39:30.304000",
-            "duration": null,
-            "title": "강선우",
+            "duration": 147.0,
+            "title": "[단독] \"살려달라\"던 강선우…김경 당선 뒤엔 '원내대표' 밀어 / JTBC 뉴스룸",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aba9631fd1743497d346",
+            "url": "https://www.youtube.com/watch?v=ZskJNQRl6iQ",
+            "HG_NM": "강선우",
+            "MONA_CD": "MNZ4401T",
+            "collected_at": "2026-01-09T16:17:58.947000",
+            "duration": 29383.0,
+            "title": "[🔴이슈PLAY] 강선우 전 보좌관 \"1억 안 받았다\" 혐의 부인",
             "upload_date": null
         },
         {
@@ -826,5 +806,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:09.939106"
+    "exported_at": "2026-01-30T23:35:40.207079"
 }

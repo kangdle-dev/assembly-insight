@@ -48,15 +48,15 @@
             "디지털",
             "헬스케어",
             "관리",
-            "제도",
+            "보건",
+            "복지",
             "정책",
+            "제도",
             "국정",
             "감사",
-            "보건",
-            "회관",
-            "헬스",
-            "통합",
-            "돌봄"
+            "신년",
+            "장관",
+            "회관"
         ],
         "keyword_frequency": [
             {
@@ -84,11 +84,19 @@
                 "value": 11
             },
             {
-                "text": "제도",
-                "value": 9
+                "text": "보건",
+                "value": 10
+            },
+            {
+                "text": "복지",
+                "value": 10
             },
             {
                 "text": "정책",
+                "value": 10
+            },
+            {
+                "text": "제도",
                 "value": 9
             },
             {
@@ -100,49 +108,104 @@
                 "value": 8
             },
             {
-                "text": "보건",
+                "text": "신년",
+                "value": 7
+            },
+            {
+                "text": "장관",
                 "value": 7
             },
             {
                 "text": "회관",
                 "value": 7
-            },
-            {
-                "text": "헬스",
-                "value": 7
-            },
-            {
-                "text": "통합",
-                "value": 6
-            },
-            {
-                "text": "돌봄",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:40.590024",
+        "last_analyzed_at": "2026-01-30T23:36:11.385059",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
+                0,
+                0,
                 1,
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1938b0cf4096976a42",
+            "link": "https://n.news.naver.com/mnews/article/421/0008742370?sid=100",
+            "created_at": "2026-01-30T23:15:53.690000",
+            "description": "저희 비록 3석밖에 안 되지만 이번 이혜훈 청문회에서도 보셨다시피 사실 천하람 대표가 발굴한 의제로 모든... 지난번 최고위 선거에서 이 중앙위원들, 당협위원장들이나 국회의원들 선거 투표에서 최고위 투표율이 90%가... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6055291",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T14:27:00",
+            "related_members": [
+                "8Q88373R",
+                "MNZ4401T",
+                "8X15119P",
+                "LYY5513O",
+                "KFM1081G",
+                "X7I4680R",
+                "86R9476S",
+                "GOC54665",
+                "N2P9317N",
+                "80C5885Z",
+                "JZV5283U",
+                "JG77046J",
+                "QWL7778X",
+                "YGB8604T",
+                "WI719547",
+                "B7789327"
+            ],
+            "title": "[인터뷰 전문] 이기인 \"韓 제명, 무조건 선거에 타격…최악의 판단\""
+        },
+        {
+            "_id": "697cbd5938b0cf4096976cb2",
+            "link": "https://n.news.naver.com/mnews/article/346/0000103920?sid=103",
+            "created_at": "2026-01-30T23:16:57.097000",
+            "description": "대한종양내과학회(KSMO)는 지난 19일 국회 보건복지위원회 이주영 의원에게 ‘소외암 건강보험 형평성 강화를 위한 정책제안서’를 전달하고, 환자 수가 적다는 이유로 치료 접근성에서 불이익을 받고 있는 소외암 환자에... ",
+            "originallink": "https://health.chosun.com/site/data/html_dir/2026/01/28/2026012803018.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-28T16:08:00",
+            "related_members": [
+                "WI719547"
+            ],
+            "title": "대한종양내과학회, 국회 이주영 의원에 ‘소외암 건강보험 형평성 강화..."
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b35",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628086?sid=101",
+            "created_at": "2026-01-30T23:16:09.519000",
+            "description": "이날 신년인사회에는 김현훈 한국사회복지협의회장과 정은경 보건복지부 장관, 박주민 국회 보건복지위원회 위원장을 비롯해 남인순·윤후덕·김예지·박희승·김윤·안상훈·이주영·백선희 의원 등 정부·국회 주요... ",
+            "originallink": "https://www.mk.co.kr/article/11944570",
+            "press": "매일경제",
+            "pubDate": "2026-01-27T16:03:00",
+            "related_members": [
+                "CNZ51556",
+                "PYA8594I",
+                "6AU2417B",
+                "WI719547",
+                "04T3751T",
+                "43Q3892U",
+                "YN160848",
+                "5N65159P",
+                "7YL9580G",
+                "O7R5461J"
+            ],
+            "title": "한국사회복지협의회, 복지훈장 신설·연수원 건립 …사회복지인 처우 개..."
+        },
         {
             "_id": "6972d22c84596000289977fd",
             "link": "https://n.news.naver.com/mnews/article/374/0000487868?sid=101",
@@ -362,23 +425,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad94631fd1743497dada",
-            "url": "https://www.youtube.com/watch?v=noNtXko2Zpw",
-            "HG_NM": "이주영",
-            "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:39.613000",
-            "duration": 234.0,
-            "title": "[2025년 국정감사] 우리도 못쓰는 긴급의료비, 외국인이 탕진? #개혁신당 #쇼츠 #이주영 #국회의원 #릴스 #국정감사",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad94631fd1743497dad9",
             "url": "https://www.youtube.com/watch?v=i-u-e1EWPNU",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-09T16:26:08.530000",
+            "collected_at": "2026-01-30T23:30:07.687000",
             "duration": 1449.0,
             "title": "무대포 2000명 의사 증원이 의료를 망치는 솔직한 이유  (feat. 이주영 의원)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad94631fd1743497dada",
+            "url": "https://www.youtube.com/watch?v=noNtXko2Zpw",
+            "HG_NM": "이주영",
+            "MONA_CD": "WI719547",
+            "collected_at": "2026-01-30T23:30:07.687000",
+            "duration": 234.0,
+            "title": "[2025년 국정감사] 우리도 못쓰는 긴급의료비, 외국인이 탕진? #개혁신당 #쇼츠 #이주영 #국회의원 #릴스 #국정감사",
             "upload_date": null
         },
         {
@@ -386,9 +449,19 @@
             "url": "https://www.youtube.com/watch?v=1i5UUQ1eF5M",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:39.613000",
+            "collected_at": "2026-01-30T23:30:07.687000",
             "duration": 223.0,
             "title": "[2025년 국정감사] 우리집 앞 약사, 어떤 약사일까? #약사 #개혁신당 #릴스 #쇼츠 #이주영 #국정감사",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad94631fd1743497dadc",
+            "url": "https://www.youtube.com/watch?v=302QW-brbjA",
+            "HG_NM": "이주영",
+            "MONA_CD": "WI719547",
+            "collected_at": "2026-01-30T23:30:07.687000",
+            "duration": 496.0,
+            "title": "“매우 우수”라던 보건복지부, 현실은? #릴스 #개혁신당 #쇼츠 #이주영 #국회 #shorts ",
             "upload_date": null
         },
         {
@@ -396,7 +469,7 @@
             "url": "https://www.youtube.com/watch?v=9g2F5-pxqQ4",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:39.613000",
+            "collected_at": "2026-01-30T23:30:07.687000",
             "duration": 952.0,
             "title": "이주영 “시급한 건 응급실 ‘사법리스크 해소’…필수의료 낮은 전공의 복귀율, 정부 진지한 정책 고민 필요” (25.9.2.) | 이주영 개혁신당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
@@ -406,19 +479,9 @@
             "url": "https://www.youtube.com/watch?v=vOyH64MTwLw",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:40.379000",
+            "collected_at": "2026-01-30T23:30:09.235000",
             "duration": 215.0,
             "title": "이주영 \"남의 일엔 서릿발, 자기 일엔 애매모호\"  [티조Clip]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad94631fd1743497dadc",
-            "url": "https://www.youtube.com/watch?v=302QW-brbjA",
-            "HG_NM": "이주영",
-            "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:39.613000",
-            "duration": 496.0,
-            "title": "“매우 우수”라던 보건복지부, 현실은? #릴스 #개혁신당 #쇼츠 #이주영 #국회 #shorts ",
             "upload_date": null
         },
         {
@@ -426,7 +489,7 @@
             "url": "https://www.youtube.com/watch?v=yEFoYY9AI_0",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:40.379000",
+            "collected_at": "2026-01-30T23:30:09.235000",
             "duration": 86.0,
             "title": "[14/12/23 뉴스데스크] 이주영 해양수산부 장관 사표 수리…인적 개편 신호탄?",
             "upload_date": null
@@ -436,7 +499,7 @@
             "url": "https://www.youtube.com/watch?v=JuSWZueFDDo",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:40.379000",
+            "collected_at": "2026-01-30T23:30:09.235000",
             "duration": 91.0,
             "title": "[14/07/01 정오뉴스] 세월호 기관 보고...이주영 장관 \"책임 통감...거듭 사죄\"",
             "upload_date": null
@@ -456,7 +519,7 @@
             "url": "https://www.youtube.com/watch?v=rrFfceG1AX8",
             "HG_NM": "이주영",
             "MONA_CD": "WI719547",
-            "collected_at": "2026-01-23T16:47:39.613000",
+            "collected_at": "2026-01-30T23:30:07.687000",
             "duration": 337.0,
             "title": "[2025년 국정감사] 다이어트 한약, 국민 속여 돈벌이로? #개혁신당 #쇼츠 #이주영 #릴스 #국회의원",
             "upload_date": null
@@ -472,5 +535,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:40.590024"
+    "exported_at": "2026-01-30T23:36:11.385998"
 }

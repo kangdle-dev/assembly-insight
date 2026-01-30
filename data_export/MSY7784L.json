@@ -62,107 +62,426 @@
     },
     "analysis": {
         "keywords": [
-            "제명",
-            "단식",
             "국민",
             "대표",
-            "선거",
-            "무효",
-            "소송",
+            "단식",
+            "이해찬",
+            "빈소",
             "장동",
-            "남영",
-            "낙선",
             "의혹",
             "특검",
-            "총회",
-            "윤리위",
-            "진행"
+            "김건",
+            "총리",
+            "조문",
+            "추모",
+            "공천",
+            "선고",
+            "이틀"
         ],
         "keyword_frequency": [
             {
-                "text": "제명",
-                "value": 25
-            },
-            {
-                "text": "단식",
-                "value": 24
-            },
-            {
                 "text": "국민",
-                "value": 23
+                "value": 26
             },
             {
                 "text": "대표",
                 "value": 20
             },
             {
-                "text": "선거",
-                "value": 20
+                "text": "단식",
+                "value": 17
             },
             {
-                "text": "무효",
-                "value": 20
+                "text": "이해찬",
+                "value": 14
             },
             {
-                "text": "소송",
-                "value": 19
+                "text": "빈소",
+                "value": 13
             },
             {
                 "text": "장동",
-                "value": 16
-            },
-            {
-                "text": "남영",
-                "value": 15
-            },
-            {
-                "text": "낙선",
                 "value": 12
             },
             {
                 "text": "의혹",
-                "value": 11
+                "value": 12
             },
             {
                 "text": "특검",
+                "value": 12
+            },
+            {
+                "text": "김건",
                 "value": 11
             },
             {
-                "text": "총회",
-                "value": 11
+                "text": "총리",
+                "value": 10
             },
             {
-                "text": "윤리위",
-                "value": 11
+                "text": "조문",
+                "value": 10
             },
             {
-                "text": "진행",
-                "value": 9
+                "text": "추모",
+                "value": 10
+            },
+            {
+                "text": "공천",
+                "value": 10
+            },
+            {
+                "text": "선고",
+                "value": 8
+            },
+            {
+                "text": "이틀",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:35.150843",
+        "last_analyzed_at": "2026-01-30T23:36:05.853401",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
-                3,
                 2,
-                2,
+                1,
                 0,
-                2,
-                0
+                5,
+                8,
+                5
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1f38b0cf4096976aae",
+            "link": "https://n.news.naver.com/mnews/article/032/0003424886?sid=100",
+            "created_at": "2026-01-30T23:15:59.029000",
+            "description": "김기현·윤상현·조배숙·한기호·주진우 국민의힘 의원은 이날 국회에서 열린 차별금지법 반대 집회에 참석해 ‘차별금지법 반대’라고 적힌 피켓을 들었다. 해당 집회 현수막에는 ‘젠더 평등 반대, 낙태 전면 허용 반대... ",
+            "originallink": "https://www.khan.co.kr/article/202601301549001",
+            "press": "경향신문",
+            "pubDate": "2026-01-30T15:49:00",
+            "related_members": [
+                "MSY7784L",
+                "JQA21112",
+                "IWK63872",
+                "X7I4680R",
+                "GJK57930",
+                "2KM3589W"
+            ],
+            "title": "국힘 의원들, 차별금지법 반대 집회 참석…“신앙의 자유 침해 말아야”"
+        },
+        {
+            "_id": "697cbd3038b0cf4096976b72",
+            "link": "https://n.news.naver.com/mnews/article/421/0008744351?sid=100",
+            "created_at": "2026-01-30T23:16:16.043000",
+            "description": "지금까지 국민의힘에선 6선 조경태, 5선 나경원, 윤상현 의원 등이 이 전 총리 빈소를 찾아 고인을 추모했다.... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄주한 뒤 오전 11시 서울 추모공원에서 화장을 진행... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6056608",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T11:33:00",
+            "related_members": [
+                "MSY7784L",
+                "SLW27496",
+                "5KV82250",
+                "KFM1081G",
+                "6EN68926"
+            ],
+            "title": "[뉴스1 PICK]장동혁 등 국민의힘 지도부, 故 이해찬 전 총리 빈소 조문"
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a35",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107151&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 그래서 더군다나 이 명태균 씨 같은 경우에는 여기만 준 게 아니고 김종인 씨, 이준석 대표 다 줬다는 거예요. 그러면... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107151&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-30T09:00:00",
+            "related_members": [
+                "TQP7167T",
+                "MNZ4401T",
+                "GDG1847Z",
+                "MSY7784L",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "\"권성동보다 가볍다\" vs \"법 앞의 평등\" 김건희 선고에 형량 형평성 논란..."
+        },
+        {
+            "_id": "697cbd1938b0cf4096976a37",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307975?sid=100",
+            "created_at": "2026-01-30T23:15:53.689000",
+            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 그래서 더군다나 이 명태균 씨 같은 경우에는 여기만 준 게 아니고 김종인 씨, 이준석 대표 다 줬다는 거예요. 그러면... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601300740444411",
+            "press": "YTN",
+            "pubDate": "2026-01-30T07:40:00",
+            "related_members": [
+                "TQP7167T",
+                "MNZ4401T",
+                "GDG1847Z",
+                "MSY7784L",
+                "8X15119P",
+                "QWL7778X"
+            ],
+            "title": "\"권성동보다 가볍다\" vs \"법 앞의 평등\" 김건희 선고에 형량 형평성 논란..."
+        },
+        {
+            "_id": "697cbd2e38b0cf4096976b60",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738933?sid=100",
+            "created_at": "2026-01-30T23:16:14.088000",
+            "description": "국민의힘에서는 지금까지 조경태·나경원·윤상현·김태호·윤재옥 의원 등이 이 전 총리의 빈소를 찾았다.... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄수한 뒤, 오전 11시께 서울 추모공원에서 화장을... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495799",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T05:00:00",
+            "related_members": [
+                "MSY7784L",
+                "ZRF3039U",
+                "5KV82250",
+                "KFM1081G",
+                "P0F1530P",
+                "SLW27496",
+                "LJK4960Z",
+                "6EN68926"
+            ],
+            "title": "장동혁 등 국민의힘 지도부, 오늘 故 이해찬 전 총리 빈소 조문"
+        },
+        {
+            "_id": "697cbd4e38b0cf4096976c67",
+            "link": "https://n.news.naver.com/mnews/article/437/0000475908?sid=102",
+            "created_at": "2026-01-30T23:16:45.993000",
+            "description": "고위공직자수사처(공수처)가 윤상현 국민의힘 의원에게 무상으로 홍보 콘텐츠를 제공한 의혹을 받는 업체와... 공수처는 오늘(29일) 언론 공지를 통해 \"윤 모 국회의원의 정치자금 부정수수 의혹과 관련해 이날 오전부터... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12282469?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-29T16:56:00",
+            "related_members": [
+                "MSY7784L"
+            ],
+            "title": "공수처, '윤상현 무상 홍보물 제공' 업체·구의원 압수수색"
+        },
+        {
+            "_id": "697cbd2438b0cf4096976af8",
+            "link": "https://n.news.naver.com/mnews/article/009/0005629411?sid=100",
+            "created_at": "2026-01-30T23:16:04.510000",
+            "description": "이 전 총리의 장례 사흘째인 이날은 윤호중 행정안전부 장관과 정동영 통일부 장관, 김성환... 전날인 28일에는 여권·정재계 인사들은 물론 김성태, 윤상현, 윤재옥, 정몽준, 태영호 등 보수 성향 전현직 국회의원들도... ",
+            "originallink": "https://www.mk.co.kr/article/11947254",
+            "press": "매일경제",
+            "pubDate": "2026-01-29T16:56:00",
+            "related_members": [
+                "MSY7784L",
+                "ARP89147",
+                "KFM1081G",
+                "ZRF3039U",
+                "XSP20229",
+                "M0A1658U",
+                "SLW27496"
+            ],
+            "title": "[단독] 장동혁, 내일 오전 故 이해찬 전 총리 빈소 찾는다"
+        },
+        {
+            "_id": "697cbd4e38b0cf4096976c68",
+            "link": "https://n.news.naver.com/mnews/article/055/0001328616?sid=102",
+            "created_at": "2026-01-30T23:16:45.993000",
+            "description": "▲ 국민의힘 윤상현 의원이 지난 15일 국회에서 열린 의원총회에 참석해 있다 고위공직자범죄수사처가 국민의힘 윤상현 의원이 민간 홍보업체로부터 무상으로 영상 콘텐츠를 받았다는 의혹에 대해 강제 수사에... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008423572&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-29T16:39:00",
+            "related_members": [
+                "MSY7784L"
+            ],
+            "title": "공수처, '윤상현 공짜 홍보 영상' 업체·구의원 압수수색"
+        },
+        {
+            "_id": "697cbd4e38b0cf4096976c69",
+            "link": "https://n.news.naver.com/mnews/article/015/0005244030?sid=102",
+            "created_at": "2026-01-30T23:16:45.993000",
+            "description": "명 씨가 2022년 3월 김 여사로부터 공천을 약속받았다는 취지로 언급한 뒤에도 이준석 개혁신당 대표, 윤상현... 재판부는 또 명씨에 대해 “‘빵선 국회의원 이준석을 당대표로 만들고, 빵선 대통령 윤석열도 당선시켰으며... ",
+            "originallink": "https://www.hankyung.com/article/202601290412i",
+            "press": "한국경제",
+            "pubDate": "2026-01-29T13:56:00",
+            "related_members": [
+                "MSY7784L",
+                "QWL7778X",
+                "TQP7167T"
+            ],
+            "title": "체면 구긴 특검…'V0' 김건희 징역 1년 8개월 선고 배경은 [정희원의 판..."
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a7f",
+            "link": "https://n.news.naver.com/mnews/article/055/0001328483?sid=100",
+            "created_at": "2026-01-30T23:15:56.195000",
+            "description": "서울 강북을 국회의원 한민수입니다. ▷김태현 : 의원님, 15년 구형인데 1년 8개월이거든요. ▶한민수 : 네.... ▷김태현 : 어제 한준호 의원을 제가 인터뷰를 했습니다. 그런데 한준호 의원 얘기는 \"기본적으로... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008422448&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-29T10:35:00",
+            "related_members": [
+                "TQP7167T",
+                "8JG4358H",
+                "GDG1847Z",
+                "MSY7784L",
+                "9YO73104",
+                "BCQ55105"
+            ],
+            "title": "[정치쇼] 한민수 \"김건희 1심? 충격과 분노…항소하면 뒤집힐 것\""
+        },
+        {
+            "_id": "697cbd1c38b0cf4096976a84",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307363?sid=102",
+            "created_at": "2026-01-30T23:15:56.195000",
+            "description": "대통령이 윤상현 의원에게 전화를 걸어서 김영선 전 의원의 전략공천을 요청한 사실은 인정된다. 그런데... 16년간 국회의원을 했던 공직자 신분으로 청렴성이 고도로 요구되는 그런 자리에 있는 피고인이 자신의 죄에... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601290830274671",
+            "press": "YTN",
+            "pubDate": "2026-01-29T08:30:00",
+            "related_members": [
+                "TQP7167T",
+                "GDG1847Z",
+                "MSY7784L"
+            ],
+            "title": "[뉴스UP] 김건희 징역 1년 8개월 선고...통일교 금품수수만 '유죄'"
+        },
+        {
+            "_id": "697cbd4138b0cf4096976bde",
+            "link": "https://n.news.naver.com/mnews/article/022/0004101427?sid=100",
+            "created_at": "2026-01-30T23:16:33.546000",
+            "description": "더불어민주당 한준호(사진) 의원은 28일 정청래 대표가 기습적으로 조국혁신당에 합당을 제안한 것을 두고... 영결식은 31일 오전 9시 국회 의원회관에서 열리며, 오전 11시 서초동 서울추모공원에서 화장할 예정이다. 이날... ",
+            "originallink": "https://www.segye.com/newsView/20260128516650?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-29T06:02:00",
+            "related_members": [
+                "BCQ55105",
+                "80C5885Z",
+                "MSY7784L",
+                "CCU1009B",
+                "2385336L"
+            ],
+            "title": "與 한준호 “독단적 합당발표, 딴 의도 의구심”"
+        },
+        {
+            "_id": "697cbd4e38b0cf4096976c6a",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828993?sid=100",
+            "created_at": "2026-01-30T23:16:45.993000",
+            "description": "22대 국회 최다선 의원 중 한 명인 조경태 국민의힘 의원은 추모 후 “후배 정치인에 많은 울림과 귀감을 주신 점에 대해 애도하는 마음에서 왔다”며 “국민의힘도 민주주의 정신을 좀 더 깊이 좀 더 새기는 계기가 되길... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1769590408&code=11121100&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-29T01:43:00",
+            "related_members": [
+                "MSY7784L",
+                "5KV82250"
+            ],
+            "title": "“큰 지도자 잃었다” 진영 넘어 애도 물결"
+        },
+        {
+            "_id": "697cbd1838b0cf4096976a28",
+            "link": "https://n.news.naver.com/mnews/article/003/0013736195?sid=100",
+            "created_at": "2026-01-30T23:15:52.531000",
+            "description": "이언주·강득구·이성윤·문정복·황명선 최고위원 등 지도부는 이른 오전부터 빈소를 방문해 고인을 추모했다. 또 여권에서 정성호 법무부 장관, 김윤덕 국토교통부 장관, 문희상 전 국회의장, 임종석 전 민주당 의원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003494117",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T22:16:00",
+            "related_members": [
+                "MSY7784L",
+                "GOC54665",
+                "V429892C",
+                "JZY9937U",
+                "N2P9317N",
+                "RJH6314D",
+                "ZRF3039U",
+                "5N65159P",
+                "8P37634C",
+                "JG77046J",
+                "FJK3396E",
+                "S824682L",
+                "XBT9550Q",
+                "MLH1404S",
+                "5KV82250",
+                "H5476989"
+            ],
+            "title": "故 이해찬 장례 이틀차…윤재옥·윤상현 등 야권 인사도 발길(종합2보)"
+        },
+        {
+            "_id": "697cbd4e38b0cf4096976c6b",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307251?sid=100",
+            "created_at": "2026-01-30T23:16:45.993000",
+            "description": "[임종석 / 전 국회의원 : 무슨 말씀을 드려야 할지 생각이 잘 안 나요. 빈자리가 너무 커 보입니다.] 정부와 정... 6선 조경태·5선 윤상현 의원과 김성태 전 원내대표 등이 추모 행렬에 동참했습니다. [윤상현 / 국민의힘 의원... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601282207055717",
+            "press": "YTN",
+            "pubDate": "2026-01-28T22:07:00",
+            "related_members": [
+                "MSY7784L",
+                "CCU1009B",
+                "5KV82250"
+            ],
+            "title": "이해찬 빈소 이틀째, 범여권 대통합...야권도 조문"
+        },
+        {
+            "_id": "697cbd4e38b0cf4096976c6c",
+            "link": "https://n.news.naver.com/mnews/article/016/0002592580?sid=102",
+            "created_at": "2026-01-30T23:16:45.993000",
+            "description": "대표, 윤상현 의원, 윤 전 대통령 부부 등에게 지속해 연락하면서 공천을 부탁한 점을 들어 약속의 존재를... 재판부는 또 명씨에 대해 “‘빵선 국회의원 이준석을 당대표로 만들고, 빵선 대통령 윤석열도 당선시켰으며... ",
+            "originallink": "https://biz.heraldcorp.com/article/10664991?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-28T21:08:00",
+            "related_members": [
+                "MSY7784L",
+                "QWL7778X",
+                "TQP7167T"
+            ],
+            "title": "김건희 주가조작 고발 6년 만에 무죄…“공모 인정 어려워”"
+        },
+        {
+            "_id": "697cbd5b38b0cf4096976cbe",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307208?sid=100",
+            "created_at": "2026-01-30T23:16:59.272000",
+            "description": "[임종석 / 전 국회의원 : 무슨 말씀을 드려야 할지 생각이 잘 안 나요. 빈자리가 너무 커 보입니다.] 정부와 정... 6선 조경태·5선 윤상현 의원과 김성태 전 원내대표 등이 추모 행렬에 동참했습니다. [윤상현 / 국민의힘 의원... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601281914141336",
+            "press": "YTN",
+            "pubDate": "2026-01-28T19:14:00",
+            "related_members": [
+                "CCU1009B",
+                "MSY7784L",
+                "5KV82250"
+            ],
+            "title": "이해찬 빈소 이틀째, 범여권 대통합...야권도 조문"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c80",
+            "link": "https://n.news.naver.com/mnews/article/421/0008739109?sid=100",
+            "created_at": "2026-01-30T23:16:48.082000",
+            "description": "반기문 전 유엔 사무총장과 정몽준 전 국회의원 등은 이날 오전 서울 종로구 서울대병원 장례식장에 마련된... 한편, 김민석 국무총리와 정청래 더불어민주당 대표, 윤호중 행정안전부 장관, 김부겸 전 총리, 유시민 전... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6053688",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T11:43:00",
+            "related_members": [
+                "MSY7784L",
+                "MLH1404S",
+                "2385336L",
+                "M0A1658U"
+            ],
+            "title": "이해찬 조문 이틀째, 각계 추모 발길…반기문 정몽준 윤상현 '애도'(종합..."
+        },
+        {
+            "_id": "697cbd2a38b0cf4096976b3b",
+            "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23635&Newsnumb=20260123635",
+            "created_at": "2026-01-30T23:16:10.105000",
+            "description": "국민의힘 안철수 의원(경기 성남분당갑)은 지난 25일 서현중학교 체육관에서 ‘2026 의정보고회’를 열고... 안 의원은 “제가 분당갑 국회의원이 되자마자 대표 발의한 ‘노후신도시 특별법’이 본회의를 통과하면서... ",
+            "originallink": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23635&Newsnumb=20260123635",
+            "press": "조선일보",
+            "pubDate": "2026-01-26T14:48:00",
+            "related_members": [
+                "L5P27909",
+                "MSY7784L",
+                "YOG1280B"
+            ],
+            "title": "의정보고회 연 안철수, 6월 지방선거 출마 입장은? | 주말 영하권 날씨..."
+        },
         {
             "_id": "6976fceb8459600028997f3c",
             "link": "https://n.news.naver.com/mnews/article/016/0002590629?sid=100",
@@ -259,7 +578,7 @@
             "_id": "6972d1f184596000289976b5",
             "link": "https://n.news.naver.com/mnews/article/003/0013723760?sid=100",
             "created_at": "2026-01-23T10:42:07.142000",
-            "description": "상황\"이라며 \"국민의힘 국회의원 전원이 건강 문제에 대한 심각한 우려를 표했고 당대표에게 단식 중단을... 윤상현 의원은 \"대표의 문제 의식과 결기는 너무 강력히 피력됐다. 그게 국민과 당원께 다 전달됐고 이제는 당이... ",
+            "description": "상황\"이라며 \"국민의힘 국회의원 전원이 건강 문제에 대한 심각한 우려를 표했고 당대표에게 단식 중단을... 의사 출신인 서명옥 국민의힘 의원은 전날 오후 장 대표의 상태에 대해 \"지금 혈압 수치가 급격히 올랐고... ",
             "originallink": "https://www.newsis.com/view/NISX20260121_0003485567",
             "press": "뉴시스",
             "pubDate": "2026-01-22T05:00:00",
@@ -278,7 +597,7 @@
             "_id": "6972d1f184596000289976bb",
             "link": "https://n.news.naver.com/mnews/article/056/0012109556?sid=100",
             "created_at": "2026-01-23T10:42:07.143000",
-            "description": "국민의힘 송언석 원내대표는 오늘(21일) 국회에서 긴급 의원총회를 진행한 뒤 중진인 나경원·윤상현·윤재옥·박덕흠 의원 등과 장 대표를 찾아 \"계속 단식을 진행하면 부작용이 있을 수 있어, 의원들 전부 단식을... ",
+            "description": "국민의힘 송언석 원내대표는 오늘(21일) 국회에서 긴급 의원총회를 진행한 뒤 중진인 나경원·윤상현·윤재옥... 의사 출신이자 단식투쟁단 의료지원반장인 국민의힘 서명옥 의원은 기자들과 만나 \"장 대표의 여러 가지 건강... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8465104&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-21T16:49:00",
@@ -299,7 +618,7 @@
             "_id": "6972d1f884596000289976f0",
             "link": "https://n.news.naver.com/mnews/article/421/0008726861?sid=100",
             "created_at": "2026-01-23T10:42:14.802000",
-            "description": "송언석 원내대표는 이날 오후 국회에서 열린 의원총회 후 단식 중인 장 대표를 찾았다. 이 자리에는 중진인 나경원, 윤상현, 윤재옥, 박덕흠 의원 등이 함께 했다. 송 원내대표는 \"당 대표의 대여투쟁을 강력히 전적으로... ",
+            "description": "송언석 원내대표는 이날 오후 국회에서 열린 의원총회 후 단식 중인 장 대표를 찾았다. 이 자리에는 중진인... 구급대원들이 돌아간 후에도 정희용 사무총장, 박준태 비서실장, 곽규택 원내대변인, 김민수 최고위원 등은 장... ",
             "originallink": "https://www.news1.kr/politics/assembly/6046506",
             "press": "뉴스1",
             "pubDate": "2026-01-21T16:21:00",
@@ -351,7 +670,7 @@
             "_id": "6970123c297082fcc2b34c8d",
             "link": "https://n.news.naver.com/mnews/article/079/0004106433?sid=100",
             "created_at": "2026-01-21T08:39:38.911000",
-            "description": "예를 들어 배현진 의원이 그랬습니다. '이럴 때가 아니다. 우리 당 가장이 굶어 죽어 얻을 게 아무것도 없다... ◆ 김재원&gt; 그리고 국회 기재위원장이 우리 당 소속의 국회의원이고 상임위원장이 청문회를 진행하지 않으면... ",
+            "description": "윤상현 의원 같은 경우 '지난 의총에서 당원 게시판 논란은 정치적으로 해결해야 된다'라고 하셨고요. 김종양... ◆ 김재원&gt; 그리고 국회 기재위원장이 우리 당 소속의 국회의원이고 상임위원장이 청문회를 진행하지 않으면... ",
             "originallink": "https://www.nocutnews.co.kr/news/6458142?utm_source=naver&utm_medium=article&utm_campaign=20260119100928",
             "press": "노컷뉴스",
             "pubDate": "2026-01-19T10:10:00",
@@ -363,317 +682,6 @@
                 "9YO73104"
             ],
             "title": "김재원 \"한동훈 사과 충분치 않아… 화합 위한 추가 조치 있어야\""
-        },
-        {
-            "_id": "69701231297082fcc2b34c30",
-            "link": "https://n.news.naver.com/mnews/article/032/0003422237?sid=110",
-            "created_at": "2026-01-21T08:39:27.387000",
-            "description": "지난해 1월 공수처의 영장 집행 1차 시도 때 장동혁·나경원·송언석·정점식 등 국민의힘 의원 45명은 한남동... 당시 집권 여당이요, 헌정질서를 지켜야 할 국회의원들이 이렇게 공권력을 업신여기는 분위기를 조장하지... ",
-            "originallink": "https://www.khan.co.kr/article/202601181810001",
-            "press": "경향신문",
-            "pubDate": "2026-01-18T18:10:00",
-            "related_members": [
-                "SLW27496",
-                "KFM1081G",
-                "X7I4680R",
-                "LJK4960Z",
-                "6EN68926",
-                "NX534083",
-                "MSY7784L"
-            ],
-            "title": "[사설]윤석열 재판 침묵하는 국힘, ‘장동혁 계엄 사과’ 공염불인가"
-        },
-        {
-            "_id": "696c5be4297082fcc2b19b59",
-            "link": "https://n.news.naver.com/mnews/article/015/0005238572?sid=105",
-            "created_at": "2026-01-18T13:04:52.146000",
-            "description": "같은 해 2022년 국회의원 보궐선거 공천 개입 관여 의혹을 받던 윤상현 국민의힘 의원도 김건희 특검팀에 아이폰 비밀번호를 제공하지 않은 것으로 알려졌다. 앞선 2020년에는 이른바 '채널A 사건'으로 검언유착 의혹을... ",
-            "originallink": "https://www.hankyung.com/article/202601164476g",
-            "press": "한국경제",
-            "pubDate": "2026-01-18T12:26:00",
-            "related_members": [
-                "MNZ4401T",
-                "MSY7784L",
-                "TQP7167T",
-                "URV1689Q",
-                "TKJ4800F"
-            ],
-            "title": "수사 받는 정치인들 \"비번 안 알려준다\"…'난공불락' 아이폰 [홍민성의..."
-        },
-        {
-            "_id": "69701247297082fcc2b34cc0",
-            "link": "https://n.news.naver.com/mnews/article/437/0000473925?sid=100",
-            "created_at": "2026-01-21T08:39:50.008000",
-            "description": "조경태 의원도 윤 전 대통령 비판 결론적으로 한동훈 전 대표가 잘한 것 아니냐. 이런 목소리를 냈습니다.... 두 번째 6월 3일 지방선거 때 같이 치러질 국회의원 빈 자리에 무소속으로 들어간다. 세 번째는 아예 신당을... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12280397?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-16T18:44:00",
-            "related_members": [
-                "KFM1081G",
-                "NX534083",
-                "MSY7784L",
-                "5KV82250"
-            ],
-            "title": "[맞수토론] 윤 구형 후 '갑자기' 한동훈 제명…'장동혁 단식' 우연일까..."
-        },
-        {
-            "_id": "6969b97f297082fcc2b1947b",
-            "link": "https://n.news.naver.com/mnews/article/021/0002764164?sid=100",
-            "created_at": "2026-01-16T13:07:25.291000",
-            "description": "장동혁 국민의힘 대표와 송언석 원내대표가 15일 국회에서 열린 의원총회에 참석해 국기에 경례하고 있다.... 조경태 의원 역시 ‘통합과 단합’을 강조했다. 조 의원은 “한 전 대표에 대한 제명이 과연 이 시점에 당에... ",
-            "originallink": "https://www.munhwa.com/article/11561331?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-16T06:11:00",
-            "related_members": [
-                "KFM1081G",
-                "6EN68926",
-                "MSY7784L",
-                "CGW7415Z",
-                "5KV82250"
-            ],
-            "title": "“지각생 퇴학시키나” 韓 제명, 국힘의총서 쏟아진 ‘갈등 봉합’ 요구"
-        },
-        {
-            "_id": "696902c1297082fcc2b19279",
-            "link": "https://n.news.naver.com/mnews/article/052/0002301420?sid=100",
-            "created_at": "2026-01-16T00:07:45.223000",
-            "description": "■ 진행 : 성문규 앵커 ■ 출연 : 박원석 전 국회의원, 정옥임 전 새누리당 국회의원 * 아래 텍스트는 실제 방송... 그걸 반영하는 것이 정성호 법무부 장관이고요. 그런데 지금 당과 법사위를 중심으로 해서 하여튼 검찰의... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601152224504822",
-            "press": "YTN",
-            "pubDate": "2026-01-15T22:24:00",
-            "related_members": [
-                "KFM1081G",
-                "57B28032",
-                "AEJ19639",
-                "4019850M",
-                "YOG1280B",
-                "MSY7784L",
-                "QWL7778X",
-                "V429892C",
-                "2385336L",
-                "H5476989"
-            ],
-            "title": "[뉴스NIGHT] '한동훈 제명' 후폭풍...장동혁 단식 돌입"
-        },
-        {
-            "_id": "696902c2297082fcc2b1927d",
-            "link": "https://n.news.naver.com/mnews/article/022/0004097951?sid=100",
-            "created_at": "2026-01-16T00:07:46.832000",
-            "description": "심각 국민의힘 장동혁 대표(오른쪽)가 15일 국회에서 열린 당 의원총회에서 신동욱 최고위원과 귀엣말을 하고... 초선 김종양 의원은 “(한 전 대표가) 제명할 정도의 대역죄를 저질렀느냐”고 반문하며 “강성 지지층에... ",
-            "originallink": "https://www.segye.com/newsView/20260115516457?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-15T18:32:00",
-            "related_members": [
-                "KFM1081G",
-                "OWD1018N",
-                "N378078V",
-                "4X525582",
-                "MSY7784L"
-            ],
-            "title": "‘한동훈 제명’ 의결 보류에도 내홍 격화… 장동혁, 단식카드로 물타기"
-        },
-        {
-            "_id": "6968ad8a297082fcc2b18cf4",
-            "link": "https://n.news.naver.com/mnews/article/016/0002586447?sid=103",
-            "created_at": "2026-01-15T18:04:07.359000",
-            "description": "또한 더불어민주당의 진선미(서울 강동구갑·4선), 황희(서울 양천구갑·3선), 이기헌(경기 고양시병·초선)... 여야 국회의원들도 참석해 자리를 빛냈다. 지난 14일 오후 서울 강남구 코엑스에서 열린 서울국제조각페스타... ",
-            "originallink": "https://biz.heraldcorp.com/article/10656424?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-15T16:19:00",
-            "related_members": [
-                "0VU8517U",
-                "W3U3344O",
-                "ANS8383S",
-                "68P7228G",
-                "MSY7784L"
-            ],
-            "title": "‘예술과 기업이 만나다’…제15회 서울국제조각페스타 2026 개막"
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd9",
-            "link": "https://n.news.naver.com/mnews/article/009/0005622308?sid=100",
-            "created_at": "2026-01-15T18:04:04.490000",
-            "description": "이날 최고위 회의 이후 국회에서 열린 의원총회에선 한 전 대표 징계안에 대한 우려가 터져 나왔다. 비공개... 친한계인 정성국 국민의힘 의원은 “발언에 나선 10여명의 의원이 ‘이것은 아니다’라는 의견이 대다수였다”... ",
-            "originallink": "https://www.mk.co.kr/article/11934040",
-            "press": "매일경제",
-            "pubDate": "2026-01-15T15:58:00",
-            "related_members": [
-                "LYY5513O",
-                "4019850M",
-                "AEJ19639",
-                "YOG1280B",
-                "MSY7784L",
-                "WXJ8352N",
-                "KFM1081G",
-                "CGW7415Z",
-                "5KV82250"
-            ],
-            "title": "‘韓 제명 의결’ 일단 멈춤…의총은 징계 반대 성토장"
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cd0",
-            "link": "https://n.news.naver.com/mnews/article/055/0001324668?sid=100",
-            "created_at": "2026-01-15T18:04:04.184000",
-            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 송언석 원내대표가 있고 신동욱 수석 최고위원, 양양자 최고위원, 김민수 최고위원, 김재원 최고위원, 우재준... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405649&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-15T15:29:00",
-            "related_members": [
-                "LG63087O",
-                "KFM1081G",
-                "OWD1018N",
-                "DMP1439I",
-                "8UC4779G",
-                "6EN68926",
-                "4019850M",
-                "AEJ19639",
-                "7XY7109I",
-                "MSY7784L",
-                "8SV6917G"
-            ],
-            "title": "[여담야담] 전 윤리위 부위원장 전주혜 \"이 결정문으론 법원 통과 못한..."
-        },
-        {
-            "_id": "6968ad96297082fcc2b18d2b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008716559?sid=100",
-            "created_at": "2026-01-15T18:04:19.023000",
-            "description": "복수의 참석자에 따르면 이날 오전 국회에서 열린 비공개 의원총회에서 발언에 나선 대다수 의원은 윤리위... 친한계 정성국 의원은 \"(의총 내에서) '지각한 학생을 퇴학시키려는 상황 아니겠나'라는 표현을 하신 분도... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6040343",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T15:13:00",
-            "related_members": [
-                "N378078V",
-                "QWL7778X",
-                "YOG1280B",
-                "MSY7784L",
-                "ZRF3039U",
-                "KFM1081G",
-                "CGW7415Z"
-            ],
-            "title": "\"지각생 퇴학시키나\" 韓 제명, 의총서 우려…張 절차적 '명분 쌓기'"
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d89",
-            "link": "https://n.news.naver.com/mnews/article/016/0002586357?sid=102",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "22대 국회의원 선거 무효 소송을 15일 기각했다. 남 위원장은 지난 2024년 4·10 총선 당시 인천 동·미추홀을 지역구 후보로 출마해 1025표 차이로 윤상현 국민의힘 의원에게 패배한 뒤 선거 무효를 주장하며 소송을 냈는데... ",
-            "originallink": "https://biz.heraldcorp.com/article/10656270?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-15T13:54:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "국힘 윤상현 의원직 지켰다…‘1025표차’ 패배한 민주 남영희, 선거무..."
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d8a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786610?sid=102",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "국회의원 선거 무효 소송은 장기간 재판에 따른 혼란을 막기 위해 대법원 단심제를 채택하고 있다. 지난 22대 총선에서 인천 동·미추홀을 지역구에 출마한 남 전 부원장은 5만7705표를 득표해 5만8730표를 얻은 윤상현... ",
-            "originallink": "https://www.hani.co.kr/arti/society/society_general/1239894.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-15T13:20:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "대법, 윤상현에 ‘1025표차 낙선’ 남영희 선거무효 소송 기각"
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cda",
-            "link": "https://n.news.naver.com/mnews/article/003/0013712557?sid=100",
-            "created_at": "2026-01-15T18:04:04.490000",
-            "description": "윤상현 국민의힘 의원은 이날 국회에서 열린 의원총회 도중 기자들과 만나 비공개로 진행된 의원총회에서... 김종양 의원도 \"다른 사례에 비해 중요한 위치에 있었던 사람을 제명한 사례가 없다\"며 \"박근혜 전 대통령 제명... ",
-            "originallink": "https://www.newsis.com/view/NISX20260115_0003478165",
-            "press": "뉴시스",
-            "pubDate": "2026-01-15T13:12:00",
-            "related_members": [
-                "LYY5513O",
-                "MSY7784L",
-                "N378078V",
-                "QWL7778X",
-                "5KV82250"
-            ],
-            "title": "국힘, 의총서 \"한동훈 제명 철회해야\" \"지금은 내 탓 할 때\""
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d8b",
-            "link": "https://n.news.naver.com/mnews/article/032/0003421740?sid=100",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "남 전 후보는 지난해 22대 총선에서 인천 동·미추홀구을 지역구에 출마해 윤상현 국민의힘 의원에게 1025표... 인정할 증거가 없다”고 했다. 공직선거법상 대통령·국회의원의 선거 무효 소송은 대법 단심제로 끝난다.",
-            "originallink": "https://www.khan.co.kr/article/202601151305001",
-            "press": "경향신문",
-            "pubDate": "2026-01-15T13:05:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "윤상현에 ‘1025표차 낙선’ 민주당 남영희, 선거무효 소송 패소"
-        },
-        {
-            "_id": "6968ad87297082fcc2b18cdb",
-            "link": "https://n.news.naver.com/mnews/article/421/0008716067?sid=100",
-            "created_at": "2026-01-15T18:04:04.490000",
-            "description": "이날 오전 국회에서 열린 비공개 의원총회에서 발언에 나선 대다수 의원은 윤리위원회 처분이 과했다는... 당내 최다선인 6선 조경태 의원도 기자들과 만나 \"한 전 대표 제명이 과연 이 시점에, 우리 당에 도움이 되겠느냐\"며... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6040165",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T12:50:00",
-            "related_members": [
-                "LYY5513O",
-                "MSY7784L",
-                "5KV82250"
-            ],
-            "title": "국힘 의총 \"한동훈 제명 과해, 정치적 봉합해야\"…우려 봇물"
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d8c",
-            "link": "https://n.news.naver.com/mnews/article/421/0008715968?sid=102",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "대법원이 지난해 4월 총선에서 윤상현 국민의힘 의원에게 1025표 차로 낙선한 남영희 전 더불어민주당... 제기한 국회의원 선거 무효 소송에서 남 전 후보의 청구를 기각했다. 공직선거법상 대통령·국회의원의 선거무효... ",
-            "originallink": "https://www.news1.kr/society/court-prosecution/6040136",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T12:12:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "대법, 윤상현에 '1025표차 낙선' 민주 남영희 선거법 무효소송 기각"
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d8d",
-            "link": "https://n.news.naver.com/mnews/article/056/0012105593?sid=100",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "국민의힘 윤상현 의원은 이른바 ‘당원게시판’ 사태에 대해 “법률 문제로 치환할 게 아니라 정치적으로... 윤 의원은 오늘(15일) 국회에서 열린 의원총회 도중 기자들과 만나 “지금은 우리가 남을 단죄할 때가 아니라... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8459892&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-15T12:12:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "국힘 윤상현 “윤리위 처분 과해…‘당게 사태’ 정치로 풀어야”"
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d8e",
-            "link": "https://n.news.naver.com/mnews/article/023/0003953178?sid=102",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "2024년 4·10 총선 당시 인천 동·미추홀을에서 국민의힘 윤상현 의원에게 졌던 남영희 전 민주연구원 부원장이... 낸 국회의원 선거 무효 소송에서 원고 청구를 기각했다. 국회의원 선거 무효 소송은 대법원이 1심이자... ",
-            "originallink": "https://www.chosun.com/national/court_law/2026/01/15/FIXY5Q5ZGFEFTMIEMXXRKFE4PY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-15T11:55:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "윤상현에 1025표 차 낙선… 민주당 남영희 낸 선거 무효 소송, 대법서 기..."
-        },
-        {
-            "_id": "6968adb5297082fcc2b18d8f",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714950?sid=102",
-            "created_at": "2026-01-15T18:04:49.973000",
-            "description": "지난해 4월 총선에서 윤상현 국민의힘 의원에게 1025표 차로 낙선한 남영희 전 더불어민주당 후보가 낸... 제기한 국회의원 선거 무효 소송 판결을 선고한다. 공직선거법상 대통령·국회의원의 선거무효 소송은... ",
-            "originallink": "https://www.news1.kr/society/court-prosecution/6039328",
-            "press": "뉴스1",
-            "pubDate": "2026-01-15T06:01:00",
-            "related_members": [
-                "MSY7784L"
-            ],
-            "title": "'1025표차 낙선' 민주당 남영희, 선거법 무효소송 오늘 대법 결론"
         }
     ],
     "recent_videos": [
@@ -682,7 +690,7 @@
             "url": "https://www.youtube.com/watch?v=jf6DXAaUIGQ",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-23T16:46:10.743000",
+            "collected_at": "2026-01-30T23:27:57.722000",
             "duration": 411.0,
             "title": "윤상현 '한동훈 제명'에 \"윤리위 처분 과했다\" [현장영상] / 채널A",
             "upload_date": null
@@ -748,13 +756,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad3a631fd1743497d97b",
-            "url": "https://www.youtube.com/watch?v=459C3Cna6QY",
+            "_id": "6960ad3a631fd1743497d97a",
+            "url": "https://www.youtube.com/watch?v=ZaUhth6DwVE",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-23T16:46:10.743000",
-            "duration": 1125.0,
-            "title": "2025년 10월 23일 기후에너지환경부 산하기관 국정감사 윤상현 의원 질의 영상",
+            "collected_at": "2026-01-30T23:27:57.722000",
+            "duration": 1672.0,
+            "title": "김건희, 5선 의원 윤상현에 \"보안 조심하라\" 지시…공천 개입 정황 추가 [이슈PLAY] / JTBC News",
             "upload_date": null
         },
         {
@@ -768,13 +776,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad3a631fd1743497d981",
-            "url": "https://www.youtube.com/watch?v=qUJkS0xKOUA",
+            "_id": "6960ad3a631fd1743497d97f",
+            "url": "https://www.youtube.com/watch?v=qjg4a73I93M",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-23T16:46:11.479000",
-            "duration": 98.0,
-            "title": "'공천 개입 키맨' 윤상현 싹 털렸다...'우르르' 특검팀 급히 챙긴 것은 (자막뉴스) / SBS",
+            "collected_at": "2026-01-30T23:27:57.722000",
+            "duration": 266.0,
+            "title": "윤상현 \"나 윤석열 지키는 거 아니야, 잘못했지! 근데\"...'1인 시위' 김상욱 앞에 멈추더니 '8분 탄핵 토론' 열렸다 (현장영상) / SBS",
             "upload_date": null
         },
         {
@@ -798,13 +806,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad3a631fd1743497d97f",
-            "url": "https://www.youtube.com/watch?v=qjg4a73I93M",
+            "_id": "6960ad3a631fd1743497d981",
+            "url": "https://www.youtube.com/watch?v=qUJkS0xKOUA",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-09T16:24:39.270000",
-            "duration": 266.0,
-            "title": "윤상현 \"나 윤석열 지키는 거 아니야, 잘못했지! 근데\"...'1인 시위' 김상욱 앞에 멈추더니 '8분 탄핵 토론' 열렸다 (현장영상) / SBS",
+            "collected_at": "2026-01-23T16:46:11.479000",
+            "duration": 98.0,
+            "title": "'공천 개입 키맨' 윤상현 싹 털렸다...'우르르' 특검팀 급히 챙긴 것은 (자막뉴스) / SBS",
             "upload_date": null
         },
         {
@@ -818,13 +826,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad3a631fd1743497d97a",
-            "url": "https://www.youtube.com/watch?v=ZaUhth6DwVE",
+            "_id": "6960ad3a631fd1743497d97c",
+            "url": "https://www.youtube.com/watch?v=Hg9gAwvY6pE",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
             "collected_at": "2026-01-23T16:46:10.743000",
-            "duration": 1672.0,
-            "title": "김건희, 5선 의원 윤상현에 \"보안 조심하라\" 지시…공천 개입 정황 추가 [이슈PLAY] / JTBC News",
+            "duration": 144.0,
+            "title": "특검, 윤상현·추경호 등 국힘 의원 정조준…당사 압수수색 재시도 방침 [MBN 뉴스7]",
             "upload_date": null
         },
         {
@@ -832,7 +840,7 @@
             "url": "https://www.youtube.com/watch?v=dLM-GN54QZE",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-23T16:46:11.479000",
+            "collected_at": "2026-01-30T23:27:59.207000",
             "duration": 394.0,
             "title": "윤상현, 정치자금법 위반 의혹… 최소 6천만 원어치 홍보 콘텐츠 수수 - 뉴스타파",
             "upload_date": null
@@ -842,19 +850,19 @@
             "url": "https://www.youtube.com/watch?v=UC2jUSMqCspbih2-y04v3uuw",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-23T16:46:10.743000",
+            "collected_at": "2026-01-30T23:27:57.722000",
             "duration": null,
             "title": "윤상현TV",
             "upload_date": null
         },
         {
-            "_id": "6960ad3a631fd1743497d97c",
-            "url": "https://www.youtube.com/watch?v=Hg9gAwvY6pE",
+            "_id": "6960ad3a631fd1743497d97b",
+            "url": "https://www.youtube.com/watch?v=459C3Cna6QY",
             "HG_NM": "윤상현",
             "MONA_CD": "MSY7784L",
-            "collected_at": "2026-01-23T16:46:10.743000",
-            "duration": 144.0,
-            "title": "특검, 윤상현·추경호 등 국힘 의원 정조준…당사 압수수색 재시도 방침 [MBN 뉴스7]",
+            "collected_at": "2026-01-30T23:27:57.722000",
+            "duration": 1125.0,
+            "title": "2025년 10월 23일 기후에너지환경부 산하기관 국정감사 윤상현 의원 질의 영상",
             "upload_date": null
         },
         {
@@ -878,5 +886,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:35.151846"
+    "exported_at": "2026-01-30T23:36:05.853401"
 }

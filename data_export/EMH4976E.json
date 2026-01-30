@@ -42,33 +42,49 @@
     },
     "analysis": {
         "keywords": [
+            "기후",
             "민주당",
-            "민주",
-            "에너지",
-            "산업",
-            "더불어민주당",
             "국민",
-            "대표",
+            "에너지",
             "김소희",
             "위원회",
-            "당원",
-            "전문가",
-            "전기",
+            "민주",
+            "산업",
+            "더불어민주당",
             "위성",
-            "쿠팡",
-            "청문회"
+            "국가",
+            "토론회",
+            "환경",
+            "당원",
+            "최고"
         ],
         "keyword_frequency": [
+            {
+                "text": "기후",
+                "value": 10
+            },
             {
                 "text": "민주당",
                 "value": 9
             },
             {
-                "text": "민주",
-                "value": 6
+                "text": "국민",
+                "value": 8
             },
             {
                 "text": "에너지",
+                "value": 7
+            },
+            {
+                "text": "김소희",
+                "value": 6
+            },
+            {
+                "text": "위원회",
+                "value": 6
+            },
+            {
+                "text": "민주",
                 "value": 6
             },
             {
@@ -80,63 +96,47 @@
                 "value": 6
             },
             {
-                "text": "국민",
-                "value": 6
-            },
-            {
-                "text": "대표",
+                "text": "위성",
                 "value": 5
             },
             {
-                "text": "김소희",
-                "value": 5
+                "text": "국가",
+                "value": 4
             },
             {
-                "text": "위원회",
-                "value": 5
+                "text": "토론회",
+                "value": 4
+            },
+            {
+                "text": "환경",
+                "value": 4
             },
             {
                 "text": "당원",
                 "value": 4
             },
             {
-                "text": "전문가",
-                "value": 4
-            },
-            {
-                "text": "전기",
-                "value": 4
-            },
-            {
-                "text": "위성",
-                "value": 4
-            },
-            {
-                "text": "쿠팡",
-                "value": 4
-            },
-            {
-                "text": "청문회",
+                "text": "최고",
                 "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:26.094036",
+        "last_analyzed_at": "2026-01-30T23:35:56.575929",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
                 0,
-                2,
                 0,
+                1,
                 0,
                 0
             ]
@@ -144,10 +144,25 @@
     },
     "recent_news": [
         {
+            "_id": "697cbd2538b0cf4096976b03",
+            "link": "https://n.news.naver.com/mnews/article/421/0008739661?sid=101",
+            "created_at": "2026-01-30T23:16:05.184000",
+            "description": "이날 토론회에는 위성곤 국회 기후위기특별위원장과 김소희 국민의힘 의원(기후에너지환경노동위원회), '기후 변호사' 출신 박지혜 의원 등이 참석했다. 기후시민회의는 법원의 배심원단처럼 무작위로 뽑은 국민 200명이... ",
+            "originallink": "https://www.news1.kr/society/environment/6053724",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T14:38:00",
+            "related_members": [
+                "RQQ3807K",
+                "EMH4976E",
+                "1SR94244"
+            ],
+            "title": "세계최초 국가단위 무작위 '기후 배심원단' 뽑는다"
+        },
+        {
             "_id": "6976fd058459600028997ffb",
             "link": "https://n.news.naver.com/mnews/article/032/0003423474?sid=100",
             "created_at": "2026-01-26T14:34:59.154000",
-            "description": "정 대표가 최고위원들에게는 발표 20분 전, 한병도 원내대표와 한정애 정책위의장에게는 발표 30분 전에... 이날 국회에서 열린 정책 의원총회는 의총 10분 전 정 대표가 긴급 기자회견을 열고 합당을 제안하... https://www.... ",
+            "description": "이소영 의원은 이날 YTN 라디오에서 “(정 대표가) 기자회견 전에 지도부 논의를 반드시 했어야 한다”며... 이언주 수석최고위원과 황명선·강득구 최고위원은 이날 국회에서 공동 기자회견을 열... https://www.khan.co.kr... ",
             "originallink": "https://www.khan.co.kr/article/202601231725001",
             "press": "경향신문",
             "pubDate": "2026-01-23T17:25:00",
@@ -171,7 +186,7 @@
             "_id": "6976fd068459600028997ffe",
             "link": "https://n.news.naver.com/mnews/article/033/0000050186?sid=110",
             "created_at": "2026-01-26T14:35:00.073000",
-            "description": "소위에서 다룬 5개의 개정안을 살펴보면 정혜경 의원 안 2030년 50%·2035년 65%·2040년 75%, 서왕진 의원 안... 통해 국회의원이나 대통령을 뽑을 수 있지만, 어린이들은 그럴 기회가 없습니다. 이 소송에 참여한 것이... ",
+            "description": "의원 안 2030년 50%·2035년 65%·2040년 75%, 서왕진 의원 안 2030년 40%·2035년 65%·2040년 85%·2045년 95%, 이소영... 아기 기후소송 청구인 대표로 헌재에 출석해 발언한 한제아 어린이는 “어른들은 투표를 통해 국회의원이... ",
             "originallink": "https://weekly.khan.co.kr/article/202601231501001",
             "press": "경향신문",
             "pubDate": "2026-01-23T15:02:00",
@@ -296,7 +311,7 @@
             "url": "https://www.youtube.com/watch?v=UCtd7vLGgWPg0pgezpNDvbSg",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.243000",
+            "collected_at": "2026-01-30T23:24:19.655000",
             "duration": null,
             "title": "박지혜tv",
             "upload_date": null
@@ -306,7 +321,7 @@
             "url": "https://www.youtube.com/watch?v=LO_1m5cKpvI",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.931000",
+            "collected_at": "2026-01-30T23:24:19.655000",
             "duration": 547.0,
             "title": "조국, 과도한 정치적 행보…민주당과 합당, 섣부른 얘기[팩트앤뷰 박지혜]",
             "upload_date": null
@@ -316,7 +331,7 @@
             "url": "https://www.youtube.com/watch?v=peCJVFjq4D8",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.243000",
+            "collected_at": "2026-01-30T23:24:19.655000",
             "duration": 183.0,
             "title": "외교부장관 답변에 경악한 민주당 박지혜 의원...뉴욕타임즈 기자에게 뭐라 했길래..",
             "upload_date": null
@@ -326,9 +341,19 @@
             "url": "https://www.youtube.com/watch?v=fEgT5RAySi4",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.243000",
+            "collected_at": "2026-01-30T23:24:19.655000",
             "duration": 309.0,
             "title": "민주당 박지혜 의원,전기차 보급 촉진 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "6960aca9631fd1743497d75d",
+            "url": "https://www.youtube.com/watch?v=-Qq0blz2TXs",
+            "HG_NM": "박지혜",
+            "MONA_CD": "EMH4976E",
+            "collected_at": "2026-01-14T10:18:38.411000",
+            "duration": 26413.0,
+            "title": "민주당 1호 영입인재는 환경전문가 박지혜 변호사 / SBS",
             "upload_date": null
         },
         {
@@ -336,7 +361,7 @@
             "url": "https://www.youtube.com/watch?v=hOFkL-zLJ8Q",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.931000",
+            "collected_at": "2026-01-30T23:24:21.223000",
             "duration": 125.0,
             "title": "장애인권 운동가 박지혜, 미국 동전에 등장 / 채널A / 뉴스A",
             "upload_date": null
@@ -349,16 +374,6 @@
             "collected_at": "2026-01-21T08:45:31.012000",
             "duration": 1015.0,
             "title": "[뉴스큐] '민주 1호 인재' 박지혜 \"기후위기와 민생 접목할 의원 부족\" / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960aca9631fd1743497d75d",
-            "url": "https://www.youtube.com/watch?v=-Qq0blz2TXs",
-            "HG_NM": "박지혜",
-            "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-14T10:18:38.411000",
-            "duration": 26413.0,
-            "title": "민주당 1호 영입인재는 환경전문가 박지혜 변호사 / SBS",
             "upload_date": null
         },
         {
@@ -386,7 +401,7 @@
             "url": "https://www.youtube.com/watch?v=J58OPTfGwus",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.931000",
+            "collected_at": "2026-01-30T23:24:21.223000",
             "duration": 11360.0,
             "title": "[최보라+1월 3일] 이재명 대통령 2026년 '대전환 원년' 선언+강선우 제명, 김병기 징계... 이혜훈은 청문회 넘을까? (박지혜·홍정민·강성필)",
             "upload_date": null
@@ -396,7 +411,7 @@
             "url": "https://www.youtube.com/watch?v=guSMtexo3x8",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.931000",
+            "collected_at": "2026-01-30T23:24:21.223000",
             "duration": 3988.0,
             "title": "(재)[박지혜 채현일 이용우 김현정] 오세훈의 조급증 #특검 #지선 / 전당원 투표 해설 / 산업재해 예방법 본격 준비/ 국힘은 정당이 아니다 등",
             "upload_date": null
@@ -406,11 +421,11 @@
             "url": "https://www.youtube.com/watch?v=PJKfrRmutfY",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-23T16:43:47.931000",
+            "collected_at": "2026-01-30T23:24:21.223000",
             "duration": 3926.0,
             "title": "[박지혜 김현정 이용우] 역대급 APEC 성과! 후속 과제는? / 내란동조·국정마비·민생포기 국민의힘,  정당해산으로 되갚아야 / 2025 국정감사 결산 등",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:26.094036"
+    "exported_at": "2026-01-30T23:35:56.575929"
 }

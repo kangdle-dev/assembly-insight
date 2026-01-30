@@ -60,63 +60,67 @@
             "전남",
             "광주",
             "통합",
-            "김영록",
-            "지사",
             "행정",
+            "김영록",
             "시장",
+            "지사",
             "지역",
-            "강기정",
-            "선거",
             "민주당",
+            "선거",
+            "강기정",
+            "특별법",
             "대통령",
             "확진",
-            "특별법",
-            "대표"
+            "정준"
         ],
         "keyword_frequency": [
             {
                 "text": "전남",
-                "value": 64
+                "value": 74
             },
             {
                 "text": "광주",
-                "value": 56
+                "value": 66
             },
             {
                 "text": "통합",
-                "value": 47
+                "value": 56
+            },
+            {
+                "text": "행정",
+                "value": 22
             },
             {
                 "text": "김영록",
                 "value": 22
             },
             {
-                "text": "지사",
-                "value": 19
-            },
-            {
-                "text": "행정",
-                "value": 18
-            },
-            {
                 "text": "시장",
-                "value": 17
+                "value": 21
+            },
+            {
+                "text": "지사",
+                "value": 20
             },
             {
                 "text": "지역",
+                "value": 19
+            },
+            {
+                "text": "민주당",
                 "value": 16
+            },
+            {
+                "text": "선거",
+                "value": 14
             },
             {
                 "text": "강기정",
                 "value": 13
             },
             {
-                "text": "선거",
-                "value": 13
-            },
-            {
-                "text": "민주당",
-                "value": 13
+                "text": "특별법",
+                "value": 12
             },
             {
                 "text": "대통령",
@@ -127,37 +131,163 @@
                 "value": 12
             },
             {
-                "text": "특별법",
-                "value": 11
-            },
-            {
-                "text": "대표",
+                "text": "정준",
                 "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:36.542254",
+        "last_analyzed_at": "2026-01-30T23:36:07.308006",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
+                0,
+                0,
                 1,
-                2,
+                3,
+                1,
                 0,
-                0,
-                0,
-                0,
-                0
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd3338b0cf4096976b85",
+            "link": "https://ysmbc.co.kr/NewsArticle/1503241",
+            "created_at": "2026-01-30T23:16:19.083000",
+            "description": "◀ SYNC ▶*주철현/국회의원* - 행정통합 여수지역 대토론회(오늘(30))- \"당선된 시장에 뜻에 따라서 동부청사가 주된 청사가 될 수도 있어요. 여러분의 선택에 달려있다 말씀드립니다.\" 다음 주부터는 행정통합 특별법안에... ",
+            "originallink": "https://ysmbc.co.kr/NewsArticle/1503241",
+            "press": "MBC",
+            "pubDate": "2026-01-30T20:58:00",
+            "related_members": [
+                "IC499858",
+                "VRY5522V",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H"
+            ],
+            "title": "사실상 선거전 시작...동부권 보폭 넓히는 입지자들"
+        },
+        {
+            "_id": "697cbd3338b0cf4096976b88",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828867?sid=100",
+            "created_at": "2026-01-30T23:16:19.083000",
+            "description": "광주는 강 시장과 이병훈 민주당 호남특위 수석부위원장, 민형배·정준호 국회의원이, 전남에선 김 지사를 포함해 신정훈·이개호·주철현 국회의원 등의 출마가 점쳐지고 있다. 당초 광주시장 선거에 출마할 예정이었던... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029315075&code=61111111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-28T14:27:00",
+            "related_members": [
+                "I7R13867",
+                "IC499858",
+                "T465023H",
+                "VRY5522V",
+                "M7O7878U"
+            ],
+            "title": "광주·전남 초대 통합 특별시장 누가?…정치권 셈법 ‘복잡’"
+        },
+        {
+            "_id": "697cbd3338b0cf4096976b8a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008737965?sid=102",
+            "created_at": "2026-01-30T23:16:19.083000",
+            "description": "이개호 국회의원(담양·함평·영광·장성)은 \"통합을 위한 가장 높은 고개를 넘었다. 광주·전남 명예와 자존을 지키고 국토균형발전을 선도하도록 뛰겠다\"고 했다. 반면 주철현 의원(여수 갑)은 \"명칭과 사무소를 두고... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6052934",
+            "press": "뉴스1",
+            "pubDate": "2026-01-27T17:57:00",
+            "related_members": [
+                "VRY5522V",
+                "IC499858",
+                "M7O7878U",
+                "T465023H",
+                "I7R13867"
+            ],
+            "title": "광주·전남 행정통합 최종합의 참가자들 SNS서 각양 각색 자평"
+        },
+        {
+            "_id": "697cbd3138b0cf4096976b82",
+            "link": "https://n.news.naver.com/mnews/article/003/0013733636?sid=102",
+            "created_at": "2026-01-30T23:16:17.578000",
+            "description": "광역단체장과 국회의원들이 간담회와 SNS 등을 통해 최종 합의 결과에 대한 미묘한 온도차를 보였다. 27일... 동부권 주철현 의원은 \"전남을 주사무소로 명기하는 것을 빼는 대신 명칭에서 '전남'이 앞에 오도록 하고, 약칭은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003492299",
+            "press": "뉴시스",
+            "pubDate": "2026-01-27T17:23:00",
+            "related_members": [
+                "8TU8443O",
+                "EB16073M",
+                "QUR40502",
+                "GRP3908I",
+                "VRY5522V",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H"
+            ],
+            "title": "광주·전남 통합 명칭-청사 놓고 간담회-SNS '온도차'"
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a9d",
+            "link": "https://kjmbc.co.kr/NewsArticle/1502492",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "◀ 리포트 ▶ 광주지역 국회의원들 대부분은 이번 가안을 두고 명확한 입장을 내지 않았습니다. [ CG ] 양부남 민주당 광주시당 위원장은 \"최종안이 나오기 전까지 할 말이 없다\"고 했고 전진숙, 정준호, 조인철 의원도... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1502492",
+            "press": "MBC",
+            "pubDate": "2026-01-27T07:45:00",
+            "related_members": [
+                "EFU76868",
+                "8BF5855P",
+                "FOK3459D",
+                "GRP3908I",
+                "ZKB18611",
+                "EB16073M",
+                "VRY5522V",
+                "IWR8966I",
+                "4L695580",
+                "M7O7878U",
+                "8TU8443O",
+                "86R9476S",
+                "I7R13867",
+                "CK143054",
+                "QUR40502",
+                "IC499858",
+                "9HE7226N"
+            ],
+            "title": "[한걸음더]명칭·청사 예민하고 중요한 문제 18명 국회의원에게 물었더..."
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a9e",
+            "link": "https://kjmbc.co.kr/NewsArticle/1502433",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "(기자) 광주지역 국회의원들 대부분은 이번 가안을 두고 명확한 입장을 내지 않았습니다. 양부남 민주당 광주시당 위원장은 \"최종안이 나오기 전까지 할 말이 없다\"고 했고 전진숙, 정준호, 조인철 의원도 마찬가지... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1502433",
+            "press": "MBC",
+            "pubDate": "2026-01-26T20:40:00",
+            "related_members": [
+                "EFU76868",
+                "8BF5855P",
+                "FOK3459D",
+                "GRP3908I",
+                "ZKB18611",
+                "EB16073M",
+                "VRY5522V",
+                "IWR8966I",
+                "4L695580",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H",
+                "8TU8443O",
+                "86R9476S",
+                "CK143054",
+                "QUR40502",
+                "IC499858",
+                "9HE7226N"
+            ],
+            "title": "[한걸음더]명칭·청사 예민하고 중요한 문제 18명 국회의원에게 물었더..."
+        },
         {
             "_id": "6972d22484596000289977d2",
             "link": "https://n.news.naver.com/mnews/article/079/0004107651?sid=102",
@@ -381,7 +511,7 @@
             "_id": "6968ad89297082fcc2b18cea",
             "link": "https://n.news.naver.com/mnews/article/032/0003421820?sid=100",
             "created_at": "2026-01-15T18:04:06.224000",
-            "description": "김현정 원내대변인은 이날 국회에서 열린 의원총회 뒤 기자들과 만나 “수사사법관과 전문수사관을 이원화하는 중수청법에 대한 질의가 많았다”며 “보완수사권 관련 질의도 있었는데 이것은 추후 형사소송법 개정... ",
+            "description": "김현정 원내대변인은 이날 국회에서 열린 의원총회 뒤 기자들과 만나 “수사사법관과 전문수사관을... 변호사 출신의 김남희 의원은 이날 페이스북에 “검찰개혁만 바라보다 경찰 또는 다른 기관이 새로운 권력으로... ",
             "originallink": "https://www.khan.co.kr/article/202601151708001",
             "press": "경향신문",
             "pubDate": "2026-01-15T17:08:00",
@@ -641,13 +771,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6966ef95887d07f7ba2fb4bb",
-            "url": "https://www.youtube.com/watch?v=wtiuyzAHAz4",
+            "_id": "6966ef95887d07f7ba2fb4bc",
+            "url": "https://www.youtube.com/watch?v=BIVuLC0ospM",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
             "collected_at": "2026-01-14T10:21:25.572000",
-            "duration": 117.0,
-            "title": "이개호 의원, 첫 현역 의원 확진…여의도 '긴장' [굿모닝MBN]",
+            "duration": 297.0,
+            "title": "[뉴스투데이] 이개호 의원 '설 민심'",
             "upload_date": null
         },
         {
@@ -655,7 +785,7 @@
             "url": "https://www.youtube.com/watch?v=WsvcnSySL7Q",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:35.584000",
+            "collected_at": "2026-01-30T23:28:35.349000",
             "duration": 89.0,
             "title": "[YTN 실시간뉴스] 與 이개호 의원 확진...원내대표 선거 비상 / YTN",
             "upload_date": null
@@ -665,7 +795,7 @@
             "url": "https://www.youtube.com/watch?v=UvwlI-xBFlw",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 117.0,
             "title": "민주당 이개호 의원, 코로나19 확진...국회·지역구 비상 / YTN 사이언스",
             "upload_date": null
@@ -685,7 +815,7 @@
             "url": "https://www.youtube.com/watch?v=8HK48-LmVhk",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 120.0,
             "title": "민주당 이개호 의원, 코로나19 확진...국회·지역구 비상 / YTN",
             "upload_date": null
@@ -701,23 +831,23 @@
             "upload_date": null
         },
         {
-            "_id": "6966ef95887d07f7ba2fb4bc",
-            "url": "https://www.youtube.com/watch?v=BIVuLC0ospM",
+            "_id": "6966ef95887d07f7ba2fb4bb",
+            "url": "https://www.youtube.com/watch?v=wtiuyzAHAz4",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
             "collected_at": "2026-01-14T10:21:25.572000",
-            "duration": 297.0,
-            "title": "[뉴스투데이] 이개호 의원 '설 민심'",
+            "duration": 117.0,
+            "title": "이개호 의원, 첫 현역 의원 확진…여의도 '긴장' [굿모닝MBN]",
             "upload_date": null
         },
         {
-            "_id": "6960ad52631fd1743497d9e5",
-            "url": "https://www.youtube.com/watch?v=UCkDf-Hsk7mtxsIIecbrZKxw",
+            "_id": "6960ad52631fd1743497d9e6",
+            "url": "https://www.youtube.com/watch?v=FGrGzr4KzQI",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
-            "duration": null,
-            "title": "이개호",
+            "collected_at": "2026-01-21T08:48:22.180000",
+            "duration": 66.0,
+            "title": "AI기반 경쟁, 광주-전남 묘한 기류? #더불어민주당 #국회의원 #이개호 #전라남도 #이재명 #ai데이터센터",
             "upload_date": null
         },
         {
@@ -725,7 +855,7 @@
             "url": "https://www.youtube.com/watch?v=aB7geLqPT_Q",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 1767.0,
             "title": "[국회의원 이개호] 백운기의 정치1번지 이제부터 심판시작!",
             "upload_date": null
@@ -735,7 +865,7 @@
             "url": "https://www.youtube.com/watch?v=u7Ejmo9w5SU",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:35.584000",
+            "collected_at": "2026-01-30T23:28:35.349000",
             "duration": 89.0,
             "title": "이개호 의원) 사실상 '포기'.. 민주당 후보는-R (180309금/뉴스데스크)",
             "upload_date": null
@@ -755,7 +885,7 @@
             "url": "https://www.youtube.com/watch?v=7JQwrcpIctU",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 845.0,
             "title": "[국회의원 이개호] 20241028 연합뉴스TV 1번지 초대석 인터뷰",
             "upload_date": null
@@ -765,7 +895,7 @@
             "url": "https://www.youtube.com/watch?v=U_E4dBVL5WM",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 1185.0,
             "title": "이개호 국회의원 대정부질문 풀영상(2023.2.7)",
             "upload_date": null
@@ -775,7 +905,7 @@
             "url": "https://www.youtube.com/watch?v=3dp3G0JqRSQ",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:35.584000",
+            "collected_at": "2026-01-30T23:28:35.349000",
             "duration": 212.0,
             "title": "[뉴스투데이](이슈와사람) 이개호 더불어민주당 의원",
             "upload_date": null
@@ -785,7 +915,7 @@
             "url": "https://www.youtube.com/watch?v=YjBuZ8iYLTY",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 1297.0,
             "title": "국회의원 25시-제224회, 이개호 의원(새정치민주연합)",
             "upload_date": null
@@ -801,13 +931,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad52631fd1743497d9e6",
-            "url": "https://www.youtube.com/watch?v=FGrGzr4KzQI",
+            "_id": "6960ad52631fd1743497d9e5",
+            "url": "https://www.youtube.com/watch?v=UCkDf-Hsk7mtxsIIecbrZKxw",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-21T08:48:22.180000",
-            "duration": 66.0,
-            "title": "AI기반 경쟁, 광주-전남 묘한 기류? #더불어민주당 #국회의원 #이개호 #전라남도 #이재명 #ai데이터센터",
+            "collected_at": "2026-01-30T23:28:33.733000",
+            "duration": null,
+            "title": "이개호",
             "upload_date": null
         },
         {
@@ -815,7 +945,7 @@
             "url": "https://www.youtube.com/watch?v=UOmG_14KiBQ",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-01-23T16:46:34.765000",
+            "collected_at": "2026-01-30T23:28:33.733000",
             "duration": 83.0,
             "title": "예고) 가슴 따뜻한 정치 더불어민주당 이개호 의원의 인생책 I 책추천",
             "upload_date": null
@@ -841,5 +971,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:36.542254"
+    "exported_at": "2026-01-30T23:36:07.308006"
 }

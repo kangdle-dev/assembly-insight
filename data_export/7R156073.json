@@ -58,20 +58,20 @@
     "analysis": {
         "keywords": [
             "대전",
-            "통합",
             "민주당",
+            "통합",
             "충남",
             "위원장",
-            "박정현",
             "더불어민주당",
+            "박정현",
             "대표",
-            "장관",
             "서구",
             "박용",
             "위원",
             "교육",
             "인사",
-            "행정"
+            "행정",
+            "지식"
         ],
         "keyword_frequency": [
             {
@@ -79,12 +79,12 @@
                 "value": 37
             },
             {
-                "text": "통합",
-                "value": 19
+                "text": "민주당",
+                "value": 20
             },
             {
-                "text": "민주당",
-                "value": 18
+                "text": "통합",
+                "value": 19
             },
             {
                 "text": "충남",
@@ -95,20 +95,16 @@
                 "value": 14
             },
             {
+                "text": "더불어민주당",
+                "value": 13
+            },
+            {
                 "text": "박정현",
                 "value": 13
             },
             {
-                "text": "더불어민주당",
-                "value": 11
-            },
-            {
                 "text": "대표",
                 "value": 10
-            },
-            {
-                "text": "장관",
-                "value": 9
             },
             {
                 "text": "서구",
@@ -133,26 +129,30 @@
             {
                 "text": "행정",
                 "value": 8
+            },
+            {
+                "text": "지식",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:23.189582",
+        "last_analyzed_at": "2026-01-30T23:35:53.696152",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
+                1,
+                1,
                 0,
-                2,
-                2,
-                1,
-                1,
-                1,
+                0,
+                0,
+                0,
                 0
             ]
         }
@@ -591,23 +591,63 @@
     ],
     "recent_videos": [
         {
-            "_id": "696595a4887d07f7ba2fac77",
-            "url": "https://www.youtube.com/watch?v=XdG7bHOsqW8",
+            "_id": "696c5de4297082fcc2b19c60",
+            "url": "https://www.youtube.com/watch?v=eANF0LGFfyQ",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-14T10:17:53.090000",
-            "duration": 253.0,
-            "title": "김용현 측 \"박범계, 의원이라는 이유로 곽종근 찾아가 리허설\" [티조Clip]",
+            "collected_at": "2026-01-18T13:13:24.453000",
+            "duration": 773.0,
+            "title": "한동훈 잡으려다 ‘불똥’…‘박범계 출장비’ 고발당했다 | 뉴스TOP 10",
             "upload_date": null
         },
         {
-            "_id": "6973268984596000289979bf",
-            "url": "https://www.youtube.com/watch?v=LDWJnR85X-A",
+            "_id": "6960ac7c631fd1743497d6b0",
+            "url": "https://www.youtube.com/watch?v=klL5J7VrhfM",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.914000",
-            "duration": 105.0,
-            "title": "법무장관 출신 한동훈-박범계 토론 성사되나…\"깐족 태도 바꾸면\" vs \"공손히 답할 것\" [MBN 뉴스7]",
+            "collected_at": "2026-01-30T23:23:14.488000",
+            "duration": 606.0,
+            "title": "[속보] '패스트트랙 충돌' 더불어민주당 박범계·박주민에 법원, 벌금 300만원 선고유예 선고/2025년 12월 19일(금)/KBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac7c631fd1743497d6a9",
+            "url": "https://www.youtube.com/watch?v=1xaKbAzAoks",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 251.0,
+            "title": "대한민국 민주당 국회의원, 박범계는 누구인가?! 박범계에 대해 알아보자 [인물백과사전#12]",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5de4297082fcc2b19c5e",
+            "url": "https://www.youtube.com/watch?v=5Geaqa9EW8w",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-23T16:43:02.136000",
+            "duration": 100.0,
+            "title": "박범계 의원, 청문회 도중 웃음 ‘빵’",
+            "upload_date": null
+        },
+        {
+            "_id": "696595a4887d07f7ba2fac78",
+            "url": "https://www.youtube.com/watch?v=t_N9I73Npu4",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-23T16:43:02.136000",
+            "duration": 141.0,
+            "title": "[VIDEOMUG]  [박범계 의원 단독 인터뷰] 장제원에 빵 터진 '박뿜계'의 진실은?! / SBS",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac7c631fd1743497d6ad",
+            "url": "https://www.youtube.com/watch?v=hwwi9OUm0qo",
+            "HG_NM": "박범계",
+            "MONA_CD": "7R156073",
+            "collected_at": "2026-01-30T23:23:14.488000",
+            "duration": 340.0,
+            "title": "‘전직 법무장관’ 박범계·한동훈, 공개토론 놓고 설전 / 채널A / 뉴스A 라이브",
             "upload_date": null
         },
         {
@@ -621,33 +661,33 @@
             "upload_date": null
         },
         {
-            "_id": "696c5de4297082fcc2b19c60",
-            "url": "https://www.youtube.com/watch?v=eANF0LGFfyQ",
+            "_id": "6960ac7c631fd1743497d6a6",
+            "url": "https://www.youtube.com/watch?v=RMAlpnpLSDs",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-18T13:13:24.453000",
-            "duration": 773.0,
-            "title": "한동훈 잡으려다 ‘불똥’…‘박범계 출장비’ 고발당했다 | 뉴스TOP 10",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 274.0,
+            "title": "SNL 코리아 시즌3 | 하이라이트 | 주기자가 간다 | 더불어민주당 박범계 의원 | 쿠팡플레이 | 쿠팡",
             "upload_date": null
         },
         {
-            "_id": "696c5de4297082fcc2b19c5f",
-            "url": "https://www.youtube.com/watch?v=V180c4GbfOI",
+            "_id": "696595a4887d07f7ba2fac77",
+            "url": "https://www.youtube.com/watch?v=XdG7bHOsqW8",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-18T13:13:23.453000",
-            "duration": 200.0,
-            "title": "[백브리핑] 박범계 이름만 나와도 '빵빵'…웃음 터져나온 법사위 / JTBC 뉴스룸",
+            "collected_at": "2026-01-14T10:17:53.090000",
+            "duration": 253.0,
+            "title": "김용현 측 \"박범계, 의원이라는 이유로 곽종근 찾아가 리허설\" [티조Clip]",
             "upload_date": null
         },
         {
-            "_id": "696c5de4297082fcc2b19c5e",
-            "url": "https://www.youtube.com/watch?v=5Geaqa9EW8w",
+            "_id": "6960ac7c631fd1743497d6aa",
+            "url": "https://www.youtube.com/watch?v=2UFm6e-Yw1E",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 100.0,
-            "title": "박범계 의원, 청문회 도중 웃음 ‘빵’",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 166.0,
+            "title": "'민주당 패스트트랙' 박범계·박주민 벌금형 구형 / YTN",
             "upload_date": null
         },
         {
@@ -671,33 +711,33 @@
             "upload_date": null
         },
         {
-            "_id": "696595a4887d07f7ba2fac79",
-            "url": "https://www.youtube.com/watch?v=g7ufuulVQWQ",
+            "_id": "6960ac7c631fd1743497d6ac",
+            "url": "https://www.youtube.com/watch?v=5BGTHjc2Go8",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-13T09:45:22.211000",
-            "duration": 392.0,
-            "title": "더불어민주당 차기 원내사령탑에게 던져진 질문들.. 박범계 의원의 답변은?  / OBS 뉴스O",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 336.0,
+            "title": "박범계 서구을 국회의원 20대 총선 출마기자회견",
             "upload_date": null
         },
         {
-            "_id": "696595a4887d07f7ba2fac78",
-            "url": "https://www.youtube.com/watch?v=t_N9I73Npu4",
+            "_id": "696c5de4297082fcc2b19c5f",
+            "url": "https://www.youtube.com/watch?v=V180c4GbfOI",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 141.0,
-            "title": "[VIDEOMUG]  [박범계 의원 단독 인터뷰] 장제원에 빵 터진 '박뿜계'의 진실은?! / SBS",
+            "collected_at": "2026-01-18T13:13:23.453000",
+            "duration": 200.0,
+            "title": "[백브리핑] 박범계 이름만 나와도 '빵빵'…웃음 터져나온 법사위 / JTBC 뉴스룸",
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6a5",
-            "url": "https://www.youtube.com/watch?v=-YNO4X4dgc0",
+            "_id": "6960ac7c631fd1743497d6a8",
+            "url": "https://www.youtube.com/watch?v=SDsc72ofVCY",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 186.0,
-            "title": "'민주당 패스트트랙' 박범계 벌금 400만 원 구형 / YTN",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 1764.0,
+            "title": "인터뷰스튜디오담백 (1회) - 국회의원 박범계 / KBS대전 20181009 방송",
             "upload_date": null
         },
         {
@@ -705,29 +745,29 @@
             "url": "https://www.youtube.com/watch?v=WbUnIFgu92k",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.914000",
+            "collected_at": "2026-01-30T23:23:14.488000",
             "duration": 826.0,
             "title": "\"토론 한다고? 안 한다고?\"…한동훈·박범계 전직 법무장관 토론 성사? [뉴스와이드]",
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6ac",
-            "url": "https://www.youtube.com/watch?v=5BGTHjc2Go8",
+            "_id": "6960ac7c631fd1743497d6a5",
+            "url": "https://www.youtube.com/watch?v=-YNO4X4dgc0",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 336.0,
-            "title": "박범계 서구을 국회의원 20대 총선 출마기자회견",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 186.0,
+            "title": "'민주당 패스트트랙' 박범계 벌금 400만 원 구형 / YTN",
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6ad",
-            "url": "https://www.youtube.com/watch?v=hwwi9OUm0qo",
+            "_id": "6960ac7c631fd1743497d6a7",
+            "url": "https://www.youtube.com/watch?v=GYOeOxnEv94",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.914000",
-            "duration": 340.0,
-            "title": "‘전직 법무장관’ 박범계·한동훈, 공개토론 놓고 설전 / 채널A / 뉴스A 라이브",
+            "collected_at": "2026-01-30T23:23:12.813000",
+            "duration": 72.0,
+            "title": "문 대통령, 秋 사의 수용...법무장관에 박범계 의원 내정 / YTN",
             "upload_date": null
         },
         {
@@ -741,45 +781,15 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac7c631fd1743497d6a8",
-            "url": "https://www.youtube.com/watch?v=SDsc72ofVCY",
+            "_id": "696595a4887d07f7ba2fac79",
+            "url": "https://www.youtube.com/watch?v=g7ufuulVQWQ",
             "HG_NM": "박범계",
             "MONA_CD": "7R156073",
-            "collected_at": "2026-01-21T08:44:44.216000",
-            "duration": 1764.0,
-            "title": "인터뷰스튜디오담백 (1회) - 국회의원 박범계 / KBS대전 20181009 방송",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac7c631fd1743497d6a7",
-            "url": "https://www.youtube.com/watch?v=GYOeOxnEv94",
-            "HG_NM": "박범계",
-            "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 72.0,
-            "title": "문 대통령, 秋 사의 수용...법무장관에 박범계 의원 내정 / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac7c631fd1743497d6a6",
-            "url": "https://www.youtube.com/watch?v=RMAlpnpLSDs",
-            "HG_NM": "박범계",
-            "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 274.0,
-            "title": "SNL 코리아 시즌3 | 하이라이트 | 주기자가 간다 | 더불어민주당 박범계 의원 | 쿠팡플레이 | 쿠팡",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac7c631fd1743497d6a9",
-            "url": "https://www.youtube.com/watch?v=1xaKbAzAoks",
-            "HG_NM": "박범계",
-            "MONA_CD": "7R156073",
-            "collected_at": "2026-01-23T16:43:02.136000",
-            "duration": 251.0,
-            "title": "대한민국 민주당 국회의원, 박범계는 누구인가?! 박범계에 대해 알아보자 [인물백과사전#12]",
+            "collected_at": "2026-01-13T09:45:22.211000",
+            "duration": 392.0,
+            "title": "더불어민주당 차기 원내사령탑에게 던져진 질문들.. 박범계 의원의 답변은?  / OBS 뉴스O",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:23.190582"
+    "exported_at": "2026-01-30T23:35:53.697152"
 }

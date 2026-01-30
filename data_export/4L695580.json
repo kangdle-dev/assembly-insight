@@ -48,106 +48,358 @@
     "analysis": {
         "keywords": [
             "전남",
-            "광주",
             "통합",
-            "위원장",
+            "광주",
             "특별시",
-            "김원",
             "명칭",
-            "교육감",
             "행정",
             "청사",
-            "특별법",
-            "지역",
+            "위원장",
             "더불어민주당",
-            "간담회",
-            "전남도"
+            "교육감",
+            "김원",
+            "추진",
+            "문제",
+            "발의",
+            "특별법"
         ],
         "keyword_frequency": [
             {
                 "text": "전남",
-                "value": 103
-            },
-            {
-                "text": "광주",
-                "value": 84
+                "value": 86
             },
             {
                 "text": "통합",
-                "value": 73
+                "value": 77
             },
             {
-                "text": "위원장",
-                "value": 31
+                "text": "광주",
+                "value": 75
             },
             {
                 "text": "특별시",
-                "value": 31
-            },
-            {
-                "text": "김원",
-                "value": 27
+                "value": 33
             },
             {
                 "text": "명칭",
-                "value": 26
-            },
-            {
-                "text": "교육감",
-                "value": 23
+                "value": 31
             },
             {
                 "text": "행정",
-                "value": 23
+                "value": 28
             },
             {
                 "text": "청사",
-                "value": 23
+                "value": 28
             },
             {
-                "text": "특별법",
-                "value": 23
-            },
-            {
-                "text": "지역",
-                "value": 21
+                "text": "위원장",
+                "value": 26
             },
             {
                 "text": "더불어민주당",
+                "value": 25
+            },
+            {
+                "text": "교육감",
+                "value": 20
+            },
+            {
+                "text": "김원",
                 "value": 19
             },
             {
-                "text": "간담회",
-                "value": 17
+                "text": "추진",
+                "value": 19
             },
             {
-                "text": "전남도",
-                "value": 16
+                "text": "문제",
+                "value": 19
+            },
+            {
+                "text": "발의",
+                "value": 18
+            },
+            {
+                "text": "특별법",
+                "value": 17
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:17.348844",
+        "last_analyzed_at": "2026-01-30T23:35:47.759442",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
-                10,
-                0,
+                7,
+                8,
                 1,
-                0,
-                12,
-                7
+                11,
+                2,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2938b0cf4096976b25",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789203?sid=101",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "중소벤처기업연구원과 한국협동조합학회는 더불어민주당 김한규·김원이·허영 의원과 함께 29일 오후 서울 여의도 국회의원회관에서 ‘기업승계와 직원 인수를 통한 기업의 지속가능성 방안’을 주제로 토론회를... ",
+            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1242546.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-30T14:24:00",
+            "related_members": [
+                "FU53642G",
+                "4L695580",
+                "NUB4941Z"
+            ],
+            "title": "후계자 없는 중기 5만6천개…폐업 우려에 ‘직원 인수’ 대안으로"
+        },
+        {
+            "_id": "697cbd2138b0cf4096976ad5",
+            "link": "https://n.news.naver.com/mnews/article/056/0012114730?sid=100",
+            "created_at": "2026-01-30T23:16:00.825000",
+            "description": "[김원이/더불어민주당 전남도당위원장/지난 27일 : \"소탐대실하면 안 된다는 마음가짐으로 서로 양보하고... [김문수/국회의원/더불어민주당 행정통합입법추진지원단 : \"입법지원단에서 광주전남, 대전충남 양 법안의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471899&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-29T07:38:00",
+            "related_members": [
+                "86R9476S",
+                "4L695580"
+            ],
+            "title": "광주·전남 통합 특별법 발의 연기…대전·충남과 동시 추진"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b26",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628931?sid=100",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "간담회에는 강기정 광주시장과 김영록 전남도지사, 더불어민주당 양부남 광주시당위원장과 김원이 전남도당위원장 등 지역 국회의원들이 참석했다. 통합 자치단체 명칭은 ‘전남광주특별시’로 정하고, 약칭은... ",
+            "originallink": "https://www.mk.co.kr/article/11946400",
+            "press": "매일경제",
+            "pubDate": "2026-01-29T04:33:00",
+            "related_members": [
+                "CK143054",
+                "4L695580"
+            ],
+            "title": "부산·경남, 지방선거전 통합도 시사…“재정·자치분권 보장돼야”"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b27",
+            "link": "https://n.news.naver.com/mnews/article/021/0002767230?sid=100",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "강기정 광주시장이 27일 국회 의원회관에서 열린 광주ㆍ전남 통합 논의를 위한 의원 조찬 간담회에서 발언하고 있다. 왼쪽부터 강 시장, 양부남 광주시당위원장, 김원이 전남도당위원장, 김영록 전남도지사. 연합뉴스 광주... ",
+            "originallink": "https://www.munhwa.com/article/11564460?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-28T23:42:00",
+            "related_members": [
+                "CK143054",
+                "4L695580"
+            ],
+            "title": "광주·전남 통합 명칭 ‘전남광주특별시’···본청은 ‘3청사’ 분산"
+        },
+        {
+            "_id": "697cbd2138b0cf4096976ad7",
+            "link": "https://n.news.naver.com/mnews/article/056/0012114448?sid=100",
+            "created_at": "2026-01-30T23:16:00.825000",
+            "description": "[김원이/더불어민주당 전남도당위원장/어제 : \"소탐대실하면 안 된다는 마음가짐으로 서로 양보하고 다시... [김문수/국회의원/더불어민주당 행정통합입법추진지원단 : \"입법지원단에서 광주전남, 대전충남 양 법안의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471602&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-28T21:37:00",
+            "related_members": [
+                "86R9476S",
+                "4L695580"
+            ],
+            "title": "광주·전남 통합 특별법 발의 연기…대전·충남과 동시 추진"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b28",
+            "link": "https://mpmbc.co.kr/NewsArticle/1502799",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "지역 국회의원, 시도 실·국장까지 전원이 참석해 쟁점 해소를 위한 최종 담판을 벌일 예정이었던 5차 간담회가 돌연 취소됐습니다. 민주당 지도부가 통합 관련 법률안 제출을 요청했기 때문입니다. [ CG ] ◀ SYNC ▶김원이... ",
+            "originallink": "https://mpmbc.co.kr/NewsArticle/1502799",
+            "press": "MBC",
+            "pubDate": "2026-01-28T21:26:00",
+            "related_members": [
+                "4L695580"
+            ],
+            "title": "추가 논의 없이 법률안 제출..졸속 추진 우려"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b29",
+            "link": "https://mpmbc.co.kr/NewsArticle/1502798",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "◀ SYNC ▶ 김원이 국회의원 *지난 25일 3차 간담회* \"(1차) 가안으로 특별시의 명칭은 광주전남특별시로 한다. 청사는 광주청사, 무안청사, 동부청사 등 3청사를 균형있게 유지하되 주된 사무소는 전남으로 한다.\" 그런데... ",
+            "originallink": "https://mpmbc.co.kr/NewsArticle/1502798",
+            "press": "MBC",
+            "pubDate": "2026-01-28T21:26:00",
+            "related_members": [
+                "4L695580"
+            ],
+            "title": "\"존중,조화,양보,타협은 어디에서 오는가?\"..말바꾸기 반발 확산"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b2a",
+            "link": "https://n.news.naver.com/mnews/article/056/0012114269?sid=100",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "[김원이/더불어민주당 전남도당위원장/어제 : \"소탐대실하면 안 된다는 마음가짐으로 서로 양보하고 다시... [김문수/국회의원/더불어민주당 행정통합입법추진지원단 : \"입법지원단에서 광주전남, 대전충남 양 법안의... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471370&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-28T19:00:00",
+            "related_members": [
+                "4L695580",
+                "86R9476S"
+            ],
+            "title": "광주·전남 통합 특별법 발의 연기…대전·충남과 동시 추진"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b2b",
+            "link": "https://n.news.naver.com/mnews/article/015/0005243652?sid=102",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "전남지사, 김원이 광주전남통합추진특위 공동위원장, 지역 국회의원 등은 이 같은 내용을 중심으로 한 통합안에 최종 합의했다. 쟁점이던 행정통합 지자체의 공식 명칭을 전남광주특별시로 정한 것에 대해 참석자들은... ",
+            "originallink": "https://www.hankyung.com/article/2026012888931",
+            "press": "한국경제",
+            "pubDate": "2026-01-28T18:11:00",
+            "related_members": [
+                "4L695580"
+            ],
+            "title": "광주·전남 통합명칭 '전남광주특별시'"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b2c",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628823?sid=102",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "간담회에는 강기정 광주시장과 김영록 전남도지사, 더불어민주당 양부남 광주시당위원장과 김원이 전남도당위원장 등 지역 국회의원들이 참석했다. 통합 자치단체 명칭은 '전남광주특별시'로 정하고, 약칭은... ",
+            "originallink": "https://www.mk.co.kr/article/11946030",
+            "press": "매일경제",
+            "pubDate": "2026-01-28T17:58:00",
+            "related_members": [
+                "CK143054",
+                "4L695580"
+            ],
+            "title": "부산·경남 \"재정·자치 분권 보장땐 지방선거前 통합도 가능\""
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b2d",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628694?sid=100",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "더불어민주당 광주·전남 행정통합 추진 특별위원회에 따르면, 지역 국회의원 18명은 이날 ‘전남광주특별시... 김원이 행정통합 추진 특위 공동위원장은 “통합 자치단체 명칭과 주 사무소 소재지 문제는 상당 부분... ",
+            "originallink": "https://www.mk.co.kr/article/11945852",
+            "press": "매일경제",
+            "pubDate": "2026-01-28T16:12:00",
+            "related_members": [
+                "4L695580"
+            ],
+            "title": "광주·전남 행정통합 특별법 윤곽…국회 발의는 ‘막판 조율’로 연기"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b2e",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138950?sid=102",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "김원이 특위 공동위원장은 “통합지자체 명칭과 주 사무소 소재지 문제는 어느 정도 정리가 됐다”며... 특위에 소속된 지역 국회의원 18명의 공동발의 형식으로 진행된다. 더불어민주당은 오는 2월 말까지 특별법 의결을... ",
+            "originallink": "https://biz.chosun.com/topics/topics_social/2026/01/28/BCCS4AB3ZNACDLEXAYAUSTP6PA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-28T14:12:00",
+            "related_members": [
+                "4L695580"
+            ],
+            "title": "광주·전남 행정통합 특별법 발의 연기…내일 5차 간담회"
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b2f",
+            "link": "https://n.news.naver.com/mnews/article/056/0012113995?sid=100",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "■ 프로그램명 : [출발 무등의 아침] ■ 방송 시간 : 08:30∼09:00 KBS광주 1R FM 90.5 MHz ■ 진행 : 정길훈 앵커 ■ 출연 : 정준호 민주당 국회의원 ■ 구성 : 정유라 작가 ■ 기술 : 정상문 감독 ▶유튜브 영상 바로가기 https://www.... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471062&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-28T12:08:00",
+            "related_members": [
+                "4L695580",
+                "IC499858",
+                "VRY5522V",
+                "QUR40502"
+            ],
+            "title": "[무등의 아침] 정준호 “‘통합 블랙홀’ 청사 문제, 뒤로 미뤄…지방선..."
+        },
+        {
+            "_id": "697cbd2938b0cf4096976b30",
+            "link": "https://n.news.naver.com/mnews/article/421/0008739091?sid=102",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "28일 더불어민주당 광주·전남 행정통합 추진 특별위원회에 따르면 이날 국회의원 18명은 '전남광주특별시... 김원이 특위 공동위원장은 \"통합지자체 명칭과 주 사무소 소재지 문제는 어느 정도 정리가 됐다\"며 \"특례... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6053684",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T11:34:00",
+            "related_members": [
+                "4L695580"
+            ],
+            "title": "전남광주특별시 설치 특별법 발의 연기…\"수정·보완 필요\""
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a9d",
+            "link": "https://kjmbc.co.kr/NewsArticle/1502492",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "◀ 리포트 ▶ 광주지역 국회의원들 대부분은 이번 가안을 두고 명확한 입장을 내지 않았습니다. [ CG ] 양부남 민주당 광주시당 위원장은 \"최종안이 나오기 전까지 할 말이 없다\"고 했고 전진숙, 정준호, 조인철 의원도... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1502492",
+            "press": "MBC",
+            "pubDate": "2026-01-27T07:45:00",
+            "related_members": [
+                "EFU76868",
+                "8BF5855P",
+                "FOK3459D",
+                "GRP3908I",
+                "ZKB18611",
+                "EB16073M",
+                "VRY5522V",
+                "IWR8966I",
+                "4L695580",
+                "M7O7878U",
+                "8TU8443O",
+                "86R9476S",
+                "I7R13867",
+                "CK143054",
+                "QUR40502",
+                "IC499858",
+                "9HE7226N"
+            ],
+            "title": "[한걸음더]명칭·청사 예민하고 중요한 문제 18명 국회의원에게 물었더..."
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a9e",
+            "link": "https://kjmbc.co.kr/NewsArticle/1502433",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "(기자) 광주지역 국회의원들 대부분은 이번 가안을 두고 명확한 입장을 내지 않았습니다. 양부남 민주당 광주시당 위원장은 \"최종안이 나오기 전까지 할 말이 없다\"고 했고 전진숙, 정준호, 조인철 의원도 마찬가지... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1502433",
+            "press": "MBC",
+            "pubDate": "2026-01-26T20:40:00",
+            "related_members": [
+                "EFU76868",
+                "8BF5855P",
+                "FOK3459D",
+                "GRP3908I",
+                "ZKB18611",
+                "EB16073M",
+                "VRY5522V",
+                "IWR8966I",
+                "4L695580",
+                "M7O7878U",
+                "I7R13867",
+                "T465023H",
+                "8TU8443O",
+                "86R9476S",
+                "CK143054",
+                "QUR40502",
+                "IC499858",
+                "9HE7226N"
+            ],
+            "title": "[한걸음더]명칭·청사 예민하고 중요한 문제 18명 국회의원에게 물었더..."
+        },
         {
             "_id": "6976fcf58459600028997f8d",
             "link": "https://n.news.naver.com/mnews/article/421/0008734575?sid=102",
@@ -378,274 +630,15 @@
                 "CK143054"
             ],
             "title": "명칭은 광주전남특별시…주청사는 전남 잠정 합의(종합)"
-        },
-        {
-            "_id": "6976fcf58459600028997f99",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423653?sid=100",
-            "created_at": "2026-01-26T14:34:42.610000",
-            "description": "이날 오후 4시부터 진행된 간담회에는 강기정 광주시장과 김영록 전남도지사, 시·도 실국장, 양부남 민주당 광주시당위원장, 김원이 전남도당위원장을 포함한 지역 국회의원이 참여했다. 또 교육통합을 함께 논의하기... ",
-            "originallink": "https://www.khan.co.kr/article/202601251957001",
-            "press": "경향신문",
-            "pubDate": "2026-01-25T19:57:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "‘광주전남특별시’에 청사는 ‘전남’ 공감대…최종 합의는 못해"
-        },
-        {
-            "_id": "6976fcf58459600028997f9a",
-            "link": "https://n.news.naver.com/mnews/article/003/0013729232?sid=102",
-            "created_at": "2026-01-26T14:34:42.610000",
-            "description": "특별법안 발의를 앞두고 사실상 마지막 협의의 장인 이날 간담회에는 강기정 광주시장과 김영록 전남지사, 더불어민주당 양부남 광주시당위원장, 김원이 전남도당위원장을 포함한 지역 국회의원, 이정선 광주교육감... ",
-            "originallink": "https://www.newsis.com/view/NISX20260125_0003489258",
-            "press": "뉴시스",
-            "pubDate": "2026-01-25T19:37:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "통합 명칭 '광주전남특별시'로 가닥…전남에 주 청사 두기로"
-        },
-        {
-            "_id": "6976fcf58459600028997f9b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008733306?sid=102",
-            "created_at": "2026-01-26T14:34:42.610000",
-            "description": "이날 간담회에는 강기정 광주시장과 김영록 전남지사를 비롯해 광주·전남 지역 국회의원, 양부남 더불어민주당 광주시당위원장, 김원이 전남도당위원장, 양 시도 교육감과 지방의회 관계자 등 50여 명이 참석했다. 당초... ",
-            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6050215",
-            "press": "뉴스1",
-            "pubDate": "2026-01-25T19:14:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "광주전남 행정통합 지자체 명칭 '광주전남특별시'로 1차 합의…27일 확정"
-        },
-        {
-            "_id": "6976fcf58459600028997f9d",
-            "link": "https://n.news.naver.com/mnews/article/421/0008733171?sid=102",
-            "created_at": "2026-01-26T14:34:42.610000",
-            "description": "이날 간담회에는 강기정 광주시장과 김영록 전남지사를 비롯해 광주·전남 지역 국회의원, 양부남 더불어민주당 광주시당위원장, 김원이 전남도당위원장, 양 시도 교육감과 지방의회 관계자 등 50여 명이 참석했다. 양부남... ",
-            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6050133",
-            "press": "뉴스1",
-            "pubDate": "2026-01-25T16:44:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "광주전남 통합 특별법 3차 회의…'명칭·재정·자치권' 확정되나?"
-        },
-        {
-            "_id": "6976fcf58459600028997f9c",
-            "link": "https://n.news.naver.com/mnews/article/003/0013729071?sid=102",
-            "created_at": "2026-01-26T14:34:42.610000",
-            "description": "특별법안 발의를 앞두고 사실상 마지막 협의의 장인 이날 간담회에는 강기정 광주시장과 김영록 전남지사, 시·도 실국장, 더불어민주당 양부남 광주시당위원장, 김원이 전남도당위원장을 포함한 지역 국회의원, 이정선... ",
-            "originallink": "https://www.newsis.com/view/NISX20260125_0003489176",
-            "press": "뉴시스",
-            "pubDate": "2026-01-25T16:44:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "광주·전남 통합 행정구역 명칭, 최종 합의 이뤄질까"
-        },
-        {
-            "_id": "6972d1fe8459600028997714",
-            "link": "https://n.news.naver.com/mnews/article/421/0008729946?sid=102",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "지역 국회의원들은 최대한 많은 특례를 담기 위해 노력하고 있는 것으로 전해졌다. 김원이 전남도당위원장은 \"이재명 대통령께서 민주주의 발전을 위해 희생해 온 광주와 전남에 특별한 보상을 언급한 만큼 광주와 전남에... ",
-            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6047336",
-            "press": "뉴스1",
-            "pubDate": "2026-01-23T06:11:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "광주가 먼저? 전남이 먼저?…25일 '특별시 명칭' 결정되나"
-        },
-        {
-            "_id": "6972d1fe8459600028997715",
-            "link": "https://ysmbc.co.kr/NewsArticle/1501756",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "\" 양시도지사와 국회의원들은 특별법에 대한 추가적인 논의를 이어간 뒤 이달 말에 법안을 발의하고 2월에 국회에서 통과시킬 방침입니다. MBC NEWS 김윤/// #광주전남행정통합 #양부남 #빅딜제안 #통합청사 #창원시실패... ",
-            "originallink": "https://ysmbc.co.kr/NewsArticle/1501756",
-            "press": "MBC",
-            "pubDate": "2026-01-21T21:14:00",
-            "related_members": [
-                "4L695580",
-                "5N65159P",
-                "CK143054"
-            ],
-            "title": "광주전남 통합 특별법 ‘소재지 빅딜’ 제안 눈길"
-        },
-        {
-            "_id": "6972d1fe8459600028997716",
-            "link": "https://mpmbc.co.kr/NewsArticle/1501718",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "\" 양시도지사와 국회의원들은 특별법에 대한 추가적인 논의를 이어간 뒤 이달 말에 법안을 발의하고 2월에 국회에서 통과시킬 방침입니다. MBC NEWS 김윤/// #광주전남행정통합 #양부남 #빅딜제안 #통합청사 #창원시실패... ",
-            "originallink": "https://mpmbc.co.kr/NewsArticle/1501718",
-            "press": "MBC",
-            "pubDate": "2026-01-21T21:08:00",
-            "related_members": [
-                "4L695580",
-                "5N65159P",
-                "CK143054"
-            ],
-            "title": "\"이름 줄게 청사 다오\"…광주·전남 통합 '빅딜' 제안"
-        },
-        {
-            "_id": "6972d1fe8459600028997717",
-            "link": "https://kjmbc.co.kr/NewsArticle/1501745",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "이런 가운데 국회에서 열린 양시도지사와 국회의원 특별법 간담회에서 광주 양부남 의원의 발언은 주목할만한 합니다. 양부남 의원은 \"광주전남특별시로 가면 특별시 소재는 전남에 두고 전남광주특별시로 가면 소재지를... ",
-            "originallink": "https://kjmbc.co.kr/NewsArticle/1501745",
-            "press": "MBC",
-            "pubDate": "2026-01-21T20:40:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "\"이름 줄게 청사 다오\"… 광주전남 통합 특별법 ‘소재지 빅딜’ 제안 ..."
-        },
-        {
-            "_id": "6972d1fe8459600028997718",
-            "link": "https://n.news.naver.com/mnews/article/011/0004581523?sid=100",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "지역 국회의원) 18명이 공동 발의하는 형식”이라고 말했다. 민주당에서는 지난해 정준호(광주 북갑) 의원이... 전날에는 민주당의 변성완(부산), 허성무(경남), 김태선(울산) 시·도당위원장이 합동 기자회견을 열고 부산... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7E2DY8U7",
-            "press": "서울경제",
-            "pubDate": "2026-01-21T18:17:00",
-            "related_members": [
-                "4L695580",
-                "IC499858",
-                "HHB5652A",
-                "6WK3815W",
-                "CK143054",
-                "GP07421U",
-                "N2P9317N"
-            ],
-            "title": "與 \"광주·전남 통합법 이달중 발의\" 행정통합 속도전"
-        },
-        {
-            "_id": "6972d1fe8459600028997719",
-            "link": "https://n.news.naver.com/mnews/article/003/0013723192?sid=102",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "국회 산업통상자원중소벤처기업위원회 이철규 위원장과 김원이 국회의원, 세계지식재산기구 다렌 탕(Daren Tang) 사무총장도 축전과 영상으로 신년 인사를 전했다. 인사회는 1949년 상공부 특허국으로 시작해 1977년... ",
-            "originallink": "https://www.newsis.com/view/NISX20260121_0003485224",
-            "press": "뉴시스",
-            "pubDate": "2026-01-21T15:47:00",
-            "related_members": [
-                "4L695580",
-                "TZP9391O",
-                "7R156073"
-            ],
-            "title": "지재처, '2026 지식재산인 신년인사회'…지식으로 국가 성장"
-        },
-        {
-            "_id": "6972d1fe845960002899771a",
-            "link": "https://n.news.naver.com/mnews/article/003/0013723187?sid=102",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "광주·전남 통합추진 특별위원회 김원이 공동위원장은 21일 통합특별법 제정을 위한 국회 2차 간담회에서... 지역 국회의원들의 판단이다. 단 증원이 필요하다면 국회 정개특위에서 진지하게 다뤄보자는 입장인 셈이다.... ",
-            "originallink": "https://www.newsis.com/view/NISX20260121_0003485227",
-            "press": "뉴시스",
-            "pubDate": "2026-01-21T15:46:00",
-            "related_members": [
-                "4L695580"
-            ],
-            "title": "광주·전남 통합 의원정수 '6월 지선 전 정개특위' 가나"
-        },
-        {
-            "_id": "6972d1fe845960002899771b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013723128?sid=102",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "간담회에는 강기정 광주시장과 김영록 전남지사, 시·도 실국장, 더불어민주당 양부남 광주시당위원장, 김원이 전남도당위원장을 포함한 지역 국회의원들이 참석할 예정이다. 시도지사와 지역 국회의원들은 지난 15일... ",
-            "originallink": "https://www.newsis.com/view/NISX20260121_0003485163",
-            "press": "뉴시스",
-            "pubDate": "2026-01-21T15:26:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "광주·전남 통합특별법 완성도 높인다…25일 3차 간담회"
-        },
-        {
-            "_id": "6972d1fe845960002899771c",
-            "link": "https://n.news.naver.com/mnews/article/003/0013722751?sid=102",
-            "created_at": "2026-01-23T10:42:20.152000",
-            "description": "전체 국회의원(18명) 공동 발의 형식으로 공식 발의될 예정이다. 내달 임시국회에 상정돼 2월28일 의결을... 김원이 민주당 전남도당위원장은 \"지금은 작은 차이로 논쟁을 벌일 때가 아니라 통 큰 단결, 통 큰 합의로 작은... ",
-            "originallink": "https://www.newsis.com/view/NISX20260121_0003484975",
-            "press": "뉴시스",
-            "pubDate": "2026-01-21T14:08:00",
-            "related_members": [
-                "4L695580"
-            ],
-            "title": "광주·전남 통합 특별법, 운명의 '입법 레이스'…해법 관심(종합)"
-        },
-        {
-            "_id": "6972d1fe845960002899771d",
-            "link": "https://n.news.naver.com/mnews/article/005/0001827475?sid=100",
-            "created_at": "2026-01-23T10:42:20.153000",
-            "description": "광주광역시와 전남도, 지역 국회의원들은 21일 오전 국회의원회관에서 ‘광주전남 통합 특별법 검토... 김원이 민주당 전남도당위원장도 “작은 차이로 가지고 논쟁벌일 때가 아니라 통큰 단결과 합의가 필요하다. 작은... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029281822&code=61111111&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-21T13:22:00",
-            "related_members": [
-                "4L695580"
-            ],
-            "title": "광주·전남 통합 특별법, 입법 드라이브 속도"
-        },
-        {
-            "_id": "6972d1fe845960002899771e",
-            "link": "https://n.news.naver.com/mnews/article/016/0002588947?sid=102",
-            "created_at": "2026-01-23T10:42:20.153000",
-            "description": "간담회에는 강기정 광주시장과 김영록 전남도지사, 시·도 실국장, 더불어민주당 양부남 광주시당위원장, 김원이 전남도당위원장을 포함한 지역 국회의원 18명 등 40여 명이 참석했다. 지난 15일 열린 1차 간담회에서 제안된... ",
-            "originallink": "https://biz.heraldcorp.com/article/10659914?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-21T13:07:00",
-            "related_members": [
-                "4L695580",
-                "CK143054"
-            ],
-            "title": "광주-전남 통합특별법 입법 드라이브 속도"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960ac20631fd1743497d51f",
-            "url": "https://www.youtube.com/watch?v=twFr8jtfo-w",
-            "HG_NM": "김원이",
-            "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
-            "duration": 107.0,
-            "title": "2020년 6월 17일 보건복지위원회 김원이 국회의원 인사",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac20631fd1743497d522",
-            "url": "https://www.youtube.com/watch?v=G0AAY_AUOrI",
-            "HG_NM": "김원이",
-            "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
-            "duration": 220.0,
-            "title": "김원이 의원 측근이 2차 가해..지방선거 후보도 포함[목포MBC 뉴스데스크]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac20631fd1743497d525",
-            "url": "https://www.youtube.com/watch?v=V8v8LbfWaTc",
-            "HG_NM": "김원이",
-            "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:29.306000",
-            "duration": 126.0,
-            "title": "김원이 의원실 성폭력 논란 2차 가해로 확산 / KBS  2022.05.13.",
-            "upload_date": null
-        },
         {
             "_id": "6960ac20631fd1743497d51a",
             "url": "https://www.youtube.com/watch?v=UCK4UEOo5-9la9o8xUrjUzLg",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
+            "collected_at": "2026-01-30T23:20:54.015000",
             "duration": null,
             "title": "김원이",
             "upload_date": null
@@ -655,7 +648,7 @@
             "url": "https://www.youtube.com/watch?v=glNRLMJwLxc",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
+            "collected_at": "2026-01-30T23:20:54.015000",
             "duration": 585.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 김원이 의원(더불어민주당)",
             "upload_date": null
@@ -665,19 +658,9 @@
             "url": "https://www.youtube.com/watch?v=51xU8lx9n4A",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:29.306000",
+            "collected_at": "2026-01-30T23:20:55.874000",
             "duration": 204.0,
             "title": "[오늘 이 뉴스] \"국회의원 이 '땡땡' 김원이\"..\"그 '땡땡'이 뭔지 불분명\" (2022.09.27/MBC뉴스)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac20631fd1743497d521",
-            "url": "https://www.youtube.com/watch?v=VBFxkg0zsWs",
-            "HG_NM": "김원이",
-            "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
-            "duration": 96.0,
-            "title": "김원이 응원 메세지 #김부겸 국회의원 / 전 행정안전부 장관",
             "upload_date": null
         },
         {
@@ -685,9 +668,29 @@
             "url": "https://www.youtube.com/watch?v=EvpPKvEB7Mk",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:29.306000",
+            "collected_at": "2026-01-30T23:20:55.874000",
             "duration": 220.0,
             "title": "김원이 의원 측근이 2차 가해.. 지방선거 후보도 포함-R (2022.5.12/목포MBC 뉴스데스크)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac20631fd1743497d51e",
+            "url": "https://www.youtube.com/watch?v=D_KUokG4CjA",
+            "HG_NM": "김원이",
+            "MONA_CD": "4L695580",
+            "collected_at": "2026-01-30T23:20:54.015000",
+            "duration": 433.0,
+            "title": "김원이 의원 국정감사 1(국민연금공단) 10/11 \"정부 주요 산하기관 2곳 연속 대표를?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac20631fd1743497d51f",
+            "url": "https://www.youtube.com/watch?v=twFr8jtfo-w",
+            "HG_NM": "김원이",
+            "MONA_CD": "4L695580",
+            "collected_at": "2026-01-30T23:20:54.015000",
+            "duration": 107.0,
+            "title": "2020년 6월 17일 보건복지위원회 김원이 국회의원 인사",
             "upload_date": null
         },
         {
@@ -695,9 +698,29 @@
             "url": "https://www.youtube.com/watch?v=3tbIogQHvWc",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
+            "collected_at": "2026-01-30T23:20:54.015000",
             "duration": 741.0,
             "title": "계엄의 밤, 김원이 의원이 국회 경력 10년차 이상 직원들을 소집한 이유 | 그날그곳",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac20631fd1743497d521",
+            "url": "https://www.youtube.com/watch?v=VBFxkg0zsWs",
+            "HG_NM": "김원이",
+            "MONA_CD": "4L695580",
+            "collected_at": "2026-01-30T23:20:54.015000",
+            "duration": 96.0,
+            "title": "김원이 응원 메세지 #김부겸 국회의원 / 전 행정안전부 장관",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac20631fd1743497d522",
+            "url": "https://www.youtube.com/watch?v=G0AAY_AUOrI",
+            "HG_NM": "김원이",
+            "MONA_CD": "4L695580",
+            "collected_at": "2026-01-30T23:20:54.015000",
+            "duration": 220.0,
+            "title": "김원이 의원 측근이 2차 가해..지방선거 후보도 포함[목포MBC 뉴스데스크]",
             "upload_date": null
         },
         {
@@ -711,16 +734,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac20631fd1743497d51e",
-            "url": "https://www.youtube.com/watch?v=D_KUokG4CjA",
-            "HG_NM": "김원이",
-            "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:28.390000",
-            "duration": 433.0,
-            "title": "김원이 의원 국정감사 1(국민연금공단) 10/11 \"정부 주요 산하기관 2곳 연속 대표를?\"",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac20631fd1743497d524",
             "url": "https://www.youtube.com/watch?v=D0XTLEn125Y",
             "HG_NM": "김원이",
@@ -731,11 +744,21 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac20631fd1743497d525",
+            "url": "https://www.youtube.com/watch?v=V8v8LbfWaTc",
+            "HG_NM": "김원이",
+            "MONA_CD": "4L695580",
+            "collected_at": "2026-01-30T23:20:55.874000",
+            "duration": 126.0,
+            "title": "김원이 의원실 성폭력 논란 2차 가해로 확산 / KBS  2022.05.13.",
+            "upload_date": null
+        },
+        {
             "_id": "6965955d887d07f7ba2fac1b",
             "url": "https://www.youtube.com/watch?v=r84gjh8Ny58",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-18T13:11:33.272000",
+            "collected_at": "2026-01-30T23:20:54.015000",
             "duration": 64.0,
             "title": "김원이 응원 메세지 #우상호 국회의원 / 전 더불어민주당 원내대표",
             "upload_date": null
@@ -755,11 +778,11 @@
             "url": "https://www.youtube.com/watch?v=RluSjxhDluI",
             "HG_NM": "김원이",
             "MONA_CD": "4L695580",
-            "collected_at": "2026-01-23T16:41:29.306000",
+            "collected_at": "2026-01-30T23:20:55.874000",
             "duration": 560.0,
             "title": "김원이 “이재명 시대, 전남 신재생에너지 메카로...그럴려고 산자위 간사, 상전벽해 할 것” / 여의도초대석",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:17.348844"
+    "exported_at": "2026-01-30T23:35:47.759442"
 }

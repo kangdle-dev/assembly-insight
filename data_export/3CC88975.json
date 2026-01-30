@@ -44,19 +44,19 @@
         "keywords": [
             "특검",
             "출신",
-            "정부",
-            "이날",
-            "민주",
-            "민주당",
-            "나경원",
-            "수사",
             "부천",
+            "이날",
+            "민주당",
+            "민주",
+            "혁신",
+            "정부",
+            "나경원",
+            "법사위",
             "통일교",
             "종합",
             "국민",
-            "혁신",
             "민변",
-            "보완"
+            "시민"
         ],
         "keyword_frequency": [
             {
@@ -65,34 +65,38 @@
             },
             {
                 "text": "출신",
+                "value": 15
+            },
+            {
+                "text": "부천",
                 "value": 14
             },
             {
-                "text": "정부",
-                "value": 13
+                "text": "이날",
+                "value": 14
             },
             {
-                "text": "이날",
-                "value": 12
+                "text": "민주당",
+                "value": 13
             },
             {
                 "text": "민주",
                 "value": 12
             },
             {
-                "text": "민주당",
-                "value": 12
+                "text": "혁신",
+                "value": 11
+            },
+            {
+                "text": "정부",
+                "value": 11
             },
             {
                 "text": "나경원",
                 "value": 11
             },
             {
-                "text": "수사",
-                "value": 10
-            },
-            {
-                "text": "부천",
+                "text": "법사위",
                 "value": 10
             },
             {
@@ -108,46 +112,92 @@
                 "value": 10
             },
             {
-                "text": "혁신",
-                "value": 10
-            },
-            {
                 "text": "민변",
                 "value": 10
             },
             {
-                "text": "보완",
+                "text": "시민",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:12.499436",
+        "last_analyzed_at": "2026-01-30T23:35:42.616215",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
-                0,
                 1,
-                0
+                0,
+                0,
+                0,
+                2,
+                1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd1e38b0cf4096976aab",
+            "link": "https://n.news.naver.com/mnews/article/003/0013740658?sid=102",
+            "created_at": "2026-01-30T23:15:58.728000",
+            "description": "이는 부천 지역 국회의원들이 발의한 '막장 유튜버 제재 관련 형법 개정안'의 조속한 상정과 심의를 요청하기 위한 것이다. 서명에는 입법 필요성에 공감한 시민 2만여명이 참여했다. 더불어민주당 서영석(경기부천갑) 의원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260130_0003497268",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T17:30:00",
+            "related_members": [
+                "3CC88975",
+                "XR24352K"
+            ],
+            "title": "부천시민사회, 국회 찾아 '막장 유튜버' 제재 입법 촉구"
+        },
+        {
+            "_id": "697cbd1e38b0cf4096976aac",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307701?sid=100",
+            "created_at": "2026-01-30T23:15:58.728000",
+            "description": "법사위 여당 간사인 김용민 의원 등은 오늘(29일) 국회 기자회견에서, 대한민국 사법 정의는 어제 죽었다고 말했습니다. 이어 재판부가 도이치모터스 주가 조작 혐의와 관련해, 시세 조종 동원 가능성을 인식했을 여지가... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601291727467481",
+            "press": "YTN",
+            "pubDate": "2026-01-29T17:27:00",
+            "related_members": [
+                "TQP7167T",
+                "3CC88975",
+                "OFE45081"
+            ],
+            "title": "범여권 법사위원 \"김건희 1심, 샤넬백으로 주가조작 덮어\""
+        },
+        {
+            "_id": "697cbd1e38b0cf4096976aad",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738442?sid=100",
+            "created_at": "2026-01-30T23:15:58.728000",
+            "description": "국회 법제사법위원 소속인 김용민·서영교·박지원·박균택·김기표·전현희 민주당 의원과 박은정 조국혁신당 의원, 최혁진 무소속 의원은 이날 국회 본회의장 앞에서 기자회견을 열고 \"권력의 핵심은 보호하고 지엽적인... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495490",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T16:20:00",
+            "related_members": [
+                "3CC88975",
+                "8BF5855P",
+                "25G2571T",
+                "CC78321E",
+                "1A82234K",
+                "OFE45081",
+                "TQP7167T",
+                "TKJ4800F",
+                "IWR8966I"
+            ],
+            "title": "與 \"법원, 김건희 봐주기 판결…입법권으로 싸울 것\""
+        },
+        {
             "_id": "6976fceb8459600028997f3e",
             "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
             "created_at": "2026-01-26T14:34:32.940000",
-            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
+            "description": "이날 출판기념회에는 김승원(민주당 경기도당위원장), 김영진, 박성준, 전용기, 김기표, 김동아, 염태영, 이건태, 이상식 국회의원, 이재준 수원특례시장, 백군기 전 용인특례시장, 이종걸, 김병욱, 양정숙, 양이원영 전... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
             "press": "뉴스1",
             "pubDate": "2026-01-25T13:11:00",
@@ -269,7 +319,7 @@
             "_id": "6968ad89297082fcc2b18cea",
             "link": "https://n.news.naver.com/mnews/article/032/0003421820?sid=100",
             "created_at": "2026-01-15T18:04:06.224000",
-            "description": "김현정 원내대변인은 이날 국회에서 열린 의원총회 뒤 기자들과 만나 “수사사법관과 전문수사관을 이원화하는 중수청법에 대한 질의가 많았다”며 “보완수사권 관련 질의도 있었는데 이것은 추후 형사소송법 개정... ",
+            "description": "김현정 원내대변인은 이날 국회에서 열린 의원총회 뒤 기자들과 만나 “수사사법관과 전문수사관을... 변호사 출신의 김남희 의원은 이날 페이스북에 “검찰개혁만 바라보다 경찰 또는 다른 기관이 새로운 권력으로... ",
             "originallink": "https://www.khan.co.kr/article/202601151708001",
             "press": "경향신문",
             "pubDate": "2026-01-15T17:08:00",
@@ -388,7 +438,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -468,7 +518,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -620,23 +670,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "69659522887d07f7ba2fabc2",
-            "url": "https://www.youtube.com/watch?v=G5B0Xl5eteU",
+            "_id": "69659522887d07f7ba2fabbd",
+            "url": "https://www.youtube.com/watch?v=k-BPST-knLE",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.981000",
-            "duration": 346.0,
-            "title": "[생중계] 김기표 더불어민주당 의원 현안 관련 기자회견 (2025.11.10 오후)",
+            "collected_at": "2026-01-30T23:18:54.165000",
+            "duration": 230.0,
+            "title": "\"나경원과 장경태 건이 같아요?!!!\" 검사출신 김기표의원의 팩트 폭격",
             "upload_date": null
         },
         {
-            "_id": "69659522887d07f7ba2fabb9",
-            "url": "https://www.youtube.com/watch?v=rOpDqpvj90k",
+            "_id": "69659522887d07f7ba2fabbb",
+            "url": "https://www.youtube.com/watch?v=qTzucZJDRfM",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.981000",
-            "duration": 202.0,
-            "title": "\"전한길, 전광훈을 임명할까요?\"... 김기표, 뼈 때리는 발언에 국힘..",
+            "collected_at": "2026-01-30T23:18:54.165000",
+            "duration": 456.0,
+            "title": "사법권 독립 외치는 천대엽 향한 김기표 칼날 질의",
             "upload_date": null
         },
         {
@@ -650,23 +700,23 @@
             "upload_date": null
         },
         {
-            "_id": "69659522887d07f7ba2fabc0",
-            "url": "https://www.youtube.com/watch?v=tbg13YIs1Nw",
+            "_id": "69659522887d07f7ba2fabbf",
+            "url": "https://www.youtube.com/watch?v=N0np5Re0BGs",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.981000",
-            "duration": 534.0,
-            "title": "[모닝콜] 김기표 \"'김건희 특검' 수사 대상에 심우정 포함해야\" (2025.06.25/뉴스투데이/MBC)",
+            "collected_at": "2026-01-14T10:15:06.753000",
+            "duration": 328.0,
+            "title": "[자막] 김기표 \"국민의힘, 무조건 반대하다 논리 모순… 내란 행위 동조자들 특검 반대 말고 쌍수 들고 환영하라\"",
             "upload_date": null
         },
         {
-            "_id": "69659522887d07f7ba2fabbb",
-            "url": "https://www.youtube.com/watch?v=qTzucZJDRfM",
+            "_id": "69659522887d07f7ba2fabc2",
+            "url": "https://www.youtube.com/watch?v=G5B0Xl5eteU",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.316000",
-            "duration": 456.0,
-            "title": "사법권 독립 외치는 천대엽 향한 김기표 칼날 질의",
+            "collected_at": "2026-01-30T23:18:55.596000",
+            "duration": 346.0,
+            "title": "[생중계] 김기표 더불어민주당 의원 현안 관련 기자회견 (2025.11.10 오후)",
             "upload_date": null
         },
         {
@@ -700,13 +750,13 @@
             "upload_date": null
         },
         {
-            "_id": "69659522887d07f7ba2fabba",
-            "url": "https://www.youtube.com/watch?v=fOogptmAczQ",
+            "_id": "69659522887d07f7ba2fabc0",
+            "url": "https://www.youtube.com/watch?v=tbg13YIs1Nw",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.316000",
-            "duration": 741.0,
-            "title": "\"윤석열 정부 때 승진했죠?\"  ... 김기표, 대검 문서감정실장에 묻자 '발끈'",
+            "collected_at": "2026-01-30T23:18:55.596000",
+            "duration": 534.0,
+            "title": "[모닝콜] 김기표 \"'김건희 특검' 수사 대상에 심우정 포함해야\" (2025.06.25/뉴스투데이/MBC)",
             "upload_date": null
         },
         {
@@ -714,49 +764,49 @@
             "url": "https://www.youtube.com/watch?v=N2mHatt3Ego",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.316000",
+            "collected_at": "2026-01-30T23:18:54.165000",
             "duration": 440.0,
             "title": "희대의 답변에 대한 김기표 의원의 일침!!",
             "upload_date": null
         },
         {
-            "_id": "69659522887d07f7ba2fabbf",
-            "url": "https://www.youtube.com/watch?v=N0np5Re0BGs",
-            "HG_NM": "김기표",
-            "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-14T10:15:06.753000",
-            "duration": 328.0,
-            "title": "[자막] 김기표 \"국민의힘, 무조건 반대하다 논리 모순… 내란 행위 동조자들 특검 반대 말고 쌍수 들고 환영하라\"",
-            "upload_date": null
-        },
-        {
-            "_id": "69659522887d07f7ba2fabbd",
-            "url": "https://www.youtube.com/watch?v=k-BPST-knLE",
-            "HG_NM": "김기표",
-            "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.316000",
-            "duration": 230.0,
-            "title": "\"나경원과 장경태 건이 같아요?!!!\" 검사출신 김기표의원의 팩트 폭격",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abd0631fd1743497d3e3",
-            "url": "https://www.youtube.com/watch?v=WLZM1bBPtBk",
-            "HG_NM": "김기표",
-            "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-09T16:18:37.438000",
-            "duration": 315.0,
-            "title": "\"특검 언제까지 우려먹냐고?\"...김기표, 국힘 논리 '되치기'",
-            "upload_date": null
-        },
-        {
-            "_id": "69659522887d07f7ba2fabc1",
-            "url": "https://www.youtube.com/watch?v=wMltA097hbk",
+            "_id": "69659522887d07f7ba2fabbe",
+            "url": "https://www.youtube.com/watch?v=ZM7mS2dFD6s",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
             "collected_at": "2026-01-13T09:43:12.944000",
-            "duration": 333.0,
-            "title": "\"지방선거 핑계 대지 마\" 김기표, 국힘 송석준-나경원에 비판 작렬",
+            "duration": 486.0,
+            "title": "\"그럼 방첩사가 수사할까요?\" 김기표 의원, 나경원 의원 논리 완전 박살, 조목 조목 반박하며 격파하는데.. 나경원 의원 표정이...",
+            "upload_date": null
+        },
+        {
+            "_id": "69659522887d07f7ba2fabba",
+            "url": "https://www.youtube.com/watch?v=fOogptmAczQ",
+            "HG_NM": "김기표",
+            "MONA_CD": "3CC88975",
+            "collected_at": "2026-01-30T23:18:54.165000",
+            "duration": 741.0,
+            "title": "\"윤석열 정부 때 승진했죠?\"  ... 김기표, 대검 문서감정실장에 묻자 '발끈'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abd0631fd1743497d3e4",
+            "url": "https://www.youtube.com/watch?v=NDUc-iusfB8",
+            "HG_NM": "김기표",
+            "MONA_CD": "3CC88975",
+            "collected_at": "2026-01-09T16:18:37.438000",
+            "duration": 307.0,
+            "title": "[자막] 특검이 돈낭비라는 국민의힘? 김기표, \"윤석열 정권 대왕고래 예산이면 특검 충분\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659522887d07f7ba2fabb9",
+            "url": "https://www.youtube.com/watch?v=rOpDqpvj90k",
+            "HG_NM": "김기표",
+            "MONA_CD": "3CC88975",
+            "collected_at": "2026-01-30T23:18:55.596000",
+            "duration": 202.0,
+            "title": "\"전한길, 전광훈을 임명할까요?\"... 김기표, 뼈 때리는 발언에 국힘..",
             "upload_date": null
         },
         {
@@ -784,7 +834,7 @@
             "url": "https://www.youtube.com/watch?v=UCqUIRTYoiQRpaP6EifVmsIA",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
-            "collected_at": "2026-01-23T16:40:11.316000",
+            "collected_at": "2026-01-30T23:18:54.165000",
             "duration": null,
             "title": "부천 김기표 TV",
             "upload_date": null
@@ -800,25 +850,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960abd0631fd1743497d3e4",
-            "url": "https://www.youtube.com/watch?v=NDUc-iusfB8",
+            "_id": "6960abd0631fd1743497d3e3",
+            "url": "https://www.youtube.com/watch?v=WLZM1bBPtBk",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
             "collected_at": "2026-01-09T16:18:37.438000",
-            "duration": 307.0,
-            "title": "[자막] 특검이 돈낭비라는 국민의힘? 김기표, \"윤석열 정권 대왕고래 예산이면 특검 충분\"",
+            "duration": 315.0,
+            "title": "\"특검 언제까지 우려먹냐고?\"...김기표, 국힘 논리 '되치기'",
             "upload_date": null
         },
         {
-            "_id": "69659522887d07f7ba2fabbe",
-            "url": "https://www.youtube.com/watch?v=ZM7mS2dFD6s",
+            "_id": "69659522887d07f7ba2fabc1",
+            "url": "https://www.youtube.com/watch?v=wMltA097hbk",
             "HG_NM": "김기표",
             "MONA_CD": "3CC88975",
             "collected_at": "2026-01-13T09:43:12.944000",
-            "duration": 486.0,
-            "title": "\"그럼 방첩사가 수사할까요?\" 김기표 의원, 나경원 의원 논리 완전 박살, 조목 조목 반박하며 격파하는데.. 나경원 의원 표정이...",
+            "duration": 333.0,
+            "title": "\"지방선거 핑계 대지 마\" 김기표, 국힘 송석준-나경원에 비판 작렬",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:12.499436"
+    "exported_at": "2026-01-30T23:35:42.617215"
 }

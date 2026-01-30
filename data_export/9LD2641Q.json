@@ -52,16 +52,16 @@
     },
     "analysis": {
         "keywords": [
-            "공항",
             "김해",
+            "공항",
             "위원",
+            "민주당",
             "선거",
             "최고",
-            "민주당",
             "이자",
+            "김해시",
             "더불어민주당",
             "스포츠",
-            "김해시",
             "시장",
             "교수",
             "가덕도",
@@ -70,16 +70,20 @@
         ],
         "keyword_frequency": [
             {
-                "text": "공항",
-                "value": 20
+                "text": "김해",
+                "value": 22
             },
             {
-                "text": "김해",
+                "text": "공항",
                 "value": 20
             },
             {
                 "text": "위원",
                 "value": 16
+            },
+            {
+                "text": "민주당",
+                "value": 14
             },
             {
                 "text": "선거",
@@ -90,12 +94,12 @@
                 "value": 14
             },
             {
-                "text": "민주당",
-                "value": 13
-            },
-            {
                 "text": "이자",
                 "value": 12
+            },
+            {
+                "text": "김해시",
+                "value": 10
             },
             {
                 "text": "더불어민주당",
@@ -104,10 +108,6 @@
             {
                 "text": "스포츠",
                 "value": 10
-            },
-            {
-                "text": "김해시",
-                "value": 8
             },
             {
                 "text": "시장",
@@ -130,29 +130,43 @@
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:18.710556",
+        "last_analyzed_at": "2026-01-30T23:35:49.107502",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                3,
-                3,
-                2,
-                1,
                 0,
+                0,
+                0,
+                0,
+                1,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2b38b0cf4096976b50",
+            "link": "https://n.news.naver.com/mnews/article/421/0008740546?sid=102",
+            "created_at": "2026-01-30T23:16:11.699000",
+            "description": "김 원내대표는 \"민홍철(김해 갑)·김정호(김해 을) 민주당 국회의원이 문재인 정부 시절부터 동북아 물류 플랫폼 조성을 위해 노력해 왔다\"며 \"두 의원이 발의한 '국제물류 진흥 지역 지정 및 운영 특별법'이 국회 국토위를... ",
+            "originallink": "https://www.news1.kr/local/busan-gyeongnam/6054443",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T18:13:00",
+            "related_members": [
+                "9LD2641Q",
+                "O6D8329R"
+            ],
+            "title": "김해시의회, 동북아 물류 플랫폼 결의안 '반쪽' 채택"
+        },
         {
             "_id": "6976fcf78459600028997fa2",
             "link": "https://n.news.naver.com/mnews/article/382/0001250328?sid=102",
@@ -389,66 +403,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6966ee7a887d07f7ba2fb3dd",
-            "url": "https://www.youtube.com/watch?v=rd0QAJhotRw",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.145000",
-            "duration": 155.0,
-            "title": "희망 가득한 설 명절 되세요! 더불어민주당 김해시을 국회의원 김정호 올림",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d570",
-            "url": "https://www.youtube.com/watch?v=33YZHF5JUdw",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.145000",
-            "duration": 214.0,
-            "title": "[알릴레오] 노무현 대통령과 김정호 의원의 '반딧불이 일화'",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d57c",
-            "url": "https://www.youtube.com/watch?v=cDJjdSjrXlA",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-21T08:43:34.272000",
-            "duration": 88.0,
-            "title": "김정호 해명에도 ‘분노’…“초선이 겸손해야” | 뉴스A",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee7a887d07f7ba2fb3db",
-            "url": "https://www.youtube.com/watch?v=-7sCZfCmTEQ",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.145000",
-            "duration": 118.0,
-            "title": "[오늘의 키워드] 욕설에 침까지 뱉어…국회의원 김정호·민경욱 ‘갑질 논란’",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d576",
-            "url": "https://www.youtube.com/watch?v=nXJnGGc8X74",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.003000",
-            "duration": 418.0,
-            "title": "중소벤처기업부・특허청 소관 업무보고 전체영상, 김정호 국회의원",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d578",
-            "url": "https://www.youtube.com/watch?v=3oJ_rQOVGKs",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.958000",
-            "duration": 2406.0,
-            "title": " 글로벌 한국 경제 80년사...과거를 통해 미래를 배우다 (김정호 교수) | 곽수종의 프리즘",
-            "upload_date": null
-        },
-        {
             "_id": "6966ee7a887d07f7ba2fb3de",
             "url": "https://www.youtube.com/watch?v=vC581yeEEbg",
             "HG_NM": "김정호",
@@ -456,76 +410,6 @@
             "collected_at": "2026-01-14T10:16:42.401000",
             "duration": 84.0,
             "title": "행복하고 풍요로운 한가위 보내세요~! 더불어민주당 김해시을 국회의원 김정호",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d57a",
-            "url": "https://www.youtube.com/watch?v=IC4vMQYGJ-Q",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.958000",
-            "duration": 5320.0,
-            "title": "반도체 다음 먹거리가 탄생했다, 한국이 미국 넘어 천조국 됩니다 (김정호 교수 풀버전)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d571",
-            "url": "https://www.youtube.com/watch?v=9-0JyjUAUmk",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.145000",
-            "duration": 112.0,
-            "title": "[자막뉴스] 김정호 의원, 공항 직원 경위서 공개되자 결국... / YTN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d573",
-            "url": "https://www.youtube.com/watch?v=eYqKNL4pZMk",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-09T16:20:17.981000",
-            "duration": 398.0,
-            "title": "[정치부회의] '음모론' 주장하던 김정호 의원…'공항 갑질' 결국 사과",
-            "upload_date": null
-        },
-        {
-            "_id": "6965956d887d07f7ba2fac28",
-            "url": "https://www.youtube.com/watch?v=u_kScGrjxlk",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-15T18:15:55.728000",
-            "duration": 5418.0,
-            "title": "AI 최후의 승자 이래서 구글입니다 (KAIST 전자및전기공학부 김정호 교수)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d577",
-            "url": "https://www.youtube.com/watch?v=tBhV0OBUEjY",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-09T16:20:17.981000",
-            "duration": 95.0,
-            "title": "예고) 김정호 의원의 “슬기로운 스마트 생활” - 알면 당신도 법테랑 - 94회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac35631fd1743497d575",
-            "url": "https://www.youtube.com/watch?v=_UmQ-ZIy51Y",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-09T16:20:17.981000",
-            "duration": 1229.0,
-            "title": "뉴스N | [파워인터뷰]  김정호 더불어민주당 의원 - 2023년 2월 6일",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee7a887d07f7ba2fb3dc",
-            "url": "https://www.youtube.com/watch?v=y6dftbttXG4",
-            "HG_NM": "김정호",
-            "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-18T13:11:59.003000",
-            "duration": 88.0,
-            "title": "백혜련 의원 \"김정호 의원, 여성위원회와 함께 총선승리 이끌 것\"",
             "upload_date": null
         },
         {
@@ -539,6 +423,26 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac35631fd1743497d573",
+            "url": "https://www.youtube.com/watch?v=eYqKNL4pZMk",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-09T16:20:17.981000",
+            "duration": 398.0,
+            "title": "[정치부회의] '음모론' 주장하던 김정호 의원…'공항 갑질' 결국 사과",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee7a887d07f7ba2fb3db",
+            "url": "https://www.youtube.com/watch?v=-7sCZfCmTEQ",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:27.429000",
+            "duration": 118.0,
+            "title": "[오늘의 키워드] 욕설에 침까지 뱉어…국회의원 김정호·민경욱 ‘갑질 논란’",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac35631fd1743497d57b",
             "url": "https://www.youtube.com/watch?v=kdHseEO2_9g",
             "HG_NM": "김정호",
@@ -549,13 +453,93 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac35631fd1743497d56f",
-            "url": "https://www.youtube.com/watch?v=UCXEu8xyS1u7POLvhhxq0fTA",
+            "_id": "6960ac35631fd1743497d577",
+            "url": "https://www.youtube.com/watch?v=tBhV0OBUEjY",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.145000",
-            "duration": null,
-            "title": "김정호TV",
+            "collected_at": "2026-01-09T16:20:17.981000",
+            "duration": 95.0,
+            "title": "예고) 김정호 의원의 “슬기로운 스마트 생활” - 알면 당신도 법테랑 - 94회",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee7a887d07f7ba2fb3dd",
+            "url": "https://www.youtube.com/watch?v=rd0QAJhotRw",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:27.429000",
+            "duration": 155.0,
+            "title": "희망 가득한 설 명절 되세요! 더불어민주당 김해시을 국회의원 김정호 올림",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d570",
+            "url": "https://www.youtube.com/watch?v=33YZHF5JUdw",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:27.429000",
+            "duration": 214.0,
+            "title": "[알릴레오] 노무현 대통령과 김정호 의원의 '반딧불이 일화'",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d57a",
+            "url": "https://www.youtube.com/watch?v=IC4vMQYGJ-Q",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:28.962000",
+            "duration": 5320.0,
+            "title": "반도체 다음 먹거리가 탄생했다, 한국이 미국 넘어 천조국 됩니다 (김정호 교수 풀버전)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d574",
+            "url": "https://www.youtube.com/watch?v=-oRxThbsEPk",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:27.429000",
+            "duration": 277.0,
+            "title": "\"욕 했다\" vs \"억울해\"…김정호 의원, 공항 갑질 논란 '진실공방'",
+            "upload_date": null
+        },
+        {
+            "_id": "6965956d887d07f7ba2fac28",
+            "url": "https://www.youtube.com/watch?v=u_kScGrjxlk",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-15T18:15:55.728000",
+            "duration": 5418.0,
+            "title": "AI 최후의 승자 이래서 구글입니다 (KAIST 전자및전기공학부 김정호 교수)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d57c",
+            "url": "https://www.youtube.com/watch?v=cDJjdSjrXlA",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-21T08:43:34.272000",
+            "duration": 88.0,
+            "title": "김정호 해명에도 ‘분노’…“초선이 겸손해야” | 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d576",
+            "url": "https://www.youtube.com/watch?v=nXJnGGc8X74",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-18T13:11:59.003000",
+            "duration": 418.0,
+            "title": "중소벤처기업부・특허청 소관 업무보고 전체영상, 김정호 국회의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ee7a887d07f7ba2fb3dc",
+            "url": "https://www.youtube.com/watch?v=y6dftbttXG4",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-18T13:11:59.003000",
+            "duration": 88.0,
+            "title": "백혜련 의원 \"김정호 의원, 여성위원회와 함께 총선승리 이끌 것\"",
             "upload_date": null
         },
         {
@@ -569,13 +553,43 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac35631fd1743497d574",
-            "url": "https://www.youtube.com/watch?v=-oRxThbsEPk",
+            "_id": "6960ac35631fd1743497d578",
+            "url": "https://www.youtube.com/watch?v=3oJ_rQOVGKs",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-01-23T16:41:50.145000",
-            "duration": 277.0,
-            "title": "\"욕 했다\" vs \"억울해\"…김정호 의원, 공항 갑질 논란 '진실공방'",
+            "collected_at": "2026-01-30T23:21:28.962000",
+            "duration": 2406.0,
+            "title": " 글로벌 한국 경제 80년사...과거를 통해 미래를 배우다 (김정호 교수) | 곽수종의 프리즘",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d56f",
+            "url": "https://www.youtube.com/watch?v=UCXEu8xyS1u7POLvhhxq0fTA",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:27.429000",
+            "duration": null,
+            "title": "김정호TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d571",
+            "url": "https://www.youtube.com/watch?v=9-0JyjUAUmk",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-30T23:21:27.429000",
+            "duration": 112.0,
+            "title": "[자막뉴스] 김정호 의원, 공항 직원 경위서 공개되자 결국... / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac35631fd1743497d575",
+            "url": "https://www.youtube.com/watch?v=_UmQ-ZIy51Y",
+            "HG_NM": "김정호",
+            "MONA_CD": "9LD2641Q",
+            "collected_at": "2026-01-09T16:20:17.981000",
+            "duration": 1229.0,
+            "title": "뉴스N | [파워인터뷰]  김정호 더불어민주당 의원 - 2023년 2월 6일",
             "upload_date": null
         },
         {
@@ -589,5 +603,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:18.710556"
+    "exported_at": "2026-01-30T23:35:49.107502"
 }

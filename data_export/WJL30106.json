@@ -48,29 +48,25 @@
     "analysis": {
         "keywords": [
             "국민",
-            "출마",
             "일정",
             "의원실",
+            "선거구",
             "서울",
             "토론회",
+            "초선",
             "회관",
             "이재명",
             "현장",
             "채널A",
             "답변",
-            "추경호",
-            "대구",
-            "선거",
-            "정책"
+            "민주당",
+            "위원회",
+            "출마"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 10
-            },
-            {
-                "text": "출마",
-                "value": 9
+                "value": 11
             },
             {
                 "text": "일정",
@@ -81,12 +77,20 @@
                 "value": 8
             },
             {
+                "text": "선거구",
+                "value": 7
+            },
+            {
                 "text": "서울",
                 "value": 7
             },
             {
                 "text": "토론회",
                 "value": 7
+            },
+            {
+                "text": "초선",
+                "value": 6
             },
             {
                 "text": "회관",
@@ -109,50 +113,78 @@
                 "value": 6
             },
             {
-                "text": "추경호",
+                "text": "민주당",
                 "value": 5
             },
             {
-                "text": "대구",
+                "text": "위원회",
                 "value": 5
             },
             {
-                "text": "선거",
-                "value": 5
-            },
-            {
-                "text": "정책",
+                "text": "출마",
                 "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:48.037392",
+        "last_analyzed_at": "2026-01-30T23:36:18.892638",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
+                0,
+                2,
+                1,
                 1,
                 0,
                 0,
-                0,
-                0,
-                2,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd4438b0cf4096976bf9",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055349?sid=100",
+            "created_at": "2026-01-30T23:16:36.187000",
+            "description": "(민주당) 의원을 위원장으로 선출하고, 여야 간사로 민주당 윤건영 의원과 국민의힘 조정훈 의원이 각각... 또한 지난 지방선거에 한정해 11개 국회의원 선거구 내 기초의원 선거구당 선출인원을 3인 이상 5인 이하로... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48077",
+            "press": "조선일보",
+            "pubDate": "2026-01-27T04:00:00",
+            "related_members": [
+                "SQ36001H",
+                "GP07421U",
+                "WJL30106"
+            ],
+            "title": "선거구 획정 서둘러야 지역밀착형 공약 나온다"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b06",
+            "link": "https://n.news.naver.com/mnews/article/003/0013731458?sid=100",
+            "created_at": "2026-01-30T23:16:05.509000",
+            "description": "바꿔달라'고 국회에 제출해야 한다\"고 했다. 한편 정개특위는 이날 '공직선거법 및 지방선거구제 개편심사소위원회' '정치관계법심사소위원회' 구성의 건도 의결했다. 정개특위 여야 간사인 윤건영 민주당 의원과 조정훈... ",
+            "originallink": "https://www.newsis.com/view/NISX20260126_0003490875",
+            "press": "뉴시스",
+            "pubDate": "2026-01-26T20:31:00",
+            "related_members": [
+                "X639721U",
+                "5K93695T",
+                "GP07421U",
+                "WJL30106",
+                "XG348314"
+            ],
+            "title": "여야, 정개특위서 \"선관위가 선거구 획정 적극 나서야\" 한목소리 질타"
+        },
+        {
             "_id": "6976fcf28459600028997f7b",
             "link": "https://n.news.naver.com/mnews/article/009/0005626986?sid=100",
             "created_at": "2026-01-26T14:34:39.895000",
-            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 선거 출마에 나섰고... ",
+            "description": "나경원 의원(5선), 신동욱 최고위원(초선), 조정훈 의원(재선) 등이 거론되고 있다. 더불어민주당에서는... 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 선거 출마에 나섰고... ",
             "originallink": "https://www.mk.co.kr/article/11942687",
             "press": "매일경제",
             "pubDate": "2026-01-25T18:00:00",
@@ -177,7 +209,7 @@
             "_id": "6976fcf28459600028997f7c",
             "link": "https://n.news.naver.com/mnews/article/009/0005626878?sid=100",
             "created_at": "2026-01-26T14:34:39.896000",
-            "description": "현재 윤재옥·추경호·유영하·최은석 의원 등 대구시장 선거 출마를 공식화했거나 출마를 준비하고 있는 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고... ",
+            "description": "(5선) 의원, 신동욱(초선) 최고위원, 조정훈(재선) 의원 등이 거론되고 있다. 더불어민주당에서는 정원오... 현역 국회의원만도 5명에 이르고 있다. 추경호 의원(3선)과 최은석 의원(초선)이 대구시장 출마를 공식화했고... ",
             "originallink": "https://www.mk.co.kr/article/11942517",
             "press": "매일경제",
             "pubDate": "2026-01-25T16:28:00",
@@ -216,36 +248,6 @@
             "title": "[단독] 격분한 '이만희 육성 녹취' 입수…위장조직 '근우회' 정체는? / 풀..."
         },
         {
-            "_id": "6966ec77887d07f7ba2fb281",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
-            "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037918",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "WJL30106",
-                "IUX1829H",
-                "MSY7784L",
-                "9D939735",
-                "88O1334C",
-                "04T3751T",
-                "NPD75153",
-                "P8A4624C",
-                "5N65159P",
-                "D6U6678O",
-                "FU87526G",
-                "HXT76735",
-                "1A82234K",
-                "2KM3589W",
-                "25G2571T",
-                "BRU2690F",
-                "RBM5454A",
-                "WJG74792"
-            ],
-            "title": "[오늘의 국회일정] (14일, 수)"
-        },
-        {
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
@@ -274,6 +276,36 @@
                 "WJG74792"
             ],
             "title": "[오늘의 주요일정]국회(1월14일 수요일)"
+        },
+        {
+            "_id": "6966ec77887d07f7ba2fb281",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037918",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "IUX1829H",
+                "MSY7784L",
+                "9D939735",
+                "88O1334C",
+                "04T3751T",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "RBM5454A",
+                "WJG74792"
+            ],
+            "title": "[오늘의 국회일정] (14일, 수)"
         },
         {
             "_id": "6964b547631fd17434996077",
@@ -417,13 +449,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc7f",
-            "url": "https://www.youtube.com/watch?v=4VoGPTGOImM",
+            "_id": "6960ae06631fd1743497dc80",
+            "url": "https://www.youtube.com/watch?v=X7BJIFlzsmo",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
             "collected_at": "2026-01-23T16:49:39.303000",
-            "duration": 325.0,
-            "title": "“학부모 의견 좀 들으라고요!” 고교학점제 대혼란에 울분 토한 조정훈",
+            "duration": 1119.0,
+            "title": "국회방송 뉴스N | [파워인터뷰] 시대전환 조정훈 의원  - 2020년 12월 29일",
             "upload_date": null
         },
         {
@@ -431,7 +463,7 @@
             "url": "https://www.youtube.com/watch?v=jMx6A0oqdB8",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
+            "collected_at": "2026-01-30T23:33:08.301000",
             "duration": 160.0,
             "title": "조정훈 \"국민들이 왜 반중 하는지 생각해 봐라\" [티조Clip]",
             "upload_date": null
@@ -457,13 +489,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc7d",
-            "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
+            "_id": "6960ae06631fd1743497dc7e",
+            "url": "https://www.youtube.com/watch?v=5u-dS4A9iik",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
-            "duration": 1050.0,
-            "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
+            "collected_at": "2026-01-30T23:33:08.301000",
+            "duration": 1364.0,
+            "title": "조정훈 대정부질문ㅣ초선의원의 품격있는 질문ㅣ휴식 신분제, 한국판 뉴딜",
             "upload_date": null
         },
         {
@@ -481,7 +513,7 @@
             "url": "https://www.youtube.com/watch?v=4dZhzfF_VuA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:39.303000",
+            "collected_at": "2026-01-30T23:33:09.733000",
             "duration": 409.0,
             "title": "조정훈 \"무주택 국무위원 손 들어주세요\"하자 '정적' [현장영상] / 채널A",
             "upload_date": null
@@ -501,19 +533,19 @@
             "url": "https://www.youtube.com/watch?v=rvj8P65HngI",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
+            "collected_at": "2026-01-30T23:33:08.301000",
             "duration": 956.0,
             "title": "서울 성벽 틀어막은 민주당에 결국 울분터진 조정훈 의원 [펜앤현장]",
             "upload_date": null
         },
         {
-            "_id": "6965971d887d07f7ba2fae64",
-            "url": "https://www.youtube.com/watch?v=aiofdTSq_uY",
+            "_id": "6965971d887d07f7ba2fae63",
+            "url": "https://www.youtube.com/watch?v=YT3gCERUNFg",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-13T09:51:39.611000",
-            "duration": 551.0,
-            "title": "'중국 반대'하면 혐오? 팩트로 이재명 직격한 조정훈",
+            "collected_at": "2026-01-30T23:33:08.301000",
+            "duration": 114.0,
+            "title": "조정훈 울컥...도대체 개소식에서 무슨 일이?",
             "upload_date": null
         },
         {
@@ -527,13 +559,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc7e",
-            "url": "https://www.youtube.com/watch?v=5u-dS4A9iik",
+            "_id": "6960ae06631fd1743497dc7d",
+            "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
-            "duration": 1364.0,
-            "title": "조정훈 대정부질문ㅣ초선의원의 품격있는 질문ㅣ휴식 신분제, 한국판 뉴딜",
+            "collected_at": "2026-01-30T23:33:08.301000",
+            "duration": 1050.0,
+            "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
             "upload_date": null
         },
         {
@@ -551,19 +583,19 @@
             "url": "https://www.youtube.com/watch?v=LIgfHpDm_wU",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
+            "collected_at": "2026-01-30T23:33:08.301000",
             "duration": 477.0,
             "title": "조정훈 \"40년 동안 교편 잡은 분들이 화낸다\" [티조Clip]",
             "upload_date": null
         },
         {
-            "_id": "6960ae06631fd1743497dc80",
-            "url": "https://www.youtube.com/watch?v=X7BJIFlzsmo",
+            "_id": "6960ae06631fd1743497dc7f",
+            "url": "https://www.youtube.com/watch?v=4VoGPTGOImM",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:39.303000",
-            "duration": 1119.0,
-            "title": "국회방송 뉴스N | [파워인터뷰] 시대전환 조정훈 의원  - 2020년 12월 29일",
+            "collected_at": "2026-01-30T23:33:09.733000",
+            "duration": 325.0,
+            "title": "“학부모 의견 좀 들으라고요!” 고교학점제 대혼란에 울분 토한 조정훈",
             "upload_date": null
         },
         {
@@ -571,7 +603,7 @@
             "url": "https://www.youtube.com/watch?v=UCf8h3rgyIyV2_wmF5TiR85g",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
+            "collected_at": "2026-01-30T23:33:08.301000",
             "duration": null,
             "title": "조정훈",
             "upload_date": null
@@ -581,7 +613,7 @@
             "url": "https://www.youtube.com/watch?v=BxLx0M6FeuU",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
+            "collected_at": "2026-01-30T23:33:08.301000",
             "duration": 96.0,
             "title": "[스팟Live] \"답변 중 웃는 건 뭡니까\"...조정훈, 정근식 답변 태도에 '폭발' | 25.10.20 국회 교육위원회 국정감사",
             "upload_date": null
@@ -597,15 +629,15 @@
             "upload_date": null
         },
         {
-            "_id": "6965971d887d07f7ba2fae63",
-            "url": "https://www.youtube.com/watch?v=YT3gCERUNFg",
+            "_id": "6965971d887d07f7ba2fae64",
+            "url": "https://www.youtube.com/watch?v=aiofdTSq_uY",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-23T16:49:38.449000",
-            "duration": 114.0,
-            "title": "조정훈 울컥...도대체 개소식에서 무슨 일이?",
+            "collected_at": "2026-01-13T09:51:39.611000",
+            "duration": 551.0,
+            "title": "'중국 반대'하면 혐오? 팩트로 이재명 직격한 조정훈",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:48.037392"
+    "exported_at": "2026-01-30T23:36:18.893141"
 }

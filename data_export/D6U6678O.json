@@ -47,26 +47,30 @@
     },
     "analysis": {
         "keywords": [
+            "김포",
             "더불어민주당",
             "예방",
             "산업",
+            "안전",
+            "연장",
             "책임",
-            "김포",
+            "박상",
             "산재",
             "당정",
-            "안전",
             "예산",
             "설명회",
             "발언",
             "단장",
-            "회관",
-            "서울",
-            "연장"
+            "회관"
         ],
         "keyword_frequency": [
             {
+                "text": "김포",
+                "value": 20
+            },
+            {
                 "text": "더불어민주당",
-                "value": 19
+                "value": 20
             },
             {
                 "text": "예방",
@@ -77,11 +81,19 @@
                 "value": 16
             },
             {
-                "text": "책임",
-                "value": 12
+                "text": "안전",
+                "value": 15
             },
             {
-                "text": "김포",
+                "text": "연장",
+                "value": 14
+            },
+            {
+                "text": "책임",
+                "value": 14
+            },
+            {
+                "text": "박상",
                 "value": 12
             },
             {
@@ -90,10 +102,6 @@
             },
             {
                 "text": "당정",
-                "value": 12
-            },
-            {
-                "text": "안전",
                 "value": 12
             },
             {
@@ -115,44 +123,94 @@
             {
                 "text": "회관",
                 "value": 10
-            },
-            {
-                "text": "서울",
-                "value": 10
-            },
-            {
-                "text": "연장",
-                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:19.097682",
+        "last_analyzed_at": "2026-01-30T23:35:49.506526",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                1,
                 0,
                 0,
-                1,
                 0,
                 0,
-                0
+                3,
+                0,
+                1
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd2938b0cf4096976b31",
+            "link": "https://n.news.naver.com/mnews/article/003/0013739578?sid=100",
+            "created_at": "2026-01-30T23:16:09.203000",
+            "description": "왼쪽 다섯번째부터 주한규 한국원자력연구원장, 이호현 기후에너지환경부 제2차관, 최원호 원자력안전위원회 위원장, 전대욱 한국수력원자력 사장 직무대행, 배 부총리, 이철규 국회의원, 김주영 국회의원, 김위상... ",
+            "originallink": "https://www.newsis.com/view/NISI20260130_0021144772",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T10:50:00",
+            "related_members": [
+                "D6U6678O",
+                "7YL9580G",
+                "TZP9391O",
+                "LCZ1711I"
+            ],
+            "title": "2026 원자력계 신년인사회"
+        },
+        {
+            "_id": "697cbd2c38b0cf4096976b51",
+            "link": "https://n.news.naver.com/mnews/article/022/0004101355?sid=102",
+            "created_at": "2026-01-30T23:16:12.558000",
+            "description": "그러면서 2023년 11월 ‘5호선 예타면제법안’을 당론으로 채택했다고 기자회견에 나섰던 더불어민주당 소속 지역구 국회의원의 책임론을 제기했다. 유 의원은 “김주영·박상혁 의원은 중앙정부와 당을 상대로 즉각적인... ",
+            "originallink": "https://www.segye.com/newsView/20260128519236?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-28T20:20:00",
+            "related_members": [
+                "D6U6678O",
+                "HXT76735"
+            ],
+            "title": "김포시의회 유영숙 의원 “안전사고 반복 5호선 연장은 생존 문제”"
+        },
+        {
+            "_id": "697cbd2c38b0cf4096976b52",
+            "link": "https://n.news.naver.com/mnews/article/011/0004584120?sid=102",
+            "created_at": "2026-01-30T23:16:12.558000",
+            "description": "그러면서 유 의원은 “김포시민의 한 사람으로서, 시민의 대의기관으로서 피토하는 심정으로 규탄한다”며 “3년 전 민주당 국회의원, 지금 재선이된 김주영·박상혁 국회의원이 얘기했던 것처럼 김포시민의 절박한... ",
+            "originallink": "https://www.sedaily.com/article/20001982?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-28T18:49:00",
+            "related_members": [
+                "D6U6678O",
+                "HXT76735"
+            ],
+            "title": "유영숙 김포시의원 “5호선 연장 생존 문제…정부·민주당, 정치적 고려..."
+        },
+        {
+            "_id": "697cbd2c38b0cf4096976b53",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828923?sid=102",
+            "created_at": "2026-01-30T23:16:12.558000",
+            "description": "유 의원은 김포 지역구 국회의원인 김주영·박상혁 의원에게도 책임 있는 역할을 요구했다. 유 의원은 “2023년 11월 두 의원이 ‘5호선 예타 면제 법안’을 당론으로 채택했다며 정부여당이 김포시민의 절박한 요구를... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029316585&code=61122013&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-28T18:08:00",
+            "related_members": [
+                "D6U6678O",
+                "HXT76735"
+            ],
+            "title": "“5호선 김포 연장 예타 반년째 지연…시민 안전이 우선”"
+        },
+        {
             "_id": "6976fcec8459600028997f4a",
             "link": "https://n.news.naver.com/mnews/article/003/0013727158?sid=100",
             "created_at": "2026-01-26T14:34:33.543000",
-            "description": "아울러 민주당에서 박해철·정진욱 의원이 역시 새로 합류하기로 했다. 김 의원은 \"노사정과 국회의 사회적 대화의 틀이 완성됐다\"고 평가했다. 권 차관은 이날 회의에서 \"정년 연장을 속도감 있게 풀어내야 할 것 같다\"며... ",
+            "description": "특위 간사인 김주영 의원은 23일 국회 본청 원내대표실에서 열린 제2차 본위원회의 이후 기자들과 만나 \"6개월... 이밖에 민주당에서 위원장인 소병훈 의원, 김남희·유동수 의원, 재계에서는 이동근 한국경영자총협회... ",
             "originallink": "https://www.newsis.com/view/NISX20260123_0003487871",
             "press": "뉴시스",
             "pubDate": "2026-01-23T13:15:00",
@@ -247,36 +305,6 @@
             "title": "與 “올해 ‘디스커버리 제도’ 입법”… 경제 형벌 대신 민사책임 강화"
         },
         {
-            "_id": "6966ec77887d07f7ba2fb281",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
-            "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037918",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "WJL30106",
-                "IUX1829H",
-                "MSY7784L",
-                "9D939735",
-                "88O1334C",
-                "04T3751T",
-                "NPD75153",
-                "P8A4624C",
-                "5N65159P",
-                "D6U6678O",
-                "FU87526G",
-                "HXT76735",
-                "1A82234K",
-                "2KM3589W",
-                "25G2571T",
-                "BRU2690F",
-                "RBM5454A",
-                "WJG74792"
-            ],
-            "title": "[오늘의 국회일정] (14일, 수)"
-        },
-        {
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
@@ -305,6 +333,36 @@
                 "WJG74792"
             ],
             "title": "[오늘의 주요일정]국회(1월14일 수요일)"
+        },
+        {
+            "_id": "6966ec77887d07f7ba2fb281",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037918",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "IUX1829H",
+                "MSY7784L",
+                "9D939735",
+                "88O1334C",
+                "04T3751T",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "RBM5454A",
+                "WJG74792"
+            ],
+            "title": "[오늘의 국회일정] (14일, 수)"
         },
         {
             "_id": "6966ec84887d07f7ba2fb2d1",
@@ -485,7 +543,7 @@
             "url": "https://www.youtube.com/watch?v=k1h0eDX0ezY",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:58.143000",
+            "collected_at": "2026-01-30T23:21:39.699000",
             "duration": 2720.0,
             "title": "[다시보기] '용의 눈물' 배우 김주영, 폐렴으로 별세…향년 73세 - 김명준의 뉴스파이터 (2025.10.2)",
             "upload_date": null
@@ -495,7 +553,7 @@
             "url": "https://www.youtube.com/watch?v=zPzWJX23Q_8",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": 1202.0,
             "title": "[김주영 김포(갑) 국회의원 인터뷰] 헬로 이슈토크 '서울5호선 김포 연장' 대담",
             "upload_date": null
@@ -515,7 +573,7 @@
             "url": "https://www.youtube.com/watch?v=3CruOomUJnI",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": 418.0,
             "title": "김주영 더불어민주당 의원 “제 역할은 일자리입니다\"",
             "upload_date": null
@@ -525,7 +583,7 @@
             "url": "https://www.youtube.com/watch?v=8DLSkemFyB0",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": 92.0,
             "title": "[국회는 지금] 김주영 의원, “상습 임금체불 뿌리 뽑아야”ㅣ#헬로tv뉴스",
             "upload_date": null
@@ -535,7 +593,7 @@
             "url": "https://www.youtube.com/watch?v=JRt5K142q54",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": 573.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 김주영 의원(더불어민주당)",
             "upload_date": null
@@ -545,7 +603,7 @@
             "url": "https://www.youtube.com/watch?v=l8gbodM1pVQ",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": 1346.0,
             "title": "[풀버전]250416 김주영 의원 교육·사회·문화 대정부질문",
             "upload_date": null
@@ -565,7 +623,7 @@
             "url": "https://www.youtube.com/watch?v=DIMVY4l1HPk",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:58.143000",
+            "collected_at": "2026-01-30T23:21:39.699000",
             "duration": 448.0,
             "title": "'용의 눈물' 배우 김주영, 폐렴으로 별세…향년 73세 - 김명준의 뉴스파이터",
             "upload_date": null
@@ -575,29 +633,9 @@
             "url": "https://www.youtube.com/watch?v=UCZNx1EOc3M10QqrqJ_6tbGg",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": null,
             "title": "김주영TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d59a",
-            "url": "https://www.youtube.com/watch?v=yunObPYyZgA",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:58.143000",
-            "duration": 205.0,
-            "title": "김주영 의원 ‘쪼개기 매입’…“아버지가 사기 당한 듯” | 뉴스A 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac3c631fd1743497d598",
-            "url": "https://www.youtube.com/watch?v=paGjF4kW2rc",
-            "HG_NM": "김주영",
-            "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
-            "duration": 1387.0,
-            "title": "노동존중 사회를 꿈꾸던 노동운동가에서 국회의원으로 변신! '김주영 더불어민주당 의원' (2023.6.20. 방송) | 국회의원 25시 | 국회방송",
             "upload_date": null
         },
         {
@@ -615,9 +653,19 @@
             "url": "https://www.youtube.com/watch?v=hplxEvV6OI8",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-23T16:41:57.395000",
+            "collected_at": "2026-01-30T23:21:38.175000",
             "duration": 997.0,
             "title": "김어준의 다스뵈이다 '김주영 의원' 출연! (23.11.10 )",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d59a",
+            "url": "https://www.youtube.com/watch?v=yunObPYyZgA",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-30T23:21:39.699000",
+            "duration": 205.0,
+            "title": "김주영 의원 ‘쪼개기 매입’…“아버지가 사기 당한 듯” | 뉴스A 라이브",
             "upload_date": null
         },
         {
@@ -631,13 +679,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac3c631fd1743497d596",
-            "url": "https://www.youtube.com/watch?v=8lB3aMbG3Qc",
+            "_id": "6960ac3c631fd1743497d598",
+            "url": "https://www.youtube.com/watch?v=paGjF4kW2rc",
             "HG_NM": "김주영",
             "MONA_CD": "D6U6678O",
-            "collected_at": "2026-01-18T13:12:07.239000",
-            "duration": 92.0,
-            "title": "하루에 이자만 120억? 빚더미에 앉은 한전. 전력 공공성 강화해야! #한국전력 #김성환 #환경부 #인사청문회 #김주영 #더불어민주당 #국회의원 #김포갑 #환경노동위원회",
+            "collected_at": "2026-01-30T23:21:38.175000",
+            "duration": 1387.0,
+            "title": "노동존중 사회를 꿈꾸던 노동운동가에서 국회의원으로 변신! '김주영 더불어민주당 의원' (2023.6.20. 방송) | 국회의원 25시 | 국회방송",
             "upload_date": null
         },
         {
@@ -649,7 +697,17 @@
             "duration": 95.0,
             "title": "[2025국정감사] \"근로자들 꼭 퇴직금 받았으면\" 쿠팡 검사의 용기 있는 눈물 #김주영 #국회의원 #국정감사 #더불어민주당 #고용노동부 #쿠팡  #부천지청 #엄희준 #문지석검사",
             "upload_date": null
+        },
+        {
+            "_id": "6960ac3c631fd1743497d596",
+            "url": "https://www.youtube.com/watch?v=8lB3aMbG3Qc",
+            "HG_NM": "김주영",
+            "MONA_CD": "D6U6678O",
+            "collected_at": "2026-01-18T13:12:07.239000",
+            "duration": 92.0,
+            "title": "하루에 이자만 120억? 빚더미에 앉은 한전. 전력 공공성 강화해야! #한국전력 #김성환 #환경부 #인사청문회 #김주영 #더불어민주당 #국회의원 #김포갑 #환경노동위원회",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:19.097682"
+    "exported_at": "2026-01-30T23:35:49.506526"
 }

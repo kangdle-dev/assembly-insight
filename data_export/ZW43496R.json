@@ -46,45 +46,53 @@
             "민주당",
             "쿠팡",
             "회견",
-            "대표",
             "더불어민주당",
-            "정부",
-            "최고",
-            "발의",
-            "금융",
-            "위원",
-            "원내",
             "노동",
-            "로저스",
-            "청문회"
+            "대표",
+            "야간",
+            "발의",
+            "최고",
+            "퇴직",
+            "서울",
+            "회관",
+            "정책",
+            "이연희"
         ],
         "keyword_frequency": [
             {
                 "text": "박홍",
-                "value": 52
+                "value": 55
             },
             {
                 "text": "민주당",
-                "value": 20
+                "value": 25
             },
             {
                 "text": "쿠팡",
-                "value": 16
+                "value": 20
             },
             {
                 "text": "회견",
                 "value": 16
             },
             {
+                "text": "더불어민주당",
+                "value": 14
+            },
+            {
+                "text": "노동",
+                "value": 13
+            },
+            {
                 "text": "대표",
                 "value": 13
             },
             {
-                "text": "더불어민주당",
-                "value": 12
+                "text": "야간",
+                "value": 10
             },
             {
-                "text": "정부",
+                "text": "발의",
                 "value": 8
             },
             {
@@ -92,57 +100,196 @@
                 "value": 8
             },
             {
-                "text": "발의",
+                "text": "퇴직",
                 "value": 7
             },
             {
-                "text": "금융",
+                "text": "서울",
                 "value": 7
             },
             {
-                "text": "위원",
+                "text": "회관",
                 "value": 7
             },
             {
-                "text": "원내",
-                "value": 6
+                "text": "정책",
+                "value": 7
             },
             {
-                "text": "노동",
-                "value": 6
-            },
-            {
-                "text": "로저스",
-                "value": 6
-            },
-            {
-                "text": "청문회",
-                "value": 6
+                "text": "이연희",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:26.979623",
+        "last_analyzed_at": "2026-01-30T23:35:57.485417",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
+                2,
                 0,
+                4,
                 1,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd3c38b0cf4096976bc1",
+            "link": "https://n.news.naver.com/mnews/article/374/0000489502?sid=101",
+            "created_at": "2026-01-30T23:16:28.768000",
+            "description": "관련해 현재 국회에는 여러 법안이 발의돼 있습니다. 대기업이 수탁법인을 설립하고 국민연금공단도 사업자로 참여할 수 있도록 한 안(한정애 의원안), 국민연금과 유사한 별도 공단을 신설하는 안(박홍배 의원안)... ",
+            "originallink": "https://biz.sbs.co.kr/article_hub/20000288318?division=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-29T14:36:00",
+            "related_members": [
+                "XPP2564T",
+                "ZW43496R",
+                "EB16073M"
+            ],
+            "title": "김성주 이사장 \"국민연금이 퇴직연금 운용하면 수익률 3배\""
+        },
+        {
+            "_id": "697cbd2d38b0cf4096976b5d",
+            "link": "https://n.news.naver.com/mnews/article/022/0004101285?sid=102",
+            "created_at": "2026-01-30T23:16:13.782000",
+            "description": "민주노총은 28일 더불어민주당 김태선·박홍배·이용우 의원, 진보당 정혜경 의원 등과 서울 영등포구 국회의원회관에서 ‘야간노동 규제방안 촉구 국회 토론회’를 열었다. 최근 국회 택배사회적대화기구에서 야간노동... ",
+            "originallink": "https://www.segye.com/newsView/20260128516427?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-01-28T17:02:00",
+            "related_members": [
+                "6K79158C",
+                "BNV6535N",
+                "ZW43496R",
+                "6WK3815W",
+                "1A82234K"
+            ],
+            "title": "“야간노동, 보상 아닌 안전 관점에서 규제해야”"
+        },
+        {
+            "_id": "697cbd2d38b0cf4096976b5e",
+            "link": "https://n.news.naver.com/mnews/article/003/0013735069?sid=102",
+            "created_at": "2026-01-30T23:16:13.782000",
+            "description": "의원, 한창민 사회민주당 의원, 서왕진·신장식 조국혁신당 의원, 정혜경 진보당 의원 등은 28일 오전 서울 여의도 국회의원회관에서 '야간노동 규제방안 촉구 국회 토론회'를 개최했다. 최근 새벽배송 등 24시간 서비스가... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493318",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T13:30:00",
+            "related_members": [
+                "6K79158C",
+                "GE71932C",
+                "ZW43496R",
+                "6WK3815W",
+                "1A82234K",
+                "80C5885Z",
+                "NPD75153",
+                "BNV6535N",
+                "T4I4862D"
+            ],
+            "title": "\"야간노동, 휴식 보장 등 '회복' 전제로 한 규제 있어야…산안법 적용 ..."
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b09",
+            "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
+            "created_at": "2026-01-30T23:16:05.804000",
+            "description": "= ◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6053047",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T05:00:00",
+            "related_members": [
+                "ATB59635",
+                "KBK8836C",
+                "04T3751T",
+                "D9I3309M",
+                "O6D8329R",
+                "ZW43496R",
+                "51A45980",
+                "XR24352K",
+                "NPD75153",
+                "BRU2690F",
+                "RQQ3807K",
+                "O7R5461J",
+                "3TP65086",
+                "X639721U",
+                "A0P4646G",
+                "P8A4624C",
+                "IWK63872"
+            ],
+            "title": "[오늘의 국회일정] (28일, 수)"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b08",
+            "link": "https://n.news.naver.com/mnews/article/003/0013733906?sid=100",
+            "created_at": "2026-01-30T23:16:05.804000",
+            "description": "◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의(본관... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003492453",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T05:00:00",
+            "related_members": [
+                "ATB59635",
+                "KBK8836C",
+                "04T3751T",
+                "D9I3309M",
+                "O6D8329R",
+                "ZW43496R",
+                "51A45980",
+                "XR24352K",
+                "NPD75153",
+                "BRU2690F",
+                "RQQ3807K",
+                "O7R5461J",
+                "3TP65086",
+                "X639721U",
+                "A0P4646G",
+                "P8A4624C",
+                "IWK63872"
+            ],
+            "title": "[오늘의 주요일정]국회(1월28일 수요일)"
+        },
+        {
+            "_id": "697cbd2638b0cf4096976b0f",
+            "link": "https://n.news.naver.com/mnews/article/015/0005242142?sid=100",
+            "created_at": "2026-01-30T23:16:06.390000",
+            "description": "주로 재선 이상 국회의원이 맡아온 당직이다. 박 수석대변인은 전략기획위원장 교체 사유에 대해 \"이해식... 임호선 민주당 수석사무부총장도 사의를 밝힘에 따라 최기상 정책위원회 사회수석부의장이 후임으로 정해졌다.... ",
+            "originallink": "https://www.hankyung.com/article/202601262728i",
+            "press": "한국경제",
+            "pubDate": "2026-01-26T15:11:00",
+            "related_members": [
+                "CCU1009B",
+                "EBH1101V",
+                "5765663F",
+                "ZW43496R",
+                "1WE5693J",
+                "FH777496",
+                "I5I2468R"
+            ],
+            "title": "이해식 민주당 전략기획위원장 사임…후임은 '전략통' 이연희 의원"
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976aa0",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112356?sid=100",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "‘쿠팡 바로잡기 TF’에는 단장인 김 의원과 함께 허영, 김동아, 박홍배, 권향엽 의원 등 정무위, 산자위, 환노위 등 소속 민주당 의원 10여 명이 참여할 예정입니다. TF는 국회가 추진 중인 쿠팡 국정조사와는 별개로... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468893&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-26T14:46:00",
+            "related_members": [
+                "EFU76868",
+                "FU53642G",
+                "MIS62075",
+                "ZW43496R",
+                "IUX1829H"
+            ],
+            "title": "[단독] 민주당, ‘쿠팡 바로잡기 TF’ 출범…“당 차원 종합 대책 논의..."
+        },
         {
             "_id": "6976fceb8459600028997f45",
             "link": "https://n.news.naver.com/mnews/article/366/0001138052?sid=100",
@@ -218,7 +365,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -298,7 +445,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -607,53 +754,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "697326c484596000289979f7",
-            "url": "https://www.youtube.com/watch?v=NkTAvrR-wrI",
+            "_id": "697326c484596000289979f6",
+            "url": "https://www.youtube.com/watch?v=5QU5AHGF9ck",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 1159.0,
-            "title": "민주당 박홍배 의원1 11 2 합 더불어민주당 거제 한화오션 노사분쟁 현장방문 결과 보고 기자회견",
+            "collected_at": "2026-01-30T23:24:42.554000",
+            "duration": 197.0,
+            "title": "“민생 외치고 요구는 탄핵철회?”...권성동 참교욱 해버린 민주 박홍배",
             "upload_date": null
         },
         {
-            "_id": "696c5e2a297082fcc2b19c83",
-            "url": "https://www.youtube.com/watch?v=sC2-Mql_fVE",
+            "_id": "696c5e2a297082fcc2b19c82",
+            "url": "https://www.youtube.com/watch?v=yppUVxAlV-0",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
             "collected_at": "2026-01-18T13:14:33.444000",
-            "duration": 859.0,
-            "title": "민주당 박홍배 의원1 11 2 합 화성 아리셀 배터리고공장 중대참사 관련 기자회견",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e2a297082fcc2b19c80",
-            "url": "https://www.youtube.com/watch?v=K6yeM51ih24",
-            "HG_NM": "박홍배",
-            "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 1181.0,
-            "title": "민주당 박홍배 의원1 11 2 합 비정규직 근로자 지원 활성화 법안 발의 기자회견",
-            "upload_date": null
-        },
-        {
-            "_id": "697326c484596000289979f5",
-            "url": "https://www.youtube.com/watch?v=5ZfAGwlhyXQ",
-            "HG_NM": "박홍배",
-            "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:02.009000",
-            "duration": 1705.0,
-            "title": "박홍배 국회의원  / 리얼인터뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e2a297082fcc2b19c7d",
-            "url": "https://www.youtube.com/watch?v=IGVgiN5Kxcs",
-            "HG_NM": "박홍배",
-            "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 1207.0,
-            "title": "민주당 박홍배 의원1 11 2 합 금융권 콜센터 노동자 처우개선 촉구 기자회견",
+            "duration": 99.0,
+            "title": "[OK 금융그룹 불법의혹 기자회견] 박홍배 의원 발언 영상 | 240703",
             "upload_date": null
         },
         {
@@ -661,9 +778,39 @@
             "url": "https://www.youtube.com/watch?v=MeFc2OKciRw",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
+            "collected_at": "2026-01-30T23:24:40.980000",
             "duration": 1342.0,
             "title": "국회의원 박홍배 대정부질문 #심우정 #채용비리 #명태균 #대유위니아 #임금체불 (2025년 4월 16일)",
+            "upload_date": null
+        },
+        {
+            "_id": "697326c484596000289979f5",
+            "url": "https://www.youtube.com/watch?v=5ZfAGwlhyXQ",
+            "HG_NM": "박홍배",
+            "MONA_CD": "ZW43496R",
+            "collected_at": "2026-01-30T23:24:42.554000",
+            "duration": 1705.0,
+            "title": "박홍배 국회의원  / 리얼인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e2a297082fcc2b19c84",
+            "url": "https://www.youtube.com/watch?v=u4V5SbJNWqA",
+            "HG_NM": "박홍배",
+            "MONA_CD": "ZW43496R",
+            "collected_at": "2026-01-18T13:14:33.444000",
+            "duration": 1377.0,
+            "title": "[팩트TV 풀영상] 더불어민주당 박홍배 의원 교육사회문화 분야 대정부질문 풀영상 (2025.4.16)",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e2a297082fcc2b19c80",
+            "url": "https://www.youtube.com/watch?v=K6yeM51ih24",
+            "HG_NM": "박홍배",
+            "MONA_CD": "ZW43496R",
+            "collected_at": "2026-01-30T23:24:40.980000",
+            "duration": 1181.0,
+            "title": "민주당 박홍배 의원1 11 2 합 비정규직 근로자 지원 활성화 법안 발의 기자회견",
             "upload_date": null
         },
         {
@@ -687,6 +834,36 @@
             "upload_date": null
         },
         {
+            "_id": "696c5e2a297082fcc2b19c83",
+            "url": "https://www.youtube.com/watch?v=sC2-Mql_fVE",
+            "HG_NM": "박홍배",
+            "MONA_CD": "ZW43496R",
+            "collected_at": "2026-01-18T13:14:33.444000",
+            "duration": 859.0,
+            "title": "민주당 박홍배 의원1 11 2 합 화성 아리셀 배터리고공장 중대참사 관련 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e2a297082fcc2b19c7d",
+            "url": "https://www.youtube.com/watch?v=IGVgiN5Kxcs",
+            "HG_NM": "박홍배",
+            "MONA_CD": "ZW43496R",
+            "collected_at": "2026-01-30T23:24:40.980000",
+            "duration": 1207.0,
+            "title": "민주당 박홍배 의원1 11 2 합 금융권 콜센터 노동자 처우개선 촉구 기자회견",
+            "upload_date": null
+        },
+        {
+            "_id": "697326c484596000289979f4",
+            "url": "https://www.youtube.com/watch?v=WVFwjnq0rY4",
+            "HG_NM": "박홍배",
+            "MONA_CD": "ZW43496R",
+            "collected_at": "2026-01-30T23:24:40.980000",
+            "duration": 135.0,
+            "title": "2025 대한민국노동이사대회. 영상 축사. 국회의원 박홍배(더불어민주당)",
+            "upload_date": null
+        },
+        {
             "_id": "696c5e2a297082fcc2b19c85",
             "url": "https://www.youtube.com/watch?v=Of8LI7PECBI",
             "HG_NM": "박홍배",
@@ -707,53 +884,23 @@
             "upload_date": null
         },
         {
-            "_id": "697326c484596000289979f4",
-            "url": "https://www.youtube.com/watch?v=WVFwjnq0rY4",
+            "_id": "697326c484596000289979f7",
+            "url": "https://www.youtube.com/watch?v=NkTAvrR-wrI",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
             "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 135.0,
-            "title": "2025 대한민국노동이사대회. 영상 축사. 국회의원 박홍배(더불어민주당)",
+            "duration": 1159.0,
+            "title": "민주당 박홍배 의원1 11 2 합 더불어민주당 거제 한화오션 노사분쟁 현장방문 결과 보고 기자회견",
             "upload_date": null
         },
         {
-            "_id": "696c5e2a297082fcc2b19c7e",
-            "url": "https://www.youtube.com/watch?v=YHbLdeSEidQ",
+            "_id": "6960acb7631fd1743497d791",
+            "url": "https://www.youtube.com/watch?v=JMruLysb1II",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 961.0,
-            "title": "박홍배 “국내 주식시장 신뢰 회복 단계, 정책 뒷받침 된다면 코스피 5000 넘을 것” (25.11.10.) | 박홍배 더불어민주당 의원 | 파워인터뷰 | 국회라이브6",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e2a297082fcc2b19c84",
-            "url": "https://www.youtube.com/watch?v=u4V5SbJNWqA",
-            "HG_NM": "박홍배",
-            "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-18T13:14:33.444000",
-            "duration": 1377.0,
-            "title": "[팩트TV 풀영상] 더불어민주당 박홍배 의원 교육사회문화 분야 대정부질문 풀영상 (2025.4.16)",
-            "upload_date": null
-        },
-        {
-            "_id": "697326c484596000289979f6",
-            "url": "https://www.youtube.com/watch?v=5QU5AHGF9ck",
-            "HG_NM": "박홍배",
-            "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 197.0,
-            "title": "“민생 외치고 요구는 탄핵철회?”...권성동 참교욱 해버린 민주 박홍배",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acb7631fd1743497d790",
-            "url": "https://www.youtube.com/watch?v=fNF6Vh-TQYQ",
-            "HG_NM": "박홍배",
-            "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-21T08:45:44.613000",
-            "duration": 60.0,
-            "title": "#shorts \"정년연장법 발의 박홍배 의원, 노동왓수다 출연!\" #박홍배 #국회의원 #노동왓수다 #한국노총 #정년연장 #정년 #노동 #환경노동위원회 #정년연장법 #연금",
+            "collected_at": "2026-01-30T23:24:40.980000",
+            "duration": 1304.0,
+            "title": "[팩트TV 풀영상] 더불어민주당 박홍배 의원 교육사회문화 분야 대정부질문 풀영상 (2025.9.18)",
             "upload_date": null
         },
         {
@@ -777,23 +924,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960acb7631fd1743497d791",
-            "url": "https://www.youtube.com/watch?v=JMruLysb1II",
+            "_id": "6960acb7631fd1743497d790",
+            "url": "https://www.youtube.com/watch?v=fNF6Vh-TQYQ",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:01.250000",
-            "duration": 1304.0,
-            "title": "[팩트TV 풀영상] 더불어민주당 박홍배 의원 교육사회문화 분야 대정부질문 풀영상 (2025.9.18)",
+            "collected_at": "2026-01-21T08:45:44.613000",
+            "duration": 60.0,
+            "title": "#shorts \"정년연장법 발의 박홍배 의원, 노동왓수다 출연!\" #박홍배 #국회의원 #노동왓수다 #한국노총 #정년연장 #정년 #노동 #환경노동위원회 #정년연장법 #연금",
             "upload_date": null
         },
         {
-            "_id": "696c5e2a297082fcc2b19c82",
-            "url": "https://www.youtube.com/watch?v=yppUVxAlV-0",
+            "_id": "696c5e2a297082fcc2b19c7e",
+            "url": "https://www.youtube.com/watch?v=YHbLdeSEidQ",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-18T13:14:33.444000",
-            "duration": 99.0,
-            "title": "[OK 금융그룹 불법의혹 기자회견] 박홍배 의원 발언 영상 | 240703",
+            "collected_at": "2026-01-30T23:24:40.980000",
+            "duration": 961.0,
+            "title": "박홍배 “국내 주식시장 신뢰 회복 단계, 정책 뒷받침 된다면 코스피 5000 넘을 것” (25.11.10.) | 박홍배 더불어민주당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
         },
         {
@@ -801,11 +948,11 @@
             "url": "https://www.youtube.com/watch?v=UhokzZvFYxw",
             "HG_NM": "박홍배",
             "MONA_CD": "ZW43496R",
-            "collected_at": "2026-01-23T16:44:02.009000",
+            "collected_at": "2026-01-30T23:24:42.554000",
             "duration": 525.0,
             "title": "\"이재명 정부 혼내주라고 로비를..\"... 박홍배, 쿠팡 노골적 로비에 '분노'",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:26.979623"
+    "exported_at": "2026-01-30T23:35:57.486419"
 }

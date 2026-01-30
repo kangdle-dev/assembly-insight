@@ -43,9 +43,9 @@
     "analysis": {
         "keywords": [
             "김성",
+            "장성",
             "토론회",
             "사사건건",
-            "장성",
             "공간",
             "소장",
             "출연",
@@ -56,12 +56,16 @@
             "대통령",
             "논란",
             "지방",
-            "정책위"
+            "일정"
         ],
         "keyword_frequency": [
             {
                 "text": "김성",
-                "value": 42
+                "value": 44
+            },
+            {
+                "text": "장성",
+                "value": 20
             },
             {
                 "text": "토론회",
@@ -69,10 +73,6 @@
             },
             {
                 "text": "사사건건",
-                "value": 18
-            },
-            {
-                "text": "장성",
                 "value": 18
             },
             {
@@ -116,33 +116,92 @@
                 "value": 9
             },
             {
-                "text": "정책위",
+                "text": "일정",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:15.288098",
+        "last_analyzed_at": "2026-01-30T23:35:45.683636",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
+                0,
+                0,
                 1,
                 0,
-                0,
-                0,
-                0
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1e38b0cf4096976aa8",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738930?sid=100",
+            "created_at": "2026-01-30T23:15:58.178000",
+            "description": "11:00 조배숙 의원, [22대 국회 차별금지법 발의 반대 기자회견] 11:40 김성회 의원, [진실화해를위한과거사정리기본법 본회의 통과 환영 성명 발표 기자회견] 13:40 김현 의원, [더불어민주당 국민소통위원회... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495872",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T05:00:00",
+            "related_members": [
+                "X1K3667J",
+                "D9I3309M",
+                "88O1334C",
+                "7YL9580G",
+                "L5P27909",
+                "IWK63872",
+                "57B28032",
+                "XEF29171",
+                "51A45980",
+                "6K79158C"
+            ],
+            "title": "[오늘의 주요일정]국회(1월30일 금요일)"
+        },
+        {
+            "_id": "697cbd1e38b0cf4096976aa9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008743515?sid=100",
+            "created_at": "2026-01-30T23:15:58.178000",
+            "description": "11:00 조배숙 의원, [22대 국회 차별금지법 발의 반대 기자회견] 11:40 김성회 의원, [진실 화해를 위한 과거사 정리기본법 본회의 통과 환영 성명 발표 기자회견] 13:40 김현 의원, [더불어민주당 국민소통위원회... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6056044",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T05:00:00",
+            "related_members": [
+                "X1K3667J",
+                "88O1334C",
+                "7YL9580G",
+                "L5P27909",
+                "IWK63872",
+                "57B28032",
+                "XEF29171",
+                "D9I3309M",
+                "51A45980",
+                "6K79158C"
+            ],
+            "title": "[오늘의 국회일정] (30일, 금)"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976afd",
+            "link": "https://n.news.naver.com/mnews/article/079/0004110081?sid=100",
+            "created_at": "2026-01-30T23:16:04.895000",
+            "description": "저는 유영하 변호사랑 개인적인 감정 없습니다. 국회의원 하든 말든 무슨 상관입니까. 하지만. ◇ 박재홍&gt; 의원. ◆ 장성철&gt; 변호사이기도 하고. ◇ 박재홍&gt; 그래도 현직 의원. ◆ 장성철&gt; 현직 의원. 죄송합니다. 좀 폄하했나?... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463536?utm_source=naver&utm_medium=article&utm_campaign=20260128092933",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-28T21:30:00",
+            "related_members": [
+                "88O1334C",
+                "KFM1081G",
+                "JZV5283U"
+            ],
+            "title": "김종혁 \"한동훈, 사실상 제명 수순…29일 진행할듯\"[한판승부]"
+        },
         {
             "_id": "6972d1f684596000289976d8",
             "link": "https://n.news.naver.com/mnews/article/079/0004107734?sid=100",
@@ -170,7 +229,7 @@
             "_id": "69701234297082fcc2b34c4f",
             "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
             "created_at": "2026-01-21T08:39:30.701000",
-            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 김태년·이인영·홍종학·백혜련·진선미·이수진·박상혁·김원이·허영·남인순 의원 등이 자리했다. 또한... ",
+            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 이소영 의원을 비롯해 문재인 정부 시절 국정 운영에 참여했던 김태년·이인영·홍종학·백혜련·진선미... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-19T09:01:00",
@@ -296,36 +355,6 @@
             "title": "국가건축정책위, 대통령 청와대 복귀 기념 ‘공간민주주의’ 토론회"
         },
         {
-            "_id": "6966ec77887d07f7ba2fb281",
-            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
-            "created_at": "2026-01-14T10:08:08.240000",
-            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6037918",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T05:00:00",
-            "related_members": [
-                "WJL30106",
-                "IUX1829H",
-                "MSY7784L",
-                "9D939735",
-                "88O1334C",
-                "04T3751T",
-                "NPD75153",
-                "P8A4624C",
-                "5N65159P",
-                "D6U6678O",
-                "FU87526G",
-                "HXT76735",
-                "1A82234K",
-                "2KM3589W",
-                "25G2571T",
-                "BRU2690F",
-                "RBM5454A",
-                "WJG74792"
-            ],
-            "title": "[오늘의 국회일정] (14일, 수)"
-        },
-        {
             "_id": "6966ec77887d07f7ba2fb282",
             "link": "https://n.news.naver.com/mnews/article/003/0013708791?sid=100",
             "created_at": "2026-01-14T10:08:08.240000",
@@ -354,6 +383,36 @@
                 "WJG74792"
             ],
             "title": "[오늘의 주요일정]국회(1월14일 수요일)"
+        },
+        {
+            "_id": "6966ec77887d07f7ba2fb281",
+            "link": "https://n.news.naver.com/mnews/article/421/0008712438?sid=100",
+            "created_at": "2026-01-14T10:08:08.240000",
+            "description": "= ◇국회의장 10:00 공군 제8전투비행단 방문(원주 공군 제8전투비행단) ◇의원실 세미나 10:00 조정훈 의원실 등, 멀어진 내 집 마련의 꿈: 청년의 꿈 짓밟는 부동산 정책, 방향을 묻다(의원회관 제9간담회의실) 10:00... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6037918",
+            "press": "뉴스1",
+            "pubDate": "2026-01-14T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "IUX1829H",
+                "MSY7784L",
+                "9D939735",
+                "88O1334C",
+                "04T3751T",
+                "NPD75153",
+                "P8A4624C",
+                "5N65159P",
+                "D6U6678O",
+                "FU87526G",
+                "HXT76735",
+                "1A82234K",
+                "2KM3589W",
+                "25G2571T",
+                "BRU2690F",
+                "RBM5454A",
+                "WJG74792"
+            ],
+            "title": "[오늘의 국회일정] (14일, 수)"
         },
         {
             "_id": "6964b54c631fd174349960de",
@@ -505,14 +564,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7ec631fd1743497d2cf",
-            "url": "https://www.youtube.com/watch?v=CuO9aBmM_lk",
+            "_id": "6960a7ec631fd1743497d2d0",
+            "url": "https://www.youtube.com/watch?v=C228joBLynY",
             "HG_NM": "김성회",
             "MONA_CD": "88O1334C",
-            "collected_at": "2026-01-09T16:01:52.881000",
-            "duration": 1729.0,
-            "source": "MBC뉴스",
-            "title": "[한판승부]김성회 \"尹 유감표명도 없이 다짜고짜 MBC 수사라니\" 김종혁 \"원본영상 유출은 분명한 사고\"",
+            "collected_at": "2026-01-30T23:20:08.415000",
+            "duration": 1013.0,
+            "source": "YTN",
+            "title": "[뉴스라이브] '망언 논란' 김성회 갈릴레이 빙의...\"그래도 지구는 돌고 있다\" / YTN",
             "upload_date": null
         },
         {
@@ -549,14 +608,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7ec631fd1743497d2c3",
-            "url": "https://www.youtube.com/watch?v=oitbzFJm_XM",
+            "_id": "6960a7ec631fd1743497d2c4",
+            "url": "https://www.youtube.com/watch?v=V4BF7zShvbQ",
             "HG_NM": "김성회",
             "MONA_CD": "88O1334C",
-            "collected_at": "2026-01-18T13:10:56.355000",
-            "duration": 2751.0,
+            "collected_at": "2026-01-09T16:01:52.082000",
+            "duration": 2252.0,
             "source": "KBS뉴스",
-            "title": "[풀영상] 뉴스9 : ‘혐오 발언 논란’ 김성회 비서관 자진 사퇴 - 2022년 5월 13일(금) / KBS",
+            "title": "[사사건건] (출연 장성철, 김성회) 탈북 어민 '북송' 다시 논란…반인륜·반인권? / '윤핵관' 균열? 권성동-장제원 갈등설 왜 나오나 - 7월 14일(목) KBS",
             "upload_date": null
         },
         {
@@ -582,14 +641,14 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7ec631fd1743497d2c4",
-            "url": "https://www.youtube.com/watch?v=V4BF7zShvbQ",
+            "_id": "6960a7ec631fd1743497d2c3",
+            "url": "https://www.youtube.com/watch?v=oitbzFJm_XM",
             "HG_NM": "김성회",
             "MONA_CD": "88O1334C",
-            "collected_at": "2026-01-09T16:01:52.082000",
-            "duration": 2252.0,
+            "collected_at": "2026-01-18T13:10:56.355000",
+            "duration": 2751.0,
             "source": "KBS뉴스",
-            "title": "[사사건건] (출연 장성철, 김성회) 탈북 어민 '북송' 다시 논란…반인륜·반인권? / '윤핵관' 균열? 권성동-장제원 갈등설 왜 나오나 - 7월 14일(목) KBS",
+            "title": "[풀영상] 뉴스9 : ‘혐오 발언 논란’ 김성회 비서관 자진 사퇴 - 2022년 5월 13일(금) / KBS",
             "upload_date": null
         },
         {
@@ -604,16 +663,16 @@
             "upload_date": null
         },
         {
-            "_id": "6960a7ec631fd1743497d2d0",
-            "url": "https://www.youtube.com/watch?v=C228joBLynY",
+            "_id": "6960a7ec631fd1743497d2cf",
+            "url": "https://www.youtube.com/watch?v=CuO9aBmM_lk",
             "HG_NM": "김성회",
             "MONA_CD": "88O1334C",
-            "collected_at": "2026-01-23T16:40:58.305000",
-            "duration": 1013.0,
-            "source": "YTN",
-            "title": "[뉴스라이브] '망언 논란' 김성회 갈릴레이 빙의...\"그래도 지구는 돌고 있다\" / YTN",
+            "collected_at": "2026-01-09T16:01:52.881000",
+            "duration": 1729.0,
+            "source": "MBC뉴스",
+            "title": "[한판승부]김성회 \"尹 유감표명도 없이 다짜고짜 MBC 수사라니\" 김종혁 \"원본영상 유출은 분명한 사고\"",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:15.288098"
+    "exported_at": "2026-01-30T23:35:45.683636"
 }

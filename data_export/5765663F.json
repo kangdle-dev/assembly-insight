@@ -54,28 +54,40 @@
         "keywords": [
             "청문회",
             "이혜훈",
-            "파행",
-            "정청래",
-            "자료",
             "민주당",
             "위원장",
-            "인사",
-            "추미애",
-            "개혁",
+            "자료",
+            "파행",
+            "정청래",
             "여당",
-            "대통령",
+            "인사",
             "공방",
             "여야",
-            "개최"
+            "합당",
+            "제안",
+            "청약",
+            "대표"
         ],
         "keyword_frequency": [
             {
                 "text": "청문회",
-                "value": 39
+                "value": 41
             },
             {
                 "text": "이혜훈",
                 "value": 30
+            },
+            {
+                "text": "민주당",
+                "value": 22
+            },
+            {
+                "text": "위원장",
+                "value": 16
+            },
+            {
+                "text": "자료",
+                "value": 16
             },
             {
                 "text": "파행",
@@ -86,35 +98,11 @@
                 "value": 15
             },
             {
-                "text": "자료",
-                "value": 15
-            },
-            {
-                "text": "민주당",
-                "value": 14
-            },
-            {
-                "text": "위원장",
-                "value": 13
+                "text": "여당",
+                "value": 9
             },
             {
                 "text": "인사",
-                "value": 12
-            },
-            {
-                "text": "추미애",
-                "value": 11
-            },
-            {
-                "text": "개혁",
-                "value": 11
-            },
-            {
-                "text": "여당",
-                "value": 10
-            },
-            {
-                "text": "대통령",
                 "value": 9
             },
             {
@@ -126,39 +114,114 @@
                 "value": 9
             },
             {
-                "text": "개최",
-                "value": 9
+                "text": "합당",
+                "value": 8
+            },
+            {
+                "text": "제안",
+                "value": 8
+            },
+            {
+                "text": "청약",
+                "value": 8
+            },
+            {
+                "text": "대표",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:16.036145",
+        "last_analyzed_at": "2026-01-30T23:35:46.477381",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                2,
-                2,
-                7,
-                0,
                 0,
                 1,
-                1
+                2,
+                2,
+                1,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd2638b0cf4096976b0c",
+            "link": "https://n.news.naver.com/mnews/article/003/0013733915?sid=100",
+            "created_at": "2026-01-30T23:16:06.390000",
+            "description": "협의에는 여당에서 국회 재경위 민주당 간사인 정태호 의원과 위원회 소속 김영진 의원 등이, 정부에서 이형일 재정경제부 1차관이 참석했다. 당정 간 협의에서는 갑작스러운 관세 재인상 선언 배경 및 대응책을 두고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003492402",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T05:00:00",
+            "related_members": [
+                "5765663F",
+                "UHB5553T",
+                "6VC83722",
+                "7YL9580G"
+            ],
+            "title": "트럼프 '관세인상 선언'에 與 대응분주…3월 내 관련 법안처리 '속도'"
+        },
+        {
+            "_id": "697cbd2638b0cf4096976b0d",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138672?sid=100",
+            "created_at": "2026-01-30T23:16:06.390000",
+            "description": "김영진 민주당 의원은 “한미 양국이 자국 국내 법률을 통해 준수하고 진행한다고 명확하게 규정하고 있다”며 “양국 국회의 비준 사안이 아니라는 것”이라고 했다. 김현정 원내대변인도 이날 오전 원내대표회의 이후... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/27/5SX45HURE5F6TP3HDLGL5QBNHY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-27T14:09:00",
+            "related_members": [
+                "5765663F",
+                "6VC83722",
+                "7YL9580G"
+            ],
+            "title": "與 “대미투자특별법 2월 국회서 논의…정상적인 절차 밟는 중”"
+        },
+        {
+            "_id": "697cbd2638b0cf4096976b0e",
+            "link": "https://n.news.naver.com/mnews/article/421/0008736800?sid=100",
+            "created_at": "2026-01-30T23:16:06.390000",
+            "description": "김영진 의원도 \"(국회) 비준 사안으로 보지 않는다는 게 양국 간 양해각서 상에 나온 명확한 사안\"이라며 \"재경위에 제출된 특별법과 개별 의원이 발의한 안을 종합 심사해 법률안을 조속히 통과하면 한미 양해각서에... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6052299",
+            "press": "뉴스1",
+            "pubDate": "2026-01-27T12:36:00",
+            "related_members": [
+                "5765663F"
+            ],
+            "title": "당정, 트럼프 '관세 25%'에 \"법안 의도적 지체 없어, 2월 처리\""
+        },
+        {
+            "_id": "697cbd2638b0cf4096976b0f",
+            "link": "https://n.news.naver.com/mnews/article/015/0005242142?sid=100",
+            "created_at": "2026-01-30T23:16:06.390000",
+            "description": "주로 재선 이상 국회의원이 맡아온 당직이다. 박 수석대변인은 전략기획위원장 교체 사유에 대해 \"이해식... 임호선 민주당 수석사무부총장도 사의를 밝힘에 따라 최기상 정책위원회 사회수석부의장이 후임으로 정해졌다.... ",
+            "originallink": "https://www.hankyung.com/article/202601262728i",
+            "press": "한국경제",
+            "pubDate": "2026-01-26T15:11:00",
+            "related_members": [
+                "CCU1009B",
+                "EBH1101V",
+                "5765663F",
+                "ZW43496R",
+                "1WE5693J",
+                "FH777496",
+                "I5I2468R"
+            ],
+            "title": "이해식 민주당 전략기획위원장 사임…후임은 '전략통' 이연희 의원"
+        },
+        {
             "_id": "6976fce68459600028997f07",
             "link": "https://n.news.naver.com/mnews/article/079/0004108923?sid=100",
             "created_at": "2026-01-26T14:34:27.877000",
             "description": "국회의원들을 자기 편으로 만들겠다, 그래서 중앙위원들까지 포섭해서 당 대표 연임하겠다는 그런 계획이 있는 것 같습니다. 그것뿐만 아니라 전 대통령실의 입장도 분명히 합당을 원한다고 생각을 해요. 왜냐하면 천하람... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6461661?utm_source=naver&utm_medium=article&utm_campaign=20260126113658",
+            "originallink": "https://www.nocutnews.co.kr/news/6461661?utm_source=naver&utm_medium=article&utm_campaign=20260129014141",
             "press": "노컷뉴스",
             "pubDate": "2026-01-26T11:37:00",
             "related_members": [
@@ -173,13 +236,13 @@
                 "FYI20317",
                 "YGB8604T"
             ],
-            "title": "[정치맛집]\"조국혁신당에 손 내민 정청래의 진짜 속내는?\""
+            "title": "\"조국혁신당에 손 내민 정청래의 진짜 속내는?\"[정치맛집]"
         },
         {
             "_id": "6976fceb8459600028997f3e",
             "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
             "created_at": "2026-01-26T14:34:32.940000",
-            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
+            "description": "이날 출판기념회에는 김승원(민주당 경기도당위원장), 김영진, 박성준, 전용기, 김기표, 김동아, 염태영, 이건태, 이상식 국회의원, 이재준 수원특례시장, 백군기 전 용인특례시장, 이종걸, 김병욱, 양정숙, 양이원영 전... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
             "press": "뉴스1",
             "pubDate": "2026-01-25T13:11:00",
@@ -204,7 +267,7 @@
             "_id": "6972d1ee845960002899768a",
             "link": "https://n.news.naver.com/mnews/article/032/0003423304?sid=100",
             "created_at": "2026-01-23T10:42:04.433000",
-            "description": "반면 친정청래(친청)계 의원들은 지방선거에 유리해진다며 찬성했다. 이날 국회에서 열린 정책 의원총회는... 박홍근 의원은 페이스북에서 “대통령께서 외교와 경제의 큰 성과를 내면 번번이 당에서 큰 이슈나 풍파가... ",
+            "description": "반면 친정청래(친청)계 의원들은 지방선거에 유리해진다며 찬성했다. 이날 국회에서 열린 정책 의원총회는... 원조 친명계로 꼽히는 김영진 의원은 의총에서 “민주당과 혁신당이 크게 다른 당도 아니고 한 몸이 될 수밖에... ",
             "originallink": "https://www.khan.co.kr/article/202601222036005",
             "press": "경향신문",
             "pubDate": "2026-01-22T20:36:00",
@@ -224,7 +287,7 @@
             "_id": "6972d1ee845960002899768b",
             "link": "https://n.news.naver.com/mnews/article/032/0003423257?sid=100",
             "created_at": "2026-01-23T10:42:04.433000",
-            "description": "반면 친정청래(친청)계 의원들은 지방선거에 유리해진다며 찬성했다. 이날 국회에서 열린 정책 의원총회는... 박홍근 의원은 페이스북에서 “대통령께서 외교와 경제의 큰 성과를 내면 번번이 당에서 큰 이슈나 풍파가... ",
+            "description": "반면 친정청래(친청)계 의원들은 지방선거에 유리해진다며 찬성했다. 이날 국회에서 열린 정책 의원총회는... 원조 친명계로 꼽히는 김영진 의원은 이날 의총에서 “민주당과 혁신당이 크게 다른 당도 아니고 결국 한 몸이... ",
             "originallink": "https://www.khan.co.kr/article/202601221801001",
             "press": "경향신문",
             "pubDate": "2026-01-22T18:01:00",
@@ -267,7 +330,7 @@
             "_id": "6972d1fb84596000289976fd",
             "link": "https://n.news.naver.com/mnews/article/056/0012110416?sid=100",
             "created_at": "2026-01-23T10:42:17.721000",
-            "description": "한정애 정책위의장은 \"합당에 대한 의견을 밝혀달라는 당원들의 요구가 있는 것으로 안다\"며 \"의총 말미에... 전남 중진 박지원 의원은 국회에서 열린 '검찰개혁 토론회'에서 조국혁신당 박은정 의원에게 \"민주당 박은정... ",
+            "description": "전남 중진 박지원 의원은 국회에서 열린 '검찰개혁 토론회'에서 조국혁신당 박은정 의원에게 \"민주당 박은정 의원이 되기를 바란다\"고 말했습니다. 또다른 호남 의원도 KBS에 \"언젠가 합당을 논의할 거라 생각했다\"며... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8466256&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-22T15:40:00",
@@ -311,7 +374,7 @@
             "_id": "6972d1fb84596000289976fe",
             "link": "https://n.news.naver.com/mnews/article/055/0001326507?sid=100",
             "created_at": "2026-01-23T10:42:17.722000",
-            "description": "5 MHz 7:00 ~ 9:00) ■ 일자 : 2026년 1월 21일 (수) ■ 진행 : 김태현 변호사 ■ 출연 : 김재원 국민의힘 전 최고위원... 그러니까 진짜 군사를 동원해서 국회의원들을 끌어내려고 했는지 여부에 대해서 충분히 심리를 했기 때문에요.... ",
+            "description": "그러니까 진짜 군사를 동원해서 국회의원들을 끌어내려고 했는지 여부에 대해서 충분히 심리를 했기... 앞서 김영진 의원 인터뷰 들어보면 장 대표의 단식은 당내 정치용이기 때문에 민주당이나 청와대가 개입할 여지가... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008413681&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-22T09:12:00",
@@ -499,7 +562,7 @@
             "_id": "6970122e297082fcc2b34c21",
             "link": "https://n.news.naver.com/mnews/article/015/0005239020?sid=100",
             "created_at": "2026-01-21T08:39:24.994000",
-            "description": "대해 국회에서 추가 자료를 요구할 수 있을 것\"이라고 말했다. 차규근 조국혁신당 의원은 이 후보자의 태도에 대해 강하게 질타했다. 차 의원은 \"후보자가 청문위원에 대해 고발할 수 있다고 발언한 것은 부적절하다\"며... ",
+            "description": "제기한 국회의원을 고발해야 한다고 해서 청문회를 열 가치가 없다고 생각한다\"며 \"어제 자료를 냈는데 생색내기 자료였다. 증여세는 누가 냈는지 자료를 요구했는데 안 냈다\"고 지적했다. 같은 당 권영세 의원은 \"과거 장관... ",
             "originallink": "https://www.hankyung.com/article/202601198887i",
             "press": "한국경제",
             "pubDate": "2026-01-19T14:09:00",
@@ -518,7 +581,7 @@
             "_id": "69701238297082fcc2b34c65",
             "link": "https://n.news.naver.com/mnews/article/421/0008721569?sid=100",
             "created_at": "2026-01-21T08:39:34.438000",
-            "description": "'제대로 된 청문회를 하자'가 본질\"이라며 \"지금 이런 상태로 청문회를 한다는 것은 국민에게는 모욕이고 국회에는 모독\"이라고 말했다. 범여권인 차규근 조국혁신당 의원 또한 후보자의 자료 제출과 관련해 \"좀 부족한... ",
+            "description": "같은 당 박대출 의원도 \"본질은 '청문회를 하자'가 아니다. '제대로 된 청문회를 하자'가 본질\"이라며 \"지금 이런 상태로 청문회를 한다는 것은 국민에게는 모욕이고 국회에는 모독\"이라고 말했다. 범여권인 차규근... ",
             "originallink": "https://www.news1.kr/politics/assembly/6043407",
             "press": "뉴스1",
             "pubDate": "2026-01-19T12:04:00",
@@ -645,94 +708,6 @@
                 "UHB5553T"
             ],
             "title": "이혜훈 후보자 인사청문회…'반쪽 청문회' 가능성"
-        },
-        {
-            "_id": "69701234297082fcc2b34c4f",
-            "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
-            "created_at": "2026-01-21T08:39:30.701000",
-            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 김태년·이인영·홍종학·백혜련·진선미·이수진·박상혁·김원이·허영·남인순 의원 등이 자리했다. 또한... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-19T09:01:00",
-            "related_members": [
-                "URV1689Q",
-                "3ZR4438W",
-                "ATB59635",
-                "5765663F",
-                "88O1334C",
-                "GF286398",
-                "1WE5693J",
-                "BCQ55105",
-                "WTR5885Y",
-                "4L695580",
-                "FU53642G",
-                "HSS7466Y",
-                "68P7228G",
-                "HXT76735",
-                "04T3751T",
-                "0R68099X",
-                "YN160848",
-                "XBT9550Q",
-                "UQ282145"
-            ],
-            "title": "유은혜 출판기념회 개최…정계·교육계 인사 다수 참석"
-        },
-        {
-            "_id": "696c5bed297082fcc2b19b8e",
-            "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
-            "created_at": "2026-01-18T13:05:01.197000",
-            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-17T22:24:00",
-            "related_members": [
-                "HSS7466Y",
-                "URV1689Q",
-                "88O1334C",
-                "ATB59635",
-                "BCQ55105",
-                "WTR5885Y",
-                "3ZR4438W",
-                "5765663F",
-                "GF286398",
-                "1WE5693J",
-                "UQ282145"
-            ],
-            "title": "\"숨 막힌 학교에 숨을\"…유은혜, '적자생존 교육'에 직격탄"
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d15",
-            "link": "https://n.news.naver.com/mnews/article/421/0008714311?sid=100",
-            "created_at": "2026-01-15T18:04:13.533000",
-            "description": "정성호 법무부 장관은 이날 오전 국회에서 민주당 일부 의원들과 만난 후 기자들에게 \"(검찰개혁 안과 관련) 다양한 의견들이 있는 것은 자연스러운 것이다\"라며 \"대통령께서 숙의하면 좋겠다고 했는데 이제 숙의가 시작된... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6039038",
-            "press": "뉴스1",
-            "pubDate": "2026-01-14T15:39:00",
-            "related_members": [
-                "5765663F",
-                "URV1689Q",
-                "V429892C",
-                "5TQ6306B",
-                "1A82234K",
-                "25G2571T"
-            ],
-            "title": "\"괴물 중수청\" 정부 檢개혁안 후폭풍…\"수사·기소 분리가 대원칙\""
-        },
-        {
-            "_id": "6968ad90297082fcc2b18d16",
-            "link": "https://n.news.naver.com/mnews/article/021/0002763710?sid=100",
-            "created_at": "2026-01-15T18:04:13.533000",
-            "description": "법사위 범여권 강경파의 대화 추미애(오른쪽) 국회 법제사법위원장과 박은정 조국혁신당 의원이 13일 국회도서관에서 더불어민주당 등 범여권 소속 강경파 의원들이 주최한 ‘바람직한 검찰개혁을 위한 긴급토론회’에서... ",
-            "originallink": "https://www.munhwa.com/article/11560870?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-14T11:57:00",
-            "related_members": [
-                "5765663F",
-                "OFE45081",
-                "1A82234K",
-                "URV1689Q"
-            ],
-            "title": "여당 강경파 “검찰개혁 정부안 전체 다 문제”… 이미 수정논의 착수"
         }
     ],
     "recent_videos": [
@@ -761,19 +736,19 @@
             "url": "https://www.youtube.com/watch?v=zX7tnXyQVok",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
+            "collected_at": "2026-01-30T23:20:24.961000",
             "duration": 140.0,
             "title": "'조희대-한덕수 회동설'에 김영진 \"서영교, 부승찬, 추미애가 더 소명해야 한다\"…여당에서 나온 소신 목소리｜지금 이 뉴스",
             "upload_date": null
         },
         {
-            "_id": "6968b024297082fcc2b1903c",
-            "url": "https://www.youtube.com/watch?v=_hoSJLbeejM",
+            "_id": "6968b024297082fcc2b1903e",
+            "url": "https://www.youtube.com/watch?v=4iYmUGPtEF8",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
-            "duration": 103.0,
-            "title": "[국회의원 김영진]행복송",
+            "collected_at": "2026-01-21T08:42:53.788000",
+            "duration": 148.0,
+            "title": "[국회의원 김영진] 수원은 김영진입니다#더불어민주당 #국회의원 #김영진",
             "upload_date": null
         },
         {
@@ -781,19 +756,19 @@
             "url": "https://www.youtube.com/watch?v=L2Btpn2D8Bo",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
+            "collected_at": "2026-01-30T23:20:24.961000",
             "duration": 1190.0,
             "title": "[더 인터뷰] 李-與 지지율 동반 하락, 친명 핵심 김영진 \"대한민국 법사위 재구조화 해야\"..법사위 저격? #김영진_251002",
             "upload_date": null
         },
         {
-            "_id": "6960ac0c631fd1743497d4da",
-            "url": "https://www.youtube.com/watch?v=aKbH3bp3Rbk",
+            "_id": "6960ac0c631fd1743497d4db",
+            "url": "https://www.youtube.com/watch?v=Pc6kOyAA5Vo",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-14T10:16:03.015000",
-            "duration": 117.0,
-            "title": "[1분집중] 김영진 \"추미애, 나경원과 3번째 대전..결과 좋았던 기억 없어\"",
+            "collected_at": "2026-01-30T23:20:26.453000",
+            "duration": 110.0,
+            "title": "\"청문회 좀 급발진하지 않았나\" 친명 김영진 직격…\"추미애 전쟁에서 결과 좋았던 적 있었나\" (자막뉴스) / SBS",
             "upload_date": null
         },
         {
@@ -807,13 +782,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac0c631fd1743497d4d3",
-            "url": "https://www.youtube.com/watch?v=UCBn__nf1munlLyHgafkV3Jw",
+            "_id": "6960ac0c631fd1743497d4d4",
+            "url": "https://www.youtube.com/watch?v=xRTIvh9I3is",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
-            "duration": null,
-            "title": "김영진TV",
+            "collected_at": "2026-01-30T23:20:24.961000",
+            "duration": 207.0,
+            "title": "[국회의원 김영진]안타쏭!",
             "upload_date": null
         },
         {
@@ -837,13 +812,13 @@
             "upload_date": null
         },
         {
-            "_id": "6968b024297082fcc2b1903e",
-            "url": "https://www.youtube.com/watch?v=4iYmUGPtEF8",
+            "_id": "6968b024297082fcc2b1903d",
+            "url": "https://www.youtube.com/watch?v=tOebQG8GByc",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-21T08:42:53.788000",
-            "duration": 148.0,
-            "title": "[국회의원 김영진] 수원은 김영진입니다#더불어민주당 #국회의원 #김영진",
+            "collected_at": "2026-01-30T23:20:24.961000",
+            "duration": 92.0,
+            "title": "[국회의원 김영진] 수원 원팀 출정식",
             "upload_date": null
         },
         {
@@ -857,13 +832,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac0c631fd1743497d4db",
-            "url": "https://www.youtube.com/watch?v=Pc6kOyAA5Vo",
+            "_id": "6960ac0c631fd1743497d4da",
+            "url": "https://www.youtube.com/watch?v=aKbH3bp3Rbk",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:10.088000",
-            "duration": 110.0,
-            "title": "\"청문회 좀 급발진하지 않았나\" 친명 김영진 직격…\"추미애 전쟁에서 결과 좋았던 적 있었나\" (자막뉴스) / SBS",
+            "collected_at": "2026-01-14T10:16:03.015000",
+            "duration": 117.0,
+            "title": "[1분집중] 김영진 \"추미애, 나경원과 3번째 대전..결과 좋았던 기억 없어\"",
             "upload_date": null
         },
         {
@@ -871,7 +846,7 @@
             "url": "https://www.youtube.com/watch?v=02DpDssYtb8",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
+            "collected_at": "2026-01-30T23:20:24.961000",
             "duration": 335.0,
             "title": "나는 예비후보다 김영진 확장판",
             "upload_date": null
@@ -881,7 +856,7 @@
             "url": "https://www.youtube.com/watch?v=SesEkfIY0j8",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
+            "collected_at": "2026-01-30T23:20:24.961000",
             "duration": 642.0,
             "title": "'국회의원은 국회로 들어간다' 막는 경찰 뿌리치고 국회 들어간 김영진 의원  | 그날그곳",
             "upload_date": null
@@ -897,23 +872,23 @@
             "upload_date": null
         },
         {
+            "_id": "6960ac0c631fd1743497d4d3",
+            "url": "https://www.youtube.com/watch?v=UCBn__nf1munlLyHgafkV3Jw",
+            "HG_NM": "김영진",
+            "MONA_CD": "5765663F",
+            "collected_at": "2026-01-30T23:20:24.961000",
+            "duration": null,
+            "title": "김영진TV",
+            "upload_date": null
+        },
+        {
             "_id": "6960ac0c631fd1743497d4d5",
             "url": "https://www.youtube.com/watch?v=bn1BRTT816Q",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
+            "collected_at": "2026-01-30T23:20:24.961000",
             "duration": 74.0,
             "title": "팔달구 김영진 국회의원 선거 예비후보등록",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac0c631fd1743497d4d4",
-            "url": "https://www.youtube.com/watch?v=xRTIvh9I3is",
-            "HG_NM": "김영진",
-            "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
-            "duration": 207.0,
-            "title": "[국회의원 김영진]안타쏭!",
             "upload_date": null
         },
         {
@@ -927,15 +902,15 @@
             "upload_date": null
         },
         {
-            "_id": "6968b024297082fcc2b1903d",
-            "url": "https://www.youtube.com/watch?v=tOebQG8GByc",
+            "_id": "6968b024297082fcc2b1903c",
+            "url": "https://www.youtube.com/watch?v=_hoSJLbeejM",
             "HG_NM": "김영진",
             "MONA_CD": "5765663F",
-            "collected_at": "2026-01-23T16:41:09.305000",
-            "duration": 92.0,
-            "title": "[국회의원 김영진] 수원 원팀 출정식",
+            "collected_at": "2026-01-30T23:20:24.961000",
+            "duration": 103.0,
+            "title": "[국회의원 김영진]행복송",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:16.036649"
+    "exported_at": "2026-01-30T23:35:46.477381"
 }

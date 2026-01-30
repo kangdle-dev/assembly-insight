@@ -47,26 +47,42 @@
     },
     "analysis": {
         "keywords": [
+            "전북",
             "지역",
+            "위원장",
+            "민주당",
+            "전북도",
             "공공",
             "대표",
-            "민주당",
             "발의",
-            "전북",
+            "호남",
             "위원회",
-            "선거",
-            "위원장",
             "기관",
+            "통합",
             "질의",
             "지방",
-            "상생",
-            "업무",
-            "질문"
+            "더불어민주당"
         ],
         "keyword_frequency": [
             {
+                "text": "전북",
+                "value": 34
+            },
+            {
                 "text": "지역",
-                "value": 22
+                "value": 27
+            },
+            {
+                "text": "위원장",
+                "value": 26
+            },
+            {
+                "text": "민주당",
+                "value": 21
+            },
+            {
+                "text": "전북도",
+                "value": 19
             },
             {
                 "text": "공공",
@@ -74,35 +90,27 @@
             },
             {
                 "text": "대표",
-                "value": 15
-            },
-            {
-                "text": "민주당",
-                "value": 15
+                "value": 16
             },
             {
                 "text": "발의",
                 "value": 14
             },
             {
-                "text": "전북",
-                "value": 14
+                "text": "호남",
+                "value": 13
             },
             {
                 "text": "위원회",
-                "value": 14
-            },
-            {
-                "text": "선거",
-                "value": 14
-            },
-            {
-                "text": "위원장",
                 "value": 13
             },
             {
                 "text": "기관",
                 "value": 13
+            },
+            {
+                "text": "통합",
+                "value": 12
             },
             {
                 "text": "질의",
@@ -113,41 +121,168 @@
                 "value": 11
             },
             {
-                "text": "상생",
-                "value": 10
-            },
-            {
-                "text": "업무",
-                "value": 10
-            },
-            {
-                "text": "질문",
+                "text": "더불어민주당",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:35.857052",
+        "last_analyzed_at": "2026-01-30T23:36:06.564299",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                1,
-                1,
-                0,
-                0,
                 0,
                 1,
-                0
+                0,
+                2,
+                3,
+                2,
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd4f38b0cf4096976c74",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116086?sid=100",
+            "created_at": "2026-01-30T23:16:47.452000",
+            "description": "이수진 기자입니다. [리포트] 신영대 전 의원은 사무장의 공직선거법 위반 혐의가 유죄로 확정되면서 국회의원직을 내려놔야 했습니다. 이에 따라 오는 6월, 지방선거와 함께 신 의원의 지역구인 군산·김제·부안 갑에서... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473763&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-30T21:42:00",
+            "related_members": [
+                "JC14718Q",
+                "0R68099X"
+            ],
+            "title": "신영대 전 의원, 지역위원장 유지에 거취 ‘논란’"
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c75",
+            "link": "https://n.news.naver.com/mnews/article/016/0002593737?sid=100",
+            "created_at": "2026-01-30T23:16:47.452000",
+            "description": "윤준병 의원실 제공 윤준병 더불어민주당 전북특별자치도당 위원장(전북 정읍시·고창군 국회의원, 국회 농해수위 간사)이 30일 전북특별자치도가 5극·3특의 한 축으로서 실질적인 지방분권을 실현하고 구체적인 권한... ",
+            "originallink": "https://biz.heraldcorp.com/article/10666587?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-30T15:35:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "윤준병 의원 “전북특별자치도, 5극보다 유리한 3특의 지위와 특례 보장..."
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c76",
+            "link": "https://n.news.naver.com/mnews/article/056/0012115774?sid=100",
+            "created_at": "2026-01-30T23:16:47.452000",
+            "description": "[강성희/전 국회의원/어제 : \"호남 대통합은 전북을 지우는 것이 아니라 확장하는 일입니다. 전북과 광주... [윤준병/민주당 전북도당위원장 : \"호남 대통합이라는 미명 하에 그동안 여러 가지 노력을 하고 같은 목소리도... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473327&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-30T11:11:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "진보당, 또 호남 대통합 촉구…“전북 종속될 것” 우려"
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c77",
+            "link": "https://n.news.naver.com/mnews/article/056/0012115324?sid=100",
+            "created_at": "2026-01-30T23:16:47.452000",
+            "description": "[강성희/전 국회의원/어제 : \"호남 대통합은 전북을 지우는 것이 아니라 확장하는 일입니다. 전북과 광주... [윤준병/민주당 전북도당위원장 : \"호남 대통합이라는 미명 하에 그동안 여러 가지 노력을 하고 같은 목소리도... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8472783&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-29T21:41:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "진보당, 또 호남 대통합 촉구…“전북 종속될 것” 우려"
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c78",
+            "link": "https://n.news.naver.com/mnews/article/056/0012115164?sid=100",
+            "created_at": "2026-01-30T23:16:47.452000",
+            "description": "[강성희/전 국회의원/어제 : \"호남 대통합은 전북을 지우는 것이 아니라 확장하는 일입니다. 전북과 광주... [윤준병/민주당 전북도당위원장 : \"호남 대통합이라는 미명 하에 그동안 여러 가지 노력을 하고 같은 목소리도... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8472569&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-29T19:12:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "진보당, 또 호남 대통합 촉구…“전북 종속될 것” 우려"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013734991?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "이날 추모식에는 윤준병 도당위원장을 비롯해 안호영·이원택 국회의원, 송태규 익산시 갑 지역위원장 등이 참석했다. 또 정읍·김제·완주·무주·장수·순창·고창 등 도내 시·군 단체장을 비롯한 당 주요 인사들이... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493211",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T13:05:00",
+            "related_members": [
+                "DAV7257X",
+                "XEF29171",
+                "JC14718Q"
+            ],
+            "title": "전북서 '이해찬 상임고문' 합동 추모…국회의원·시군 단체장 참석"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004109802?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "이날 추모식에는 윤준병 도당위원장을 비롯해 안호영 국회의원, 이원택 국회의원, 송태규 익산시 갑 지역위원장 등이 참석했다. 도내 시·군 단체장을 비롯한 당 주요 인사들이 함께하며 고인을 기렸다. 참석자들은... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463106?utm_source=naver&utm_medium=article&utm_campaign=20260128113227",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-28T11:33:00",
+            "related_members": [
+                "DAV7257X",
+                "XEF29171",
+                "JC14718Q"
+            ],
+            "title": "민주당 전북도당, 고 이해찬 전 총리 합동 추모식"
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c79",
+            "link": "https://n.news.naver.com/mnews/article/421/0008738755?sid=102",
+            "created_at": "2026-01-30T23:16:47.453000",
+            "description": "윤준병 더불어민주당 국회의원(전북 정읍·고창)은 28일 국악의 역사적 전통성과 상징성을 보다 충실히 반영하고, 법정기념일 중복 문제를 해소하기 위해 '국악의 날'을 매년 9월 29일로 변경하는 '국악의 날 개선법안'을... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6053478",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T10:10:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "윤준병 의원 \"6월5일 지정된 '국악의 날' 9월29일로 변경해야\""
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c7a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008736982?sid=102",
+            "created_at": "2026-01-30T23:16:47.453000",
+            "description": "윤준병 전북도당위원장은 \"고인의 명복을 빌며, 유가족께 깊은 위로의 말씀을 전한다\"며 \"전북도당은 평생을... 전북도당은 28일 오전 10시 당 소속 국회의원, 지역위원장, 광역·기초단체장, 의회 의장 및 원내대표가... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6052388",
+            "press": "뉴스1",
+            "pubDate": "2026-01-27T14:00:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "민주당 전북도당, 이해찬 상임고문 추모 공간 마련"
+        },
+        {
+            "_id": "697cbd4f38b0cf4096976c7b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013732759?sid=102",
+            "created_at": "2026-01-30T23:16:47.453000",
+            "description": "더불어민주당 전북특별자치도당(위원장 윤준병)은 대한민국 민주주의 발전에 큰 기여를 한 이해찬... 한편 민주당 전북도당은 오는 28일 오전 10시 당 소속 국회의원, 지역위원장, 광역·기초단체장, 의회 의장 및... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003491750",
+            "press": "뉴시스",
+            "pubDate": "2026-01-27T13:42:00",
+            "related_members": [
+                "JC14718Q"
+            ],
+            "title": "민주당 전북도당, 고 이해찬 상임고문 추모공간 마련"
+        },
         {
             "_id": "6976fd1a845960002899805c",
             "link": "https://n.news.naver.com/mnews/article/052/0002305546?sid=100",
@@ -426,178 +561,6 @@
                 "V2R7430Z"
             ],
             "title": "윤준병 민주당 전북도당위원장 \"신영대 의원 당선무효 아쉬워\""
-        },
-        {
-            "_id": "6964b574631fd17434996374",
-            "link": "https://n.news.naver.com/mnews/article/079/0004103096?sid=102",
-            "created_at": "2026-01-12T17:48:49.358000",
-            "description": "선거사무장의 선거 범죄로 징역형이 확정되면 해당 국회의원의 당선을 무효로 한다는 공직선거법에 따라 신 의원은 의원직을 잃게 됐다. 이에 윤준병(정읍·고창) 민주당 전북도당위원장은 \"지역의 목소리를 내려면... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453382?utm_source=naver&utm_medium=article&utm_campaign=20260108014112",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-08T13:42:00",
-            "related_members": [
-                "JC14718Q"
-            ],
-            "title": "민주당 신영대, 의원직 상실…6월 지방선거 때 재선거"
-        },
-        {
-            "_id": "6964b542631fd17434996011",
-            "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
-            "originallink": "https://www.hankyung.com/article/2026010644427",
-            "press": "한국경제",
-            "pubDate": "2026-01-06T14:33:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "5N65159P",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "VRY5522V",
-                "BT62420K",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "OIA3741M",
-                "BRU2690F",
-                "GP07421U",
-                "JC14718Q",
-                "MQK9493H",
-                "7YC6702R",
-                "W3U3344O",
-                "95J3282H",
-                "0R68099X",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "CCU1009B",
-                "FH777496",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "3C23171A",
-                "8TU8443O",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "與 의원 68명 \"미국의 베네수엘라 군사작전, 국제평화 위협\" [전문]"
-        },
-        {
-            "_id": "6964b542631fd17434996012",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-06T11:58:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "BT62420K",
-                "VRY5522V",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "OIA3741M",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "BRU2690F",
-                "MQK9493H",
-                "GP07421U",
-                "7YC6702R",
-                "JC14718Q",
-                "95J3282H",
-                "0R68099X",
-                "W3U3344O",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "CCU1009B",
-                "FH777496",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "8TU8443O",
-                "3C23171A",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
         }
     ],
     "recent_videos": [
@@ -616,7 +579,7 @@
             "url": "https://www.youtube.com/watch?v=FdCQ_7GbxS8",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:23.472000",
+            "collected_at": "2026-01-30T23:28:17.134000",
             "duration": 128.0,
             "title": "\"월세 나쁘지 않다\" 윤준병 논란…여당 내부서도 쓴소리 / JTBC 뉴스룸",
             "upload_date": null
@@ -636,7 +599,7 @@
             "url": "https://www.youtube.com/watch?v=lZXxSamfWIU",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:23.472000",
+            "collected_at": "2026-01-30T23:28:17.134000",
             "duration": 285.0,
             "title": "[국회는지금] 윤준병 \"도당위원장 중책…지방선거 필승\"ㅣ#헬로tv뉴스",
             "upload_date": null
@@ -646,7 +609,7 @@
             "url": "https://www.youtube.com/watch?v=vRUnkR67I0o",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
+            "collected_at": "2026-01-30T23:28:15.597000",
             "duration": 153.0,
             "title": "최인규 의장 '지방의원 길들이기' VS 윤준병 의원 '구태 정치 청산'",
             "upload_date": null
@@ -656,7 +619,7 @@
             "url": "https://www.youtube.com/watch?v=Yh9tfQqe89c",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
+            "collected_at": "2026-01-30T23:28:15.597000",
             "duration": 115.0,
             "title": "윤준병 의원, ‘선거법 위반 혐의’…벌금 90만 원",
             "upload_date": null
@@ -666,7 +629,7 @@
             "url": "https://www.youtube.com/watch?v=nuYvcnoD3hE",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:23.472000",
+            "collected_at": "2026-01-30T23:28:17.134000",
             "duration": 269.0,
             "title": "[헬로 전북-LG비전뉴스] “윤준병 의원, 21대 총선 약속, 얼마나 지켰나”(2023.01.19.)",
             "upload_date": null
@@ -696,7 +659,7 @@
             "url": "https://www.youtube.com/watch?v=UCsSKyhkxLxd2H7lVy0PR35A",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
+            "collected_at": "2026-01-30T23:28:15.597000",
             "duration": null,
             "title": "해결사 윤준병",
             "upload_date": null
@@ -712,6 +675,16 @@
             "upload_date": null
         },
         {
+            "_id": "6960ad46631fd1743497d9bd",
+            "url": "https://www.youtube.com/watch?v=U4lhQbzre_0",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-30T23:28:15.597000",
+            "duration": 356.0,
+            "title": "[7/29] 국회의원 윤준병의 고용노동부 업무 관련 질문 영상(2차 질의)",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad46631fd1743497d9bc",
             "url": "https://www.youtube.com/watch?v=gVnbrpZIiSc",
             "HG_NM": "윤준병",
@@ -722,23 +695,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad46631fd1743497d9bd",
-            "url": "https://www.youtube.com/watch?v=U4lhQbzre_0",
-            "HG_NM": "윤준병",
-            "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
-            "duration": 356.0,
-            "title": "[7/29] 국회의원 윤준병의 고용노동부 업무 관련 질문 영상(2차 질의)",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad46631fd1743497d9bb",
             "url": "https://www.youtube.com/watch?v=at6X1cy29lQ",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:23.472000",
+            "collected_at": "2026-01-30T23:28:17.134000",
             "duration": 131.0,
             "title": "[뉴스데스크]'선거법 위반' 윤준병 의원 1심 \"당선무효형 피해\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad46631fd1743497d9ba",
+            "url": "https://www.youtube.com/watch?v=p9bGwg_z5KU",
+            "HG_NM": "윤준병",
+            "MONA_CD": "JC14718Q",
+            "collected_at": "2026-01-30T23:28:15.597000",
+            "duration": 233.0,
+            "title": "[9/16] 국회의원 윤준병의 농어업인 공익수당지원법안 농림축산식품해양수산위원회 제안설명 영상",
             "upload_date": null
         },
         {
@@ -746,7 +719,7 @@
             "url": "https://www.youtube.com/watch?v=VmM2dmeqrjY",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
+            "collected_at": "2026-01-30T23:28:15.597000",
             "duration": 1800.0,
             "title": "[국회방송 국회의원 25시] \"주민들의 어려움을 해결하고 더 나은 내일을 만드는 것이 윤준병이 생각하는 정치입니다!\" (24.09.10.)",
             "upload_date": null
@@ -756,21 +729,11 @@
             "url": "https://www.youtube.com/watch?v=L4_NwMbskcA",
             "HG_NM": "윤준병",
             "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
+            "collected_at": "2026-01-30T23:28:15.597000",
             "duration": 649.0,
             "title": "[7/31] 국회의원 윤준병의 환경부 업무 관련 질문 영상(2차 질의)",
             "upload_date": null
-        },
-        {
-            "_id": "6960ad46631fd1743497d9ba",
-            "url": "https://www.youtube.com/watch?v=p9bGwg_z5KU",
-            "HG_NM": "윤준병",
-            "MONA_CD": "JC14718Q",
-            "collected_at": "2026-01-23T16:46:22.633000",
-            "duration": 233.0,
-            "title": "[9/16] 국회의원 윤준병의 농어업인 공익수당지원법안 농림축산식품해양수산위원회 제안설명 영상",
-            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:35.857052"
+    "exported_at": "2026-01-30T23:36:06.564299"
 }

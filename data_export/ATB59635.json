@@ -47,46 +47,50 @@
     },
     "analysis": {
         "keywords": [
-            "검찰",
-            "추미애",
             "의장",
+            "검찰",
             "출판",
-            "대통령",
+            "추미애",
             "기념회",
+            "시장",
+            "대통령",
             "한준호",
             "수사",
             "경기",
-            "시장",
             "민주당",
+            "경기도",
             "조작",
             "기소",
-            "경기도",
             "지역"
         ],
         "keyword_frequency": [
+            {
+                "text": "의장",
+                "value": 18
+            },
             {
                 "text": "검찰",
                 "value": 17
             },
             {
-                "text": "추미애",
-                "value": 15
-            },
-            {
-                "text": "의장",
+                "text": "출판",
                 "value": 14
             },
             {
-                "text": "출판",
+                "text": "추미애",
+                "value": 14
+            },
+            {
+                "text": "기념회",
+                "value": 13
+            },
+            {
+                "text": "시장",
                 "value": 13
             },
             {
                 "text": "대통령",
                 "value": 13
-            },
-            {
-                "text": "기념회",
-                "value": 12
             },
             {
                 "text": "한준호",
@@ -101,11 +105,11 @@
                 "value": 12
             },
             {
-                "text": "시장",
+                "text": "민주당",
                 "value": 11
             },
             {
-                "text": "민주당",
+                "text": "경기도",
                 "value": 11
             },
             {
@@ -117,42 +121,96 @@
                 "value": 11
             },
             {
-                "text": "경기도",
-                "value": 10
-            },
-            {
                 "text": "지역",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:15.589049",
+        "last_analyzed_at": "2026-01-30T23:35:46.141170",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
-                1,
                 3,
                 0,
                 0,
-                3,
+                2,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd2538b0cf4096976b09",
+            "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
+            "created_at": "2026-01-30T23:16:05.804000",
+            "description": "= ◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6053047",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T05:00:00",
+            "related_members": [
+                "ATB59635",
+                "KBK8836C",
+                "04T3751T",
+                "D9I3309M",
+                "O6D8329R",
+                "ZW43496R",
+                "51A45980",
+                "XR24352K",
+                "NPD75153",
+                "BRU2690F",
+                "RQQ3807K",
+                "O7R5461J",
+                "3TP65086",
+                "X639721U",
+                "A0P4646G",
+                "P8A4624C",
+                "IWK63872"
+            ],
+            "title": "[오늘의 국회일정] (28일, 수)"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b08",
+            "link": "https://n.news.naver.com/mnews/article/003/0013733906?sid=100",
+            "created_at": "2026-01-30T23:16:05.804000",
+            "description": "◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의(본관... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "originallink": "https://www.newsis.com/view/NISX20260127_0003492453",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T05:00:00",
+            "related_members": [
+                "ATB59635",
+                "KBK8836C",
+                "04T3751T",
+                "D9I3309M",
+                "O6D8329R",
+                "ZW43496R",
+                "51A45980",
+                "XR24352K",
+                "NPD75153",
+                "BRU2690F",
+                "RQQ3807K",
+                "O7R5461J",
+                "3TP65086",
+                "X639721U",
+                "A0P4646G",
+                "P8A4624C",
+                "IWK63872"
+            ],
+            "title": "[오늘의 주요일정]국회(1월28일 수요일)"
+        },
+        {
             "_id": "6976fceb8459600028997f3e",
             "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
             "created_at": "2026-01-26T14:34:32.940000",
-            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
+            "description": "이날 출판기념회에는 김승원(민주당 경기도당위원장), 김영진, 박성준, 전용기, 김기표, 김동아, 염태영, 이건태, 이상식 국회의원, 이재준 수원특례시장, 백군기 전 용인특례시장, 이종걸, 김병욱, 양정숙, 양이원영 전... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
             "press": "뉴스1",
             "pubDate": "2026-01-25T13:11:00",
@@ -357,7 +415,7 @@
             "_id": "69701234297082fcc2b34c4f",
             "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
             "created_at": "2026-01-21T08:39:30.701000",
-            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 김태년·이인영·홍종학·백혜련·진선미·이수진·박상혁·김원이·허영·남인순 의원 등이 자리했다. 또한... ",
+            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 이소영 의원을 비롯해 문재인 정부 시절 국정 운영에 참여했던 김태년·이인영·홍종학·백혜련·진선미... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-19T09:01:00",
@@ -588,7 +646,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -668,7 +726,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -799,13 +857,33 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac08631fd1743497d4c0",
-            "url": "https://www.youtube.com/watch?v=J4PPYtg2waY",
+            "_id": "6960ac08631fd1743497d4c3",
+            "url": "https://www.youtube.com/watch?v=3DKiaMMAQd8",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-09T16:19:32.480000",
-            "duration": 93.0,
-            "title": "2024.02.05 국회의원 김승원 재취업 면접 썰 푼다.",
+            "collected_at": "2026-01-30T23:20:19.113000",
+            "duration": 742.0,
+            "title": "연합뉴스 뉴스1번지 김승원 인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbe2338b0cf4096976d91",
+            "url": "https://www.youtube.com/watch?v=0s31AKq3j4s",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-30T23:20:19.113000",
+            "duration": 630.0,
+            "title": "김어준의 뉴스공장 김승원의원 출연 '미디어바우처 제도 새로운 언론생태계의 시작'",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbe2338b0cf4096976d90",
+            "url": "https://www.youtube.com/watch?v=dX5DgqfYRmM",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-30T23:20:17.641000",
+            "duration": 323.0,
+            "title": "홈플러스 공동 대표 부채 2조 자산 4조? 김승원 의원 \"왜 회생을 신청했어요?\"",
             "upload_date": null
         },
         {
@@ -853,7 +931,7 @@
             "url": "https://www.youtube.com/watch?v=satZIA6J1-A",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-01-30T23:20:17.641000",
             "duration": 2875.0,
             "title": "김승원 의원의 “다양한 가족의 공존을 위해” | 우리들의 법 | 국회방송",
             "upload_date": null
@@ -873,19 +951,9 @@
             "url": "https://www.youtube.com/watch?v=594cOuJvyoA",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.877000",
+            "collected_at": "2026-01-30T23:20:19.113000",
             "duration": 205.0,
             "title": "[백브리핑] 김승원, 'GSGG' 논란 일자…박병석 의장 찾아가 사과 / JTBC 뉴스룸",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac08631fd1743497d4c3",
-            "url": "https://www.youtube.com/watch?v=3DKiaMMAQd8",
-            "HG_NM": "김승원",
-            "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.877000",
-            "duration": 742.0,
-            "title": "연합뉴스 뉴스1번지 김승원 인터뷰",
             "upload_date": null
         },
         {
@@ -893,7 +961,7 @@
             "url": "https://www.youtube.com/watch?v=UCGb1fUECvsMIEPjI5QqASog",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-01-30T23:20:17.641000",
             "duration": null,
             "title": "김승원TV",
             "upload_date": null
@@ -903,7 +971,7 @@
             "url": "https://www.youtube.com/watch?v=fsiKXE_9L2k",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.877000",
+            "collected_at": "2026-01-30T23:20:19.113000",
             "duration": 528.0,
             "title": "[모닝콜] 김승원 \"지귀연, 판사도 아냐‥교체 요구해야\" (2025.11.18/뉴스투데이/MBC)",
             "upload_date": null
@@ -913,19 +981,19 @@
             "url": "https://www.youtube.com/watch?v=Kc5t7hIR678",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-01-30T23:20:17.641000",
             "duration": 115.0,
             "title": "이송원TV가 인정한 김승원 의원, \"김승원 의원, 이 분 굉장히 개혁적인 분이에요\"",
             "upload_date": null
         },
         {
-            "_id": "6960ac08631fd1743497d4bd",
-            "url": "https://www.youtube.com/watch?v=uO0eP8jJqDQ",
+            "_id": "6960ac08631fd1743497d4c0",
+            "url": "https://www.youtube.com/watch?v=J4PPYtg2waY",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
-            "duration": 1386.0,
-            "title": "[대담한만남] 김승원 국회의원편",
+            "collected_at": "2026-01-09T16:19:32.480000",
+            "duration": 93.0,
+            "title": "2024.02.05 국회의원 김승원 재취업 면접 썰 푼다.",
             "upload_date": null
         },
         {
@@ -943,9 +1011,19 @@
             "url": "https://www.youtube.com/watch?v=gSnHrCTgfNk",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-01-30T23:20:17.641000",
             "duration": 323.0,
             "title": "홈플러스 공동 대표 부채 2조 자산 4조? 김승원 의원 \"왜 회생을 신청했어요?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac08631fd1743497d4bd",
+            "url": "https://www.youtube.com/watch?v=uO0eP8jJqDQ",
+            "HG_NM": "김승원",
+            "MONA_CD": "ATB59635",
+            "collected_at": "2026-01-30T23:20:17.641000",
+            "duration": 1386.0,
+            "title": "[대담한만남] 김승원 국회의원편",
             "upload_date": null
         },
         {
@@ -953,7 +1031,7 @@
             "url": "https://www.youtube.com/watch?v=MAW4zhoQJxA",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-01-30T23:20:17.641000",
             "duration": 693.0,
             "title": "\"수사 개판 만들어 놓고\"...분노 폭발...검찰 박살내는 김승원",
             "upload_date": null
@@ -963,11 +1041,11 @@
             "url": "https://www.youtube.com/watch?v=yXJk2zQpNjc",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-01-30T23:20:17.641000",
             "duration": 1401.0,
             "title": "국회의원25시_377회 김승원 의원 편[2021.1.19]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:15.589049"
+    "exported_at": "2026-01-30T23:35:46.141170"
 }

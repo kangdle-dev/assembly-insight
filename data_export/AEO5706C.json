@@ -42,112 +42,306 @@
     },
     "analysis": {
         "keywords": [
-            "이강",
-            "개정",
-            "공시",
-            "민주당",
-            "상법",
-            "기업",
-            "주주",
-            "더불어민주당",
-            "청주",
-            "홈플러스",
-            "보훈",
-            "제도",
-            "오기형",
             "자산",
-            "코스피"
+            "디지털",
+            "이강",
+            "민주당",
+            "코인",
+            "스테이",
+            "주주",
+            "기본법",
+            "회관",
+            "더불어민주당",
+            "회의",
+            "보훈",
+            "위원장",
+            "발의",
+            "이날"
         ],
         "keyword_frequency": [
             {
+                "text": "자산",
+                "value": 43
+            },
+            {
+                "text": "디지털",
+                "value": 40
+            },
+            {
                 "text": "이강",
-                "value": 46
-            },
-            {
-                "text": "개정",
-                "value": 25
-            },
-            {
-                "text": "공시",
-                "value": 24
+                "value": 33
             },
             {
                 "text": "민주당",
-                "value": 22
+                "value": 27
             },
             {
-                "text": "상법",
-                "value": 21
+                "text": "코인",
+                "value": 25
             },
             {
-                "text": "기업",
-                "value": 19
+                "text": "스테이",
+                "value": 23
             },
             {
                 "text": "주주",
+                "value": 20
+            },
+            {
+                "text": "기본법",
                 "value": 19
             },
             {
+                "text": "회관",
+                "value": 18
+            },
+            {
                 "text": "더불어민주당",
-                "value": 17
+                "value": 16
             },
             {
-                "text": "청주",
-                "value": 17
-            },
-            {
-                "text": "홈플러스",
+                "text": "회의",
                 "value": 15
             },
             {
                 "text": "보훈",
+                "value": 15
+            },
+            {
+                "text": "위원장",
                 "value": 14
             },
             {
-                "text": "제도",
-                "value": 14
+                "text": "발의",
+                "value": 12
             },
             {
-                "text": "오기형",
-                "value": 13
-            },
-            {
-                "text": "자산",
-                "value": 13
-            },
-            {
-                "text": "코스피",
+                "text": "이날",
                 "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:36.393643",
+        "last_analyzed_at": "2026-01-30T23:36:07.152454",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                3,
-                3,
-                3,
                 0,
                 0,
                 0,
+                0,
+                11,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd4738b0cf4096976c2d",
+            "link": "https://n.news.naver.com/mnews/article/009/0005629157?sid=101",
+            "created_at": "2026-01-30T23:16:39.408000",
+            "description": "민주당 디지털자산TF 소속 안도걸 의원은 29일 국회 의원회관에서 한정애 정책위의장에게 ‘디지털자산기본법’ 제정 방향을 보고한 뒤 기자들과 만나 “2월 초 당론을 확정해 법안을 발의할 예정”이라고 밝혔다. 이날 안... ",
+            "originallink": "https://www.mk.co.kr/article/11946874",
+            "press": "매일경제",
+            "pubDate": "2026-01-29T11:31:00",
+            "related_members": [
+                "EB16073M",
+                "XPP2564T",
+                "AEO5706C"
+            ],
+            "title": "민주당 “스테이블코인법 2월 당론 발의”…디지털자산기본법 ‘先안정..."
+        },
+        {
+            "_id": "697cbd4738b0cf4096976c2e",
+            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155791",
+            "created_at": "2026-01-30T23:16:39.408000",
+            "description": "전날 더불어민주당 디지털자산 태스크포스(TF)는 서울 여의도 국회의원회관에서 비공개회의를 열고... TF 위원장인 이정문 의원은 \"대주주 지분 제한에 관해 공감대는 다들 가지고 있지만, 이번에 넣는 게 맞느냐는... ",
+            "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092155791",
+            "press": "조선일보",
+            "pubDate": "2026-01-29T06:00:00",
+            "related_members": [
+                "EB16073M",
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "스테이블코인株 급등했는데… 디지털자산 법안은 게걸음"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c85",
+            "link": "https://n.news.naver.com/mnews/article/011/0004584027?sid=101",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "안도걸 민주당 디지털자산 태스크포스(TF) 위원은 28일 국회 의원회관에서 열린 전체회의 직후 기자들과 만나... 이정문 TF 위원장은 “취지에는 공감대가 형성돼 있다”면서도 “이번 기본법에 즉시 포함할지, 단계적으로... ",
+            "originallink": "https://www.sedaily.com/article/20001878?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-28T16:48:00",
+            "related_members": [
+                "EB16073M",
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "원화 스테이블코인 발행 최소 자본금 50억으로"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c86",
+            "link": "https://n.news.naver.com/mnews/article/003/0013735644?sid=102",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "6.3 지방선거 시도지사 예비후보 등록일이 코앞으로 다가오면서 더불어민주당 임호선(증평·진천·음성) 국회의원의 충북지사 선거 등판 여부에 지역 정치권이 촉각을 곤두세우고 있다. 민주당이 충북도당 당원 명부 유출... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493637",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T15:45:00",
+            "related_members": [
+                "FH777496",
+                "AEO5706C"
+            ],
+            "title": "\"불출마 아냐\" 민주 충북지사 선거 임호선 의원 등판 여부 촉각"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c87",
+            "link": "https://n.news.naver.com/mnews/article/366/0001138983?sid=100",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "민주당 디지털자산 태스크포스(TF)는 28일 오전 국회 의원회관에서 회의를 열고 정부 관계자들과 함께... 위원장인 이정문 민주당 의원은 이날 회의를 마친 뒤 기자들을 만나 “조만간 TF 차원에서 쟁점 정리가 된 것을... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/28/WQKZ5ZBIAFDFHJW56ZN7VT6GAA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-01-28T15:10:00",
+            "related_members": [
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "與, 스테이블코인 인가 ‘만장일치’ 아닌 ‘기관 협의’로 가닥"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c88",
+            "link": "https://n.news.naver.com/mnews/article/056/0012114073?sid=101",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "이와 관련해 금융위원회 권대영 부위원장은 어제 국회 정무위원회 소속 의원들을 개별적으로 접촉해 대주주... TF 단장인 이정문 의원은 회의 직후 브리핑에서 \"거래소 대주주 지분 제한에 대한 공감대는 있지만, 이번... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471199&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-28T14:48:00",
+            "related_members": [
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "금융위, 가상자산거래소 인가제·소유지분 제한 추진…여당 설득 나서"
+        },
+        {
+            "_id": "697cbd1a38b0cf4096976a4b",
+            "link": "https://n.news.naver.com/mnews/article/016/0002592356?sid=101",
+            "created_at": "2026-01-30T23:15:54.358000",
+            "description": "디지털자산기본법 급물살 가상자산협의체 신설·스테이블코인 합의제 가닥 박민규·강준현·이정문·안도걸·이강일·이주희 더불어민주당 디지털자산 태스크포스(TF) 의원이 28일 국회에서 디지털자산기본법 회의를... ",
+            "originallink": "https://biz.heraldcorp.com/article/10664629?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-28T14:13:00",
+            "related_members": [
+                "EB16073M",
+                "AEO5706C",
+                "5KV96424",
+                "O0I2045I",
+                "RBM5454A",
+                "M4O5221T"
+            ],
+            "title": "민주당 ‘은행 중심 발행·거래소 지분제한’ 절충안 28일 정부 제출 [크..."
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c89",
+            "link": "https://n.news.naver.com/mnews/article/011/0004583920?sid=100",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "TF는 이날 국회 의원회관에서 비공개 회의를 열고 디지털자산기본법 여당안 도출을 위한 논의를 진행했으나 ‘은행 지분 51% 룰’ 등 핵심 사안을 두고 합의를 이루지 못했다. TF 위원장인 이정문 의원은 기자들에게... ",
+            "originallink": "https://www.sedaily.com/article/20001751?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-28T14:12:00",
+            "related_members": [
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "스테이블코인 여당안 도출 무산…“설 전 마무리”"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c8a",
+            "link": "https://n.news.naver.com/mnews/article/015/0005243331?sid=101",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "8일 민주당 디지털자산 태스크포스(TF)는 국회 의원회관에서 비공개회의를 열고 디지털자산 2단계 법안의... TF 위원장인 이정문 의원은 \"한국은행은 스테이블코인 발행 주체 승인과 관련해 만장일치제 도입을 주장하고... ",
+            "originallink": "https://www.hankyung.com/article/202601287981g",
+            "press": "한국경제",
+            "pubDate": "2026-01-28T13:44:00",
+            "related_members": [
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "민주당 \"디지털자산기본법, 설 연휴 전 발의\"…한은과 이견은 여전"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c8b",
+            "link": "https://n.news.naver.com/mnews/article/011/0004583904?sid=101",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "민주당 디지털자산 태스크포스(TF)는 28일 서울 여의도 국회 의원회관에서 제2차 전체회의를 열고 디지털자산기본법 관련 주요 쟁점을 논의했다. 이정문 TF 위원장은 이날 회의 직후 기자들을 만나 일부 합의된 내용을... ",
+            "originallink": "https://www.sedaily.com/article/20001731?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-28T13:41:00",
+            "related_members": [
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "輿 “디지털자산업 8개로 나눠…스테이블코인 자본금은 50억”"
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c8c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008739276?sid=100",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "TF 간사를 맡고 있는 안도걸 민주당 의원은 이날 국회 의원회관에서 열린 TF 2차 전체회의 후 기자들과 만나... TF 위원장인 이정문 의원은 \"이번 입법 전략사항에 담기 어렵지 않겠냐는 의견을 냈는데 달리 생각하는 의원도... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6053750",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T12:43:00",
+            "related_members": [
+                "EB16073M",
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "與 \"디지털자산기본법 설 전 발의…스테이블코인 자본금 50억\""
+        },
+        {
+            "_id": "697cbd5038b0cf4096976c8d",
+            "link": "https://n.news.naver.com/mnews/article/009/0005628506?sid=101",
+            "created_at": "2026-01-30T23:16:48.761000",
+            "description": "민주당 디지털자산TF(위원장 이정문)는 28일 국회 의원회관에서 제2차 전체회의를 열고 이 같은 내용을 골자로 한 입법 방향을 논의했다. TF는 설 연휴(구정) 전 법안 발의를 목표로 당 정책위원회 및 정부 당국과 막판... ",
+            "originallink": "https://www.mk.co.kr/article/11945586",
+            "press": "매일경제",
+            "pubDate": "2026-01-28T12:15:00",
+            "related_members": [
+                "AEO5706C",
+                "O0I2045I"
+            ],
+            "title": "민주당 ‘디지털자산기본법’ 윤곽‥스테이블코인 자본금 50억·업종별..."
+        },
+        {
+            "_id": "697cbd2f38b0cf4096976b6c",
+            "link": "https://n.news.naver.com/mnews/article/374/0000489125?sid=101",
+            "created_at": "2026-01-30T23:16:15.088000",
+            "description": "민주당 디지털자산태스크포스는 오늘 오전 10시 서울 여의도 국회의원회관에서 비공개 회의를 통해... 현재 민주당 의원들은 5개의 관련 법안을 발의한 상태입니다. 이강일·민병덕·박상혁 의원은 디지털자산 전반의... ",
+            "originallink": "https://biz.sbs.co.kr/article_hub/20000287913?division=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-01-28T10:21:00",
+            "related_members": [
+                "6VC83722",
+                "EB16073M",
+                "AEO5706C",
+                "HXT76735",
+                "7YL9580G",
+                "TZ228122"
+            ],
+            "title": "오늘 스테이블코인 여당안 확정…'은행 50%+1주 룰' 결론"
+        },
+        {
             "_id": "6972d1f484596000289976d0",
             "link": "https://n.news.naver.com/mnews/article/032/0003423305?sid=100",
             "created_at": "2026-01-23T10:42:10.904000",
-            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 특히 주가 누르기 방지법은 이소영 민주당 의원이 지난해 5월 발의한 것으로, 기업 상속을 앞둔 대주주의 비정상적... ",
+            "description": "이 대통령은 이날 특위 소속 위원들을 청와대로 초청해 오찬을 하며 이같이 밝혔다고 특위 위원장인 오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을 강조한 것으로... ",
             "originallink": "https://www.khan.co.kr/article/202601222037005",
             "press": "경향신문",
             "pubDate": "2026-01-22T20:37:00",
@@ -171,7 +365,7 @@
             "_id": "6972d1f484596000289976d1",
             "link": "https://n.news.naver.com/mnews/article/032/0003423226?sid=100",
             "created_at": "2026-01-23T10:42:10.904000",
-            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 한정애 정책위의장은 “국정운영의 우선순위를 모두 재조정하고 정부가 지닌 자원과 역량을 완전히 재배치해... ",
+            "description": "이 대통령은 이날 특위 소속 위원들을 청와대로 초청해 오찬을 하며 이같이 밝혔다고 특위 위원장인 오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을 강조한 것으로... ",
             "originallink": "https://www.khan.co.kr/article/202601221615001",
             "press": "경향신문",
             "pubDate": "2026-01-22T16:15:00",
@@ -224,7 +418,7 @@
             "_id": "6972d1ee8459600028997693",
             "link": "https://n.news.naver.com/mnews/article/021/0002765328?sid=100",
             "created_at": "2026-01-23T10:42:04.433000",
-            "description": "민홍철 국회의원실과 더불어민주당 국가보훈정책특별위원회, 보훈부가 공동으로 개최하는 이번 포럼은... 민홍철·강득구·문정복·서영교·민병덕·이강일·김용만 의원, 민주당 국가보훈정책특별위원회 위원... ",
+            "description": "민홍철 국회의원실과 더불어민주당 국가보훈정책특별위원회, 보훈부가 공동으로 개최하는 이번 포럼은 ‘국민 주권 시대, 국가보훈 정책 어떻게 가야 하나?’를 주제로 매주 수요일 오후2시에 진행된다. 4차례에 걸친... ",
             "originallink": "https://www.munhwa.com/article/11562517?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-01-21T10:07:00",
@@ -244,7 +438,7 @@
             "_id": "6972d1ee8459600028997694",
             "link": "https://n.news.naver.com/mnews/article/421/0008725320?sid=100",
             "created_at": "2026-01-23T10:42:04.433000",
-            "description": "민홍철 국회의원실과 더불어민주당 국가보훈정책특별위원회, 보훈부가 공동으로 개최하는 이번 포럼은... 1차 포럼에는 정청래 민주당 대표, 강윤진 보훈부 차관, 민홍철·강득구·문정복·서영교·민병덕·이강일·김용만... ",
+            "description": "민홍철 국회의원실과 더불어민주당 국가보훈정책특별위원회, 보훈부가 공동으로 개최하는 이번 포럼은 '국민 주권 시대, 국가보훈 정책 어떻게 가야 하나'를 주제로 매주 수요일 진행된다. 포럼에서는 △보훈 정책의... ",
             "originallink": "https://www.news1.kr/diplomacy/defense-diplomacy/6045670",
             "press": "뉴스1",
             "pubDate": "2026-01-21T09:14:00",
@@ -435,206 +629,6 @@
                 "D6U6678O"
             ],
             "title": "與 “올해 ‘디스커버리 제도’ 입법”… 경제 형벌 대신 민사책임 강화"
-        },
-        {
-            "_id": "6969b95c297082fcc2b19454",
-            "link": "https://n.news.naver.com/mnews/article/009/0005622585?sid=100",
-            "created_at": "2026-01-16T13:06:49.708000",
-            "description": "경제더하기연구소 대표를 맡고 있는 이용우 전 의원은 15일 국회에서 오기형·김남근·이강일 민주당 의원이 주최한 ‘상법 개정에 따른 기업 공시 개정 방안’ 토론회에서 “이사·감사·집행임원의 보수 총액에 대해 급여... ",
-            "originallink": "https://www.mk.co.kr/article/11934715",
-            "press": "매일경제",
-            "pubDate": "2026-01-16T08:13:00",
-            "related_members": [
-                "IUX1829H",
-                "6K79158C",
-                "OIA3741M",
-                "AEO5706C"
-            ],
-            "title": "“임원보수 투명하게…주식보상까지 공시해야” 與 상법개정 토론회"
-        },
-        {
-            "_id": "6969b95c297082fcc2b19455",
-            "link": "https://n.news.naver.com/mnews/article/005/0001826537?sid=100",
-            "created_at": "2026-01-16T13:06:49.708000",
-            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 15일 국회에서 ‘상법 개정에 따른 기업공시 개정방안’ 토론회를 공동 주최했다. 이날 토론회에선 지난 1차 상법 개정안 통과로 명시된 ‘이사의... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768467012&code=11121100&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-16T02:03:00",
-            "related_members": [
-                "IUX1829H",
-                "OIA3741M",
-                "AEO5706C",
-                "6K79158C"
-            ],
-            "title": "“코스피 5000 안착 뒷받침”… 與, 상법 이어 공시제 손본다"
-        },
-        {
-            "_id": "696902b5297082fcc2b19269",
-            "link": "https://n.news.naver.com/mnews/article/011/0004579319?sid=100",
-            "created_at": "2026-01-16T00:07:33.435000",
-            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 이날 국회 의원회관에서 ‘상법 개정에 따른 기업공시 개정 방안’ 토론회를 열었다. 이 의원은 “해외 유수의 투자 기업들이 우리나라 기업공시 제도의... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7BASEEOR",
-            "press": "서울경제",
-            "pubDate": "2026-01-15T18:56:00",
-            "related_members": [
-                "IUX1829H",
-                "OIA3741M",
-                "AEO5706C",
-                "6K79158C"
-            ],
-            "title": "상법개정 후 첫 주총시즌…與 \"기업공시 제도 강화를\""
-        },
-        {
-            "_id": "696902b5297082fcc2b1926a",
-            "link": "https://n.news.naver.com/mnews/article/011/0004579312?sid=100",
-            "created_at": "2026-01-16T00:07:33.435000",
-            "description": "민주당 코스피5000특별위원회 소속 오기형·김남근·이강일 의원은 이날 국회 의원회관에서 ‘상법 개정에 따른 기업공시 개정방안’ 토론회를 열었다. 이강일 의원은 “해외 유수의 투자기업들이 우리나라의 기업 공시... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7B9WB50P",
-            "press": "서울경제",
-            "pubDate": "2026-01-15T18:50:00",
-            "related_members": [
-                "IUX1829H",
-                "OIA3741M",
-                "AEO5706C",
-                "6K79158C"
-            ],
-            "title": "與 공시제도 개선 토론회…\"자본비용·임원보수 내역도 상세히 공개해야..."
-        },
-        {
-            "_id": "696902b5297082fcc2b1926b",
-            "link": "https://n.news.naver.com/mnews/article/028/0002786697?sid=101",
-            "created_at": "2026-01-16T00:07:33.435000",
-            "description": "이용우 전 의원은 15일 서울 여의도 국회의원회관에서 열린 ‘상법 개정에 따른 기업공시 개정 방안’... 김남근 민주당 의원은 “코리아 디스카운트 해소를 위해서는 투자자들이 안심하고 투자할 수있는 환경을 조성해야... ",
-            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1239990.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-15T18:28:00",
-            "related_members": [
-                "IUX1829H",
-                "6K79158C",
-                "OIA3741M",
-                "AEO5706C"
-            ],
-            "title": "민주당, 상법 개정 후속으로 공시제도 강화"
-        },
-        {
-            "_id": "6968ad89297082fcc2b18cf0",
-            "link": "https://n.news.naver.com/mnews/article/009/0005622489?sid=100",
-            "created_at": "2026-01-15T18:04:06.800000",
-            "description": "경제더하기연구소 대표를 맡고 있는 이용우 전 의원은 15일 국회에서 오기형·김남근·이강일 민주당 의원이 주최한 '상법 개정에 따른 기업 공시 개정 방안' 토론회에서 \"이사·감사·집행임원의 보수 총액에 대해 급여... ",
-            "originallink": "https://www.mk.co.kr/article/11934296",
-            "press": "매일경제",
-            "pubDate": "2026-01-15T17:51:00",
-            "related_members": [
-                "OIA3741M",
-                "IUX1829H",
-                "6K79158C",
-                "AEO5706C"
-            ],
-            "title": "\"임원 겸직보수까지 다 공개해야 … 주식보상도 공시를\""
-        },
-        {
-            "_id": "6968ad89297082fcc2b18cf1",
-            "link": "https://n.news.naver.com/mnews/article/015/0005237813?sid=100",
-            "created_at": "2026-01-15T18:04:06.800000",
-            "description": "15일 민주당 코스피5000특별위원회의 오기형·김남근·이강일 의원은 국회에서 ‘상법 개정에 따른 기업공시 개정 방안’ 간담회를 열고 이 같은 공시 제도 강화 방안을 논의했다. 코스피5000특위는 이사의 주주 충실 의무... ",
-            "originallink": "https://www.hankyung.com/article/2026011535181",
-            "press": "한국경제",
-            "pubDate": "2026-01-15T17:33:00",
-            "related_members": [
-                "OIA3741M",
-                "IUX1829H",
-                "AEO5706C",
-                "6K79158C"
-            ],
-            "title": "與, 자사주 소각 이어 공시제도까지 손댄다"
-        },
-        {
-            "_id": "6964b55b631fd17434996203",
-            "link": "https://n.news.naver.com/mnews/article/003/0013698315?sid=102",
-            "created_at": "2026-01-12T17:48:24.280000",
-            "description": "이날 도당 4층 강당에서 열린 행사에는 엄태영 도당위원장과 박덕흠 국회의원, 서승우·김진모·김동원·김수민 당협위원장, 김영환 충북지사를 비롯해 광역·기초의원, 당직자 등 200여명이 참석했다. 참석자들은 당 내부... ",
-            "originallink": "https://www.newsis.com/view/NISX20260107_0003468830",
-            "press": "뉴시스",
-            "pubDate": "2026-01-07T16:47:00",
-            "related_members": [
-                "N4R2421C",
-                "8O34202I",
-                "8348421R",
-                "95J3282H",
-                "AEO5706C",
-                "RG972910",
-                "EBH1101V",
-                "OWD1018N"
-            ],
-            "title": "\"지선 필승\" 국힘 충북도당, 신년인사회…정치아카데미 개강"
-        },
-        {
-            "_id": "6964b575631fd1743499637d",
-            "link": "https://n.news.naver.com/mnews/article/056/0012100173?sid=101",
-            "created_at": "2026-01-12T17:48:50.624000",
-            "description": "청주 상당의 더불어민주당 이강일 의원은 서울회생법원이 지난 5일, 기업 회생 절차에 들어간 홈플러스와 청주 성안점 임대 업체 간 임대료를 2037년까지 낮춘 새 임대차 계약을 승인했다고 밝혔습니다. 다만 이... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452509&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-07T12:02:00",
-            "related_members": [
-                "AEO5706C"
-            ],
-            "title": "이강일 국회의원 “홈플러스 청주 성안점 계속 영업 가능해져”"
-        },
-        {
-            "_id": "6964b575631fd1743499637e",
-            "link": "https://n.news.naver.com/mnews/article/056/0012099770?sid=101",
-            "created_at": "2026-01-12T17:48:50.624000",
-            "description": "청주 상당의 더불어민주당 이강일 의원은 서울회생법원이 어제, 기업 회생 절차에 들어간 홈플러스와 청주 성안점 임대 업체 간 임대료를 2037년까지 낮춘 새 임대차 계약을 승인했다고 밝혔습니다. 다만 이 계약에는... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452037&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-06T22:06:00",
-            "related_members": [
-                "AEO5706C"
-            ],
-            "title": "이강일 국회의원 “홈플러스 청주 성안점 계속 영업 가능해져”"
-        },
-        {
-            "_id": "6964b575631fd1743499637f",
-            "link": "https://n.news.naver.com/mnews/article/056/0012099628?sid=101",
-            "created_at": "2026-01-12T17:48:50.624000",
-            "description": "청주 상당의 더불어민주당 이강일 의원은 서울회생법원이 어제, 기업 회생 절차에 들어간 홈플러스와 청주 성안점 임대 업체 간 임대료를 2037년까지 낮춘 새 임대차 계약을 승인했다고 밝혔습니다. 다만 이 계약에는... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8451867&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-06T20:31:00",
-            "related_members": [
-                "AEO5706C"
-            ],
-            "title": "[간추린 단신] 이강일 국회의원 “홈플러스 청주 성안점, 영업 지속” 외"
-        },
-        {
-            "_id": "6964b575631fd17434996380",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102350?sid=102",
-            "created_at": "2026-01-12T17:48:50.624000",
-            "description": "더불어민주당 이강일 국회의원(청주 상당)은 6일 서울회생법원이 홈플러스 성안점과 임대인인 마일스톤 자산운용 사이의 새로운 임대차 계약을 승인했다고 밝혔다. 임대매장인 청주 성안점은 영업부진과 함께... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6452300?utm_source=naver&utm_medium=article&utm_campaign=20260106045248",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-06T16:53:00",
-            "related_members": [
-                "AEO5706C"
-            ],
-            "title": "이강일 의원 \"홈플러스 청주 성안점 폐점 위기 면했다\""
-        },
-        {
-            "_id": "6964b56a631fd17434996305",
-            "link": "https://n.news.naver.com/mnews/article/421/0008697017?sid=102",
-            "created_at": "2026-01-12T17:48:40.129000",
-            "description": "이날 인사회에는 이광희 충북도당위원장과 이강일·이연희·송재봉 국회의원과 지역위원장, 자치단체장, 광역·기초의원, 지방선거 출마예정자 등 300여 명이 참석했다. 이 위원장은 인사말에서 \"지역 곳곳에서 민생을... ",
-            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6029216",
-            "press": "뉴스1",
-            "pubDate": "2026-01-05T17:41:00",
-            "related_members": [
-                "95J3282H",
-                "AEO5706C",
-                "RG972910",
-                "EBH1101V"
-            ],
-            "title": "민주당 충북도당 신년인사회…지방선거 승리 다짐"
         }
     ],
     "recent_videos": [
@@ -643,19 +637,9 @@
             "url": "https://www.youtube.com/watch?v=UChZEb4E_exCUxPS3K0wtfpQ",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-01-23T16:46:32.366000",
+            "collected_at": "2026-01-30T23:28:29.975000",
             "duration": null,
             "title": "이강일tv",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad50631fd1743497d9e0",
-            "url": "https://www.youtube.com/watch?v=tOnQIMFc-w0",
-            "HG_NM": "이강일",
-            "MONA_CD": "AEO5706C",
-            "collected_at": "2026-01-23T16:46:32.366000",
-            "duration": 584.0,
-            "title": "💙더불어민주당 이강일 국회의원 | ⭐300인의 희망 인터뷰",
             "upload_date": null
         },
         {
@@ -663,9 +647,19 @@
             "url": "https://www.youtube.com/watch?v=ZuLuMAyhVrA",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-01-23T16:46:32.366000",
+            "collected_at": "2026-01-30T23:28:29.975000",
             "duration": 152.0,
             "title": "[이강일 의원 발췌본] \"싸가지없다\" '막말' 기관장.. 건들건들 '씩' 웃더니 (2025.10.13./MBC뉴스)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad50631fd1743497d9e0",
+            "url": "https://www.youtube.com/watch?v=tOnQIMFc-w0",
+            "HG_NM": "이강일",
+            "MONA_CD": "AEO5706C",
+            "collected_at": "2026-01-30T23:28:29.975000",
+            "duration": 584.0,
+            "title": "💙더불어민주당 이강일 국회의원 | ⭐300인의 희망 인터뷰",
             "upload_date": null
         },
         {
@@ -683,7 +677,7 @@
             "url": "https://www.youtube.com/watch?v=QLpf4r2LhQs",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-01-23T16:46:33.167000",
+            "collected_at": "2026-01-30T23:28:31.731000",
             "duration": 718.0,
             "title": "\"제가 제 얼굴 볼 수 있나요?\" 황당 발언에 제대로 화난 이강일 \"말장난하고 있죠!!\"",
             "upload_date": null
@@ -693,7 +687,7 @@
             "url": "https://www.youtube.com/watch?v=ME6M8f5Y4KM",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-01-23T16:46:33.167000",
+            "collected_at": "2026-01-30T23:28:31.731000",
             "duration": 207.0,
             "title": "가짜뉴스 유포자가 국회의원? \"표현 자유 아닌 사회적 테러\" #민주당 #이강일의원 #이강일 #표현의자유 #세월호 #이재명대통령 #이재명 #중국인 #외국인주택 #투표 #외국인투표",
             "upload_date": null
@@ -703,7 +697,7 @@
             "url": "https://www.youtube.com/watch?v=_dSbyMtjgGI",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-01-23T16:46:33.167000",
+            "collected_at": "2026-01-30T23:28:31.731000",
             "duration": 130.0,
             "title": "[이강일 의원 발췌본] SBS 비즈 뉴스프리즘 방영분",
             "upload_date": null
@@ -717,7 +711,27 @@
             "duration": 460.0,
             "title": "[생중계] 이강일 민주당 의원 소액주주 보호 대책 마련 촉구 기자회견 (2025.07.08 오후)",
             "upload_date": null
+        },
+        {
+            "_id": "697cc00f38b0cf4096976e4e",
+            "url": "https://www.youtube.com/watch?v=NmXZdDLblgA",
+            "HG_NM": "이강일",
+            "MONA_CD": "AEO5706C",
+            "collected_at": "2026-01-30T23:28:29.975000",
+            "duration": 6275.0,
+            "title": "청주시 상당구 국회의원 이강일 의정보고회 2026년 1월 24일 오후2시 청주시 문화체육관 [본행사]",
+            "upload_date": null
+        },
+        {
+            "_id": "697cc00f38b0cf4096976e4f",
+            "url": "https://www.youtube.com/watch?v=8Feakt8trRY",
+            "HG_NM": "이강일",
+            "MONA_CD": "AEO5706C",
+            "collected_at": "2026-01-30T23:28:29.975000",
+            "duration": 1154.0,
+            "title": "청주시 상당구 국회의원 이강일 의정보고회 2026년 1월 24일 오후2시 청주시 문화체육관 [친교의시간-2]",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:36.393643"
+    "exported_at": "2026-01-30T23:36:07.152454"
 }

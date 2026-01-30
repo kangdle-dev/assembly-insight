@@ -54,43 +54,43 @@
         "keywords": [
             "정재",
             "김정",
-            "공천",
             "국민",
-            "포항",
+            "공천",
             "의혹",
+            "포항",
             "민주당",
+            "특검",
             "지역구",
-            "김병기",
+            "부분",
             "단식",
             "이준석",
-            "특검",
-            "부분",
+            "김병기",
             "출당",
             "요구"
         ],
         "keyword_frequency": [
             {
                 "text": "정재",
-                "value": 30
+                "value": 32
             },
             {
                 "text": "김정",
-                "value": 29
-            },
-            {
-                "text": "공천",
-                "value": 19
+                "value": 27
             },
             {
                 "text": "국민",
+                "value": 19
+            },
+            {
+                "text": "공천",
                 "value": 18
             },
             {
-                "text": "포항",
-                "value": 16
+                "text": "의혹",
+                "value": 15
             },
             {
-                "text": "의혹",
+                "text": "포항",
                 "value": 15
             },
             {
@@ -98,12 +98,16 @@
                 "value": 14
             },
             {
+                "text": "특검",
+                "value": 12
+            },
+            {
                 "text": "지역구",
                 "value": 12
             },
             {
-                "text": "김병기",
-                "value": 12
+                "text": "부분",
+                "value": 11
             },
             {
                 "text": "단식",
@@ -114,11 +118,7 @@
                 "value": 11
             },
             {
-                "text": "특검",
-                "value": 11
-            },
-            {
-                "text": "부분",
+                "text": "김병기",
                 "value": 10
             },
             {
@@ -130,29 +130,44 @@
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:18.578288",
+        "last_analyzed_at": "2026-01-30T23:35:48.967464",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                1,
-                1,
-                5,
-                0,
                 0,
                 2,
+                0,
+                1,
+                0,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2b38b0cf4096976b4f",
+            "link": "https://n.news.naver.com/mnews/article/056/0012112958?sid=100",
+            "created_at": "2026-01-30T23:16:11.423000",
+            "description": "이철규, 김정재 의원 녹취 같은 것도 예전에 있었고 그런 부분들도 다 해서 정말 밝힐 수 있으면 여러 가지 정말 이런 문제만큼은 국민들의 불신을 남겨둬서는 안되는 문제니까요. 그래서 저는 특검이고 뭐고 국회에서 할 수... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8469758&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-27T09:32:00",
+            "related_members": [
+                "2NV6751W",
+                "TZP9391O",
+                "E1J8836Y"
+            ],
+            "title": "[전격시사] 장철민 더불어민주당 의원 - “합당도, 절차도 반대…졸속 ..."
+        },
         {
             "_id": "6976fceb8459600028997f3c",
             "link": "https://n.news.naver.com/mnews/article/016/0002590629?sid=100",
@@ -263,37 +278,10 @@
             "title": "서용주 \"張 단식 찾은 보수인사들? 포스트 노리려\"[한판승부]"
         },
         {
-            "_id": "6972d2008459600028997732",
-            "link": "https://n.news.naver.com/mnews/article/003/0013723757?sid=100",
-            "created_at": "2026-01-23T10:42:22.522000",
-            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 김교흥 의원, [인천광역시 현안 관련 입장 발표 기자회견] 11:00 허종식 의원, [인천대교·영종대교 통행료... ",
-            "originallink": "https://www.newsis.com/view/NISX20260121_0003485644",
-            "press": "뉴시스",
-            "pubDate": "2026-01-22T05:00:00",
-            "related_members": [
-                "E1J8836Y",
-                "N2P9317N",
-                "1A82234K",
-                "5KV82250",
-                "6AU2417B",
-                "VCP96419",
-                "JSA8739I",
-                "RQQ3807K",
-                "3TP65086",
-                "P8A4624C",
-                "O7R5461J",
-                "HSW1214Q",
-                "TJW93720",
-                "25G2571T",
-                "X1K3667J"
-            ],
-            "title": "[오늘의 주요일정]국회(1월22일 목요일)"
-        },
-        {
             "_id": "6972d2008459600028997733",
             "link": "https://n.news.naver.com/mnews/article/421/0008727404?sid=100",
             "created_at": "2026-01-23T10:42:22.522000",
-            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 김교흥 의원, [인천광역시 현안 관련 입장 발표 기자회견] 11:00 허종식 의원, [인천대교·영종대교 통행료... ",
+            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 청년 취업이 먼저냐?(의원회관 신관 제1세미나실) ◇소통관 기자회견 09:20 전종덕 의원, [정치 현안 관련... ",
             "originallink": "https://www.news1.kr/politics/assembly/6046840",
             "press": "뉴스1",
             "pubDate": "2026-01-22T05:00:00",
@@ -315,6 +303,33 @@
                 "X1K3667J"
             ],
             "title": "[오늘의 국회일정] (22일, 목)"
+        },
+        {
+            "_id": "6972d2008459600028997732",
+            "link": "https://n.news.naver.com/mnews/article/003/0013723757?sid=100",
+            "created_at": "2026-01-23T10:42:22.522000",
+            "description": "성장(국회의원회관 정책위원회 회의실) 14:00 조경태 의원실, 북항재개발 이대로 괜찮은가?: 북항재개발... 청년 취업이 먼저냐?(의원회관 신관 제1세미나실) ◇소통관 기자회견 09:20 전종덕 의원, [정치 현안 관련... ",
+            "originallink": "https://www.newsis.com/view/NISX20260121_0003485644",
+            "press": "뉴시스",
+            "pubDate": "2026-01-22T05:00:00",
+            "related_members": [
+                "E1J8836Y",
+                "N2P9317N",
+                "1A82234K",
+                "5KV82250",
+                "6AU2417B",
+                "VCP96419",
+                "JSA8739I",
+                "RQQ3807K",
+                "3TP65086",
+                "P8A4624C",
+                "O7R5461J",
+                "HSW1214Q",
+                "TJW93720",
+                "25G2571T",
+                "X1K3667J"
+            ],
+            "title": "[오늘의 주요일정]국회(1월22일 목요일)"
         },
         {
             "_id": "6972d1f284596000289976be",
@@ -377,7 +392,7 @@
             "link": "https://n.news.naver.com/mnews/article/079/0004106502?sid=100",
             "created_at": "2026-01-21T08:39:38.911000",
             "description": "저도 과거에 세월호 진상 규명을 위해서 국회의원 시절에 노상 단식을 청와대 앞에서 했던 적이 있는데 열흘... 왜 그러냐면 지난번 윤한홍 의원, 권영진 의원 등등 당내의 다선 중진 의원들이 이 장동혁 대표의 리더십에... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6458247?utm_source=naver&utm_medium=article&utm_campaign=20260119013631",
+            "originallink": "https://www.nocutnews.co.kr/news/6458247?utm_source=naver&utm_medium=article&utm_campaign=20260129014042",
             "press": "노컷뉴스",
             "pubDate": "2026-01-19T11:29:00",
             "related_members": [
@@ -390,7 +405,7 @@
                 "8X15119P",
                 "QWL7778X"
             ],
-            "title": "[정치맛집]김근식 \"장동혁 단식, 내부용 아닌 당내 갈등 해결의 모멘텀..."
+            "title": "김근식 \"장동혁 단식, 내부용 아닌 당내 갈등 해결의 모멘텀 돼야\"[정치..."
         },
         {
             "_id": "6970123c297082fcc2b34c90",
@@ -724,21 +739,6 @@
                 "4U29186R"
             ],
             "title": "김영진 \"장동혁 쇄신안? 日 과거사 '통석의 염' 같은 표현..김병기? 정치..."
-        },
-        {
-            "_id": "6964b552631fd1743499616d",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102892?sid=100",
-            "created_at": "2026-01-12T17:48:15.824000",
-            "description": "근데 본인이나 참모들은 그래도 집권 여당 국회의원이라는 보호막이라도 갖고 있어야 경찰들이 함부로 나... 김정재 포항 의원이죠. 그분이 녹취해서 그랬잖아요. 경선하면 4, 5억씩 매수하는 게 일상이니까 나 당수 공천... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453066?utm_source=naver&utm_medium=article&utm_campaign=20260108073109",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-08T07:32:00",
-            "related_members": [
-                "8Q88373R",
-                "E1J8836Y",
-                "2NV6751W"
-            ],
-            "title": "서용주 \"김병기, 이제는 버티지 않았으면\"[한판승부]"
         }
     ],
     "recent_videos": [
@@ -747,7 +747,7 @@
             "url": "https://www.youtube.com/watch?v=qfHb0HUru2w",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:47.885000",
+            "collected_at": "2026-01-30T23:21:23.947000",
             "duration": 150.0,
             "title": "'서신보고'에 등장한 국힘 김정재 의원…특검, '불법 후원' 수사 / JTBC 아침&",
             "upload_date": null
@@ -763,13 +763,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac33631fd1743497d56c",
-            "url": "https://www.youtube.com/watch?v=ygEsjucgyTk",
+            "_id": "6960ac33631fd1743497d56d",
+            "url": "https://www.youtube.com/watch?v=PfCphT5x22g",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-15T18:15:53.216000",
-            "duration": 1818.0,
-            "title": "[김정재 의원] MBC 2시 뉴스외전 정치 '맞수다'...박지원 게이트",
+            "collected_at": "2026-01-15T18:15:53.217000",
+            "duration": 90.0,
+            "title": "김정재 의원 지역구서 \"출당 요구\"‥잇따른 비리 의혹에 막말까지 #Shorts (MBC뉴스)",
             "upload_date": null
         },
         {
@@ -777,29 +777,29 @@
             "url": "https://www.youtube.com/watch?v=WpSY8xyoIDo",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:47.885000",
+            "collected_at": "2026-01-30T23:21:23.947000",
             "duration": 245.0,
             "title": "김정재 의원 지역구서 \"출당 요구\"‥ 잇따른 비리 의혹에 막말까지 (2025.10.01/뉴스데스크/포항MBC)",
             "upload_date": null
         },
         {
-            "_id": "6966ee78887d07f7ba2fb3da",
-            "url": "https://www.youtube.com/watch?v=XgVSmf4Zxkc",
+            "_id": "6966ee78887d07f7ba2fb3d9",
+            "url": "https://www.youtube.com/watch?v=ok9FFZJDtsM",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-21T08:43:31.890000",
-            "duration": 952.0,
-            "title": "[뉴스킹] 尹 '日 무릎' 발언은 오해, \"잘못된 번역\" with 김정재_230425",
+            "collected_at": "2026-01-14T10:16:40.915000",
+            "duration": 2464.0,
+            "title": "[김정재 의원] 민주당, 부동산 투기의혹 12명 실명공개",
             "upload_date": null
         },
         {
-            "_id": "6965956b887d07f7ba2fac24",
-            "url": "https://www.youtube.com/watch?v=m82NqcfhyTg",
+            "_id": "6965956b887d07f7ba2fac25",
+            "url": "https://www.youtube.com/watch?v=5Bnhug8OwCs",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-18T13:11:56.211000",
-            "duration": 270.0,
-            "title": "김정재 의원 지역구서 \"출당 요구\"..잇따른 비리 의혹에 막말까지  (2025.10.01/뉴스데스크/포항MBC)",
+            "collected_at": "2026-01-15T18:15:53.217000",
+            "duration": 542.0,
+            "title": "\"원조 차떼기당, 단위가 달라요\" ... 김정재는 5억이라죠? 국힘에 맹폭",
             "upload_date": null
         },
         {
@@ -807,7 +807,7 @@
             "url": "https://www.youtube.com/watch?v=9DPiU1KffL0",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:48.633000",
+            "collected_at": "2026-01-30T23:21:25.335000",
             "duration": 1729.0,
             "title": "러 군용기 영공 침범... 김정재 의원 MBC 2시 뉴스외전-정치 와호장룡",
             "upload_date": null
@@ -823,13 +823,13 @@
             "upload_date": null
         },
         {
-            "_id": "6966ee78887d07f7ba2fb3d9",
-            "url": "https://www.youtube.com/watch?v=ok9FFZJDtsM",
+            "_id": "6966ee78887d07f7ba2fb3da",
+            "url": "https://www.youtube.com/watch?v=XgVSmf4Zxkc",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-14T10:16:40.915000",
-            "duration": 2464.0,
-            "title": "[김정재 의원] 민주당, 부동산 투기의혹 12명 실명공개",
+            "collected_at": "2026-01-21T08:43:31.890000",
+            "duration": 952.0,
+            "title": "[뉴스킹] 尹 '日 무릎' 발언은 오해, \"잘못된 번역\" with 김정재_230425",
             "upload_date": null
         },
         {
@@ -847,19 +847,49 @@
             "url": "https://www.youtube.com/watch?v=WPjpFX_gkJo",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:48.633000",
+            "collected_at": "2026-01-30T23:21:25.335000",
             "duration": 99.0,
             "title": "'호남에 불' 김정재, 사과는 했지만.. (2025.10.13/뉴스데스크/포항MBC)",
             "upload_date": null
         },
         {
-            "_id": "696c5d8d297082fcc2b19c36",
-            "url": "https://www.youtube.com/watch?v=WXbpw3UF_WI",
+            "_id": "696c5d8d297082fcc2b19c35",
+            "url": "https://www.youtube.com/watch?v=tu_1fM6NgZ8",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:48.633000",
-            "duration": 61.0,
-            "title": "김정재, '호남 불' 발언에 \"경상도말\" 해명…민주당 \"사투리탓 옹색\"｜지금 이 장면",
+            "collected_at": "2026-01-30T23:21:25.335000",
+            "duration": 1198.0,
+            "title": "[뉴스직격] \"호남서 불안나나\" 김정재 의원 발언 논란/이재명 대통령 지지율 하락이유는?/김윤희 손지은 김상민",
+            "upload_date": null
+        },
+        {
+            "_id": "6965956b887d07f7ba2fac22",
+            "url": "https://www.youtube.com/watch?v=B13XhvXczMI",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-30T23:21:23.947000",
+            "duration": 649.0,
+            "title": "김정재 국회의원 2022 의정보고영상",
+            "upload_date": null
+        },
+        {
+            "_id": "69701325297082fcc2b34ded",
+            "url": "https://www.youtube.com/watch?v=W9UPpPxgyvA",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-30T23:21:23.947000",
+            "duration": 246.0,
+            "title": "김정재, 국회의원 자리 이렇게 얻었나? '3억~5억' 발언 담긴 '충격' 통화 뭐길래...정청래 \"이 건 수사 중인가?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac33631fd1743497d56c",
+            "url": "https://www.youtube.com/watch?v=ygEsjucgyTk",
+            "HG_NM": "김정재",
+            "MONA_CD": "E1J8836Y",
+            "collected_at": "2026-01-15T18:15:53.216000",
+            "duration": 1818.0,
+            "title": "[김정재 의원] MBC 2시 뉴스외전 정치 '맞수다'...박지원 게이트",
             "upload_date": null
         },
         {
@@ -870,36 +900,6 @@
             "collected_at": "2026-01-18T13:11:56.211000",
             "duration": 197.0,
             "title": "김정재 의원, 공천 야합 시도 정황? \"경상도는 세 배씩 차이 나면...단수공천으로...\"[25. 9. 29.]",
-            "upload_date": null
-        },
-        {
-            "_id": "69701325297082fcc2b34ded",
-            "url": "https://www.youtube.com/watch?v=W9UPpPxgyvA",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:47.885000",
-            "duration": 246.0,
-            "title": "김정재, 국회의원 자리 이렇게 얻었나? '3억~5억' 발언 담긴 '충격' 통화 뭐길래...정청래 \"이 건 수사 중인가?\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac33631fd1743497d56d",
-            "url": "https://www.youtube.com/watch?v=PfCphT5x22g",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-15T18:15:53.217000",
-            "duration": 90.0,
-            "title": "김정재 의원 지역구서 \"출당 요구\"‥잇따른 비리 의혹에 막말까지 #Shorts (MBC뉴스)",
-            "upload_date": null
-        },
-        {
-            "_id": "6965956b887d07f7ba2fac25",
-            "url": "https://www.youtube.com/watch?v=5Bnhug8OwCs",
-            "HG_NM": "김정재",
-            "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-15T18:15:53.217000",
-            "duration": 542.0,
-            "title": "\"원조 차떼기당, 단위가 달라요\" ... 김정재는 5억이라죠? 국힘에 맹폭",
             "upload_date": null
         },
         {
@@ -917,31 +917,31 @@
             "url": "https://www.youtube.com/watch?v=UCAXNqrR7LgLW1WOOyPJVZPg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:47.885000",
+            "collected_at": "2026-01-30T23:21:23.947000",
             "duration": null,
             "title": "김정재",
             "upload_date": null
         },
         {
-            "_id": "6965956b887d07f7ba2fac22",
-            "url": "https://www.youtube.com/watch?v=B13XhvXczMI",
+            "_id": "6965956b887d07f7ba2fac24",
+            "url": "https://www.youtube.com/watch?v=m82NqcfhyTg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:47.885000",
-            "duration": 649.0,
-            "title": "김정재 국회의원 2022 의정보고영상",
+            "collected_at": "2026-01-18T13:11:56.211000",
+            "duration": 270.0,
+            "title": "김정재 의원 지역구서 \"출당 요구\"..잇따른 비리 의혹에 막말까지  (2025.10.01/뉴스데스크/포항MBC)",
             "upload_date": null
         },
         {
-            "_id": "696c5d8d297082fcc2b19c35",
-            "url": "https://www.youtube.com/watch?v=tu_1fM6NgZ8",
+            "_id": "696c5d8d297082fcc2b19c36",
+            "url": "https://www.youtube.com/watch?v=WXbpw3UF_WI",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-01-23T16:41:48.633000",
-            "duration": 1198.0,
-            "title": "[뉴스직격] \"호남서 불안나나\" 김정재 의원 발언 논란/이재명 대통령 지지율 하락이유는?/김윤희 손지은 김상민",
+            "collected_at": "2026-01-30T23:21:25.335000",
+            "duration": 61.0,
+            "title": "김정재, '호남 불' 발언에 \"경상도말\" 해명…민주당 \"사투리탓 옹색\"｜지금 이 장면",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:18.578288"
+    "exported_at": "2026-01-30T23:35:48.967464"
 }

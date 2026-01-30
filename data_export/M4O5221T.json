@@ -42,37 +42,41 @@
     },
     "analysis": {
         "keywords": [
-            "디지털",
             "자산",
-            "예산",
+            "디지털",
             "민주당",
-            "간담회",
             "정부",
-            "이날",
-            "한국",
+            "예산",
+            "간담회",
             "이정문",
-            "단계",
-            "회관",
-            "일정",
-            "대한민국",
-            "수상",
-            "결산"
+            "은행",
+            "지분",
+            "안도",
+            "이강",
+            "이주희",
+            "더불어민주당",
+            "이날",
+            "한국"
         ],
         "keyword_frequency": [
             {
-                "text": "디지털",
-                "value": 11
-            },
-            {
                 "text": "자산",
-                "value": 11
+                "value": 15
             },
             {
-                "text": "예산",
-                "value": 6
+                "text": "디지털",
+                "value": 14
             },
             {
                 "text": "민주당",
+                "value": 8
+            },
+            {
+                "text": "정부",
+                "value": 7
+            },
+            {
+                "text": "예산",
                 "value": 6
             },
             {
@@ -80,8 +84,32 @@
                 "value": 6
             },
             {
-                "text": "정부",
+                "text": "이정문",
                 "value": 5
+            },
+            {
+                "text": "은행",
+                "value": 4
+            },
+            {
+                "text": "지분",
+                "value": 4
+            },
+            {
+                "text": "안도",
+                "value": 4
+            },
+            {
+                "text": "이강",
+                "value": 4
+            },
+            {
+                "text": "이주희",
+                "value": 4
+            },
+            {
+                "text": "더불어민주당",
+                "value": 4
             },
             {
                 "text": "이날",
@@ -90,59 +118,49 @@
             {
                 "text": "한국",
                 "value": 4
-            },
-            {
-                "text": "이정문",
-                "value": 4
-            },
-            {
-                "text": "단계",
-                "value": 4
-            },
-            {
-                "text": "회관",
-                "value": 4
-            },
-            {
-                "text": "일정",
-                "value": 4
-            },
-            {
-                "text": "대한민국",
-                "value": 4
-            },
-            {
-                "text": "수상",
-                "value": 4
-            },
-            {
-                "text": "결산",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:23.039458",
+        "last_analyzed_at": "2026-01-30T23:35:53.546413",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
+                1,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1a38b0cf4096976a4b",
+            "link": "https://n.news.naver.com/mnews/article/016/0002592356?sid=101",
+            "created_at": "2026-01-30T23:15:54.358000",
+            "description": "디지털자산기본법 급물살 가상자산협의체 신설·스테이블코인 합의제 가닥 박민규·강준현·이정문·안도걸·이강일·이주희 더불어민주당 디지털자산 태스크포스(TF) 의원이 28일 국회에서 디지털자산기본법 회의를... ",
+            "originallink": "https://biz.heraldcorp.com/article/10664629?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-01-28T14:13:00",
+            "related_members": [
+                "EB16073M",
+                "AEO5706C",
+                "5KV96424",
+                "O0I2045I",
+                "RBM5454A",
+                "M4O5221T"
+            ],
+            "title": "민주당 ‘은행 중심 발행·거래소 지분제한’ 절충안 28일 정부 제출 [크..."
+        },
         {
             "_id": "696c5bf3297082fcc2b19b96",
             "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155061",
@@ -253,9 +271,19 @@
             "url": "https://www.youtube.com/watch?v=UC-CKKWUQApuyZnU55cKauKw",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
+            "collected_at": "2026-01-30T23:23:09.488000",
             "duration": null,
             "title": "박민규TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac79631fd1743497d69a",
+            "url": "https://www.youtube.com/watch?v=l6NAtyV4gfo",
+            "HG_NM": "박민규",
+            "MONA_CD": "M4O5221T",
+            "collected_at": "2026-01-30T23:23:10.860000",
+            "duration": 295.0,
+            "title": "박민규, KBS 사장 후보에게 \"경영계획서 복붙 아니냐\"",
             "upload_date": null
         },
         {
@@ -263,7 +291,7 @@
             "url": "https://www.youtube.com/watch?v=kJf6JorwkwM",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
+            "collected_at": "2026-01-30T23:23:09.488000",
             "duration": 443.0,
             "title": "박민규_의원(국회의원)_2025년_대한민국_자치발전_대상_수상영상",
             "upload_date": null
@@ -273,7 +301,7 @@
             "url": "https://www.youtube.com/watch?v=vD4f97ags_A",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
+            "collected_at": "2026-01-30T23:23:09.488000",
             "duration": 392.0,
             "title": "박민규 국회의원, 2025년 11월 06일 예산결산특별위원회: 수상한 49억 KISTEP 사업, 제대로 검증해야!",
             "upload_date": null
@@ -283,29 +311,9 @@
             "url": "https://www.youtube.com/watch?v=Undd9vdO6fk",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
+            "collected_at": "2026-01-30T23:23:09.488000",
             "duration": 430.0,
             "title": "(박민규 의원) 문재인 대통령 직무유기로 왜 고발하셨어요?...이진숙 후보자의 답변은~",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac79631fd1743497d69a",
-            "url": "https://www.youtube.com/watch?v=l6NAtyV4gfo",
-            "HG_NM": "박민규",
-            "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:43:00.451000",
-            "duration": 295.0,
-            "title": "박민규, KBS 사장 후보에게 \"경영계획서 복붙 아니냐\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac79631fd1743497d69f",
-            "url": "https://www.youtube.com/watch?v=cHsjKtIXbXw",
-            "HG_NM": "박민규",
-            "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
-            "duration": 491.0,
-            "title": "박민규 국회의원, 2025년 10월 30일 국정감사: 윤석열 정부와 오세훈 시장이 지연시킨 서부선의 조속한 대책 요구!",
             "upload_date": null
         },
         {
@@ -313,9 +321,19 @@
             "url": "https://www.youtube.com/watch?v=VHBt437TzEk",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
+            "collected_at": "2026-01-30T23:23:09.488000",
             "duration": 170.0,
             "title": "[박민규의원] '내란검찰 규탄한다!' 더불어민주당 릴레이발언 농성",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac79631fd1743497d69f",
+            "url": "https://www.youtube.com/watch?v=cHsjKtIXbXw",
+            "HG_NM": "박민규",
+            "MONA_CD": "M4O5221T",
+            "collected_at": "2026-01-30T23:23:09.488000",
+            "duration": 491.0,
+            "title": "박민규 국회의원, 2025년 10월 30일 국정감사: 윤석열 정부와 오세훈 시장이 지연시킨 서부선의 조속한 대책 요구!",
             "upload_date": null
         },
         {
@@ -323,7 +341,7 @@
             "url": "https://www.youtube.com/watch?v=ZGMKJyF6KQg",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:42:59.712000",
+            "collected_at": "2026-01-30T23:23:09.488000",
             "duration": 580.0,
             "title": "박민규 국회의원, 2025년 11월 13일 예산결산특별위원회: 공무원 임금, 인사 시스템 전면 개혁 촉구!",
             "upload_date": null
@@ -363,7 +381,7 @@
             "url": "https://www.youtube.com/watch?v=sUS9FZqzP_A",
             "HG_NM": "박민규",
             "MONA_CD": "M4O5221T",
-            "collected_at": "2026-01-23T16:43:00.451000",
+            "collected_at": "2026-01-30T23:23:10.860000",
             "duration": 213.0,
             "title": "[뉴스룸 뒤(D)｜오픈 뉴스룸] 대한민국 16강의 '조건'? 무엇이든 다 아는 박민규 기자가 짚어드림! / JTBC News",
             "upload_date": null
@@ -399,5 +417,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:23.039458"
+    "exported_at": "2026-01-30T23:35:53.546413"
 }

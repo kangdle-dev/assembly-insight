@@ -50,47 +50,51 @@
             "제주",
             "이혜훈",
             "정책",
-            "이날",
             "민주당",
-            "수사",
+            "이날",
             "보완",
+            "수사",
+            "여당",
             "당정",
             "대통령",
-            "의혹",
-            "여당",
             "지명",
             "철회",
+            "의혹",
             "후보자",
-            "국민"
+            "수석"
         ],
         "keyword_frequency": [
             {
                 "text": "제주",
-                "value": 21
+                "value": 24
             },
             {
                 "text": "이혜훈",
-                "value": 20
+                "value": 24
             },
             {
                 "text": "정책",
-                "value": 20
-            },
-            {
-                "text": "이날",
-                "value": 18
+                "value": 21
             },
             {
                 "text": "민주당",
-                "value": 16
+                "value": 17
             },
             {
-                "text": "수사",
+                "text": "이날",
                 "value": 16
             },
             {
                 "text": "보완",
                 "value": 15
+            },
+            {
+                "text": "수사",
+                "value": 15
+            },
+            {
+                "text": "여당",
+                "value": 14
             },
             {
                 "text": "당정",
@@ -101,14 +105,6 @@
                 "value": 13
             },
             {
-                "text": "의혹",
-                "value": 12
-            },
-            {
-                "text": "여당",
-                "value": 12
-            },
-            {
                 "text": "지명",
                 "value": 12
             },
@@ -117,37 +113,70 @@
                 "value": 12
             },
             {
+                "text": "의혹",
+                "value": 11
+            },
+            {
                 "text": "후보자",
                 "value": 11
             },
             {
-                "text": "국민",
+                "text": "수석",
                 "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:20.015774",
+        "last_analyzed_at": "2026-01-30T23:35:50.443895",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                4,
-                5,
-                9,
-                3,
                 0,
                 7,
-                0
+                0,
+                0,
+                0,
+                1,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2938b0cf4096976b25",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789203?sid=101",
+            "created_at": "2026-01-30T23:16:08.873000",
+            "description": "중소벤처기업연구원과 한국협동조합학회는 더불어민주당 김한규·김원이·허영 의원과 함께 29일 오후 서울 여의도 국회의원회관에서 ‘기업승계와 직원 인수를 통한 기업의 지속가능성 방안’을 주제로 토론회를... ",
+            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1242546.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-30T14:24:00",
+            "related_members": [
+                "FU53642G",
+                "4L695580",
+                "NUB4941Z"
+            ],
+            "title": "후계자 없는 중기 5만6천개…폐업 우려에 ‘직원 인수’ 대안으로"
+        },
+        {
+            "_id": "697cbd2e38b0cf4096976b65",
+            "link": "https://n.news.naver.com/mnews/article/421/0008742997?sid=101",
+            "created_at": "2026-01-30T23:16:14.417000",
+            "description": "한편 세미나는 중기연과 한국협동조합학회, 국회의원 김한규·허영 의원이 공동으로 준비했다. 이들은 국내 중소기업의 원활한 기업승계와 고용 안정이라는 정책적 과제를 해결하기 위해 세미나를 마련했다.",
+            "originallink": "https://www.news1.kr/industry/sb-founded/6055675",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T16:27:00",
+            "related_members": [
+                "FU53642G",
+                "NUB4941Z"
+            ],
+            "title": "후계자 뱅크 있는 日…한국은 상속 못해 中企 폐업"
+        },
         {
             "_id": "6976fcfa8459600028997fbb",
             "link": "https://n.news.naver.com/mnews/article/421/0008733347?sid=102",
@@ -240,7 +269,7 @@
             "_id": "6976fcfa8459600028997fbf",
             "link": "https://n.news.naver.com/mnews/article/421/0008733110?sid=100",
             "created_at": "2026-01-26T14:34:48.113000",
-            "description": "박해철 당 대변인은 이날 국회에서 브리핑을 열고 \"후보자에게 제기된 의혹이 국민께서 납득하실 수준으로... 그러면서 \"특히 과거 보수정당에서 여러 차례 국회의원을 지낸 정치인을 정치적 지향과 진영 논리를 과감히... ",
+            "description": "그러면서 \"특히 과거 보수정당에서 여러 차례 국회의원을 지낸 정치인을 정치적 지향과 진영 논리를 과감히... 김한규 원내정책수석부대표는 페이스북에 \"통합을 위한 대통령의 의지에도 불구하고 국민 눈높이에 맞지 않는... ",
             "originallink": "https://www.news1.kr/politics/assembly/6050102",
             "press": "뉴스1",
             "pubDate": "2026-01-25T15:53:00",
@@ -309,7 +338,7 @@
             "_id": "6976fcfa8459600028997fb8",
             "link": "https://n.news.naver.com/mnews/article/032/0003423466?sid=100",
             "created_at": "2026-01-26T14:34:47.741000",
-            "description": "천하람 개혁신당 의원은 “이 후보자는 책에서 ‘갑질 근절이 후보자가 정치를 하는 이유’라고 했는데... 국민의힘 의원들은 청문회장에서 이 후보자가 국회의원 시절 보좌진에게 폭언하는 녹음을 수차례 틀었다.... ",
+            "description": "이 후보자는 진성준 민주당 의원이 “(청약 과정이) 명백하게 불법인데 집을 내놓을 용의가 있냐”고 묻자... 국민의힘 의원들은 청문회장에서 이 후보자가 국회의원 시절 보좌진에게 폭언하는 녹음을 수차례 틀었다.... ",
             "originallink": "https://www.khan.co.kr/article/202601231634001",
             "press": "경향신문",
             "pubDate": "2026-01-23T16:34:00",
@@ -429,7 +458,7 @@
             "_id": "6972d2038459600028997742",
             "link": "https://n.news.naver.com/mnews/article/421/0008727566?sid=102",
             "created_at": "2026-01-23T10:42:25.381000",
-            "description": "현직인 오영훈 지사와 3선인 위성곤 국회의원(서귀포시), 초선인 문대림 국회의원(제주시 갑), 제주시 갑 선거구 국회의원을 지낸 송재호 국회의장 직속 국회세종의사당건립위원회 위원장이다. 가장 먼저 기지개를 켠 건... ",
+            "description": "이 자리에는 제주 출신인 문정인 연세대 정치외교학과 명예교수와 부승찬 국회의원(경기 용인시 병) 등이 함께한다. 위성곤 국회의원(제주 서귀포시)도 페이스북과 보도자료 등을 통해 '제주 AX(AI 전환) 대전환' 비전... ",
             "originallink": "https://www.news1.kr/local/jeju/6046656",
             "press": "뉴스1",
             "pubDate": "2026-01-22T08:00:00",
@@ -445,7 +474,7 @@
             "_id": "6972d1fd8459600028997712",
             "link": "https://n.news.naver.com/mnews/article/421/0008727467?sid=100",
             "created_at": "2026-01-23T10:42:19.252000",
-            "description": "민주당은 이날 오전 10시 국회에서 의원총회를 열고 검찰개혁에 대한 논의를 이어간다. 한정애 정책위의장 주재로 김한규 원내정책수석부대표가 법안을 설명하고 의원들의 의견을 수렴하는 방식으로 진행된다. 앞서 20일... ",
+            "description": "민주당은 이날 오전 10시 국회에서 의원총회를 열고 검찰개혁에 대한 논의를 이어간다. 한정애 정책위의장... 한민수 당대표 비서실장은 전날 MBC라디오에서 '경찰 비대화 통제 방안도 강구돼야 하는 것 아니냐'는 질문에... ",
             "originallink": "https://www.news1.kr/politics/assembly/6046532",
             "press": "뉴스1",
             "pubDate": "2026-01-22T06:05:00",
@@ -599,162 +628,57 @@
                 "XPP2564T"
             ],
             "title": "당정, 군소음대책지역 8곳 새로 지정…기존 69곳은 확대"
-        },
-        {
-            "_id": "696c5bf3297082fcc2b19b95",
-            "link": "https://n.news.naver.com/mnews/article/011/0004579945?sid=105",
-            "created_at": "2026-01-18T13:05:07.542000",
-            "description": "박상혁·김한규·김우영 더불어민주당 의원은 이날 국회에서 ‘테슬라 FSD 국내 상륙과 우리나라 모빌리티 산업의 미래’를 주제로 간담회를 열고 자율주행 규제 개선 방안을 논의했다. 김한규 의원은 “국민의 안전을... ",
-            "originallink": "https://www.sedaily.com/NewsView/2K7CMZFAG2",
-            "press": "서울경제",
-            "pubDate": "2026-01-18T09:36:00",
-            "related_members": [
-                "NUB4941Z",
-                "HXT76735",
-                "3UI95829",
-                "JZY9937U",
-                "5N65159P"
-            ],
-            "title": "\"K-자율주행, 도태 우려\"…美中 추격하려면? [김성태의 딥테크 트렌드]"
-        },
-        {
-            "_id": "696c5be4297082fcc2b19b5c",
-            "link": "https://n.news.naver.com/mnews/article/437/0000474036?sid=100",
-            "created_at": "2026-01-18T13:04:52.147000",
-            "description": "의원 : 국회의원에 대한 수사는 다 특검이 해야 하는 건가요? 그건 아니지 않습니까? 그리고 만약에 저희가... 지금 이게 현재 민낯이고 그리고 이수진 전 의원이 얘기했을 때 거기에 연루된 게 이재명 대통령 그리고 이제... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12280253?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-18T09:01:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "KFM1081G",
-                "NUB4941Z",
-                "0R68099X",
-                "2385336L"
-            ],
-            "title": "안기부 출신 김병기 '캐비넷' 의문에…정색하고 날린 말 [논/쟁]"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6960ac2e631fd1743497d558",
-            "url": "https://www.youtube.com/watch?v=OPtuSlXPTo8",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:11.874000",
-            "duration": 1552.0,
-            "title": "김한규 “계엄 직후 국힘 단톡방, 본회의 표결 얘기 없어” 김재섭 “계엄 날, 추경호 표결 방해 없었다” [한판승부]",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d6",
-            "url": "https://www.youtube.com/watch?v=hAJdc4gZxa4",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-21T08:43:54.502000",
-            "duration": 61.0,
-            "title": "김한규 국회의원, '국회 개점휴업 방지법' 발의…\"업무공백 없어야\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d7",
-            "url": "https://www.youtube.com/watch?v=mOe-HylkugQ",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-21T08:43:54.502000",
-            "duration": 87.0,
-            "title": "예고) 김한규 의원의 \"권리는 올리고 책임은 더하고” - 알면 당신도 법테랑 - 97회",
-            "upload_date": null
-        },
         {
             "_id": "6960ac4a631fd1743497d5d8",
             "url": "https://www.youtube.com/watch?v=WLTVyAR6JDc",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:12.761000",
+            "collected_at": "2026-01-30T23:22:01.230000",
             "duration": 117.0,
             "title": "장경태에 野 \"사퇴하고 포토라인 서라\"…與 김한규 \"당에서 장경태 보호식 발언 안 해야\" [뉴스7]",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5da",
-            "url": "https://www.youtube.com/watch?v=pNy4jG-iuG8",
+            "_id": "697cbe8938b0cf4096976db4",
+            "url": "https://www.youtube.com/watch?v=uo4PmopViIs",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-21T08:43:55.195000",
-            "duration": 1047.0,
-            "title": "[뉴스킹] 코인 의혹, 문제 있다면 \"길거리 노숙 불사!\" with 김한규_230511",
+            "collected_at": "2026-01-30T23:22:01.230000",
+            "duration": 574.0,
+            "title": "여당 김한규도 포기하게 만든 이혜훈 후보자의 역대급 꼼수!? ㅣTBC 정치in직캠",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5d4",
-            "url": "https://www.youtube.com/watch?v=EtODqLMb5JQ",
+            "_id": "697cbe8938b0cf4096976db3",
+            "url": "https://www.youtube.com/watch?v=kIy5k2RWrsM",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-21T08:43:54.502000",
-            "duration": 465.0,
-            "title": "[뉴스파다 외전] 발표할 땐 135억 배럴...지금은 35억? 답답해서 고함치는 #김한규의원",
+            "collected_at": "2026-01-30T23:22:01.230000",
+            "duration": 2684.0,
+            "title": "김한규 \"계약서 없다고 김건희 무죄?…공천 실태 애써 외면\"",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5d1",
-            "url": "https://www.youtube.com/watch?v=UCbSEuksiYgUh7rJmCt_C8sQ",
+            "_id": "697cbe8938b0cf4096976db2",
+            "url": "https://www.youtube.com/watch?v=S3PG10H4OJo",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:11.874000",
-            "duration": null,
-            "title": "한큐에 김한규",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 356.0,
+            "title": "[자막] 김한규가 언급한 이혜훈의 반전 과거와 갑질 논란",
             "upload_date": null
         },
         {
-            "_id": "6960ac4a631fd1743497d5d2",
-            "url": "https://www.youtube.com/watch?v=HyDUUuom3qs",
+            "_id": "6973265784596000289979a0",
+            "url": "https://www.youtube.com/watch?v=KIvydIO0prc",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:11.874000",
-            "duration": 323.0,
-            "title": "[한큐위키] 김한규는 누구인가",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d3",
-            "url": "https://www.youtube.com/watch?v=14NZ0BSubPc",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-21T08:43:54.502000",
-            "duration": 148.0,
-            "title": "차기 도지사는?…김한규 19%, 오영훈 11% [여론조사] / KBS  2025.10.06.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d5",
-            "url": "https://www.youtube.com/watch?v=MEIIJmJ6p28",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:11.874000",
-            "duration": 186.0,
-            "title": "Ep.7 김한규 의원을 16시간 동안 따라다녀 봤다 #이재명 #대통령",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ac4a631fd1743497d5d9",
-            "url": "https://www.youtube.com/watch?v=GwGF1FlLriQ",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:12.761000",
-            "duration": 310.0,
-            "title": "김한규도 편법 농지 의혹 \"투기 아냐…깻잎 키운다\" | 뉴스A 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ee90887d07f7ba2fb3f0",
-            "url": "https://www.youtube.com/watch?v=qwI7JSWoIuc",
-            "HG_NM": "김한규",
-            "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-14T10:17:04.574000",
-            "duration": 671.0,
-            "title": "\"부총리 된 뒤 대통령 부인께 선물?\"...김한규의 면전 돌직구에...",
+            "collected_at": "2026-01-30T23:22:01.230000",
+            "duration": 575.0,
+            "title": "김한규, 이혜훈 답변 듣다 \"여당이라도 어떻게 옹호하냐\" [현장영상] / 채널A",
             "upload_date": null
         },
         {
@@ -768,15 +692,115 @@
             "upload_date": null
         },
         {
-            "_id": "6973265784596000289979a0",
-            "url": "https://www.youtube.com/watch?v=KIvydIO0prc",
+            "_id": "6966ee90887d07f7ba2fb3f0",
+            "url": "https://www.youtube.com/watch?v=qwI7JSWoIuc",
             "HG_NM": "김한규",
             "MONA_CD": "NUB4941Z",
-            "collected_at": "2026-01-23T16:42:12.761000",
-            "duration": 575.0,
-            "title": "김한규, 이혜훈 답변 듣다 \"여당이라도 어떻게 옹호하냐\" [현장영상] / 채널A",
+            "collected_at": "2026-01-14T10:17:04.574000",
+            "duration": 671.0,
+            "title": "\"부총리 된 뒤 대통령 부인께 선물?\"...김한규의 면전 돌직구에...",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5da",
+            "url": "https://www.youtube.com/watch?v=pNy4jG-iuG8",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-21T08:43:55.195000",
+            "duration": 1047.0,
+            "title": "[뉴스킹] 코인 의혹, 문제 있다면 \"길거리 노숙 불사!\" with 김한규_230511",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d9",
+            "url": "https://www.youtube.com/watch?v=GwGF1FlLriQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:22:01.230000",
+            "duration": 310.0,
+            "title": "김한규도 편법 농지 의혹 \"투기 아냐…깻잎 키운다\" | 뉴스A 라이브",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac2e631fd1743497d558",
+            "url": "https://www.youtube.com/watch?v=OPtuSlXPTo8",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 1552.0,
+            "title": "김한규 “계엄 직후 국힘 단톡방, 본회의 표결 얘기 없어” 김재섭 “계엄 날, 추경호 표결 방해 없었다” [한판승부]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d7",
+            "url": "https://www.youtube.com/watch?v=mOe-HylkugQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 87.0,
+            "title": "예고) 김한규 의원의 \"권리는 올리고 책임은 더하고” - 알면 당신도 법테랑 - 97회",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d6",
+            "url": "https://www.youtube.com/watch?v=hAJdc4gZxa4",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 61.0,
+            "title": "김한규 국회의원, '국회 개점휴업 방지법' 발의…\"업무공백 없어야\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d5",
+            "url": "https://www.youtube.com/watch?v=MEIIJmJ6p28",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 186.0,
+            "title": "Ep.7 김한규 의원을 16시간 동안 따라다녀 봤다 #이재명 #대통령",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d4",
+            "url": "https://www.youtube.com/watch?v=EtODqLMb5JQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-21T08:43:54.502000",
+            "duration": 465.0,
+            "title": "[뉴스파다 외전] 발표할 땐 135억 배럴...지금은 35억? 답답해서 고함치는 #김한규의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d3",
+            "url": "https://www.youtube.com/watch?v=14NZ0BSubPc",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 148.0,
+            "title": "차기 도지사는?…김한규 19%, 오영훈 11% [여론조사] / KBS  2025.10.06.",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d2",
+            "url": "https://www.youtube.com/watch?v=HyDUUuom3qs",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": 323.0,
+            "title": "[한큐위키] 김한규는 누구인가",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac4a631fd1743497d5d1",
+            "url": "https://www.youtube.com/watch?v=UCbSEuksiYgUh7rJmCt_C8sQ",
+            "HG_NM": "김한규",
+            "MONA_CD": "NUB4941Z",
+            "collected_at": "2026-01-30T23:21:59.638000",
+            "duration": null,
+            "title": "한큐에 김한규",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:20.015774"
+    "exported_at": "2026-01-30T23:35:50.443895"
 }

@@ -66,10 +66,10 @@
             "더불어민주당",
             "선거",
             "대상",
+            "대표",
             "계엄",
             "사과",
             "지방",
-            "대표",
             "사상",
             "신동"
         ],
@@ -111,6 +111,10 @@
                 "value": 12
             },
             {
+                "text": "대표",
+                "value": 10
+            },
+            {
                 "text": "계엄",
                 "value": 10
             },
@@ -123,10 +127,6 @@
                 "value": 9
             },
             {
-                "text": "대표",
-                "value": 9
-            },
-            {
                 "text": "사상",
                 "value": 9
             },
@@ -135,16 +135,16 @@
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:13.116040",
+        "last_analyzed_at": "2026-01-30T23:35:43.412119",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
@@ -153,11 +153,35 @@
                 0,
                 0,
                 0,
-                0
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2038b0cf4096976ac5",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585011?sid=100",
+            "created_at": "2026-01-30T23:16:00.254000",
+            "description": "윤 의원 외에 국회 부의장인 주호영(6선) 의원과 원내대표를 지낸 추경호(3선) 의원이 대구시장 출마를 선언한 상태다. 초선인 유영하·최은석 의원도 출마한다. 이곳은 홍준표 전 시장이 사임해 현역 경쟁자가 없는 데다... ",
+            "originallink": "https://www.sedaily.com/article/20003029?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-01-30T17:58:00",
+            "related_members": [
+                "G152611B",
+                "LH97552Q",
+                "8SV6917G",
+                "SLW27496",
+                "EPI69383",
+                "DMP1439I",
+                "JZV5283U",
+                "UF53617M",
+                "ZRF3039U",
+                "QWL7778X",
+                "KFM1081G",
+                "CGW7415Z"
+            ],
+            "title": "당 쪼개지는데 중진 ‘대구 출마’ 러시…각자도생 국힘의 민낯"
+        },
         {
             "_id": "69701232297082fcc2b34c33",
             "link": "https://n.news.naver.com/mnews/article/016/0002587851?sid=101",
@@ -710,13 +734,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960abdc631fd1743497d41b",
-            "url": "https://www.youtube.com/watch?v=U8lg3b8DWTQ",
+            "_id": "6960abdc631fd1743497d41d",
+            "url": "https://www.youtube.com/watch?v=aGq-SLy_O8M",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-13T09:43:19.940000",
-            "duration": 280.0,
-            "title": "9월 26일 새누리당 의원총회 김도읍 원내수석부대표 발언",
+            "collected_at": "2026-01-30T23:19:13.197000",
+            "duration": 184.0,
+            "title": "[이런뉴스] 결국 국힘 지도부 떠난 부산 4선 김도읍, 공식회의 마지막 말이 / KBS 2026.01.06.",
             "upload_date": null
         },
         {
@@ -724,7 +748,7 @@
             "url": "https://www.youtube.com/watch?v=yvUAjl69HnE",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:21.553000",
+            "collected_at": "2026-01-30T23:19:13.197000",
             "duration": 136.0,
             "title": "\"소임 여기까지\" 김도읍 사퇴로 장동혁 쇄신 압박…국힘, 윤리위 재가동 [굿모닝 MBN]",
             "upload_date": null
@@ -764,19 +788,9 @@
             "url": "https://www.youtube.com/watch?v=7kr0FfC1Gfo",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:20.836000",
+            "collected_at": "2026-01-30T23:19:11.693000",
             "duration": 143.0,
             "title": "[충돌] 김도읍 \"제대로 해!\" 서영교 \"나가세요!\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6965952a887d07f7ba2fabcd",
-            "url": "https://www.youtube.com/watch?v=7WfJSYiVSho",
-            "HG_NM": "김도읍",
-            "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-21T08:42:05.271000",
-            "duration": 119.0,
-            "title": "김도읍 정책위의장 사퇴…'장동혁 체제' 흔들리나 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -790,11 +804,21 @@
             "upload_date": null
         },
         {
+            "_id": "6965952a887d07f7ba2fabcd",
+            "url": "https://www.youtube.com/watch?v=7WfJSYiVSho",
+            "HG_NM": "김도읍",
+            "MONA_CD": "LH97552Q",
+            "collected_at": "2026-01-21T08:42:05.271000",
+            "duration": 119.0,
+            "title": "김도읍 정책위의장 사퇴…'장동혁 체제' 흔들리나 / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
             "_id": "6965952a887d07f7ba2fabcb",
             "url": "https://www.youtube.com/watch?v=L9VwT9yY-Ts",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:20.836000",
+            "collected_at": "2026-01-30T23:19:11.693000",
             "duration": 150.0,
             "title": "김도읍 “국힘, 동의 없었지만 불안·혼란 드려 송구”…계엄 사과 [현장영상]",
             "upload_date": null
@@ -804,7 +828,7 @@
             "url": "https://www.youtube.com/watch?v=Z6xKZkVs23g",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:20.836000",
+            "collected_at": "2026-01-30T23:19:11.693000",
             "duration": 111.0,
             "title": "[국감인물] \"되묻고 되물어야\"…'송곳' 질의 김도읍 의원 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -814,19 +838,19 @@
             "url": "https://www.youtube.com/watch?v=WOyQujdCBbg",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:21.553000",
+            "collected_at": "2026-01-30T23:19:13.197000",
             "duration": 141.0,
             "title": "장동혁 지도부 '첫 이탈' 나왔다…김도읍 정책위의장 사퇴 / JTBC 뉴스룸",
             "upload_date": null
         },
         {
-            "_id": "6960abdc631fd1743497d41d",
-            "url": "https://www.youtube.com/watch?v=aGq-SLy_O8M",
+            "_id": "6960abdc631fd1743497d41b",
+            "url": "https://www.youtube.com/watch?v=U8lg3b8DWTQ",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:21.553000",
-            "duration": 184.0,
-            "title": "[이런뉴스] 결국 국힘 지도부 떠난 부산 4선 김도읍, 공식회의 마지막 말이 / KBS 2026.01.06.",
+            "collected_at": "2026-01-13T09:43:19.940000",
+            "duration": 280.0,
+            "title": "9월 26일 새누리당 의원총회 김도읍 원내수석부대표 발언",
             "upload_date": null
         },
         {
@@ -854,19 +878,9 @@
             "url": "https://www.youtube.com/watch?v=5rY3QdjwOF8",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:20.836000",
+            "collected_at": "2026-01-30T23:19:11.693000",
             "duration": 154.0,
             "title": "법사위원장에 김도읍 내정…부산 의원 ‘중책’ / KBS  2022.07.21.",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abdc631fd1743497d415",
-            "url": "https://www.youtube.com/watch?v=Y12CLbJKVHc",
-            "HG_NM": "김도읍",
-            "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:21.553000",
-            "duration": 199.0,
-            "title": "[여담야담] '김도읍 사퇴'에 장동혁 리더십 흔들리나 / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -874,9 +888,19 @@
             "url": "https://www.youtube.com/watch?v=VczGnwpDvyA",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:20.836000",
+            "collected_at": "2026-01-30T23:19:11.693000",
             "duration": 143.0,
             "title": "“김도읍이 웬 말이냐”…“극우 색채 중화” / 채널A / 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abdc631fd1743497d415",
+            "url": "https://www.youtube.com/watch?v=Y12CLbJKVHc",
+            "HG_NM": "김도읍",
+            "MONA_CD": "LH97552Q",
+            "collected_at": "2026-01-30T23:19:13.197000",
+            "duration": 199.0,
+            "title": "[여담야담] '김도읍 사퇴'에 장동혁 리더십 흔들리나 / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
@@ -884,11 +908,11 @@
             "url": "https://www.youtube.com/watch?v=Gz7eWneDbRI",
             "HG_NM": "김도읍",
             "MONA_CD": "LH97552Q",
-            "collected_at": "2026-01-23T16:40:20.836000",
+            "collected_at": "2026-01-30T23:19:11.693000",
             "duration": 629.0,
             "title": "칭찬 97회, 김도읍 의원 (새누리당)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:13.116990"
+    "exported_at": "2026-01-30T23:35:43.412119"
 }

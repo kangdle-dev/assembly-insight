@@ -44,35 +44,39 @@
         "keywords": [
             "황정",
             "대전",
-            "기술",
             "쿠팡",
-            "한국",
             "더불어민주당",
+            "기술",
+            "한국",
+            "토론회",
             "박정현",
-            "민주당",
-            "박범계",
-            "정부",
-            "통합",
             "지역",
+            "박범계",
+            "민주당",
+            "통합",
+            "외국인",
             "박용",
-            "대통령",
-            "이재명"
+            "대표"
         ],
         "keyword_frequency": [
             {
                 "text": "황정",
-                "value": 51
+                "value": 56
             },
             {
                 "text": "대전",
-                "value": 19
-            },
-            {
-                "text": "기술",
-                "value": 13
+                "value": 20
             },
             {
                 "text": "쿠팡",
+                "value": 15
+            },
+            {
+                "text": "더불어민주당",
+                "value": 13
+            },
+            {
+                "text": "기술",
                 "value": 13
             },
             {
@@ -80,23 +84,23 @@
                 "value": 12
             },
             {
-                "text": "더불어민주당",
-                "value": 11
+                "text": "토론회",
+                "value": 10
             },
             {
                 "text": "박정현",
                 "value": 9
             },
             {
-                "text": "민주당",
-                "value": 9
+                "text": "지역",
+                "value": 8
             },
             {
                 "text": "박범계",
                 "value": 8
             },
             {
-                "text": "정부",
+                "text": "민주당",
                 "value": 8
             },
             {
@@ -104,45 +108,95 @@
                 "value": 8
             },
             {
-                "text": "지역",
-                "value": 7
+                "text": "외국인",
+                "value": 8
             },
             {
                 "text": "박용",
                 "value": 7
             },
             {
-                "text": "대통령",
-                "value": 6
-            },
-            {
-                "text": "이재명",
-                "value": 6
+                "text": "대표",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:53.460379",
+        "last_analyzed_at": "2026-01-30T23:36:24.410346",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                0,
-                0,
-                2,
-                0,
                 1,
                 1,
+                0,
+                0,
+                3,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1d38b0cf4096976a9a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013736098?sid=102",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "28일 더불어민주당 여수갑 지역위원회는 주철현 의원과 권향엽·김문수·문금주·조계원·황정아 국회의원이 공동 주최한 토론회를 통해 석유화학산업이 직면한 위기 대응을 넘어 미래를 준비하는 전환 전략을 모색했다.... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493951",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T18:10:00",
+            "related_members": [
+                "T6A6557F",
+                "T465023H",
+                "8TU8443O",
+                "86R9476S",
+                "EFU76868",
+                "GRP3908I"
+            ],
+            "title": "\"여수 석유화학, 고온 가스 실용화로 재도약\" 열띤 토론회"
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a9b",
+            "link": "https://n.news.naver.com/mnews/article/382/0001251507?sid=102",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "주철현 국회의원(전남 여수시갑)은 28일 전남 여수상공회의소 대회의실에서 ‘고온가스로(HTGR)를 활용한... 주철현 의원을 비롯해 권향엽·김문수·문금주·조계원·황정아 의원이 공동 주최한 이번 행사는 국가기간산업인... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260128/133250906/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-28T18:07:00",
+            "related_members": [
+                "T6A6557F",
+                "T465023H",
+                "8TU8443O",
+                "86R9476S",
+                "EFU76868",
+                "GRP3908I"
+            ],
+            "title": "주철현 의원 “석유화학 위기, ‘고온가스로’가 해법”"
+        },
+        {
+            "_id": "697cbd1d38b0cf4096976a9c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004110001?sid=102",
+            "created_at": "2026-01-30T23:15:57.539000",
+            "description": "주 의원과 권향엽(순천·광양·곡성·구례을)·김문수(순천·광양·곡성·구례갑)·문금주(고흥·보성·장흥·강진)·조계원(여수을)·황정아(대전 유성구을) 국회의원이 공동으로 주최한 이번 토론회는 석유화학산업이... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463372?utm_source=naver&utm_medium=article&utm_campaign=20260128050331",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-28T17:04:00",
+            "related_members": [
+                "T6A6557F",
+                "T465023H",
+                "8TU8443O",
+                "86R9476S",
+                "EFU76868",
+                "GRP3908I"
+            ],
+            "title": "주철현, 석화산업 부흥 위한 '고온가스로' 활용 토론회 개최"
+        },
         {
             "_id": "6976fced8459600028997f58",
             "link": "https://n.news.naver.com/mnews/article/079/0004108758?sid=102",
@@ -401,7 +455,7 @@
             "_id": "6964b542631fd17434996011",
             "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "더불어민주당 소속 국회의원들이 6일 미국의 베네수엘라 대상 군사 작전의 '절차적 하자'를 지적하는 내용의... 이재정·이주희·이해식·이훈기·임미애·임오경·임호선·장경태·전진숙·정태호·조계원·진성준·최민희... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
             "originallink": "https://www.hankyung.com/article/2026010644427",
             "press": "한국경제",
             "pubDate": "2026-01-06T14:33:00",
@@ -481,7 +535,7 @@
             "_id": "6964b542631fd17434996012",
             "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
             "created_at": "2026-01-12T17:48:00.015000",
-            "description": "민주당 의원(165명) 3분의 1 이상이 참여한 이번 성명은 국회 외교통일위원회 소속 이재강·이용선 의원이 주도했다. 정부가 미국과의 동맹 관계를 의식해 “우리 정부는 역내 긴장을 완화시키기 위해 모든 당사자들이... ",
+            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
             "press": "한겨레",
             "pubDate": "2026-01-06T11:58:00",
@@ -624,13 +678,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6966f087887d07f7ba2fb573",
-            "url": "https://www.youtube.com/watch?v=gxLmCB1LHAc",
+            "_id": "6966f087887d07f7ba2fb575",
+            "url": "https://www.youtube.com/watch?v=Gr6tZQvFEPI",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-14T10:25:27.483000",
-            "duration": 124.0,
-            "title": "[250820]황정아_국회의원_\"윤석열 정권, 대한민국 원전 기술의 미래를 팔았습니다\"",
+            "collected_at": "2026-01-30T23:35:13.472000",
+            "duration": 722.0,
+            "title": "황정아, 쿠팡 거짓말에 면전 돌직구..\"뻔뻔한 거짓말!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "697cc1a138b0cf4096976ef8",
+            "url": "https://www.youtube.com/watch?v=Pzm0UWohEow",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-30T23:35:13.472000",
+            "duration": 106.0,
+            "title": "[자막] 황정아 “오만방자한 외국인 즉시 위증 고발해야”··· 뻔뻔한 쿠팡 대표에 결국 분노 폭발",
             "upload_date": null
         },
         {
@@ -638,7 +702,7 @@
             "url": "https://www.youtube.com/watch?v=k5xe02gn_Rs",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
+            "collected_at": "2026-01-30T23:35:12.106000",
             "duration": 319.0,
             "title": "[251020]황정아_국회의원 \"서울시가 TBS 폐지 찬성 안했다?무책임한 오세훈, 위증한 김병민\"",
             "upload_date": null
@@ -648,7 +712,7 @@
             "url": "https://www.youtube.com/watch?v=cZPYPdTQDCA",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
+            "collected_at": "2026-01-30T23:35:12.106000",
             "duration": 320.0,
             "title": "[251021]황정아_국회의원 \"KT,겉으로는 ‘죄송’, 속으로는 ‘음흉’ 피해고객 배상안 전 고객 보상안 즉시 마련하십시오\"",
             "upload_date": null
@@ -664,6 +728,16 @@
             "upload_date": null
         },
         {
+            "_id": "6968b297297082fcc2b1917e",
+            "url": "https://www.youtube.com/watch?v=49EA89EdhXc",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-30T23:35:12.106000",
+            "duration": 402.0,
+            "title": "[251030]황정아_국회의원 \"문화가 전략자산인 대한민국, 넷플릭스도 한국 투자 늘려, 함께 성장합시다\"",
+            "upload_date": null
+        },
+        {
             "_id": "6968b297297082fcc2b1917d",
             "url": "https://www.youtube.com/watch?v=LDvqT5MdO0c",
             "HG_NM": "황정아",
@@ -671,16 +745,6 @@
             "collected_at": "2026-01-18T13:22:31.308000",
             "duration": 469.0,
             "title": "[251029]황정아_국회의원 \"이재명 정부 국정기조에 벤처스타트업 투자 급증, AI 성장만이 대한민국 위기 극복의 핵심 키\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b297297082fcc2b1917e",
-            "url": "https://www.youtube.com/watch?v=49EA89EdhXc",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
-            "duration": 402.0,
-            "title": "[251030]황정아_국회의원 \"문화가 전략자산인 대한민국, 넷플릭스도 한국 투자 늘려, 함께 성장합시다\"",
             "upload_date": null
         },
         {
@@ -694,23 +758,23 @@
             "upload_date": null
         },
         {
-            "_id": "6966f087887d07f7ba2fb575",
-            "url": "https://www.youtube.com/watch?v=Gr6tZQvFEPI",
-            "HG_NM": "황정아",
-            "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:05.197000",
-            "duration": 722.0,
-            "title": "황정아, 쿠팡 거짓말에 면전 돌직구..\"뻔뻔한 거짓말!\"",
-            "upload_date": null
-        },
-        {
             "_id": "6966f087887d07f7ba2fb574",
             "url": "https://www.youtube.com/watch?v=q0ZTI5Rt8G8",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
+            "collected_at": "2026-01-30T23:35:12.106000",
             "duration": 658.0,
             "title": "[240725] 황정아_국회의원_\"방송은 국민의 자산이라면서, 후보자는 왜 사적으로 유용합니까?\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6966f087887d07f7ba2fb573",
+            "url": "https://www.youtube.com/watch?v=gxLmCB1LHAc",
+            "HG_NM": "황정아",
+            "MONA_CD": "T6A6557F",
+            "collected_at": "2026-01-30T23:35:12.106000",
+            "duration": 124.0,
+            "title": "[250820]황정아_국회의원_\"윤석열 정권, 대한민국 원전 기술의 미래를 팔았습니다\"",
             "upload_date": null
         },
         {
@@ -718,7 +782,7 @@
             "url": "https://www.youtube.com/watch?v=UCE5VagVuegulPQjsszy-OYA",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
+            "collected_at": "2026-01-30T23:35:12.106000",
             "duration": null,
             "title": "황정아TV",
             "upload_date": null
@@ -738,7 +802,7 @@
             "url": "https://www.youtube.com/watch?v=WqXZf1tldio",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:05.197000",
+            "collected_at": "2026-01-30T23:35:13.472000",
             "duration": 829.0,
             "title": "김어준의 겸손은힘들다 뉴스공장  2024.01.29 황정아박사 출연 편집본",
             "upload_date": null
@@ -748,7 +812,7 @@
             "url": "https://www.youtube.com/watch?v=cLEHD7I0DDg",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:05.197000",
+            "collected_at": "2026-01-30T23:35:13.472000",
             "duration": 830.0,
             "title": "[현장영상] \"국정원 지시\" 쿠팡 주장에…황정아 종이 '쓱' 꺼내 들더니 / JTBC News",
             "upload_date": null
@@ -768,7 +832,7 @@
             "url": "https://www.youtube.com/watch?v=o9LxbpNtANc",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:05.197000",
+            "collected_at": "2026-01-30T23:35:13.472000",
             "duration": 601.0,
             "title": "“대표가 매출 하락도 모르겠다?” 황정아 의원 제대로 날 잡았다",
             "upload_date": null
@@ -788,7 +852,7 @@
             "url": "https://www.youtube.com/watch?v=Leqt2fQhrCY",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
+            "collected_at": "2026-01-30T23:35:12.106000",
             "duration": 411.0,
             "title": "[현장영상] 이진숙 방통위원장 국감 출석 … 쏟아지는 황정아 의원 질문에 시종일관 '당당' / 채널A",
             "upload_date": null
@@ -798,11 +862,11 @@
             "url": "https://www.youtube.com/watch?v=amlnMxTN8kg",
             "HG_NM": "황정아",
             "MONA_CD": "T6A6557F",
-            "collected_at": "2026-01-23T16:51:04.364000",
+            "collected_at": "2026-01-30T23:35:12.106000",
             "duration": 271.0,
             "title": "[250714] 황정아 국회의원_\"AI강국, 전격적인 속도전에 나서야 합니다\"_ 배경훈_과기부장관_후보자_인청",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:53.460379"
+    "exported_at": "2026-01-30T23:36:24.410346"
 }

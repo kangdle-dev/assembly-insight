@@ -52,107 +52,351 @@
     },
     "analysis": {
         "keywords": [
-            "통합",
             "전북",
             "완주",
             "반도체",
-            "전주",
             "더불어민주당",
-            "도지사",
+            "전주",
+            "통합",
             "위원장",
-            "찬성",
-            "용인",
-            "이전",
             "새만금",
-            "선거",
+            "용인",
+            "수상",
+            "태양광",
+            "도지사",
+            "계통",
             "회견",
-            "파격"
+            "이전"
         ],
         "keyword_frequency": [
             {
-                "text": "통합",
-                "value": 48
-            },
-            {
                 "text": "전북",
-                "value": 43
+                "value": 45
             },
             {
                 "text": "완주",
-                "value": 33
-            },
-            {
-                "text": "반도체",
-                "value": 29
-            },
-            {
-                "text": "전주",
                 "value": 28
             },
             {
-                "text": "더불어민주당",
-                "value": 19
+                "text": "반도체",
+                "value": 22
             },
             {
-                "text": "도지사",
+                "text": "더불어민주당",
+                "value": 20
+            },
+            {
+                "text": "전주",
+                "value": 18
+            },
+            {
+                "text": "통합",
                 "value": 18
             },
             {
                 "text": "위원장",
-                "value": 13
+                "value": 16
             },
             {
-                "text": "찬성",
-                "value": 13
+                "text": "새만금",
+                "value": 14
             },
             {
                 "text": "용인",
                 "value": 13
             },
             {
-                "text": "이전",
+                "text": "수상",
                 "value": 13
             },
             {
-                "text": "새만금",
-                "value": 12
+                "text": "태양광",
+                "value": 13
             },
             {
-                "text": "선거",
-                "value": 10
+                "text": "도지사",
+                "value": 13
+            },
+            {
+                "text": "계통",
+                "value": 11
             },
             {
                 "text": "회견",
                 "value": 10
             },
             {
-                "text": "파격",
-                "value": 9
+                "text": "이전",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:32.117035",
+        "last_analyzed_at": "2026-01-30T23:36:03.198694",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                4,
+                0,
+                0,
+                2,
+                3,
                 7,
                 4,
-                1,
-                0,
-                0,
-                2
+                3
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd1e38b0cf4096976aa9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008743515?sid=100",
+            "created_at": "2026-01-30T23:15:58.178000",
+            "description": "11:00 조배숙 의원, [22대 국회 차별금지법 발의 반대 기자회견] 11:40 김성회 의원, [진실 화해를 위한 과거사 정리기본법 본회의 통과 환영 성명 발표 기자회견] 13:40 김현 의원, [더불어민주당 국민소통위원회... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6056044",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T05:00:00",
+            "related_members": [
+                "X1K3667J",
+                "88O1334C",
+                "7YL9580G",
+                "L5P27909",
+                "IWK63872",
+                "57B28032",
+                "XEF29171",
+                "D9I3309M",
+                "51A45980",
+                "6K79158C"
+            ],
+            "title": "[오늘의 국회일정] (30일, 금)"
+        },
+        {
+            "_id": "697cbd1e38b0cf4096976aa8",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738930?sid=100",
+            "created_at": "2026-01-30T23:15:58.178000",
+            "description": "11:00 조배숙 의원, [22대 국회 차별금지법 발의 반대 기자회견] 11:40 김성회 의원, [진실화해를위한과거사정리기본법 본회의 통과 환영 성명 발표 기자회견] 13:40 김현 의원, [더불어민주당 국민소통위원회... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495872",
+            "press": "뉴시스",
+            "pubDate": "2026-01-30T05:00:00",
+            "related_members": [
+                "X1K3667J",
+                "D9I3309M",
+                "88O1334C",
+                "7YL9580G",
+                "L5P27909",
+                "IWK63872",
+                "57B28032",
+                "XEF29171",
+                "51A45980",
+                "6K79158C"
+            ],
+            "title": "[오늘의 주요일정]국회(1월30일 금요일)"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c35",
+            "link": "https://n.news.naver.com/mnews/article/021/0002767537?sid=100",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "운동본부는 “최근 안호영 국회의원이 수년간 답보 상태였던 새만금 수상태양광 계통 연결 문제를 해결하며 SK 데이터센터 사업 재개의 물꼬를 텄다”며 “이를 완성하기 위해서는 특정 정치인 개인의 노력을 넘어선... ",
+            "originallink": "https://www.munhwa.com/article/11564772?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-30T00:44:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "李가 선 그었지만 “용인 반도체 전북 이전” 전북서 4만명 서명"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c36",
+            "link": "https://n.news.naver.com/mnews/article/659/0000040923?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "◀리포트▶ 도지사 출마를 선언한 이원택 국회의원이 지난해 수능 응원을 명목으로 곳곳에 내건 현수기. 문화·예술 공연 등에 한해서만 걸 수 있는 현수기를 구청의 허가도 받지 않고 무단으로 게시했다 논란이 됐습니다.... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/61971",
+            "press": "MBC",
+            "pubDate": "2026-01-29T20:20:00",
+            "related_members": [
+                "XEF29171",
+                "DAV7257X"
+            ],
+            "title": "\"현수기에 정치인 북콘서트까지\".. 행안부, 꼼수 관행에 '제동'"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c37",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107136&s_mcd=0433&s_hcd=01",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "안호영 의원이 전라북도지사 꿈꾸면서 계속 주장을 하는... 안호영 의원 지역구 중에 하나가 전북... 그러면 완주의 국회의원이나 익산에서 익산시장을 꿈꾸는 분은 빨리 ‘우리 지역에 국가 산단 후보지로 지정된 곳, 그... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107136&s_mcd=0433&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-01-29T14:30:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "\"반도체가 파전입니까? 갈라 먹게?\" 용인시장, 李대통령에 공개 호소"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c38",
+            "link": "https://n.news.naver.com/mnews/article/052/0002307548?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "안호영 의원이 전라북도지사 꿈꾸면서 계속 주장을 하는... 안호영 의원 지역구 중에 하나가 전북... 그러면 완주의 국회의원이나 익산에서 익산시장을 꿈꾸는 분은 빨리 '우리 지역에 국가 산단 후보지로 지정된 곳, 그... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202601291207321280",
+            "press": "YTN",
+            "pubDate": "2026-01-29T12:07:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "\"반도체가 파전입니까? 갈라 먹게?\" 용인시장, 李대통령에 공개 호소"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c39",
+            "link": "https://n.news.naver.com/mnews/article/421/0008741608?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "전북도지사 출마를 예고한 안호영 더불어민주당 의원(완주·진안·무주)이 정부의 '5극 3특 국가균형발전 전략... 안 의원은 정부와 국회에 △특별자치도를 '특별광역권'으로 지정해 5극에 준하는 재정 인센티브를 보장할 것... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6055056",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T10:52:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "안호영 의원 \"5극 중심 설계, 전북특별자치도 역차별\""
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3a",
+            "link": "https://n.news.naver.com/mnews/article/056/0012114036?sid=101",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "[안호영/의원/국회 기후에너지환경노동위원회 위원장 : \"지금 계획돼 있는 송변전 사업 54개 중에서 3분의1 정도가 지연중에 있고 또 동해안에서 수도권으로 오는 송전선로가 하남 동서울변전소로 오는데 그게 지금... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471121&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-28T13:13:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“2050년까지 천 조 원 투자”…“계획 재검토 여지 있어”"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013734991?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "이날 추모식에는 윤준병 도당위원장을 비롯해 안호영·이원택 국회의원, 송태규 익산시 갑 지역위원장 등이 참석했다. 또 정읍·김제·완주·무주·장수·순창·고창 등 도내 시·군 단체장을 비롯한 당 주요 인사들이... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493211",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T13:05:00",
+            "related_members": [
+                "DAV7257X",
+                "XEF29171",
+                "JC14718Q"
+            ],
+            "title": "전북서 '이해찬 상임고문' 합동 추모…국회의원·시군 단체장 참석"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3c",
+            "link": "https://n.news.naver.com/mnews/article/659/0000040866?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "운동본부는 \"최근 안호영 국회의원이 수년간 답보 상태였던 새만금 수상태양광 계통 연결 문제를 해결하며 SK 데이터센터 사업 재개의 물꼬를 텄다\"며 \"이를 완성하기 위해서는 특정 정치인 개인의 노력을 넘어선 전북도... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/61914",
+            "press": "MBC",
+            "pubDate": "2026-01-28T12:05:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "'용인 반도체 전북 이전'에 4만 명 서명...10만 명 목표"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004109802?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "이날 추모식에는 윤준병 도당위원장을 비롯해 안호영 국회의원, 이원택 국회의원, 송태규 익산시 갑 지역위원장 등이 참석했다. 도내 시·군 단체장을 비롯한 당 주요 인사들이 함께하며 고인을 기렸다. 참석자들은... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463106?utm_source=naver&utm_medium=article&utm_campaign=20260128113227",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-28T11:33:00",
+            "related_members": [
+                "DAV7257X",
+                "XEF29171",
+                "JC14718Q"
+            ],
+            "title": "민주당 전북도당, 고 이해찬 전 총리 합동 추모식"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004109789?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "전북유치추진위는 이날 전북도의회에서 기자회견을 열어 \"전북 대도약과 산업 대전환을 향한 도민들의 갈망이 얼마나 뜨거운지를 증명하는 수치\"라며 \"안호영 국회의원의 성과를 넘어 전북도와 정치권이 함께 뭉친... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6463086?utm_source=naver&utm_medium=article&utm_campaign=20260128112127",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-28T11:22:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "반도체 전북유치추진위 \"범도민 서명, 한달 만에 4만명 참여\""
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c3f",
+            "link": "https://n.news.naver.com/mnews/article/421/0008738918?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "운동본부는 \"최근 안호영 국회의원이 수년간 답보 상태였던 새만금 수상태양광 계통 연결 문제를 해결하며 SK 데이터센터 사업 재개의 물꼬를 텄다\"며 \"이를 완성하기 위해서는 특정 정치인 개인의 노력을 넘어선 전북도... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6053593",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T10:52:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "李대통령 선 그었는데도…전북서 \"용인 반도체 전북 이전\" 4만명 서명"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c40",
+            "link": "https://n.news.naver.com/mnews/article/003/0013734589?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "최근 안호영 국회의원이 수년간 답보 상태였던 새만금 수상태양광 계통 연결 문제를 해결하며 SK 데이터센터 사업 재개의 물꼬를 텄지만, 이를 완성하기 위해서는 특정 정치인 개인의 노력을 넘어선 도 차원의 전방위적... ",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003493030",
+            "press": "뉴시스",
+            "pubDate": "2026-01-28T10:48:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "전북 42개 시민단체 \"반도체 클러스터 유치에 결집해야\""
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c41",
+            "link": "https://n.news.naver.com/mnews/article/056/0012113589?sid=101",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "[안호영/의원/국회 기후에너지환경노동위원회 위원장 : \"지금 계획돼 있는 송변전 사업 54개 중에서 3분의1 정도가 지연중에 있고 또 동해안에서 수도권으로 오는 송전선로가 하남 동서울변전소로 오는데 그게 지금... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8470488&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-27T21:40:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“2050년까지 천 조 원 투자”…“계획 재검토 여지 있어”"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c42",
+            "link": "https://n.news.naver.com/mnews/article/659/0000040844?sid=102",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "[안호영 국회의원] \"용인에서 송전탑 갈등으로 10년 걸릴 일을 전북은 3년 안에 해낼 준비가 된 것입니다. 용인 반도체는 전북으로 와야 합니다. 수상태양광 계통 연결은 그 시작입니다.\" 정부도 에너지 정책 대전환을... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/61892",
+            "press": "MBC",
+            "pubDate": "2026-01-27T20:12:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "'새만금 수상태양광' 8년 만에 물꼬 트이나?"
+        },
+        {
+            "_id": "697cbd4838b0cf4096976c43",
+            "link": "https://n.news.naver.com/mnews/article/056/0012113468?sid=101",
+            "created_at": "2026-01-30T23:16:40.666000",
+            "description": "[안호영/의원/국회 기후에너지환경노동위원회 위원장 : \"지금 계획돼 있는 송변전 사업 54개 중에서 3분의1 정도가 지연중에 있고 또 동해안에서 수도권으로 오는 송전선로가 하남 동서울변전소로 오는데 그게 지금... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8470294&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-27T19:21:00",
+            "related_members": [
+                "XEF29171"
+            ],
+            "title": "“2050년까지 천 조 원 투자”…“계획 재검토 여지 있어”"
+        },
         {
             "_id": "6976fd128459600028998036",
             "link": "https://n.news.naver.com/mnews/article/421/0008734570?sid=102",
@@ -329,252 +573,6 @@
                 "IWK63872"
             ],
             "title": "[Who's who?] 더불어민주당 신임 원내대표 ‘한병도’는 누구?"
-        },
-        {
-            "_id": "6972d21b84596000289977b0",
-            "link": "https://n.news.naver.com/mnews/article/056/0012109247?sid=100",
-            "created_at": "2026-01-23T10:42:49.176000",
-            "description": "이원택 국회의원은 통합 필요성을 강조하면서도 어려울 경우 전주와 김제, 부안, 군산의 통합안도 검토할 수 있다고 밝혔습니다. 안호영 국회의원은 그간 주민들 의사를 존중할 뿐 통합을 반대한 적 없다고 했지만, 사실상... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464582&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-21T07:34:00",
-            "related_members": [
-                "XEF29171",
-                "DAV7257X"
-            ],
-            "title": "전국적 통합 특수 여파…전북도지사 선거 의제도 ‘통합’"
-        },
-        {
-            "_id": "69701233297082fcc2b34c3b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108940?sid=100",
-            "created_at": "2026-01-21T08:39:29.688000",
-            "description": "이원택 국회의원은 통합 필요성을 강조하면서도 어려울 경우 전주와 김제, 부안, 군산의 통합안도 검토할 수 있다고 밝혔습니다. 안호영 국회의원은 그간 주민들 의사를 존중할 뿐 통합을 반대한 적 없다고 했지만, 사실상... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464284&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-20T21:37:00",
-            "related_members": [
-                "DAV7257X",
-                "MLH1404S",
-                "XEF29171"
-            ],
-            "title": "전국적 통합 특수 여파…전북도지사 선거 의제도 ‘통합’"
-        },
-        {
-            "_id": "69701258297082fcc2b34d17",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108779?sid=100",
-            "created_at": "2026-01-21T08:40:07.026000",
-            "description": "완주전주통합추진연합회 등 6개 완주-전주 통합 찬성 단체는, 전국적으로 광역단체 통합 논의가 급물살을 타면서 전북이 소멸 위기에 놓였다며 안호영 국회의원과 완주군의원이 통합을 위한 결단을 해야 한다고... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464089&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-20T19:15:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "“안호영 국회의원·완주군의원 통합 결단해야”"
-        },
-        {
-            "_id": "69701233297082fcc2b34c3d",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108777?sid=100",
-            "created_at": "2026-01-21T08:39:29.688000",
-            "description": "이원택 국회의원은 통합 필요성을 강조하면서도 어려울 경우 전주와 김제, 부안, 군산의 통합안도 검토할 수 있다고 밝혔습니다. 안호영 국회의원은 그간 주민들 의사를 존중할 뿐 통합을 반대한 적 없다고 했지만, 사실상... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464075&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-20T19:12:00",
-            "related_members": [
-                "DAV7257X",
-                "MLH1404S",
-                "XEF29171"
-            ],
-            "title": "전국적 통합 특수 여파…전북도지사 선거 의제도 ‘통합’"
-        },
-        {
-            "_id": "69701258297082fcc2b34d18",
-            "link": "https://n.news.naver.com/mnews/article/421/0008724290?sid=102",
-            "created_at": "2026-01-21T08:40:07.026000",
-            "description": "완주·전주 행정통합 찬성 시민사회 단체들이 완주를 지역구로 둔 안호영 국회의원의 결단을 촉구하고... 투표 결정 권한을 가진 윤호중 행안부 장관이 원론적인 입장만을 밝히면서다. 주민투표 일정이 끝내 확정되지... ",
-            "originallink": "https://www.news1.kr/local/jeonbuk/6044954",
-            "press": "뉴스1",
-            "pubDate": "2026-01-20T15:04:00",
-            "related_members": [
-                "XEF29171",
-                "M0A1658U"
-            ],
-            "title": "완주·전주 통합 찬성 단체들 \"이번이 마지막…안호영 의원, 결단해야\""
-        },
-        {
-            "_id": "69701258297082fcc2b34d19",
-            "link": "https://n.news.naver.com/mnews/article/421/0008722384?sid=102",
-            "created_at": "2026-01-21T08:40:07.026000",
-            "description": "진안군은 19일 국회를 방문해 전북지역 국회의원실 보좌진들과 면담하고 지역 현안 사업에 대한 적극적인... 이경영 부군수 등 진안군 관계자들은 한병도 의원실, 윤준병 의원실, 안호영 의원실 등을 차례로 방문해... ",
-            "originallink": "https://www.news1.kr/local/jeonbuk/6043803",
-            "press": "뉴스1",
-            "pubDate": "2026-01-19T16:18:00",
-            "related_members": [
-                "JC14718Q",
-                "H5476989",
-                "XEF29171"
-            ],
-            "title": "진안군, 국회 보좌진들 만나 양수발전소 유치 등 현안 논의"
-        },
-        {
-            "_id": "69701238297082fcc2b34c69",
-            "link": "https://n.news.naver.com/mnews/article/003/0013717724?sid=102",
-            "created_at": "2026-01-21T08:39:34.439000",
-            "description": "정세균 전 국무총리와 송하진 전 전북도지사, 한병도 민주당 원내대표, 문정복 민주당 최고위원, 윤준병 민주당 전북도당위원장, 맹성규 국회 국토교통위원장, 박범계·김영진·안호영 국회의원, 김홍국 하림 회장, 김용 전... ",
-            "originallink": "https://www.newsis.com/view/NISX20260119_0003481759",
-            "press": "뉴시스",
-            "pubDate": "2026-01-19T11:36:00",
-            "related_members": [
-                "H5476989",
-                "XEF29171",
-                "5765663F",
-                "GOC54665",
-                "JC14718Q",
-                "7R156073",
-                "FJK3396E",
-                "DAV7257X"
-            ],
-            "title": "최정호 전 국토부 차관, 출판기념회 \"익산대전환, 지금\""
-        },
-        {
-            "_id": "696c5bf4297082fcc2b19b99",
-            "link": "https://n.news.naver.com/mnews/article/003/0013714703?sid=102",
-            "created_at": "2026-01-18T13:05:08.797000",
-            "description": "이원택 국회의원은 현장에서 축사를 전했고, 김윤덕 국토교통부 장관과 한병도·이성윤·안호영 국회의원은 영상 축사를 통해 축하 인사를 전했다. 올해 동문대상은 김양수 한국기초과학지원연구원 책임연구원이... ",
-            "originallink": "https://www.newsis.com/view/NISX20260116_0003479645",
-            "press": "뉴시스",
-            "pubDate": "2026-01-16T13:20:00",
-            "related_members": [
-                "JZY9937U",
-                "N2P9317N",
-                "XEF29171",
-                "H5476989",
-                "5N65159P",
-                "DAV7257X"
-            ],
-            "title": "전북대 총동창회, '신년교례회' 개최…새해 도약 다짐"
-        },
-        {
-            "_id": "6968adb0297082fcc2b18d7e",
-            "link": "https://n.news.naver.com/mnews/article/016/0002586192?sid=100",
-            "created_at": "2026-01-15T18:04:45.028000",
-            "description": "안호영 의원실 제공 안호영 더불어민주당 국회의원은 ‘작지만 중요한 공약’ 시리즈 두 번째로, 전라북도 도립·군립공원 일부 구간에 반려동물 동반 출입을 제한적으로 허용하는 공약을 15일 발표했다. 안 의원 이번... ",
-            "originallink": "https://biz.heraldcorp.com/article/10656044?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-15T11:05:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "안호영 의원 “반려동물의 도립·군립공원 동반 출입 추진”"
-        },
-        {
-            "_id": "6968ad9a297082fcc2b18d3f",
-            "link": "https://n.news.naver.com/mnews/article/032/0003421670?sid=100",
-            "created_at": "2026-01-15T18:04:23.294000",
-            "description": "국회 국토교통위원장인 맹성규 민주당 의원은 지난 12일 페이스북에 “용인이든 새만금이든 제3의 지역이든 (전력 수요를) 안정적으로 감당할 수 있는지 검증은 반드시 필요하다”며 “당과 정부의 보다 적극적인 조정... ",
-            "originallink": "https://www.khan.co.kr/article/202601150600031",
-            "press": "경향신문",
-            "pubDate": "2026-01-15T06:00:00",
-            "related_members": [
-                "FJK3396E",
-                "XEF29171",
-                "JC14718Q",
-                "FYI20317",
-                "JG77046J",
-                "BCQ55105"
-            ],
-            "title": "청와대 “검토 안 해” 발표에도…여당 일각 ‘용인 반도체 이전’ 계속..."
-        },
-        {
-            "_id": "6968adb0297082fcc2b18d7f",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104770?sid=102",
-            "created_at": "2026-01-15T18:04:45.028000",
-            "description": "[안호영/민주당 국회의원 : \"용인 반도체 사업은 되돌릴 수 없는 단계가 아닙니다. SK 팹 1기를 제외하면 90% 이상이 아직 계획 단계로 입지 변경은 충분히 가능합니다.\"] 안 의원은 특히 용인의 전력과 용수로는 삼성전자의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8458546&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-14T11:08:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "“반도체 전북 이전 근거 충분”…남부권 벨트에 전주 포함도"
-        },
-        {
-            "_id": "6966ec9c887d07f7ba2fb30b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104224?sid=101",
-            "created_at": "2026-01-14T10:08:45.265000",
-            "description": "[안호영/민주당 국회의원 : \"용인 반도체 사업은 되돌릴 수 없는 단계가 아닙니다. SK 팹 1기를 제외하면 90% 이상이 아직 계획 단계로 입지 변경은 충분히 가능합니다.\"] 안 의원은 특히 용인의 전력과 용수로는 삼성전자의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457993&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-13T21:42:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "“반도체 전북 이전 근거 충분”…남부권 벨트에 전주 포함도"
-        },
-        {
-            "_id": "6966ec9c887d07f7ba2fb30c",
-            "link": "https://n.news.naver.com/mnews/article/659/0000040398?sid=102",
-            "created_at": "2026-01-14T10:08:45.265000",
-            "description": "[안호영 / 더불어민주당 국회의원(국회 기후에너지환경노동위원장)] \"만약에 전북이 3~4년 내 (반도체) 공장 가동이 확실한 현실적인 대안을 제시한다면, 삼성전자 역시 입지 조정을 검토하지 않을 이유가 없을 것입니다... ",
-            "originallink": "http://www.jmbc.co.kr/news/view/61448",
-            "press": "MBC",
-            "pubDate": "2026-01-13T20:00:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "반도체 클러스터 갈등 진정 국면.. 새만금 준비가 관건"
-        },
-        {
-            "_id": "6966ec9c887d07f7ba2fb30d",
-            "link": "https://n.news.naver.com/mnews/article/056/0012104056?sid=101",
-            "created_at": "2026-01-14T10:08:45.265000",
-            "description": "[안호영/민주당 국회의원 : \"용인 반도체 사업은 되돌릴 수 없는 단계가 아닙니다. SK 팹 1기를 제외하면 90% 이상이 아직 계획 단계로 입지 변경은 충분히 가능합니다.\"] 안 의원은 특히 용인의 전력과 용수로는 삼성전자의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8457752&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-13T19:09:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "“반도체 전북 이전 근거 충분”…남부권 벨트에 전주 포함도"
-        },
-        {
-            "_id": "6966ec9c887d07f7ba2fb30e",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706993?sid=102",
-            "created_at": "2026-01-14T10:08:45.266000",
-            "description": "안호영(완주·진안·무주) 국회의원이 '반도체 클러스터 새만금 이전론'과 관련해 \"용인 반도체 리스크 점검과 함께 지방에 배치할 준비를 해야한다\"고 밝혔다. 안 의원은 13일 전북특별자치도의회에서 기자회견을 열고... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003474688",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T10:24:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "안호영 \"용인 반도체 리스크 점검하고 지방배치 준비해야\""
-        },
-        {
-            "_id": "6966ec9c887d07f7ba2fb30f",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706951?sid=102",
-            "created_at": "2026-01-14T10:08:45.266000",
-            "description": "더불어민주당 안호영(완주·진안·무주) 국회의원이 13일 전북 전주시 전북특별자치도의회 기자회견장에서 '용인 반도체 삼성전자 이전'과 관련한 기자회견을 열고 질의에 답변하고 있다. 2026.01.13. pmkeul... ",
-            "originallink": "https://www.newsis.com/view/NISI20260113_0021124688",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T10:19:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "용인 반도체 관련 기자회견 연 안호영 국회의원"
-        },
-        {
-            "_id": "6966ec9c887d07f7ba2fb310",
-            "link": "https://n.news.naver.com/mnews/article/003/0013706952?sid=102",
-            "created_at": "2026-01-14T10:08:45.266000",
-            "description": "더불어민주당 안호영(완주·진안·무주) 국회의원이 13일 전북 전주시 전북특별자치도의회 기자회견장에서 '용인 반도체 삼성전자 이전'과 관련한 기자회견을 열고 질의에 답변하고 있다. 2026.01.13. pmkeul... ",
-            "originallink": "https://www.newsis.com/view/NISI20260113_0021124667",
-            "press": "뉴시스",
-            "pubDate": "2026-01-13T10:19:00",
-            "related_members": [
-                "XEF29171"
-            ],
-            "title": "안호영 의원 '새만금 반도체가 해법이다!'"
         }
     ],
     "recent_videos": [
@@ -583,9 +581,39 @@
             "url": "https://www.youtube.com/watch?v=MSXQhxrxlx8",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:23.638000",
+            "collected_at": "2026-01-30T23:26:55.408000",
             "duration": 604.0,
             "title": "인터뷰 릴레이 칭찬 232회 안호영 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f5",
+            "url": "https://www.youtube.com/watch?v=BDExWP0klaQ",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-30T23:26:55.408000",
+            "duration": 597.0,
+            "title": "제20대 국회 인터뷰 릴레이 칭찬 173회 안호영 의원 더불어민주당",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f6",
+            "url": "https://www.youtube.com/watch?v=zxm2dvSjArU",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-30T23:26:55.408000",
+            "duration": 61.0,
+            "title": "[국회의원 안호영] 즐거운 한가위 되세요",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad11631fd1743497d8f7",
+            "url": "https://www.youtube.com/watch?v=nCHXlbv7K6o",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-30T23:26:56.836000",
+            "duration": 1116.0,
+            "title": "[뉴스하이킥] 환노위원장 민주 안호영 \"'쿠팡 봐주기 의혹' 검사는 윤석열 사단 핵심...정확히 감찰해봐야\" - 안호영, MBC 251002 방송",
             "upload_date": null
         },
         {
@@ -599,26 +627,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad11631fd1743497d8f5",
-            "url": "https://www.youtube.com/watch?v=BDExWP0klaQ",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:23.638000",
-            "duration": 597.0,
-            "title": "제20대 국회 인터뷰 릴레이 칭찬 173회 안호영 의원 더불어민주당",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad11631fd1743497d8f6",
-            "url": "https://www.youtube.com/watch?v=zxm2dvSjArU",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:23.638000",
-            "duration": 61.0,
-            "title": "[국회의원 안호영] 즐거운 한가위 되세요",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad11631fd1743497d8f9",
             "url": "https://www.youtube.com/watch?v=wr5U2PAavRk",
             "HG_NM": "안호영",
@@ -629,21 +637,11 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad11631fd1743497d8f7",
-            "url": "https://www.youtube.com/watch?v=nCHXlbv7K6o",
-            "HG_NM": "안호영",
-            "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:24.404000",
-            "duration": 1116.0,
-            "title": "[뉴스하이킥] 환노위원장 민주 안호영 \"'쿠팡 봐주기 의혹' 검사는 윤석열 사단 핵심...정확히 감찰해봐야\" - 안호영, MBC 251002 방송",
-            "upload_date": null
-        },
-        {
             "_id": "6965962a887d07f7ba2fad1e",
             "url": "https://www.youtube.com/watch?v=h-DMg_vOB4g",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:24.404000",
+            "collected_at": "2026-01-30T23:26:56.836000",
             "duration": 727.0,
             "title": "[초대석] 쿠팡 총공세…안호영 민주당 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -653,7 +651,7 @@
             "url": "https://www.youtube.com/watch?v=l-68sA_pR4M",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:24.404000",
+            "collected_at": "2026-01-30T23:26:56.836000",
             "duration": 916.0,
             "title": "[1번지초대석] 국감 달군 '과로사·쿠팡 일용직' 이슈…안호영 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -663,7 +661,7 @@
             "url": "https://www.youtube.com/watch?v=uRL5DjtEjmo",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:23.638000",
+            "collected_at": "2026-01-30T23:26:55.408000",
             "duration": 1685.0,
             "title": "[지자체를말한다]국회의원 안호영 편",
             "upload_date": null
@@ -707,7 +705,27 @@
             "duration": 1541.0,
             "title": "[뉴스레터K] 용인 반도체 클러스터 이전 논란... 배경은? - 안호영 더불어민주당 의원ㅣKBS 260122 방송",
             "upload_date": null
+        },
+        {
+            "_id": "697cbfb138b0cf4096976e2e",
+            "url": "https://www.youtube.com/watch?v=d7BSavmDTIY",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-30T23:26:55.408000",
+            "duration": 1260.0,
+            "title": "\"고용의 유연성, 사회적 대타협 필요\" 안호영 더불어민주당 의원 [시사스페셜-정운갑의 집중분석]",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbfb138b0cf4096976e2f",
+            "url": "https://www.youtube.com/watch?v=ES_Tgi20sXE",
+            "HG_NM": "안호영",
+            "MONA_CD": "XEF29171",
+            "collected_at": "2026-01-30T23:26:55.408000",
+            "duration": 1590.0,
+            "title": "새만금 반도체 이전(특별위원회구성) @국회의원안호영 #안호영 #새만금 #전북 ",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:32.117571"
+    "exported_at": "2026-01-30T23:36:03.198694"
 }

@@ -57,16 +57,16 @@
             "관장",
             "감사",
             "선거",
+            "화성",
             "지역",
             "발의",
             "이사회",
             "김형석",
+            "회견",
             "농협",
             "보궐",
-            "결과",
-            "화성",
             "더불어민주당",
-            "요구"
+            "결과"
         ],
         "keyword_frequency": [
             {
@@ -90,6 +90,10 @@
                 "value": 14
             },
             {
+                "text": "화성",
+                "value": 13
+            },
+            {
                 "text": "지역",
                 "value": 12
             },
@@ -106,6 +110,10 @@
                 "value": 11
             },
             {
+                "text": "회견",
+                "value": 10
+            },
+            {
                 "text": "농협",
                 "value": 10
             },
@@ -114,45 +122,94 @@
                 "value": 10
             },
             {
+                "text": "더불어민주당",
+                "value": 9
+            },
+            {
                 "text": "결과",
                 "value": 9
-            },
-            {
-                "text": "화성",
-                "value": 9
-            },
-            {
-                "text": "더불어민주당",
-                "value": 8
-            },
-            {
-                "text": "요구",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:30.870041",
+        "last_analyzed_at": "2026-01-30T23:36:01.494940",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
                 0,
                 0,
+                3,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd4538b0cf4096976c09",
+            "link": "https://n.news.naver.com/mnews/article/421/0008741516?sid=102",
+            "created_at": "2026-01-30T23:16:37.196000",
+            "description": "송옥주 국회의원(더불어민주당, 화성시갑)은 29일 경기 화성시 향남읍행정복지센터 대회의실에서 '화성호, 군공항 이전 및 신공항 건설 타당한가?' 정책토론회를 개최했다. 이번 토론회는 17.3㎢에 달하는 화성호의 생태적... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6055021",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T10:31:00",
+            "related_members": [
+                "3249208I"
+            ],
+            "title": "송옥주 \"철새 서식지 화성호, 항공안전·생태가치가 공항 건설보다 우선..."
+        },
+        {
+            "_id": "697cbd2d38b0cf4096976b55",
+            "link": "https://n.news.naver.com/mnews/article/421/0008740793?sid=100",
+            "created_at": "2026-01-30T23:16:12.844000",
+            "description": "= ◇국회의장 14:00 본회의(본회의장) ◇본회의 및 상임위원회 14:00 본회의(본회의장) 09:20... 모두를위한서울특별위원회 정례브리핑] 11:40 한준호 의원, [정치 현안 관련 기자회견] 14:00 박정훈 의원, [현안 관련 기자회견]",
+            "originallink": "https://www.news1.kr/politics/assembly/6054527",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T05:00:00",
+            "related_members": [
+                "YM42715P",
+                "04T3751T",
+                "O7R5461J",
+                "3249208I",
+                "JSA8739I",
+                "BNV6535N",
+                "68P7228G",
+                "BCQ55105",
+                "AEJ19639",
+                "4019850M"
+            ],
+            "title": "[오늘의 국회일정] (29일, 목)"
+        },
+        {
+            "_id": "697cbd2d38b0cf4096976b54",
+            "link": "https://n.news.naver.com/mnews/article/003/0013736256?sid=100",
+            "created_at": "2026-01-30T23:16:12.844000",
+            "description": "[서울=뉴시스] ◇국회의장 14:00 본회의(본회의장) ◇본회의 및 상임위원회 14:00 본회의(본회의장) 09:20... 정례브리핑 11:40 한준호 의원, 정치 현안 관련 기자회견 14:00 박정훈 의원, 현안 관련 기자회견",
+            "originallink": "https://www.newsis.com/view/NISX20260128_0003494123",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T05:00:00",
+            "related_members": [
+                "YM42715P",
+                "04T3751T",
+                "O7R5461J",
+                "3249208I",
+                "JSA8739I",
+                "BNV6535N",
+                "68P7228G",
+                "BCQ55105",
+                "AEJ19639",
+                "4019850M"
+            ],
+            "title": "[오늘의 주요일정]국회(1월29일 목요일)"
+        },
         {
             "_id": "69701255297082fcc2b34cf7",
             "link": "https://n.news.naver.com/mnews/article/009/0005624213?sid=101",
@@ -494,19 +551,9 @@
             "url": "https://www.youtube.com/watch?v=UCMfrmxtNozvkNPetMwyrjCQ",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-23T16:45:05.005000",
+            "collected_at": "2026-01-30T23:26:16.569000",
             "duration": null,
             "title": "송옥주TV",
-            "upload_date": null
-        },
-        {
-            "_id": "6960acf6631fd1743497d88f",
-            "url": "https://www.youtube.com/watch?v=_h0a5ENr7aI",
-            "HG_NM": "송옥주",
-            "MONA_CD": "3249208I",
-            "collected_at": "2026-01-23T16:45:05.688000",
-            "duration": 223.0,
-            "title": "촬영현장 비하인드 스토리 선공개! 송옥주 의원 편 /티브로드",
             "upload_date": null
         },
         {
@@ -514,9 +561,19 @@
             "url": "https://www.youtube.com/watch?v=dPp8xfXm2LE",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-23T16:45:05.005000",
+            "collected_at": "2026-01-30T23:26:16.569000",
             "duration": 315.0,
             "title": "대안은 뭡니까? 호통치는 송옥주...\"장관 부결되니까 만족하세요\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960acf6631fd1743497d88f",
+            "url": "https://www.youtube.com/watch?v=_h0a5ENr7aI",
+            "HG_NM": "송옥주",
+            "MONA_CD": "3249208I",
+            "collected_at": "2026-01-30T23:26:17.945000",
+            "duration": 223.0,
+            "title": "촬영현장 비하인드 스토리 선공개! 송옥주 의원 편 /티브로드",
             "upload_date": null
         },
         {
@@ -524,7 +581,7 @@
             "url": "https://www.youtube.com/watch?v=-9zMOYfYdQQ",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-23T16:45:05.005000",
+            "collected_at": "2026-01-30T23:26:17.945000",
             "duration": 65.0,
             "title": "송옥주 환노위원장 “국민 행복 가장 우선하는 환노위 만들 것”",
             "upload_date": null
@@ -534,7 +591,7 @@
             "url": "https://www.youtube.com/watch?v=QVFk8BG8LHY",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-23T16:45:05.005000",
+            "collected_at": "2026-01-30T23:26:16.569000",
             "duration": 1013.0,
             "title": "[화성갑 국회의원 송옥주] 21-11-05 수원전투비행장 온라인 정책토론회(Full Ver.)",
             "upload_date": null
@@ -554,7 +611,7 @@
             "url": "https://www.youtube.com/watch?v=ezTDTDN-t-s",
             "HG_NM": "송옥주",
             "MONA_CD": "3249208I",
-            "collected_at": "2026-01-23T16:45:05.005000",
+            "collected_at": "2026-01-30T23:26:16.569000",
             "duration": 7632.0,
             "title": "[송옥주의원실 LIVE] 축산난제 해결 기술개발 전략 수립 정책토론회 (2025.09.08)",
             "upload_date": null
@@ -570,5 +627,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:30.870601"
+    "exported_at": "2026-01-30T23:36:01.494940"
 }

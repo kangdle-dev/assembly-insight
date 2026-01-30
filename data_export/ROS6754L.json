@@ -45,23 +45,23 @@
             "이달",
             "둔덕",
             "국민",
-            "무안",
             "참사",
-            "후보",
-            "수사",
+            "무안",
             "정부",
-            "국정",
-            "특검",
-            "조사",
-            "예비",
+            "후보",
             "티조",
             "이날",
-            "선거"
+            "경북",
+            "수사",
+            "전원",
+            "국정",
+            "특위",
+            "특검"
         ],
         "keyword_frequency": [
             {
                 "text": "이달",
-                "value": 24
+                "value": 28
             },
             {
                 "text": "둔덕",
@@ -69,14 +69,18 @@
             },
             {
                 "text": "국민",
-                "value": 9
+                "value": 12
+            },
+            {
+                "text": "참사",
+                "value": 10
             },
             {
                 "text": "무안",
                 "value": 9
             },
             {
-                "text": "참사",
+                "text": "정부",
                 "value": 8
             },
             {
@@ -84,11 +88,23 @@
                 "value": 8
             },
             {
+                "text": "티조",
+                "value": 8
+            },
+            {
+                "text": "이날",
+                "value": 7
+            },
+            {
+                "text": "경북",
+                "value": 7
+            },
+            {
                 "text": "수사",
                 "value": 7
             },
             {
-                "text": "정부",
+                "text": "전원",
                 "value": 7
             },
             {
@@ -96,53 +112,111 @@
                 "value": 7
             },
             {
+                "text": "특위",
+                "value": 6
+            },
+            {
                 "text": "특검",
                 "value": 6
-            },
-            {
-                "text": "조사",
-                "value": 6
-            },
-            {
-                "text": "예비",
-                "value": 6
-            },
-            {
-                "text": "티조",
-                "value": 6
-            },
-            {
-                "text": "이날",
-                "value": 5
-            },
-            {
-                "text": "선거",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:37.127873",
+        "last_analyzed_at": "2026-01-30T23:36:07.909418",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
                 0,
                 0,
+                1,
                 0,
                 0,
-                0,
-                0,
-                0
+                1,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697cbd2138b0cf4096976add",
+            "link": "https://n.news.naver.com/mnews/article/021/0002767720?sid=100",
+            "created_at": "2026-01-30T23:16:01.469000",
+            "description": "오전 9시부터는 서울 영등포구 국회의원회관 대회의실에서 영결식을 엄수한다. 이후 오전 11시 서울... 김민석 국무총리와 정청래 민주당 대표 등은 이날 오전에도 분향실 상주 자리에서 조문객을 맞이했다. 김 총리와 정... ",
+            "originallink": "https://www.munhwa.com/article/11564958?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-01-30T11:59:00",
+            "related_members": [
+                "MLH1404S",
+                "2385336L",
+                "P0F1530P",
+                "SLW27496",
+                "ROS6754L",
+                "TZP9391O",
+                "KFM1081G",
+                "6EN68926"
+            ],
+            "title": "이해찬 장례 나흘째 추모 발길… 내일 국회서 영결식"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976aff",
+            "link": "https://n.news.naver.com/mnews/article/421/0008744257?sid=100",
+            "created_at": "2026-01-30T23:16:05.184000",
+            "description": "국민의힘 의원들의 강한 비판이 쏟아졌다. 국민의힘 소속 이양수 국조특위 위원장은 이날 국회에서 열린 특위 6차 전체회의에서 \"김 장관을 비롯한 정부 관계자 누구도 오늘 회의에 출석하지 않았다\"며 \"이는 국회의... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6056577",
+            "press": "뉴스1",
+            "pubDate": "2026-01-30T11:08:00",
+            "related_members": [
+                "JZY9937U",
+                "5N65159P",
+                "1SR94244",
+                "S9U45255",
+                "L5P27909",
+                "ROS6754L"
+            ],
+            "title": "여객기 참사 국조특위 종료…野 \"김윤덕 장관 불출석, 국회 모독\""
+        },
+        {
+            "_id": "697cbd1b38b0cf4096976a69",
+            "link": "https://n.news.naver.com/mnews/article/003/0013738819?sid=100",
+            "created_at": "2026-01-30T23:15:55.585000",
+            "description": "이외에도 국민의힘 이철규·이달희·김태호 의원 등이 빈소를 찾았다. 오는 30일에는 장동혁 대표와 송언석... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄수한 뒤 오전 11시께 서울 추모공원에서 화장을 하고... ",
+            "originallink": "https://www.newsis.com/view/NISX20260129_0003495839",
+            "press": "뉴시스",
+            "pubDate": "2026-01-29T21:03:00",
+            "related_members": [
+                "N2P9317N",
+                "B7D7534L",
+                "FIE6569O",
+                "MLH1404S",
+                "2385336L",
+                "ROS6754L",
+                "TZP9391O",
+                "6EN68926",
+                "KFM1081G",
+                "P0F1530P",
+                "SLW27496"
+            ],
+            "title": "故 이해찬 장례 사흘차에 여야 추모 발길…野 지도부도 내일 조문(종합..."
+        },
+        {
+            "_id": "697cbd5238b0cf4096976c8f",
+            "link": "https://n.news.naver.com/mnews/article/005/0001828433?sid=102",
+            "created_at": "2026-01-30T23:16:50.232000",
+            "description": "간담회에는 이철우 경북도지사를 비롯해 경북지역 국회의원 13명과 비례대표인 이달희 의원, 이소희 의원이 참석했다. 이 자리에서 경북도는 통합 재추진 이유 및 방향, 기대효과와 대구시 및 정치권과 함께 마련한 통합... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029305413&code=61121111&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-26T17:25:00",
+            "related_members": [
+                "ROS6754L"
+            ],
+            "title": "경북 국회의원들 “TK 통합은 속도감 있게…북부지역 소외는 없게”"
+        },
         {
             "_id": "696c5c1e297082fcc2b19bc7",
             "link": "https://n.news.naver.com/mnews/article/016/0002587210?sid=100",
@@ -294,7 +368,7 @@
             "url": "https://www.youtube.com/watch?v=UC0DosehZeLipAXf0gqvpjRg",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:44.612000",
+            "collected_at": "2026-01-30T23:28:48.132000",
             "duration": null,
             "title": "이달희TV",
             "upload_date": null
@@ -304,7 +378,7 @@
             "url": "https://www.youtube.com/watch?v=f_ThRg92AQ8",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:44.612000",
+            "collected_at": "2026-01-30T23:28:48.132000",
             "duration": 88.0,
             "title": "2024년도 국회 행정안전위원회 국정감사, 이달희 국회의원 질의",
             "upload_date": null
@@ -324,7 +398,7 @@
             "url": "https://www.youtube.com/watch?v=8ZShCvyhl5o",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:45.347000",
+            "collected_at": "2026-01-30T23:28:49.503000",
             "duration": 565.0,
             "title": "이달희 \"배터리 이동, 尹 정부가 했습니까?\" [티조Clip]",
             "upload_date": null
@@ -334,7 +408,7 @@
             "url": "https://www.youtube.com/watch?v=yDS6j1CVOHg",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:44.612000",
+            "collected_at": "2026-01-30T23:28:48.132000",
             "duration": 424.0,
             "title": "이달희 \"민주당다운 인사…이 자리 수락하시지 마라\" [티조Clip]",
             "upload_date": null
@@ -344,7 +418,7 @@
             "url": "https://www.youtube.com/watch?v=28gyTzg7KPA",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-15T18:21:08.887000",
+            "collected_at": "2026-01-30T23:28:49.503000",
             "duration": 121.0,
             "title": "이달희 북구(을) 국회의원 예비후보 선거사무실 개소식에 초대합니다~",
             "upload_date": null
@@ -354,7 +428,7 @@
             "url": "https://www.youtube.com/watch?v=4jnbjPIpNBc",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-21T08:48:31.500000",
+            "collected_at": "2026-01-30T23:28:48.132000",
             "duration": 12005.0,
             "title": "[Live] 경찰관 직무집행법 개정안 무제한토론 | 이달희 국회의원",
             "upload_date": null
@@ -364,7 +438,7 @@
             "url": "https://www.youtube.com/watch?v=BpG2mRnkItE",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:44.612000",
+            "collected_at": "2026-01-30T23:28:48.132000",
             "duration": 542.0,
             "title": "이달희 \"선관위 사이버 공격, 매년 2만 건 이상\" [티조Clip]",
             "upload_date": null
@@ -374,7 +448,7 @@
             "url": "https://www.youtube.com/watch?v=D37S9s-2qSo",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:45.347000",
+            "collected_at": "2026-01-30T23:28:49.503000",
             "duration": 134.0,
             "title": "이달희 선거삼실~ 놀러오세요~",
             "upload_date": null
@@ -414,11 +488,31 @@
             "url": "https://www.youtube.com/watch?v=Kn9POR4Hz1Y",
             "HG_NM": "이달희",
             "MONA_CD": "ROS6754L",
-            "collected_at": "2026-01-23T16:46:44.612000",
+            "collected_at": "2026-01-30T23:28:48.132000",
             "duration": 681.0,
             "title": "갑질 의혹 증거자료 다 모아온 국힘 이달희에 강선우 후보 조목조목 반박했더니.. 조은희 끼어들며 \"고운 얼굴로 거짓말\"",
             "upload_date": null
+        },
+        {
+            "_id": "697cc02138b0cf4096976e53",
+            "url": "https://www.youtube.com/watch?v=N3hZs86fFMg",
+            "HG_NM": "이달희",
+            "MONA_CD": "ROS6754L",
+            "collected_at": "2026-01-30T23:28:48.132000",
+            "duration": 673.0,
+            "title": "이달희, 경찰청장 직무대행 질타 \"이진숙, 왜 수갑 채워 체포했나!\" [티조Clip]",
+            "upload_date": null
+        },
+        {
+            "_id": "697cc02138b0cf4096976e54",
+            "url": "https://www.youtube.com/watch?v=isg8NXIhYog",
+            "HG_NM": "이달희",
+            "MONA_CD": "ROS6754L",
+            "collected_at": "2026-01-30T23:28:49.503000",
+            "duration": 200.0,
+            "title": "이달희, 헌법 무시한 국토부 저격... “장관·차관 전원 불출석\"ㅣTBC 정치in직캠",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:37.127873"
+    "exported_at": "2026-01-30T23:36:07.909418"
 }

@@ -66,22 +66,22 @@
             "이혜훈",
             "제명",
             "후보자",
+            "대표",
             "재산",
             "인터뷰",
-            "대표",
+            "장관",
             "장동",
             "한동훈",
-            "장관",
-            "의혹",
-            "후보",
             "사과",
-            "인사",
-            "아들"
+            "후보",
+            "청문회",
+            "의혹",
+            "여야"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 34
+                "value": 36
             },
             {
                 "text": "이혜훈",
@@ -93,7 +93,11 @@
             },
             {
                 "text": "후보자",
-                "value": 16
+                "value": 14
+            },
+            {
+                "text": "대표",
+                "value": 12
             },
             {
                 "text": "재산",
@@ -104,23 +108,19 @@
                 "value": 12
             },
             {
-                "text": "대표",
+                "text": "장관",
                 "value": 11
             },
             {
                 "text": "장동",
-                "value": 10
+                "value": 11
             },
             {
                 "text": "한동훈",
-                "value": 10
+                "value": 11
             },
             {
-                "text": "장관",
-                "value": 9
-            },
-            {
-                "text": "의혹",
+                "text": "사과",
                 "value": 9
             },
             {
@@ -128,46 +128,65 @@
                 "value": 9
             },
             {
-                "text": "사과",
+                "text": "청문회",
                 "value": 8
             },
             {
-                "text": "인사",
-                "value": 7
+                "text": "의혹",
+                "value": 8
             },
             {
-                "text": "아들",
-                "value": 7
+                "text": "여야",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-26T14:36:11.232841",
+        "last_analyzed_at": "2026-01-30T23:35:41.539682",
         "trend_news": {
             "labels": [
-                "01-20",
-                "01-21",
-                "01-22",
-                "01-23",
                 "01-24",
                 "01-25",
-                "01-26"
+                "01-26",
+                "01-27",
+                "01-28",
+                "01-29",
+                "01-30"
             ],
             "data": [
-                2,
-                1,
-                0,
-                2,
                 0,
                 1,
+                1,
+                0,
+                0,
+                0,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697cbd1c38b0cf4096976a8b",
+            "link": "https://n.news.naver.com/mnews/article/020/0003692471?sid=100",
+            "created_at": "2026-01-30T23:15:56.568000",
+            "description": "그래서 이제 뭐 며느리가 이쪽으로도 주소지를 옮겼다가 저쪽으로도 옮겼다가 결국 그 천하람 의원은 야... 옛날에 국회의원도 두 번 그분이 자기가 김태호 전 내무부 장관의 비위와 관련해서 특종 보도를 했었던 거... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260126/133233054/1",
+            "press": "동아일보",
+            "pubDate": "2026-01-26T19:23:00",
+            "related_members": [
+                "LG63087O",
+                "68P7228G",
+                "04T3751T",
+                "P0F1530P",
+                "2385336L",
+                "JZV5283U",
+                "YGB8604T"
+            ],
+            "title": "“李는 2인자 안둬…조국 러브콜은 정청래 견제용” [정치를 부탁해]"
+        },
+        {
             "_id": "6976fce98459600028997f2a",
             "link": "https://n.news.naver.com/mnews/article/020/0003692144?sid=100",
             "created_at": "2026-01-26T14:34:30.607000",
-            "description": "같은 당 신동욱 의원도 “이번 사태는 결국 이재명 정권의 도덕적 자살로 평가받을 것”이라고 날 선 비판을... 그러면서 이 후보자가 국민의힘 계열 정당에서 3선 국회의원을 지냈다는 여권 지적에는 “문제의 본질을... ",
+            "description": "국민의힘 중진인 권영세 의원도 이날 SNS를 통해 “이재명 정부스러운 결정”이라며 “이 후보자는 애초에... 그러면서 이 후보자가 국민의힘 계열 정당에서 3선 국회의원을 지냈다는 여권 지적에는 “문제의 본질을 흐리는... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260125/133225468/1",
             "press": "동아일보",
             "pubDate": "2026-01-25T15:44:00",
@@ -194,7 +213,7 @@
             "_id": "6976fce98459600028997f2c",
             "link": "https://n.news.naver.com/mnews/article/421/0008731721?sid=101",
             "created_at": "2026-01-26T14:34:30.607000",
-            "description": "문건에는 \"이철규(당시 경찰 출신 국회의원)를 활용해야 한다\", \"말도 안 되는 고소로 망신 주기를 하는데... 비망록 의혹을 처음 제기한 천하람 개혁신당 의원은 \"후보자가 작성한 게 아니라면 공개해도 되지 않느냐\"고... ",
+            "description": "문건에는 \"이철규(당시 경찰 출신 국회의원)를 활용해야 한다\", \"말도 안 되는 고소로 망신 주기를 하는데, 막아달라\" 등 동료 의원을 통해 수사에 영향을 미치려 한 정황이 적혀 있어 논란이 됐다. 또한 \"요셉처럼 인내하라... ",
             "originallink": "https://www.news1.kr/economy/trend/6049253",
             "press": "뉴스1",
             "pubDate": "2026-01-23T16:24:00",
@@ -252,7 +271,7 @@
             "_id": "6970122e297082fcc2b34c1f",
             "link": "https://n.news.naver.com/mnews/article/079/0004106806?sid=100",
             "created_at": "2026-01-21T08:39:24.994000",
-            "description": "정당법상 국회의원의 제명은 당 소속 의원들의 2분의 1 이상 찬성을 받아야 한다고 합니다. 그래서 지금... 권영세 의원이나 성일종 의원이 이거 정치적으로 해결하자. 징계 철회하고 대신 한동훈 사과하고 정리하자고... ",
+            "description": "정당법상 국회의원의 제명은 당 소속 의원들의 2분의 1 이상 찬성을 받아야 한다고 합니다. 그래서 지금... 실제로 권영세 의원이나 성일종 의원이 이거 정치적으로 해결하자. 징계 철회하고 대신 한동훈 사과하고... ",
             "originallink": "https://www.nocutnews.co.kr/news/6458683?utm_source=naver&utm_medium=article&utm_campaign=20260120070044",
             "press": "노컷뉴스",
             "pubDate": "2026-01-20T07:01:00",
@@ -272,7 +291,7 @@
             "_id": "6970122e297082fcc2b34c20",
             "link": "https://n.news.naver.com/mnews/article/053/0000055150?sid=100",
             "created_at": "2026-01-21T08:39:24.994000",
-            "description": "이란에서 반정부 시위가 격화되자 한국 국회가 이례적으로 한목소리를 냈다. 이언주 더불어민주당... 사회민주당 한창민 의원이 함께해주셨다. 모든 의원들과 다 깊게 이야기를 나눠본 건 아니지만, '이게 남 일이 아니다... ",
+            "description": "다음은 지난 1월 16일 국회의사당 의원회관에서 만난 이언주 의원과의 일문일답. - 이번 이란 반정부 시위를... 심각한 국면이다.\" - 여야 의원들이 함께 결의안을 냈다. \"야당에서 국민의힘 권영세, 안철수, 이철규, 김대신... ",
             "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47913",
             "press": "조선일보",
             "pubDate": "2026-01-19T16:00:00",
@@ -293,7 +312,7 @@
             "_id": "6970122e297082fcc2b34c21",
             "link": "https://n.news.naver.com/mnews/article/015/0005239020?sid=100",
             "created_at": "2026-01-21T08:39:24.994000",
-            "description": "대해 국회에서 추가 자료를 요구할 수 있을 것\"이라고 말했다. 차규근 조국혁신당 의원은 이 후보자의 태도에 대해 강하게 질타했다. 차 의원은 \"후보자가 청문위원에 대해 고발할 수 있다고 발언한 것은 부적절하다\"며... ",
+            "description": "제기한 국회의원을 고발해야 한다고 해서 청문회를 열 가치가 없다고 생각한다\"며 \"어제 자료를 냈는데 생색내기 자료였다. 증여세는 누가 냈는지 자료를 요구했는데 안 냈다\"고 지적했다. 같은 당 권영세 의원은 \"과거 장관... ",
             "originallink": "https://www.hankyung.com/article/202601198887i",
             "press": "한국경제",
             "pubDate": "2026-01-19T14:09:00",
@@ -332,7 +351,7 @@
             "_id": "6968ad87297082fcc2b18cd0",
             "link": "https://n.news.naver.com/mnews/article/055/0001324668?sid=100",
             "created_at": "2026-01-15T18:04:04.184000",
-            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 송언석 원내대표가 있고 신동욱 수석 최고위원, 양양자 최고위원, 김민수 최고위원, 김재원 최고위원, 우재준... ",
+            "description": "더불어민주당 국회의원, 전주혜 전 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요)... 의원은 한동훈 전 대표는 사과를 하고 장동혁 대표도 정치적으로 풀어라, 이렇게 중재를 요구했고요. 권영세... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008405649&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-15T15:29:00",
@@ -355,7 +374,7 @@
             "_id": "6968ad87297082fcc2b18cd1",
             "link": "https://n.news.naver.com/mnews/article/079/0004105345?sid=100",
             "created_at": "2026-01-15T18:04:04.184000",
-            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 김재섭(국민의힘 국회의원) ◇ 박성태&gt;국민의힘 상황이 말이... 중진 의원들이 계시고 실제로 권영세 전 비대위원장 같은 분들, 5선에 제가 알기로 조배숙 의원도 비슷한 말씀을... ",
+            "description": "1 (07:10~09:00) ■ 진행 : 박성태 앵커 ■ 대담 : 김재섭(국민의힘 국회의원) ◇ 박성태&gt;국민의힘 상황이 말이... 이거는 정당에서는 이러면 안 되지라고 하는 분들이 중진 의원들이 계시고 실제로 권영세 전 비대위원장 같은... ",
             "originallink": "https://www.nocutnews.co.kr/news/6456612?utm_source=naver&utm_medium=article&utm_campaign=20260115101701",
             "press": "노컷뉴스",
             "pubDate": "2026-01-15T10:17:00",
@@ -693,13 +712,13 @@
             "upload_date": null
         },
         {
-            "_id": "6960abbf631fd1743497d395",
-            "url": "https://www.youtube.com/watch?v=RiiRvCet0Ik",
+            "_id": "6960abbf631fd1743497d398",
+            "url": "https://www.youtube.com/watch?v=KQJmAFP7GZ8",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
-            "duration": 1441.0,
-            "title": "[국회의원 권영세] ‘통일교 금품 수수 의혹’ 전재수 장관 사의···권영세 “엄정한 구속 수사로 진상 가려야\"",
+            "collected_at": "2026-01-30T23:18:29.285000",
+            "duration": 242.0,
+            "title": "[칭찬마이크] 권영세 국민의힘 의원 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -717,19 +736,19 @@
             "url": "https://www.youtube.com/watch?v=l-A350dYcyg",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.861000",
+            "collected_at": "2026-01-30T23:18:30.709000",
             "duration": 980.0,
             "title": "[인터뷰] 권영세 \"북에서나 쓰는 '당성' 강조에 거부감\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
         },
         {
-            "_id": "6960abbf631fd1743497d39d",
-            "url": "https://www.youtube.com/watch?v=47Hi-0MTkSk",
+            "_id": "6960abbf631fd1743497d39c",
+            "url": "https://www.youtube.com/watch?v=2QKORauxSPM",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-14T10:14:48.624000",
-            "duration": 980.0,
-            "title": "[권영세] 이재명 대통령의 이혜훈 장관 후보자 지명, 여권 악재 피하기 위한 꼼수",
+            "collected_at": "2026-01-30T23:18:29.285000",
+            "duration": 827.0,
+            "title": "[1번지현장] 권영세 국민의힘 의원에게 묻는 정국 현안 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
         },
         {
@@ -737,19 +756,19 @@
             "url": "https://www.youtube.com/watch?v=x2_sILO8wvk",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-21T08:41:37.480000",
+            "collected_at": "2026-01-30T23:18:30.709000",
             "duration": 274.0,
             "title": "\"청문회 받아본 사람 제가 유일한데\" 경력자 권영세가 평가한 '이혜훈 불가' 사유는? [현장쏙] / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
         },
         {
-            "_id": "6960abbf631fd1743497d398",
-            "url": "https://www.youtube.com/watch?v=KQJmAFP7GZ8",
+            "_id": "6960abbf631fd1743497d395",
+            "url": "https://www.youtube.com/watch?v=RiiRvCet0Ik",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
-            "duration": 242.0,
-            "title": "[칭찬마이크] 권영세 국민의힘 의원 / 연합뉴스TV (YonhapnewsTV)",
+            "collected_at": "2026-01-30T23:18:29.285000",
+            "duration": 1441.0,
+            "title": "[국회의원 권영세] ‘통일교 금품 수수 의혹’ 전재수 장관 사의···권영세 “엄정한 구속 수사로 진상 가려야\"",
             "upload_date": null
         },
         {
@@ -757,19 +776,19 @@
             "url": "https://www.youtube.com/watch?v=uhBUTickNiU",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.861000",
+            "collected_at": "2026-01-30T23:18:30.709000",
             "duration": 162.0,
             "title": "국힘 '노동신문 개방' 결사반대…권영세는 \"할 때 됐다\" #비하인드뉴스 / JTBC 뉴스룸",
             "upload_date": null
         },
         {
-            "_id": "6960abbf631fd1743497d396",
-            "url": "https://www.youtube.com/watch?v=2tgFVmpLjhk",
+            "_id": "6960abbf631fd1743497d399",
+            "url": "https://www.youtube.com/watch?v=nfadohHls6w",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
-            "duration": 70.0,
-            "title": "[권영세 의원 신년 메시지] 2024년 희망찬 새해가 밝았습니다!",
+            "collected_at": "2026-01-30T23:18:29.285000",
+            "duration": 1365.0,
+            "title": "[권영세] MBN News 출입기자들의 국회 LIVE 인터뷰",
             "upload_date": null
         },
         {
@@ -793,26 +812,6 @@
             "upload_date": null
         },
         {
-            "_id": "6960abbf631fd1743497d39c",
-            "url": "https://www.youtube.com/watch?v=2QKORauxSPM",
-            "HG_NM": "권영세",
-            "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
-            "duration": 827.0,
-            "title": "[1번지현장] 권영세 국민의힘 의원에게 묻는 정국 현안 / 연합뉴스TV (YonhapnewsTV)",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5d04297082fcc2b19bff",
-            "url": "https://www.youtube.com/watch?v=ipHgPqBvULs",
-            "HG_NM": "권영세",
-            "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
-            "duration": 576.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 권영세 의원(국민의힘)",
-            "upload_date": null
-        },
-        {
             "_id": "6960abbf631fd1743497d39b",
             "url": "https://www.youtube.com/watch?v=Op_7Nrb5Pqw",
             "HG_NM": "권영세",
@@ -820,6 +819,16 @@
             "collected_at": "2026-01-14T10:14:47.888000",
             "duration": 196.0,
             "title": "'野45명 제명' 충돌…국힘 감사위 \"권영세·이양수 징계\" / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5d04297082fcc2b19bff",
+            "url": "https://www.youtube.com/watch?v=ipHgPqBvULs",
+            "HG_NM": "권영세",
+            "MONA_CD": "LG63087O",
+            "collected_at": "2026-01-30T23:18:29.285000",
+            "duration": 576.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 권영세 의원(국민의힘)",
             "upload_date": null
         },
         {
@@ -833,13 +842,33 @@
             "upload_date": null
         },
         {
+            "_id": "6960abbf631fd1743497d39d",
+            "url": "https://www.youtube.com/watch?v=47Hi-0MTkSk",
+            "HG_NM": "권영세",
+            "MONA_CD": "LG63087O",
+            "collected_at": "2026-01-14T10:14:48.624000",
+            "duration": 980.0,
+            "title": "[권영세] 이재명 대통령의 이혜훈 장관 후보자 지명, 여권 악재 피하기 위한 꼼수",
+            "upload_date": null
+        },
+        {
             "_id": "6960abbf631fd1743497d393",
             "url": "https://www.youtube.com/watch?v=UCBBBK9uhYoXXjckiZFk1dXw",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
+            "collected_at": "2026-01-30T23:18:29.285000",
             "duration": null,
             "title": "권영세 TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960abbf631fd1743497d396",
+            "url": "https://www.youtube.com/watch?v=2tgFVmpLjhk",
+            "HG_NM": "권영세",
+            "MONA_CD": "LG63087O",
+            "collected_at": "2026-01-30T23:18:29.285000",
+            "duration": 70.0,
+            "title": "[권영세 의원 신년 메시지] 2024년 희망찬 새해가 밝았습니다!",
             "upload_date": null
         },
         {
@@ -847,19 +876,9 @@
             "url": "https://www.youtube.com/watch?v=7_SoUknhTOY",
             "HG_NM": "권영세",
             "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
+            "collected_at": "2026-01-30T23:18:29.285000",
             "duration": 570.0,
             "title": "[권영세 의원 인터뷰] 세상의 모든 권씨 인터뷰 권터뷰",
-            "upload_date": null
-        },
-        {
-            "_id": "6960abbf631fd1743497d399",
-            "url": "https://www.youtube.com/watch?v=nfadohHls6w",
-            "HG_NM": "권영세",
-            "MONA_CD": "LG63087O",
-            "collected_at": "2026-01-23T16:39:52.095000",
-            "duration": 1365.0,
-            "title": "[권영세] MBN News 출입기자들의 국회 LIVE 인터뷰",
             "upload_date": null
         },
         {
@@ -873,5 +892,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-26T14:36:11.232841"
+    "exported_at": "2026-01-30T23:35:41.539682"
 }
