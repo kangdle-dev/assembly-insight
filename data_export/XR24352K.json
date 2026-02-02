@@ -49,19 +49,19 @@
         "keywords": [
             "서영",
             "부천시",
-            "국민",
             "부천",
+            "국민",
             "더불어민주당",
-            "복지",
             "위원회",
+            "복지",
             "시민",
+            "시장",
             "회관",
+            "막장",
+            "유튜버",
             "사회",
             "서명",
-            "지원",
-            "개선",
-            "시장",
-            "비타민"
+            "지원"
         ],
         "keyword_frequency": [
             {
@@ -70,35 +70,47 @@
             },
             {
                 "text": "부천시",
-                "value": 22
+                "value": 23
+            },
+            {
+                "text": "부천",
+                "value": 21
             },
             {
                 "text": "국민",
                 "value": 20
             },
             {
-                "text": "부천",
+                "text": "더불어민주당",
                 "value": 18
             },
             {
-                "text": "더불어민주당",
-                "value": 18
+                "text": "위원회",
+                "value": 17
             },
             {
                 "text": "복지",
                 "value": 16
             },
             {
-                "text": "위원회",
-                "value": 16
+                "text": "시민",
+                "value": 15
             },
             {
-                "text": "시민",
+                "text": "시장",
                 "value": 12
             },
             {
                 "text": "회관",
                 "value": 12
+            },
+            {
+                "text": "막장",
+                "value": 10
+            },
+            {
+                "text": "유튜버",
+                "value": 10
             },
             {
                 "text": "사회",
@@ -111,43 +123,46 @@
             {
                 "text": "지원",
                 "value": 10
-            },
-            {
-                "text": "개선",
-                "value": 10
-            },
-            {
-                "text": "시장",
-                "value": 10
-            },
-            {
-                "text": "비타민",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:59.781387",
+        "last_analyzed_at": "2026-02-02T09:57:17.568962",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 2,
-                1,
-                1,
-                2,
                 3,
                 2,
-                1
+                1,
+                0,
+                1,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10038b0cf409697731b",
+            "link": "https://n.news.naver.com/mnews/article/382/0001252168?sid=102",
+            "created_at": "2026-02-02T09:34:08.605000",
+            "description": "서명부 전달은 부천 지역 국회의원들이 발의한 막장 유튜버 제재 관련 형법 개정안의 조속한 상정과 심의를... 이건태 의원(부천시 병)도 공동 발의자로 참여했다. 앞서 시민대책위원회는 지난해 10월부터 약 3개월간... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260201/133270536/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-01T02:36:00",
+            "related_members": [
+                "3CC88975",
+                "XR24352K",
+                "7YC6702R"
+            ],
+            "title": "조용익 부천시장 “시민과 함께 미디어 안전 도시 만들겠다”"
+        },
         {
             "_id": "697cbd1e38b0cf4096976aab",
             "link": "https://n.news.naver.com/mnews/article/003/0013740658?sid=102",
@@ -202,35 +217,6 @@
             "title": "\"사회복지예산 국비 분담\" 부천시, 국회서 제도 개선 토론회"
         },
         {
-            "_id": "697cbd2538b0cf4096976b09",
-            "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
-            "created_at": "2026-01-30T23:16:05.804000",
-            "description": "= ◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6053047",
-            "press": "뉴스1",
-            "pubDate": "2026-01-28T05:00:00",
-            "related_members": [
-                "ATB59635",
-                "KBK8836C",
-                "04T3751T",
-                "D9I3309M",
-                "O6D8329R",
-                "ZW43496R",
-                "51A45980",
-                "XR24352K",
-                "NPD75153",
-                "BRU2690F",
-                "RQQ3807K",
-                "O7R5461J",
-                "3TP65086",
-                "X639721U",
-                "A0P4646G",
-                "P8A4624C",
-                "IWK63872"
-            ],
-            "title": "[오늘의 국회일정] (28일, 수)"
-        },
-        {
             "_id": "697cbd2538b0cf4096976b08",
             "link": "https://n.news.naver.com/mnews/article/003/0013733906?sid=100",
             "created_at": "2026-01-30T23:16:05.804000",
@@ -258,6 +244,35 @@
                 "IWK63872"
             ],
             "title": "[오늘의 주요일정]국회(1월28일 수요일)"
+        },
+        {
+            "_id": "697cbd2538b0cf4096976b09",
+            "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
+            "created_at": "2026-01-30T23:16:05.804000",
+            "description": "= ◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6053047",
+            "press": "뉴스1",
+            "pubDate": "2026-01-28T05:00:00",
+            "related_members": [
+                "ATB59635",
+                "KBK8836C",
+                "04T3751T",
+                "D9I3309M",
+                "O6D8329R",
+                "ZW43496R",
+                "51A45980",
+                "XR24352K",
+                "NPD75153",
+                "BRU2690F",
+                "RQQ3807K",
+                "O7R5461J",
+                "3TP65086",
+                "X639721U",
+                "A0P4646G",
+                "P8A4624C",
+                "IWK63872"
+            ],
+            "title": "[오늘의 국회일정] (28일, 수)"
         },
         {
             "_id": "697cbd1838b0cf4096976a1e",
@@ -778,7 +793,7 @@
             "_id": "6964b57c631fd174349963c7",
             "link": "https://n.news.naver.com/mnews/article/003/0013666332?sid=100",
             "created_at": "2026-01-12T17:48:57.863000",
-            "description": "특위 위원장인 서 의원은 이날 국회 의원회관에서 발대식을 열고 \"서울을 세계 최고의 도시로 만들어가기... 서삼석·황희·전현희·박주민·김영배·문정복·박성준·서영석·임오경·김남근·이정헌·채현일·박홍배·이성윤... ",
+            "description": "특위 위원장인 서 의원은 이날 국회 의원회관에서 발대식을 열고 \"서울을 세계 최고의 도시로 만들어가기... 서 의원을 비롯해 서삼석·황희·전현희·박주민·김영배·문정복·박성준·서영석·임오경·김남근·이정헌... ",
             "originallink": "https://www.newsis.com/view/NISX20251218_0003447038",
             "press": "뉴시스",
             "pubDate": "2025-12-18T19:01:00",
@@ -808,7 +823,7 @@
             "url": "https://www.youtube.com/watch?v=xqKBWtCyYHk",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": 126.0,
             "title": "[국민비타민 서영석] 국민비타민의 2022 한가위 인사",
             "upload_date": null
@@ -818,7 +833,7 @@
             "url": "https://www.youtube.com/watch?v=eRFDLNsVTyE",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:35.066000",
+            "collected_at": "2026-02-02T09:46:44.507000",
             "duration": 202.0,
             "title": "민주당 서영석 의원 투기 의혹에 ‘감자심기’ 쇼? | 뉴스A 라이브",
             "upload_date": null
@@ -828,7 +843,7 @@
             "url": "https://www.youtube.com/watch?v=t67P9rd0Pws",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": 225.0,
             "title": "[국민비타민 서영석] 더불어민주당 초선의원 공동기자회견 / 국민 눈높이에 맞는 정당, 국민 기대에 부응하는 정당으로 변하겠습니다",
             "upload_date": null
@@ -838,7 +853,7 @@
             "url": "https://www.youtube.com/watch?v=HIj6jStZIIM",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": 153.0,
             "title": "경찰, '투기 의혹' 양향자 의원 내사...서영석 의원 수사 착수 / YTN",
             "upload_date": null
@@ -888,7 +903,7 @@
             "url": "https://www.youtube.com/watch?v=VsREauspMHI",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": 560.0,
             "title": "[국민비타민 서영석]국회방송 희망인터뷰 국회의원 서영석",
             "upload_date": null
@@ -898,7 +913,7 @@
             "url": "https://www.youtube.com/watch?v=UCkc1DRJ4pJUz-uQVSSZU5iw",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": null,
             "title": "서영석TV",
             "upload_date": null
@@ -908,7 +923,7 @@
             "url": "https://www.youtube.com/watch?v=CnG4L5IHSp0",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": 274.0,
             "title": "[국회의원 서영석-김어준의 겸손은 힘들다 뉴스공장] 윤석열 정치검찰의 추악한 민낯 고발",
             "upload_date": null
@@ -918,7 +933,7 @@
             "url": "https://www.youtube.com/watch?v=yqSthcGPtWA",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:35.066000",
+            "collected_at": "2026-02-02T09:46:44.507000",
             "duration": 104.0,
             "title": "[자막뉴스] 이상민은 발언 해명 서영석은 술자리 논란 사과ㅣ이슈픽",
             "upload_date": null
@@ -928,7 +943,7 @@
             "url": "https://www.youtube.com/watch?v=6SLrw2rHTjM",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:35.066000",
+            "collected_at": "2026-02-02T09:46:44.507000",
             "duration": 115.0,
             "title": "서영석, 논란 일자 사과문…“반성하고 자숙하겠다” | 뉴스A 라이브",
             "upload_date": null
@@ -938,7 +953,7 @@
             "url": "https://www.youtube.com/watch?v=Mx3yWz56iBo",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:35.066000",
+            "collected_at": "2026-02-02T09:46:44.507000",
             "duration": 116.0,
             "title": "금주령 내린 날 술자리…민주당 서영석 “자숙하겠다” | 뉴스A",
             "upload_date": null
@@ -978,11 +993,11 @@
             "url": "https://www.youtube.com/watch?v=wlDUx76bMlA",
             "HG_NM": "서영석",
             "MONA_CD": "XR24352K",
-            "collected_at": "2026-01-30T23:25:33.523000",
+            "collected_at": "2026-02-02T09:46:43.180000",
             "duration": 134.0,
             "title": "당 경선에서 현역 의원도 전 시장도 꺾은 서영석, 파란만큼 논란도 많다?",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:59.781387"
+    "exported_at": "2026-02-02T09:57:17.568962"
 }

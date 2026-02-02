@@ -44,28 +44,32 @@
         "keywords": [
             "국민",
             "투자",
+            "민주당",
             "후보자",
             "이혜훈",
-            "대표",
-            "민주당",
+            "관저",
             "대통령",
+            "총리",
+            "행사",
+            "대변인",
             "대미",
             "법안",
             "녹취",
-            "결과",
             "수석",
-            "후보",
-            "문제",
-            "대변인"
+            "후보"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 28
+                "value": 32
             },
             {
                 "text": "투자",
                 "value": 19
+            },
+            {
+                "text": "민주당",
+                "value": 18
             },
             {
                 "text": "후보자",
@@ -76,16 +80,24 @@
                 "value": 18
             },
             {
-                "text": "대표",
-                "value": 14
-            },
-            {
-                "text": "민주당",
-                "value": 12
+                "text": "관저",
+                "value": 13
             },
             {
                 "text": "대통령",
-                "value": 11
+                "value": 12
+            },
+            {
+                "text": "총리",
+                "value": 12
+            },
+            {
+                "text": "행사",
+                "value": 12
+            },
+            {
+                "text": "대변인",
+                "value": 10
             },
             {
                 "text": "대미",
@@ -100,54 +112,122 @@
                 "value": 10
             },
             {
-                "text": "결과",
-                "value": 10
-            },
-            {
                 "text": "수석",
                 "value": 9
             },
             {
                 "text": "후보",
                 "value": 9
-            },
-            {
-                "text": "문제",
-                "value": 8
-            },
-            {
-                "text": "대변인",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:54.567637",
+        "last_analyzed_at": "2026-02-02T09:57:12.182684",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                2,
-                2,
-                3,
                 5,
                 2,
                 2,
+                0,
+                4,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697ff10a38b0cf4096977345",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308769?sid=100",
+            "created_at": "2026-02-02T09:34:18.646000",
+            "description": "경우 국회 본회의장에서 밀약이라든지 나눠먹기 등 이런 저열한 단어가 오가고 있는데 지방선거용 이합집산의 민낯이다, 이렇게 비난을 하기도 했어요. 이에 앞서서 조국혁신당의 황운하 의원 같은 경우는 민주앙과 합당... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602011433345326",
+            "press": "YTN",
+            "pubDate": "2026-02-01T14:33:00",
+            "related_members": [
+                "EPI69383",
+                "NX534083",
+                "KFM1081G",
+                "AEJ19639",
+                "6EN68926",
+                "4019850M",
+                "80C5885Z",
+                "QWL7778X",
+                "0YT3774N"
+            ],
+            "title": "이 대통령 \"부동산 정상화, 5천P보다 쉽다\"...국힘 \"왜 못했나\""
+        },
+        {
+            "_id": "697ff11938b0cf4096977365",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116312?sid=100",
+            "created_at": "2026-02-02T09:34:33.445000",
+            "description": "국민의힘이 김민석 국무총리가 관저에서 자신의 국회의원 지역구 당원 행사를 열었다며, “권력을... 앞서 시민단체 ‘서민민생대책위원회’는 김 총리가 지난 17일 서울 삼청동 국무총리 관저에서 민주당 채현일 의원과... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474089&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-31T11:05:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S",
+                "1S05899F"
+            ],
+            "title": "국민의힘 “김민석 총리, 관저서 민주당 당원 행사…해임 대상”"
+        },
+        {
+            "_id": "697ff11938b0cf4096977366",
+            "link": "https://n.news.naver.com/mnews/article/448/0000587468?sid=100",
+            "created_at": "2026-02-02T09:34:33.445000",
+            "description": "민주당 채현일 의원도 참석했다”고 밝혔다. 박 수석대변인은 “김 총리는 영등포을 지역구 국회의원으로, 국가 공공시설을 자신의 지역 정치 행사 무대로 활용한 셈”이라며 “총리 관저는 건물 유지부터 경호, 운영... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/31/2026013190019.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-31T10:50:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S",
+                "1S05899F"
+            ],
+            "title": "국힘 \"'관저 친목행사' 김민석, 즉각 사퇴가 국민에 대한 예의\""
+        },
+        {
+            "_id": "697ff11938b0cf4096977367",
+            "link": "https://n.news.naver.com/mnews/article/448/0000587464?sid=100",
+            "created_at": "2026-02-02T09:34:33.446000",
+            "description": "박성훈 국민의힘 수석대변인은 이날 논평을 통해 “김 총리는 지난 17일 서울 종로구 삼청동 총리 관저 내부에... 이어 “영등포을 지역구 국회의원인 김 총리가 국가 공공시설을 자신의 지역 정치 행사 무대로 활용한 것”... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/31/2026013190015.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-31T10:30:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S"
+            ],
+            "title": "국민의힘 \"김민석, 총리 관저서 친목행사…국가 자산 사적 이용 사퇴해..."
+        },
+        {
+            "_id": "697ff11938b0cf4096977368",
+            "link": "https://n.news.naver.com/mnews/article/421/0008745770?sid=100",
+            "created_at": "2026-02-02T09:34:33.446000",
+            "description": "이 자리에는 영등포갑 민주당 채현일 의원도 함께했다\"며 이같이 밝혔다. 박 수석대변인은 \"김 총리는 영등포을 지역구 국회의원으로, 국가 공공시설을 자신의 지역 정치 행사 무대로 이용한 것\"이라며 \"총리 관저는 건물... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6057488",
+            "press": "뉴스1",
+            "pubDate": "2026-01-31T09:52:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S",
+                "1S05899F"
+            ],
+            "title": "국힘 \"'관저 친목행사' 김민석, 당장 물러나는 게 국민 대한 예의\""
+        },
+        {
             "_id": "697cbd2138b0cf4096976ae2",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-29T20:30:00",
@@ -170,7 +250,7 @@
             "_id": "697cbd2138b0cf4096976ae3",
             "link": "https://n.news.naver.com/mnews/article/052/0002307758?sid=100",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에 언제까지... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601291934537352",
             "press": "YTN",
             "pubDate": "2026-01-29T19:34:00",
@@ -547,87 +627,6 @@
                 "WTR5885Y"
             ],
             "title": "\"추상 같은 명쾌한 모범 판결\"…\"최종 결과 기다리겠다\""
-        },
-        {
-            "_id": "6972d1f184596000289976b6",
-            "link": "https://n.news.naver.com/mnews/article/053/0000055207?sid=100",
-            "created_at": "2026-01-23T10:42:07.142000",
-            "description": "대한민국 국회의원, 청와대 공직자의 기본 자세\"라고 말했다. 홍 수석은 이어 한병도 민주당 원내대표를 만나... 홍 수석은 국회를 나서며 \"장 대표와의 회동은 아직 결정된 바 없다\"고 말했다. 이에 대해 박성훈 국민의힘... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=47988",
-            "press": "조선일보",
-            "pubDate": "2026-01-21T20:15:00",
-            "related_members": [
-                "KFM1081G",
-                "REG96285",
-                "H5476989",
-                "2385336L",
-                "NX534083"
-            ],
-            "title": "국회 온 홍익표, 정청래 만나고 장동혁 패싱…'반쪽 예방' 논란"
-        },
-        {
-            "_id": "6972d1f184596000289976b7",
-            "link": "https://n.news.naver.com/mnews/article/022/0004099403?sid=100",
-            "created_at": "2026-01-23T10:42:07.142000",
-            "description": "반면 국민의힘 박성훈 수석대변인은 이날 국회에서 기자들을 만나 “국민의힘은 이미 12·3 비상계엄에 대해... 대해, 국회의원으로서 국민께 고개 숙여 사과드린다”며 “지도부에 강력히 요청한다. 이제라도 윤석열 전... ",
-            "originallink": "https://www.segye.com/newsView/20260121518152?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-21T18:36:00",
-            "related_members": [
-                "REG96285",
-                "GRP3908I",
-                "NX534083",
-                "Q918403D"
-            ],
-            "title": "한덕수 ‘23년’ 선고에… 민주 “당연한 결론”·국힘 “최종 판단 기..."
-        },
-        {
-            "_id": "6972d1f684596000289976d9",
-            "link": "https://n.news.naver.com/mnews/article/003/0013723544?sid=100",
-            "created_at": "2026-01-23T10:42:12.378000",
-            "description": "장 대표는 중진 의원들의 강력한 권고에도 수액치료와 병원 이송을 거부하고 있다. 장 대표는 이날 국회... 서명옥 의원은 로텐더홀에서 기자들과 만나 \"(의료진은) 모든 바이털(활력 징후) 상황, 산소포화도 저하로 긴급한... ",
-            "originallink": "https://www.newsis.com/view/NISX20260121_0003485502",
-            "press": "뉴시스",
-            "pubDate": "2026-01-21T17:53:00",
-            "related_members": [
-                "KFM1081G",
-                "86R9476S",
-                "NX534083",
-                "QQ429063",
-                "QWL7778X"
-            ],
-            "title": "단식 7일차 장동혁, 수액치료·이송 거부 \"여기 묻힐 것…이석연 방문(..."
-        },
-        {
-            "_id": "6972d1f184596000289976b8",
-            "link": "https://n.news.naver.com/mnews/article/020/0003691236?sid=100",
-            "created_at": "2026-01-23T10:42:07.143000",
-            "description": "21일 의사 출신인 국민의힘 서명옥 의원은 국회에서 기자들과 만나 “조금 전 장 대표의 여러 가지 건강 상태가 급속히 악화해 119구조사가 긴급 출동했다”며 “진료 결과 혈압수치가 급격히 올랐고, 당수치는 급격히... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260121/133204347/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-21T17:39:00",
-            "related_members": [
-                "KFM1081G",
-                "REG96285",
-                "NX534083",
-                "QQ429063"
-            ],
-            "title": "단식 7일째 장동혁, 병원 이송 거부…국힘 “바이털 사인 위중”"
-        },
-        {
-            "_id": "6972d20b8459600028997769",
-            "link": "https://n.news.naver.com/mnews/article/015/0005240439?sid=100",
-            "created_at": "2026-01-23T10:42:33.337000",
-            "description": "송언석 국민의힘 원내대표는 이날 국회에서 열린 긴급 의원총회에서 “이 대통령이 신년 기자회견에서 보인... 정점식 정책위원회 의장도 자신의 SNS를 통해 “민생과 직결된 부동산, 환율, 물가 문제에 대한 시원한 해법은... ",
-            "originallink": "https://www.hankyung.com/article/2026012147371",
-            "press": "한국경제",
-            "pubDate": "2026-01-21T17:36:00",
-            "related_members": [
-                "6EN68926",
-                "NX534083",
-                "LJK4960Z"
-            ],
-            "title": "여야, 李 신년 회견에…\"대도약 출발 선언\" \"선거용 돈 풀기\""
         }
     ],
     "recent_videos": [
@@ -636,7 +635,7 @@
             "url": "https://www.youtube.com/watch?v=UC0g4nQxN7lc0DNut2vUGFcQ",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": null,
             "title": "국회의원 박성훈",
             "upload_date": null
@@ -646,7 +645,7 @@
             "url": "https://www.youtube.com/watch?v=MaknXTdMf_c",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": 127.0,
             "title": "\"국힘은 독버섯\" \"민주는 좀먹는 균\" 주고받더니 하루 만에 \"미안하다\"…박수현, 박성훈 무슨 일?｜지금 이 뉴스",
             "upload_date": null
@@ -656,7 +655,7 @@
             "url": "https://www.youtube.com/watch?v=ZjYC0fuKzzc",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": 72.0,
             "title": "예비경선 결과발표! 예비후보 박성훈의 반응은??",
             "upload_date": null
@@ -666,7 +665,7 @@
             "url": "https://www.youtube.com/watch?v=YEP4eBfFmSk",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:35.590000",
+            "collected_at": "2026-02-02T09:44:52.734000",
             "duration": 257.0,
             "title": "[스타뉴스룸] '드라마 하차' 박성훈, “‘오겜2’ 음란물, 본 적 없다!” 눈물의 3차 해명에도...  / YTN star",
             "upload_date": null
@@ -676,7 +675,7 @@
             "url": "https://www.youtube.com/watch?v=KjaqkYwzzrc",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": 604.0,
             "title": "흙수저 고백 , #박성훈 의원",
             "upload_date": null
@@ -686,7 +685,7 @@
             "url": "https://www.youtube.com/watch?v=Rf2ZJ8ffai8",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": 101.0,
             "title": "[현장영상+] 박성훈 \"제자 논문 도둑질 이진숙 후보자 등 질타 목소리\" / YTN",
             "upload_date": null
@@ -696,7 +695,7 @@
             "url": "https://www.youtube.com/watch?v=ddb_HFpWakQ",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": 211.0,
             "title": "국민의힘 박성훈 의원,장관 인선 관련 기자회견 2",
             "upload_date": null
@@ -706,7 +705,7 @@
             "url": "https://www.youtube.com/watch?v=MjjC2veS7Z0",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:34.162000",
+            "collected_at": "2026-02-02T09:44:51.330000",
             "duration": 99.0,
             "title": "원희룡 (전)국토부 장관, 나경원 (전)의원 응원메시지 [박성훈 북구을 국회의원 예비후보]",
             "upload_date": null
@@ -716,7 +715,7 @@
             "url": "https://www.youtube.com/watch?v=VHoQnaKqme8",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:35.590000",
+            "collected_at": "2026-02-02T09:44:52.734000",
             "duration": 61.0,
             "title": "‘성인물 게시 논란’ 박성훈, 드라마 하차 [잇슈 컬처] / KBS  2025.01.13.",
             "upload_date": null
@@ -766,11 +765,11 @@
             "url": "https://www.youtube.com/watch?v=6uZ26oTE6C0",
             "HG_NM": "박성훈",
             "MONA_CD": "NX534083",
-            "collected_at": "2026-01-30T23:23:35.590000",
+            "collected_at": "2026-02-02T09:44:52.734000",
             "duration": 5186.0,
             "title": "[현장] 국민의힘 박성훈 수석 대변인, '이재명 방탄 위한 검찰 학살' 관련 기자회견｜MBN NEWS",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:54.567637"
+    "exported_at": "2026-02-02T09:57:12.182684"
 }

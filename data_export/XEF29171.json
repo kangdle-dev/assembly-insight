@@ -64,9 +64,9 @@
             "수상",
             "태양광",
             "도지사",
-            "계통",
             "회견",
-            "이전"
+            "계통",
+            "출마"
         ],
         "keyword_frequency": [
             {
@@ -83,7 +83,7 @@
             },
             {
                 "text": "더불어민주당",
-                "value": 20
+                "value": 18
             },
             {
                 "text": "전주",
@@ -95,7 +95,7 @@
             },
             {
                 "text": "위원장",
-                "value": 16
+                "value": 15
             },
             {
                 "text": "새만금",
@@ -118,41 +118,63 @@
                 "value": 13
             },
             {
+                "text": "회견",
+                "value": 12
+            },
+            {
                 "text": "계통",
                 "value": 11
             },
             {
-                "text": "회견",
-                "value": 10
-            },
-            {
-                "text": "이전",
+                "text": "출마",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:03.198694",
+        "last_analyzed_at": "2026-02-02T09:57:21.083456",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                2,
                 3,
                 7,
                 4,
-                3
+                3,
+                0,
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff0fb38b0cf4096977312",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746972?sid=100",
+            "created_at": "2026-02-02T09:34:03.406000",
+            "description": "◇국회의장 09:00 국회의장 주재 기관장 업무보고(국회 접견실) 14:00 임시회 개회식(국회 본회의장)... 10:40 전현희 의원, [서울시장 출마선언 기자회견] 11:00 안호영 의원, [현안 관련 기자회견] 11:20 윤종오 의원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6058116",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T05:00:00",
+            "related_members": [
+                "WCD5518S",
+                "DMP1439I",
+                "MU69217P",
+                "25G2571T",
+                "4019850M",
+                "HVV5250J",
+                "NPD75153",
+                "XEF29171",
+                "3TP65086",
+                "URX8075K"
+            ],
+            "title": "[오늘의 국회일정] (2일, 월)"
+        },
         {
             "_id": "697cbd1e38b0cf4096976aa9",
             "link": "https://n.news.naver.com/mnews/article/421/0008743515?sid=100",
@@ -553,26 +575,6 @@
                 "XEF29171"
             ],
             "title": "질의 응답하는 안호영 의원"
-        },
-        {
-            "_id": "6972d20d845960002899777d",
-            "link": "https://n.news.naver.com/mnews/article/262/0000019097?sid=100",
-            "created_at": "2026-01-23T10:42:35.127000",
-            "description": "그러나 원내대표 선거의 경우 권리당원 투표 20%, 국회의원 투표 80%를 반영한다는 점에서 백 의원의 선명성은 빛을 보지 못했다. 당 전략기획위원장과 정책위의장을 역임한 진성준 의원은 자타 공인의 ‘전략통’... ",
-            "originallink": "https://shindonga.donga.com/3/all/13/6066907/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-21T09:01:00",
-            "related_members": [
-                "H5476989",
-                "4019850M",
-                "3C23171A",
-                "HSS7466Y",
-                "XEF29171",
-                "DAV7257X",
-                "M0A1658U",
-                "IWK63872"
-            ],
-            "title": "[Who's who?] 더불어민주당 신임 원내대표 ‘한병도’는 누구?"
         }
     ],
     "recent_videos": [
@@ -581,7 +583,7 @@
             "url": "https://www.youtube.com/watch?v=MSXQhxrxlx8",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:55.408000",
+            "collected_at": "2026-02-02T09:47:58.590000",
             "duration": 604.0,
             "title": "인터뷰 릴레이 칭찬 232회 안호영 의원(더불어민주당)",
             "upload_date": null
@@ -591,7 +593,7 @@
             "url": "https://www.youtube.com/watch?v=BDExWP0klaQ",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:55.408000",
+            "collected_at": "2026-02-02T09:47:58.590000",
             "duration": 597.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 173회 안호영 의원 더불어민주당",
             "upload_date": null
@@ -601,7 +603,7 @@
             "url": "https://www.youtube.com/watch?v=zxm2dvSjArU",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:55.408000",
+            "collected_at": "2026-02-02T09:47:58.590000",
             "duration": 61.0,
             "title": "[국회의원 안호영] 즐거운 한가위 되세요",
             "upload_date": null
@@ -611,7 +613,7 @@
             "url": "https://www.youtube.com/watch?v=nCHXlbv7K6o",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:56.836000",
+            "collected_at": "2026-02-02T09:48:00.077000",
             "duration": 1116.0,
             "title": "[뉴스하이킥] 환노위원장 민주 안호영 \"'쿠팡 봐주기 의혹' 검사는 윤석열 사단 핵심...정확히 감찰해봐야\" - 안호영, MBC 251002 방송",
             "upload_date": null
@@ -641,7 +643,7 @@
             "url": "https://www.youtube.com/watch?v=h-DMg_vOB4g",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:56.836000",
+            "collected_at": "2026-02-02T09:48:00.077000",
             "duration": 727.0,
             "title": "[초대석] 쿠팡 총공세…안호영 민주당 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -651,7 +653,7 @@
             "url": "https://www.youtube.com/watch?v=l-68sA_pR4M",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:56.836000",
+            "collected_at": "2026-02-02T09:48:00.077000",
             "duration": 916.0,
             "title": "[1번지초대석] 국감 달군 '과로사·쿠팡 일용직' 이슈…안호영 의원에게 듣는다 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -661,7 +663,7 @@
             "url": "https://www.youtube.com/watch?v=uRL5DjtEjmo",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:55.408000",
+            "collected_at": "2026-02-02T09:47:58.590000",
             "duration": 1685.0,
             "title": "[지자체를말한다]국회의원 안호영 편",
             "upload_date": null
@@ -671,7 +673,7 @@
             "url": "https://www.youtube.com/watch?v=rKFs6aCEGKM",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-23T16:45:23.638000",
+            "collected_at": "2026-02-02T09:47:58.590000",
             "duration": 2362.0,
             "title": "[팩트TV 풀영상] 더불어민주당 안호영 의원 교육사회문화 분야 대정부질문 풀영상 (2023.9.8)",
             "upload_date": null
@@ -711,7 +713,7 @@
             "url": "https://www.youtube.com/watch?v=d7BSavmDTIY",
             "HG_NM": "안호영",
             "MONA_CD": "XEF29171",
-            "collected_at": "2026-01-30T23:26:55.408000",
+            "collected_at": "2026-02-02T09:47:58.590000",
             "duration": 1260.0,
             "title": "\"고용의 유연성, 사회적 대타협 필요\" 안호영 더불어민주당 의원 [시사스페셜-정운갑의 집중분석]",
             "upload_date": null
@@ -727,5 +729,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:03.198694"
+    "exported_at": "2026-02-02T09:57:21.083456"
 }

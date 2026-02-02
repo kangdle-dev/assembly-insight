@@ -45,38 +45,38 @@
             "계원",
             "통합",
             "전남",
-            "합당",
-            "토론회",
-            "지역",
             "여수",
-            "조계",
             "행정",
+            "지역",
+            "합당",
             "광주",
-            "민주당",
+            "조계",
+            "토론회",
             "더불어민주당",
+            "민주당",
             "제안",
-            "개최",
-            "국가"
+            "주철",
+            "금주"
         ],
         "keyword_frequency": [
             {
                 "text": "계원",
-                "value": 42
+                "value": 45
             },
             {
                 "text": "통합",
-                "value": 33
+                "value": 37
             },
             {
                 "text": "전남",
-                "value": 32
+                "value": 31
             },
             {
-                "text": "합당",
-                "value": 26
+                "text": "여수",
+                "value": 29
             },
             {
-                "text": "토론회",
+                "text": "행정",
                 "value": 25
             },
             {
@@ -84,65 +84,98 @@
                 "value": 24
             },
             {
-                "text": "여수",
-                "value": 23
-            },
-            {
-                "text": "조계",
-                "value": 23
-            },
-            {
-                "text": "행정",
-                "value": 22
+                "text": "합당",
+                "value": 24
             },
             {
                 "text": "광주",
+                "value": 22
+            },
+            {
+                "text": "조계",
+                "value": 22
+            },
+            {
+                "text": "토론회",
                 "value": 21
             },
             {
-                "text": "민주당",
-                "value": 18
-            },
-            {
                 "text": "더불어민주당",
-                "value": 17
-            },
-            {
-                "text": "제안",
                 "value": 16
             },
             {
-                "text": "개최",
+                "text": "민주당",
+                "value": 15
+            },
+            {
+                "text": "제안",
                 "value": 14
             },
             {
-                "text": "국가",
-                "value": 13
+                "text": "주철",
+                "value": 12
+            },
+            {
+                "text": "금주",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:17.864630",
+        "last_analyzed_at": "2026-02-02T09:57:36.320973",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                1,
-                4,
-                5,
                 2,
                 3,
                 1,
-                2
+                2,
+                0,
+                2,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff11538b0cf4096977363",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742132?sid=102",
+            "created_at": "2026-02-02T09:34:28.990000",
+            "description": "콘서트 시작과 함께 우원식 국회의장과 문정복 최고위원, 문진석·이수진·이용선·조계원·주철현 국회의원이 영상을 통해 책 출간을 축하했다. 여수 출신 정원오 성동구청장과 김보라 안성시장이 고향을 향한 응원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003498032",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T17:32:00",
+            "related_members": [
+                "9JF4562W",
+                "4U29186R",
+                "8TU8443O",
+                "0R68099X",
+                "GOC54665",
+                "T465023H",
+                "XBT9550Q"
+            ],
+            "title": "여수 첫 여성 시의장 백인숙 '여수의 길을 묻다' 북콘서트"
+        },
+        {
+            "_id": "697ff14a38b0cf40969773ba",
+            "link": "https://n.news.naver.com/mnews/article/382/0001252250?sid=102",
+            "created_at": "2026-02-02T09:35:22.574000",
+            "description": "주철현 국회의원은 “행정통합의 성패는 선언이 아니라 특별법에 무엇을 담느냐에 달려 있다”며 “여수 국가산단과 율촌산단은 대한민국 산업 전환의 핵심 거점인 만큼, 통합특별시 체제에서도 산업 경쟁력이 약화되지... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260201/133272110/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-01T11:37:00",
+            "related_members": [
+                "T465023H",
+                "8TU8443O"
+            ],
+            "title": "주철현·조계원 의원 주최 ‘행정통합 대토론회’ 1000명 운집"
+        },
         {
             "_id": "697cbd6638b0cf4096976d03",
             "link": "https://n.news.naver.com/mnews/article/003/0013740671?sid=102",
@@ -242,7 +275,7 @@
             "_id": "697cbd3138b0cf4096976b82",
             "link": "https://n.news.naver.com/mnews/article/003/0013733636?sid=102",
             "created_at": "2026-01-30T23:16:17.578000",
-            "description": "광역단체장과 국회의원들이 간담회와 SNS 등을 통해 최종 합의 결과에 대한 미묘한 온도차를 보였다. 27일... 동부권 주철현 의원은 \"전남을 주사무소로 명기하는 것을 빼는 대신 명칭에서 '전남'이 앞에 오도록 하고, 약칭은... ",
+            "description": "광역단체장과 국회의원들이 간담회와 SNS 등을 통해 최종 합의 결과에 대한 미묘한 온도차를 보였다. 27일... 광주 안도걸·전진숙, 전남 문금주·조계원 의원 등은 합의 내용만 간략히 전하며 특별법 제정에 끝까지 힘을... ",
             "originallink": "https://www.newsis.com/view/NISX20260127_0003492299",
             "press": "뉴시스",
             "pubDate": "2026-01-27T17:23:00",
@@ -334,7 +367,7 @@
             "_id": "697cbd1d38b0cf4096976a9f",
             "link": "https://ysmbc.co.kr/NewsArticle/1502394",
             "created_at": "2026-01-30T23:15:57.539000",
-            "description": "민주당과 조국혁신당의 합당 제안을 두고 전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이... ",
+            "description": "전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이 적지 않다고 주장했습니다. 반면, 권향엽... ",
             "originallink": "https://ysmbc.co.kr/NewsArticle/1502394",
             "press": "MBC",
             "pubDate": "2026-01-26T17:12:00",
@@ -410,7 +443,7 @@
             "_id": "6976fcea8459600028997f33",
             "link": "https://ysmbc.co.kr/NewsArticle/1502259",
             "created_at": "2026-01-26T14:34:31.506000",
-            "description": "민주당과 조국혁신당의 합당 제안을 두고 전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이... ",
+            "description": "전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이 적지 않다고 주장했습니다. 반면, 권향엽... ",
             "originallink": "https://ysmbc.co.kr/NewsArticle/1502259",
             "press": "MBC",
             "pubDate": "2026-01-25T21:00:00",
@@ -684,36 +717,6 @@
                 "BCQ55105"
             ],
             "title": "국가건축정책위, 토론회 개최… “공간 영역에서도 민주주의 실현해야..."
-        },
-        {
-            "_id": "6966ec7d887d07f7ba2fb2b2",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104777?sid=101",
-            "created_at": "2026-01-14T10:08:13.391000",
-            "description": "대통령 소속 국가건축정책위원회(위원장 김진애)는 14일 국회의원회관에서 민주당 한준호·김성회·조계원 국회의원과 공동으로 '지방자치 30년, 공간민주주의'를 주제로 토론회를 개최한다. 토론회는 지방자치 시행... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455485?utm_source=naver&utm_medium=article&utm_campaign=20260114061036",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-14T06:01:00",
-            "related_members": [
-                "8TU8443O",
-                "88O1334C",
-                "BCQ55105"
-            ],
-            "title": "\"도시공간의 주인이 누구인가? 의사결정부터 시민참여 강화\""
-        },
-        {
-            "_id": "6966ec7d887d07f7ba2fb2b3",
-            "link": "https://n.news.naver.com/mnews/article/003/0013708851?sid=101",
-            "created_at": "2026-01-14T10:08:13.391000",
-            "description": "대통령 소속 국가건축정책위원회는 14일 서울 여의도 국회의원회관에서 더불어민주당 한준호·김성회·조계원 국회의원과 공동으로 '지방자치 30년, 공간민주주의'를 주제로 토론회를 개최한다고 밝혔다. 이번 토론회는... ",
-            "originallink": "https://www.newsis.com/view/NISX20260113_0003475157",
-            "press": "뉴시스",
-            "pubDate": "2026-01-14T06:00:00",
-            "related_members": [
-                "8TU8443O",
-                "88O1334C",
-                "BCQ55105"
-            ],
-            "title": "국가건축정책위, 공간민주주의 주제 토론회 개최"
         }
     ],
     "recent_videos": [
@@ -722,7 +725,7 @@
             "url": "https://www.youtube.com/watch?v=xIMwfRvctac",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:43.327000",
+            "collected_at": "2026-02-02T09:53:10.912000",
             "duration": 282.0,
             "title": "[조계원TV] 내란수괴 윤석열 파면촉구! 더불어민주당 국회의원 비상행동 문체위 조계원 국회의원 릴레이발언(full)",
             "upload_date": null
@@ -732,7 +735,7 @@
             "url": "https://www.youtube.com/watch?v=4kMtP2CYMHo",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:44.739000",
+            "collected_at": "2026-02-02T09:53:12.185000",
             "duration": 584.0,
             "title": "[박정호의 핫스팟+조계원] \"이슈 다 파묻어버린 정청래...지선 전 블랙홀 기습 합당 제안\"",
             "upload_date": null
@@ -742,7 +745,7 @@
             "url": "https://www.youtube.com/watch?v=i7HjWdwtgdc",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-23T16:49:19.932000",
+            "collected_at": "2026-02-02T09:53:12.185000",
             "duration": 10944.0,
             "title": "김어준의 겸손은힘들다 뉴스공장 2025년 11월 6일 목요일 [박동규, 박범계, 김승원, 홍사훈, 주진우, 봉지욱, 조계원, 박구용, 노은주, 임형남, 스포츠공장]",
             "upload_date": null
@@ -762,7 +765,7 @@
             "url": "https://www.youtube.com/watch?v=ABDR7GuCUGA",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:44.739000",
+            "collected_at": "2026-02-02T09:53:12.185000",
             "duration": 1618.0,
             "title": "조계원 \"서울-여수 2시간 '한반도 KTX'로 판을 바꾸자\" 2025년 11월 21일 금요일 [출발 무등의 아침]",
             "upload_date": null
@@ -772,7 +775,7 @@
             "url": "https://www.youtube.com/watch?v=LDmBCZgp1u0",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:43.327000",
+            "collected_at": "2026-02-02T09:53:10.912000",
             "duration": 1387.0,
             "title": "조계원, 질문 '소음 공격' 국힘에 사자후 \"지금 누가 반말하나\"",
             "upload_date": null
@@ -792,7 +795,7 @@
             "url": "https://www.youtube.com/watch?v=7NotTQQOHe4",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:44.739000",
+            "collected_at": "2026-02-02T09:53:12.185000",
             "duration": 371.0,
             "title": "\"노관규 거짓말, 본인이 실토\"..탈탈터는 조계원, 작정한 듯...",
             "upload_date": null
@@ -812,7 +815,7 @@
             "url": "https://www.youtube.com/watch?v=JvOpQ-fOLQs",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:43.327000",
+            "collected_at": "2026-02-02T09:53:10.912000",
             "duration": 129.0,
             "title": "[조계원TV] 2025년 더불어민주당 여수시을 국회의원 조계원 추석인사 영상메세지",
             "upload_date": null
@@ -822,7 +825,7 @@
             "url": "https://www.youtube.com/watch?v=UCMpAVVtJjBDyLkUKNy9lb6g",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:43.327000",
+            "collected_at": "2026-02-02T09:53:10.912000",
             "duration": null,
             "title": "조계원TV",
             "upload_date": null
@@ -832,7 +835,7 @@
             "url": "https://www.youtube.com/watch?v=HqEo31zAdqo",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:43.327000",
+            "collected_at": "2026-02-02T09:53:10.912000",
             "duration": 599.0,
             "title": "[조계원 국회의원] 제22대 국회의원 \"300인의 희망인터뷰\"",
             "upload_date": null
@@ -852,7 +855,7 @@
             "url": "https://www.youtube.com/watch?v=cByrg5M7mRc",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:44.739000",
+            "collected_at": "2026-02-02T09:53:12.185000",
             "duration": 131.0,
             "title": "김건희 예산?... 조계원-노관규 '공방' -R (251014화/뉴스데스크)",
             "upload_date": null
@@ -892,7 +895,7 @@
             "url": "https://www.youtube.com/watch?v=GYXBtjcFyFM",
             "HG_NM": "조계원",
             "MONA_CD": "8TU8443O",
-            "collected_at": "2026-01-30T23:32:43.327000",
+            "collected_at": "2026-02-02T09:53:10.912000",
             "duration": 140.0,
             "title": "김건희 예산?...조계원-노관규 '공방' (뉴스데스크 2025.10.14 광주MBC)",
             "upload_date": null
@@ -908,5 +911,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:17.864630"
+    "exported_at": "2026-02-02T09:57:36.320973"
 }

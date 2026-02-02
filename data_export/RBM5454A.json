@@ -51,12 +51,12 @@
             "민주당",
             "더불어민주당",
             "위원",
+            "법안",
             "민주",
             "위원장",
             "수수",
             "의혹",
-            "보상",
-            "간담회"
+            "보상"
         ],
         "keyword_frequency": [
             {
@@ -89,11 +89,15 @@
             },
             {
                 "text": "더불어민주당",
-                "value": 10
+                "value": 12
             },
             {
                 "text": "위원",
                 "value": 10
+            },
+            {
+                "text": "법안",
+                "value": 8
             },
             {
                 "text": "민주",
@@ -114,29 +118,25 @@
             {
                 "text": "보상",
                 "value": 7
-            },
-            {
-                "text": "간담회",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:11.525185",
+        "last_analyzed_at": "2026-02-02T09:57:29.715947",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                0,
                 1,
                 1,
+                0,
+                0,
+                0,
                 0,
                 0
             ]
@@ -688,86 +688,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac2c631fd1743497d54c",
-            "url": "https://www.youtube.com/watch?v=dxFJlvKQeog",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 1065.0,
-            "title": "이주희 \"女 의원 모욕\" vs 김장겸 \"여성 코스프레\"…시작부터 여야 충돌, 무슨 일? / KNN",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae1",
-            "url": "https://www.youtube.com/watch?v=JWZfL4vVmhE",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 585.0,
-            "title": "[생중계] 이주희 더불어민주당 의원 1호 법안, '고 정순규 방지법' 발의 기자회견 (2025.09.05 오전)",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae2",
-            "url": "https://www.youtube.com/watch?v=db8_Xhr-aLw",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 539.0,
-            "title": "이주희의원 과방위 첫데뷔!",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae3",
-            "url": "https://www.youtube.com/watch?v=8v8jfJ-cFUI",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:12.857000",
-            "duration": 488.0,
-            "title": "'쿠팡 청문회' 최민희 이주희 울었다 ... 국세청장 \"쿠팡 세무조사\"",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae4",
-            "url": "https://www.youtube.com/watch?v=imgSxq6UX2c",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-09T16:26:10.866000",
-            "duration": 81.0,
-            "title": "\"초심 잃지 않겠습니다.\" 선서 현장의 전율 이주희의원#Shorts #국회 #국회의원 #이주희 #정치 #민주주의 #초심 #의원선서 #정치인 #선거 #쿠팡청문회",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae5",
-            "url": "https://www.youtube.com/watch?v=CwIuxZAKAro",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 305.0,
-            "title": "새로운 비례대표 이주희 의원, 첫인사서부터 소신 발언",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae6",
-            "url": "https://www.youtube.com/watch?v=jnbmQK85ei0",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 280.0,
-            "title": "\"정치는 결국 국민이\" 국세청장 의원직 물려받았다 이주희의 떨림 있는 첫 발언",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad96631fd1743497dae7",
-            "url": "https://www.youtube.com/watch?v=ZRyZhyxLQtI",
-            "HG_NM": "이주희",
-            "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-23T16:47:42.591000",
-            "duration": 781.0,
-            "title": "[박정호의 핫스팟] \"펨코는 명백한 불법 도박 사이트\" 이주희 의원이 국감에서 펨코 직격한 이유는?",
-            "upload_date": null
-        },
-        {
             "_id": "6960ad96631fd1743497dae8",
             "url": "https://www.youtube.com/watch?v=EmJnu2MIGvQ",
             "HG_NM": "이주희",
@@ -778,33 +698,43 @@
             "upload_date": null
         },
         {
-            "_id": "696596b2887d07f7ba2fadc0",
-            "url": "https://www.youtube.com/watch?v=GhVPoz3tK7s",
+            "_id": "697ff4f438b0cf409697744a",
+            "url": "https://www.youtube.com/watch?v=nFjafqmgJjs",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-23T16:47:41.940000",
-            "duration": 2601.0,
-            "title": "최강욱 총선현장 with 강유정, 이주희 [LIVE🔴]",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 563.0,
+            "title": "이주희 국회의원 1호 법안, 안전관련 '故 정순규 방지법' 발의 기자회견, 더불어민주당 이주희",
             "upload_date": null
         },
         {
-            "_id": "696596b2887d07f7ba2fadc2",
-            "url": "https://www.youtube.com/watch?v=M31rm7FdLpY",
+            "_id": "697327a18459600028997a7f",
+            "url": "https://www.youtube.com/watch?v=8nLENUn0E6s",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:12.857000",
-            "duration": 700.0,
-            "title": "\"마진 손실을 왜 납품업체에 강요합니까?\" 이주희의 한마디에 '헉' [G1현장영상]",
+            "collected_at": "2026-02-02T09:51:00.142000",
+            "duration": 75.0,
+            "title": "'대장동 정치검사들' 회유에 가족들 협박까지 ㄷㄷㄷ 이주희 \"법 집행관 아닌 조작 수사의 달인들\"",
             "upload_date": null
         },
         {
-            "_id": "696596b2887d07f7ba2fadbf",
-            "url": "https://www.youtube.com/watch?v=U7uGs-iSSoM",
+            "_id": "6966efd8887d07f7ba2fb4ea",
+            "url": "https://www.youtube.com/watch?v=C8-132EA3Eo",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 263.0,
-            "title": "이주희, 비례 국회의원 승계 후 첫 인사…국회서 밝힌 각오는?",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 560.0,
+            "title": "과방위 데뷔한 이주희 의원, 인재유출 '콕' 짚으며 날카로운 질의",
+            "upload_date": null
+        },
+        {
+            "_id": "6966efd8887d07f7ba2fb4eb",
+            "url": "https://www.youtube.com/watch?v=X9zxoLdGddU",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 3424.0,
+            "title": "[박정호의 핫스팟+이주희+황희두] 이준석 지지 펨코식 정훈교육에 깜놀! 헉, 일베 속 극우가 문화로(11월 19일 전체보기)",
             "upload_date": null
         },
         {
@@ -818,35 +748,115 @@
             "upload_date": null
         },
         {
-            "_id": "6966efd8887d07f7ba2fb4eb",
-            "url": "https://www.youtube.com/watch?v=X9zxoLdGddU",
+            "_id": "696596b2887d07f7ba2fadbf",
+            "url": "https://www.youtube.com/watch?v=U7uGs-iSSoM",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-14T10:22:32.997000",
-            "duration": 3424.0,
-            "title": "[박정호의 핫스팟+이주희+황희두] 이준석 지지 펨코식 정훈교육에 깜놀! 헉, 일베 속 극우가 문화로(11월 19일 전체보기)",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 263.0,
+            "title": "이주희, 비례 국회의원 승계 후 첫 인사…국회서 밝힌 각오는?",
             "upload_date": null
         },
         {
-            "_id": "6966efd8887d07f7ba2fb4ea",
-            "url": "https://www.youtube.com/watch?v=C8-132EA3Eo",
+            "_id": "696596b2887d07f7ba2fadc2",
+            "url": "https://www.youtube.com/watch?v=M31rm7FdLpY",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-02-02T09:51:00.142000",
+            "duration": 700.0,
+            "title": "\"마진 손실을 왜 납품업체에 강요합니까?\" 이주희의 한마디에 '헉' [G1현장영상]",
+            "upload_date": null
+        },
+        {
+            "_id": "696596b2887d07f7ba2fadc0",
+            "url": "https://www.youtube.com/watch?v=GhVPoz3tK7s",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-01-23T16:47:41.940000",
+            "duration": 2601.0,
+            "title": "최강욱 총선현장 with 강유정, 이주희 [LIVE🔴]",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac2c631fd1743497d54c",
+            "url": "https://www.youtube.com/watch?v=dxFJlvKQeog",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 1065.0,
+            "title": "이주희 \"女 의원 모욕\" vs 김장겸 \"여성 코스프레\"…시작부터 여야 충돌, 무슨 일? / KNN",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad96631fd1743497dae7",
+            "url": "https://www.youtube.com/watch?v=ZRyZhyxLQtI",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-01-23T16:47:42.591000",
+            "duration": 781.0,
+            "title": "[박정호의 핫스팟] \"펨코는 명백한 불법 도박 사이트\" 이주희 의원이 국감에서 펨코 직격한 이유는?",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad96631fd1743497dae6",
+            "url": "https://www.youtube.com/watch?v=jnbmQK85ei0",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
             "collected_at": "2026-01-30T23:30:11.354000",
-            "duration": 560.0,
-            "title": "과방위 데뷔한 이주희 의원, 인재유출 '콕' 짚으며 날카로운 질의",
+            "duration": 280.0,
+            "title": "\"정치는 결국 국민이\" 국세청장 의원직 물려받았다 이주희의 떨림 있는 첫 발언",
             "upload_date": null
         },
         {
-            "_id": "697327a18459600028997a7f",
-            "url": "https://www.youtube.com/watch?v=8nLENUn0E6s",
+            "_id": "6960ad96631fd1743497dae5",
+            "url": "https://www.youtube.com/watch?v=CwIuxZAKAro",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-01-30T23:30:12.857000",
-            "duration": 75.0,
-            "title": "'대장동 정치검사들' 회유에 가족들 협박까지 ㄷㄷㄷ 이주희 \"법 집행관 아닌 조작 수사의 달인들\"",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 305.0,
+            "title": "새로운 비례대표 이주희 의원, 첫인사서부터 소신 발언",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad96631fd1743497dae4",
+            "url": "https://www.youtube.com/watch?v=imgSxq6UX2c",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-01-09T16:26:10.866000",
+            "duration": 81.0,
+            "title": "\"초심 잃지 않겠습니다.\" 선서 현장의 전율 이주희의원#Shorts #국회 #국회의원 #이주희 #정치 #민주주의 #초심 #의원선서 #정치인 #선거 #쿠팡청문회",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad96631fd1743497dae3",
+            "url": "https://www.youtube.com/watch?v=8v8jfJ-cFUI",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-02-02T09:51:00.142000",
+            "duration": 488.0,
+            "title": "'쿠팡 청문회' 최민희 이주희 울었다 ... 국세청장 \"쿠팡 세무조사\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad96631fd1743497dae2",
+            "url": "https://www.youtube.com/watch?v=db8_Xhr-aLw",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 539.0,
+            "title": "이주희의원 과방위 첫데뷔!",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad96631fd1743497dae1",
+            "url": "https://www.youtube.com/watch?v=JWZfL4vVmhE",
+            "HG_NM": "이주희",
+            "MONA_CD": "RBM5454A",
+            "collected_at": "2026-02-02T09:50:58.742000",
+            "duration": 585.0,
+            "title": "[생중계] 이주희 더불어민주당 의원 1호 법안, '고 정순규 방지법' 발의 기자회견 (2025.09.05 오전)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:11.525185"
+    "exported_at": "2026-02-02T09:57:29.715947"
 }

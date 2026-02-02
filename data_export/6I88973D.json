@@ -49,11 +49,11 @@
             "민주당",
             "지역",
             "계엄",
+            "국방",
+            "무인기",
             "이날",
             "소음",
             "지정",
-            "무인기",
-            "더불어민주당",
             "지사",
             "지방",
             "용인"
@@ -61,7 +61,7 @@
         "keyword_frequency": [
             {
                 "text": "승차",
-                "value": 23
+                "value": 24
             },
             {
                 "text": "제주",
@@ -77,7 +77,7 @@
             },
             {
                 "text": "민주당",
-                "value": 16
+                "value": 15
             },
             {
                 "text": "지역",
@@ -86,6 +86,14 @@
             {
                 "text": "계엄",
                 "value": 12
+            },
+            {
+                "text": "국방",
+                "value": 11
+            },
+            {
+                "text": "무인기",
+                "value": 11
             },
             {
                 "text": "이날",
@@ -100,14 +108,6 @@
                 "value": 11
             },
             {
-                "text": "무인기",
-                "value": 10
-            },
-            {
-                "text": "더불어민주당",
-                "value": 10
-            },
-            {
                 "text": "지사",
                 "value": 10
             },
@@ -120,29 +120,56 @@
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:58.840020",
+        "last_analyzed_at": "2026-02-02T09:57:16.603294",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
+                0,
+                0,
+                0,
                 1,
                 0,
-                0,
-                0,
-                0,
-                0
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff12238b0cf4096977378",
+            "link": "https://n.news.naver.com/mnews/article/016/0002594249?sid=100",
+            "created_at": "2026-02-02T09:34:42.369000",
+            "description": "국방 분야 AI 포괄 규율 국내 최초 법률 제정안 “국방 분야 AI 제도 공백 해소 나선다” 공군이 AI 기반 VR 모의비행훈련체계를 시연하는 모습 [헤럴드경제DB] [헤럴드경제=양대근 기자] 국회 국방위원회 소속 유용원 의원... ",
+            "originallink": "https://biz.heraldcorp.com/article/10667323?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-02T08:44:00",
+            "related_members": [
+                "6I88973D",
+                "KBK8836C"
+            ],
+            "title": "유용원·부승찬 의원, ‘국방인공지능법’ 제정안 공동대표발의…“여..."
+        },
+        {
+            "_id": "697ff12238b0cf4096977379",
+            "link": "https://n.news.naver.com/mnews/article/036/0000053072?sid=102",
+            "created_at": "2026-02-02T09:34:42.369000",
+            "description": "국회 국방위원회 여당 간사인 부승찬 의원은 “윤석열이 평양 무인기 작전을 통해 외환 유치의 문턱을 낮췄고, 몇몇 민간인이 낮아진 그 문턱을 넘어 또 다른 ‘북풍’을 기도하는 시대가 열린 것 같다”고 우려했다.... ",
+            "originallink": "https://h21.hani.co.kr/arti/society/society_general/58774.html",
+            "press": "한겨레",
+            "pubDate": "2026-01-31T11:02:00",
+            "related_members": [
+                "6I88973D"
+            ],
+            "title": "“전쟁은 작은 불씨에서”… 윤석열 이은 민간인의 무모한 도발"
+        },
         {
             "_id": "6976fceb8459600028997f3e",
             "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
@@ -717,107 +744,6 @@
                 "T6A6557F"
             ],
             "title": "與 의원 68명 \"미국의 베네수엘라 군사작전, 국제평화 위협\" [전문]"
-        },
-        {
-            "_id": "6964b542631fd17434996012",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-06T11:58:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "BT62420K",
-                "VRY5522V",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "OIA3741M",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "BRU2690F",
-                "MQK9493H",
-                "GP07421U",
-                "7YC6702R",
-                "JC14718Q",
-                "95J3282H",
-                "0R68099X",
-                "W3U3344O",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "CCU1009B",
-                "FH777496",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "8TU8443O",
-                "3C23171A",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b540631fd17434995fdc",
-            "link": "https://n.news.naver.com/mnews/article/079/0004096371?sid=100",
-            "created_at": "2026-01-12T17:47:58.026000",
-            "description": "더불어민주당 임오경 의원은 김병주·박수현·부승찬(민주당), 강대식·김승수·박정하·배현진(국민의힘), 김재원(조국혁신당) 의원과 공동으로 '미니어처 아트 작가&amp;프라모델, 캐릭터 특별전'을 국회 의원회관 2로비... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6443621?utm_source=naver&utm_medium=article&utm_campaign=20251216100549",
-            "press": "노컷뉴스",
-            "pubDate": "2025-12-16T10:06:00",
-            "related_members": [
-                "L2I9861C",
-                "5K93695T",
-                "6RD62559",
-                "6I88973D",
-                "4X525582",
-                "4T026790",
-                "GF286398",
-                "4019850M",
-                "5TQ6306B",
-                "DMP1439I"
-            ],
-            "title": "K-콘텐츠와 K-국방 만남…국회서 미니어처·프라모델 전시회"
         }
     ],
     "recent_videos": [
@@ -886,7 +812,7 @@
             "url": "https://www.youtube.com/watch?v=Ke0Ov9OvHW0",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:14.296000",
+            "collected_at": "2026-02-02T09:46:25.178000",
             "duration": 270.0,
             "title": "[핫라인] 부승찬 \"조희대-한덕수 만났다는 제보받아\"···한덕수 \"회의·식사 일체 없어\"",
             "upload_date": null
@@ -906,7 +832,7 @@
             "url": "https://www.youtube.com/watch?v=zWnDxIbL2ZM",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:12.858000",
+            "collected_at": "2026-02-02T09:46:23.927000",
             "duration": 682.0,
             "title": "\"총장님을 보면 너무 안타까워요\" 계엄사령관에게 질문하며 울먹인 부승찬 의원",
             "upload_date": null
@@ -926,7 +852,7 @@
             "url": "https://www.youtube.com/watch?v=TxgNYk4GDxc",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:12.858000",
+            "collected_at": "2026-02-02T09:46:23.927000",
             "duration": 196.0,
             "title": "국방위 부승찬 의원 똑부러진 설명에 우원식 의장 특급 칭찬",
             "upload_date": null
@@ -946,7 +872,7 @@
             "url": "https://www.youtube.com/watch?v=RDCjRSwn6pU",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:12.858000",
+            "collected_at": "2026-02-02T09:46:23.927000",
             "duration": 846.0,
             "title": "계엄 터지자 계엄사령관에게 전화 건 부승찬 의원 | 그날그곳",
             "upload_date": null
@@ -956,7 +882,7 @@
             "url": "https://www.youtube.com/watch?v=M1SvOja6CqY",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:14.296000",
+            "collected_at": "2026-02-02T09:46:23.927000",
             "duration": 509.0,
             "title": "[사건파일24] 野, 서영교·부승찬 고발···\"징벌적 손해배상제도 1호 적용 대상\"",
             "upload_date": null
@@ -986,7 +912,7 @@
             "url": "https://www.youtube.com/watch?v=UCoRsKE-rIMaEuILLsTE-GYg",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:12.858000",
+            "collected_at": "2026-02-02T09:46:23.927000",
             "duration": null,
             "title": "부승찬TV",
             "upload_date": null
@@ -996,7 +922,7 @@
             "url": "https://www.youtube.com/watch?v=M5ktjUcdnHo",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:12.858000",
+            "collected_at": "2026-02-02T09:46:25.178000",
             "duration": 1090.0,
             "title": "[뉴스하이킥] 누구보다 먼저 계엄 징후 포착한 부승찬이 말하는 계엄 전 6개월 그리고 1년 - 부승찬, MBC 251202 방송",
             "upload_date": null
@@ -1006,7 +932,7 @@
             "url": "https://www.youtube.com/watch?v=i84X2pt5EmM",
             "HG_NM": "부승찬",
             "MONA_CD": "6I88973D",
-            "collected_at": "2026-01-30T23:25:12.858000",
+            "collected_at": "2026-02-02T09:46:23.927000",
             "duration": 2632.0,
             "title": "부승찬 \"계엄 당일부터 체포조 명단 돌아…한동훈도 알았을 것\" [뉴스와이드]",
             "upload_date": null
@@ -1022,5 +948,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:58.840020"
+    "exported_at": "2026-02-02T09:57:16.603294"
 }

@@ -48,25 +48,29 @@
     "analysis": {
         "keywords": [
             "국민",
+            "회의",
             "공개",
             "발의",
-            "회의",
-            "후원",
             "토요",
             "민생",
+            "후원",
             "국적",
             "인사",
             "지방",
             "간호사",
             "최소",
             "기준",
-            "외국인",
-            "영남"
+            "응급실",
+            "환자"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 12
+                "value": 13
+            },
+            {
+                "text": "회의",
+                "value": 11
             },
             {
                 "text": "공개",
@@ -77,19 +81,15 @@
                 "value": 10
             },
             {
-                "text": "회의",
-                "value": 9
-            },
-            {
-                "text": "후원",
-                "value": 8
-            },
-            {
                 "text": "토요",
-                "value": 8
+                "value": 10
             },
             {
                 "text": "민생",
+                "value": 10
+            },
+            {
+                "text": "후원",
                 "value": 8
             },
             {
@@ -117,24 +117,24 @@
                 "value": 6
             },
             {
-                "text": "외국인",
+                "text": "응급실",
                 "value": 5
             },
             {
-                "text": "영남",
-                "value": 4
+                "text": "환자",
+                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:43.859252",
+        "last_analyzed_at": "2026-02-02T09:57:01.054845",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
@@ -142,12 +142,25 @@
                 0,
                 0,
                 0,
-                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10338b0cf4096977322",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746221?sid=105",
+            "created_at": "2026-02-02T09:34:11.235000",
+            "description": "국회 보건복지위원회 국민의힘 간사 김미애 의원은 응급실 뺑뺑이와 필수의료 붕괴의 원인으로 '의사 수 부족보다 구조적 문제'를 지목하며 \"환자를 받았을 때 발생하는 모든 책임을 의료진 개인이 떠안는 구조가 바뀌지... ",
+            "originallink": "https://www.news1.kr/bio/welfare-medical/6057181",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T06:20:00",
+            "related_members": [
+                "3BC6890E"
+            ],
+            "title": "[인터뷰] 김미애 \"응급실뺑뺑이, 의사 수 문제 아냐…책임구조 바꿔야\""
+        },
         {
             "_id": "69701232297082fcc2b34c32",
             "link": "https://n.news.naver.com/mnews/article/421/0008722283?sid=101",
@@ -405,7 +418,7 @@
             "url": "https://www.youtube.com/watch?v=UCkI25oVwVFJq5Ji1XXA7mHA",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:22.564000",
+            "collected_at": "2026-02-02T09:40:59.783000",
             "duration": null,
             "title": "김미애TV #미애이야기",
             "upload_date": null
@@ -415,7 +428,7 @@
             "url": "https://www.youtube.com/watch?v=5VZID4sQt4I",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:22.564000",
+            "collected_at": "2026-02-02T09:40:59.783000",
             "duration": 147.0,
             "title": "[자막] 정은경 청문회, 김미애, 발끈하며 청문회장 이탈… 복지위 파행",
             "upload_date": null
@@ -425,7 +438,7 @@
             "url": "https://www.youtube.com/watch?v=kA9LKURUpQE",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:22.564000",
+            "collected_at": "2026-02-02T09:40:59.783000",
             "duration": 5041.0,
             "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(25.11.29.)",
             "upload_date": null
@@ -435,7 +448,7 @@
             "url": "https://www.youtube.com/watch?v=Az5J9ALruYs",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:22.564000",
+            "collected_at": "2026-02-02T09:40:59.783000",
             "duration": 99.0,
             "title": "[자막] 정은경 가짜뉴스는 김미애가 퍼뜨려놓고… 사과는 이소영에게?",
             "upload_date": null
@@ -445,7 +458,7 @@
             "url": "https://www.youtube.com/watch?v=CZ7qiqglavg",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:23.977000",
+            "collected_at": "2026-02-02T09:41:01.121000",
             "duration": 359.0,
             "title": "[이슈&피플] 오거돈 전 시장 사퇴 4개월_김미애 국회의원(미래통합당)",
             "upload_date": null
@@ -455,7 +468,7 @@
             "url": "https://www.youtube.com/watch?v=ssLwAkOLa7c",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:22.564000",
+            "collected_at": "2026-02-02T09:40:59.783000",
             "duration": 1918.0,
             "title": "‘약자와의 동행’ 김미애 의원 “윤석열 눈에서 꿀 떨어질 때…” | #강찬호의 투머치토커",
             "upload_date": null
@@ -485,7 +498,7 @@
             "url": "https://www.youtube.com/watch?v=hvnUWbfTsj4",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:23.977000",
+            "collected_at": "2026-02-02T09:41:01.121000",
             "duration": 372.0,
             "title": "'민변' 김호철 감사원장 후보 대북관 검증 나선 김미애 [티조Clip]",
             "upload_date": null
@@ -535,7 +548,7 @@
             "url": "https://www.youtube.com/watch?v=RBDNyuYrty8",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:23.977000",
+            "collected_at": "2026-02-02T09:41:01.121000",
             "duration": 498.0,
             "title": "김미애 \"민변일 땐 말하고 후보자 되니 입 닫나\" [티조Clip]",
             "upload_date": null
@@ -545,11 +558,21 @@
             "url": "https://www.youtube.com/watch?v=oaZGVwsNJ0M",
             "HG_NM": "김미애",
             "MONA_CD": "3BC6890E",
-            "collected_at": "2026-01-30T23:19:22.564000",
+            "collected_at": "2026-02-02T09:40:59.783000",
             "duration": 5530.0,
             "title": "[김미애TV] 국회의원 김미애와 함께하는 토요민생회의(26.1.24.)",
             "upload_date": null
+        },
+        {
+            "_id": "697ff29d38b0cf40969773e2",
+            "url": "https://www.youtube.com/watch?v=w6-rLcL9uvU",
+            "HG_NM": "김미애",
+            "MONA_CD": "3BC6890E",
+            "collected_at": "2026-02-02T09:40:59.783000",
+            "duration": 3248.0,
+            "title": "[김미애TV] 국회의원 김미애와 함께하는 토요 민생 회의(21.07.24.)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:43.859252"
+    "exported_at": "2026-02-02T09:57:01.054845"
 }

@@ -42,50 +42,54 @@
     },
     "analysis": {
         "keywords": [
-            "원내",
             "민주당",
-            "이날",
-            "김병기",
+            "합당",
             "대표",
-            "대변인",
             "특검",
+            "원내",
+            "총회",
+            "이날",
+            "대변인",
             "통일교",
             "단식",
-            "총회",
+            "김병기",
+            "논의",
             "장동",
-            "이혜훈",
-            "법안",
-            "처리",
-            "대통령"
+            "혁신",
+            "절차"
         ],
         "keyword_frequency": [
             {
-                "text": "원내",
-                "value": 27
+                "text": "민주당",
+                "value": 30
             },
             {
-                "text": "민주당",
+                "text": "합당",
                 "value": 23
             },
             {
-                "text": "이날",
-                "value": 19
-            },
-            {
-                "text": "김병기",
-                "value": 19
-            },
-            {
                 "text": "대표",
-                "value": 18
-            },
-            {
-                "text": "대변인",
                 "value": 17
             },
             {
                 "text": "특검",
                 "value": 17
+            },
+            {
+                "text": "원내",
+                "value": 14
+            },
+            {
+                "text": "총회",
+                "value": 13
+            },
+            {
+                "text": "이날",
+                "value": 13
+            },
+            {
+                "text": "대변인",
+                "value": 13
             },
             {
                 "text": "통일교",
@@ -96,7 +100,11 @@
                 "value": 12
             },
             {
-                "text": "총회",
+                "text": "김병기",
+                "value": 12
+            },
+            {
+                "text": "논의",
                 "value": 11
             },
             {
@@ -104,50 +112,159 @@
                 "value": 11
             },
             {
-                "text": "이혜훈",
-                "value": 11
+                "text": "혁신",
+                "value": 10
             },
             {
-                "text": "법안",
-                "value": 9
-            },
-            {
-                "text": "처리",
-                "value": 9
-            },
-            {
-                "text": "대통령",
-                "value": 8
+                "text": "절차",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:50.790000",
+        "last_analyzed_at": "2026-02-02T09:57:08.235873",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                0,
                 3,
                 3,
                 3,
-                0
+                0,
+                0,
+                4,
+                2
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697ff0f938b0cf40969772fd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742240?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "대표적으로 강득구∙이언주∙황명선 최고위원이 최근 절차적 정당성 등을 이유로 정 대표의 합당 제안에... 한준호 의원은 1일 국회에서 기자회견을 열고 \"조국혁신당과의 합당 제안은 여기에서 멈춰달라\"며 합당 제안... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497952",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "RJH6314D",
+                "JG77046J",
+                "7YL9580G",
+                "6VC83722",
+                "2385336L",
+                "1S05899F"
+            ],
+            "title": "與 이번주 '조국혁신당 합당' 논의 본격화…당내 반발 지속"
+        },
+        {
+            "_id": "697ff0f938b0cf40969772ff",
+            "link": "https://n.news.naver.com/mnews/article/005/0001829650?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "친명(친이재명)계 인사인 한준호 민주당 의원은 1일 국회 기자회견에서 “통합의 가치를 부정하지 않는다.... 선출직 중에서는 이언주·강득구·황명선 최고위원이 ‘1인1표제’부터 합당까지 공개적으로 반대 의견을 내고... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1769934057&code=11121100&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-02-02T02:07:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "RJH6314D",
+                "JG77046J",
+                "XPP2564T",
+                "7YL9580G",
+                "6VC83722",
+                "8BF5855P",
+                "N2P9317N",
+                "2385336L"
+            ],
+            "title": "민주당, 합당 논란 재점화… 지선 앞두고 계파간 권력다툼"
+        },
+        {
+            "_id": "697ff11138b0cf409697735e",
+            "link": "https://n.news.naver.com/mnews/article/009/0005630611?sid=100",
+            "created_at": "2026-02-02T09:34:25.634000",
+            "description": "한준호 더불어민주당 의원은 1일 기자회견을 열고 합당을 제안한 정청래 대표를 향해 “여기서 멈춰 주시기... 최근 비당권파 중진 의원과 국회의원 출신 국무위원이 정 대표와 혁신당 사이의 사전 밀약 가능성을 언급한... ",
+            "originallink": "https://www.mk.co.kr/article/11949757",
+            "press": "매일경제",
+            "pubDate": "2026-02-01T21:07:00",
+            "related_members": [
+                "7YL9580G",
+                "6VC83722",
+                "JG77046J",
+                "0698755I",
+                "BCQ55105",
+                "2385336L"
+            ],
+            "title": "고 이해찬 장례기간 끝나자 여당 다시 내홍…“합당, 당정에 부담”"
+        },
+        {
+            "_id": "697ff0f938b0cf4096977303",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585322?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "친명(친이재명)계로 분류되는 한준호 민주당 의원은 1일 국회에서 기자회견을 열고 정청래 대표에게... 당내에서는 이언주·황명선·강득구 최고위원 등 지도부를 비롯한 의원들의 반발이 계속되고 있다. 민주당 초선 모임... ",
+            "originallink": "https://www.sedaily.com/article/20003331?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-01T17:37:00",
+            "related_members": [
+                "RJH6314D",
+                "JG77046J",
+                "8P37634C",
+                "BCQ55105",
+                "2385336L",
+                "7YL9580G",
+                "6VC83722",
+                "0698755I",
+                "1S05899F"
+            ],
+            "title": "민주당 합당 내분에…혁신당 “집안 정리부터”"
+        },
+        {
+            "_id": "697ff10338b0cf4096977329",
+            "link": "https://n.news.naver.com/mnews/article/009/0005630417?sid=100",
+            "created_at": "2026-02-02T09:34:11.528000",
+            "description": "최근 비당권파 중진 의원과 국회의원 출신 국무위원이 정 대표와 혁신당 사이의 사전 밀약 가능성을 언급한... 정책 의원총회와 17개 시도당 토론회 등을 통해 합당 논의를 본격화하고 당원 투표를 실시할 계획이다. 한정애... ",
+            "originallink": "https://www.mk.co.kr/article/11949455",
+            "press": "매일경제",
+            "pubDate": "2026-02-01T15:52:00",
+            "related_members": [
+                "BCQ55105",
+                "MLH1404S",
+                "XPP2564T",
+                "7YL9580G",
+                "6VC83722",
+                "0698755I",
+                "1S05899F"
+            ],
+            "title": "민주, 조국혁신당 합당 두고 ‘집안싸움’ 격화…한준호 “여기서 멈춰..."
+        },
+        {
+            "_id": "697ff11138b0cf409697735f",
+            "link": "https://n.news.naver.com/mnews/article/003/0013741878?sid=100",
+            "created_at": "2026-02-02T09:34:25.636000",
+            "description": "한정애 정책위의장도 이날 국회에서 기자간담회를 열고 \"합당 관련 논의를 하는 의원총회를 별도로 하겠다는 말씀은 이미 드렸다. 멀지 않은 시간 내에 당무 관련 의원총회를 잡아야 한다\"고 했다. 이어 \"의원들의... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497911",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T12:48:00",
+            "related_members": [
+                "7YL9580G",
+                "6VC83722",
+                "1S05899F",
+                "BCQ55105",
+                "XPP2564T"
+            ],
+            "title": "與, 조문 정국 마무리에 \"합당 논의 절차 이번주 재개\""
+        },
+        {
             "_id": "697cbd2138b0cf4096976ae2",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-29T20:30:00",
@@ -170,7 +287,7 @@
             "_id": "697cbd2138b0cf4096976ae3",
             "link": "https://n.news.naver.com/mnews/article/052/0002307758?sid=100",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에 언제까지... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601291934537352",
             "press": "YTN",
             "pubDate": "2026-01-29T19:34:00",
@@ -271,7 +388,7 @@
             "_id": "697cbd2638b0cf4096976b0d",
             "link": "https://n.news.naver.com/mnews/article/366/0001138672?sid=100",
             "created_at": "2026-01-30T23:16:06.390000",
-            "description": "김영진 민주당 의원은 “한미 양국이 자국 국내 법률을 통해 준수하고 진행한다고 명확하게 규정하고 있다”며 “양국 국회의 비준 사안이 아니라는 것”이라고 했다. 김현정 원내대변인도 이날 오전 원내대표회의 이후... ",
+            "description": "민주당은 국민의힘이 요구하는 국회 비준에 대해서는 선을 그었다. 김영진 민주당 의원은 “한미 양국이 자국 국내 법률을 통해 준수하고 진행한다고 명확하게 규정하고 있다”며 “양국 국회의 비준 사안이 아니라는... ",
             "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/27/5SX45HURE5F6TP3HDLGL5QBNHY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
             "press": "조선일보",
             "pubDate": "2026-01-27T14:09:00",
@@ -325,7 +442,7 @@
             "_id": "6972d1f484596000289976d1",
             "link": "https://n.news.naver.com/mnews/article/032/0003423226?sid=100",
             "created_at": "2026-01-23T10:42:10.904000",
-            "description": "이 대통령은 이날 특위 소속 위원들을 청와대로 초청해 오찬을 하며 이같이 밝혔다고 특위 위원장인 오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을 강조한 것으로... ",
+            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 오 의원을 비롯해 김남근·김영환·김현정·민병덕·박상혁·안도걸·이강일·이정문·이소영 의원 등 특위 소속... ",
             "originallink": "https://www.khan.co.kr/article/202601221615001",
             "press": "경향신문",
             "pubDate": "2026-01-22T16:15:00",
@@ -576,137 +693,6 @@
                 "H5476989"
             ],
             "title": "김병기, 윤리심판원 출석…여 지도부, 비상징계 등 차선책 논의"
-        },
-        {
-            "_id": "696594ad887d07f7ba2fab3e",
-            "link": "https://n.news.naver.com/mnews/article/032/0003421006?sid=100",
-            "created_at": "2026-01-13T09:41:15.203000",
-            "description": "한 원내대표는 원내수석부대표에 천준호 의원(운영 담당), 김한규 의원(정책), 전용기 의원(소통)을 임명했다. 한 원내대표는 이날 국회에서 열린 최고위원회의에서 “국정과제 상황판과 당·정·청 24시간 핫라인을... ",
-            "originallink": "https://www.khan.co.kr/article/202601122041005",
-            "press": "경향신문",
-            "pubDate": "2026-01-12T20:41:00",
-            "related_members": [
-                "A494529E",
-                "H5476989",
-                "TJW93720",
-                "NUB4941Z",
-                "7YL9580G",
-                "6VC83722",
-                "XBT9550Q",
-                "6EN68926",
-                "KFM1081G"
-            ],
-            "title": "한병도 “당·정·청 소통 강화 위한 ‘24시간 핫라인’ 가동할 것”"
-        },
-        {
-            "_id": "696594ad887d07f7ba2fab40",
-            "link": "https://n.news.naver.com/mnews/article/032/0003420971?sid=100",
-            "created_at": "2026-01-13T09:41:15.203000",
-            "description": "한 원내대표는 원내수석부대표에 천준호 의원(운영 담당), 김한규 의원(정책), 전용기 의원(소통)을 임명했다. 한 원내대표는 이날 국회에서 열린 최고위원회의에서 “국정과제 상황판을 가동하고 당·정·청 24시간... ",
-            "originallink": "https://www.khan.co.kr/article/202601121754001",
-            "press": "경향신문",
-            "pubDate": "2026-01-12T17:54:00",
-            "related_members": [
-                "A494529E",
-                "H5476989",
-                "TJW93720",
-                "NUB4941Z",
-                "7YL9580G",
-                "6VC83722",
-                "XBT9550Q",
-                "6EN68926",
-                "KFM1081G"
-            ],
-            "title": "한병도 “당정청 24시간 핫라인 가동”…원내수석에 천준호·김한규·전..."
-        },
-        {
-            "_id": "6964b542631fd17434995ff9",
-            "link": "https://n.news.naver.com/mnews/article/032/0003420969?sid=100",
-            "created_at": "2026-01-12T17:47:59.436000",
-            "description": "다만 정당법에 따라 국회의원 제명의 경우 의원총회를 열어 재적의원 과반의 찬성을 얻어야 한다. 정청래... 이날도 당에선 김 의원의 거취 표명을 촉구하는 목소리가 이어졌다. 박지원 의원은 이날 CBS &lt;박성태의 뉴스쇼... ",
-            "originallink": "https://www.khan.co.kr/article/202601121740001",
-            "press": "경향신문",
-            "pubDate": "2026-01-12T17:40:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "2385336L",
-                "6VC83722",
-                "7YL9580G",
-                "8BF5855P",
-                "H5476989"
-            ],
-            "title": "김병기 윤리심판원 출석…“의혹 무고함 밝혀질 수 있게 충실히 답변”"
-        },
-        {
-            "_id": "6964b541631fd17434995fdd",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299526?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "[김대식] 그러니까 이혜훈 의원이 그때 당시 서초구 국회의원을 했잖아요. 그런데 없는 복무요원 자리가 생겼다는 말이죠. 사실상 그게 굉장히 어려운 거예요. 1명 정도 같으면 이해가 가는데. 둘째 아들이 군대 갈 때는... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601121641580338",
-            "press": "YTN",
-            "pubDate": "2026-01-12T16:41:00",
-            "related_members": [
-                "N2P9317N",
-                "2385336L",
-                "8Q88373R",
-                "8P37634C",
-                "GOC54665",
-                "MNZ4401T",
-                "ANS8383S",
-                "TJW93720",
-                "6VC83722",
-                "7YL9580G",
-                "FU87526G",
-                "5TQ6306B",
-                "8BF5855P",
-                "6EN68926",
-                "H5476989",
-                "KFM1081G"
-            ],
-            "title": "[정치ON] 2주만 등장한 김병기...민주 지도부 \"애당의 길 고민하길\""
-        },
-        {
-            "_id": "6964b542631fd17434995ffd",
-            "link": "https://n.news.naver.com/mnews/article/009/0005620413?sid=100",
-            "created_at": "2026-01-12T17:47:59.436000",
-            "description": "김현정 더불어민주당 원내 대변인은 이날 라디오에 출연해 “김병기 의원이 출석해 13가지 의혹에 대해... 국회의원 제명은 정당법과 당헌·당규에 따라 의원 과반 찬성 의결이 필요하다. 다만 당 일각에서는 윤리심판원의... ",
-            "originallink": "https://www.mk.co.kr/article/11930354",
-            "press": "매일경제",
-            "pubDate": "2026-01-12T16:11:00",
-            "related_members": [
-                "MNZ4401T",
-                "8Q88373R",
-                "6VC83722",
-                "7YL9580G"
-            ],
-            "title": "김병기, 민주당 윤리심판원 출석…탈당 압박 속 거취 분수령"
-        },
-        {
-            "_id": "6964b541631fd17434995fe0",
-            "link": "https://n.news.naver.com/mnews/article/056/0012102869?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "또 국회의원들의 열기가 상당히 높았던 것 같아요. 그래서 보궐선거임에도 불구하고 중앙위원은 91%가 넘고... 어느 의원님이 맡게 되시는 건가요? ▶ 김현정 : 오늘 10시에 발표하기로 되어 있는데요. 아마도 천준호 의원이... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8456252&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-12T10:48:00",
-            "related_members": [
-                "8P37634C",
-                "6VC83722",
-                "7YL9580G",
-                "2385336L",
-                "N2P9317N",
-                "GOC54665",
-                "5TQ6306B",
-                "8BF5855P",
-                "XBT9550Q",
-                "K5F2023J",
-                "QWL7778X",
-                "KFM1081G",
-                "8SV6917G",
-                "A494529E"
-            ],
-            "title": "[전격시사] 김현정 더불어민주당 원내대변인 - 보궐선거 결과, 당권파 힘..."
         }
     ],
     "recent_videos": [
@@ -715,7 +701,7 @@
             "url": "https://www.youtube.com/watch?v=rcYadlgEdKY",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 517.0,
             "title": "김현정 의원 채널A 뉴스 탑텐 발언 모음",
             "upload_date": null
@@ -725,7 +711,7 @@
             "url": "https://www.youtube.com/watch?v=R21kRbA9FKI",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:08.433000",
+            "collected_at": "2026-02-02T09:43:29.958000",
             "duration": 186.0,
             "title": "김현정, 16년 만의 뉴스쇼 하차가... '李 저격' 때문? 직접 입 열었다! [이슈클립]",
             "upload_date": null
@@ -745,7 +731,7 @@
             "url": "https://www.youtube.com/watch?v=xkfhm6iHM7w",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-23T16:42:16.679000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 428.0,
             "title": "여의도 '인적 쇄신 칼 바람', 현직 국회의원들의 체감 온도는? | 김현정의 쎈터:뷰 Centerview EP.5",
             "upload_date": null
@@ -755,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=rPR-o9Yf4Q4",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 2884.0,
             "title": "#상생∙#연대∙#공존 등 우분투의 중요성! 김현정 더불어민주당 의원의 '더불어 살아가는 법' 📖 | 인생책방 | 국회방송",
             "upload_date": null
@@ -775,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=fmTksJMR6cc",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:08.433000",
+            "collected_at": "2026-02-02T09:43:29.958000",
             "duration": 5244.0,
             "title": "12/30 (화) 뉴스연구소(조태임·김준일) |”이혜훈, 변신이자 배신”(신동욱) | “최악의 서울시장은??(김진애) | '김병기, 결국 사퇴' (한칼토론) [김현정의 뉴스쇼]",
             "upload_date": null
@@ -785,7 +771,7 @@
             "url": "https://www.youtube.com/watch?v=xiWbS6GIYTo",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 212.0,
             "title": "[카메라리포트/현장취재] 한국장애인뇌병변협회, 김현정 국회의원 후보자 공개지지 선언",
             "upload_date": null
@@ -805,7 +791,7 @@
             "url": "https://www.youtube.com/watch?v=C3aeqf0o8gg",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 4109.0,
             "title": "[박정호의 핫스팟] 김현정의 정문일침 \"'반바지 대표' 한동훈, 정치인의 기본적 에티켓과 자질 좀 공부하길\" (9월 3일 전체보기)",
             "upload_date": null
@@ -815,7 +801,7 @@
             "url": "https://www.youtube.com/watch?v=UC06KOGTQls2OsECol2R2ASA",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": null,
             "title": "김현정 정감정치",
             "upload_date": null
@@ -825,7 +811,7 @@
             "url": "https://www.youtube.com/watch?v=u5YPA4q1FvI",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 533.0,
             "title": "김현정 의원 MBN 뉴스와이드 발언 모음.ZIP",
             "upload_date": null
@@ -835,7 +821,7 @@
             "url": "https://www.youtube.com/watch?v=s8xlQ1aNmpQ",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 234.0,
             "title": "김현정 \"의원 정수 감축 제안, 진정성 있다면 당론 먼저 채택해야\" [Y녹취록] / YTN",
             "upload_date": null
@@ -845,7 +831,7 @@
             "url": "https://www.youtube.com/watch?v=vV8RGGhxXpE",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:08.433000",
+            "collected_at": "2026-02-02T09:43:29.958000",
             "duration": 6391.0,
             "title": "1/2(금) 강선우 탈당, 김병기 윤리위 회부(조태임·박순봉) 2026 정치에 바란다(김종인) 이혜훈 갑질·강선우 1억·한동훈 당게(김종혁·김현정) [김현정의 뉴스쇼]",
             "upload_date": null
@@ -885,7 +871,7 @@
             "url": "https://www.youtube.com/watch?v=cagjLOS2E4M",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-01-30T23:22:06.908000",
+            "collected_at": "2026-02-02T09:43:28.610000",
             "duration": 506.0,
             "title": "쿠팡 청문회장에서 김현정 의원, ‘사찰 정황’ 폭로 “작업 현장, 완전 무법지대”",
             "upload_date": null
@@ -901,5 +887,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:50.790000"
+    "exported_at": "2026-02-02T09:57:08.235873"
 }

@@ -43,106 +43,151 @@
     "analysis": {
         "keywords": [
             "금주",
-            "합당",
             "민주당",
+            "합당",
             "전남",
             "지역",
-            "국민",
-            "제안",
-            "대통령",
             "더불어민주당",
+            "국민",
             "교육",
-            "민주",
-            "대변인",
+            "제안",
             "원내",
+            "대변인",
+            "광주",
+            "대통령",
             "김문수",
-            "광주"
+            "민주"
         ],
         "keyword_frequency": [
             {
                 "text": "금주",
-                "value": 36
-            },
-            {
-                "text": "합당",
-                "value": 24
+                "value": 39
             },
             {
                 "text": "민주당",
+                "value": 25
+            },
+            {
+                "text": "합당",
                 "value": 22
             },
             {
                 "text": "전남",
-                "value": 15
+                "value": 16
             },
             {
                 "text": "지역",
                 "value": 15
             },
             {
-                "text": "국민",
-                "value": 15
-            },
-            {
-                "text": "제안",
-                "value": 14
-            },
-            {
-                "text": "대통령",
+                "text": "더불어민주당",
                 "value": 13
             },
             {
-                "text": "더불어민주당",
-                "value": 12
+                "text": "국민",
+                "value": 13
             },
             {
                 "text": "교육",
                 "value": 12
             },
             {
-                "text": "민주",
+                "text": "제안",
                 "value": 12
+            },
+            {
+                "text": "원내",
+                "value": 11
             },
             {
                 "text": "대변인",
                 "value": 11
             },
             {
-                "text": "원내",
-                "value": 10
+                "text": "광주",
+                "value": 11
+            },
+            {
+                "text": "대통령",
+                "value": 11
             },
             {
                 "text": "김문수",
                 "value": 10
             },
             {
-                "text": "광주",
+                "text": "민주",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:52.001801",
+        "last_analyzed_at": "2026-02-02T09:57:09.512009",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                4,
-                4,
                 3,
                 5,
                 2,
-                2
+                2,
+                0,
+                2,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10b38b0cf409697734b",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585386?sid=102",
+            "created_at": "2026-02-02T09:34:19.292000",
+            "description": "김영록 전남도지사와 민주당 최고의원인 문정복·황명선 국회의원, 김원이 민주당전남도당 위원장, 양부남 민주당광주시당 위원장을 비롯 이정선 광주광역시교육감과 신수정 광주광역시의장의 축하영상이 있었다. 이와... ",
+            "originallink": "https://www.sedaily.com/article/20003391?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-01T19:43:00",
+            "related_members": [
+                "RJH6314D",
+                "CK143054",
+                "GOC54665",
+                "4L695580",
+                "GRP3908I",
+                "ZKB18611",
+                "9HE7226N",
+                "TKJ4800F",
+                "BCQ55105",
+                "T465023H",
+                "I7R13867",
+                "VRY5522V"
+            ],
+            "title": "마음을 울린 진심어린 ‘담양사랑’…격이 달랐던 담양군수 민주당 후보..."
+        },
+        {
+            "_id": "697ff0fb38b0cf4096977313",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585289?sid=102",
+            "created_at": "2026-02-02T09:34:03.406000",
+            "description": "또한 정청래 더불어민주당 대표를 비롯해 김영록 전남도지사, 김원이 더불어민주당 전남도당위원장, 신정훈·황명선·박수현·문금주 국회의원 등은 영상 축사를 통해 축하의 뜻을 전했다. 이날 행사 역시 군민들과... ",
+            "originallink": "https://www.sedaily.com/article/20003291?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-01T14:52:00",
+            "related_members": [
+                "I7R13867",
+                "WCD5518S",
+                "4L695580",
+                "T465023H",
+                "2385336L",
+                "GRP3908I",
+                "5TQ6306B",
+                "M7O7878U",
+                "RJH6314D"
+            ],
+            "title": "“사람이 우선” 특별했던 무안군수 후보 ‘나광국’ 출판기념회…그 ..."
+        },
         {
             "_id": "697cbd3138b0cf4096976b7c",
             "link": "https://n.news.naver.com/mnews/article/079/0004110624?sid=102",
@@ -213,7 +258,7 @@
             "_id": "697cbd3138b0cf4096976b81",
             "link": "https://n.news.naver.com/mnews/article/421/0008740552?sid=100",
             "created_at": "2026-01-30T23:16:17.578000",
-            "description": "더불어민주당 박수현 수석대변인은 28일 국회에서 기자들과 만나 \"권불십년(權不十年·아무리 높은 권세도 오래가지 못함)이란 말이 있는데 권 의원의 경우 '권불일년'이란 말이 새로 생긴 것 같다\"며 \"항상 권력과 특혜... ",
+            "description": "공직자와 국회의원이 갖는 계기가 되기를 바란다\"고 밝혔다. 특히 \"통일교의 정치개입 혐의가 권 의원 선고에... 문금주 원내대변인은 서면 브리핑에서 권 의원 1심 선고에 대해 \"권력을 매개로 한 불법 정치자금 수수가... ",
             "originallink": "https://www.news1.kr/politics/assembly/6054448",
             "press": "뉴스1",
             "pubDate": "2026-01-28T18:24:00",
@@ -282,7 +327,7 @@
             "_id": "697cbd3138b0cf4096976b82",
             "link": "https://n.news.naver.com/mnews/article/003/0013733636?sid=102",
             "created_at": "2026-01-30T23:16:17.578000",
-            "description": "광역단체장과 국회의원들이 간담회와 SNS 등을 통해 최종 합의 결과에 대한 미묘한 온도차를 보였다. 27일... 동부권 주철현 의원은 \"전남을 주사무소로 명기하는 것을 빼는 대신 명칭에서 '전남'이 앞에 오도록 하고, 약칭은... ",
+            "description": "광역단체장과 국회의원들이 간담회와 SNS 등을 통해 최종 합의 결과에 대한 미묘한 온도차를 보였다. 27일... 광주 안도걸·전진숙, 전남 문금주·조계원 의원 등은 합의 내용만 간략히 전하며 특별법 제정에 끝까지 힘을... ",
             "originallink": "https://www.newsis.com/view/NISX20260127_0003492299",
             "press": "뉴시스",
             "pubDate": "2026-01-27T17:23:00",
@@ -374,7 +419,7 @@
             "_id": "697cbd1d38b0cf4096976a9f",
             "link": "https://ysmbc.co.kr/NewsArticle/1502394",
             "created_at": "2026-01-30T23:15:57.539000",
-            "description": "민주당과 조국혁신당의 합당 제안을 두고 전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이... ",
+            "description": "전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이 적지 않다고 주장했습니다. 반면, 권향엽... ",
             "originallink": "https://ysmbc.co.kr/NewsArticle/1502394",
             "press": "MBC",
             "pubDate": "2026-01-26T17:12:00",
@@ -450,7 +495,7 @@
             "_id": "6976fcea8459600028997f33",
             "link": "https://ysmbc.co.kr/NewsArticle/1502259",
             "created_at": "2026-01-26T14:34:31.506000",
-            "description": "민주당과 조국혁신당의 합당 제안을 두고 전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이... ",
+            "description": "전남동부지역 국회의원들의 입장이 엇갈리고 있습니다. 민주당 김문수, 문금주, 조계원 의원은 절차적 정당성 없는 독단적 합당 추진에 반대하며, 중도층 이탈 등 우려되는 점이 적지 않다고 주장했습니다. 반면, 권향엽... ",
             "originallink": "https://ysmbc.co.kr/NewsArticle/1502259",
             "press": "MBC",
             "pubDate": "2026-01-25T21:00:00",
@@ -617,43 +662,6 @@
                 "Q918403D"
             ],
             "title": "한덕수 ‘23년’ 선고에… 민주 “당연한 결론”·국힘 “최종 판단 기..."
-        },
-        {
-            "_id": "6972d1f184596000289976ba",
-            "link": "https://n.news.naver.com/mnews/article/437/0000474656?sid=100",
-            "created_at": "2026-01-23T10:42:07.143000",
-            "description": "반면 한지아 의원은 페이스북을 통해 \"계엄이 내란, 친위 쿠데타라는 법원의 판결이 나왔다\"며 \"우리 당에서 배출한 대통령이 시행한 비상계엄으로 초래된 결과에 대해 국회의원으로서 국민께 고개 숙여 다시 한번... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12281192?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-21T16:50:00",
-            "related_members": [
-                "REG96285",
-                "GRP3908I",
-                "6AU2417B",
-                "Q918403D"
-            ],
-            "title": "법원 \"계엄=내란\" 판단에 민주 \"명쾌\"…국힘은 또 침묵"
-        },
-        {
-            "_id": "6972d2068459600028997754",
-            "link": "https://n.news.naver.com/mnews/article/421/0008726832?sid=100",
-            "created_at": "2026-01-23T10:42:28.353000",
-            "description": "사회민주당 한창민 대표는 \"12·3 비상계엄 사태가 내란에 해당한다는 사법부의 첫 판단이란 점에서 큰 의미... 대해 국회의원으로 국민에게 고개 숙여 다시 한번 사과한다\"며 당 지도부에 윤석열 전 대통령 제명 조치, 절연... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6046479",
-            "press": "뉴스1",
-            "pubDate": "2026-01-21T16:12:00",
-            "related_members": [
-                "GRP3908I",
-                "NX534083",
-                "6AU2417B",
-                "TKJ4800F",
-                "GE71932C",
-                "OFE45081",
-                "YS38221N",
-                "Q918403D",
-                "T4I4862D"
-            ],
-            "title": "한덕수 징역 23년…與 \"추상같이 명쾌\" 野 \"더 지켜봐야\""
         }
     ],
     "recent_videos": [
@@ -662,7 +670,7 @@
             "url": "https://www.youtube.com/watch?v=7mPAQHX0WLM",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 436.0,
             "title": "더불어민주당 문금주 국회의원_ 뉴라이트 인사등용, 국민 분노, 책임은 누구?_제418회국회 예산결산특별위원회 종합질의",
             "upload_date": null
@@ -672,7 +680,7 @@
             "url": "https://www.youtube.com/watch?v=UCVg8m6904RHRHfn5cRPHeuQ",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": null,
             "title": "문금주TV",
             "upload_date": null
@@ -682,7 +690,7 @@
             "url": "https://www.youtube.com/watch?v=-jUcrHEd2PU",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 600.0,
             "title": "한우협회-민주당 문금주 의원 간담회&감사패 전달",
             "upload_date": null
@@ -692,7 +700,7 @@
             "url": "https://www.youtube.com/watch?v=u0vOzjW9n44",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 246.0,
             "title": "[2024국정감사] 더불어민주당 문금주, 불법수산물 온라인 유통, \"증거있는데 부득부득 우겨\"",
             "upload_date": null
@@ -702,7 +710,7 @@
             "url": "https://www.youtube.com/watch?v=l6iXsVYugc0",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 215.0,
             "title": "농민은 배제하고 소상공인 지원 650억 추경안 가져온 농림부, 농민 목소리는 어느 부처가 대변하나! | 문금주 국회의원 농해수위 전체회의",
             "upload_date": null
@@ -712,7 +720,7 @@
             "url": "https://www.youtube.com/watch?v=25F0Qvm-2zA",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 245.0,
             "title": "[국감현장] 문금주 의원, “배추가격 폭등, aT 늦장 대응” 질타 #국정감사 #국회 #농림축산식품해양수산위원회 #농림축산식품부 #한국농수산식품유통공사 #at",
             "upload_date": null
@@ -722,7 +730,7 @@
             "url": "https://www.youtube.com/watch?v=q_qOcLXnJHk",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 1299.0,
             "title": "민주당 원대변인 문금주국회의원 대담",
             "upload_date": null
@@ -732,7 +740,7 @@
             "url": "https://www.youtube.com/watch?v=SLax8ULO-iU",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:34.450000",
+            "collected_at": "2026-02-02T09:43:56.041000",
             "duration": 111.0,
             "title": "윤석열이 박살낸 경제 되살릴 이재명! | 문금주 국회의원",
             "upload_date": null
@@ -752,7 +760,7 @@
             "url": "https://www.youtube.com/watch?v=w873c-cN_oE",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:35.886000",
+            "collected_at": "2026-02-02T09:43:57.440000",
             "duration": 540.0,
             "title": "\"곽규택 대통령 발언, 정정하겠습니다\"...결연한 문금주, 눈 치켜뜨더니",
             "upload_date": null
@@ -762,7 +770,7 @@
             "url": "https://www.youtube.com/watch?v=UVF79ih9C1s",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-30T23:22:35.886000",
+            "collected_at": "2026-02-02T09:43:57.440000",
             "duration": 126.0,
             "title": "김승남-문금주 '2인 경선'..컷오프 후보들 반발 (2024.02.28/뉴스데스크/여수MBC)",
             "upload_date": null
@@ -792,7 +800,7 @@
             "url": "https://www.youtube.com/watch?v=JqMsqL4SM3M",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-01-23T16:42:37.053000",
+            "collected_at": "2026-02-02T09:43:57.440000",
             "duration": 241.0,
             "title": "\"국민이 김건희 구속 기다린다\" 문금주 민주당 원내대변인, 김건희 엄정 조사 촉구 기자회견",
             "upload_date": null
@@ -808,5 +816,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:52.002805"
+    "exported_at": "2026-02-02T09:57:09.512009"
 }

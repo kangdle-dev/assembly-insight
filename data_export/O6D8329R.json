@@ -58,24 +58,28 @@
     "analysis": {
         "keywords": [
             "더불어민주당",
+            "김해",
             "총리",
             "한일의원연맹",
             "다카",
             "이치",
-            "김해",
-            "보훈",
-            "국민",
-            "협력",
             "위원장",
+            "보훈",
+            "협력",
+            "국민",
             "정책",
             "포럼",
             "주호영",
             "부의장",
-            "상임"
+            "시장"
         ],
         "keyword_frequency": [
             {
                 "text": "더불어민주당",
+                "value": 24
+            },
+            {
+                "text": "김해",
                 "value": 22
             },
             {
@@ -95,15 +99,11 @@
                 "value": 16
             },
             {
-                "text": "김해",
+                "text": "위원장",
                 "value": 15
             },
             {
                 "text": "보훈",
-                "value": 15
-            },
-            {
-                "text": "국민",
                 "value": 14
             },
             {
@@ -111,12 +111,12 @@
                 "value": 14
             },
             {
-                "text": "위원장",
-                "value": 14
+                "text": "국민",
+                "value": 13
             },
             {
                 "text": "정책",
-                "value": 13
+                "value": 11
             },
             {
                 "text": "포럼",
@@ -131,33 +131,52 @@
                 "value": 11
             },
             {
-                "text": "상임",
+                "text": "시장",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:52.978544",
+        "last_analyzed_at": "2026-02-02T09:57:10.517368",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
-                0,
-                0,
-                0,
                 3,
                 0,
+                0,
+                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10e38b0cf4096977353",
+            "link": "https://n.news.naver.com/mnews/article/003/0013741600?sid=102",
+            "created_at": "2026-02-02T09:34:22.161000",
+            "description": "이날 출판기념회에는 김경수 지방시대 위원장, 민홍철 국회의원, 김정호 국회의원, 허성무 국회의원 등 경남 민주당의 주요 인사들이 참석한다. 정영두 김해시장 출마예정자는 “김민석 국무총리, 정청래 민주당 대표... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497740",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T07:53:00",
+            "related_members": [
+                "MLH1404S",
+                "9LD2641Q",
+                "O6D8329R",
+                "HHB5652A",
+                "2385336L",
+                "BT62420K",
+                "FYI20317"
+            ],
+            "title": "정영두 김해시장 출마예정자, 출판기념회"
+        },
         {
             "_id": "697cbd2b38b0cf4096976b50",
             "link": "https://n.news.naver.com/mnews/article/421/0008740546?sid=102",
@@ -282,7 +301,7 @@
             "_id": "6972d1ee8459600028997694",
             "link": "https://n.news.naver.com/mnews/article/421/0008725320?sid=100",
             "created_at": "2026-01-23T10:42:04.433000",
-            "description": "민홍철 국회의원실과 더불어민주당 국가보훈정책특별위원회, 보훈부가 공동으로 개최하는 이번 포럼은 '국민 주권 시대, 국가보훈 정책 어떻게 가야 하나'를 주제로 매주 수요일 진행된다. 포럼에서는 △보훈 정책의... ",
+            "description": "민홍철 국회의원실과 더불어민주당 국가보훈정책특별위원회, 보훈부가 공동으로 개최하는 이번 포럼은... 1차 포럼에는 정청래 민주당 대표, 강윤진 보훈부 차관, 민홍철·강득구·문정복·서영교·민병덕·이강일·김용만... ",
             "originallink": "https://www.news1.kr/diplomacy/defense-diplomacy/6045670",
             "press": "뉴스1",
             "pubDate": "2026-01-21T09:14:00",
@@ -532,16 +551,6 @@
     ],
     "recent_videos": [
         {
-            "_id": "6965959b887d07f7ba2fac70",
-            "url": "https://www.youtube.com/watch?v=ltUlT8c_9qg",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-18T13:13:08.656000",
-            "duration": 1330.0,
-            "title": "민홍철 \"윤 구속, 문제 없을 것\"-\"윤-김용현 포고령 책임공방...각자도생\"-\"김건희 출금조치?...개인적으론 동의\"-\"특검, 오늘 반드시 통과\"",
-            "upload_date": null
-        },
-        {
             "_id": "6973267e84596000289979ba",
             "url": "https://www.youtube.com/watch?v=b7F3hOB8cXw",
             "HG_NM": "민홍철",
@@ -549,76 +558,6 @@
             "collected_at": "2026-01-23T16:42:50.316000",
             "duration": 186.0,
             "title": "김태호 의원 \"윤석열 대통령 미국 국빈 방문 동행\"…민홍철 의원, '역세권 개발 개정안' 대표 발의",
-            "upload_date": null
-        },
-        {
-            "_id": "69701362297082fcc2b34e06",
-            "url": "https://www.youtube.com/watch?v=nSsZ5kY_TZ8",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-21T08:44:33.161000",
-            "duration": 60.0,
-            "title": "회피만 하는 이진우 사령관에게 호통치는 민홍철 의원",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5dd5297082fcc2b19c5b",
-            "url": "https://www.youtube.com/watch?v=zyZDRZhvGOw",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-18T13:13:09.678000",
-            "duration": 460.0,
-            "title": "군판사 출신 민홍철의 팩트기반 질의에 경청하게 되는 증인들",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5dd5297082fcc2b19c5a",
-            "url": "https://www.youtube.com/watch?v=Rmh9gVk7S5Q",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 2065.0,
-            "title": "[오태훈의 시사본부] 민홍철 “비준안 가처분? 야당이 정치 포기”",
-            "upload_date": null
-        },
-        {
-            "_id": "6966eeb5887d07f7ba2fb406",
-            "url": "https://www.youtube.com/watch?v=rO_MSK7DNQY",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 591.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 민홍철 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "6965959b887d07f7ba2fac74",
-            "url": "https://www.youtube.com/watch?v=gDeSJOWRQ7k",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:56.710000",
-            "duration": 6093.0,
-            "title": "[뉴스킹] 당시 국방위원장이 말하는 #서해피살사건 (#민홍철) / #제2부속실 부활시켜야\" (#김용태) / \"검찰은 文, 경찰은 李, 민주당 큰일\" (#이상돈) l 220620",
-            "upload_date": null
-        },
-        {
-            "_id": "6965959b887d07f7ba2fac75",
-            "url": "https://www.youtube.com/watch?v=z8sc72tvgfY",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:56.710000",
-            "duration": 98.0,
-            "title": "[2021년 신년사] 민홍철 국회 국방위원장,“복지ㆍ전투력ㆍ인권강화 적극 뒷받침”",
-            "upload_date": null
-        },
-        {
-            "_id": "6965959b887d07f7ba2fac73",
-            "url": "https://www.youtube.com/watch?v=9I2a2Fos4zQ",
-            "HG_NM": "민홍철",
-            "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 4179.0,
-            "title": "[유창혁의 특별한 수담] #5점_접바둑 l 유창혁 九단 vs 민홍철 국회의원",
             "upload_date": null
         },
         {
@@ -632,13 +571,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac70631fd1743497d671",
-            "url": "https://www.youtube.com/watch?v=ZwLIm9tTqdQ",
+            "_id": "6960ac70631fd1743497d675",
+            "url": "https://www.youtube.com/watch?v=Lq6S9aMelQE",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 1904.0,
-            "title": "\"이재명 정부가 스마트 강군으로 거듭나기 위한 방안은?\" 민홍철 더불어민주당 의원 | 대정부질문 (25.9.16.) | 국회방송",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 131.0,
+            "title": "민홍철 더불어민주당 의원, 국방위원장 단독 선출!",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5dd5297082fcc2b19c5b",
+            "url": "https://www.youtube.com/watch?v=zyZDRZhvGOw",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-01-18T13:13:09.678000",
+            "duration": 460.0,
+            "title": "군판사 출신 민홍철의 팩트기반 질의에 경청하게 되는 증인들",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959b887d07f7ba2fac75",
+            "url": "https://www.youtube.com/watch?v=z8sc72tvgfY",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-02-02T09:44:16.944000",
+            "duration": 98.0,
+            "title": "[2021년 신년사] 민홍철 국회 국방위원장,“복지ㆍ전투력ㆍ인권강화 적극 뒷받침”",
             "upload_date": null
         },
         {
@@ -652,23 +611,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac70631fd1743497d678",
-            "url": "https://www.youtube.com/watch?v=TYRx9zFyiy0",
+            "_id": "697ff36138b0cf409697740e",
+            "url": "https://www.youtube.com/watch?v=mNpGiZ5zjTc",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:56.710000",
-            "duration": 981.0,
-            "title": "뉴스N | [파워인터뷰] 민홍철 국회 국방위원장 (더불어민주당 경남대전환선대위 명예선대위원장) - 2022년 2월 14일",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 214.0,
+            "title": "민홍철 국회의원 김해갑 출마선언 '더 큰 김해 확실한 선택! 민생이 먼저다 민홍철' 김해갑 국회의원 후보 더불어민주당",
             "upload_date": null
         },
         {
-            "_id": "6960ac70631fd1743497d677",
-            "url": "https://www.youtube.com/watch?v=FyYJu2JQIgE",
+            "_id": "6960ac70631fd1743497d672",
+            "url": "https://www.youtube.com/watch?v=t7C7MMyFL9Y",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 579.0,
-            "title": "인터뷰 릴레이 칭찬 234회 민홍철 의원(더불어민주당)",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 278.0,
+            "title": "'민포럼' 창립총회에 민홍철 의원 \"경남도 변화를 강력히 요구\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959b887d07f7ba2fac73",
+            "url": "https://www.youtube.com/watch?v=9I2a2Fos4zQ",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 4179.0,
+            "title": "[유창혁의 특별한 수담] #5점_접바둑 l 유창혁 九단 vs 민홍철 국회의원",
             "upload_date": null
         },
         {
@@ -676,19 +645,49 @@
             "url": "https://www.youtube.com/watch?v=wQ1l8Tn7ngM",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
+            "collected_at": "2026-02-02T09:44:15.612000",
             "duration": 211.0,
             "title": "영남방송TV - 4선 국회의원 민홍철 의원 천원의행복밥집 격려차 방문, 조유식 이사장과 대담",
             "upload_date": null
         },
         {
-            "_id": "6960ac70631fd1743497d675",
-            "url": "https://www.youtube.com/watch?v=Lq6S9aMelQE",
+            "_id": "696c5dd5297082fcc2b19c5a",
+            "url": "https://www.youtube.com/watch?v=Rmh9gVk7S5Q",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 131.0,
-            "title": "민홍철 더불어민주당 의원, 국방위원장 단독 선출!",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 2065.0,
+            "title": "[오태훈의 시사본부] 민홍철 “비준안 가처분? 야당이 정치 포기”",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959b887d07f7ba2fac74",
+            "url": "https://www.youtube.com/watch?v=gDeSJOWRQ7k",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-02-02T09:44:16.944000",
+            "duration": 6093.0,
+            "title": "[뉴스킹] 당시 국방위원장이 말하는 #서해피살사건 (#민홍철) / #제2부속실 부활시켜야\" (#김용태) / \"검찰은 文, 경찰은 李, 민주당 큰일\" (#이상돈) l 220620",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac70631fd1743497d678",
+            "url": "https://www.youtube.com/watch?v=TYRx9zFyiy0",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-02-02T09:44:16.944000",
+            "duration": 981.0,
+            "title": "뉴스N | [파워인터뷰] 민홍철 국회 국방위원장 (더불어민주당 경남대전환선대위 명예선대위원장) - 2022년 2월 14일",
+            "upload_date": null
+        },
+        {
+            "_id": "69701362297082fcc2b34e06",
+            "url": "https://www.youtube.com/watch?v=nSsZ5kY_TZ8",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-01-21T08:44:33.161000",
+            "duration": 60.0,
+            "title": "회피만 하는 이진우 사령관에게 호통치는 민홍철 의원",
             "upload_date": null
         },
         {
@@ -696,9 +695,29 @@
             "url": "https://www.youtube.com/watch?v=Eqb2vxjoprc",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
+            "collected_at": "2026-02-02T09:44:15.612000",
             "duration": 1023.0,
             "title": "[시사카페-후(WHO)톡] 국회의원 민홍철에게 듣는다! 새정치민주연합 민홍철 의원 27회. 2015.08.11,화",
+            "upload_date": null
+        },
+        {
+            "_id": "6965959b887d07f7ba2fac70",
+            "url": "https://www.youtube.com/watch?v=ltUlT8c_9qg",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-01-18T13:13:08.656000",
+            "duration": 1330.0,
+            "title": "민홍철 \"윤 구속, 문제 없을 것\"-\"윤-김용현 포고령 책임공방...각자도생\"-\"김건희 출금조치?...개인적으론 동의\"-\"특검, 오늘 반드시 통과\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac70631fd1743497d671",
+            "url": "https://www.youtube.com/watch?v=ZwLIm9tTqdQ",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 1904.0,
+            "title": "\"이재명 정부가 스마트 강군으로 거듭나기 위한 방안은?\" 민홍철 더불어민주당 의원 | 대정부질문 (25.9.16.) | 국회방송",
             "upload_date": null
         },
         {
@@ -712,15 +731,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac70631fd1743497d672",
-            "url": "https://www.youtube.com/watch?v=t7C7MMyFL9Y",
+            "_id": "6960ac70631fd1743497d677",
+            "url": "https://www.youtube.com/watch?v=FyYJu2JQIgE",
             "HG_NM": "민홍철",
             "MONA_CD": "O6D8329R",
-            "collected_at": "2026-01-30T23:22:55.243000",
-            "duration": 278.0,
-            "title": "'민포럼' 창립총회에 민홍철 의원 \"경남도 변화를 강력히 요구\"",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 579.0,
+            "title": "인터뷰 릴레이 칭찬 234회 민홍철 의원(더불어민주당)",
+            "upload_date": null
+        },
+        {
+            "_id": "6966eeb5887d07f7ba2fb406",
+            "url": "https://www.youtube.com/watch?v=rO_MSK7DNQY",
+            "HG_NM": "민홍철",
+            "MONA_CD": "O6D8329R",
+            "collected_at": "2026-02-02T09:44:15.612000",
+            "duration": 591.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 민홍철 의원(더불어민주당)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:52.978544"
+    "exported_at": "2026-02-02T09:57:10.517368"
 }

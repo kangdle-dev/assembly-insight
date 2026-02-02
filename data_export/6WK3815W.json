@@ -53,10 +53,10 @@
             "선거",
             "발의",
             "보고회",
+            "야간",
             "이재명",
             "지방",
-            "규탄",
-            "수행"
+            "규탄"
         ],
         "keyword_frequency": [
             {
@@ -81,7 +81,7 @@
             },
             {
                 "text": "노동",
-                "value": 14
+                "value": 15
             },
             {
                 "text": "대통령",
@@ -104,6 +104,10 @@
                 "value": 11
             },
             {
+                "text": "야간",
+                "value": 9
+            },
+            {
                 "text": "이재명",
                 "value": 9
             },
@@ -114,29 +118,25 @@
             {
                 "text": "규탄",
                 "value": 8
-            },
-            {
-                "text": "수행",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:50.116981",
+        "last_analyzed_at": "2026-02-02T09:57:07.549849",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
-                1,
-                2,
-                0,
                 3,
+                0,
+                0,
+                0,
                 0,
                 0
             ]
@@ -177,7 +177,7 @@
             "_id": "697cbd2d38b0cf4096976b5e",
             "link": "https://n.news.naver.com/mnews/article/003/0013735069?sid=102",
             "created_at": "2026-01-30T23:16:13.782000",
-            "description": "의원, 한창민 사회민주당 의원, 서왕진·신장식 조국혁신당 의원, 정혜경 진보당 의원 등은 28일 오전 서울 여의도 국회의원회관에서 '야간노동 규제방안 촉구 국회 토론회'를 개최했다. 최근 새벽배송 등 24시간 서비스가... ",
+            "description": "의원, 정혜경 진보당 의원 등은 28일 오전 서울 여의도 국회의원회관에서 '야간노동 규제방안 촉구 국회 토론회'를 개최했다. 최근 새벽배송 등 24시간 서비스가 확산되면서 야간노동이 늘고, 야간시간대 사망 산재도... ",
             "originallink": "https://www.newsis.com/view/NISX20260128_0003493318",
             "press": "뉴시스",
             "pubDate": "2026-01-28T13:30:00",
@@ -711,7 +711,7 @@
             "url": "https://www.youtube.com/watch?v=N0HZ7yxM8jU",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:53.914000",
+            "collected_at": "2026-02-02T09:43:16.487000",
             "duration": 9508.0,
             "title": "김어준의 겸손은힘들다 뉴스공장 2025년 3월 4일 화요일 [천준호, 박성준, 김태선, 민병덕, 김현정, 이강일, 신장식, 노영희, 김디모데, 조믿음, 패션공장]",
             "upload_date": null
@@ -721,7 +721,7 @@
             "url": "https://www.youtube.com/watch?v=iB_blRgSjOE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 494.0,
             "title": "민주당 김태선 의원1 11 2 합 울산 경제와 노동자를 위협하는 기업사냥꾼 MBK 규탄 기자회견",
             "upload_date": null
@@ -731,7 +731,7 @@
             "url": "https://www.youtube.com/watch?v=N9vShUjWHPE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:53.914000",
+            "collected_at": "2026-02-02T09:43:16.487000",
             "duration": 525.0,
             "title": "[생중계] 김태선 더불어민주당 의원 부산 해양수도 지원 특별법 발의 기자회견 (2025.08.12 오후)",
             "upload_date": null
@@ -741,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=tsMKuJT_lXw",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 782.0,
             "title": "민주당 김태선 의원1 11 2 합 일하다 죽지 않을 권리를 위한 직업안정법 개정안 발의 기자회견",
             "upload_date": null
@@ -781,7 +781,7 @@
             "url": "https://www.youtube.com/watch?v=5jWzLh2LHqA",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 1284.0,
             "title": "민주당 김태선 의원1 11 21 3 합 노동조합법 2 3 조 개정안 거부권 반대 측각 공포 촉구 야6당 국회의원 공동 기자회견",
             "upload_date": null
@@ -791,7 +791,7 @@
             "url": "https://www.youtube.com/watch?v=L-anVWQgArw",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-23T16:42:04.615000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 1113.0,
             "title": "[전체영상] 울산 동구 국회의원 김태선, 예산결산특별위원회 종합정책질의",
             "upload_date": null
@@ -811,7 +811,7 @@
             "url": "https://www.youtube.com/watch?v=a0xfxrDfbqQ",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:53.914000",
+            "collected_at": "2026-02-02T09:43:16.487000",
             "duration": 96.0,
             "title": "[ 동구는 김태선이 살린다! ] 국회의원 표창원 응원",
             "upload_date": null
@@ -821,7 +821,7 @@
             "url": "https://www.youtube.com/watch?v=kE2yJEZNOoE",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 749.0,
             "title": "김태선 의원, 일하다 죽지 않을 권리를 위한 『직업안정법』 개정안 발의 기자회견",
             "upload_date": null
@@ -841,7 +841,7 @@
             "url": "https://www.youtube.com/watch?v=UCd1iHYmkCWnWeK4QKcgjTjw",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": null,
             "title": "김태선 TV",
             "upload_date": null
@@ -851,7 +851,7 @@
             "url": "https://www.youtube.com/watch?v=DxnGdc8eXMo",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 2730.0,
             "title": "[특집] ‘인간 이재명’은? “10분 보면 그냥 정치인, 30분 보면...” ‘이재명 수행일기’ 펴낸 김태선 의원 인터뷰",
             "upload_date": null
@@ -861,7 +861,7 @@
             "url": "https://www.youtube.com/watch?v=4fPXg0-zN_U",
             "HG_NM": "김태선",
             "MONA_CD": "6WK3815W",
-            "collected_at": "2026-01-30T23:21:52.402000",
+            "collected_at": "2026-02-02T09:43:15.156000",
             "duration": 1236.0,
             "title": "민주당 김태선 의원1 11 2 합 SK브로드밴드 하청업체 부당노동행위 방관 규탄 기자회견",
             "upload_date": null
@@ -877,5 +877,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:50.117981"
+    "exported_at": "2026-02-02T09:57:07.549849"
 }

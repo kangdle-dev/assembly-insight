@@ -49,9 +49,10 @@
         "keywords": [
             "국민",
             "일정",
-            "의원실",
-            "선거구",
             "서울",
+            "의원실",
+            "선거",
+            "선거구",
             "토론회",
             "초선",
             "회관",
@@ -60,28 +61,31 @@
             "채널A",
             "답변",
             "민주당",
-            "위원회",
-            "출마"
+            "위원회"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 11
+                "value": 12
             },
             {
                 "text": "일정",
                 "value": 9
             },
             {
+                "text": "서울",
+                "value": 8
+            },
+            {
                 "text": "의원실",
                 "value": 8
             },
             {
-                "text": "선거구",
+                "text": "선거",
                 "value": 7
             },
             {
-                "text": "서울",
+                "text": "선거구",
                 "value": 7
             },
             {
@@ -119,35 +123,49 @@
             {
                 "text": "위원회",
                 "value": 5
-            },
-            {
-                "text": "출마",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:18.892638",
+        "last_analyzed_at": "2026-02-02T09:57:37.406795",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                2,
-                1,
                 1,
                 0,
+                0,
+                0,
+                1,
                 0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10a38b0cf4096977347",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956343?sid=100",
+            "created_at": "2026-02-02T09:34:18.646000",
+            "description": "국민의힘은 지방선거 인재영입위원장으로 과거 친윤계로 분류됐던 조정훈(서울 마포갑) 의원을 임명하는... 박민영 미디어대변인은 “선출직 당 대표의 재신임 투표를 제안하려거든 본인도 (국회의원) 배지 정도는 걸어야... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/02/01/Y4LOSPY5TBEG5JSVYQTDL26WVI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-31T00:51:00",
+            "related_members": [
+                "EPI69383",
+                "KFM1081G",
+                "AEJ19639",
+                "4019850M",
+                "6EN68926",
+                "WJL30106"
+            ],
+            "title": "“이대론 선거 몰살” 수도권서 터져 나온 장동혁 사퇴론"
+        },
         {
             "_id": "697cbd4438b0cf4096976bf9",
             "link": "https://n.news.naver.com/mnews/article/053/0000055349?sid=100",
@@ -463,7 +481,7 @@
             "url": "https://www.youtube.com/watch?v=jMx6A0oqdB8",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": 160.0,
             "title": "조정훈 \"국민들이 왜 반중 하는지 생각해 봐라\" [티조Clip]",
             "upload_date": null
@@ -513,7 +531,7 @@
             "url": "https://www.youtube.com/watch?v=4dZhzfF_VuA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:09.733000",
+            "collected_at": "2026-02-02T09:53:35.336000",
             "duration": 409.0,
             "title": "조정훈 \"무주택 국무위원 손 들어주세요\"하자 '정적' [현장영상] / 채널A",
             "upload_date": null
@@ -533,7 +551,7 @@
             "url": "https://www.youtube.com/watch?v=rvj8P65HngI",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": 956.0,
             "title": "서울 성벽 틀어막은 민주당에 결국 울분터진 조정훈 의원 [펜앤현장]",
             "upload_date": null
@@ -543,7 +561,7 @@
             "url": "https://www.youtube.com/watch?v=YT3gCERUNFg",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": 114.0,
             "title": "조정훈 울컥...도대체 개소식에서 무슨 일이?",
             "upload_date": null
@@ -563,7 +581,7 @@
             "url": "https://www.youtube.com/watch?v=stpoqr5DSmA",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": 1050.0,
             "title": "“집값 못 잡고, 청년만 잡았다” 이재명 '부동산 참사' 저격한 조정훈",
             "upload_date": null
@@ -583,7 +601,7 @@
             "url": "https://www.youtube.com/watch?v=LIgfHpDm_wU",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": 477.0,
             "title": "조정훈 \"40년 동안 교편 잡은 분들이 화낸다\" [티조Clip]",
             "upload_date": null
@@ -593,7 +611,7 @@
             "url": "https://www.youtube.com/watch?v=4VoGPTGOImM",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:09.733000",
+            "collected_at": "2026-02-02T09:53:35.336000",
             "duration": 325.0,
             "title": "“학부모 의견 좀 들으라고요!” 고교학점제 대혼란에 울분 토한 조정훈",
             "upload_date": null
@@ -603,7 +621,7 @@
             "url": "https://www.youtube.com/watch?v=UCf8h3rgyIyV2_wmF5TiR85g",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": null,
             "title": "조정훈",
             "upload_date": null
@@ -613,7 +631,7 @@
             "url": "https://www.youtube.com/watch?v=BxLx0M6FeuU",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-30T23:33:08.301000",
+            "collected_at": "2026-02-02T09:53:33.998000",
             "duration": 96.0,
             "title": "[스팟Live] \"답변 중 웃는 건 뭡니까\"...조정훈, 정근식 답변 태도에 '폭발' | 25.10.20 국회 교육위원회 국정감사",
             "upload_date": null
@@ -633,11 +651,11 @@
             "url": "https://www.youtube.com/watch?v=aiofdTSq_uY",
             "HG_NM": "조정훈",
             "MONA_CD": "WJL30106",
-            "collected_at": "2026-01-13T09:51:39.611000",
+            "collected_at": "2026-02-02T09:53:35.336000",
             "duration": 551.0,
             "title": "'중국 반대'하면 혐오? 팩트로 이재명 직격한 조정훈",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:18.893141"
+    "exported_at": "2026-02-02T09:57:37.406795"
 }

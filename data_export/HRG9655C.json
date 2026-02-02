@@ -54,19 +54,19 @@
         "keywords": [
             "국민",
             "부산",
-            "여야",
             "장관",
+            "여야",
+            "선거",
+            "대통령",
             "전격",
             "시사",
-            "선거",
             "이혜훈",
             "의혹",
             "전세",
             "민주당",
+            "대표",
             "신년",
-            "인사",
-            "진보당",
-            "부동산"
+            "인사"
         ],
         "keyword_frequency": [
             {
@@ -78,12 +78,20 @@
                 "value": 15
             },
             {
-                "text": "여야",
-                "value": 10
+                "text": "장관",
+                "value": 11
             },
             {
-                "text": "장관",
+                "text": "여야",
+                "value": 11
+            },
+            {
+                "text": "선거",
                 "value": 9
+            },
+            {
+                "text": "대통령",
+                "value": 8
             },
             {
                 "text": "전격",
@@ -91,10 +99,6 @@
             },
             {
                 "text": "시사",
-                "value": 8
-            },
-            {
-                "text": "선거",
                 "value": 8
             },
             {
@@ -111,6 +115,10 @@
             },
             {
                 "text": "민주당",
+                "value": 7
+            },
+            {
+                "text": "대표",
                 "value": 6
             },
             {
@@ -120,33 +128,25 @@
             {
                 "text": "인사",
                 "value": 6
-            },
-            {
-                "text": "진보당",
-                "value": 6
-            },
-            {
-                "text": "부동산",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:51.087526",
+        "last_analyzed_at": "2026-02-02T09:57:08.555080",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                1,
                 0,
                 1,
                 0,
-                1,
+                0,
+                2,
                 0,
                 0
             ]
@@ -154,10 +154,38 @@
     },
     "recent_news": [
         {
+            "_id": "697ff11238b0cf4096977360",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308589?sid=100",
+            "created_at": "2026-02-02T09:34:26.276000",
+            "description": "나선 우원식 국회의장과 민주당 정청래 대표는 고인이 우리 민주주의 역사 그 자체였다고 회고했습니다.... 7선 국회의원이자 장관, 국무총리까지 역임하며 우리 정치사에 큰 발자취를 남긴 고인은 세종시에 있는 가족... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601312234103838",
+            "press": "YTN",
+            "pubDate": "2026-01-31T22:34:00",
+            "related_members": [
+                "HRG9655C",
+                "2385336L",
+                "XBT9550Q"
+            ],
+            "title": "고 이해찬 전 총리 영면...이 대통령 눈물로 마지막 배웅"
+        },
+        {
+            "_id": "697ff11238b0cf4096977361",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308524?sid=100",
+            "created_at": "2026-02-02T09:34:26.276000",
+            "description": "7선 국회의원이자 장관, 국무총리까지 역임하며 우리 정치사에 큰 발자취를 남긴 고인은 세종시에 있는 가족 묘소에서 영원한 잠에 들었습니다. YTN 윤웅성입니다. 촬영기자 : 이성모 온승원 영상편집 : 김희정",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601311608270647",
+            "press": "YTN",
+            "pubDate": "2026-01-31T16:08:00",
+            "related_members": [
+                "HRG9655C"
+            ],
+            "title": "고 이해찬 전 총리 영면...이 대통령 눈물로 마지막 배웅"
+        },
+        {
             "_id": "697cbd1d38b0cf4096976a95",
             "link": "https://n.news.naver.com/mnews/article/056/0012113892?sid=100",
             "created_at": "2026-01-30T23:15:57.183000",
-            "description": "얘기를 조승래 사무총장이 한 것과 관련해서 우리를 마치 흡수 합당하는 것처럼 그런 발언이 나오는 건 좀... 수도 국회의원 수가 부족해서 전력을 다해서 똘똘 뭉쳐서 함께 가도 사실 대응하기가 굉장히 힘든 상황인데... ",
+            "description": "의원님. ▶ 김희정 : 합당을 하나 안 하나 사실 국회에서 한 몸으로 움직이고 있어서요. 저희는 그러니까 국회에서 주는 파급력은 그 전이나 후가 별 차이가 없다. 그러면 선거에서 주는 파급력에 대해서는 여야가 각자... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8470953&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-28T10:11:00",
@@ -467,7 +495,7 @@
             "url": "https://www.youtube.com/watch?v=4VXgsWPKuPM",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:15.166000",
+            "collected_at": "2026-02-02T09:43:36.547000",
             "duration": 130.0,
             "title": "[단독] 전 ‘새누리당’ 김희정·김영선 의원도 KT 부정채용 ‘청탁’ 의혹/ KBS뉴스(News)",
             "upload_date": null
@@ -477,7 +505,7 @@
             "url": "https://www.youtube.com/watch?v=x8xDqBWtjmU",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:15.166000",
+            "collected_at": "2026-02-02T09:43:36.547000",
             "duration": 189.0,
             "title": "김희정, 속기록 들고 김민석 발언 직격했다 [티조Clip]",
             "upload_date": null
@@ -507,7 +535,7 @@
             "url": "https://www.youtube.com/watch?v=APnDgfz2B6I",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:13.762000",
+            "collected_at": "2026-02-02T09:43:35.240000",
             "duration": 126.0,
             "title": "전세사기 피해자 구제법 국회 통과 I 김희정 의원 국회 본회의 설명보고",
             "upload_date": null
@@ -527,7 +555,7 @@
             "url": "https://www.youtube.com/watch?v=gvwuuC9w50c",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:13.762000",
+            "collected_at": "2026-02-02T09:43:35.240000",
             "duration": 332.0,
             "title": "김희정 \"다른부처 장관도 안하는 짓 하면서 몰라요?\" [티조Clip]",
             "upload_date": null
@@ -547,7 +575,7 @@
             "url": "https://www.youtube.com/watch?v=YAVwJlIr8mI",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:13.762000",
+            "collected_at": "2026-02-02T09:43:35.240000",
             "duration": 144.0,
             "title": "김희정 \"자유한국당 당무감사 방법, 혁신아닌 퇴보\"",
             "upload_date": null
@@ -617,7 +645,7 @@
             "url": "https://www.youtube.com/watch?v=vMDPUsUT6iQ",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:13.762000",
+            "collected_at": "2026-02-02T09:43:35.240000",
             "duration": 2542.0,
             "title": "[전격시사] 여야, 부동산 대책 공방 (당당토론｜권칠승 더불어민주당 의원, 김희정 국민의힘 의원)｜KBS 251022 방송",
             "upload_date": null
@@ -627,7 +655,7 @@
             "url": "https://www.youtube.com/watch?v=iWHGqHt5cE4",
             "HG_NM": "김희정",
             "MONA_CD": "HRG9655C",
-            "collected_at": "2026-01-30T23:22:13.762000",
+            "collected_at": "2026-02-02T09:43:35.240000",
             "duration": 385.0,
             "title": "칠판 앞 원희룡! 여야 공방 격화 (23.7.13.) | 김유정·김희정 전 국회의원 | 정정당당 | 국회라이브1",
             "upload_date": null
@@ -653,5 +681,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:51.087526"
+    "exported_at": "2026-02-02T09:57:08.555080"
 }

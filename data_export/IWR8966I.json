@@ -49,13 +49,13 @@
             "행정",
             "지역",
             "모친",
+            "검사",
             "박지원",
             "특별법",
             "정준",
             "조인철",
             "참석",
             "별세",
-            "검사",
             "민주당"
         ],
         "keyword_frequency": [
@@ -88,6 +88,10 @@
                 "value": 13
             },
             {
+                "text": "검사",
+                "value": 12
+            },
+            {
                 "text": "박지원",
                 "value": 11
             },
@@ -112,32 +116,28 @@
                 "value": 10
             },
             {
-                "text": "검사",
-                "value": 10
-            },
-            {
                 "text": "민주당",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:53.126538",
+        "last_analyzed_at": "2026-02-02T09:57:10.675909",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                2,
                 1,
                 0,
                 1,
+                0,
+                0,
+                0,
                 0
             ]
         }
@@ -725,13 +725,23 @@
     ],
     "recent_videos": [
         {
-            "_id": "6960ac72631fd1743497d681",
-            "url": "https://www.youtube.com/watch?v=RloHCdKj-I4",
+            "_id": "6960ac72631fd1743497d682",
+            "url": "https://www.youtube.com/watch?v=XAka4C4DJ68",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-14T10:17:44.006000",
-            "duration": 75.0,
-            "title": "박상용 검사, 박균택 향해 \"대통령 변호인으로 참석하셨었죠?\" / #채널A #뉴스TOP10 #shorts",
+            "collected_at": "2026-01-13T09:45:15.742000",
+            "duration": 1312.0,
+            "title": "박균택 \"막상 尹 CCTV 보니... 속옷보다 '입'이 더 문제\"",
+            "upload_date": null
+        },
+        {
+            "_id": "697ff36438b0cf4096977410",
+            "url": "https://www.youtube.com/watch?v=6R8ovOTyrGw",
+            "HG_NM": "박균택",
+            "MONA_CD": "IWR8966I",
+            "collected_at": "2026-02-02T09:44:18.818000",
+            "duration": 271.0,
+            "title": "박상용 검사 증인 태도에 묵직한 돌직구 날린 박균택 의원",
             "upload_date": null
         },
         {
@@ -739,7 +749,7 @@
             "url": "https://www.youtube.com/watch?v=5LyfhRed6wM",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:23:00.218000",
+            "collected_at": "2026-02-02T09:44:20.136000",
             "duration": 530.0,
             "title": "신동욱 긁혔나? 최혁진 한 마디에 폭발하자... 박균택 출격 \"상황 정리\"",
             "upload_date": null
@@ -749,7 +759,7 @@
             "url": "https://www.youtube.com/watch?v=wQEF1yYYNeU",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:23:00.218000",
+            "collected_at": "2026-02-02T09:44:20.136000",
             "duration": 260.0,
             "title": "\"이것은 애초에 검찰이 해서는 안 되는 조작질…!!\" 박균택, 분노 어린 반박 [G1뉴스]",
             "upload_date": null
@@ -779,7 +789,7 @@
             "url": "https://www.youtube.com/watch?v=h3i1M3_241g",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:23:00.218000",
+            "collected_at": "2026-02-02T09:44:20.136000",
             "duration": 1005.0,
             "title": "[인터뷰] 박균택 \"노만석 옳은 결정 한 것…반발 두려워 사표 내는 건 무책임\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
@@ -805,23 +815,23 @@
             "upload_date": null
         },
         {
-            "_id": "6960ac72631fd1743497d682",
-            "url": "https://www.youtube.com/watch?v=XAka4C4DJ68",
-            "HG_NM": "박균택",
-            "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-13T09:45:15.742000",
-            "duration": 1312.0,
-            "title": "박균택 \"막상 尹 CCTV 보니... 속옷보다 '입'이 더 문제\"",
-            "upload_date": null
-        },
-        {
             "_id": "6960ac72631fd1743497d679",
             "url": "https://www.youtube.com/watch?v=UCmDhwlCcC9yRxK-Dw5hMJ0g",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:22:58.849000",
+            "collected_at": "2026-02-02T09:44:18.818000",
             "duration": null,
             "title": "박균택TV",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ac72631fd1743497d681",
+            "url": "https://www.youtube.com/watch?v=RloHCdKj-I4",
+            "HG_NM": "박균택",
+            "MONA_CD": "IWR8966I",
+            "collected_at": "2026-01-14T10:17:44.006000",
+            "duration": 75.0,
+            "title": "박상용 검사, 박균택 향해 \"대통령 변호인으로 참석하셨었죠?\" / #채널A #뉴스TOP10 #shorts",
             "upload_date": null
         },
         {
@@ -829,7 +839,7 @@
             "url": "https://www.youtube.com/watch?v=oXWGOJWwTz4",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:23:00.218000",
+            "collected_at": "2026-02-02T09:44:20.136000",
             "duration": 1243.0,
             "title": "박균택 \"노만석, 마땅한 일 했을 뿐… 사퇴 안 돼\"",
             "upload_date": null
@@ -839,7 +849,7 @@
             "url": "https://www.youtube.com/watch?v=b14eQFlw0tI",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:22:58.849000",
+            "collected_at": "2026-02-02T09:44:18.818000",
             "duration": 695.0,
             "title": "[생중계] 박균택 더불어민주당 의원, 현안 관련 기자회견 (2025.12.23 오전)",
             "upload_date": null
@@ -849,7 +859,7 @@
             "url": "https://www.youtube.com/watch?v=uibrYZ7RtrQ",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:22:58.849000",
+            "collected_at": "2026-02-02T09:44:18.818000",
             "duration": 357.0,
             "title": "'대북송금 수사' 박상용 검사 VS '李대통령 변호인 출신' 박균택 의원 [현장영상] / 채널A",
             "upload_date": null
@@ -869,7 +879,7 @@
             "url": "https://www.youtube.com/watch?v=ppMRdjHTpRk",
             "HG_NM": "박균택",
             "MONA_CD": "IWR8966I",
-            "collected_at": "2026-01-30T23:22:58.849000",
+            "collected_at": "2026-02-02T09:44:18.818000",
             "duration": 266.0,
             "title": "\"소리지는 걸 말고, 뭐 할줄 압니까? 박균택, 신동욱 향해 대폭발",
             "upload_date": null
@@ -895,5 +905,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:53.126538"
+    "exported_at": "2026-02-02T09:57:10.675909"
 }

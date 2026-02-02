@@ -50,62 +50,62 @@
             "이해찬",
             "총리",
             "민주당",
-            "더불어민주당",
             "대표",
+            "영결식",
+            "장례",
             "빈소",
             "고인",
-            "장례",
-            "영결식",
+            "더불어민주당",
             "민주",
-            "세종",
+            "대통령",
             "국무총리",
+            "세종",
             "최민희",
-            "수석",
             "종합"
         ],
         "keyword_frequency": [
             {
                 "text": "이해찬",
-                "value": 47
+                "value": 50
             },
             {
                 "text": "총리",
-                "value": 32
+                "value": 37
             },
             {
                 "text": "민주당",
-                "value": 25
-            },
-            {
-                "text": "더불어민주당",
-                "value": 16
+                "value": 24
             },
             {
                 "text": "대표",
+                "value": 17
+            },
+            {
+                "text": "영결식",
                 "value": 16
             },
             {
+                "text": "장례",
+                "value": 14
+            },
+            {
                 "text": "빈소",
-                "value": 13
+                "value": 14
             },
             {
                 "text": "고인",
                 "value": 13
             },
             {
-                "text": "장례",
-                "value": 12
-            },
-            {
-                "text": "영결식",
-                "value": 12
+                "text": "더불어민주당",
+                "value": 13
             },
             {
                 "text": "민주",
                 "value": 12
             },
             {
-                "text": "세종",
+                "text": "대통령",
                 "value": 11
             },
             {
@@ -113,41 +113,86 @@
                 "value": 11
             },
             {
-                "text": "최민희",
+                "text": "세종",
                 "value": 11
             },
             {
-                "text": "수석",
-                "value": 10
+                "text": "최민희",
+                "value": 11
             },
             {
                 "text": "종합",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:12.511808",
+        "last_analyzed_at": "2026-02-02T09:57:30.752574",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                10,
-                3,
                 4,
                 8,
                 3,
-                1
+                1,
+                2,
+                0,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff13f38b0cf40969773ac",
+            "link": "https://n.news.naver.com/mnews/article/005/0001829444?sid=100",
+            "created_at": "2026-02-02T09:35:11.603000",
+            "description": "영결식은 이해식 의원의 사회로 시작됐다. 조정식 정무특보의 약력 보고를 시작으로 김민석 국무총리의 조사, 우원식 국회의장과 정청래 대표, 백낙청 명예교수, 한명숙 전 총리의 추도사가 이어졌다. 추도사 과정에서 여러... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029329716&code=61111211&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-01-31T11:28:00",
+            "related_members": [
+                "MLH1404S",
+                "CCU1009B",
+                "IN328264",
+                "XBT9550Q",
+                "2385336L"
+            ],
+            "title": "故 이해찬 전 총리 사회장 영결식 엄수… 이 대통령 부부 등 각계 인사..."
+        },
+        {
+            "_id": "697ff0f938b0cf4096977308",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476163?sid=100",
+            "created_at": "2026-02-02T09:34:00.937000",
+            "description": "정을호 의원 등도 자리를 지켰습니다. 조국혁신당 조국 대표와 사회민주당 한창민 대표도 참석했습니다.... 영결식은 오전 9시부터 국회 의원회관 대회의실에서 진행됩니다. 고인은 서초동 서울추모공원에서 화장을 마친... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12282728?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-01-31T08:03:00",
+            "related_members": [
+                "B7D7534L",
+                "H5476989",
+                "TKJ4800F",
+                "URV1689Q",
+                "UQ282145",
+                "8P37634C",
+                "1WE5693J",
+                "FYI20317",
+                "6AU2417B",
+                "N2P9317N",
+                "EBH1101V",
+                "CCU1009B",
+                "8JG4358H",
+                "YS38221N",
+                "NA61091D",
+                "T4I4862D"
+            ],
+            "title": "고 이해찬 전 총리, 발인 엄수...민주평통ㆍ민주당사서 노제 후 세종서..."
+        },
         {
             "_id": "697cbd5b38b0cf4096976cba",
             "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=199663&mode=view",
@@ -197,7 +242,7 @@
             "_id": "697cbd4138b0cf4096976bde",
             "link": "https://n.news.naver.com/mnews/article/022/0004101427?sid=100",
             "created_at": "2026-01-30T23:16:33.546000",
-            "description": "더불어민주당 한준호(사진) 의원은 28일 정청래 대표가 기습적으로 조국혁신당에 합당을 제안한 것을 두고... 영결식은 31일 오전 9시 국회 의원회관에서 열리며, 오전 11시 서초동 서울추모공원에서 화장할 예정이다. 이날... ",
+            "description": "이해식 의원은 이날 이 수석부의장 빈소가 마련된 서울대병원장례식장에서 기자들과 만나 “장례 공식 명칭은 ‘고 이해찬 제36대 국무총리 사회장’으로 결정됐다”며 일정을 발표했다. 영결식은 31일 오전 9시 국회... ",
             "originallink": "https://www.segye.com/newsView/20260128516650?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-29T06:02:00",
@@ -336,7 +381,7 @@
             "_id": "697cbd1b38b0cf4096976a6b",
             "link": "https://n.news.naver.com/mnews/article/009/0005628125?sid=100",
             "created_at": "2026-01-30T23:15:55.585000",
-            "description": "또 권양숙 여사, 곽상언 민주당 의원뿐 아니라 안희정 전 충남지사, 추미애 민주당 의원, 한명숙 전 총리... 참여정부에서 국무총리를 지낸 이 전 총리는 국회의원과 주요 공직을 두루 거친 정치계 원로로 한국 정치의... ",
+            "description": "비롯해 이재정·김영배·김현·이해식·정태호·최민희 민주당 의원도 베트남에서부터 이 전 총리와 함께 한국에 도착했다. 공항에서는 상임장례위원장인 김민석 총리와 우원식 국회의장, 정 대표, 한병도 민주당... ",
             "originallink": "https://www.mk.co.kr/article/11944634",
             "press": "매일경제",
             "pubDate": "2026-01-27T16:59:00",
@@ -661,36 +706,6 @@
                 "UQ282145"
             ],
             "title": "민주당 '킹메이커' 이해찬 전 총리 별세…향년 73세(종합)"
-        },
-        {
-            "_id": "6976fcfa8459600028997fac",
-            "link": "https://n.news.naver.com/mnews/article/366/0001138243?sid=100",
-            "created_at": "2026-01-26T14:34:47.443000",
-            "description": "이재명 대통령이 급파한 조정식 정무특보와 김태년·이해식·이재정·최민희 민주당 의원 등이 베트남... 고인은 국회의원으로 7선을 지냈고 노무현 정부에서 국무총리, 문재인 정부에서는 더불어민주당 대표, 이재명... ",
-            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/25/BVMAFUDFZBE5NI7LNL3B7J4ONM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-25T17:18:00",
-            "related_members": [
-                "CCU1009B",
-                "IN328264",
-                "1WE5693J",
-                "UQ282145",
-                "YS38221N"
-            ],
-            "title": "‘민주화 거목’ 이해찬 민주평통 수석부의장 별세"
-        },
-        {
-            "_id": "6970126a297082fcc2b34d49",
-            "link": "https://n.news.naver.com/mnews/article/028/0002787437?sid=102",
-            "created_at": "2026-01-21T08:40:24.879000",
-            "description": "국회에는 피해자 인정 기한 연장 내용을 담은 이해식 더불어민주당 의원 대표발의안 등 이태원 특별법 개정안 3개가 발의돼 있다. 행정안전부 소속으로 토론회에 참석한 전병훈 10·29 이태원참사 피해구제추모지원단... ",
-            "originallink": "https://www.hani.co.kr/arti/society/society_general/1240767.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-20T18:28:00",
-            "related_members": [
-                "CCU1009B"
-            ],
-            "title": "몰라서, 입증 어려워서…이태원 참사 생존자 대다수 “피해 신청 못 해..."
         }
     ],
     "recent_videos": [
@@ -699,7 +714,7 @@
             "url": "https://www.youtube.com/watch?v=ePaVCq2DiPs",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": 3030.0,
             "title": "오세훈 시장 답변하지 않는 이유 이해식 의원이 물었더니, 오 시장 드디어 입 열고 발언하는데 그 이유가...",
             "upload_date": null
@@ -709,7 +724,7 @@
             "url": "https://www.youtube.com/watch?v=OlZqKh7320o",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": 7034.0,
             "title": "#이해식의원의 2026 의정보고회",
             "upload_date": null
@@ -719,7 +734,7 @@
             "url": "https://www.youtube.com/watch?v=fUzOP_C-lDQ",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": 5790.0,
             "title": "국회의원 이해식 2026 의정보고회 실황",
             "upload_date": null
@@ -789,7 +804,7 @@
             "url": "https://www.youtube.com/watch?v=UCLas1k2D1KNjWKXfETd2WjA",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": null,
             "title": "이해식TV",
             "upload_date": null
@@ -799,7 +814,7 @@
             "url": "https://www.youtube.com/watch?v=yIoUnUHvF1o",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:37.817000",
+            "collected_at": "2026-02-02T09:51:20.343000",
             "duration": 2124.0,
             "title": "[여의도펀치] 선관위 '특혜 채용' 일파만파…윤두현·이해식 한판토론 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -819,7 +834,7 @@
             "url": "https://www.youtube.com/watch?v=4l0G9j06H40",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": 4435.0,
             "title": "국회의원 이해식 첫돌 온라인 의정보고회",
             "upload_date": null
@@ -849,7 +864,7 @@
             "url": "https://www.youtube.com/watch?v=y1a3a8fIjvo",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": 716.0,
             "title": "계엄 당일 이재명 대표와 이해식 의원이 가장 먼저 논의한 것 | 그날그곳",
             "upload_date": null
@@ -859,11 +874,11 @@
             "url": "https://www.youtube.com/watch?v=BCrIb5RXcog",
             "HG_NM": "이해식",
             "MONA_CD": "CCU1009B",
-            "collected_at": "2026-01-30T23:30:36.224000",
+            "collected_at": "2026-02-02T09:51:18.899000",
             "duration": 1147.0,
             "title": "[팩트TV 풀영상] 더불어민주당 이해식 의원 정치분야 대정부질문 풀영상 (2025.9.15)",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:12.511808"
+    "exported_at": "2026-02-02T09:57:30.752574"
 }

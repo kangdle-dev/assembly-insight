@@ -42,107 +42,460 @@
     },
     "analysis": {
         "keywords": [
-            "서울",
-            "후보자",
-            "김민석",
-            "위원",
-            "더불어민주당",
-            "최고",
-            "총리",
-            "박성",
-            "인사",
-            "영등포",
-            "청문회",
+            "합당",
+            "혁신",
             "민주당",
-            "선거",
-            "구청장",
-            "출마"
+            "김민석",
+            "총리",
+            "서울",
+            "행사",
+            "후보자",
+            "위원",
+            "관저",
+            "정청래",
+            "당원",
+            "국민",
+            "조국",
+            "논의"
         ],
         "keyword_frequency": [
             {
+                "text": "합당",
+                "value": 45
+            },
+            {
+                "text": "혁신",
+                "value": 35
+            },
+            {
+                "text": "민주당",
+                "value": 34
+            },
+            {
+                "text": "김민석",
+                "value": 26
+            },
+            {
+                "text": "총리",
+                "value": 26
+            },
+            {
                 "text": "서울",
-                "value": 18
+                "value": 20
+            },
+            {
+                "text": "행사",
+                "value": 15
             },
             {
                 "text": "후보자",
                 "value": 14
             },
             {
-                "text": "김민석",
-                "value": 13
-            },
-            {
                 "text": "위원",
                 "value": 13
             },
             {
-                "text": "더불어민주당",
+                "text": "관저",
+                "value": 13
+            },
+            {
+                "text": "정청래",
                 "value": 12
             },
             {
-                "text": "최고",
+                "text": "당원",
                 "value": 12
             },
             {
-                "text": "총리",
-                "value": 9
+                "text": "국민",
+                "value": 12
             },
             {
-                "text": "박성",
-                "value": 9
+                "text": "조국",
+                "value": 11
             },
             {
-                "text": "인사",
-                "value": 9
-            },
-            {
-                "text": "영등포",
-                "value": 8
-            },
-            {
-                "text": "청문회",
-                "value": 8
-            },
-            {
-                "text": "민주당",
-                "value": 7
-            },
-            {
-                "text": "선거",
-                "value": 7
-            },
-            {
-                "text": "구청장",
-                "value": 7
-            },
-            {
-                "text": "출마",
-                "value": 7
+                "text": "논의",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:20.457535",
+        "last_analyzed_at": "2026-02-02T09:57:39.346931",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                2,
                 0,
                 0,
                 0,
-                0,
-                0,
-                1
+                1,
+                4,
+                14,
+                2
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff0f938b0cf40969772fd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742240?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "대표적으로 강득구∙이언주∙황명선 최고위원이 최근 절차적 정당성 등을 이유로 정 대표의 합당 제안에... 한준호 의원은 1일 국회에서 기자회견을 열고 \"조국혁신당과의 합당 제안은 여기에서 멈춰달라\"며 합당 제안... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497952",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "RJH6314D",
+                "JG77046J",
+                "7YL9580G",
+                "6VC83722",
+                "2385336L",
+                "1S05899F"
+            ],
+            "title": "與 이번주 '조국혁신당 합당' 논의 본격화…당내 반발 지속"
+        },
+        {
+            "_id": "697ff0f938b0cf40969772fe",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694153?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "친명(친이재명)계로 경기도지사 출마가 유력한 한준호 의원은 1일 국회에서 기자회견을 열고 “합당 제안은 여기에서 멈춰주시기 바란다”며 “충분한 숙의 없는 통합은 또 다른 분열의 시작이 될 수 있다”고 했다. 한... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260202/133276286/2",
+            "press": "동아일보",
+            "pubDate": "2026-02-02T04:34:00",
+            "related_members": [
+                "8P37634C",
+                "2385336L",
+                "MLH1404S",
+                "5TQ6306B",
+                "S824682L",
+                "1S05899F",
+                "BCQ55105"
+            ],
+            "title": "“합당 멈춰라” “당무개입 말라”… 김민석-정청래 당권다툼 전초전"
+        },
+        {
+            "_id": "697ff0f938b0cf4096977300",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694065?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "친명(친이재명)계로 경기도지사 출마가 유력한 한준호 의원은 1일 국회에서 기자회견을 열고 “합당 제안은 여기에서 멈춰주시기 바란다”며 “충분한 숙의 없는 통합은 또 다른 분열의 시작이 될 수 있다”고 했다. 한... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260201/133274987/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-01T23:26:00",
+            "related_members": [
+                "8P37634C",
+                "2385336L",
+                "MLH1404S",
+                "5TQ6306B",
+                "S824682L",
+                "1S05899F",
+                "BCQ55105"
+            ],
+            "title": "“합당 멈춰라” “당무개입 말라” 김민석-정청래 당권다툼 전초전"
+        },
+        {
+            "_id": "697ff13738b0cf4096977398",
+            "link": "https://n.news.naver.com/mnews/article/016/0002594168?sid=100",
+            "created_at": "2026-02-02T09:35:03.429000",
+            "description": "합당 반대파 의견 분출 “합당 제안 철회해야” “토지공개념 위헌적…포기 없이 합당 논의 불가” 혁신당 “집안 정리부터…내부 권력싸움 이용 말라” 한준호 더불어민주당 의원이 1일 국회 소통관에서 민주당 정청래... ",
+            "originallink": "https://biz.heraldcorp.com/article/10667239?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-01T23:18:00",
+            "related_members": [
+                "N2P9317N",
+                "XPP2564T",
+                "JG77046J",
+                "0698755I",
+                "BCQ55105",
+                "2385336L",
+                "1S05899F"
+            ],
+            "title": "민주당·혁신당 합당 정면충돌…與 찬반 논쟁 격화"
+        },
+        {
+            "_id": "697ff10338b0cf4096977327",
+            "link": "https://n.news.naver.com/mnews/article/022/0004102286?sid=100",
+            "created_at": "2026-02-02T09:34:11.528000",
+            "description": "채 의원의 입장은 혁신당 황운하 의원 발언에 대한 비판이다. 황 의원은 지난달 29일 BBS라디오 인터뷰에서... 여의도 국회 의원회관에서 이 전 총리 영결식을 마친 뒤 영정 행렬을 따라 건물을 나서고 있다. 이 대통령은 부인... ",
+            "originallink": "https://www.segye.com/newsView/20260201508145?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-01T19:09:00",
+            "related_members": [
+                "BCQ55105",
+                "2385336L",
+                "MLH1404S",
+                "S824682L",
+                "N2P9317N",
+                "JG77046J",
+                "0698755I",
+                "1S05899F",
+                "0YT3774N"
+            ],
+            "title": "애도 끝 민주, 합당 파열음 재분출… 혁신당 “집안 정리부터”"
+        },
+        {
+            "_id": "697ff10838b0cf4096977340",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746882?sid=100",
+            "created_at": "2026-02-02T09:34:16.726000",
+            "description": "친명(친이재명)계인 한준호 민주당 의원은 1일 오전 국회에서 기자회견을 열고 \"지금 당이 당원과 국민께 보여드려야 할 모습은 내부 갈등이 아니라 책임, 속도가 아니라 신뢰, 이재명 정부의 성공을 묵묵히 뒷받침하는... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6058097",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T18:40:00",
+            "related_members": [
+                "5765663F",
+                "S824682L",
+                "NPD75153",
+                "N2P9317N",
+                "2385336L",
+                "JG77046J",
+                "0698755I",
+                "1S05899F",
+                "XPP2564T",
+                "BCQ55105"
+            ],
+            "title": "민주, 합당 놓고 내부 신경전 재점화…혁신당과 노선갈등도 부상(종합2..."
+        },
+        {
+            "_id": "697ff0f938b0cf4096977301",
+            "link": "https://n.news.naver.com/mnews/article/015/0005245228?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "친명(친이재명)계 인사인 한준호 의원은 이날 국회 기자회견에서 “혁신당과의 합당 제안은 여기에서... 최고위원회의에서 합당 문제를 두고 정 대표와 각을 세우는 이언주·황명선·강득구 최고위원 등도 김 총리와... ",
+            "originallink": "https://www.hankyung.com/article/2026020164401",
+            "press": "한국경제",
+            "pubDate": "2026-02-01T17:58:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "RJH6314D",
+                "JG77046J",
+                "1S05899F",
+                "MLH1404S",
+                "S824682L",
+                "0698755I"
+            ],
+            "title": "이해찬 장례 끝나자 '명청대전' 재점화…혁신당 합당 반대 목소리 '봇물..."
+        },
+        {
+            "_id": "697ff0f938b0cf4096977303",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585322?sid=100",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "친명(친이재명)계로 분류되는 한준호 민주당 의원은 1일 국회에서 기자회견을 열고 정청래 대표에게... 당내에서는 이언주·황명선·강득구 최고위원 등 지도부를 비롯한 의원들의 반발이 계속되고 있다. 민주당 초선 모임... ",
+            "originallink": "https://www.sedaily.com/article/20003331?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-01T17:37:00",
+            "related_members": [
+                "RJH6314D",
+                "JG77046J",
+                "8P37634C",
+                "BCQ55105",
+                "2385336L",
+                "7YL9580G",
+                "6VC83722",
+                "0698755I",
+                "1S05899F"
+            ],
+            "title": "민주당 합당 내분에…혁신당 “집안 정리부터”"
+        },
+        {
+            "_id": "697ff11f38b0cf4096977376",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742116?sid=100",
+            "created_at": "2026-02-02T09:34:39.244000",
+            "description": "친명(친이재명)계 인사인 한준호 민주당 의원은 1일 국회에서 기자회견을 열고 \"조국혁신당과의 합당 제안은... 채현일 민주당 의원도 이날 페이스북에 합당이 상시적인 정책 노선 갈등, 중도층 이탈로 이어질 우려가 있다며... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003498013",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T16:55:00",
+            "related_members": [
+                "BCQ55105",
+                "S824682L",
+                "NPD75153",
+                "JG77046J",
+                "0698755I",
+                "1S05899F"
+            ],
+            "title": "與 \"합당 멈춰야\" 이견 재분출…조국혁신당 \"내부 정리부터\"(종합)"
+        },
+        {
+            "_id": "697ff12938b0cf409697737f",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116531?sid=100",
+            "created_at": "2026-02-02T09:34:49.604000",
+            "description": "민주당 초선 채현일 의원은 페이스북을 통해 \"합당은 'DNA 보존'이 아닌 '승리를 위한 통합'이 되어야 한다\"고... ■ 민주 한준호 \"정청래, 혁신당과 합당 제안 멈춰야\" 민주당 한준호 의원은 오늘 국회 기자회견에서 \"정청래... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474361&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-01T16:41:00",
+            "related_members": [
+                "BCQ55105",
+                "2385336L",
+                "NPD75153",
+                "JG77046J",
+                "0698755I",
+                "1S05899F"
+            ],
+            "title": "‘합당’ 논란 다시 수면 위로…민주 “토지공개념 포기하라”·혁신당..."
+        },
+        {
+            "_id": "697ff10338b0cf4096977329",
+            "link": "https://n.news.naver.com/mnews/article/009/0005630417?sid=100",
+            "created_at": "2026-02-02T09:34:11.528000",
+            "description": "최근 비당권파 중진 의원과 국회의원 출신 국무위원이 정 대표와 혁신당 사이의 사전 밀약 가능성을 언급한... 정책 의원총회와 17개 시도당 토론회 등을 통해 합당 논의를 본격화하고 당원 투표를 실시할 계획이다. 한정애... ",
+            "originallink": "https://www.mk.co.kr/article/11949455",
+            "press": "매일경제",
+            "pubDate": "2026-02-01T15:52:00",
+            "related_members": [
+                "BCQ55105",
+                "MLH1404S",
+                "XPP2564T",
+                "7YL9580G",
+                "6VC83722",
+                "0698755I",
+                "1S05899F"
+            ],
+            "title": "민주, 조국혁신당 합당 두고 ‘집안싸움’ 격화…한준호 “여기서 멈춰..."
+        },
+        {
+            "_id": "697ff13f38b0cf40969773ab",
+            "link": "https://n.news.naver.com/mnews/article/055/0001329297?sid=100",
+            "created_at": "2026-02-02T09:35:11.284000",
+            "description": "열린 국회 기자간담회에서 \"민주당에서 어느 정도 정리된 상태가 됐을 때 그다음 일을 이야기할 수 있지 않을까 생각한다\"고 말했습니다. 이어 \"오늘 아침 한준호 민주당 의원은 자당 대표를 향해서, 채현일 의원은 우당을... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008426259&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-02-01T15:51:00",
+            "related_members": [
+                "0698755I",
+                "1S05899F",
+                "BCQ55105"
+            ],
+            "title": "조국혁신당 \"합당 논의, 민주당 내부 정리부터 돼야\""
+        },
+        {
+            "_id": "697ff10338b0cf409697732a",
+            "link": "https://n.news.naver.com/mnews/article/009/0005630371?sid=100",
+            "created_at": "2026-02-02T09:34:11.528000",
+            "description": "최보윤 국민의힘 수석대변인은 이날 오전 논평을 통해 “김 총리는 서울시장 출마 여부를 분명히 밝히고... 최 수석대변인은 “김 총리는 지난 17일 국가 공공시설인 서울 삼청동 총리 관저에서 자신의 국회의원 지역구... ",
+            "originallink": "https://www.mk.co.kr/article/11949381",
+            "press": "매일경제",
+            "pubDate": "2026-02-01T13:37:00",
+            "related_members": [
+                "MLH1404S",
+                "1S05899F",
+                "UOS16250"
+            ],
+            "title": "국힘 “김민석 총리 관저서 당원 행사…그곳이 민주당 사무실인가”"
+        },
+        {
+            "_id": "697ff12938b0cf4096977380",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746587?sid=100",
+            "created_at": "2026-02-02T09:34:49.604000",
+            "description": "그는 \"오전부터 한준호 의원은 정청래 대표를 향해, 채현일 의원은 혁신당을 향해 질문을 던진다. 날이 선 질문\"이라면서 \"상중이던 지난주에는 모 국무위원과 국회의원 간의 밀약설 타격 모의 메시지도 공개됐다\"고... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6057937",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T13:36:00",
+            "related_members": [
+                "NPD75153",
+                "1S05899F",
+                "BCQ55105",
+                "2385336L"
+            ],
+            "title": "신장식 \"민주당 권력 투쟁에 혁신당 끌어들이지 마라\""
+        },
+        {
+            "_id": "697ff11138b0cf409697735f",
+            "link": "https://n.news.naver.com/mnews/article/003/0013741878?sid=100",
+            "created_at": "2026-02-02T09:34:25.636000",
+            "description": "한정애 정책위의장도 이날 국회에서 기자간담회를 열고 \"합당 관련 논의를 하는 의원총회를 별도로 하겠다는 말씀은 이미 드렸다. 멀지 않은 시간 내에 당무 관련 의원총회를 잡아야 한다\"고 했다. 이어 \"의원들의... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497911",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T12:48:00",
+            "related_members": [
+                "7YL9580G",
+                "6VC83722",
+                "1S05899F",
+                "BCQ55105",
+                "XPP2564T"
+            ],
+            "title": "與, 조문 정국 마무리에 \"합당 논의 절차 이번주 재개\""
+        },
+        {
+            "_id": "697ff15038b0cf40969773bf",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746387?sid=100",
+            "created_at": "2026-02-02T09:35:27.892000",
+            "description": "친명(친이재명)계이자 전 최고위원인 한준호 의원은 이날 오전 국회에서 기자회견을 열고 \"지금 당이 당원과... 또 다른 친명계 의원인 채현일 의원은 합당과 관련해 조국혁신당에 세 가지의 질문을 페이스북에 남겼다. 채... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6057856",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T10:58:00",
+            "related_members": [
+                "1S05899F",
+                "BCQ55105",
+                "2385336L"
+            ],
+            "title": "친명계 \"혁신당과 합당 중단하라\"…정청래에 공개 촉구"
+        },
+        {
+            "_id": "697ff11938b0cf4096977365",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116312?sid=100",
+            "created_at": "2026-02-02T09:34:33.445000",
+            "description": "국민의힘이 김민석 국무총리가 관저에서 자신의 국회의원 지역구 당원 행사를 열었다며, “권력을... 앞서 시민단체 ‘서민민생대책위원회’는 김 총리가 지난 17일 서울 삼청동 국무총리 관저에서 민주당 채현일 의원과... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474089&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-01-31T11:05:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S",
+                "1S05899F"
+            ],
+            "title": "국민의힘 “김민석 총리, 관저서 민주당 당원 행사…해임 대상”"
+        },
+        {
+            "_id": "697ff11938b0cf4096977366",
+            "link": "https://n.news.naver.com/mnews/article/448/0000587468?sid=100",
+            "created_at": "2026-02-02T09:34:33.445000",
+            "description": "민주당 채현일 의원도 참석했다”고 밝혔다. 박 수석대변인은 “김 총리는 영등포을 지역구 국회의원으로, 국가 공공시설을 자신의 지역 정치 행사 무대로 활용한 셈”이라며 “총리 관저는 건물 유지부터 경호, 운영... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/31/2026013190019.html",
+            "press": "조선일보",
+            "pubDate": "2026-01-31T10:50:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S",
+                "1S05899F"
+            ],
+            "title": "국힘 \"'관저 친목행사' 김민석, 즉각 사퇴가 국민에 대한 예의\""
+        },
+        {
+            "_id": "697ff11938b0cf4096977368",
+            "link": "https://n.news.naver.com/mnews/article/421/0008745770?sid=100",
+            "created_at": "2026-02-02T09:34:33.446000",
+            "description": "이 자리에는 영등포갑 민주당 채현일 의원도 함께했다\"며 이같이 밝혔다. 박 수석대변인은 \"김 총리는 영등포을 지역구 국회의원으로, 국가 공공시설을 자신의 지역 정치 행사 무대로 이용한 것\"이라며 \"총리 관저는 건물... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6057488",
+            "press": "뉴스1",
+            "pubDate": "2026-01-31T09:52:00",
+            "related_members": [
+                "NX534083",
+                "MLH1404S",
+                "1S05899F"
+            ],
+            "title": "국힘 \"'관저 친목행사' 김민석, 당장 물러나는 게 국민 대한 예의\""
+        },
+        {
+            "_id": "697ff15038b0cf40969773c0",
+            "link": "https://n.news.naver.com/mnews/article/020/0003693867?sid=100",
+            "created_at": "2026-02-02T09:35:27.892000",
+            "description": "30일 정치권에 따르면 시민단체 서민민생대책위원회는 27일 김 총리와 민주당 채현일 의원을 직권남용... 김 총리와 채 의원은 각각 서울 영등포을과 영등포갑 국회의원이다. 국무총리실은 “행사 전 선관위에 문의했고... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133269861/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-31T01:42:00",
+            "related_members": [
+                "1S05899F",
+                "MLH1404S"
+            ],
+            "title": "“김민석, 총리공관서 당원 행사” 경찰 고발"
+        },
         {
             "_id": "697cbd2138b0cf4096976ad8",
             "link": "https://n.news.naver.com/mnews/article/020/0003693841?sid=100",
@@ -183,7 +536,7 @@
             "_id": "6976fd128459600028998035",
             "link": "https://n.news.naver.com/mnews/article/023/0003954953?sid=102",
             "created_at": "2026-01-26T14:35:11.592000",
-            "description": "채현일 의원을 거론하면서 “(김·채 의원에게) 한 말씀 해주시면 큰 힘이 되겠다”고 요청하는 내용의 문자 메시지를 보낸 사실을 파악한 것으로 알려졌다. 영등포구청장 후보로 공천될 수 있도록 해당 지역 국회의원에... ",
+            "description": "이런 가운데 민주당에선 김씨가 정치적 입지를 넓히려고 강 의원뿐 아니라 다른 민주당 현역 국회의원에게... 서울시의원으로 당선됐다. 공천권을 쥔 민주당 서울시당위원장은 안규백(현 국방부 장관) 의원이었다.... ",
             "originallink": "https://www.chosun.com/national/incident/2026/01/24/DPPRMXHZDZEKLCUG7BRJMFVLMQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-24T05:01:00",
@@ -276,7 +629,7 @@
             "_id": "6964b57c631fd174349963c7",
             "link": "https://n.news.naver.com/mnews/article/003/0013666332?sid=100",
             "created_at": "2026-01-12T17:48:57.863000",
-            "description": "특위 위원장인 서 의원은 이날 국회 의원회관에서 발대식을 열고 \"서울을 세계 최고의 도시로 만들어가기... 서삼석·황희·전현희·박주민·김영배·문정복·박성준·서영석·임오경·김남근·이정헌·채현일·박홍배·이성윤... ",
+            "description": "특위 위원장인 서 의원은 이날 국회 의원회관에서 발대식을 열고 \"서울을 세계 최고의 도시로 만들어가기... 서 의원을 비롯해 서삼석·황희·전현희·박주민·김영배·문정복·박성준·서영석·임오경·김남근·이정헌... ",
             "originallink": "https://www.newsis.com/view/NISX20251218_0003447038",
             "press": "뉴시스",
             "pubDate": "2025-12-18T19:01:00",
@@ -348,146 +701,6 @@
                 "1S05899F"
             ],
             "title": "오늘부터 여당 최고위원 후보 등록…‘친명’ ‘친청’, 어느 쪽이 2석 ..."
-        },
-        {
-            "_id": "6964b57c631fd174349963ce",
-            "link": "https://n.news.naver.com/mnews/article/016/0002572308?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "“보궐선거 출마자 한마음 선의의 경쟁” 강득구(왼쪽에서 세 번째) 더불어민주당 의원이 15일 국회... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
-            "originallink": "https://biz.heraldcorp.com/article/10636835?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-15T16:27:00",
-            "related_members": [
-                "5762459L",
-                "8P37634C",
-                "1S05899F",
-                "3UI95829",
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "C7E79345",
-                "6WK3815W",
-                "ZW43496R",
-                "86R9476S",
-                "6K79158C",
-                "YM42715P",
-                "IL74008M",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "최고위원 출마 강득구 “친명-친청 없어…당정청 원팀 조정자 역할 하겠..."
-        },
-        {
-            "_id": "6964b57c631fd174349963d0",
-            "link": "https://n.news.naver.com/mnews/article/003/0013658225?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "것이 국회의원 모두가 해야할 다짐이고 약속\"이라고 했다. '당정대(당·정부·대통령실) 간 엇박자가 나온다'는... 민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일·이정헌 의원이 함께 참석했다．",
-            "originallink": "https://www.newsis.com/view/NISX20251215_0003441170",
-            "press": "뉴시스",
-            "pubDate": "2025-12-15T13:50:00",
-            "related_members": [
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "ZW43496R",
-                "1S05899F",
-                "6K79158C",
-                "IL74008M",
-                "5762459L",
-                "8P37634C",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "'친명' 강득구, 최고위원 출마…\"당정대 간 조율자 역할할 것\""
-        },
-        {
-            "_id": "6964b58e631fd174349964c3",
-            "link": "https://n.news.naver.com/mnews/article/021/0002757190?sid=100",
-            "created_at": "2026-01-12T17:49:16.092000",
-            "description": "친명계의 연쇄 출마에는 정청래 대표가 연임에 성공해 차기 국회의원 총선거 공천권을 쥐는 것을... 윤종군 의원 등이 동석했다. ‘이재명 대표’ 시기 원내수석부대표였던 박성준 의원과 김 총리와 가까운 채현일 의원을... ",
-            "originallink": "https://www.munhwa.com/article/11554209?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2025-12-15T12:06:00",
-            "related_members": [
-                "1S05899F",
-                "MQK9493H",
-                "2385336L",
-                "IL74008M"
-            ],
-            "title": "내년 당권 맞물린 민주당 최고위원 선거… ‘친명vs친청’ 계파전으로 ..."
-        },
-        {
-            "_id": "6964b58e631fd174349964c4",
-            "link": "https://n.news.naver.com/mnews/article/057/0001924919?sid=100",
-            "created_at": "2026-01-12T17:49:16.092000",
-            "description": "강 의원은 오늘 오전 국회에서 기자회견을 열고 \"이재명 국민주권정부의 성공, 국민의힘 청산, 내년 지방선거... 민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일·이정헌 의원이 자리했습니다. [ ]",
-            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5161984",
-            "press": "매일경제",
-            "pubDate": "2025-12-15T11:37:00",
-            "related_members": [
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "ZW43496R",
-                "1S05899F",
-                "6K79158C",
-                "IL74008M",
-                "5762459L",
-                "8P37634C",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "강득구 \"이재명 대통령 중심 단합…우리 당은 친명이자 하나\" 출사표"
-        },
-        {
-            "_id": "6964b58e631fd174349964c5",
-            "link": "https://n.news.naver.com/mnews/article/421/0008660920?sid=100",
-            "created_at": "2026-01-12T17:49:16.093000",
-            "description": "강 의원은 이날 국회에서 최고위원 출마 기자회견을 열고 \"지금 이 대통령은 내란세력이 남긴 혼란과 상처를... 김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일·이정헌 의원이 자리했다.",
-            "originallink": "https://www.news1.kr/politics/assembly/6008650",
-            "press": "뉴스1",
-            "pubDate": "2025-12-15T11:28:00",
-            "related_members": [
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "6WK3815W",
-                "ZW43496R",
-                "1S05899F",
-                "6K79158C",
-                "IL74008M",
-                "5762459L",
-                "8P37634C",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "강득구 \"李대통령 중심 당청 원팀…친명·친청 없다\"…출사표"
-        },
-        {
-            "_id": "6964b58e631fd174349964c6",
-            "link": "https://n.news.naver.com/mnews/article/003/0013634829?sid=100",
-            "created_at": "2026-01-12T17:49:16.093000",
-            "description": "채현일 더불어민주당 의원이 2일 서울 여의도 국회 의원회관에서 열린 공공임대 공실개선 미니정책 TF 성과발표회에서 인사말을 하고 있다. 2025.12.02. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20251202_0021082949",
-            "press": "뉴시스",
-            "pubDate": "2025-12-02T16:18:00",
-            "related_members": [
-                "1S05899F"
-            ],
-            "title": "인사말하는 채현일 의원"
-        },
-        {
-            "_id": "6964b58e631fd174349964c7",
-            "link": "https://n.news.naver.com/mnews/article/421/0008636980?sid=101",
-            "created_at": "2026-01-12T17:49:16.093000",
-            "description": "영유아 식품 전문 브랜드 '엘빈즈(에이치비에프앤비)'는 지난 11월 29일 국회의원회관 제2소회의실에서 열린... 시상은 채현일 더불어민주당 의원이 직접 진행했다. 엘빈즈의 보건복지위원회 위원장상은 김혜인... ",
-            "originallink": "https://www.news1.kr/industry/general-industry/5994895",
-            "press": "뉴스1",
-            "pubDate": "2025-12-02T10:39:00",
-            "related_members": [
-                "1S05899F"
-            ],
-            "title": "엘빈즈, '저출생 극복' 공로로 보건복지위원회 위원장상 수상"
         }
     ],
     "recent_videos": [
@@ -566,7 +779,7 @@
             "url": "https://www.youtube.com/watch?v=CfMk4o3SmlY",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 888.0,
             "title": "채현일 “내란특별재판부 논의 단계…사법부 냉철한 반성과 제도적 변화 필요” (25.9.8.) | 채현일 더불어민주당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
@@ -576,7 +789,7 @@
             "url": "https://www.youtube.com/watch?v=Tzdh2toUrOk",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:45.905000",
+            "collected_at": "2026-02-02T09:54:08.096000",
             "duration": 433.0,
             "title": "채현일, \"윤석열 정권의 국정농단\"...김민석, \"총리가 된다면..\" 작심 폭탄",
             "upload_date": null
@@ -606,7 +819,7 @@
             "url": "https://www.youtube.com/watch?v=fxuycUi1K-U",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:45.905000",
+            "collected_at": "2026-02-02T09:54:08.096000",
             "duration": 441.0,
             "title": "[네트워크 특별대담] 채현일 서울 영등포구청장 [전국네트워크뉴스]",
             "upload_date": null
@@ -616,7 +829,7 @@
             "url": "https://www.youtube.com/watch?v=4jDA5en0bU8",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 490.0,
             "title": "“1조원의 대관람차, 한강 리버버스 등 보여주기 사업…왜 이렇게 집착?” 채현일 더불어민주당 의원 | 행안위 국정감사 (24.10.15.) | 국회방송",
             "upload_date": null
@@ -636,7 +849,7 @@
             "url": "https://www.youtube.com/watch?v=WbeL8LFzEl0",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 221.0,
             "title": "충실하게 내란 부하짓 한 것!! 팩폭하는 채현일 의원",
             "upload_date": null
@@ -646,7 +859,7 @@
             "url": "https://www.youtube.com/watch?v=hL_AYa0BPlc",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 802.0,
             "title": "위철환 중앙선거관리위원 후보자 인사청문회 | 채현일 국회의원 전체영상",
             "upload_date": null
@@ -656,7 +869,7 @@
             "url": "https://www.youtube.com/watch?v=nL0NRSamdRU",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 238.0,
             "title": "더불어민주당 원내대책회의 | 채현일 국회의원",
             "upload_date": null
@@ -666,7 +879,7 @@
             "url": "https://www.youtube.com/watch?v=VZkCtEAF6HM",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 789.0,
             "title": "성평등가족위 국정감사 : 성평등가족부 | 채현일 국회의원 전체영상",
             "upload_date": null
@@ -676,7 +889,7 @@
             "url": "https://www.youtube.com/watch?v=bzPBozrqaAo",
             "HG_NM": "채현일",
             "MONA_CD": "1S05899F",
-            "collected_at": "2026-01-30T23:33:44.400000",
+            "collected_at": "2026-02-02T09:54:06.831000",
             "duration": 502.0,
             "title": "\"전경들을 향해 꽃을 달아준 사람! 후보자, 사진 속 인물은 누구?\" 채현일 더불어민주당 의원 | 김민석 국무총리 후보자 인사청문회 (25.6.24.) | 국회방송",
             "upload_date": null
@@ -692,5 +905,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:20.457535"
+    "exported_at": "2026-02-02T09:57:39.347484"
 }

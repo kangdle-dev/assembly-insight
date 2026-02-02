@@ -50,15 +50,15 @@
             "충북",
             "선거",
             "출마",
-            "임호",
             "지사",
+            "임호",
             "도지사",
             "진천",
             "더불어민주당",
-            "등판",
-            "가능",
             "노영민",
             "송기섭",
+            "가능",
+            "등판",
             "지방",
             "군수",
             "조사"
@@ -66,7 +66,7 @@
         "keyword_frequency": [
             {
                 "text": "충북",
-                "value": 53
+                "value": 57
             },
             {
                 "text": "선거",
@@ -74,15 +74,15 @@
             },
             {
                 "text": "출마",
+                "value": 35
+            },
+            {
+                "text": "지사",
                 "value": 30
             },
             {
                 "text": "임호",
-                "value": 27
-            },
-            {
-                "text": "지사",
-                "value": 26
+                "value": 28
             },
             {
                 "text": "도지사",
@@ -90,19 +90,11 @@
             },
             {
                 "text": "진천",
-                "value": 21
+                "value": 22
             },
             {
                 "text": "더불어민주당",
-                "value": 17
-            },
-            {
-                "text": "등판",
                 "value": 16
-            },
-            {
-                "text": "가능",
-                "value": 15
             },
             {
                 "text": "노영민",
@@ -110,6 +102,14 @@
             },
             {
                 "text": "송기섭",
+                "value": 14
+            },
+            {
+                "text": "가능",
+                "value": 14
+            },
+            {
+                "text": "등판",
                 "value": 14
             },
             {
@@ -125,29 +125,93 @@
                 "value": 13
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:13.680791",
+        "last_analyzed_at": "2026-02-02T09:57:31.994102",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
+                0,
                 2,
+                0,
                 1,
-                2,
-                0,
-                2,
-                0,
-                1
+                1,
+                3,
+                0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff13438b0cf4096977395",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742050?sid=102",
+            "created_at": "2026-02-02T09:35:00.353000",
+            "description": "당내에서는 이강일(청주상당) 국회의원의 문제 제기로 시작한 도당 당원 명부 유출 의혹 파장이 충북지사... 여기에 전략·심사 공천설의 당사자인 임호선(증평·진천·음성) 의원이 출마와 불출마 입장을 수차례 번복하면서... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497971",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T15:10:00",
+            "related_members": [
+                "AEO5706C",
+                "95J3282H",
+                "FH777496"
+            ],
+            "title": "'당원 명부 유출' 수습…이광희 민주 충북도당위원장 사퇴?"
+        },
+        {
+            "_id": "697ff0f938b0cf409697730a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746576?sid=102",
+            "created_at": "2026-02-02T09:34:01.289000",
+            "description": "우수의원으로는 강명구, 김주영, 남인순, 윤준병, 이광희, 이학영, 임호선, 조경태, 박해철 의원이 이름을 올렸다. 동물자유연대는 \"지난해 국회에서는 총 72건의 동물 관련 법률안이 발의됐지만, 가결률은 여전히 낮은 수준... ",
+            "originallink": "https://www.news1.kr/society/general-society/6057927",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T13:31:00",
+            "related_members": [
+                "9901388T",
+                "K5F2023J",
+                "5KV82250",
+                "D6U6678O",
+                "E2B3753X",
+                "95J3282H",
+                "04T3751T",
+                "JC14718Q",
+                "FH777496"
+            ],
+            "title": "\"국감서 동물복지 사각지대 점검\"…이학영·조경태 등 우수의원 선정"
+        },
+        {
+            "_id": "697ff13538b0cf4096977396",
+            "link": "https://n.news.naver.com/mnews/article/003/0013741624?sid=102",
+            "created_at": "2026-02-02T09:35:01.303000",
+            "description": "6월 충북지사 선거 출마에 부정적이던 더불어민주당 임호선(증평·진천·음성) 국회의원이 돌연 출마를 시사하는 발언을 계속해 그 배경에 관심이 쏠리고 있다. 1일 지역 정치권 등에 따르면 재선의 임 의원은 최근 자신의... ",
+            "originallink": "https://www.newsis.com/view/NISX20260131_0003497633",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T09:00:00",
+            "related_members": [
+                "FH777496",
+                "95J3282H"
+            ],
+            "title": "임호선 '갈짓자 행보'…민주 충북지사 경선 안갯속"
+        },
+        {
+            "_id": "697ff13938b0cf40969773a0",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111008?sid=102",
+            "created_at": "2026-02-02T09:35:05.129000",
+            "description": "그다음에 지금 이제 충북에 다섯 명의 국회의원이 있는데 이제 임호선 의원께서 수석 사무부총장 하셨잖아요. 그런데 사임을 하셨는데. 또 충북에는 그렇게 되면 아무도 당직을 주요 당직을 맡은 분이 안 계셔서 그런 점에... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6464891?utm_source=naver&utm_medium=article&utm_campaign=20260131045225",
+            "press": "노컷뉴스",
+            "pubDate": "2026-01-31T16:53:00",
+            "related_members": [
+                "EBH1101V",
+                "FH777496"
+            ],
+            "title": "민주당 이연희 의원 \"전략지역 서울·충청·부울경 승리전략 수립중\""
+        },
         {
             "_id": "697cbd2738b0cf4096976b11",
             "link": "https://n.news.naver.com/mnews/article/421/0008745165?sid=102",
@@ -522,179 +586,6 @@
                 "FH777496"
             ],
             "title": "\"결심 섰다\" 윤희근 전 경찰청장, 충북도지사 선거 출마 공식화"
-        },
-        {
-            "_id": "6964b542631fd17434996011",
-            "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
-            "originallink": "https://www.hankyung.com/article/2026010644427",
-            "press": "한국경제",
-            "pubDate": "2026-01-06T14:33:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "5N65159P",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "VRY5522V",
-                "BT62420K",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "OIA3741M",
-                "BRU2690F",
-                "GP07421U",
-                "JC14718Q",
-                "MQK9493H",
-                "7YC6702R",
-                "W3U3344O",
-                "95J3282H",
-                "0R68099X",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "CCU1009B",
-                "FH777496",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "3C23171A",
-                "8TU8443O",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "與 의원 68명 \"미국의 베네수엘라 군사작전, 국제평화 위협\" [전문]"
-        },
-        {
-            "_id": "6964b542631fd17434996012",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-06T11:58:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "BT62420K",
-                "VRY5522V",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "OIA3741M",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "BRU2690F",
-                "MQK9493H",
-                "GP07421U",
-                "7YC6702R",
-                "JC14718Q",
-                "95J3282H",
-                "0R68099X",
-                "W3U3344O",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "CCU1009B",
-                "FH777496",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "8TU8443O",
-                "3C23171A",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b572631fd1743499635b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008697388?sid=102",
-            "created_at": "2026-01-12T17:48:47.615000",
-            "description": "국회의원 보궐선거 가능성까지 염두에 둔 전략이라는 해석도 나온다. 현재 임호선(증평·진천·음성)... 재선 도전을 마다할 이유가 없는 윤건영 교육감은 출마 선언 시기를 최대한 늦추고 현직 프리미엄을 활용하면서... ",
-            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6029136",
-            "press": "뉴스1",
-            "pubDate": "2026-01-06T06:00:00",
-            "related_members": [
-                "FH777496",
-                "GP07421U"
-            ],
-            "title": "'지선 5개월 앞' 충북 현역 단체장 등판 언제…시점 고심"
         }
     ],
     "recent_videos": [
@@ -703,7 +594,7 @@
             "url": "https://www.youtube.com/watch?v=UCUNoTSi77tKCTenQx8gcHQQ",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": null,
             "title": "임호선TV",
             "upload_date": null
@@ -713,7 +604,7 @@
             "url": "https://www.youtube.com/watch?v=C4sM4c69g_0",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:09.826000",
+            "collected_at": "2026-02-02T09:51:46.564000",
             "duration": 341.0,
             "title": "[국정감사]임호선 의원, 경찰청 정책 질의2",
             "upload_date": null
@@ -723,7 +614,7 @@
             "url": "https://www.youtube.com/watch?v=TPiimGoC9is",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 530.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 임호선 의원(더불어민주당)",
             "upload_date": null
@@ -733,7 +624,7 @@
             "url": "https://www.youtube.com/watch?v=z--_Inn_1pg",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 1364.0,
             "title": "[풀영상] 국회의원 임호선 '형사소송법' 필리버스터",
             "upload_date": null
@@ -743,7 +634,7 @@
             "url": "https://www.youtube.com/watch?v=2Y3kSbOiNhs",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 104.0,
             "title": "[CCS종합뉴스]임호선 후보, 국회의원 재선 성공…축제 분위기",
             "upload_date": null
@@ -763,7 +654,7 @@
             "url": "https://www.youtube.com/watch?v=y1W6BCKBkJo",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 186.0,
             "title": "[국정감사] 임호선 의원, 행정안전부 국가안전대진단의 '대진단'이 필요합니다.",
             "upload_date": null
@@ -773,7 +664,7 @@
             "url": "https://www.youtube.com/watch?v=UNcMR_mv6AI",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-23T16:48:18.206000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 361.0,
             "title": "[국정감사]임호선 의원, 중앙선거관리위원회 질의",
             "upload_date": null
@@ -803,7 +694,7 @@
             "url": "https://www.youtube.com/watch?v=mJ6Z2jBHDj0",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 1729.0,
             "title": "[ 2부 : 임호선 국회의원 ] 구본상의 '허심탄회' | MBC충북 | 240306",
             "upload_date": null
@@ -813,7 +704,7 @@
             "url": "https://www.youtube.com/watch?v=xoyJZI_alfs",
             "HG_NM": "임호선",
             "MONA_CD": "FH777496",
-            "collected_at": "2026-01-30T23:31:08.250000",
+            "collected_at": "2026-02-02T09:51:45.272000",
             "duration": 631.0,
             "title": "태희가간다ㅣ\"이게 허위가 아니면 뭐가 허위냐\"ㅣ임호선 국회의원",
             "upload_date": null
@@ -827,7 +718,17 @@
             "duration": 4311.0,
             "title": "#2026더불어민주당중부3군신년인사회 #임호선국회의원 #증평진천음성지역위원회",
             "upload_date": null
+        },
+        {
+            "_id": "697ff52238b0cf4096977452",
+            "url": "https://www.youtube.com/watch?v=xF8p741lvbI",
+            "HG_NM": "임호선",
+            "MONA_CD": "FH777496",
+            "collected_at": "2026-02-02T09:51:46.564000",
+            "duration": 144.0,
+            "title": "임호선 \"불출마 아니다\".. 윤갑근 합류 시사",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:13.680791"
+    "exported_at": "2026-02-02T09:57:31.994102"
 }

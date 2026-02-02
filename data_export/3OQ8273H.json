@@ -43,25 +43,29 @@
     "analysis": {
         "keywords": [
             "대출",
+            "당선",
             "선거",
             "의원직",
-            "당선",
-            "상실",
             "사기",
             "혐의",
             "무효형",
+            "상실",
+            "항소심",
             "출판",
             "기념회",
             "민주당",
             "신영",
-            "항소심",
-            "재보선",
-            "대표"
+            "속보",
+            "재보선"
         ],
         "keyword_frequency": [
             {
                 "text": "대출",
-                "value": 19
+                "value": 21
+            },
+            {
+                "text": "당선",
+                "value": 18
             },
             {
                 "text": "선거",
@@ -72,24 +76,24 @@
                 "value": 16
             },
             {
-                "text": "당선",
+                "text": "사기",
                 "value": 16
+            },
+            {
+                "text": "혐의",
+                "value": 16
+            },
+            {
+                "text": "무효형",
+                "value": 15
             },
             {
                 "text": "상실",
                 "value": 14
             },
             {
-                "text": "사기",
-                "value": 14
-            },
-            {
-                "text": "혐의",
-                "value": 14
-            },
-            {
-                "text": "무효형",
-                "value": 13
+                "text": "항소심",
+                "value": 12
             },
             {
                 "text": "출판",
@@ -108,32 +112,28 @@
                 "value": 10
             },
             {
-                "text": "항소심",
+                "text": "속보",
                 "value": 10
             },
             {
                 "text": "재보선",
                 "value": 9
-            },
-            {
-                "text": "대표",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:03.338857",
+        "last_analyzed_at": "2026-02-02T09:57:21.225621",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
-                1,
+                0,
                 0,
                 0,
                 0,
@@ -535,93 +535,13 @@
     ],
     "recent_videos": [
         {
-            "_id": "69659636887d07f7ba2fad27",
-            "url": "https://www.youtube.com/watch?v=SOAGTRN85Z4",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:26:59.049000",
-            "duration": 96.0,
-            "title": "‘딸 명의 대출사기 혐의’ 양문석, 2심도 당선 무효형 / 채널A / 뉴스A",
-            "upload_date": null
-        },
-        {
             "_id": "697cbfb438b0cf4096976e31",
             "url": "https://www.youtube.com/watch?v=-tgcIwTNPgc",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:27:00.624000",
+            "collected_at": "2026-02-02T09:48:03.219000",
             "duration": 240.0,
             "title": "[시사쇼 정치다] 양문석 부인, 자료 위조 요구… 양문석 \"허위사실 유포 행위, 법적 책임\"",
-            "upload_date": null
-        },
-        {
-            "_id": "697cbfb438b0cf4096976e30",
-            "url": "https://www.youtube.com/watch?v=qvBn4ArsaQM",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:27:00.624000",
-            "duration": 647.0,
-            "title": "Ep260. 양문석 대법원 선고 임박, 사법부가 뱃지 뗀다",
-            "upload_date": null
-        },
-        {
-            "_id": "697327238459600028997a3f",
-            "url": "https://www.youtube.com/watch?v=d1NIk_PgRTg",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-23T16:45:36.183000",
-            "duration": 80.0,
-            "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e97297082fcc2b19cb5",
-            "url": "https://www.youtube.com/watch?v=Ts4o0bu7UAE",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-18T13:16:23.405000",
-            "duration": 123.0,
-            "title": "‘딸 명의 사기대출’ 혐의 양문석, 2심도 의원직 상실형 [9시 뉴스] / KBS  2025.07.24.",
-            "upload_date": null
-        },
-        {
-            "_id": "696c5e97297082fcc2b19cb4",
-            "url": "https://www.youtube.com/watch?v=V6pJ7SHFZpE",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-18T13:16:23.405000",
-            "duration": 458.0,
-            "title": "양문석, 우상호 향해 “맛이 간 기득권” | 뉴스TOP 10",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b13b297082fcc2b190cc",
-            "url": "https://www.youtube.com/watch?v=AbEwSHnnM6c",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:27:00.624000",
-            "duration": 115.0,
-            "title": "양문석 “우리 가족 대출로 피해자 있나” | 뉴스A",
-            "upload_date": null
-        },
-        {
-            "_id": "6968b13b297082fcc2b190cb",
-            "url": "https://www.youtube.com/watch?v=EHoqU1Rpn9E",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-15T18:19:51.350000",
-            "duration": 541.0,
-            "title": "[현장영상] 국악인들 \"양문석, 국회의원직 사퇴하라\"...'기생집' 발언에 분노 폭발 / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef5b887d07f7ba2fb48b",
-            "url": "https://www.youtube.com/watch?v=fFHuCzMl0Os",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:26:59.049000",
-            "duration": 1623.0,
-            "title": "반쪽 국회의원 하려고 1년만에 20억 넘게 날린 양문석 의원ㅠㅠ",
             "upload_date": null
         },
         {
@@ -635,13 +555,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad14631fd1743497d8fa",
-            "url": "https://www.youtube.com/watch?v=UCa28SQOj1JCqZcFeArJXJKQ",
+            "_id": "6960ad14631fd1743497d8fe",
+            "url": "https://www.youtube.com/watch?v=X7GbWbZ56v4",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:26:59.049000",
-            "duration": null,
-            "title": "양문석 TV",
+            "collected_at": "2026-01-09T16:24:01.483000",
+            "duration": 61.0,
+            "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형 #shorts",
+            "upload_date": null
+        },
+        {
+            "_id": "697327238459600028997a3f",
+            "url": "https://www.youtube.com/watch?v=d1NIk_PgRTg",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-23T16:45:36.183000",
+            "duration": 80.0,
+            "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b13b297082fcc2b190cb",
+            "url": "https://www.youtube.com/watch?v=EHoqU1Rpn9E",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-15T18:19:51.350000",
+            "duration": 541.0,
+            "title": "[현장영상] 국악인들 \"양문석, 국회의원직 사퇴하라\"...'기생집' 발언에 분노 폭발 / 채널A",
             "upload_date": null
         },
         {
@@ -649,9 +589,69 @@
             "url": "https://www.youtube.com/watch?v=7-8ptNWnLaA",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:27:00.624000",
+            "collected_at": "2026-02-02T09:48:03.219000",
             "duration": 722.0,
             "title": "\"이러면 격조 있는 질문이 힘들어\"...양문석, 증인 쏘아 보더니 폭발",
+            "upload_date": null
+        },
+        {
+            "_id": "697ff44338b0cf409697742f",
+            "url": "https://www.youtube.com/watch?v=k7H1MQfBo1I",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:03.219000",
+            "duration": 80.0,
+            "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fb",
+            "url": "https://www.youtube.com/watch?v=aGM2HTphygA",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:01.900000",
+            "duration": 116.0,
+            "title": "민주당 양문석 2심도 당선무효형...이상식은 감형돼 의원직 유지 / YTN",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef5b887d07f7ba2fb48b",
+            "url": "https://www.youtube.com/watch?v=fFHuCzMl0Os",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:01.900000",
+            "duration": 1623.0,
+            "title": "반쪽 국회의원 하려고 1년만에 20억 넘게 날린 양문석 의원ㅠㅠ",
+            "upload_date": null
+        },
+        {
+            "_id": "69659636887d07f7ba2fad25",
+            "url": "https://www.youtube.com/watch?v=K_ebCP5h5gY",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:01.900000",
+            "duration": 204.0,
+            "title": "양문석, 유인촌 장관에 고함치며 \"한 놈도 없냐고!\" [현장영상] / 채널A",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e97297082fcc2b19cb5",
+            "url": "https://www.youtube.com/watch?v=Ts4o0bu7UAE",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-18T13:16:23.405000",
+            "duration": 123.0,
+            "title": "‘딸 명의 사기대출’ 혐의 양문석, 2심도 의원직 상실형 [9시 뉴스] / KBS  2025.07.24.",
+            "upload_date": null
+        },
+        {
+            "_id": "6968b13b297082fcc2b190cc",
+            "url": "https://www.youtube.com/watch?v=AbEwSHnnM6c",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:03.219000",
+            "duration": 115.0,
+            "title": "양문석 “우리 가족 대출로 피해자 있나” | 뉴스A",
             "upload_date": null
         },
         {
@@ -665,33 +665,13 @@
             "upload_date": null
         },
         {
-            "_id": "69659636887d07f7ba2fad26",
-            "url": "https://www.youtube.com/watch?v=eqgNGcxYPgY",
+            "_id": "697cbfb438b0cf4096976e30",
+            "url": "https://www.youtube.com/watch?v=qvBn4ArsaQM",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:26:59.049000",
-            "duration": 365.0,
-            "title": "\"어디 조선일보 따위에!!!\" 반성하면 안되겠습니까...물음에 단호하게 거부하는 #양문석의원",
-            "upload_date": null
-        },
-        {
-            "_id": "69659636887d07f7ba2fad25",
-            "url": "https://www.youtube.com/watch?v=K_ebCP5h5gY",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:26:59.049000",
-            "duration": 204.0,
-            "title": "양문석, 유인촌 장관에 고함치며 \"한 놈도 없냐고!\" [현장영상] / 채널A",
-            "upload_date": null
-        },
-        {
-            "_id": "6960ad14631fd1743497d8fe",
-            "url": "https://www.youtube.com/watch?v=X7GbWbZ56v4",
-            "HG_NM": "양문석",
-            "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-09T16:24:01.483000",
-            "duration": 61.0,
-            "title": "[빠른뉴스 쨉] [속보] '대출사기 혐의' 양문석 의원, 항소심 당선무효형 #shorts",
+            "collected_at": "2026-01-30T23:27:00.624000",
+            "duration": 647.0,
+            "title": "Ep260. 양문석 대법원 선고 임박, 사법부가 뱃지 뗀다",
             "upload_date": null
         },
         {
@@ -705,6 +685,26 @@
             "upload_date": null
         },
         {
+            "_id": "69659636887d07f7ba2fad27",
+            "url": "https://www.youtube.com/watch?v=SOAGTRN85Z4",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:01.900000",
+            "duration": 96.0,
+            "title": "‘딸 명의 대출사기 혐의’ 양문석, 2심도 당선 무효형 / 채널A / 뉴스A",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad14631fd1743497d8fa",
+            "url": "https://www.youtube.com/watch?v=UCa28SQOj1JCqZcFeArJXJKQ",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-02-02T09:48:01.900000",
+            "duration": null,
+            "title": "양문석 TV",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad14631fd1743497d8fc",
             "url": "https://www.youtube.com/watch?v=6-x_dJXQ080",
             "HG_NM": "양문석",
@@ -715,15 +715,25 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad14631fd1743497d8fb",
-            "url": "https://www.youtube.com/watch?v=aGM2HTphygA",
+            "_id": "69659636887d07f7ba2fad26",
+            "url": "https://www.youtube.com/watch?v=eqgNGcxYPgY",
             "HG_NM": "양문석",
             "MONA_CD": "3OQ8273H",
-            "collected_at": "2026-01-30T23:26:59.049000",
-            "duration": 116.0,
-            "title": "민주당 양문석 2심도 당선무효형...이상식은 감형돼 의원직 유지 / YTN",
+            "collected_at": "2026-02-02T09:48:01.900000",
+            "duration": 365.0,
+            "title": "\"어디 조선일보 따위에!!!\" 반성하면 안되겠습니까...물음에 단호하게 거부하는 #양문석의원",
+            "upload_date": null
+        },
+        {
+            "_id": "696c5e97297082fcc2b19cb4",
+            "url": "https://www.youtube.com/watch?v=V6pJ7SHFZpE",
+            "HG_NM": "양문석",
+            "MONA_CD": "3OQ8273H",
+            "collected_at": "2026-01-18T13:16:23.405000",
+            "duration": 458.0,
+            "title": "양문석, 우상호 향해 “맛이 간 기득권” | 뉴스TOP 10",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:03.338857"
+    "exported_at": "2026-02-02T09:57:21.225621"
 }

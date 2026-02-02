@@ -55,23 +55,23 @@
             "윤한",
             "선거",
             "장동",
+            "윤석열",
             "국민",
             "특검",
             "계엄",
-            "대표",
-            "윤석열",
-            "권성동",
             "단독",
-            "지방",
-            "대통령",
+            "권성동",
+            "대표",
             "사과",
-            "계약",
-            "김건"
+            "지방",
+            "통일교",
+            "김건",
+            "대통령"
         ],
         "keyword_frequency": [
             {
                 "text": "윤한",
-                "value": 20
+                "value": 25
             },
             {
                 "text": "선거",
@@ -80,6 +80,10 @@
             {
                 "text": "장동",
                 "value": 14
+            },
+            {
+                "text": "윤석열",
+                "value": 13
             },
             {
                 "text": "국민",
@@ -94,70 +98,127 @@
                 "value": 11
             },
             {
-                "text": "대표",
-                "value": 10
-            },
-            {
-                "text": "윤석열",
+                "text": "단독",
                 "value": 10
             },
             {
                 "text": "권성동",
-                "value": 8
+                "value": 10
             },
             {
-                "text": "단독",
-                "value": 8
+                "text": "대표",
+                "value": 10
+            },
+            {
+                "text": "사과",
+                "value": 9
             },
             {
                 "text": "지방",
                 "value": 8
             },
             {
-                "text": "대통령",
-                "value": 7
-            },
-            {
-                "text": "사과",
-                "value": 7
-            },
-            {
-                "text": "계약",
+                "text": "통일교",
                 "value": 7
             },
             {
                 "text": "김건",
-                "value": 6
+                "value": 7
+            },
+            {
+                "text": "대통령",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:06.706187",
+        "last_analyzed_at": "2026-02-02T09:57:24.705582",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
+                1,
+                1,
+                2,
                 0,
-                1,
-                0,
-                1,
-                1,
-                2
+                3,
+                0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697ff10538b0cf409697732e",
+            "link": "https://n.news.naver.com/mnews/article/032/0003425105?sid=100",
+            "created_at": "2026-02-02T09:34:13.496000",
+            "description": "바른미래당 의원 등이다. 민주당 쪽은 이학영 국회부의장, 정동영 통일부 장관, 조승래 민주당 사무총장, 이언주 최고위원, 김영진 의원, 임종성 전 의원 등이다. 이 중 윤상현 의원, 정양석·임종성·이찬열 전 의원 등은... ",
+            "originallink": "https://www.khan.co.kr/article/202602012028005",
+            "press": "경향신문",
+            "pubDate": "2026-02-01T20:28:00",
+            "related_members": [
+                "8X15119P",
+                "MSY7784L",
+                "7XY7109I",
+                "ZYP7962W",
+                "5765663F",
+                "K5F2023J",
+                "JG77046J",
+                "FYI20317",
+                "ARP89147"
+            ],
+            "title": "통일교 ‘쪼개기 후원’ 54명 명단 공개되자…거론 의원들 대부분 유착..."
+        },
+        {
+            "_id": "697ff10538b0cf409697732f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003425064?sid=100",
+            "created_at": "2026-02-02T09:34:13.496000",
+            "description": "이학영 국회 부의장(의원), 정동영 통일부 장관(의원), 조승래 민주당 사무총장(의원), 이언주 민주당 최고위원(의원), 김영진 의원, 임종성 전 의원 등이 명단에 있었다. 당사자들은 통일교와의 유착 의혹을 부인했다.... ",
+            "originallink": "https://www.khan.co.kr/article/202602011659001",
+            "press": "경향신문",
+            "pubDate": "2026-02-01T16:59:00",
+            "related_members": [
+                "K5F2023J",
+                "ARP89147",
+                "8X15119P",
+                "ZYP7962W",
+                "5765663F",
+                "JG77046J",
+                "FYI20317",
+                "MSY7784L",
+                "7XY7109I"
+            ],
+            "title": "[단독]통일교 ‘쪼개기 후원’ 54명에 윤한홍·정진석·정동영 포함"
+        },
+        {
+            "_id": "697ff0fa38b0cf409697730d",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476238?sid=100",
+            "created_at": "2026-02-02T09:34:02.152000",
+            "description": "이 비공표 여론조사 등을 여러 이준석 정치인, 김종인 전 비대위원장 등에게 줬으니 이 사람들도 받아보는... [김용남/전 국회의원 : 만약에 여론조사를 명태균 씨가 윤석열, 김건희 부부에게 전혀 일언반구, 언질도 없이 한... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12282533?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-01T10:01:00",
+            "related_members": [
+                "MNZ4401T",
+                "TQP7167T",
+                "GDG1847Z",
+                "8X15119P",
+                "MSY7784L",
+                "DWK26447",
+                "QWL7778X"
+            ],
+            "title": "\"윤석열 부부, 58번을 돌렸다…이게 대가관계 없다고?\" [논/쟁]"
+        },
+        {
             "_id": "697cbd1938b0cf4096976a35",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107151&s_mcd=0214&s_hcd=01",
             "created_at": "2026-01-30T23:15:53.689000",
-            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 그래서 더군다나 이 명태균 씨 같은 경우에는 여기만 준 게 아니고 김종인 씨, 이준석 대표 다 줬다는 거예요. 그러면... ",
+            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 윤한홍 의원이든 권성동이든 다 반대했거든요. 거기에 단 하루도 산 적이 없고. 거기 연고도 없는 사람을 갑자기... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107151&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-30T09:00:00",
@@ -175,7 +236,7 @@
             "_id": "697cbd1938b0cf4096976a37",
             "link": "https://n.news.naver.com/mnews/article/052/0002307975?sid=100",
             "created_at": "2026-01-30T23:15:53.689000",
-            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 그래서 더군다나 이 명태균 씨 같은 경우에는 여기만 준 게 아니고 김종인 씨, 이준석 대표 다 줬다는 거예요. 그러면... ",
+            "description": "청탁금지법의 국회의원들이 공직자의 배우자는 받아도 처벌되지 않도록 그렇게 만들어 놨어요. 누구... 윤한홍 의원이든 권성동이든 다 반대했거든요. 거기에 단 하루도 산 적이 없고. 거기 연고도 없는 사람을 갑자기... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601300740444411",
             "press": "YTN",
             "pubDate": "2026-01-30T07:40:00",
@@ -512,7 +573,7 @@
             "url": "https://www.youtube.com/watch?v=spHNeCj9JFg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:19.168000",
+            "collected_at": "2026-02-02T09:49:13.568000",
             "duration": 466.0,
             "title": "[현장영상] 윤한홍 뜻밖의 발언에 '당황'…옆 의원 표정이 점점 굳더니 / JTBC News",
             "upload_date": null
@@ -522,7 +583,7 @@
             "url": "https://www.youtube.com/watch?v=6rHkLAeAoF0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:19.168000",
+            "collected_at": "2026-02-02T09:49:13.568000",
             "duration": 1059.0,
             "title": "윤한홍, '의대 정원 사과' 건의 하자 \"윤, 격노하며 욕해\"  / JTBC 이가혁 라이브",
             "upload_date": null
@@ -532,7 +593,7 @@
             "url": "https://www.youtube.com/watch?v=PQ3XQVIq5XA",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:19.168000",
+            "collected_at": "2026-02-02T09:49:13.568000",
             "duration": 529.0,
             "title": "'원조 친윤' 윤한홍 장동혁 면전서 “똥 묻은 개” [현장영상] / 채널A",
             "upload_date": null
@@ -542,7 +603,7 @@
             "url": "https://www.youtube.com/watch?v=6n3pzkmKlI0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:19.168000",
+            "collected_at": "2026-02-02T09:49:13.568000",
             "duration": 122.0,
             "title": "\"이런 얘기 더 이상 안 된다\"…윤한홍, 장동혁 면전서 \"계엄 사과·윤 절연하라\"｜지금 이 장면",
             "upload_date": null
@@ -552,7 +613,7 @@
             "url": "https://www.youtube.com/watch?v=Aesp0XenRuY",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:20.671000",
+            "collected_at": "2026-02-02T09:49:13.568000",
             "duration": 2039.0,
             "title": "\"똥 묻은 개가…\" 장동혁 면전서 면박 준 '원조 친윤' 윤한홍 [뉴스와이드]",
             "upload_date": null
@@ -562,7 +623,7 @@
             "url": "https://www.youtube.com/watch?v=8UWMoTP2rVg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:20.671000",
+            "collected_at": "2026-02-02T09:49:15.135000",
             "duration": 460.0,
             "title": "[지금뉴스] 원조 ‘친윤’ 윤한홍 “윤석열과 절연이 이재명에 복수하는 것” / KBS 2025.12.05.",
             "upload_date": null
@@ -572,7 +633,7 @@
             "url": "https://www.youtube.com/watch?v=UCwAQlslOvR_fCKJ8qYdee6w",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:19.168000",
+            "collected_at": "2026-02-02T09:49:13.568000",
             "duration": null,
             "title": "윤한홍희망TV",
             "upload_date": null
@@ -592,7 +653,7 @@
             "url": "https://www.youtube.com/watch?v=1k-n8j7QJDg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-18T13:17:23.918000",
+            "collected_at": "2026-02-02T09:49:15.135000",
             "duration": 132.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" / JTBC 뉴스룸",
             "upload_date": null
@@ -602,7 +663,7 @@
             "url": "https://www.youtube.com/watch?v=vGHYN3pKR0I",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-01-30T23:28:20.671000",
+            "collected_at": "2026-02-02T09:49:15.135000",
             "duration": 747.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -626,7 +687,27 @@
             "duration": 486.0,
             "title": "\"똥 묻은 개니까 국민들이\"..'윤한홍 맞나' 끝까지 봤더니 #뉴스다 / JTBC News",
             "upload_date": null
+        },
+        {
+            "_id": "697ff48b38b0cf4096977439",
+            "url": "https://www.youtube.com/watch?v=gBZwgpmufWk",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-02-02T09:49:15.135000",
+            "duration": 1414.0,
+            "title": "윤한홍 \"평생 들을 욕 10분간\" 尹 '쌍욕' 폭격..'이XX' 팽당한 당대표들..무릎꿇은 충암파에 '이런 X' 재소환 - [핫이슈PLAY] 2025년 12월 14일",
+            "upload_date": null
+        },
+        {
+            "_id": "697ff48b38b0cf409697743a",
+            "url": "https://www.youtube.com/watch?v=Y253i1C-Uu0",
+            "HG_NM": "윤한홍",
+            "MONA_CD": "8X15119P",
+            "collected_at": "2026-02-02T09:49:15.135000",
+            "duration": 1406.0,
+            "title": "[뉴스1번지] 민주 '1인 1표제' 부결…'친윤' 윤한홍 \"절연·사과\" / 연합뉴스TV (YonhapnewsTV)",
+            "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:06.706187"
+    "exported_at": "2026-02-02T09:57:24.705582"
 }

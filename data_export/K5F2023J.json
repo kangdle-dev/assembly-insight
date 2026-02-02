@@ -58,61 +58,73 @@
     "analysis": {
         "keywords": [
             "부의장",
-            "의장",
             "버스",
+            "의장",
             "대표",
             "법안",
             "지역",
+            "민주당",
             "더불어민주당",
             "지구",
+            "장관",
             "김현정",
-            "이학",
+            "단독",
+            "여야",
             "환경",
-            "회견",
-            "경기도",
-            "선거",
-            "일정"
+            "회견"
         ],
         "keyword_frequency": [
             {
                 "text": "부의장",
-                "value": 25
-            },
-            {
-                "text": "의장",
-                "value": 20
+                "value": 24
             },
             {
                 "text": "버스",
-                "value": 18
-            },
-            {
-                "text": "대표",
                 "value": 17
             },
             {
-                "text": "법안",
+                "text": "의장",
                 "value": 16
+            },
+            {
+                "text": "대표",
+                "value": 15
+            },
+            {
+                "text": "법안",
+                "value": 14
             },
             {
                 "text": "지역",
                 "value": 12
             },
             {
-                "text": "더불어민주당",
+                "text": "민주당",
                 "value": 11
+            },
+            {
+                "text": "더불어민주당",
+                "value": 10
             },
             {
                 "text": "지구",
                 "value": 10
             },
             {
+                "text": "장관",
+                "value": 9
+            },
+            {
                 "text": "김현정",
                 "value": 9
             },
             {
-                "text": "이학",
-                "value": 9
+                "text": "단독",
+                "value": 8
+            },
+            {
+                "text": "여야",
+                "value": 8
             },
             {
                 "text": "환경",
@@ -121,37 +133,25 @@
             {
                 "text": "회견",
                 "value": 8
-            },
-            {
-                "text": "경기도",
-                "value": 8
-            },
-            {
-                "text": "선거",
-                "value": 8
-            },
-            {
-                "text": "일정",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:12.195176",
+        "last_analyzed_at": "2026-02-02T09:57:30.409843",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                2,
-                0,
                 1,
                 2,
+                3,
+                0,
+                0,
                 3,
                 0
             ]
@@ -159,10 +159,73 @@
     },
     "recent_news": [
         {
+            "_id": "697ff10538b0cf409697732e",
+            "link": "https://n.news.naver.com/mnews/article/032/0003425105?sid=100",
+            "created_at": "2026-02-02T09:34:13.496000",
+            "description": "바른미래당 의원 등이다. 민주당 쪽은 이학영 국회부의장, 정동영 통일부 장관, 조승래 민주당 사무총장, 이언주 최고위원, 김영진 의원, 임종성 전 의원 등이다. 이 중 윤상현 의원, 정양석·임종성·이찬열 전 의원 등은... ",
+            "originallink": "https://www.khan.co.kr/article/202602012028005",
+            "press": "경향신문",
+            "pubDate": "2026-02-01T20:28:00",
+            "related_members": [
+                "8X15119P",
+                "MSY7784L",
+                "7XY7109I",
+                "ZYP7962W",
+                "5765663F",
+                "K5F2023J",
+                "JG77046J",
+                "FYI20317",
+                "ARP89147"
+            ],
+            "title": "통일교 ‘쪼개기 후원’ 54명 명단 공개되자…거론 의원들 대부분 유착..."
+        },
+        {
+            "_id": "697ff10538b0cf409697732f",
+            "link": "https://n.news.naver.com/mnews/article/032/0003425064?sid=100",
+            "created_at": "2026-02-02T09:34:13.496000",
+            "description": "이학영 국회 부의장(의원), 정동영 통일부 장관(의원), 조승래 민주당 사무총장(의원), 이언주 민주당 최고위원(의원), 김영진 의원, 임종성 전 의원 등이 명단에 있었다. 당사자들은 통일교와의 유착 의혹을 부인했다.... ",
+            "originallink": "https://www.khan.co.kr/article/202602011659001",
+            "press": "경향신문",
+            "pubDate": "2026-02-01T16:59:00",
+            "related_members": [
+                "K5F2023J",
+                "ARP89147",
+                "8X15119P",
+                "ZYP7962W",
+                "5765663F",
+                "JG77046J",
+                "FYI20317",
+                "MSY7784L",
+                "7XY7109I"
+            ],
+            "title": "[단독]통일교 ‘쪼개기 후원’ 54명에 윤한홍·정진석·정동영 포함"
+        },
+        {
+            "_id": "697ff0f938b0cf409697730a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746576?sid=102",
+            "created_at": "2026-02-02T09:34:01.289000",
+            "description": "우수의원으로는 강명구, 김주영, 남인순, 윤준병, 이광희, 이학영, 임호선, 조경태, 박해철 의원이 이름을 올렸다. 동물자유연대는 \"지난해 국회에서는 총 72건의 동물 관련 법률안이 발의됐지만, 가결률은 여전히 낮은 수준... ",
+            "originallink": "https://www.news1.kr/society/general-society/6057927",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T13:31:00",
+            "related_members": [
+                "9901388T",
+                "K5F2023J",
+                "5KV82250",
+                "D6U6678O",
+                "E2B3753X",
+                "95J3282H",
+                "04T3751T",
+                "JC14718Q",
+                "FH777496"
+            ],
+            "title": "\"국감서 동물복지 사각지대 점검\"…이학영·조경태 등 우수의원 선정"
+        },
+        {
             "_id": "697cbd2138b0cf4096976ae2",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-29T20:30:00",
@@ -185,7 +248,7 @@
             "_id": "697cbd2138b0cf4096976ae3",
             "link": "https://n.news.naver.com/mnews/article/052/0002307758?sid=100",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 조국혁신당과의 합당 문제인데, 저희도 빼드리려고 했는데 오늘 아침에 황운하 의원이 조국공동대표설 이런 거... ",
+            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에 언제까지... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601291934537352",
             "press": "YTN",
             "pubDate": "2026-01-29T19:34:00",
@@ -628,49 +691,6 @@
                 "K5F2023J"
             ],
             "title": "이 대통령, 성탄절 '쿠팡' 장관회의...이례적 소집"
-        },
-        {
-            "_id": "6964b57f631fd174349963fc",
-            "link": "https://n.news.naver.com/mnews/article/052/0002291974?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "그리고 여러 가지 해고과정에서 국회의원실에 있는 자료들이 무단삭제됐다. 이런 것들에 대해서 김병기... 의장하고 이학영 부의장 두 분이 돌아가면서 의장석을 지켰잖아요. 상당히 힘드셨을 것 같긴 합니다. [신현영]... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202512242202286471",
-            "press": "YTN",
-            "pubDate": "2025-12-24T22:02:00",
-            "related_members": [
-                "K5F2023J",
-                "8Q88373R"
-            ],
-            "title": "[뉴스NIGHT] 김병기 '공항 의전' 논란...국힘 '지방선거 경선룰' 공방"
-        },
-        {
-            "_id": "6964b57f631fd174349963fd",
-            "link": "https://n.news.naver.com/mnews/article/022/0004092749?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "없이 국회에서 가결됐다. 더불어민주당 노종면 의원이 24일 국회에서 열린 12월 임시국회 본회의에서... 국회의장과 이학영 국회부의장의 부담이 커지면서다. 우 의장은 이날 본회의 산회 선포에 앞서 “앞으로 이런 식의... ",
-            "originallink": "https://www.segye.com/newsView/20251224511748?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2025-12-24T19:42:00",
-            "related_members": [
-                "K5F2023J",
-                "RUZ25800"
-            ],
-            "title": "토론 없이 ‘1일 1법안’ ‘필버 대치’ 반복… 새해도 불통 국회"
-        },
-        {
-            "_id": "6964b57f631fd174349963fe",
-            "link": "https://n.news.naver.com/mnews/article/052/0002291865?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "22대 국회 들어서 필리버스터 10번 넘게, 500시간 넘게 했는데 주호영 부의장이 거부하면서 지금 이학영... 본회의장에 국회의원들을 상대로 이걸 하는 게 아니란 말이에요. 국회방송을 지켜보시는 국민들에게 이 다수당... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202512241641483520",
-            "press": "YTN",
-            "pubDate": "2025-12-24T16:41:00",
-            "related_members": [
-                "8SV6917G",
-                "K5F2023J",
-                "8Q88373R"
-            ],
-            "title": "[정치ON] 김병기 \"보좌진 선의\"...한동훈 \"그게 바로 뇌물\""
         }
     ],
     "recent_videos": [
@@ -689,7 +709,7 @@
             "url": "https://www.youtube.com/watch?v=GSIpSv5WdRo",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:29.765000",
+            "collected_at": "2026-02-02T09:51:13.445000",
             "duration": 127.0,
             "title": "[단독] \"이학영, 특보 취업도 청탁\"…'제3자 뇌물' 검토 / SBS 8뉴스",
             "upload_date": null
@@ -699,7 +719,7 @@
             "url": "https://www.youtube.com/watch?v=MS74ja-jO6k",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-23T16:47:51.455000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 146.0,
             "title": "국회 기후노동위 국감 이학영 국회의원 부산청장 부당노동행위 즉각 법 집행에 나서야한다  #금속노조 #한화오션지회 #부당노동행위 #국정감사 #부당노동행위 근절을 위해 끝까지 투쟁!",
             "upload_date": null
@@ -749,7 +769,7 @@
             "url": "https://www.youtube.com/watch?v=U-8hXFywSrQ",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 192.0,
             "title": "국회의원 이학영이 말해주는 의정활동",
             "upload_date": null
@@ -759,7 +779,7 @@
             "url": "https://www.youtube.com/watch?v=vOLK-jjKK1E",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 1285.0,
             "title": "160228_국회의원이학영 필리버스터_01",
             "upload_date": null
@@ -769,7 +789,7 @@
             "url": "https://www.youtube.com/watch?v=jxMnHeOB_9U",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 1358.0,
             "title": "이학영 의원 국회의원 25시 187회",
             "upload_date": null
@@ -799,7 +819,7 @@
             "url": "https://www.youtube.com/watch?v=IrsHYTtBehM",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 157.0,
             "title": "군포시 국회의원 후보 이학영 유세송, 든든송",
             "upload_date": null
@@ -819,7 +839,7 @@
             "url": "https://www.youtube.com/watch?v=-JvrrGos20g",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 17424.0,
             "title": "160228_국회의원이학영 필리버스터_05",
             "upload_date": null
@@ -829,7 +849,7 @@
             "url": "https://www.youtube.com/watch?v=FkB4wKOy59Q",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:29.765000",
+            "collected_at": "2026-02-02T09:51:13.445000",
             "duration": 78.0,
             "title": "이학영이 말하는 민주주의 (축약버젼)",
             "upload_date": null
@@ -839,7 +859,7 @@
             "url": "https://www.youtube.com/watch?v=UClztZIVGP1NmO7E8ZvKDwKg",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": null,
             "title": "이학영TV",
             "upload_date": null
@@ -849,7 +869,7 @@
             "url": "https://www.youtube.com/watch?v=fRw0zjob22U",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 70.0,
             "title": "160228_국회의원이학영 필리버스터_02",
             "upload_date": null
@@ -859,7 +879,7 @@
             "url": "https://www.youtube.com/watch?v=v8KzsjphMbc",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-02T09:51:12.082000",
             "duration": 68.0,
             "title": "국회의원 이학영 상임위(정무위) 질의_20150616",
             "upload_date": null
@@ -875,5 +895,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:12.195176"
+    "exported_at": "2026-02-02T09:57:30.409843"
 }

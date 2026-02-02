@@ -60,34 +60,34 @@
             "투표",
             "결선",
             "더불어민주당",
-            "민주",
             "신임",
             "보궐",
+            "민주",
             "지도부",
             "선출",
             "최고",
-            "위원"
+            "수원"
         ],
         "keyword_frequency": [
             {
                 "text": "대표",
-                "value": 80
+                "value": 76
             },
             {
                 "text": "원내",
-                "value": 77
+                "value": 74
             },
             {
                 "text": "민주당",
-                "value": 36
+                "value": 37
             },
             {
                 "text": "선거",
-                "value": 33
+                "value": 31
             },
             {
                 "text": "한병도",
-                "value": 30
+                "value": 28
             },
             {
                 "text": "투표",
@@ -99,11 +99,7 @@
             },
             {
                 "text": "더불어민주당",
-                "value": 17
-            },
-            {
-                "text": "민주",
-                "value": 17
+                "value": 16
             },
             {
                 "text": "신임",
@@ -111,6 +107,10 @@
             },
             {
                 "text": "보궐",
+                "value": 15
+            },
+            {
+                "text": "민주",
                 "value": 15
             },
             {
@@ -126,20 +126,20 @@
                 "value": 14
             },
             {
-                "text": "위원",
+                "text": "수원",
                 "value": 12
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:58.522849",
+        "last_analyzed_at": "2026-02-02T09:57:16.273332",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
@@ -147,12 +147,70 @@
                 0,
                 0,
                 0,
-                0,
+                3,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10438b0cf409697732d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111127?sid=102",
+            "created_at": "2026-02-02T09:34:12.565000",
+            "description": "현 경기도지사 후보군으로 거론되는 김동연 경기지사를 비롯해 추미애·한준호·김병주 국회의원이 참석했고, 김승원·백혜련·김영진·김준혁·염태영 등 수원 지역 국회의원 5명도 모두 모습을 드러냈다. 수원시장 재선... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465022?utm_source=naver&utm_medium=article&utm_campaign=20260201075338",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-01T19:54:00",
+            "related_members": [
+                "5765663F",
+                "HSS7466Y",
+                "URX8075K",
+                "URV1689Q",
+                "GF286398",
+                "ATB59635",
+                "BCQ55105",
+                "YM42715P"
+            ],
+            "title": "'준비된 혁신가' 이재준 수원시장 재선 가시권…시민·여권 관심 집중"
+        },
+        {
+            "_id": "697ff0f938b0cf4096977302",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746862?sid=102",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "출판그룹 '라의눈'에 따르면 시민 5000여 명이 함께한 이 자리에는 김승원·백혜련·김영진·김준혁·염태영·강득구·추미애·한준호·김병주 더불어민주당 국회의원, 김진표 전 국회의장 등 정계 인사도 참석했다. 또 김동연... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6058076",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T17:50:00",
+            "related_members": [
+                "5765663F",
+                "HSS7466Y",
+                "URX8075K",
+                "URV1689Q",
+                "GF286398",
+                "ATB59635",
+                "8P37634C",
+                "BCQ55105",
+                "YM42715P"
+            ],
+            "title": "이재준 수원시장, '수원의 새빛, 세계로 가다' 출판기념회"
+        },
+        {
+            "_id": "697ff10838b0cf4096977333",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742109?sid=102",
+            "created_at": "2026-02-02T09:34:16.006000",
+            "description": "도서출판 '라의눈'에 따르면 이날 출판기념회에는 약 5000여명의 시민이 참석한 가운데 김동연 경기도지사를 비롯해 김승원·백혜련·김영진·김준혁·염태영 국회의원, 김진표 전 국회의장 등 민주당 유력 정치인들이 대거... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003498007",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T16:34:00",
+            "related_members": [
+                "5765663F",
+                "HSS7466Y",
+                "URX8075K",
+                "ATB59635",
+                "YM42715P"
+            ],
+            "title": "이재준 시장 '수원의 새빛, 세계로 가다' 출판기념회 발길"
+        },
         {
             "_id": "6972d20d845960002899777d",
             "link": "https://n.news.naver.com/mnews/article/262/0000019097?sid=100",
@@ -701,181 +759,6 @@
                 "6AU2417B"
             ],
             "title": "쿠팡 조준 나선 與…오기형 의원, 집단소송제 확대 법안 발의"
-        },
-        {
-            "_id": "6964b542631fd17434996011",
-            "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
-            "originallink": "https://www.hankyung.com/article/2026010644427",
-            "press": "한국경제",
-            "pubDate": "2026-01-06T14:33:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "5N65159P",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "VRY5522V",
-                "BT62420K",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "OIA3741M",
-                "BRU2690F",
-                "GP07421U",
-                "JC14718Q",
-                "MQK9493H",
-                "7YC6702R",
-                "W3U3344O",
-                "95J3282H",
-                "0R68099X",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "CCU1009B",
-                "FH777496",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "3C23171A",
-                "8TU8443O",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "與 의원 68명 \"미국의 베네수엘라 군사작전, 국제평화 위협\" [전문]"
-        },
-        {
-            "_id": "6964b542631fd17434996012",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-06T11:58:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "BT62420K",
-                "VRY5522V",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "OIA3741M",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "BRU2690F",
-                "MQK9493H",
-                "GP07421U",
-                "7YC6702R",
-                "JC14718Q",
-                "95J3282H",
-                "0R68099X",
-                "W3U3344O",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "CCU1009B",
-                "FH777496",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "8TU8443O",
-                "3C23171A",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b58f631fd174349964c9",
-            "link": "https://n.news.naver.com/mnews/article/015/0005232341?sid=100",
-            "created_at": "2026-01-12T17:49:16.392000",
-            "description": "이재명 대표 체제에서 비서실장 등 요직을 맡았던 천준호 의원이 동행했다. 김병기 전 원내대표의 사퇴로... 백혜련 의원이 출마한다. 한 의원은 이날 오전 국회에서 기자회견을 열고 “이재명 정부 출범 7개월 차, 민생... ",
-            "originallink": "https://www.hankyung.com/article/202601040106i",
-            "press": "한국경제",
-            "pubDate": "2026-01-04T14:10:00",
-            "related_members": [
-                "HSS7466Y",
-                "A494529E",
-                "8Q88373R",
-                "H5476989"
-            ],
-            "title": "'靑 정무수석' 출신 한병도, 與 원내대표 선거 출마"
         }
     ],
     "recent_videos": [
@@ -884,7 +767,7 @@
             "url": "https://www.youtube.com/watch?v=rRgIE6qQWzw",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:05.944000",
+            "collected_at": "2026-02-02T09:46:17.262000",
             "duration": 1027.0,
             "title": "[다시보기] 민주 백혜련, 원내대표 출마 선언 \"당내 비위, 예외없이 무관용\"-1월 2일 (금) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -904,7 +787,7 @@
             "url": "https://www.youtube.com/watch?v=ac77Nj1qyJM",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:05.944000",
+            "collected_at": "2026-02-02T09:46:17.262000",
             "duration": 297.0,
             "title": "한복 입고 국회 본회의장에 왜?...백혜련 의원의 이유 들어보니",
             "upload_date": null
@@ -914,7 +797,7 @@
             "url": "https://www.youtube.com/watch?v=FdqehAw97HQ",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:05.944000",
+            "collected_at": "2026-02-02T09:46:17.262000",
             "duration": 824.0,
             "title": "[1번지 현장] 백혜련 더불어민주당 의원에게 묻는 정국 현안 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -944,7 +827,7 @@
             "url": "https://www.youtube.com/watch?v=oHHsAZKyYGw",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:07.418000",
+            "collected_at": "2026-02-02T09:46:18.583000",
             "duration": 291.0,
             "title": "[다시보기] 민주 원내대표 선거 과반 득표자 없어…한병도·백혜련 결선투표 -1월 11일 (일) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -984,7 +867,7 @@
             "url": "https://www.youtube.com/watch?v=03A9K8h8n1U",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:05.944000",
+            "collected_at": "2026-02-02T09:46:17.262000",
             "duration": 879.0,
             "title": "내란 국조특위 활동 마친 더불어민주당 백혜련 의원 | 그날그곳",
             "upload_date": null
@@ -1044,7 +927,7 @@
             "url": "https://www.youtube.com/watch?v=Hh7QTwdQ6gY",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:07.418000",
+            "collected_at": "2026-02-02T09:46:18.583000",
             "duration": 1081.0,
             "title": "[생중계] 백혜련 더불어민주당 의원, 원내대표 출마 선언 기자회견 (2026.01.02 오후)",
             "upload_date": null
@@ -1054,7 +937,7 @@
             "url": "https://www.youtube.com/watch?v=r2XbW5NoLu4",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:05.944000",
+            "collected_at": "2026-02-02T09:46:17.262000",
             "duration": 1359.0,
             "title": "[대담한 만남] 백혜련 국회의원 편",
             "upload_date": null
@@ -1064,11 +947,11 @@
             "url": "https://www.youtube.com/watch?v=myIJAvIPbJE",
             "HG_NM": "백혜련",
             "MONA_CD": "HSS7466Y",
-            "collected_at": "2026-01-30T23:25:05.944000",
+            "collected_at": "2026-02-02T09:46:17.262000",
             "duration": 287.0,
             "title": "[현장영상] 백혜련 등장에 환호성 \"와~!\"…본회의서 한복 입고 나온 이유가 / JTBC News",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:58.522849"
+    "exported_at": "2026-02-02T09:57:16.273332"
 }

@@ -48,15 +48,15 @@
     "analysis": {
         "keywords": [
             "제명",
+            "장동",
             "국민",
             "한동훈",
-            "장동",
-            "장애인",
             "대표",
-            "회견",
-            "사상",
+            "장애인",
             "이날",
+            "회견",
             "지도부",
+            "사상",
             "대상",
             "의장",
             "대변인",
@@ -66,26 +66,30 @@
         "keyword_frequency": [
             {
                 "text": "제명",
-                "value": 29
-            },
-            {
-                "text": "국민",
-                "value": 24
-            },
-            {
-                "text": "한동훈",
-                "value": 20
+                "value": 27
             },
             {
                 "text": "장동",
+                "value": 24
+            },
+            {
+                "text": "국민",
                 "value": 20
             },
             {
-                "text": "장애인",
-                "value": 16
+                "text": "한동훈",
+                "value": 19
             },
             {
                 "text": "대표",
+                "value": 18
+            },
+            {
+                "text": "장애인",
+                "value": 17
+            },
+            {
+                "text": "이날",
                 "value": 15
             },
             {
@@ -93,16 +97,12 @@
                 "value": 14
             },
             {
-                "text": "사상",
+                "text": "지도부",
                 "value": 14
             },
             {
-                "text": "이날",
-                "value": 13
-            },
-            {
-                "text": "지도부",
-                "value": 13
+                "text": "사상",
+                "value": 14
             },
             {
                 "text": "대상",
@@ -125,29 +125,89 @@
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:46.945980",
+        "last_analyzed_at": "2026-02-02T09:57:04.245041",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                0,
                 1,
                 0,
                 11,
+                0,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff0fb38b0cf4096977311",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789334?sid=100",
+            "created_at": "2026-02-02T09:34:03.085000",
+            "description": "진종오 한지아 수도권 당협위원장급 원외 인사 24명도 장동혁 대표 사퇴 요구에 가세했습니다. “장동혁 대표... 이준석 대표 권고대로 서울시장에 무소속으로 출마하거나, 국회의원 재·보궐선거에 출마하는 선택이... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1242683.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-01T08:50:00",
+            "related_members": [
+                "Q918403D",
+                "L7J93733",
+                "HS39431V",
+                "QDU1100U",
+                "8XE7026P",
+                "CGW7415Z",
+                "4019850M",
+                "PYA8594I",
+                "TQP7167T",
+                "KFM1081G",
+                "8UC4779G",
+                "QWL7778X",
+                "AEJ19639",
+                "KBK8836C",
+                "1SR94244",
+                "EPI69383",
+                "JEZ3130Q",
+                "6RD62559",
+                "8348421R",
+                "RMC1840P",
+                "CNW5754J",
+                "QQP4727N",
+                "LYY5513O",
+                "57B28032",
+                "86R9476S",
+                "9D939735",
+                "4X525582",
+                "CNZ51556",
+                "WXJ8352N",
+                "MQU41854",
+                "SLW27496",
+                "MSY7784L"
+            ],
+            "title": "‘국힘 허수아비’ 장동혁…정치 경험보다 더 부족한 두 가지"
+        },
+        {
+            "_id": "697ff10938b0cf4096977341",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055496?sid=100",
+            "created_at": "2026-02-02T09:34:17.687000",
+            "description": "기존에 활동하던 김예지(재선, 비례)·최보윤(초선·비례) 의원에 이어, 지난해 12월 인요한 전 의원이... 2005년에는 공직선거법 개정으로 장애인 국회의원 예비후보자의 선거운동·정치활동에 필요한 비용을 국가가... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48311",
+            "press": "조선일보",
+            "pubDate": "2026-02-01T06:00:00",
+            "related_members": [
+                "CNZ51556",
+                "51A45980",
+                "B7789327",
+                "UOS16250"
+            ],
+            "title": "대구 인구보다 많은 260만명 '장애 당사자'…국회에선 이제 네 명"
+        },
         {
             "_id": "697cbd1a38b0cf4096976a5b",
             "link": "https://n.news.naver.com/mnews/article/366/0001139294?sid=100",
@@ -223,7 +283,7 @@
             "_id": "697cbd1e38b0cf4096976aa1",
             "link": "https://n.news.naver.com/mnews/article/009/0005629236?sid=100",
             "created_at": "2026-01-30T23:15:57.845000",
-            "description": "이날 오후 의원총회가 열리는 국회 본청에서 친한계 의원들은 기자회견을 열고 “오늘 한동훈 전 대표에 대한... 진종오, 한지아 의원 등 16명이 이름을 올렸다. 고 의원은 “명확한 사실관계와 논리도 없이 감정적으로 전직... ",
+            "description": "이날 오후 의원총회가 열리는 국회 본청에서 친한계 의원들은 기자회견을 열고 “오늘 한동훈 전 대표에 대한... 정연욱, 진종오, 한지아 의원 등 16명이 이름을 올렸다. 고 의원은 “명확한 사실관계와 논리도 없이... ",
             "originallink": "https://www.mk.co.kr/article/11947007",
             "press": "매일경제",
             "pubDate": "2026-01-29T14:10:00",
@@ -253,7 +313,7 @@
             "_id": "697cbd1e38b0cf4096976aa2",
             "link": "https://n.news.naver.com/mnews/article/021/0002767443?sid=100",
             "created_at": "2026-01-30T23:15:57.845000",
-            "description": "국민의힘에서 제명된 한동훈 전 대표가 29일 서울 여의도 국회 소통관에서 제명 결정과 관련해 기자회견을... 진종오, 한지아 의원이 참석했다. 김성원, 박정하, 서범수, 우재준, 유용원 의원도 이름을 올렸다. 국민의힘 초... ",
+            "description": "고동진 의원을 비롯한 친한계 의원들은 이날 오후 서울 여의도 국회에서 의원총회가 열리기 전 기자회견을... 이날 회견에는 고동진 의원을 비롯해 김예지, 김형동, 배현진, 김건, 박정훈, 안상훈, 정성국, 정연욱, 진종오... ",
             "originallink": "https://www.munhwa.com/article/11564678?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-01-29T14:09:00",
@@ -380,7 +440,7 @@
             "_id": "697cbd1e38b0cf4096976aa5",
             "link": "https://n.news.naver.com/mnews/article/028/0002788967?sid=100",
             "created_at": "2026-01-30T23:15:57.845000",
-            "description": "고동진 의원 등 16명의 친한계 의원들은 이날 국회에서 긴급 기자회견을 열어 “오늘 한 전 대표에 대한 제명... 서범수, 김건, 박정훈, 안상훈, 우재준, 유용원, 정성국, 정연욱, 진종오, 한지아 등 16명의 의원이 이름을 올렸다.",
+            "description": "고동진 의원 등 16명의 친한계 의원들은 이날 국회에서 긴급 기자회견을 열어 “오늘 한 전 대표에 대한 제명... 이날 성명에는 고 의원을 비롯해 김성원, 김예지, 김형동, 박정하, 배현진, 서범수, 김건, 박정훈, 안상훈... ",
             "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1242285.html",
             "press": "한겨레",
             "pubDate": "2026-01-29T13:48:00",
@@ -410,7 +470,7 @@
             "_id": "697cbd1e38b0cf4096976aa6",
             "link": "https://n.news.naver.com/mnews/article/003/0013737667?sid=100",
             "created_at": "2026-01-30T23:15:57.845000",
-            "description": "고동진 의원을 비롯한 친한계 의원들은 이날 오후 서울 여의도 국회에서 의원총회가 열리기 전 기자회견을... 이날 회견에는 고동진 의원을 비롯해 김예지, 김형동, 배현진, 김건, 박정훈, 안상훈, 정성국, 정연욱, 진종오... ",
+            "description": "고동진 의원을 비롯한 친한계 의원들은 이날 오후 서울 여의도 국회에서 의원총회가 열리기 전 기자회견을... 정성국, 정연욱, 진종오, 한지아 의원이 참석했다. 김성원, 박정하, 서범수, 우재준, 유용원 의원도 이름을 올렸다.",
             "originallink": "https://www.newsis.com/view/NISX20260129_0003495061",
             "press": "뉴시스",
             "pubDate": "2026-01-29T13:44:00",
@@ -440,7 +500,7 @@
             "_id": "697cbd1e38b0cf4096976aa7",
             "link": "https://n.news.naver.com/mnews/article/421/0008742112?sid=100",
             "created_at": "2026-01-30T23:15:57.845000",
-            "description": "고동진 의원 등은 이날 오후 의원총회가 열리는 국회 본청에서 기자회견을 열고 \"오늘 한동훈 전 대표에 대한... 서범수, 김건, 박정훈, 안상훈, 우재준, 유용원, 정성국, 정연욱, 진종오, 한지아 의원 등 16명이 이름을 올렸다.",
+            "description": "고동진 의원 등은 이날 오후 의원총회가 열리는 국회 본청에서 기자회견을 열고 \"오늘 한동훈 전 대표에 대한... 장 대표 등 지도부 사퇴를 촉구하는 입장문에는 고 의원을 비롯해 김성원, 김예지, 김형동, 박정하, 배현진... ",
             "originallink": "https://www.news1.kr/politics/assembly/6055336",
             "press": "뉴스1",
             "pubDate": "2026-01-29T13:39:00",
@@ -797,39 +857,6 @@
                 "0R68099X"
             ],
             "title": "간호사 최소 배치기준안 첫 공개…'2028년 7.2명' 단계적 하향"
-        },
-        {
-            "_id": "6964b54e631fd1743499611a",
-            "link": "https://n.news.naver.com/mnews/article/003/0013683905?sid=102",
-            "created_at": "2026-01-12T17:48:12.076000",
-            "description": "대한간호협회는 30일 오전 국회의원회관에서 '의료기관 간호사 최소 배치기준 마련 토론회'를 열고... 김미애·김예지 국민의힘 의원 역시 \"60년 된 낡은 산식에서 벗어나 환자 인권을 반영한 기준의 법제화가 시급하다\"며... ",
-            "originallink": "https://www.newsis.com/view/NISX20251230_0003459696",
-            "press": "뉴시스",
-            "pubDate": "2025-12-30T15:03:00",
-            "related_members": [
-                "CNZ51556",
-                "3BC6890E"
-            ],
-            "title": "\"응급실 환자 1명당 간호사 4.8명\"…'최소기준' 첫 구체화"
-        },
-        {
-            "_id": "6964b54b631fd174349960dc",
-            "link": "https://n.news.naver.com/mnews/article/003/0013677960?sid=102",
-            "created_at": "2026-01-12T17:48:08.914000",
-            "description": "대한간호협회는 오는 30일 오후 2시 국회의원회관 제2세미나실에서 '요양병원 혁신 및 간병 급여화 토론회'를... 이번 토론회는 김남희·이수진·남인순·백혜련·서영석 더불어민주당 의원, 김예지 국민의힘 의원, 김선민... ",
-            "originallink": "https://www.newsis.com/view/NISX20251226_0003455388",
-            "press": "뉴시스",
-            "pubDate": "2025-12-26T10:48:00",
-            "related_members": [
-                "HSS7466Y",
-                "XR24352K",
-                "0R68099X",
-                "04T3751T",
-                "7GW5372Y",
-                "NXB3178C",
-                "CNZ51556"
-            ],
-            "title": "요양병원 간병인 80% 60대 이상…\"환자 안전대책 모색\""
         }
     ],
     "recent_videos": [
@@ -838,7 +865,7 @@
             "url": "https://www.youtube.com/watch?v=V4ZKL9l_52s",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:35.966000",
+            "collected_at": "2026-02-02T09:42:05.516000",
             "duration": 210.0,
             "title": "국민의힘 김예지 의원 단독 인터뷰, 당론 어기고 탄핵투표한 배경 - BBC News 코리아",
             "upload_date": null
@@ -848,7 +875,7 @@
             "url": "https://www.youtube.com/watch?v=50xb-oJbO28",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:35.966000",
+            "collected_at": "2026-02-02T09:42:05.516000",
             "duration": 1286.0,
             "title": "[생중계] 김예지 국힘 의원, 학대에 취약한 아동, 노인, 중증장애인을 위한 법안 발의 기자회견 (2025.11.19 오전)",
             "upload_date": null
@@ -858,7 +885,7 @@
             "url": "https://www.youtube.com/watch?v=-fKkxMCx1ws",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:35.966000",
+            "collected_at": "2026-02-02T09:42:05.516000",
             "duration": 311.0,
             "title": "\"눈 불편한 거 빼면 기득권\" 김예지 저격...박민영 발언 논란 [Y녹취록] / YTN",
             "upload_date": null
@@ -868,7 +895,7 @@
             "url": "https://www.youtube.com/watch?v=MoaY78mlvlE",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:35.966000",
+            "collected_at": "2026-02-02T09:42:05.516000",
             "duration": 490.0,
             "title": "[이런뉴스] 국민의힘 김예지, ‘황당 음모론’에 장기이식법 개정안 철회 / KBS 2025.10.21.",
             "upload_date": null
@@ -878,7 +905,7 @@
             "url": "https://www.youtube.com/watch?v=GE9tYlsPIOQ",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:35.966000",
+            "collected_at": "2026-02-02T09:42:05.516000",
             "duration": 114.0,
             "title": "\"자그마한 일\"이라던 국힘…신동욱 \"김예지, 공교롭게 장애인이라…당에서 심각한 문제 아냐\"｜지금 이 뉴스",
             "upload_date": null
@@ -898,7 +925,7 @@
             "url": "https://www.youtube.com/watch?v=hUYit3F6MMo",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:37.406000",
+            "collected_at": "2026-02-02T09:42:06.951000",
             "duration": 160.0,
             "title": "되레 김예지 탈당하라?‥'윤어게인 포용'론도 (2025.11.20/뉴스투데이/MBC)",
             "upload_date": null
@@ -958,7 +985,7 @@
             "url": "https://www.youtube.com/watch?v=3P3Lt0hpFwU",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:37.406000",
+            "collected_at": "2026-02-02T09:42:06.951000",
             "duration": 2137.0,
             "title": "장동혁 국힘 대표, 극우 연대 시사...대변인은 김예지 겨냥 \"장애인 너무 많이 할당해 문제\" [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -968,7 +995,7 @@
             "url": "https://www.youtube.com/watch?v=uVDCqwnVhzc",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:35.966000",
+            "collected_at": "2026-02-02T09:42:05.516000",
             "duration": 133.0,
             "title": "청문회 끝나고 혼난 국회의원이 있다? 김예지 의원과 국회 신입 '태백'이 인사 올립니다! [국회의사담 앵커스 23화 선공개]",
             "upload_date": null
@@ -978,7 +1005,7 @@
             "url": "https://www.youtube.com/watch?v=ntBw5v8nNRY",
             "HG_NM": "김예지",
             "MONA_CD": "CNZ51556",
-            "collected_at": "2026-01-30T23:20:37.406000",
+            "collected_at": "2026-02-02T09:42:06.951000",
             "duration": 256.0,
             "title": "[시선집중] 김예지 표적 삼은 극우 유튜버, 가짜 뉴스로 \"죽을 때까지 악성 안티\"? - 김연욱 작가[뉴스채굴꾼], MBC 251202 방송",
             "upload_date": null
@@ -994,5 +1021,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:46.946980"
+    "exported_at": "2026-02-02T09:57:04.245041"
 }

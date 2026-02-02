@@ -42,38 +42,38 @@
     },
     "analysis": {
         "keywords": [
-            "위원",
-            "최고",
             "대표",
+            "최고",
+            "위원",
             "정청래",
             "민주당",
             "선거",
             "대통령",
             "원내",
-            "이재명",
-            "국민",
             "부천",
+            "이재명",
+            "시장",
+            "국민",
             "사건",
             "합당",
-            "경기",
-            "조작"
+            "경기"
         ],
         "keyword_frequency": [
             {
-                "text": "위원",
-                "value": 25
+                "text": "대표",
+                "value": 21
             },
             {
                 "text": "최고",
-                "value": 24
+                "value": 21
             },
             {
-                "text": "대표",
-                "value": 22
+                "text": "위원",
+                "value": 21
             },
             {
                 "text": "정청래",
-                "value": 21
+                "value": 19
             },
             {
                 "text": "민주당",
@@ -92,15 +92,19 @@
                 "value": 16
             },
             {
+                "text": "부천",
+                "value": 15
+            },
+            {
                 "text": "이재명",
                 "value": 14
             },
             {
-                "text": "국민",
+                "text": "시장",
                 "value": 12
             },
             {
-                "text": "부천",
+                "text": "국민",
                 "value": 12
             },
             {
@@ -114,40 +118,51 @@
             {
                 "text": "경기",
                 "value": 11
-            },
-            {
-                "text": "조작",
-                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:07.484331",
+        "last_analyzed_at": "2026-02-02T09:57:25.518444",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                1,
-                3,
                 1,
                 0,
                 0,
+                0,
+                0,
+                1,
                 0
             ]
         }
     },
     "recent_news": [
         {
+            "_id": "697ff10038b0cf409697731b",
+            "link": "https://n.news.naver.com/mnews/article/382/0001252168?sid=102",
+            "created_at": "2026-02-02T09:34:08.605000",
+            "description": "서명부 전달은 부천 지역 국회의원들이 발의한 막장 유튜버 제재 관련 형법 개정안의 조속한 상정과 심의를... 이건태 의원(부천시 병)도 공동 발의자로 참여했다. 앞서 시민대책위원회는 지난해 10월부터 약 3개월간... ",
+            "originallink": "https://sports.donga.com/region/article/all/20260201/133270536/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-01T02:36:00",
+            "related_members": [
+                "3CC88975",
+                "XR24352K",
+                "7YC6702R"
+            ],
+            "title": "조용익 부천시장 “시민과 함께 미디어 안전 도시 만들겠다”"
+        },
+        {
             "_id": "697cbd5138b0cf4096976c8e",
             "link": "https://n.news.naver.com/mnews/article/023/0003955388?sid=100",
             "created_at": "2026-01-30T23:16:49.385000",
-            "description": "162석 거대 여당이 비례대표 국회의원 12명으로 구성된 소수 정당과 지분을 주고 받는 합당을 해선 안된다는... 이언주 최고위원은 라디오에서 “정 대표가 당을 사당화해 합당을 일방적으로 추진하고 있다”고 비판했다. 정... ",
+            "description": "162석 거대 여당이 비례대표 국회의원 12명으로 구성된 소수 정당과 지분을 주고 받는 합당을 해선 안된다는... 친명계인 이건태 의원도 “서울·수도권 등 격전 지역에서 승리하려면 중도층 싸움에서 이겨야 하는데, 보다... ",
             "originallink": "https://www.chosun.com/politics/assembly/2026/01/27/JLEW3OKGCFA6LBVFTIJ55GSOBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-27T00:58:00",
@@ -161,7 +176,7 @@
             "_id": "697cbd4238b0cf4096976be1",
             "link": "https://n.news.naver.com/mnews/article/056/0012112461?sid=100",
             "created_at": "2026-01-30T23:16:34.247000",
-            "description": "◎김용준: 우선은 국회의원 7선의 국무총리를 지낸 민주평화통일자문회의 이해찬 수석부의장 별세 소식... &lt;녹취&gt; 이언주 / 더불어민주당 최고위원 우리보다 더 왼쪽에 있는 당과 이런 것을 일방적으로 결정하고 국정에... ",
+            "description": "◎김용준: 우선은 국회의원 7선의 국무총리를 지낸 민주평화통일자문회의 이해찬 수석부의장 별세 소식... &lt;녹취&gt; 이건태 / 더불어민주당 의원 최고위원과 전혀 협의 없이 독단적으로 타 당의 합당을 제기하는 것은... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468934&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-26T15:59:00",
@@ -726,24 +741,6 @@
                 "BCQ55105"
             ],
             "title": "민주당 새 최고위원에 강득구·이성윤·문정복…'친정청래' 이겼다"
-        },
-        {
-            "_id": "6964b549631fd174349960a9",
-            "link": "https://n.news.naver.com/mnews/article/032/0003420740?sid=100",
-            "created_at": "2026-01-12T17:48:06.671000",
-            "description": "친명계인 이건태 의원은 20.6%로 낙선했다. 당심(당원 마음)과 의원들의 표심은 확연하게 갈렸다. 국회의원과 지역위원장 등으로 구성된 중앙위원 투표에선 강 의원이 34.3%를 득표해 1위를 차지했다. 문 의원이 26.8%로... ",
-            "originallink": "https://www.khan.co.kr/article/202601112033005",
-            "press": "경향신문",
-            "pubDate": "2026-01-11T20:33:00",
-            "related_members": [
-                "N2P9317N",
-                "2385336L",
-                "8P37634C",
-                "MLH1404S",
-                "GOC54665",
-                "7YC6702R"
-            ],
-            "title": "여당 신임 최고위원 강득구·이성윤·문정복…‘정청래 체제’ 힘 실렸..."
         }
     ],
     "recent_videos": [
@@ -762,7 +759,7 @@
             "url": "https://www.youtube.com/watch?v=WG8YfCD-5BU",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:37.483000",
+            "collected_at": "2026-02-02T09:49:29.796000",
             "duration": 3711.0,
             "title": "[특집인터뷰] 검사 출신 이건태 의원 “저 검사는 진짜 나쁜 놈입니다” 폭탄 발언, 그가 지목한 ‘대상’ 공개!",
             "upload_date": null
@@ -772,7 +769,7 @@
             "url": "https://www.youtube.com/watch?v=7mOFu-VywVQ",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:37.483000",
+            "collected_at": "2026-02-02T09:49:29.796000",
             "duration": 336.0,
             "title": "[국회의원 이건태] 서희건설 ‘알박기’ 실태  조합원 피해는 누가 책임지나",
             "upload_date": null
@@ -802,7 +799,7 @@
             "url": "https://www.youtube.com/watch?v=MarWylP_JdM",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:38.892000",
+            "collected_at": "2026-02-02T09:49:31.098000",
             "duration": 1130.0,
             "title": "[뉴스하이킥] 최고위원 출마 '친명' 이건태의 출사표 그리고 명-청 갈등과 해법 - 이건태, MBC 251208 방송",
             "upload_date": null
@@ -812,7 +809,7 @@
             "url": "https://www.youtube.com/watch?v=HgzL8f3F-YI",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:37.483000",
+            "collected_at": "2026-02-02T09:49:29.796000",
             "duration": 633.0,
             "title": "[박정호의 핫스팟] \"우원식 개헌 주장, 동의 어.렵.다.\" 이건태, 반대 이유 조목조목 설명",
             "upload_date": null
@@ -832,7 +829,7 @@
             "url": "https://www.youtube.com/watch?v=ZiDzNxp6ut8",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:37.483000",
+            "collected_at": "2026-02-02T09:49:29.796000",
             "duration": 171.0,
             "title": "[백발백중 이건태의 3분 토크] 오늘의 토크 : 민주당 사법개혁안 발표",
             "upload_date": null
@@ -902,7 +899,7 @@
             "url": "https://www.youtube.com/watch?v=3PP5XNMzDWs",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:38.892000",
+            "collected_at": "2026-02-02T09:49:31.098000",
             "duration": 109.0,
             "title": "이건태, 친명 세 과시…정청래 겨냥 “엇박자” / 채널A / 뉴스A",
             "upload_date": null
@@ -912,7 +909,7 @@
             "url": "https://www.youtube.com/watch?v=UCoY-L8SXrFL3ALVNAWjaCOg",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:37.483000",
+            "collected_at": "2026-02-02T09:49:29.796000",
             "duration": null,
             "title": "이건태TV",
             "upload_date": null
@@ -922,7 +919,7 @@
             "url": "https://www.youtube.com/watch?v=qOdZ3ZFM6k0",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-01-30T23:28:38.892000",
+            "collected_at": "2026-02-02T09:49:31.098000",
             "duration": 1341.0,
             "title": "[생중계] 이건태 더불어민주당 의원, 최고위원 출마 선언 기자회견 (2025.12.10 오전)",
             "upload_date": null
@@ -948,5 +945,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:07.484331"
+    "exported_at": "2026-02-02T09:57:25.518444"
 }

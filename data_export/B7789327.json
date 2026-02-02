@@ -45,59 +45,55 @@
             "국민",
             "사퇴",
             "계엄",
-            "치욕",
             "비례",
             "의원직",
+            "치욕",
             "승계",
             "대표",
             "이유",
-            "자신",
             "중앙",
             "이소희",
-            "요한",
-            "실망",
-            "유튜브"
+            "자신",
+            "이슈",
+            "혁신위",
+            "요한"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 50
-            },
-            {
-                "text": "사퇴",
                 "value": 48
             },
             {
-                "text": "계엄",
+                "text": "사퇴",
                 "value": 46
             },
             {
-                "text": "치욕",
-                "value": 33
+                "text": "계엄",
+                "value": 40
             },
             {
                 "text": "비례",
-                "value": 31
+                "value": 33
             },
             {
                 "text": "의원직",
-                "value": 31
+                "value": 30
+            },
+            {
+                "text": "치욕",
+                "value": 28
             },
             {
                 "text": "승계",
-                "value": 27
-            },
-            {
-                "text": "대표",
                 "value": 26
             },
             {
-                "text": "이유",
-                "value": 23
+                "text": "대표",
+                "value": 25
             },
             {
-                "text": "자신",
-                "value": 14
+                "text": "이유",
+                "value": 19
             },
             {
                 "text": "중앙",
@@ -108,41 +104,75 @@
                 "value": 13
             },
             {
-                "text": "요한",
-                "value": 13
-            },
-            {
-                "text": "실망",
-                "value": 13
-            },
-            {
-                "text": "유튜브",
+                "text": "자신",
                 "value": 12
+            },
+            {
+                "text": "이슈",
+                "value": 12
+            },
+            {
+                "text": "혁신위",
+                "value": 12
+            },
+            {
+                "text": "요한",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:12.939274",
+        "last_analyzed_at": "2026-02-02T09:57:31.199442",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                1,
                 1,
                 0,
                 1,
+                0,
+                0,
+                2,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff14038b0cf40969773ad",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055504?sid=100",
+            "created_at": "2026-02-02T09:35:12.542000",
+            "description": "\"국회에 처음 출근한 1월 15일은 마침 천하람 개혁신당 의원의 필리버스터가 있던 날이었어요. 설렘보다는 무거운 책임감이 먼저 들었죠.\" 이소희 국민의힘 의원(비례)은 국회 첫 출근 당시 감정을 이같이 회상했다. 지난... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48315",
+            "press": "조선일보",
+            "pubDate": "2026-02-01T10:00:00",
+            "related_members": [
+                "B7789327",
+                "YGB8604T"
+            ],
+            "title": "'휠체어 타는 변호사', 국회에 서다…\"이 자리는 영광 아닌 무거운 명령..."
+        },
+        {
+            "_id": "697ff10938b0cf4096977341",
+            "link": "https://n.news.naver.com/mnews/article/053/0000055496?sid=100",
+            "created_at": "2026-02-02T09:34:17.687000",
+            "description": "기존에 활동하던 김예지(재선, 비례)·최보윤(초선·비례) 의원에 이어, 지난해 12월 인요한 전 의원이... 2005년에는 공직선거법 개정으로 장애인 국회의원 예비후보자의 선거운동·정치활동에 필요한 비용을 국가가... ",
+            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48311",
+            "press": "조선일보",
+            "pubDate": "2026-02-01T06:00:00",
+            "related_members": [
+                "CNZ51556",
+                "51A45980",
+                "B7789327",
+                "UOS16250"
+            ],
+            "title": "대구 인구보다 많은 260만명 '장애 당사자'…국회에선 이제 네 명"
+        },
         {
             "_id": "697cbd1938b0cf4096976a42",
             "link": "https://n.news.naver.com/mnews/article/421/0008742370?sid=100",
@@ -533,32 +563,6 @@
                 "B7789327"
             ],
             "title": "인요한 “나는 실패한 국회의원, 치욕스럽다” 말한 까닭은"
-        },
-        {
-            "_id": "6964b580631fd17434996417",
-            "link": "https://n.news.naver.com/mnews/article/052/0002299397?sid=100",
-            "created_at": "2026-01-12T17:49:01.738000",
-            "description": "국회의원직을 사퇴한 국민의힘 인요한 전 의원이 \"계엄 후 1년 동안 밝혀지는 일들을 보면 너무 실망스럽고 치욕스럽다\"고 밝혔다. 12일 인 전 의원은 본인의 유튜브 채널에 자신의 사퇴로 비례대표 의원직을 승계한... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601121335013821",
-            "press": "YTN",
-            "pubDate": "2026-01-12T13:35:00",
-            "related_members": [
-                "B7789327"
-            ],
-            "title": "인요한 \"尹 계엄 이유 있는 줄…밝혀진 일들 실망·치욕\""
-        },
-        {
-            "_id": "6964b580631fd17434996418",
-            "link": "https://n.news.naver.com/mnews/article/005/0001825592?sid=100",
-            "created_at": "2026-01-12T17:49:01.739000",
-            "description": "국회의원직을 내려놓은 인요한 전 국민의힘 의원이 “계엄이 선포됐을 때 대통령이 국민에게 말하지 못 하는 국가 비상상황이 발생했다고 생각했다”고 12일 밝혔다. 인 전 의원은 이날 자신의 유튜브 채널에 “진심으로... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029238319&code=61111111&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-12T13:27:00",
-            "related_members": [
-                "B7789327"
-            ],
-            "title": "인요한 “계엄, 극명한 이유 있는 줄…밝혀진 일들 치욕”"
         }
     ],
     "recent_videos": [
@@ -567,7 +571,7 @@
             "url": "https://www.youtube.com/watch?v=sSl4G5_xo5c",
             "HG_NM": "인요한",
             "MONA_CD": "B7789327",
-            "collected_at": "2026-01-30T23:30:50.036000",
+            "collected_at": "2026-02-02T09:51:30.121000",
             "duration": 266.0,
             "source": "JTBC News",
             "title": "의원직 내려놨지만…인요한 '계엄 쉴드' 다시보니 #비하인드뉴스 / JTBC 뉴스룸",
@@ -633,7 +637,7 @@
             "url": "https://www.youtube.com/watch?v=nDoqygY0lBI",
             "HG_NM": "인요한",
             "MONA_CD": "B7789327",
-            "collected_at": "2026-01-30T23:30:48.329000",
+            "collected_at": "2026-02-02T09:51:30.121000",
             "duration": 1312.0,
             "source": "JTBC News",
             "title": "국민의힘 인요한, 의원직 사퇴 표명…\"의원직 떠나 본업으로 복귀\" [이슈PLAY] / JTBC News",
@@ -783,5 +787,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:12.939274"
+    "exported_at": "2026-02-02T09:57:31.199442"
 }

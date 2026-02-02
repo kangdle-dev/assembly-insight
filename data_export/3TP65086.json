@@ -52,15 +52,15 @@
             "일정",
             "간담회",
             "대표",
-            "북구",
             "회견",
+            "북구",
             "주요",
+            "의장",
             "입법",
             "대통령",
             "촉구",
             "제정",
             "의원실",
-            "의장",
             "회관"
         ],
         "keyword_frequency": [
@@ -74,7 +74,7 @@
             },
             {
                 "text": "일정",
-                "value": 18
+                "value": 20
             },
             {
                 "text": "간담회",
@@ -85,16 +85,20 @@
                 "value": 16
             },
             {
+                "text": "회견",
+                "value": 15
+            },
+            {
                 "text": "북구",
                 "value": 15
             },
             {
-                "text": "회견",
-                "value": 13
-            },
-            {
                 "text": "주요",
                 "value": 12
+            },
+            {
+                "text": "의장",
+                "value": 11
             },
             {
                 "text": "입법",
@@ -117,37 +121,55 @@
                 "value": 10
             },
             {
-                "text": "의장",
-                "value": 9
-            },
-            {
                 "text": "회관",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:06.402113",
+        "last_analyzed_at": "2026-02-02T09:57:24.375583",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                0,
-                0,
-                1,
                 1,
                 2,
                 0,
-                0
+                0,
+                0,
+                0,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff0fb38b0cf4096977312",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746972?sid=100",
+            "created_at": "2026-02-02T09:34:03.406000",
+            "description": "◇국회의장 09:00 국회의장 주재 기관장 업무보고(국회 접견실) 14:00 임시회 개회식(국회 본회의장)... 10:40 전현희 의원, [서울시장 출마선언 기자회견] 11:00 안호영 의원, [현안 관련 기자회견] 11:20 윤종오 의원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6058116",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T05:00:00",
+            "related_members": [
+                "WCD5518S",
+                "DMP1439I",
+                "MU69217P",
+                "25G2571T",
+                "4019850M",
+                "HVV5250J",
+                "NPD75153",
+                "XEF29171",
+                "3TP65086",
+                "URX8075K"
+            ],
+            "title": "[오늘의 국회일정] (2일, 월)"
+        },
         {
             "_id": "697cbd2538b0cf4096976b09",
             "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
@@ -646,7 +668,7 @@
             "url": "https://www.youtube.com/watch?v=KwYFhYHzeC8",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:13.466000",
+            "collected_at": "2026-02-02T09:49:08.401000",
             "duration": 1675.0,
             "title": "[뉴스레터K] 전세사기 깡통전세 피해자들은 지금... - 이철빈 전세사기 피해자 전국대책위원회 공동위원장·윤종오 진보당 의원ㅣKBS 251209 방송",
             "upload_date": null
@@ -716,7 +738,7 @@
             "url": "https://www.youtube.com/watch?v=UCwSvpK4FPwOFaxT0DxusMpw",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": null,
             "title": "윤종오tv",
             "upload_date": null
@@ -736,7 +758,7 @@
             "url": "https://www.youtube.com/watch?v=6qNIE6QkN_A",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": 851.0,
             "title": "진보당 윤종오 의원1 11 2 합 현대자동차 비정규직 불법파견 정당 판결 촉구 기자회견",
             "upload_date": null
@@ -746,7 +768,7 @@
             "url": "https://www.youtube.com/watch?v=c9wVNL_DFew",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": 926.0,
             "title": "진보당 윤종오 의원,진보당 국회의원단 김문수 고용노동부 장관 후보자 임명 철회 촉구 기자회견",
             "upload_date": null
@@ -756,7 +778,7 @@
             "url": "https://www.youtube.com/watch?v=pbABKdo3M3w",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": 567.0,
             "title": "진보당 윤종오 의원1 11 2 합 진보당 국회의원단 윤석열 대통령 내란죄 고발 기자회견",
             "upload_date": null
@@ -766,7 +788,7 @@
             "url": "https://www.youtube.com/watch?v=u08SJDqLkSU",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": 1589.0,
             "title": "노동자가 구청장, 국회의원을 한다면? | 울산북구 윤종오 | 국회의원 25시 국회방송",
             "upload_date": null
@@ -776,7 +798,7 @@
             "url": "https://www.youtube.com/watch?v=dxrRj3CNZsc",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": 2690.0,
             "title": "배달 라이더 안전 보장 생활물류서비스산업발전법 | 윤종오 의원 | 히어로(law) | 국회방송",
             "upload_date": null
@@ -786,7 +808,7 @@
             "url": "https://www.youtube.com/watch?v=7Bi-SiUMpPw",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:13.466000",
+            "collected_at": "2026-02-02T09:49:08.401000",
             "duration": 346.0,
             "title": "국힘 집단 퇴장에 윤종오 \"빨리 나가세요\"... 우원식, \"아이 참..\" 무슨 일?",
             "upload_date": null
@@ -796,11 +818,11 @@
             "url": "https://www.youtube.com/watch?v=rk9Yy4pcAz8",
             "HG_NM": "윤종오",
             "MONA_CD": "3TP65086",
-            "collected_at": "2026-01-30T23:28:12.065000",
+            "collected_at": "2026-02-02T09:49:07.115000",
             "duration": 456.0,
             "title": "[국정감사] 건설기계 중간착취 근절 '전대금지' 확답받은 진보당 윤종오 국회의원, 국토부 \"건설기계관리법 개정안 필요\"",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:06.403113"
+    "exported_at": "2026-02-02T09:57:24.375583"
 }

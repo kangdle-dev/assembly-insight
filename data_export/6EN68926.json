@@ -56,17 +56,17 @@
             "국민",
             "원내",
             "송어",
-            "제명",
-            "한동훈",
             "출마",
             "이해찬",
-            "위원",
-            "최고",
-            "선거",
-            "조문",
             "총리",
-            "의결",
-            "동훈"
+            "제명",
+            "선거",
+            "한동훈",
+            "장동",
+            "위원",
+            "조문",
+            "최고",
+            "빈소"
         ],
         "keyword_frequency": [
             {
@@ -75,84 +75,247 @@
             },
             {
                 "text": "국민",
-                "value": 52
+                "value": 53
             },
             {
                 "text": "원내",
-                "value": 39
+                "value": 37
             },
             {
                 "text": "송어",
                 "value": 28
             },
             {
-                "text": "제명",
-                "value": 23
-            },
-            {
-                "text": "한동훈",
-                "value": 23
-            },
-            {
                 "text": "출마",
-                "value": 16
+                "value": 18
             },
             {
                 "text": "이해찬",
-                "value": 16
-            },
-            {
-                "text": "위원",
-                "value": 14
-            },
-            {
-                "text": "최고",
-                "value": 14
-            },
-            {
-                "text": "선거",
-                "value": 14
-            },
-            {
-                "text": "조문",
-                "value": 13
+                "value": 17
             },
             {
                 "text": "총리",
-                "value": 13
+                "value": 17
             },
             {
-                "text": "의결",
+                "text": "제명",
+                "value": 17
+            },
+            {
+                "text": "선거",
+                "value": 16
+            },
+            {
+                "text": "한동훈",
+                "value": 15
+            },
+            {
+                "text": "장동",
+                "value": 14
+            },
+            {
+                "text": "위원",
                 "value": 12
             },
             {
-                "text": "동훈",
-                "value": 10
+                "text": "조문",
+                "value": 12
+            },
+            {
+                "text": "최고",
+                "value": 11
+            },
+            {
+                "text": "빈소",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:36:01.359177",
+        "last_analyzed_at": "2026-02-02T09:57:19.200892",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
-                7,
-                23
+                21,
+                5,
+                3,
+                1
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff12838b0cf409697737d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742239?sid=100",
+            "created_at": "2026-02-02T09:34:48.014000",
+            "description": "오전 국회에서 '국민의힘-서울시 부동산 정책협의회'를 연다. 이 자리에는 송언석 원내대표, 정점식... 한편, 국민의힘은 이날 오후 국회 본회의 산회 직후 의원총회를 연다. 앞서 친한(친한동훈)계 의원들과 초·재선 의원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003497909",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T05:00:00",
+            "related_members": [
+                "KFM1081G",
+                "6EN68926",
+                "LJK4960Z"
+            ],
+            "title": "국힘, 국회서 서울시와 부동산 대책 논의…장동혁·오세훈 만나나"
+        },
+        {
+            "_id": "697ff10d38b0cf4096977350",
+            "link": "https://n.news.naver.com/mnews/article/022/0004102240?sid=100",
+            "created_at": "2026-02-02T09:34:21.496000",
+            "description": "조지연 의원실 제공 이 자리에는 국민의힘 송언석 원내대표, 주호영 국회 부의장, 추경호 전 원내대표, 임이자 재정경제기획위원장, 유영하 의원, 김재원 최고위원과 당원 등 약 2000여명이 참석했다. 조 의원은... ",
+            "originallink": "https://www.segye.com/newsView/20260201507840?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-01T16:44:00",
+            "related_members": [
+                "8SV6917G",
+                "DMP1439I",
+                "JZV5283U",
+                "EH27538E",
+                "6EN68926",
+                "G152611B",
+                "3NI5978A"
+            ],
+            "title": "조지연 의원, 경산서 의정보고회 “일로써 보답하겠다”"
+        },
+        {
+            "_id": "697ff10a38b0cf4096977345",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308769?sid=100",
+            "created_at": "2026-02-02T09:34:18.646000",
+            "description": "경우 국회 본회의장에서 밀약이라든지 나눠먹기 등 이런 저열한 단어가 오가고 있는데 지방선거용 이합집산의 민낯이다, 이렇게 비난을 하기도 했어요. 이에 앞서서 조국혁신당의 황운하 의원 같은 경우는 민주앙과 합당... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602011433345326",
+            "press": "YTN",
+            "pubDate": "2026-02-01T14:33:00",
+            "related_members": [
+                "EPI69383",
+                "NX534083",
+                "KFM1081G",
+                "AEJ19639",
+                "6EN68926",
+                "4019850M",
+                "80C5885Z",
+                "QWL7778X",
+                "0YT3774N"
+            ],
+            "title": "이 대통령 \"부동산 정상화, 5천P보다 쉽다\"...국힘 \"왜 못했나\""
+        },
+        {
+            "_id": "697ff10d38b0cf4096977351",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746632?sid=102",
+            "created_at": "2026-02-02T09:34:21.496000",
+            "description": "주호영 국회부의장(대구 수성구갑)과 추경호(대구 달성군)·유영하(대구 달서구갑) 의원이 참석했다. 추 의원과 주 부의장은 각각 작년 12월과 올 1월 대구시장 출마를 선언했고, 유 의원은 오는 8일 출마 선언할 예정이다.... ",
+            "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6057941",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T13:59:00",
+            "related_members": [
+                "EH27538E",
+                "DMP1439I",
+                "3NI5978A",
+                "6EN68926",
+                "JZV5283U",
+                "G152611B",
+                "8SV6917G"
+            ],
+            "title": "'경산' 조지연 의정보고회에 대구시장 출마 예정자 3명 발길…왜?"
+        },
+        {
+            "_id": "697ff11a38b0cf409697736a",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308619?sid=100",
+            "created_at": "2026-02-02T09:34:34.415000",
+            "description": "7선의 국회의원을 했습니다. 민주화운동 당시에 여러 용기를 냈겠죠. 그런 용기 덕분에 민주화를 앞당겼다는... 지금 황운하 조국혁신당 의원 같은 경우에는 조국 공동대표를 이야기해서 이 부분도 논란이 됐는데 바로 조국... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601312339518579",
+            "press": "YTN",
+            "pubDate": "2026-01-31T23:39:00",
+            "related_members": [
+                "5TQ6306B",
+                "8BF5855P",
+                "BT62420K",
+                "2385336L",
+                "6EN68926",
+                "KFM1081G",
+                "0YT3774N"
+            ],
+            "title": "조문 정국 마무리 수순...다시 떠오르는 여야 갈등과 내홍"
+        },
+        {
+            "_id": "697ff10238b0cf4096977321",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308492?sid=100",
+            "created_at": "2026-02-02T09:34:10.876000",
+            "description": "이해찬 전 총리께서는 마지막으로 근무하셨던 민주평통 사무실 그리고 7선 국회의원이었기 때문에 어떻게... 이 합당과 관련해서 조국혁신당 황운하 의원이 이런 얘기를 했어요. 조국 대표가 공동대표로 참여해야만... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601311246442716",
+            "press": "YTN",
+            "pubDate": "2026-01-31T12:46:00",
+            "related_members": [
+                "86R9476S",
+                "KFM1081G",
+                "6EN68926",
+                "YOG1280B",
+                "0YT3774N"
+            ],
+            "title": "이해찬 전 총리 영면...당 내홍에 휘청이는 여야"
+        },
+        {
+            "_id": "697ff11c38b0cf409697736f",
+            "link": "https://n.news.naver.com/mnews/article/052/0002308474?sid=100",
+            "created_at": "2026-02-02T09:34:36.235000",
+            "description": "불리는 국회의원들에게만 국한되는 것이 아니죠. 오세훈 서울시장도 제명 결정 직후에 장동혁 대표의... 합당과 관련해서 황운하 조국혁신당 의원이 정청래, 조국 공동대표 발언도 내놨는데 관련 발언 듣고 이어가겠습니다.... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202601311111569383",
+            "press": "YTN",
+            "pubDate": "2026-01-31T11:11:00",
+            "related_members": [
+                "AEJ19639",
+                "4019850M",
+                "KFM1081G",
+                "6EN68926",
+                "0YT3774N",
+                "2385336L"
+            ],
+            "title": "한동훈 제명 후폭풍...민주-혁신당, 고조되는 합당 신경전"
+        },
+        {
+            "_id": "697ff12838b0cf409697737e",
+            "link": "https://n.news.naver.com/mnews/article/020/0003693864?sid=100",
+            "created_at": "2026-02-02T09:34:48.014000",
+            "description": "개혁신당 이준석 대표와 오세훈 서울시장도 이날 오후 빈소를 찾아 고인을 추모했다. 이 전 총리의 기관... 여의도 국회 의원회관에서 엄수된다. 영결식에선 김민석 국무총리와 정 대표가 추도사를 낭독한다. 영결식 후 이... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133269867/2",
+            "press": "동아일보",
+            "pubDate": "2026-01-31T01:42:00",
+            "related_members": [
+                "2385336L",
+                "KFM1081G",
+                "6EN68926",
+                "MLH1404S",
+                "QWL7778X"
+            ],
+            "title": "이해찬 빈소서 손 맞잡은 정청래-장동혁"
+        },
+        {
+            "_id": "697ff10a38b0cf4096977347",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956343?sid=100",
+            "created_at": "2026-02-02T09:34:18.646000",
+            "description": "국민의힘은 지방선거 인재영입위원장으로 과거 친윤계로 분류됐던 조정훈(서울 마포갑) 의원을 임명하는... 박민영 미디어대변인은 “선출직 당 대표의 재신임 투표를 제안하려거든 본인도 (국회의원) 배지 정도는 걸어야... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/02/01/Y4LOSPY5TBEG5JSVYQTDL26WVI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-01-31T00:51:00",
+            "related_members": [
+                "EPI69383",
+                "KFM1081G",
+                "AEJ19639",
+                "4019850M",
+                "6EN68926",
+                "WJL30106"
+            ],
+            "title": "“이대론 선거 몰살” 수도권서 터져 나온 장동혁 사퇴론"
+        },
         {
             "_id": "697cbd1c38b0cf4096976a77",
             "link": "https://n.news.naver.com/mnews/article/052/0002308324?sid=100",
@@ -202,7 +365,7 @@
             "_id": "697cbd2138b0cf4096976ad9",
             "link": "https://n.news.naver.com/mnews/article/011/0004585014?sid=100",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "조국혁신당과의 기습 합당 제안과 대의원·권리당원 1인 1표제를 둘러싼 논쟁이 재점화되면서 정청래 민주당... 민주당은 31일 서울대병원 장례식장에서 발인을 치른 뒤 국회 의원회관에서 영결식을 엄수할 예정이다.... ",
+            "description": "정 대표는 30일 이 전 총리 빈소에서 국민의힘 장동혁 대표와 송언석 원내대표 등 야당 지도부를 상주... 민주당은 31일 서울대병원 장례식장에서 발인을 치른 뒤 국회 의원회관에서 영결식을 엄수할 예정이다. 민주당은... ",
             "originallink": "https://www.sedaily.com/article/20003032?ref=naver",
             "press": "서울경제",
             "pubDate": "2026-01-30T17:59:00",
@@ -243,7 +406,7 @@
             "_id": "697cbd2838b0cf4096976b1f",
             "link": "https://n.news.naver.com/mnews/article/009/0005629953?sid=100",
             "created_at": "2026-01-30T23:16:08.228000",
-            "description": "野, 故 이해찬 빈소 조문 상주 정청래, 장동혁 맞으며 “건강 잘 챙기길” 덕담 건네 張도 “고인 뜻 받들... 이 대표는 앞서 이 전 총리의 사망 소식을 접하고 “7선 국회의원과 국무총리를 역임하시며 오랜 세월 대한민국... ",
+            "description": "이 대표는 앞서 이 전 총리의 사망 소식을 접하고 “7선 국회의원과 국무총리를 역임하시며 오랜 세월... 정성국 의원도 “저는 당장 의총 (소집을) 요구할 생각”이라며 “의원들의 생각을 들어야 한다”고 말했다. 한편 이... ",
             "originallink": "https://www.mk.co.kr/article/11948508",
             "press": "매일경제",
             "pubDate": "2026-01-30T16:13:00",
@@ -263,7 +426,7 @@
             "_id": "697cbd4438b0cf4096976bff",
             "link": "https://n.news.naver.com/mnews/article/421/0008745037?sid=100",
             "created_at": "2026-01-30T23:16:36.498000",
-            "description": "장 대표는 접객실에서 상주 역할을 하는 정청래 더불어민주당 대표를 만나 단식 후 건강 상태 등을 두고... 이 전 총리의 영결식은 오는 31일 오전 9시 서울 여의도 국회의원회관 대회의실에서 '고 이해찬 제36대 국무총리... ",
+            "description": "조문단에는 정점식 정책위의장과 유상범 원내운영수석부대표, 신동욱·양향자 최고위원 등이 함께했다. 장... 이 전 총리의 영결식은 오는 31일 오전 9시 서울 여의도 국회의원회관 대회의실에서 '고 이해찬 제36대... ",
             "originallink": "https://www.news1.kr/politics/assembly/6057000",
             "press": "뉴스1",
             "pubDate": "2026-01-30T15:47:00",
@@ -342,7 +505,7 @@
             "_id": "697cbd3938b0cf4096976baa",
             "link": "https://n.news.naver.com/mnews/article/021/0002767754?sid=100",
             "created_at": "2026-01-30T23:16:25.448000",
-            "description": "박정훈 의원은 장 대표와 함께 송언석 원내대표의 사퇴도 요구했다. 박 의원은 이날 페이스북에 “한 전... 한 전 대표가 오는 6월 지방선거나 국회의원 보궐선거에 출마할지 등 향후 행보에 관심이 집중되는 가운데, 현... ",
+            "description": "의원총회를 요청하고 장 대표 체제로 지방선거를 못 치른다는 메시지를 계속 낼 것”이라고 말했다. 박정훈... 한 전 대표가 오는 6월 지방선거나 국회의원 보궐선거에 출마할지 등 향후 행보에 관심이 집중되는 가운데, 현... ",
             "originallink": "https://www.munhwa.com/article/11564994?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-01-30T12:07:00",
@@ -377,7 +540,7 @@
             "_id": "697cbd2138b0cf4096976add",
             "link": "https://n.news.naver.com/mnews/article/021/0002767720?sid=100",
             "created_at": "2026-01-30T23:16:01.469000",
-            "description": "오전 9시부터는 서울 영등포구 국회의원회관 대회의실에서 영결식을 엄수한다. 이후 오전 11시 서울... 김민석 국무총리와 정청래 민주당 대표 등은 이날 오전에도 분향실 상주 자리에서 조문객을 맞이했다. 김 총리와 정... ",
+            "description": "오전 9시부터는 서울 영등포구 국회의원회관 대회의실에서 영결식을 엄수한다. 이후 오전 11시 서울... 다수의 민주당 전·현직 의원들과 내각 인사, 나경원·이철규·이달희·김태호 국민의힘 의원 등도 빈소를 찾았다.",
             "originallink": "https://www.munhwa.com/article/11564958?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-01-30T11:59:00",
@@ -414,7 +577,7 @@
             "_id": "697cbd3938b0cf4096976bab",
             "link": "https://n.news.naver.com/mnews/article/437/0000476029?sid=100",
             "created_at": "2026-01-30T23:16:25.448000",
-            "description": "당적을 박탈 당한 한동훈 전 국민의힘 대표가 오는 6월 지방선거 때 치러질 국회의원 보궐선거에 출마한다면... 박 의원은 송언석 원내대표의 사퇴를 요구하기도 했습니다. 그는 “최고위원들 절대다수가 '윤어게인' 세력과... ",
+            "description": "당적을 박탈 당한 한동훈 전 국민의힘 대표가 오는 6월 지방선거 때 치러질 국회의원 보궐선거에 출마한다면 국민의힘은 당선을 저지할 능력도 없다는 취지의 주장이 나왔습니다. 박정훈 국민의힘 의원은 오늘(30일) 오전... ",
             "originallink": "https://news.jtbc.co.kr/article/NB12282597?influxDiv=NAVER",
             "press": "JTBC",
             "pubDate": "2026-01-30T11:29:00",
@@ -446,7 +609,7 @@
             "_id": "697cbd3938b0cf4096976bad",
             "link": "https://n.news.naver.com/mnews/article/437/0000476006?sid=100",
             "created_at": "2026-01-30T23:16:25.448000",
-            "description": "6월 국회의원 재보궐 선거에 무소속으로 출마할 가능성이 열려 있다고 내다봤습니다. 당선 가능성도 크다고... 지적을 하지 않았습니까\" 박 의원은 장동혁 대표와 송언석 원내대표는 모두 물러나라고 목소리를 높였습니다.",
+            "description": "장동혁 대표를 비롯한 국민의힘 지도부가 어제(29일) 결국 한동훈 전 대표 제명을 확정한 가운데 친한동훈계 박정훈 의원이 한 전 대표가 오는 6월 국회의원 재보궐 선거에 무소속으로 출마할 가능성이 열려 있다고... ",
             "originallink": "https://news.jtbc.co.kr/article/NB12282574?influxDiv=NAVER",
             "press": "JTBC",
             "pubDate": "2026-01-30T09:44:00",
@@ -462,7 +625,7 @@
             "_id": "697cbd3938b0cf4096976bae",
             "link": "https://n.news.naver.com/mnews/article/421/0008743780?sid=100",
             "created_at": "2026-01-30T23:16:25.448000",
-            "description": "박태훈 선임기자 = 국민의힘 친한계 내부에서 한동훈 전 대표에게 국회의원 재보궐 출마를 권하는 목소리가... 한편 박 의원은 전날 최고위원회에서 한 전 대표 제명에 찬성한 송언석 원내대표 사퇴를 요구했다. 그 이유로... ",
+            "description": "박태훈 선임기자 = 국민의힘 친한계 내부에서 한동훈 전 대표에게 국회의원 재보궐 출마를 권하는 목소리가 나오고 있다. 친한계인 박정훈 의원은 30일 MBC라디오 '김종배의 시선집중'과 인터뷰에서 \"한동훈 전 대표가... ",
             "originallink": "https://www.news1.kr/politics/assembly/6056232",
             "press": "뉴스1",
             "pubDate": "2026-01-30T09:05:00",
@@ -545,163 +708,6 @@
                 "6EN68926"
             ],
             "title": "장동혁 등 국민의힘 지도부, 오늘 故 이해찬 전 총리 빈소 조문"
-        },
-        {
-            "_id": "697cbd2b38b0cf4096976b43",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693623?sid=100",
-            "created_at": "2026-01-30T23:16:11.040000",
-            "description": "투표권이 있는 9명 중 장 대표와 송언석 원내대표, 정점식 정책위의장, 신동욱 김민수 김재원 조광한... 야권에선 한 전 대표가 지방선거와 함께 치러지는 국회의원 재보궐선거에 무소속으로 출마할 가능성도 거론된다. 한... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133262038/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-30T04:34:00",
-            "related_members": [
-                "LJK4960Z",
-                "DMP1439I",
-                "OWD1018N",
-                "6EN68926",
-                "8UC4779G"
-            ],
-            "title": "지선앞 ‘자폭 제명’… 한동훈 끝내 쳐냈다"
-        },
-        {
-            "_id": "697cbd2b38b0cf4096976b44",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328740?sid=100",
-            "created_at": "2026-01-30T23:16:11.040000",
-            "description": "국회의원이 아닌 당원의 제명은 최고위 의결만으로 가능하고 의결 요건은 과반 찬성이라 제명은 최종 확정됐습니다. [최보윤/국민의힘 수석대변인 : 한동훈 전 대표에 대한 당원 징계안이 윤리위 의결대로 최고위에서... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008423927&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-30T00:44:00",
-            "related_members": [
-                "DMP1439I",
-                "8UC4779G",
-                "OWD1018N",
-                "6EN68926",
-                "KFM1081G",
-                "LJK4960Z",
-                "UOS16250"
-            ],
-            "title": "국힘, 결국 한동훈 제명…\"반드시 돌아온다\""
-        },
-        {
-            "_id": "697cbd1b38b0cf4096976a69",
-            "link": "https://n.news.naver.com/mnews/article/003/0013738819?sid=100",
-            "created_at": "2026-01-30T23:15:55.585000",
-            "description": "이외에도 국민의힘 이철규·이달희·김태호 의원 등이 빈소를 찾았다. 오는 30일에는 장동혁 대표와 송언석... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄수한 뒤 오전 11시께 서울 추모공원에서 화장을 하고... ",
-            "originallink": "https://www.newsis.com/view/NISX20260129_0003495839",
-            "press": "뉴시스",
-            "pubDate": "2026-01-29T21:03:00",
-            "related_members": [
-                "N2P9317N",
-                "B7D7534L",
-                "FIE6569O",
-                "MLH1404S",
-                "2385336L",
-                "ROS6754L",
-                "TZP9391O",
-                "6EN68926",
-                "KFM1081G",
-                "P0F1530P",
-                "SLW27496"
-            ],
-            "title": "故 이해찬 장례 사흘차에 여야 추모 발길…野 지도부도 내일 조문(종합..."
-        },
-        {
-            "_id": "697cbd1a38b0cf4096976a57",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328692?sid=100",
-            "created_at": "2026-01-30T23:15:54.650000",
-            "description": "국회의원이 아닌 당원의 제명은 최고위 의결만으로 가능하고, 의결 요건은 과반 찬성이라 제명은 최종 확정됐습니다. [최보윤/국민의힘 수석대변인 : 한동훈 전 대표에 대한 당원 징계안이 윤리위 의결대로 최고위에서... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008423824&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-29T20:31:00",
-            "related_members": [
-                "HS39431V",
-                "KFM1081G",
-                "DMP1439I",
-                "8UC4779G",
-                "OWD1018N",
-                "6EN68926",
-                "LJK4960Z",
-                "UOS16250"
-            ],
-            "title": "한동훈 \"반드시 돌아오겠다\"…쪼개진 국민의힘 (풀영상)"
-        },
-        {
-            "_id": "697cbd2b38b0cf4096976b45",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328689?sid=100",
-            "created_at": "2026-01-30T23:16:11.040000",
-            "description": "국회의원이 아닌 당원의 제명은 최고위 의결만으로 가능하고, 의결 요건은 과반 찬성이라 제명은 최종 확정됐습니다. [최보윤/국민의힘 수석대변인 : 한동훈 전 대표에 대한 당원 징계안이 윤리위 의결대로 최고위에서... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008423769&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-29T20:11:00",
-            "related_members": [
-                "DMP1439I",
-                "8UC4779G",
-                "OWD1018N",
-                "6EN68926",
-                "KFM1081G",
-                "LJK4960Z",
-                "UOS16250"
-            ],
-            "title": "국힘, 결국 한동훈 제명…\"반드시 돌아오겠다\""
-        },
-        {
-            "_id": "697cbd2b38b0cf4096976b46",
-            "link": "https://n.news.naver.com/mnews/article/011/0004584611?sid=100",
-            "created_at": "2026-01-30T23:16:11.040000",
-            "description": "두고 국회의원 보궐선거 무소속 출마 카드도 꺼내들 수 있을 것으로 전망된다. 한 전 대표는 이날 국민의힘... 최고위원, 정점식 정책위의장 등 7명이 찬성했다. 우재준 최고위원 혼자 반대했고 양향자 최고위원은 표결에... ",
-            "originallink": "https://www.sedaily.com/article/20002550?ref=naver",
-            "press": "서울경제",
-            "pubDate": "2026-01-29T18:33:00",
-            "related_members": [
-                "LJK4960Z",
-                "DMP1439I",
-                "8UC4779G",
-                "OWD1018N",
-                "6EN68926"
-            ],
-            "title": "지선 후 당권 노리나…한동훈 “반드시 돌아오겠다”"
-        },
-        {
-            "_id": "697cbd5d38b0cf4096976cd0",
-            "link": "https://n.news.naver.com/mnews/article/003/0013737840?sid=100",
-            "created_at": "2026-01-30T23:17:01.095000",
-            "description": "국회 재정경제기획위원장인 임이자 의원도 \"김용범 청와대 실장은 (관세 재인상이) 국회에서 법을 해주지 않아서 그렇다고, 국회 책임 100%라는 막말을 하고 있다\"라며 \"민주당을 포함한 범여권 의석수가 190석에 육박한다.... ",
-            "originallink": "https://www.newsis.com/view/NISX20260129_0003495177",
-            "press": "뉴시스",
-            "pubDate": "2026-01-29T14:26:00",
-            "related_members": [
-                "EH27538E",
-                "6EN68926"
-            ],
-            "title": "송언석 \"李 정권, 문제만 터지면 남탓…여당, 대미투자특별법 논의 얘기..."
-        },
-        {
-            "_id": "697cbd5d38b0cf4096976cd2",
-            "link": "https://n.news.naver.com/mnews/article/421/0008742233?sid=100",
-            "created_at": "2026-01-30T23:17:01.095000",
-            "description": "국회 재정경위원회 위원장인 임이자 의원은 김용범 청와대 정책실장이 대미 관세에 대해 \"'국회에서 법을 해주지 않아서 그렇다' '국회 책임이 100%'라는 막말하고 있다\"면서 \"저는 정부 여당으로부터도 그렇고 정부로부터도... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6055402",
-            "press": "뉴스1",
-            "pubDate": "2026-01-29T14:10:00",
-            "related_members": [
-                "EH27538E",
-                "6EN68926"
-            ],
-            "title": "송언석 \"李정권, 트럼프 관세 협상 실패 책임 野에 떠넘겨\""
-        },
-        {
-            "_id": "697cbd4c38b0cf4096976c58",
-            "link": "https://n.news.naver.com/mnews/article/421/0008742190?sid=100",
-            "created_at": "2026-01-30T23:16:44.681000",
-            "description": "송언석 국민의힘 원내대표와 유상범 원내수석부대표가 29일 서울 여의도 국회에서 열린 의원총회에서 대화하고 있다. 2026.1.29/뉴스1",
-            "originallink": "https://www.news1.kr/photos/7721915",
-            "press": "뉴스1",
-            "pubDate": "2026-01-29T13:58:00",
-            "related_members": [
-                "MU69217P",
-                "6EN68926"
-            ],
-            "title": "대화하는 송언석·유상범"
         }
     ],
     "recent_videos": [
@@ -730,7 +736,7 @@
             "url": "https://www.youtube.com/watch?v=Oot0C1bo53o",
             "HG_NM": "송언석",
             "MONA_CD": "6EN68926",
-            "collected_at": "2026-01-30T23:26:13.173000",
+            "collected_at": "2026-02-02T09:47:19.073000",
             "duration": 38746.0,
             "title": "[🔴 무조건 간다 LIVE] 국민의힘 송언석 원내대표 국회 교섭단체 대표연설 생중계",
             "upload_date": null
@@ -780,7 +786,7 @@
             "url": "https://www.youtube.com/watch?v=BPsWfbFaBro",
             "HG_NM": "송언석",
             "MONA_CD": "6EN68926",
-            "collected_at": "2026-01-30T23:26:13.173000",
+            "collected_at": "2026-02-02T09:47:19.073000",
             "duration": 394.0,
             "title": "송언석 의원, 청년 꿈 찬탈한 교통공사에 호통",
             "upload_date": null
@@ -790,7 +796,7 @@
             "url": "https://www.youtube.com/watch?v=bSPiJ2p0mfw",
             "HG_NM": "송언석",
             "MONA_CD": "6EN68926",
-            "collected_at": "2026-01-18T13:15:44.643000",
+            "collected_at": "2026-02-02T09:47:19.073000",
             "duration": 498.0,
             "title": "[LIVE] 국민의힘 송언석 원내대표 기자회견 생중계/2025년 12월 3일(수)/KBS",
             "upload_date": null
@@ -810,7 +816,7 @@
             "url": "https://www.youtube.com/watch?v=ugFROs4A1i0",
             "HG_NM": "송언석",
             "MONA_CD": "6EN68926",
-            "collected_at": "2026-01-18T13:15:44.643000",
+            "collected_at": "2026-02-02T09:47:19.073000",
             "duration": 3617.0,
             "title": "국회 본회의 교섭단체 대표연설, 국민의힘 송언석 원내대표 - [끝까지LIVE] MBC 중계방송 2025년 09월 10일",
             "upload_date": null
@@ -870,7 +876,7 @@
             "url": "https://www.youtube.com/watch?v=UCo7L5zAZ07DxCminw8u7kcw",
             "HG_NM": "송언석",
             "MONA_CD": "6EN68926",
-            "collected_at": "2026-01-30T23:26:13.173000",
+            "collected_at": "2026-02-02T09:47:19.073000",
             "duration": null,
             "title": "송언석TV",
             "upload_date": null
@@ -906,5 +912,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:36:01.359177"
+    "exported_at": "2026-02-02T09:57:19.200892"
 }

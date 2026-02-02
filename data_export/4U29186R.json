@@ -55,18 +55,18 @@
             "관장",
             "충남",
             "김형석",
-            "대표",
-            "원내",
             "문자",
             "이사회",
             "청탁",
             "더불어민주당",
-            "감사"
+            "감사",
+            "대표",
+            "원내"
         ],
         "keyword_frequency": [
             {
                 "text": "문진",
-                "value": 32
+                "value": 29
             },
             {
                 "text": "김병기",
@@ -74,7 +74,7 @@
             },
             {
                 "text": "독립기념관",
-                "value": 21
+                "value": 22
             },
             {
                 "text": "해임",
@@ -82,7 +82,7 @@
             },
             {
                 "text": "민주당",
-                "value": 16
+                "value": 17
             },
             {
                 "text": "관장",
@@ -94,14 +94,6 @@
             },
             {
                 "text": "김형석",
-                "value": 13
-            },
-            {
-                "text": "대표",
-                "value": 13
-            },
-            {
-                "text": "원내",
                 "value": 13
             },
             {
@@ -123,31 +115,58 @@
             {
                 "text": "감사",
                 "value": 10
+            },
+            {
+                "text": "대표",
+                "value": 10
+            },
+            {
+                "text": "원내",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:52.511757",
+        "last_analyzed_at": "2026-02-02T09:57:10.025979",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
-                2,
+                0,
+                0,
+                0,
+                0,
                 0,
                 1,
-                0,
-                0,
-                0,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff11538b0cf4096977363",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742132?sid=102",
+            "created_at": "2026-02-02T09:34:28.990000",
+            "description": "콘서트 시작과 함께 우원식 국회의장과 문정복 최고위원, 문진석·이수진·이용선·조계원·주철현 국회의원이 영상을 통해 책 출간을 축하했다. 여수 출신 정원오 성동구청장과 김보라 안성시장이 고향을 향한 응원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003498032",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T17:32:00",
+            "related_members": [
+                "9JF4562W",
+                "4U29186R",
+                "8TU8443O",
+                "0R68099X",
+                "GOC54665",
+                "T465023H",
+                "XBT9550Q"
+            ],
+            "title": "여수 첫 여성 시의장 백인숙 '여수의 길을 묻다' 북콘서트"
+        },
         {
             "_id": "6976fcf88459600028997fa3",
             "link": "https://n.news.naver.com/mnews/article/005/0001828352?sid=102",
@@ -207,7 +226,7 @@
             "_id": "69701239297082fcc2b34c81",
             "link": "https://n.news.naver.com/mnews/article/005/0001827086?sid=100",
             "created_at": "2026-01-21T08:39:35.673000",
-            "description": "더불어민주당 소속 국회의원을 포함한 이사 6명이 “김 관장이 편향된 역사 인식으로 독립운동의 가치를... 문진석 의원도 “뉴라이트로부터 독립기념관을 시민의 품으로 돌려드리는 역사적인 날”이라고 밝혔다.",
+            "description": "더불어민주당 소속 국회의원을 포함한 이사 6명이 “김 관장이 편향된 역사 인식으로 독립운동의 가치를... 백범 김구 선생의 증손자이자 독립기념관 이사인 김용만 민주당 의원은 국민일보에 “마땅히 가결됐어야 하는... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1768810409&code=11121100&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-19T18:41:00",
@@ -648,23 +667,6 @@
                 "2385336L"
             ],
             "title": "‘공천 키맨’김병기 버티기… 정청래, 윤리심판원에 맡기고 ‘징계 뒷..."
-        },
-        {
-            "_id": "6964b586631fd17434996467",
-            "link": "https://n.news.naver.com/mnews/article/003/0013683806?sid=100",
-            "created_at": "2026-01-12T17:49:07.793000",
-            "description": "당원 투표는 같은 달 9~11일, 국회의원 투표는 11일 진행한다. 새 원내대표는 최고위원 보궐선거 당선자와 함께... 부위원장은 홍기원 의원, 위원은 정을호·이기헌·이주희 의원이 맡는다. 구체적인 인선안은 추후... ",
-            "originallink": "https://www.newsis.com/view/NISX20251230_0003459687",
-            "press": "뉴시스",
-            "pubDate": "2025-12-30T14:39:00",
-            "related_members": [
-                "4U29186R",
-                "W3U3344O",
-                "NA61091D",
-                "5MD4184K",
-                "RBM5454A"
-            ],
-            "title": "민주, 내년 1월11일 새 원내대표 선출…문진석 대행 체제(종합)"
         }
     ],
     "recent_videos": [
@@ -673,7 +675,7 @@
             "url": "https://www.youtube.com/watch?v=VRVFuPl2yVE",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:44.815000",
+            "collected_at": "2026-02-02T09:44:05.641000",
             "duration": 1364.0,
             "title": "강성필 “문진석 때문에 김남국 날아갔다” 윤희석 \"김남국 문자, 김현지 위상 정확히 알려줬다\" [한판승부]",
             "upload_date": null
@@ -683,7 +685,7 @@
             "url": "https://www.youtube.com/watch?v=oFVolGQbU2I",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:46.171000",
+            "collected_at": "2026-02-02T09:44:06.964000",
             "duration": 92.0,
             "title": "[오늘 이 뉴스] '철없는 답장' 김남국 사표..문자 보낸 문진석도 '잠수' (2025.12.04/MBC뉴스)",
             "upload_date": null
@@ -733,7 +735,7 @@
             "url": "https://www.youtube.com/watch?v=9isEejSZxm4",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:46.171000",
+            "collected_at": "2026-02-02T09:44:06.964000",
             "duration": 1291.0,
             "title": "결국 사퇴 김남국 불똥 맞은 김현지 일단 버텨 문진석 [뉴스 연구소]",
             "upload_date": null
@@ -743,7 +745,7 @@
             "url": "https://www.youtube.com/watch?v=ZteI8xiZudo",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:44.815000",
+            "collected_at": "2026-02-02T09:44:05.641000",
             "duration": 513.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 문진석 의원(더불어민주당)",
             "upload_date": null
@@ -753,7 +755,7 @@
             "url": "https://www.youtube.com/watch?v=xX-U9SODBOk",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:46.171000",
+            "collected_at": "2026-02-02T09:44:06.964000",
             "duration": 373.0,
             "title": "문진석·김남국 메시지 포착…‘인사 청탁’ 논란 / 채널A / 뉴스A 라이브",
             "upload_date": null
@@ -783,7 +785,7 @@
             "url": "https://www.youtube.com/watch?v=Eg5VAR8PeA4",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:46.171000",
+            "collected_at": "2026-02-02T09:44:06.964000",
             "duration": 570.0,
             "title": "‘인사청탁 논란’ 문진석 “입이 열 개라도 할 말 없어” / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -813,7 +815,7 @@
             "url": "https://www.youtube.com/watch?v=DmDEiFFFdbY",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:44.815000",
+            "collected_at": "2026-02-02T09:44:05.641000",
             "duration": 244.0,
             "title": "‘인사청탁 문자’ 문진석 “입이 열개라도…부적절 처신 송구” [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -823,7 +825,7 @@
             "url": "https://www.youtube.com/watch?v=yGKujhkN9ps",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-23T16:42:43.963000",
+            "collected_at": "2026-02-02T09:44:05.641000",
             "duration": 1243.0,
             "title": "[여담야담] 김현지 \"유탄맞았다\"…김남국은 사퇴, 문진석은? / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
@@ -833,7 +835,7 @@
             "url": "https://www.youtube.com/watch?v=UCL3zKoc_h1ErJCPhhs6K6UQ",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:44.815000",
+            "collected_at": "2026-02-02T09:44:05.641000",
             "duration": null,
             "title": "문진석TV",
             "upload_date": null
@@ -843,7 +845,7 @@
             "url": "https://www.youtube.com/watch?v=oZyibC9ee9Q",
             "HG_NM": "문진석",
             "MONA_CD": "4U29186R",
-            "collected_at": "2026-01-30T23:22:44.815000",
+            "collected_at": "2026-02-02T09:44:05.641000",
             "duration": 1422.0,
             "title": "[더in터뷰] 문진석 \"최민희 논란, 당도 심각하게 우려 갖고 지켜보는 중\" / JTBC 이가혁 라이브",
             "upload_date": null
@@ -869,5 +871,5 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:52.511757"
+    "exported_at": "2026-02-02T09:57:10.025979"
 }

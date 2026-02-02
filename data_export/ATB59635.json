@@ -47,25 +47,37 @@
     },
     "analysis": {
         "keywords": [
-            "의장",
-            "검찰",
             "출판",
-            "추미애",
-            "기념회",
             "시장",
-            "대통령",
-            "한준호",
-            "수사",
+            "의장",
+            "기념회",
+            "검찰",
             "경기",
-            "민주당",
+            "추미애",
+            "한준호",
             "경기도",
-            "조작",
-            "기소",
-            "지역"
+            "대통령",
+            "수원",
+            "김준혁",
+            "수사",
+            "지역",
+            "민주당"
         ],
         "keyword_frequency": [
             {
+                "text": "출판",
+                "value": 21
+            },
+            {
+                "text": "시장",
+                "value": 20
+            },
+            {
                 "text": "의장",
+                "value": 20
+            },
+            {
+                "text": "기념회",
                 "value": 18
             },
             {
@@ -73,19 +85,19 @@
                 "value": 17
             },
             {
-                "text": "출판",
-                "value": 14
+                "text": "경기",
+                "value": 15
             },
             {
                 "text": "추미애",
+                "value": 15
+            },
+            {
+                "text": "한준호",
                 "value": 14
             },
             {
-                "text": "기념회",
-                "value": 13
-            },
-            {
-                "text": "시장",
+                "text": "경기도",
                 "value": 13
             },
             {
@@ -93,7 +105,11 @@
                 "value": 13
             },
             {
-                "text": "한준호",
+                "text": "수원",
+                "value": 12
+            },
+            {
+                "text": "김준혁",
                 "value": 12
             },
             {
@@ -101,53 +117,110 @@
                 "value": 12
             },
             {
-                "text": "경기",
-                "value": 12
+                "text": "지역",
+                "value": 11
             },
             {
                 "text": "민주당",
                 "value": 11
-            },
-            {
-                "text": "경기도",
-                "value": 11
-            },
-            {
-                "text": "조작",
-                "value": 11
-            },
-            {
-                "text": "기소",
-                "value": 11
-            },
-            {
-                "text": "지역",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-01-30T23:35:46.141170",
+        "last_analyzed_at": "2026-02-02T09:57:03.420010",
         "trend_news": {
             "labels": [
-                "01-24",
-                "01-25",
-                "01-26",
                 "01-27",
                 "01-28",
                 "01-29",
-                "01-30"
+                "01-30",
+                "01-31",
+                "02-01",
+                "02-02"
             ],
             "data": [
                 0,
-                3,
-                0,
-                0,
                 2,
                 0,
+                0,
+                0,
+                4,
                 0
             ]
         }
     },
     "recent_news": [
+        {
+            "_id": "697ff10438b0cf409697732d",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111127?sid=102",
+            "created_at": "2026-02-02T09:34:12.565000",
+            "description": "현 경기도지사 후보군으로 거론되는 김동연 경기지사를 비롯해 추미애·한준호·김병주 국회의원이 참석했고, 김승원·백혜련·김영진·김준혁·염태영 등 수원 지역 국회의원 5명도 모두 모습을 드러냈다. 수원시장 재선... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465022?utm_source=naver&utm_medium=article&utm_campaign=20260201075338",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-01T19:54:00",
+            "related_members": [
+                "5765663F",
+                "HSS7466Y",
+                "URX8075K",
+                "URV1689Q",
+                "GF286398",
+                "ATB59635",
+                "BCQ55105",
+                "YM42715P"
+            ],
+            "title": "'준비된 혁신가' 이재준 수원시장 재선 가시권…시민·여권 관심 집중"
+        },
+        {
+            "_id": "697ff0f938b0cf4096977302",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746862?sid=102",
+            "created_at": "2026-02-02T09:34:00.936000",
+            "description": "출판그룹 '라의눈'에 따르면 시민 5000여 명이 함께한 이 자리에는 김승원·백혜련·김영진·김준혁·염태영·강득구·추미애·한준호·김병주 더불어민주당 국회의원, 김진표 전 국회의장 등 정계 인사도 참석했다. 또 김동연... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6058076",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T17:50:00",
+            "related_members": [
+                "5765663F",
+                "HSS7466Y",
+                "URX8075K",
+                "URV1689Q",
+                "GF286398",
+                "ATB59635",
+                "8P37634C",
+                "BCQ55105",
+                "YM42715P"
+            ],
+            "title": "이재준 수원시장, '수원의 새빛, 세계로 가다' 출판기념회"
+        },
+        {
+            "_id": "697ff10838b0cf4096977333",
+            "link": "https://n.news.naver.com/mnews/article/003/0013742109?sid=102",
+            "created_at": "2026-02-02T09:34:16.006000",
+            "description": "도서출판 '라의눈'에 따르면 이날 출판기념회에는 약 5000여명의 시민이 참석한 가운데 김동연 경기도지사를 비롯해 김승원·백혜련·김영진·김준혁·염태영 국회의원, 김진표 전 국회의장 등 민주당 유력 정치인들이 대거... ",
+            "originallink": "https://www.newsis.com/view/NISX20260201_0003498007",
+            "press": "뉴시스",
+            "pubDate": "2026-02-01T16:34:00",
+            "related_members": [
+                "5765663F",
+                "HSS7466Y",
+                "URX8075K",
+                "ATB59635",
+                "YM42715P"
+            ],
+            "title": "이재준 시장 '수원의 새빛, 세계로 가다' 출판기념회 발길"
+        },
+        {
+            "_id": "697ff10838b0cf4096977334",
+            "link": "https://n.news.naver.com/mnews/article/421/0008746660?sid=102",
+            "created_at": "2026-02-02T09:34:16.006000",
+            "description": "총회에는 더불어민주당 김승원·염태영 국회의원과 국정감사에서 SNU반려동물검진센터(현 서울대학교동물검진센터) 문제를 지적한 김준혁 의원이 참석해 수의사회 발전을 기원했다. 연수교육도 진행됐다. 송우진 안운찬... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6057954",
+            "press": "뉴스1",
+            "pubDate": "2026-02-01T14:10:00",
+            "related_members": [
+                "YM42715P",
+                "URX8075K",
+                "ATB59635"
+            ],
+            "title": "경기도수의사회, 도립 동물병원 설치 반대 궐기대회 열어"
+        },
         {
             "_id": "697cbd2538b0cf4096976b09",
             "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
@@ -818,41 +891,6 @@
                 "URV1689Q"
             ],
             "title": "野대표 초유의 필버… 장동혁 “똥에 물 풀어도 된장 안돼”"
-        },
-        {
-            "_id": "6964b58f631fd174349964d7",
-            "link": "https://n.news.naver.com/mnews/article/366/0001131719?sid=100",
-            "created_at": "2026-01-12T17:49:17.018000",
-            "description": "그는 국회에 들어오기 전에 법관을 지낸 추미애, 박범계, 김승원, 최기상, 박희승 의원의 이름을 호명하면서 “특별재판부가 정말 괜찮나?”라고 묻기도 했다. 장 대표는 “여러 민주국가들이 법관선거제도를 채택하지... ",
-            "originallink": "https://biz.chosun.com/policy/politics/assembly/2025/12/22/3DM522A3UZD57D3G5BP3PAWWDQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2025-12-22T15:29:00",
-            "related_members": [
-                "I5I2468R",
-                "KFM1081G",
-                "7R156073",
-                "43Q3892U",
-                "ATB59635",
-                "URV1689Q"
-            ],
-            "title": "‘헌법·민주주의’ 책 들고 필버 나선 장동혁 “사법부 독립 무너지면..."
-        },
-        {
-            "_id": "6964b58f631fd174349964d8",
-            "link": "https://n.news.naver.com/mnews/article/448/0000576028?sid=100",
-            "created_at": "2026-01-12T17:49:17.018000",
-            "description": "이탄희 / 전 민주당 의원 \"더불어민주당 국회의원 김승원, 위성곤, 윤영덕, 이용우, 이탄희, 장경태, 최기상 드림\" 장 의원은 성추행 의혹과 관련한 추가 입장 표명 없이 오늘 열린 본회의에 참석했습니다. TV조선... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2025/12/09/2025120990261.html",
-            "press": "조선일보",
-            "pubDate": "2025-12-09T21:31:00",
-            "related_members": [
-                "RQQ3807K",
-                "I5I2468R",
-                "RPN2293B",
-                "6K79158C",
-                "ATB59635"
-            ],
-            "title": "장경태 성추행 피해자, '꽃뱀짓' 등 '2차 가해' 악성 댓글·유튜버 고소"
         }
     ],
     "recent_videos": [
@@ -861,7 +899,7 @@
             "url": "https://www.youtube.com/watch?v=3DKiaMMAQd8",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:19.113000",
+            "collected_at": "2026-02-02T09:41:50.357000",
             "duration": 742.0,
             "title": "연합뉴스 뉴스1번지 김승원 인터뷰",
             "upload_date": null
@@ -871,7 +909,7 @@
             "url": "https://www.youtube.com/watch?v=0s31AKq3j4s",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:19.113000",
+            "collected_at": "2026-02-02T09:41:50.357000",
             "duration": 630.0,
             "title": "김어준의 뉴스공장 김승원의원 출연 '미디어바우처 제도 새로운 언론생태계의 시작'",
             "upload_date": null
@@ -931,7 +969,7 @@
             "url": "https://www.youtube.com/watch?v=satZIA6J1-A",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 2875.0,
             "title": "김승원 의원의 “다양한 가족의 공존을 위해” | 우리들의 법 | 국회방송",
             "upload_date": null
@@ -951,7 +989,7 @@
             "url": "https://www.youtube.com/watch?v=594cOuJvyoA",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:19.113000",
+            "collected_at": "2026-02-02T09:41:50.357000",
             "duration": 205.0,
             "title": "[백브리핑] 김승원, 'GSGG' 논란 일자…박병석 의장 찾아가 사과 / JTBC 뉴스룸",
             "upload_date": null
@@ -961,7 +999,7 @@
             "url": "https://www.youtube.com/watch?v=UCGb1fUECvsMIEPjI5QqASog",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": null,
             "title": "김승원TV",
             "upload_date": null
@@ -971,7 +1009,7 @@
             "url": "https://www.youtube.com/watch?v=fsiKXE_9L2k",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:19.113000",
+            "collected_at": "2026-02-02T09:41:50.357000",
             "duration": 528.0,
             "title": "[모닝콜] 김승원 \"지귀연, 판사도 아냐‥교체 요구해야\" (2025.11.18/뉴스투데이/MBC)",
             "upload_date": null
@@ -981,7 +1019,7 @@
             "url": "https://www.youtube.com/watch?v=Kc5t7hIR678",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 115.0,
             "title": "이송원TV가 인정한 김승원 의원, \"김승원 의원, 이 분 굉장히 개혁적인 분이에요\"",
             "upload_date": null
@@ -1001,7 +1039,7 @@
             "url": "https://www.youtube.com/watch?v=JbpG08xFb1o",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-23T16:41:02.168000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 2801.0,
             "title": "오유경의 인생책방 (75회) 김승원 의원 -소명으로서의 정치",
             "upload_date": null
@@ -1011,7 +1049,7 @@
             "url": "https://www.youtube.com/watch?v=gSnHrCTgfNk",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 323.0,
             "title": "홈플러스 공동 대표 부채 2조 자산 4조? 김승원 의원 \"왜 회생을 신청했어요?\"",
             "upload_date": null
@@ -1021,7 +1059,7 @@
             "url": "https://www.youtube.com/watch?v=uO0eP8jJqDQ",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 1386.0,
             "title": "[대담한만남] 김승원 국회의원편",
             "upload_date": null
@@ -1031,7 +1069,7 @@
             "url": "https://www.youtube.com/watch?v=MAW4zhoQJxA",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 693.0,
             "title": "\"수사 개판 만들어 놓고\"...분노 폭발...검찰 박살내는 김승원",
             "upload_date": null
@@ -1041,11 +1079,11 @@
             "url": "https://www.youtube.com/watch?v=yXJk2zQpNjc",
             "HG_NM": "김승원",
             "MONA_CD": "ATB59635",
-            "collected_at": "2026-01-30T23:20:17.641000",
+            "collected_at": "2026-02-02T09:41:49.009000",
             "duration": 1401.0,
             "title": "국회의원25시_377회 김승원 의원 편[2021.1.19]",
             "upload_date": null
         }
     ],
-    "exported_at": "2026-01-30T23:35:46.141170"
+    "exported_at": "2026-02-02T09:57:03.420010"
 }
