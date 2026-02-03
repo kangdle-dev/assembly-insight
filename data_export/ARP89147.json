@@ -62,107 +62,295 @@
     },
     "analysis": {
         "keywords": [
+            "통합",
+            "전주",
+            "완주",
             "장관",
-            "통일부",
-            "민주당",
-            "이해찬",
-            "정부",
-            "전두환",
             "전북",
-            "총리",
-            "출신",
-            "포럼",
-            "통일교",
-            "발의",
-            "나경원",
-            "빈소",
-            "인사"
+            "통일부",
+            "추진",
+            "민주당",
+            "결단",
+            "환영",
+            "정부",
+            "이해찬",
+            "이성윤",
+            "찬성",
+            "총리"
         ],
         "keyword_frequency": [
             {
+                "text": "통합",
+                "value": 42
+            },
+            {
+                "text": "전주",
+                "value": 40
+            },
+            {
+                "text": "완주",
+                "value": 35
+            },
+            {
                 "text": "장관",
-                "value": 27
+                "value": 25
+            },
+            {
+                "text": "전북",
+                "value": 23
             },
             {
                 "text": "통일부",
-                "value": 17
+                "value": 21
+            },
+            {
+                "text": "추진",
+                "value": 19
             },
             {
                 "text": "민주당",
+                "value": 19
+            },
+            {
+                "text": "결단",
                 "value": 13
+            },
+            {
+                "text": "환영",
+                "value": 13
+            },
+            {
+                "text": "정부",
+                "value": 12
             },
             {
                 "text": "이해찬",
                 "value": 11
             },
             {
-                "text": "정부",
-                "value": 10
+                "text": "이성윤",
+                "value": 9
             },
             {
-                "text": "전두환",
-                "value": 10
-            },
-            {
-                "text": "전북",
-                "value": 10
+                "text": "찬성",
+                "value": 9
             },
             {
                 "text": "총리",
                 "value": 9
-            },
-            {
-                "text": "출신",
-                "value": 9
-            },
-            {
-                "text": "포럼",
-                "value": 9
-            },
-            {
-                "text": "통일교",
-                "value": 8
-            },
-            {
-                "text": "발의",
-                "value": 8
-            },
-            {
-                "text": "나경원",
-                "value": 8
-            },
-            {
-                "text": "빈소",
-                "value": 7
-            },
-            {
-                "text": "인사",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-02T09:57:33.815620",
+        "last_analyzed_at": "2026-02-03T14:51:32.600023",
         "trend_news": {
             "labels": [
-                "01-27",
                 "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
-                "02-02"
+                "02-02",
+                "02-03"
             ],
             "data": [
-                0,
                 3,
                 1,
                 0,
                 1,
                 2,
-                0
+                10,
+                1
             ]
+        },
+        "ai_policy_summary": "\"정동영 의원은 주로 인권, 디지털 혁신, 그리고 에너지 분야에 집중하며, 혁신가적 입법 활동을 통해 유권자의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 인공지능 및 디지털 크리에이터 관련 법안들을 통해 국민의 실생활과 직결된 경제적 기회와 사회적 안전망을 강화하는 기대 효과를 만들어내는 행보를 보입니다.\"",
+        "policy_stats": {
+            "passed": 0,
+            "reflected": 2,
+            "pending": 15,
+            "failed": 0,
+            "total": 17,
+            "achievement_rate": 11.8
         }
     },
     "recent_news": [
+        {
+            "_id": "69814b1338b0cf40969777c8",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117529?sid=100",
+            "created_at": "2026-02-03T10:10:41.409000",
+            "description": "[리포트] 통일부 정동영 장관, 민주당 이성윤 최고위원과 함께 기자회견을 연 민주당 안호영 의원. 그간... [안호영/민주당 국회의원 : \"완주 발전의 기회가 될 수 있기 때문에 제가 봤을 때는 그런 부분들이 제대로 우리... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475710&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-03T07:34:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147"
+            ],
+            "title": "전북 정치권 “완주-전주 통합 추진 결단”…통합 논의 재점화하나?"
+        },
+        {
+            "_id": "69814b1338b0cf40969777cc",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117336?sid=100",
+            "created_at": "2026-02-03T10:10:41.410000",
+            "description": "[안호영/민주당 국회의원 : \"정부의 선물을 받아서 또 전북 발전에 대도약이 된다고 한다면 그런 내용을 가지고 주민들과 이런 공감대를 형성하고 하는 과정이 필요하겠죠.\"] 한편, 통일부 정동영 장관은 행정 통합이 이재명... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475451&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T21:46:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147"
+            ],
+            "title": "전북 정치권 “완주-전주 통합 추진 결단”…통합 논의 재점화하나?"
+        },
+        {
+            "_id": "69814af338b0cf4096977753",
+            "link": "https://n.news.naver.com/mnews/article/659/0000041027?sid=102",
+            "created_at": "2026-02-03T10:10:09.592000",
+            "description": "◀리포트▶ 전주·완주 통합과 관련해 민주당 안호영 의원과 정동영 통일부 장관, 이성윤 최고위원의 합동... \" 기자회견에 함께 한 국회의원들도 안 의원의 결단을 추켜세웠습니다. [이성윤 / 더불어민주당 의원] \"전남... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/62075",
+            "press": "MBC",
+            "pubDate": "2026-02-02T20:00:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147",
+                "JZY9937U",
+                "5N65159P"
+            ],
+            "title": "\"전주·완주 통합 추진하겠다\"..찬성으로 선회 '파장'"
+        },
+        {
+            "_id": "69814b1338b0cf40969777cf",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117128?sid=100",
+            "created_at": "2026-02-03T10:10:41.410000",
+            "description": "[안호영/민주당 국회의원 : \"정부의 선물을 받아서 또 전북 발전에 대도약이 된다고 한다면 그런 내용을 가지고 주민들과 이런 공감대를 형성하고 하는 과정이 필요하겠죠.\"] 한편, 통일부 정동영 장관은 행정 통합이 이재명... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475177&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T19:06:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147"
+            ],
+            "title": "전북 정치권 “완주-전주 통합 추진 결단”…통합 논의 재점화하나?"
+        },
+        {
+            "_id": "69814af338b0cf4096977754",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749133?sid=102",
+            "created_at": "2026-02-03T10:10:09.592000",
+            "description": "안호영 국회의원(3선, 완주·진안·무주)이 통합 추진에 동참 의사를 밝히면서다. 안 의원은 2일 전북도의회 브리핑룸에서 기자회견을 열고 전주·완주 행정 통합 추진에 동참하겠다고 밝혔다. 이날 회견에는 정동영 통일부... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6059464",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T17:21:00",
+            "related_members": [
+                "JZY9937U",
+                "XEF29171",
+                "5N65159P",
+                "N2P9317N",
+                "ARP89147",
+                "DAV7257X"
+            ],
+            "title": "전주·완주 통합 추진에 안호영 합류…핵심은 '정부 지원 구체화'"
+        },
+        {
+            "_id": "69814b1e38b0cf40969777e2",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111432?sid=102",
+            "created_at": "2026-02-03T10:10:53.075000",
+            "description": "우범기 전북 전주시장은 2일 더불어민주당 안호영 의원(완주·진안·무주)과 지역구 국회의원들의 완주·전주... 더불어민주당 안호영, 정동영, 이성윤 의원은 이날 전북도의회에서 공동 기자회견을 열어 완주·전주 통합... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465467?utm_source=naver&utm_medium=article&utm_campaign=20260202030348",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-02T15:04:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147"
+            ],
+            "title": "우범기 전주시장 \"완주·전주 통합 추진 환영\""
+        },
+        {
+            "_id": "69814af338b0cf4096977755",
+            "link": "https://n.news.naver.com/mnews/article/003/0013743778?sid=102",
+            "created_at": "2026-02-03T10:10:09.592000",
+            "description": "이 의원은 \"특히 안호영 국회의원님의 결단에 깊은 환영과 존경의 뜻을 표하며 이는 전북 전체의 미래를 우선한 정치적 판단이 전주·완주 통합 논의를 실질적인 진전으로 이끌었다\"고 말한 후 \"아울러 정동영 통일부... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499247",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T15:03:00",
+            "related_members": [
+                "DAV7257X",
+                "XEF29171",
+                "ARP89147",
+                "JZY9937U",
+                "5N65159P",
+                "N2P9317N"
+            ],
+            "title": "이원택 의원 \"전주·완주 통합, 전북 미래 바꾸는 전략적 선택\""
+        },
+        {
+            "_id": "69814b2d38b0cf409697781d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013743689?sid=102",
+            "created_at": "2026-02-03T10:11:07.397000",
+            "description": "안호영 국회의원의 결단을 진심으로 환영하며 완주·전주 통합이 전북의 성장 동력으로 자리매김하기를... 안호영 의원(완주·진안·무주)은 전주 지역구인 정동영 통일부장관(전주병), 이성윤 의원(전주을)과 공동... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499202",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T14:45:00",
+            "related_members": [
+                "N2P9317N",
+                "XEF29171",
+                "ARP89147"
+            ],
+            "title": "전북 상공인 \"완주·전주 통합 찬성, 안호영 의원 결단 환영\""
+        },
+        {
+            "_id": "69814af338b0cf4096977756",
+            "link": "https://n.news.naver.com/mnews/article/421/0008748466?sid=102",
+            "created_at": "2026-02-03T10:10:09.593000",
+            "description": "이날 기자회견에는 정동영 통일부 장관과 이성윤 민주당 최고위원(전주을)도 동참했다. 현장엔 없었지만, 김윤덕 국토교통부 장관도 뜻을 함께한 것으로 확인됐다. 안 의원은 \"전북 국회의원들과 함께 전주·완주 통합을... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6059073",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T14:43:00",
+            "related_members": [
+                "JZY9937U",
+                "XEF29171",
+                "5N65159P",
+                "N2P9317N",
+                "ARP89147"
+            ],
+            "title": "전주시·전주시의회 \"안호영 의원, 완주·전주 통합 찬성 결단 환영\""
+        },
+        {
+            "_id": "69814af338b0cf4096977757",
+            "link": "https://n.news.naver.com/mnews/article/003/0013743533?sid=102",
+            "created_at": "2026-02-03T10:10:09.593000",
+            "description": "전북 전주시의회는 2일 안호영 국회의원과 정동영 통일부 장관, 이성윤 국회의원, 김윤덕 국토교통부 장관이 완주·전주 통합에 대해 분명한 찬성 입장을 전한 데 대해 환영의 뜻을 밝혔다. 시의회는 이날 입장문을 통해... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499118",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T14:10:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147",
+                "JZY9937U",
+                "5N65159P"
+            ],
+            "title": "전주시의회, 완주·전주 통합 찬성 환영…\"상생 통합 나아가야\""
+        },
+        {
+            "_id": "69814af338b0cf4096977758",
+            "link": "https://n.news.naver.com/mnews/article/421/0008748004?sid=102",
+            "created_at": "2026-02-03T10:10:09.593000",
+            "description": "지원 의지를 밝혀 줄 것을 정부에 정중히 요청한다\"고 전했다. 한편 그간 사실상의 통합 반대 입장을 취해온 완주 안호영 의원은 이날 전주지역 국회의원(정동영·이성윤·김윤덕)들과 통합 추진에 함께하겠다는 입장을 밝혔다.",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6058842",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T11:51:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147",
+                "JZY9937U",
+                "5N65159P"
+            ],
+            "title": "김관영 \"전주·완주 행정통합 지역 정치권 용단 환영…경의 표한다\""
+        },
         {
             "_id": "697ff10538b0cf409697732e",
             "link": "https://n.news.naver.com/mnews/article/032/0003425105?sid=100",
@@ -225,7 +413,7 @@
             "_id": "697cbd2438b0cf4096976af8",
             "link": "https://n.news.naver.com/mnews/article/009/0005629411?sid=100",
             "created_at": "2026-01-30T23:16:04.510000",
-            "description": "이 전 총리의 장례 사흘째인 이날은 윤호중 행정안전부 장관과 정동영 통일부 장관, 김성환... 전날인 28일에는 여권·정재계 인사들은 물론 김성태, 윤상현, 윤재옥, 정몽준, 태영호 등 보수 성향 전현직 국회의원들도... ",
+            "description": "전날인 28일에는 여권·정재계 인사들은 물론 김성태, 윤상현, 윤재옥, 정몽준, 태영호 등 보수 성향 전현직 국회의원들도 빈소를 찾아 이 전 총리를 애도했다. 발인식은 오는 31일 오전 6시 30분 서울대병원에서 엄수되며... ",
             "originallink": "https://www.mk.co.kr/article/11947254",
             "press": "매일경제",
             "pubDate": "2026-01-29T16:56:00",
@@ -502,151 +690,6 @@
                 "DAV7257X"
             ],
             "title": "당정 꿰찬 전북 정치권…변방에서 중앙으로 위상 '우뚝'"
-        },
-        {
-            "_id": "6964b548631fd17434996095",
-            "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23516&Newsnumb=20260123516",
-            "created_at": "2026-01-12T17:48:05.536000",
-            "description": "소속 국회사무처 직원들이 공동으로 선정하는 제27회 백봉신사상 대상 수상자로 결정됐다. 백봉신사상 대상과 함께 발표된 2025년 신사의원 베스트 10에는 김도읍 의원(국민의힘), 김영호 의원(더불어민주당), 김예지... ",
-            "originallink": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23516&Newsnumb=20260123516",
-            "press": "조선일보",
-            "pubDate": "2026-01-07T18:10:00",
-            "related_members": [
-                "LH97552Q",
-                "XBT9550Q",
-                "CNZ51556",
-                "7BM2933Y",
-                "ARP89147",
-                "8SV6917G",
-                "8BF5855P",
-                "A0P4646G",
-                "H5476989"
-            ],
-            "title": "제27회 백봉신사상 대상에 우원식 국회의장 | 신사의원 베스트 10에는 김..."
-        },
-        {
-            "_id": "6964b585631fd17434996457",
-            "link": "https://n.news.naver.com/mnews/article/659/0000040201?sid=102",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "정동영 통일부 장관이 지난 5일 전북상공회의소신년인사회에서 '전주·완주 통합에 대해 안호영 의원이... 완주·전주통합반대 완주군민대책위원회는 오늘(7) 성명을 내고 \"현직 장관이자 국회의원의 이 발언은 도를 넘은... ",
-            "originallink": "http://www.jmbc.co.kr/news/view/61252",
-            "press": "MBC",
-            "pubDate": "2026-01-07T17:05:00",
-            "related_members": [
-                "ARP89147",
-                "XEF29171"
-            ],
-            "title": "통합반대 대책위 \"정동영 장관, 완주군민 무시한 통합 압박 중단하라\""
-        },
-        {
-            "_id": "6964b585631fd17434996458",
-            "link": "https://n.news.naver.com/mnews/article/021/0002761353?sid=102",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "지난해 7월 11일 전북 완주군 완주군청 문예회관에서 열린 피지컬AI 모빌리티 실증 선도사업 전북 세미나에서 김관영(왼쪽 네 번째) 전북특별자치도지사와 정동영(〃다섯 번째) 더불어민주당 국회의원을 비롯한... ",
-            "originallink": "https://www.munhwa.com/article/11558473?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-05T09:07:00",
-            "related_members": [
-                "ARP89147"
-            ],
-            "title": "‘국가 피지컬AI’ 전북서 키운다… ‘글로벌 혁신 중심지’ 청사진[민..."
-        },
-        {
-            "_id": "6964b585631fd17434996459",
-            "link": "https://n.news.naver.com/mnews/article/021/0002761104?sid=100",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "정동영 통일부 장관이 12일 서울 여의도 국회 의원회관에서 열린 동북아평화공존포럼토론회 ‘통일지향의 평화적 두 국가관계론’에 참석해 있다. 뉴시스 정동영 통일부 장관은 2일 “거듭 강조하지만 이재명 정부는... ",
-            "originallink": "https://www.munhwa.com/article/11558223?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-02T21:07:00",
-            "related_members": [
-                "ARP89147"
-            ],
-            "title": "정동영, 북한 ‘조선민주주의인민공화국’ 지칭 “체제 존중”"
-        },
-        {
-            "_id": "6964b585631fd1743499645a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784510?sid=102",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "지난달 29일 차규근 조국혁신당 의원과 정동영 더불어민주당 의원이 공동발의한 5·18특별법 개정안은 법에... 계승하고 헌법을 존중하는 정당과 국회의원이라면 이 점 또한 숙고해 법제 개혁에 나서야 한다”고 강조했다.",
-            "originallink": "https://www.hani.co.kr/arti/area/yeongnam/1237747.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-02T15:16:00",
-            "related_members": [
-                "4019850M",
-                "ARP89147",
-                "KNP22261"
-            ],
-            "title": "‘전두환 미화 방지법’ 국회 발의…시민단체 “이승만·박정희 기념도..."
-        },
-        {
-            "_id": "6964b585631fd1743499645b",
-            "link": "https://n.news.naver.com/mnews/article/022/0004094282?sid=100",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "국회미래연구원이 지난 11월 공개한 ‘2025년 외교안보 현안 인식조사’를 보면 시민과 국회의원은 이념에... 의원은 75%가 부정적인 입장을 피력했다. 이런 여론 지형은 대북정책을 둘러싼 첨예한 논쟁을 낳는다. 정동영... ",
-            "originallink": "https://www.segye.com/newsView/20251224515571?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-01T06:03:00",
-            "related_members": [
-                "ARP89147"
-            ],
-            "title": "李정부 교류·협력 의지에도… ‘두 국가론’ 장벽 높이는 北 [2026 신년..."
-        },
-        {
-            "_id": "6964b585631fd1743499645c",
-            "link": "https://kjmbc.co.kr/NewsArticle/1498455",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "* 차규근 조국혁신당 국회의원 \"반란과 내란 수괴죄로 사형을 선고받은 전두환 씨를 기념하는 것은 일반 상식과 민주주의 가치에 정면으로 배치되는 것입니다.\" 생명의 숲 되찾기 합천군민운동본부는 \"일해공원 문제에... ",
-            "originallink": "https://kjmbc.co.kr/NewsArticle/1498455",
-            "press": "MBC",
-            "pubDate": "2025-12-30T20:40:00",
-            "related_members": [
-                "ARP89147",
-                "KNP22261"
-            ],
-            "title": "[경남] '전두환 기념사업 전면 금지' 5.18 특별법 개정안 발의"
-        },
-        {
-            "_id": "6964b585631fd1743499645d",
-            "link": "https://n.news.naver.com/mnews/article/055/0001320327?sid=100",
-            "created_at": "2026-01-12T17:49:06.613000",
-            "description": "▶ 권영세 / 국민의힘 의원 : 저는 특히 통일부 장관, 지금 정동영 장관 때문에 이게 자주파를 넘어서 거의... 권영세 국민의힘 국회의원이었습니다. ※ 자세한 내용은 동영상으로 확인하실 수 있습니다. (SBS 디지털뉴스부)",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008386510&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2025-12-30T15:17:00",
-            "related_members": [
-                "ARP89147",
-                "LG63087O"
-            ],
-            "title": "[인터뷰] 권영세 \"북에서나 쓰는 '당성' 강조에 거부감\""
-        },
-        {
-            "_id": "6964b540631fd17434995fd1",
-            "link": "https://n.news.naver.com/mnews/article/028/0002783930?sid=102",
-            "created_at": "2026-01-12T17:47:57.718000",
-            "description": "장관) 국회의원은 ‘5·18민주화운동 등에 관한 특별법 일부개정법률안’을 대표 발의했다. 공동 발의자에는 김문수·박지원·양부남(이상 민주당), 서왕진·황운하·김준형·정춘생·김선민·강경숙·백선희·이해민... ",
-            "originallink": "https://www.hani.co.kr/arti/area/honam/1237161.html",
-            "press": "한겨레",
-            "pubDate": "2025-12-30T11:44:00",
-            "related_members": [
-                "0YT3774N",
-                "8BF5855P",
-                "7GW5372Y",
-                "YN160848",
-                "80C5885Z",
-                "XG348314",
-                "T2T8225E",
-                "86R9476S",
-                "CK143054",
-                "0698755I",
-                "8A05621B",
-                "ARP89147",
-                "CC78321E",
-                "KNP22261",
-                "3TP65086",
-                "P8A4624C"
-            ],
-            "title": "‘전두환 미화 방지법’ 국회 발의…합천 일해공원 논란 끝낼까"
         }
     ],
     "recent_videos": [
@@ -851,5 +894,415 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-02-02T09:57:33.816620"
+    "recent_bills": [
+        {
+            "BILL_ID": "PRC_P2U5Q0P9O0V9U1T3Z2Y3W2V1B1A4Z7",
+            "BILL_NO": "2215659",
+            "BILL_NAME": "5·18민주화운동 등에 관한 특별법 일부개정법률안",
+            "COMMITTEE": "법제사법위원회",
+            "PROPOSE_DT": "2025-12-29",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2U5Q0P9O0V9U1T3Z2Y3W2V1B1A4Z7&ageFrom=22&ageTo=22",
+            "PROPOSER": "차규근의원ㆍ정동영의원 등 17인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_P2U5Q0P9O0V9U1T3Z2Y3W2V1B1A4Z7",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2025-12-30",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700006",
+            "PUBL_PROPOSER": "서왕진,김문수,황운하,전종덕,박지원,최혁진,김준형,정춘생,김선민,강경숙,백선희,이해민,양부남,신장식,윤종오",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "차규근,정동영"
+        },
+        {
+            "BILL_ID": "PRC_C2J5K0I6H3H0F1G2O0P8N5N7M6M8L0",
+            "BILL_NO": "2211212",
+            "BILL_NAME": "경찰관 직무집행법 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2025-07-02",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2J5K0I6H3H0F1G2O0P8N5N7M6M8L0&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 42인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2J5K0I6H3H0F1G2O0P8N5N7M6M8L0",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-11-27",
+            "CMT_PRESENT_DT": "2025-09-17",
+            "COMMITTEE_DT": "2025-07-03",
+            "PROC_DT": "2025-12-14",
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "김원이,이기헌,장종태,복기왕,박해철,주철현,황정아,최민희,김상욱,김문수,김병기,김윤,박지원,이훈기,송재봉,모경종,박희승,이상식,문금주,문진석,박홍근,김영배,권향엽,이용선,양부남,이광희,이재관,박용갑,정진욱,이병진,황명선,김남근,문대림,이재강,허영,조인철,오세희,윤건영,정일영,김현정,최혁진",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_W2U5V0D6B3C0A1A2Z5A5H5I1G8F1F3",
+            "BILL_NO": "2211211",
+            "BILL_NAME": "집회 및 시위에 관한 법률 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2025-07-02",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U5V0D6B3C0A1A2Z5A5H5I1G8F1F3&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 42인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_W2U5V0D6B3C0A1A2Z5A5H5I1G8F1F3",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-09-17",
+            "COMMITTEE_DT": "2025-07-03",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "김원이,이기헌,박해철,주철현,황정아,최민희,김상욱,김문수,김병기,김윤,박지원,이훈기,송재봉,모경종,이상식,박희승,문금주,문진석,장종태,박홍근,김영배,양부남,권향엽,이용선,이광희,이재관,박용갑,정진욱,황명선,김남근,문대림,이재강,허영,조인철,이병진,복기왕,오세희,윤건영,정일영,김현정,최혁진",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_J2H5I0G5O2P0N1O6M2N7L2T4T6S7T6",
+            "BILL_NO": "2211174",
+            "BILL_NAME": "디지털크리에이터 권리보호 및 육성에 관한 법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-06-30",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_J2H5I0G5O2P0N1O6M2N7L2T4T6S7T6&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_J2H5I0G5O2P0N1O6M2N7L2T4T6S7T6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-07-01",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "이해민,최민희,김현,김우영,허성무,이정헌,민형배,이성윤,박민규",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_G2G5E0F6D2E5C1K6L3J3J5I8J1H4H2",
+            "BILL_NO": "2211172",
+            "BILL_NAME": "우주기본법안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-06-30",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2G5E0F6D2E5C1K6L3J3J5I8J1H4H2&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 12인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_G2G5E0F6D2E5C1K6L3J3J5I8J1H4H2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-07-01",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "노종면,최민희,김우영,김현,윤준병,이원택,황명선,민형배,진선미,박민규,이성윤",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_D2L5L0K6I2J5H1I6D3E3C1D8B2C4A0",
+            "BILL_NO": "2211170",
+            "BILL_NAME": "분산에너지 활성화 특별법 일부개정법률안",
+            "COMMITTEE": "기후에너지환경노동위원회",
+            "PROPOSE_DT": "2025-06-30",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2L5L0K6I2J5H1I6D3E3C1D8B2C4A0&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 11인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_D2L5L0K6I2J5H1I6D3E3C1D8B2C4A0",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2025-10-28",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700585",
+            "PUBL_PROPOSER": "노종면,최민희,김우영,김현,윤준병,이원택,황명선,진선미,박민규,이성윤",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_E2F5D0E6C2D5K1J6K3I4I3H2I0P9Q1",
+            "BILL_NO": "2211168",
+            "BILL_NAME": "정보통신공사업법 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-06-30",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2F5D0E6C2D5K1J6K3I4I3H2I0P9Q1&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 17인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_E2F5D0E6C2D5K1J6K3I4I3H2I0P9Q1",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-07-01",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "이정헌,노종면,최민희,김우영,김현,윤준병,윤후덕,이원택,황명선,민형배,박지원,진선미,박민규,김정호,고민정,복기왕",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_R2P5N0O4W2W8V1V3T5U9T1A6B8Z9A6",
+            "BILL_NO": "2210511",
+            "BILL_NAME": "인공지능데이터센터 진흥 및 기반 조성에 관한 법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-05-14",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2P5N0O4W2W8V1V3T5U9T1A6B8Z9A6&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 19인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_R2P5N0O4W2W8V1V3T5U9T1A6B8Z9A6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-05-15",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "이성윤,이정헌,최민희,허성무,김주영,박지원,김윤,윤준병,강준현,김우영,민형배,김현,황정아,박민규,조인철,노종면,이훈기,한민수",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_S2Q5R0Y4Z2Y8Y1W4V0V0R2R8Q7R3P2",
+            "BILL_NO": "2210510",
+            "BILL_NAME": "주택법 일부개정법률안",
+            "COMMITTEE": "국토교통위원회",
+            "PROPOSE_DT": "2025-05-14",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2Q5R0Y4Z2Y8Y1W4V0V0R2R8Q7R3P2&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 12인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_S2Q5R0Y4Z2Y8Y1W4V0V0R2R8Q7R3P2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-21",
+            "COMMITTEE_DT": "2025-05-15",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700407",
+            "PUBL_PROPOSER": "이성윤,최민희,민형배,김현,이정헌,박민규,노종면,김우영,이훈기,이해민,윤준병",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_L2J5K0F4G2F8F1D3E5D8K3L1J8K2I0",
+            "BILL_NO": "2210451",
+            "BILL_NAME": "인공지능산업 인재 육성에 관한 특별법안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-05-09",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2J5K0F4G2F8F1D3E5D8K3L1J8K2I0&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 20인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_L2J5K0F4G2F8F1D3E5D8K3L1J8K2I0",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-05-12",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "이성윤,이정헌,최민희,허성무,김주영,장종태,박지원,김윤,윤준병,강준현,김우영,민형배,김현,황정아,박민규,조인철,노종면,이훈기,한민수",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_H2G5G0C2A1B7Z1A8Y1Z2H4H7F8E8E3",
+            "BILL_NO": "2208615",
+            "BILL_NAME": "병역법 일부개정법률안",
+            "COMMITTEE": "국방위원회",
+            "PROPOSE_DT": "2025-02-28",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G5G0C2A1B7Z1A8Y1Z2H4H7F8E8E3&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 37인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_H2G5G0C2A1B7Z1A8Y1Z2H4H7F8E8E3",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2025-03-04",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700019",
+            "PUBL_PROPOSER": "김문수,황정아,박민규,최민희,장종태,이훈기,민형배,안호영,윤준병,김우영,조인철,김윤,박용갑,김준혁,이정헌,박지원,이건태,이해민,허성무,박지혜,박정현,박홍근,김현,권향엽,정진욱,소병훈,안도걸,이광희,정일영,황명선,위성락,김교흥,문금주,신영대,이원택,김성환",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_C2C4K0L8J1J2I1G7H1P2P4N1O5N3N3",
+            "BILL_NO": "2206810",
+            "BILL_NAME": "전기통신사업법 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2024-12-20",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2C4K0L8J1J2I1G7H1P2P4N1O5N3N3&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 18인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2C4K0L8J1J2I1G7H1P2P4N1O5N3N3",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-03-05",
+            "COMMITTEE_DT": "2024-12-23",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "조인철,박민규,박주민,임미애,정태호,서영교,이기헌,최민희,민형배,윤준병,김한규,김민석,김현,이정헌,진선미,이훈기,김영호",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_H2I4Q1Q1P0P7O1M5N0I5J4I4I1G3F8",
+            "BILL_NO": "2206704",
+            "BILL_NAME": "방송통신위원회의 설치 및 운영에 관한 법률 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2024-12-19",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I4Q1Q1P0P7O1M5N0I5J4I4I1G3F8&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_H2I4Q1Q1P0P7O1M5N0I5J4I4I1G3F8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-12-10",
+            "CMT_PRESENT_DT": "2025-03-05",
+            "COMMITTEE_DT": "2024-12-20",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "김우영,이정헌,노종면,윤준병,황정아,박홍배,황명선,윤종군,민형배",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_H2F4G1B2A1B0Z1Z7X4Z8G5H6F1L5L6",
+            "BILL_NO": "2206703",
+            "BILL_NAME": "방송법 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2024-12-19",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2F4G1B2A1B0Z1Z7X4Z8G5H6F1L5L6&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_H2F4G1B2A1B0Z1Z7X4Z8G5H6F1L5L6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-12-10",
+            "CMT_PRESENT_DT": "2025-12-10",
+            "COMMITTEE_DT": "2024-12-20",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "황정아,이정헌,윤준병,윤종군,김우영,박홍배,황명선,노종면,민형배",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_Z2V4W1U0V1T7S1S7A4A9Z3A6Y6W3X5",
+            "BILL_NO": "2206095",
+            "BILL_NAME": "우편집배관 보건안전 및 복지 증진을 위한 법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2024-12-02",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2V4W1U0V1T7S1S7A4A9Z3A6Y6W3X5&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 64인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_Z2V4W1U0V1T7S1S7A4A9Z3A6Y6W3X5",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-03-05",
+            "COMMITTEE_DT": "2024-12-03",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "이훈기,서영교,김현,김윤,김우영,민형배,박홍근,윤준병,박홍배,차규근,김준형,한민수,용혜인,이용우,김태선,이해민,전종덕,윤종오,신장식,조국,조인철,진선미,이정헌,민병덕,정진욱,김현정,복기왕,김영배,백승아,임호선,권향엽,박정현,송옥주,이수진,허영,장경태,김남근,문금주,이재관,이재정,박민규,박해철,허성무,박희승,박용갑,박지원,최민희,임미애,이용선,강준현,고민정,양부남,황정아,오세희,황명선,정혜경,김주영,노종면,위성락,추미애,김영환,박상혁,김윤덕",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_H2I4G1E1F0D7E1Z5A0Z2Z3X3W4W3E8",
+            "BILL_NO": "2205458",
+            "BILL_NAME": "인공지능산업 진흥에 관한 법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2024-11-11",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I4G1E1F0D7E1Z5A0Z2Z3X3W4W3E8&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 14인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_H2I4G1E1F0D7E1Z5A0Z2Z3X3W4W3E8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2024-11-26",
+            "CMT_PRESENT_DT": "2024-11-26",
+            "COMMITTEE_DT": "2024-11-12",
+            "PROC_DT": "2024-12-26",
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "김우영,이정헌,노종면,이강일,허종식,황운하,채현일,박희승,손명수,윤준병,안호영,황정아,신영대",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        },
+        {
+            "BILL_ID": "PRC_E2F4N0O8M1N2L1L7K1K1S0R0R3P1Q6",
+            "BILL_NO": "2204461",
+            "BILL_NAME": "공직선거법 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2024-09-30",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2F4N0O8M1N2L1L7K1K1S0R0R3P1Q6&ageFrom=22&ageTo=22",
+            "PROPOSER": "정동영의원 등 14인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_E2F4N0O8M1N2L1L7K1K1S0R0R3P1Q6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-18",
+            "COMMITTEE_DT": "2024-10-02",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "조인철,임미애,이기헌,박홍배,윤준병,허영,황명선,한병도,이춘석,김윤덕,김문수,박희승,이원택",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "정동영"
+        }
+    ],
+    "exported_at": "2026-02-03T14:51:32.600023"
 }

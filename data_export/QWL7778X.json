@@ -43,106 +43,509 @@
     "analysis": {
         "keywords": [
             "대표",
-            "출마",
-            "이해찬",
-            "국민",
-            "총리",
-            "영결식",
             "개혁",
-            "신당",
-            "오세훈",
-            "한동훈",
-            "장동",
-            "빈소",
-            "인터뷰",
-            "사퇴",
-            "윤석열"
+            "대안",
+            "미래",
+            "토론회",
+            "국민",
+            "한국",
+            "보수",
+            "회관",
+            "위기",
+            "진단",
+            "강연",
+            "주최",
+            "해법",
+            "서울"
         ],
         "keyword_frequency": [
             {
                 "text": "대표",
-                "value": 46
-            },
-            {
-                "text": "출마",
-                "value": 22
-            },
-            {
-                "text": "이해찬",
-                "value": 22
-            },
-            {
-                "text": "국민",
-                "value": 21
-            },
-            {
-                "text": "총리",
-                "value": 16
-            },
-            {
-                "text": "영결식",
-                "value": 15
+                "value": 90
             },
             {
                 "text": "개혁",
-                "value": 15
+                "value": 50
             },
             {
-                "text": "신당",
-                "value": 15
+                "text": "대안",
+                "value": 48
             },
             {
-                "text": "오세훈",
-                "value": 13
+                "text": "미래",
+                "value": 48
             },
             {
-                "text": "한동훈",
-                "value": 12
+                "text": "토론회",
+                "value": 41
             },
             {
-                "text": "장동",
-                "value": 12
+                "text": "국민",
+                "value": 32
             },
             {
-                "text": "빈소",
-                "value": 12
+                "text": "한국",
+                "value": 31
             },
             {
-                "text": "인터뷰",
-                "value": 10
+                "text": "보수",
+                "value": 31
             },
             {
-                "text": "사퇴",
-                "value": 9
+                "text": "회관",
+                "value": 29
             },
             {
-                "text": "윤석열",
-                "value": 9
+                "text": "위기",
+                "value": 29
+            },
+            {
+                "text": "진단",
+                "value": 29
+            },
+            {
+                "text": "강연",
+                "value": 28
+            },
+            {
+                "text": "주최",
+                "value": 28
+            },
+            {
+                "text": "해법",
+                "value": 27
+            },
+            {
+                "text": "서울",
+                "value": 25
             }
         ],
-        "last_analyzed_at": "2026-02-02T09:57:29.893131",
+        "last_analyzed_at": "2026-02-03T14:51:26.429615",
         "trend_news": {
             "labels": [
-                "01-27",
                 "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
-                "02-02"
+                "02-02",
+                "02-03"
             ],
             "data": [
                 0,
                 0,
                 0,
-                14,
-                8,
-                5,
-                3
+                0,
+                0,
+                1,
+                29
             ]
+        },
+        "ai_policy_summary": "이준석 의원은 주로 **복지 및 교육** 분야에 집중하며, **개혁가** 입법 활동을 통해 **사회적 약자 및 교육 환경**을 개선하는 데 주력하고 있습니다. 특히 **노인복지법**, **교원의 지위 향상 및 교육활동 보호를 위한 특별법** 관련 법안들을 통해 국민의 실생활과 직결된 **복지 향상 및 교육 안정성**을 만들어내는 행보를 보입니다.",
+        "policy_stats": {
+            "passed": 0,
+            "reflected": 1,
+            "pending": 11,
+            "failed": 0,
+            "total": 12,
+            "achievement_rate": 8.3
         }
     },
     "recent_news": [
+        {
+            "_id": "69814b2538b0cf40969777f5",
+            "link": "https://n.news.naver.com/mnews/article/016/0002594989?sid=100",
+            "created_at": "2026-02-03T10:10:59.508000",
+            "description": "장동혁 약간 불안” 이준석 개혁신당 대표가 3일 국회에서 열린 ‘대안과 미래’ 모임에서 강연하고 있다. [연합] [헤럴드경제=김해솔 기자] 이준석 개혁신당 대표는 3일 국민의힘 소장파 모임 ‘대안과 미래’ 의원들과... ",
+            "originallink": "https://biz.heraldcorp.com/article/10668338?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-03T09:53:00",
+            "related_members": [
+                "QWL7778X",
+                "KFM1081G"
+            ],
+            "title": "이준석, 국힘 향해 “낡은 지역구도·음모론 결별해야”"
+        },
+        {
+            "_id": "69814b0a38b0cf40969777ab",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749815?sid=100",
+            "created_at": "2026-02-03T10:10:33.050000",
+            "description": "이 대표는 이날 오전 국회의원회관에서 열린 국민의힘 대안과 미래가 주최한 토론회에 참석해 \"(장동혁... 이날 토론회에 참석한 의원들은 이 대표를 향해 질문을 쏟아내기도 했다. 최형두 의원은 \"당원들 중 가장 강경한... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6059950",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T09:32:00",
+            "related_members": [
+                "QWL7778X",
+                "KFM1081G",
+                "L7J93733",
+                "8348421R",
+                "YGB8604T",
+                "WI719547",
+                "A0P4646G"
+            ],
+            "title": "국힘 의원들 \"지선 연대\" 제안에…이준석 \"함께할 분들과 함께해야\"(종..."
+        },
+        {
+            "_id": "69814b2438b0cf40969777f4",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749683?sid=100",
+            "created_at": "2026-02-03T10:10:58.904000",
+            "description": "이 대표는 이날 오전 국회의원회관에서 열린 국민의힘 개혁파 의원 모임 '대안과 미래'가 주최한 토론회에... 지금 대입하면 저를 안 만나고 천하람 개혁신당 원내대표, 이주영 의원에게 계속 공천을 준다고 하면 된다\"며... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6059857",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:47:00",
+            "related_members": [
+                "KFM1081G",
+                "YGB8604T",
+                "WI719547",
+                "QWL7778X"
+            ],
+            "title": "이준석 \"장동혁·황교안 비슷한 귀결…'우리가 黃' 때부터 불안\""
+        },
+        {
+            "_id": "69814b2538b0cf40969777ff",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744802?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148229",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977800",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744806?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하기 전 국민의힘 의원들과 인사를 나누고 있다. 2026.02.03.... ",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148236",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "인사 나누는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777f8",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744811?sid=100",
+            "created_at": "2026-02-03T10:10:59.509000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148227",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "'대안과 미래' 의원들에게 강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777fc",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744813?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148240",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "'대안과 미래' 의원들에게 강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777f9",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744803?sid=100",
+            "created_at": "2026-02-03T10:10:59.509000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하기 전 국민의힘 의원들과 대화하고 있다. 2026.02.03. kkssmm99... ",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148234",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "대화 나누는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777f6",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744818?sid=100",
+            "created_at": "2026-02-03T10:10:59.508000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에 참석하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148241",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "토론회 참석하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777fe",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744801?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148230",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "'대안과 미래' 의원들에게 강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777fd",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744815?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에 참석하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148243",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "토론회 참석하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777fa",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744816?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148228",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977802",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744817?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에 참석하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148242",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "토론회 참석하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977803",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744804?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하기 전 국민의힘 의원들과 대화하고 있다. 2026.02.03. kkssmm99... ",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148233",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "대화 나누는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977801",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744800?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148231",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "'대안과 미래' 의원들에게 강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777f7",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744805?sid=100",
+            "created_at": "2026-02-03T10:10:59.509000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148232",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "강연하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf40969777fb",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744807?sid=100",
+            "created_at": "2026-02-03T10:10:59.510000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 대안과 미래 주최로 열린 위기의 한국 보수에 대한 진단과 해법 토론회에서 강연하기 전 국민의힘 의원들과 인사를 나누고 있다. 2026.02.03.... ",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148235",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "인사 나누는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977809",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749641?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 참석 의원들과 인사하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728523",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "국민의힘 의원들과 인사하는 이준석 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977805",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749627?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 기조발언을 하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728536",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "국민의힘 대안과미래 주최 토론회 참석한 이준석 개혁신당 대표"
+        },
+        {
+            "_id": "69814b2538b0cf409697780b",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749631?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 기조발언을 하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728533",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "이준석 개혁신당 대표가 말하는 위기의 한국 보수"
+        },
+        {
+            "_id": "69814b2538b0cf409697780a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749626?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 참석 의원들과 대화하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728537",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "국민의힘 대안과미래 의원들과 대화 나누는 이준석 개혁신당 대표"
+        },
+        {
+            "_id": "69814b2538b0cf4096977807",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749633?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 기조발언을 하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728531",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "'위기의 한국 보수, 진단과 해법' 토론회 발언하는 이준석 개혁신당 대..."
+        },
+        {
+            "_id": "69814b2538b0cf409697780c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749625?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 기조발언을 하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728538",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "이준석 개혁신당 대표 발언 귀 기울이는 국민의힘 대안과미래"
+        },
+        {
+            "_id": "69814b2538b0cf4096977806",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749635?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 기조발언을 하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728529",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "이준석 대표의 한국 보수 진단은?"
+        },
+        {
+            "_id": "69814b2538b0cf4096977808",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749640?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 조은희 의원과 대화하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728524",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "MQU41854",
+                "QWL7778X"
+            ],
+            "title": "대화 나누는 이준석 대표와 조은희 국민의힘 의원"
+        },
+        {
+            "_id": "69814b2538b0cf409697780d",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749638?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표와 국민의힘 대안과미래 의원들이 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 손뼉을 치고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728526",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "국민의힘 대안과미래, 이준석 개혁신당 대표 초청 토론회"
+        },
+        {
+            "_id": "69814b2538b0cf4096977804",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749637?sid=100",
+            "created_at": "2026-02-03T10:10:59.511000",
+            "description": "이준석 개혁신당 대표가 3일 서울 여의도 국회 의원회관에서 열린 국민의힘 대안과미래 주최 '위기의 한국 보수에 대한 진단과 해법!' 토론회에서 기조발언을 하고 있다. 2026.2.3/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7728527",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T08:29:00",
+            "related_members": [
+                "QWL7778X"
+            ],
+            "title": "국힘 대안과미래 토론회 기조발언하는 이준석 개혁신당 대표"
+        },
+        {
+            "_id": "69814af138b0cf4096977749",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749456?sid=100",
+            "created_at": "2026-02-03T10:10:07.963000",
+            "description": "이 대표는 이날 오전 7시 30분 국회 의원회관에서 열리는 '위기의 한국 보수에 대한 진단과 해법'을 주제로 한... 앞서 대안과 미래 소속 일부 친한(한동훈)계 의원들은 장동혁 지도부 사퇴를 촉구했고, 김용태 의원은 지도부... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6059257",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T06:00:00",
+            "related_members": [
+                "EPI69383",
+                "KFM1081G",
+                "QWL7778X",
+                "EH27538E"
+            ],
+            "title": "이준석, '韓제명 내홍' 국힘 개혁파 초청 강연 참석 주목"
+        },
+        {
+            "_id": "69814b0038b0cf409697779a",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744607?sid=100",
+            "created_at": "2026-02-03T10:10:22.941000",
+            "description": "앞서 2일에는 새 인재영입위원장으로 재선의 조정훈 의원을 임명했다. 서울 마포를 지역구로 두고 있고, 세계은행(WB) 출신이라는 점에서 외연 확장의 적임자로 점찍은 것으로 보인다. 장 대표는 오는 4일 국회 교섭단체... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499705",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T05:00:00",
+            "related_members": [
+                "KFM1081G",
+                "NX534083",
+                "QWL7778X",
+                "WJL30106"
+            ],
+            "title": "장동혁 향해 '사퇴·재신임' 요구 이어져…소장파·이준석 회동도"
+        },
         {
             "_id": "697ff10a38b0cf4096977342",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107187&s_mcd=0214&s_hcd=01",
@@ -157,552 +560,6 @@
                 "KFM1081G"
             ],
             "title": "김용태 \"지선 출마 최고위원, 민주당처럼 사퇴해야... 한동훈, 국힘 돌아..."
-        },
-        {
-            "_id": "697ff10a38b0cf4096977344",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308973?sid=100",
-            "created_at": "2026-02-02T09:34:18.646000",
-            "description": "한 전 대표 지지자들은 지난 31일 국회 앞에서 대규모 집회를 열고 장동혁 대표를 비롯한 지도부의 사퇴를 요구하고 나섰고요. 의원들 역시 지도부의 결정을 비판하며 재고해야 한다는 목소리 나오고 있는데요. 관련해 당내... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202602020813337065",
-            "press": "YTN",
-            "pubDate": "2026-02-02T08:13:00",
-            "related_members": [
-                "EPI69383",
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "김용태 \"지선 출마 최고위원, 민주당처럼 사퇴해야... 한동훈, 국힘 돌아..."
-        },
-        {
-            "_id": "697ff11c38b0cf4096977372",
-            "link": "https://n.news.naver.com/mnews/article/020/0003694099?sid=100",
-            "created_at": "2026-02-02T09:34:36.600000",
-            "description": "박주민 의원과 2강으로 부상했다. 또 경기도지사 출마를 준비하는 한준호 의원은 지난달 이 대통령으로부터... 행정통합은 현역 의원들의 출마 여부에도 결정을 미치는 만큼 지선과 함께 치러지는 국회의원 재보선에도... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260202/133276603/2",
-            "press": "동아일보",
-            "pubDate": "2026-02-02T04:32:00",
-            "related_members": [
-                "BCQ55105",
-                "6AU2417B",
-                "BT62420K",
-                "QWL7778X",
-                "KFM1081G",
-                "2385336L"
-            ],
-            "title": "이광재 돌연 지선 불출마… 明心 실린 우상호 향해 “돕겠다”"
-        },
-        {
-            "_id": "697ff0f938b0cf4096977304",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308795?sid=100",
-            "created_at": "2026-02-02T09:34:00.936000",
-            "description": "특히 조국혁신당 같은 경우에는 무려 현역 국회의원이 12명입니다. 12명을 가지고 있는 사실 조국혁신당이... 그런데 지방선거를 앞두고 이런 변수를 가져가면서 어떻게 보면 한동훈과는 함께하지 못하면서 이준석의... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202602011638460129",
-            "press": "YTN",
-            "pubDate": "2026-02-01T16:38:00",
-            "related_members": [
-                "8P37634C",
-                "2385336L",
-                "MLH1404S",
-                "BCQ55105",
-                "BT62420K",
-                "QWL7778X"
-            ],
-            "title": "민주, 합당 진통...국민의힘, 한동훈 제명 후폭풍"
-        },
-        {
-            "_id": "697ff10a38b0cf4096977345",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308769?sid=100",
-            "created_at": "2026-02-02T09:34:18.646000",
-            "description": "경우 국회 본회의장에서 밀약이라든지 나눠먹기 등 이런 저열한 단어가 오가고 있는데 지방선거용 이합집산의 민낯이다, 이렇게 비난을 하기도 했어요. 이에 앞서서 조국혁신당의 황운하 의원 같은 경우는 민주앙과 합당... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202602011433345326",
-            "press": "YTN",
-            "pubDate": "2026-02-01T14:33:00",
-            "related_members": [
-                "EPI69383",
-                "NX534083",
-                "KFM1081G",
-                "AEJ19639",
-                "6EN68926",
-                "4019850M",
-                "80C5885Z",
-                "QWL7778X",
-                "0YT3774N"
-            ],
-            "title": "이 대통령 \"부동산 정상화, 5천P보다 쉽다\"...국힘 \"왜 못했나\""
-        },
-        {
-            "_id": "697ff0fa38b0cf409697730d",
-            "link": "https://n.news.naver.com/mnews/article/437/0000476238?sid=100",
-            "created_at": "2026-02-02T09:34:02.152000",
-            "description": "이 비공표 여론조사 등을 여러 이준석 정치인, 김종인 전 비대위원장 등에게 줬으니 이 사람들도 받아보는... [김용남/전 국회의원 : 만약에 여론조사를 명태균 씨가 윤석열, 김건희 부부에게 전혀 일언반구, 언질도 없이 한... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12282533?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-02-01T10:01:00",
-            "related_members": [
-                "MNZ4401T",
-                "TQP7167T",
-                "GDG1847Z",
-                "8X15119P",
-                "MSY7784L",
-                "DWK26447",
-                "QWL7778X"
-            ],
-            "title": "\"윤석열 부부, 58번을 돌렸다…이게 대가관계 없다고?\" [논/쟁]"
-        },
-        {
-            "_id": "697ff0fb38b0cf4096977311",
-            "link": "https://n.news.naver.com/mnews/article/028/0002789334?sid=100",
-            "created_at": "2026-02-02T09:34:03.085000",
-            "description": "진종오 한지아 수도권 당협위원장급 원외 인사 24명도 장동혁 대표 사퇴 요구에 가세했습니다. “장동혁 대표... 이준석 대표 권고대로 서울시장에 무소속으로 출마하거나, 국회의원 재·보궐선거에 출마하는 선택이... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1242683.html",
-            "press": "한겨레",
-            "pubDate": "2026-02-01T08:50:00",
-            "related_members": [
-                "Q918403D",
-                "L7J93733",
-                "HS39431V",
-                "QDU1100U",
-                "8XE7026P",
-                "CGW7415Z",
-                "4019850M",
-                "PYA8594I",
-                "TQP7167T",
-                "KFM1081G",
-                "8UC4779G",
-                "QWL7778X",
-                "AEJ19639",
-                "KBK8836C",
-                "1SR94244",
-                "EPI69383",
-                "JEZ3130Q",
-                "6RD62559",
-                "8348421R",
-                "RMC1840P",
-                "CNW5754J",
-                "QQP4727N",
-                "LYY5513O",
-                "57B28032",
-                "86R9476S",
-                "9D939735",
-                "4X525582",
-                "CNZ51556",
-                "WXJ8352N",
-                "MQU41854",
-                "SLW27496",
-                "MSY7784L"
-            ],
-            "title": "‘국힘 허수아비’ 장동혁…정치 경험보다 더 부족한 두 가지"
-        },
-        {
-            "_id": "697ff13d38b0cf40969773a5",
-            "link": "https://n.news.naver.com/mnews/article/056/0012116455?sid=102",
-            "created_at": "2026-02-02T09:35:09.883000",
-            "description": "명 씨가 평소 ‘빵선 국회의원 이준석을 당대표로 만들고, 빵선 대통령 윤석열도 당선시켰으며, 10년 백수인 오세훈도 서울시장 만들었다’, ‘오세훈, 이준석을 하나하나 가르쳐 가면서 만들었다'고 말하고 다녔다는... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474270&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-02-01T06:02:00",
-            "related_members": [
-                "QWL7778X",
-                "TQP7167T"
-            ],
-            "title": "“쌍X”가 만든 김건희 무죄…그러나 목걸이가 남았다 [피고인 윤석열]..."
-        },
-        {
-            "_id": "697ff13d38b0cf40969773a6",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308459?sid=100",
-            "created_at": "2026-02-02T09:35:09.883000",
-            "description": "국민의힘 장동혁 대표와 개혁신당 이준석 대표 등 보수 인사들도 빈소를 방문해 진영을 떠나 추모와 애도의 뜻을 표하고 유가족을 위로했습니다. 지금까지 국회 의원회관 앞에서 YTN 윤웅성입니다.",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601311007518039",
-            "press": "YTN",
-            "pubDate": "2026-01-31T10:07:00",
-            "related_members": [
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "고 이해찬 전 총리 영결식 엄수...이 대통령도 참석"
-        },
-        {
-            "_id": "697ff13d38b0cf40969773a7",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308442?sid=100",
-            "created_at": "2026-02-02T09:35:09.883000",
-            "description": "국민의힘 장동혁 대표와 개혁신당 이준석 대표 등 보수 인사들도 빈소를 방문해 진영을 떠나 추모와 애도의 뜻을 표하고 유가족을 위로했습니다. 지금까지 국회 의원회관 앞에서 YTN 윤웅성입니다.",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601310839280553",
-            "press": "YTN",
-            "pubDate": "2026-01-31T08:39:00",
-            "related_members": [
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "고 이해찬 전 총리 영결식 엄수...이 시각 국회"
-        },
-        {
-            "_id": "697ff11138b0cf409697735d",
-            "link": "https://n.news.naver.com/mnews/article/079/0004110962?sid=100",
-            "created_at": "2026-02-02T09:34:24.970000",
-            "description": "내에서 황운하 의원의 그런 발언이 민주당 내부 갈등에 더 어떻게 보면 기름을 끼얹고, ◇ 박재홍&gt; 그러니까... 그러니까 그런 게 과연 얼마나 되는지 정말 그게 도움이 되는지 확인하는 과정이 있어야 저희 국회의원이나... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6464797?utm_source=naver&utm_medium=article&utm_campaign=20260131083020",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-31T08:31:00",
-            "related_members": [
-                "NUB4941Z",
-                "BT62420K",
-                "WTR5885Y",
-                "QWL7778X",
-                "0YT3774N"
-            ],
-            "title": "김한규 \"합당, 이해찬 추모 뒤 조용하진 않을 듯\"[한판승부]"
-        },
-        {
-            "_id": "697ff10a38b0cf4096977346",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308441?sid=100",
-            "created_at": "2026-02-02T09:34:18.646000",
-            "description": "노제에 이어 국회에서 영결식까지 이어질 예정입니다. 7선 의원에 총리 그리고 당 대표까지 지낸 '민주화 거목... 한다는 황운하 의원의 돌발 발언도 있었고요. 그리고 조국혁신당 서왕진 원내대표는 여권에서 근거 없는... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601310831358677",
-            "press": "YTN",
-            "pubDate": "2026-01-31T08:31:00",
-            "related_members": [
-                "EPI69383",
-                "SLW27496",
-                "QWL7778X",
-                "0YT3774N",
-                "80C5885Z"
-            ],
-            "title": "이해찬 빈소서 여야 대표 '악수'...오늘 국회 영결식"
-        },
-        {
-            "_id": "697ff10238b0cf409697731e",
-            "link": "https://n.news.naver.com/mnews/article/011/0004585119?sid=100",
-            "created_at": "2026-02-02T09:34:10.265000",
-            "description": "윤 의원 외에 국회 부의장인 주호영(6선) 의원과 원내대표를 지낸 추경호(3선) 의원이 대구시장 출마를 선언한 상태다. 초선인 유영하·최은석 의원도 출마한다. 이곳은 홍준표 전 시장이 사임해 현역 경쟁자가 없는 데다... ",
-            "originallink": "https://www.sedaily.com/article/20003094?ref=naver",
-            "press": "서울경제",
-            "pubDate": "2026-01-31T08:00:00",
-            "related_members": [
-                "8SV6917G",
-                "G152611B",
-                "SLW27496",
-                "LH97552Q",
-                "EPI69383",
-                "DMP1439I",
-                "JZV5283U",
-                "UF53617M",
-                "ZRF3039U",
-                "QWL7778X",
-                "CGW7415Z"
-            ],
-            "title": "‘張·韓 갈등’에도 뒷짐 진 중진들...단일대오 ‘공든 탑’ 무너지나"
-        },
-        {
-            "_id": "697ff13e38b0cf40969773a8",
-            "link": "https://n.news.naver.com/mnews/article/022/0004102018?sid=102",
-            "created_at": "2026-02-02T09:35:09.884000",
-            "description": "재판부는 “명씨는 ‘빵(0)선 국회의원 이준석을 당대표로 만들고, 빵선 대통령 윤석열도 당선시켰으며, 10년 백수인 오세훈도 서울시장 만들었다’고 말하는 등 능력에 대한 과장이 심하고 다소 망상적인 사람으로... ",
-            "originallink": "https://www.segye.com/newsView/20260130516246?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-31T06:03:00",
-            "related_members": [
-                "QWL7778X"
-            ],
-            "title": "“명태균, 과장 심하고 망상적” 법원 판단… 오세훈 재판 영향 주목"
-        },
-        {
-            "_id": "697ff13e38b0cf40969773a9",
-            "link": "https://n.news.naver.com/mnews/article/421/0008745544?sid=100",
-            "created_at": "2026-02-02T09:35:09.884000",
-            "description": "더불어민주당은 이날 오전 9시 국회의원회관 대회의실에서 '고 이해찬 제36대 국무총리 사회장 영결식'을... 대표, 이준석 개혁신당 대표 등 각계각층의 조문 발걸음이 이어졌다. 장례식은 '고 이해찬 제36대 국무총리... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6056810",
-            "press": "뉴스1",
-            "pubDate": "2026-01-31T05:10:00",
-            "related_members": [
-                "QWL7778X"
-            ],
-            "title": "이해찬 전 총리 영결식 오늘 국회서 엄수…세종서 '영면'"
-        },
-        {
-            "_id": "697ff12838b0cf409697737e",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693864?sid=100",
-            "created_at": "2026-02-02T09:34:48.014000",
-            "description": "개혁신당 이준석 대표와 오세훈 서울시장도 이날 오후 빈소를 찾아 고인을 추모했다. 이 전 총리의 기관... 여의도 국회 의원회관에서 엄수된다. 영결식에선 김민석 국무총리와 정 대표가 추도사를 낭독한다. 영결식 후 이... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133269867/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-31T01:42:00",
-            "related_members": [
-                "2385336L",
-                "KFM1081G",
-                "6EN68926",
-                "MLH1404S",
-                "QWL7778X"
-            ],
-            "title": "이해찬 빈소서 손 맞잡은 정청래-장동혁"
-        },
-        {
-            "_id": "697cbd2838b0cf4096976b1d",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=107164&s_mcd=0263&s_hcd=01",
-            "created_at": "2026-01-30T23:16:08.228000",
-            "description": "◇ 김준우 : 진짜 국회의원들은 2년 선거 남았으니까 상관없는데 코앞에 닥친 서울 선거를 앞둔 오세훈... 추경호 주호영 유영아 뭐 이런 분들 이진숙 뭐 이런 분들보다 ☆ 서정욱 : 돈을 5조를 준다 이러니까 통합하려고... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107164&s_mcd=0263&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-30T20:30:00",
-            "related_members": [
-                "EPI69383",
-                "SLW27496",
-                "AEJ19639",
-                "4019850M",
-                "4X525582",
-                "KFM1081G",
-                "8UC4779G",
-                "ZRF3039U",
-                "JZV5283U",
-                "8SV6917G",
-                "QWL7778X",
-                "G152611B"
-            ],
-            "title": "서정욱 \"한동훈 출마? 이진숙이란 훌륭한 자객 있어...韓, DJ처럼 유학 떠..."
-        },
-        {
-            "_id": "697cbd2838b0cf4096976b1e",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308287?sid=100",
-            "created_at": "2026-01-30T23:16:08.228000",
-            "description": "◇ 김준우 : 진짜 국회의원들은 2년 선거 남았으니까 상관없는데 코앞에 닥친 서울 선거를 앞둔 오세훈... 추경호 주호영 유영아 뭐 이런 분들 이진숙 뭐 이런 분들보다 ☆ 서정욱 : 돈을 5조를 준다 이러니까 통합하려고... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601301906064303",
-            "press": "YTN",
-            "pubDate": "2026-01-30T19:06:00",
-            "related_members": [
-                "EPI69383",
-                "SLW27496",
-                "AEJ19639",
-                "4019850M",
-                "4X525582",
-                "KFM1081G",
-                "8UC4779G",
-                "ZRF3039U",
-                "JZV5283U",
-                "8SV6917G",
-                "QWL7778X",
-                "G152611B"
-            ],
-            "title": "서정욱 \"한동훈 출마? 이진숙이란 훌륭한 자객 있어...韓, DJ처럼 유학 떠..."
-        },
-        {
-            "_id": "697cbd1a38b0cf4096976a51",
-            "link": "https://n.news.naver.com/mnews/article/437/0000476111?sid=100",
-            "created_at": "2026-01-30T23:15:54.650000",
-            "description": "금요일 '맞수토론', 전용기 더불어민주당 원내소통수석부대표, 윤희석 전 국민의힘 선임대변인 두 분과... 107명의 국회의원 음해해도 놔두시겠습니까?] [조광한/국민의힘 최고위원 (어제) : 우리 당의 미래를 위해 악성... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12282654?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-30T18:41:00",
-            "related_members": [
-                "HS39431V",
-                "KFM1081G",
-                "EPI69383",
-                "6EN68926",
-                "TQP7167T",
-                "4019850M",
-                "AEJ19639",
-                "8UC4779G",
-                "QWL7778X",
-                "TJW93720"
-            ],
-            "title": "[맞수토론] '컴백' 예고한 한동훈…가처분 신청? 무소속 출마?"
-        },
-        {
-            "_id": "697cbd2038b0cf4096976ac5",
-            "link": "https://n.news.naver.com/mnews/article/011/0004585011?sid=100",
-            "created_at": "2026-01-30T23:16:00.254000",
-            "description": "윤 의원 외에 국회 부의장인 주호영(6선) 의원과 원내대표를 지낸 추경호(3선) 의원이 대구시장 출마를 선언한 상태다. 초선인 유영하·최은석 의원도 출마한다. 이곳은 홍준표 전 시장이 사임해 현역 경쟁자가 없는 데다... ",
-            "originallink": "https://www.sedaily.com/article/20003029?ref=naver",
-            "press": "서울경제",
-            "pubDate": "2026-01-30T17:58:00",
-            "related_members": [
-                "G152611B",
-                "LH97552Q",
-                "8SV6917G",
-                "SLW27496",
-                "EPI69383",
-                "DMP1439I",
-                "JZV5283U",
-                "UF53617M",
-                "ZRF3039U",
-                "QWL7778X",
-                "KFM1081G",
-                "CGW7415Z"
-            ],
-            "title": "당 쪼개지는데 중진 ‘대구 출마’ 러시…각자도생 국힘의 민낯"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ada",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693806?sid=100",
-            "created_at": "2026-01-30T23:16:01.469000",
-            "description": "개혁신당 이준석 대표와 오세훈 서울시장도 이날 오후 빈소를 찾아 고인을 추모했다. 이 전 총리의 기관... 여의도 국회 의원회관에서 엄수된다. 영결식에선 김민석 국무총리와 정 대표가 추도사를 낭독한다. 영결식 후 이... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133266614/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-30T17:08:00",
-            "related_members": [
-                "MLH1404S",
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "故이해찬 빈소서 만난 여야 대표… “좋은 정치 하자”며 악수"
-        },
-        {
-            "_id": "697cbd2838b0cf4096976b1f",
-            "link": "https://n.news.naver.com/mnews/article/009/0005629953?sid=100",
-            "created_at": "2026-01-30T23:16:08.228000",
-            "description": "이 대표는 앞서 이 전 총리의 사망 소식을 접하고 “7선 국회의원과 국무총리를 역임하시며 오랜 세월... 정성국 의원도 “저는 당장 의총 (소집을) 요구할 생각”이라며 “의원들의 생각을 들어야 한다”고 말했다. 한편 이... ",
-            "originallink": "https://www.mk.co.kr/article/11948508",
-            "press": "매일경제",
-            "pubDate": "2026-01-30T16:13:00",
-            "related_members": [
-                "2385336L",
-                "EPI69383",
-                "KFM1081G",
-                "6EN68926",
-                "4019850M",
-                "AEJ19639",
-                "QWL7778X",
-                "CGW7415Z"
-            ],
-            "title": "상주 정청래, 문상 온 장동혁과 덕담…이해찬 유산은 ‘화합’이었다"
-        },
-        {
-            "_id": "697cbd1938b0cf4096976a31",
-            "link": "https://n.news.naver.com/mnews/article/056/0012115885?sid=100",
-            "created_at": "2026-01-30T23:15:53.689000",
-            "description": "국무위원과 국회의원 간에 서로 소통한 문자를 보면 지금 굉장히 내부가 심상치 않다는 생각이 들 정도로, 또... &lt;녹취&gt; 신동욱 / 국민의힘 수석최고위원 (어제) 도이치모터스 (주가조작) 사건에 대해서는 정말 대단한... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473510&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-30T15:59:00",
-            "related_members": [
-                "MNZ4401T",
-                "MLH1404S",
-                "2385336L",
-                "EPI69383",
-                "AEJ19639",
-                "4019850M",
-                "OWD1018N",
-                "QWL7778X",
-                "KFM1081G"
-            ],
-            "title": "[사사건건] “깐부에 같이 깨방정도 떨던 사이였는데…”"
-        },
-        {
-            "_id": "697cbd3b38b0cf4096976bbb",
-            "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23679&Newsnumb=20260123679",
-            "created_at": "2026-01-30T23:16:27.416000",
-            "description": "박충권 국민의힘 의원이 ‘온라인 댓글 국적 표기제’를 대표 발의했다. 국민의힘 소속 국회의원 10명과 이준석 개혁신당 대표는 30일 정보통신망법 일부개정안을 발의, 현행법 제44조의27 조항에 일일 평규 접속자 수와... ",
-            "originallink": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=23679&Newsnumb=20260123679",
-            "press": "조선일보",
-            "pubDate": "2026-01-30T15:54:00",
-            "related_members": [
-                "QWL7778X",
-                "GP21946O"
-            ],
-            "title": "국민의힘 ‘댓글 국적 표기제’ 발의 | 박충권 대표발의, 이준석도 이름..."
-        },
-        {
-            "_id": "697cbd4438b0cf4096976bff",
-            "link": "https://n.news.naver.com/mnews/article/421/0008745037?sid=100",
-            "created_at": "2026-01-30T23:16:36.498000",
-            "description": "조문단에는 정점식 정책위의장과 유상범 원내운영수석부대표, 신동욱·양향자 최고위원 등이 함께했다. 장... 이 전 총리의 영결식은 오는 31일 오전 9시 서울 여의도 국회의원회관 대회의실에서 '고 이해찬 제36대... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6057000",
-            "press": "뉴스1",
-            "pubDate": "2026-01-30T15:47:00",
-            "related_members": [
-                "CNW5754J",
-                "KFM1081G",
-                "6EN68926",
-                "LJK4960Z",
-                "MU69217P",
-                "OWD1018N",
-                "QWL7778X",
-                "2385336L"
-            ],
-            "title": "이해찬 전 총리 장례 나흘 차…장동혁 등 국힘 지도부 조문"
-        },
-        {
-            "_id": "697cbd1f38b0cf4096976aaf",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328954?sid=100",
-            "created_at": "2026-01-30T23:15:59.029000",
-            "description": "오늘은 한민수 더불어민주당 국회의원, 김소희 국민의힘 국회의원과 함께하겠습니다. 두 분 어서 오세요. (안녕하세요) ▷ 편상욱 / 앵커 : 국민의힘에서는 한동훈 전 대표 제명에 따른 후폭풍이 거세게 일고 있습니다.... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008424731&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-30T15:22:00",
-            "related_members": [
-                "X7I4680R",
-                "QWL7778X",
-                "1SR94244",
-                "EPI69383",
-                "6EN68926",
-                "8JG4358H"
-            ],
-            "title": "[단독] '대안과미래' 김소희, 장예찬·박민영 콕 집어 인적 쇄신 요구 (..."
-        },
-        {
-            "_id": "697cbd2138b0cf4096976aca",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328952?sid=100",
-            "created_at": "2026-01-30T23:16:00.824000",
-            "description": "통합하는 측면에서 여러 가지 지원할 부분들은 지원할 생각입니다. ▷ 편상욱 / 앵커 : 알겠습니다. 오늘 말씀 여기까지 듣죠. 임이자 국민의힘 국회의원, 재경경제위원장이었습니다. 말씀 잘 들었습니다. (SBS 디지털뉴스부)",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008424735&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-30T15:07:00",
-            "related_members": [
-                "EH27538E",
-                "86R9476S",
-                "KFM1081G",
-                "QWL7778X"
-            ],
-            "title": "임이자 \"장동혁 사퇴 요구, 근거가 뭔가\"…오세훈 직격 [인터뷰]"
-        },
-        {
-            "_id": "697cbd5938b0cf4096976cb3",
-            "link": "https://n.news.naver.com/mnews/article/421/0008744563?sid=100",
-            "created_at": "2026-01-30T23:16:57.672000",
-            "description": "이준석 개혁신당 대표는 30일 이해찬 전 국무총리(민주평화통일자문회의 수석부의장·더불어민주당... 이 대표는 또 이 전 총리의 사망 소식을 접하고 \"7선 국회의원과 국무총리를 역임하시며 오랜 세월 대한민국 정치... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6056751",
-            "press": "뉴스1",
-            "pubDate": "2026-01-30T13:49:00",
-            "related_members": [
-                "QWL7778X"
-            ],
-            "title": "이준석, 이해찬 총리 빈소 조문…여야 아우른 추모 발길"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976adc",
-            "link": "https://n.news.naver.com/mnews/article/052/0002308047?sid=100",
-            "created_at": "2026-01-30T23:16:01.469000",
-            "description": "지역의 국회의원으로 나가야 된다. 그래야지 앞으로 중앙 정치를 하는 것이지, 예를 들면 단체장으로... 그리고 계속해서 국민의힘에서 비판적인 목소리를 많이 냈던 부분인데 민주당 장경태, 최민희 의원 징계 여부... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601301230552832",
-            "press": "YTN",
-            "pubDate": "2026-01-30T12:30:00",
-            "related_members": [
-                "MLH1404S",
-                "EPI69383",
-                "AEJ19639",
-                "4019850M",
-                "6EN68926",
-                "QWL7778X",
-                "TJW93720",
-                "RPN2293B",
-                "YS38221N",
-                "9YO73104",
-                "2385336L"
-            ],
-            "title": "[시사정각] 국민의힘 한동훈 제명... \"반드시 돌아오겠다\""
-        },
-        {
-            "_id": "697cbd2138b0cf4096976acd",
-            "link": "https://n.news.naver.com/mnews/article/056/0012115690?sid=100",
-            "created_at": "2026-01-30T23:16:00.824000",
-            "description": "▷ 소현정 : 국회의원 보궐선거 쪽으로? ▶ 정성국 : 왜냐하면 원내로 들어오면 일단은 동료 의원들과의 접촉이나 이런 것들이 자연스럽게 많이 늘어나기 때문에 지금 한 대표의 좀 어려운 점은 원내에 있는 의원들과 소통을... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473260&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-30T10:45:00",
-            "related_members": [
-                "QWL7778X",
-                "CGW7415Z",
-                "86R9476S"
-            ],
-            "title": "[전격시사] 정성국 국민의힘 의원 - “(한동훈 제명) “가처분 검토…지..."
         }
     ],
     "recent_videos": [
@@ -927,5 +784,295 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-02-02T09:57:29.894131"
+    "recent_bills": [
+        {
+            "BILL_ID": "PRC_F2F5D0A7A1Y6Z1X0Y3W1X2F6F0D7C7",
+            "BILL_NO": "2212253",
+            "BILL_NAME": "소득세법 일부개정법률안",
+            "COMMITTEE": "재정경제기획위원회",
+            "PROPOSE_DT": "2025-08-19",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2F5D0A7A1Y6Z1X0Y3W1X2F6F0D7C7&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_F2F5D0A7A1Y6Z1X0Y3W1X2F6F0D7C7",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-11-12",
+            "COMMITTEE_DT": "2025-08-20",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700590",
+            "PUBL_PROPOSER": "천하람,이주영,김용태,김재섭,이종배,김대식,조정훈,김도읍,최형두",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_I2J5H0I6G2H7F1F7O4M1M5L4L2K5K9",
+            "BILL_NO": "2211406",
+            "BILL_NAME": "국가과학기술 경쟁력 강화를 위한 이공계지원 특별법 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-07-10",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2J5H0I6G2H7F1F7O4M1M5L4L2K5K9&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_I2J5H0I6G2H7F1F7O4M1M5L4L2K5K9",
+            "LAW_PROC_DT": "2025-12-03",
+            "LAW_PRESENT_DT": "2025-12-03",
+            "LAW_SUBMIT_DT": "2025-11-24",
+            "CMT_PROC_RESULT_CD": "원안가결",
+            "CMT_PROC_DT": "2025-11-24",
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-07-11",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "천하람,이주영,김대식,김용태,이종배,모경종,최형두,조인철,김상욱",
+            "LAW_PROC_RESULT_CD": "원안가결",
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_L2J5K0I6H2I7Q1O7P4N0O5M3M3U0T6",
+            "BILL_NO": "2211405",
+            "BILL_NAME": "교원의 지위 향상 및 교육활동 보호를 위한 특별법 일부개정법률안",
+            "COMMITTEE": "교육위원회",
+            "PROPOSE_DT": "2025-07-10",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2J5K0I6H2I7Q1O7P4N0O5M3M3U0T6&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_L2J5K0I6H2I7Q1O7P4N0O5M3M3U0T6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-09-23",
+            "COMMITTEE_DT": "2025-07-11",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700512",
+            "PUBL_PROPOSER": "천하람,이주영,우재준,김대식,김용태,이종배,최형두,주호영,김상욱",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_A2H4G0H9F1F2D0E9M1M0L0M0K6K0J0",
+            "BILL_NO": "2210693",
+            "BILL_NAME": "노인복지법 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2025-06-10",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2H4G0H9F1F2D0E9M1M0L0M0K6K0J0&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_A2H4G0H9F1F2D0E9M1M0L0M0K6K0J0",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-18",
+            "COMMITTEE_DT": "2025-06-11",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "천하람,우재준,이주영,최은석,김상욱,이종배,김도읍,최형두,김재섭",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_T2R5Q0R3P0P4Y1Y1W1X1V3U4U5C3C8",
+            "BILL_NO": "2209002",
+            "BILL_NAME": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2025-03-17",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5Q0R3P0P4Y1Y1W1X1V3U4U5C3C8&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_T2R5Q0R3P0P4Y1Y1W1X1V3U4U5C3C8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-03-18",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "천하람,이주영,우재준,김용태,김상욱,서명옥,김재섭,김대식,윤재옥",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_Q2R5P0Q3O1P0W0X9V5U6V1T1T7B2C9",
+            "BILL_NO": "2208804",
+            "BILL_NAME": "고위공직자범죄수사처 설치 및 운영에 관한 법률 폐지법률안",
+            "COMMITTEE": "법제사법위원회",
+            "PROPOSE_DT": "2025-03-11",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2R5P0Q3O1P0W0X9V5U6V1T1T7B2C9&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 12인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_Q2R5P0Q3O1P0W0X9V5U6V1T1T7B2C9",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2025-03-12",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700006",
+            "PUBL_PROPOSER": "천하람,이주영,김상훈,서범수,최형두,김용태,윤상현,박성민,김상욱,강대식,박준태",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_Z2Y4W1F0D2C8B1E4M2L4J1I5J8R0Q1",
+            "BILL_NO": "2206061",
+            "BILL_NAME": "민간임대주택에 관한 특별법 일부개정법률안",
+            "COMMITTEE": "국토교통위원회",
+            "PROPOSE_DT": "2024-11-29",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y4W1F0D2C8B1E4M2L4J1I5J8R0Q1&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_Z2Y4W1F0D2C8B1E4M2L4J1I5J8R0Q1",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-18",
+            "COMMITTEE_DT": "2024-12-02",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700407",
+            "PUBL_PROPOSER": "천하람,이주영,김상훈,주호영,우재준,모경종,김용태,김도읍,장경태",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_X2V4W1D1F1D1D1B4A2B1W4X2V7W3V5",
+            "BILL_NO": "2206052",
+            "BILL_NAME": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-11-29",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2V4W1D1F1D1D1B4A2B1W4X2V7W3V5&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_X2V4W1D1F1D1D1B4A2B1W4X2V7W3V5",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-18",
+            "COMMITTEE_DT": "2024-12-02",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "이주영,천하람,김상훈,김건,주호영,우재준,모경종,김용태,장경태",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_F2E4C1Y0X3Y1W1V6D4C3C1B1Z9I6G5",
+            "BILL_NO": "2205472",
+            "BILL_NAME": "지방교육자치에 관한 법률 일부개정법률안",
+            "COMMITTEE": "교육위원회",
+            "PROPOSE_DT": "2024-11-12",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E4C1Y0X3Y1W1V6D4C3C1B1Z9I6G5&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_F2E4C1Y0X3Y1W1V6D4C3C1B1Z9I6G5",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-08-27",
+            "CMT_PRESENT_DT": "2024-12-18",
+            "COMMITTEE_DT": "2024-11-13",
+            "PROC_DT": "2025-10-26",
+            "COMMITTEE_ID": "9700512",
+            "PUBL_PROPOSER": "천하람,이주영,김용태,장경태,윤상현,유용원,모경종,김건,이인선",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_O2P4N0O9W1W9V1T1T0S5T4A9B7A6Y2",
+            "BILL_NO": "2205345",
+            "BILL_NAME": "동물보호법 일부개정법률안",
+            "COMMITTEE": "농림축산식품해양수산위원회",
+            "PROPOSE_DT": "2024-11-07",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2P4N0O9W1W9V1T1T0S5T4A9B7A6Y2&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_O2P4N0O9W1W9V1T1T0S5T4A9B7A6Y2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-12-13",
+            "COMMITTEE_DT": "2024-11-08",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700408",
+            "PUBL_PROPOSER": "천하람,이주영,이인선,최은석,김태선,김용태,장경태,윤상현,모경종",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_C2L4L0J7K0I2H1H1D0E0C1B0B3Z6A8",
+            "BILL_NO": "2201636",
+            "BILL_NAME": "외국인근로자의 고용 등에 관한 법률 일부개정법률안",
+            "COMMITTEE": "기후에너지환경노동위원회",
+            "PROPOSE_DT": "2024-07-11",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2L4L0J7K0I2H1H1D0E0C1B0B3Z6A8&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2L4L0J7K0I2H1H1D0E0C1B0B3Z6A8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-09-09",
+            "COMMITTEE_DT": "2024-07-12",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700585",
+            "PUBL_PROPOSER": "조인철,김기현,신장식,천하람,이주영,우재준,김현,모경종,김상훈",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        },
+        {
+            "BILL_ID": "PRC_Q2O4N0M6N2V4U1S1Q4Z2C0A1Z2X2Y6",
+            "BILL_NO": "2201247",
+            "BILL_NAME": "공직선거법 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2024-07-01",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O4N0M6N2V4U1S1Q4Z2C0A1Z2X2Y6&ageFrom=22&ageTo=22",
+            "PROPOSER": "이준석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_Q2O4N0M6N2V4U1S1Q4Z2C0A1Z2X2Y6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-11-20",
+            "COMMITTEE_DT": "2024-07-02",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "송옥주,천하람,이주영,장경태,모경종,서범수,우재준,김용태,윤상현",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이준석"
+        }
+    ],
+    "exported_at": "2026-02-03T14:51:26.429615"
 }

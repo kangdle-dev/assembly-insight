@@ -64,19 +64,19 @@
         "keywords": [
             "통일교",
             "징역",
-            "선고",
             "수수",
+            "선고",
             "국민",
-            "혐의",
-            "윤영",
-            "특검",
             "김건",
+            "항소",
+            "혐의",
+            "구속",
             "제명",
-            "1심",
-            "수사",
-            "금품",
-            "자금",
-            "유죄"
+            "특검",
+            "의혹",
+            "체포",
+            "재판부",
+            "금품"
         ],
         "keyword_frequency": [
             {
@@ -85,89 +85,242 @@
             },
             {
                 "text": "징역",
-                "value": 49
-            },
-            {
-                "text": "선고",
-                "value": 29
+                "value": 44
             },
             {
                 "text": "수수",
-                "value": 27
+                "value": 29
+            },
+            {
+                "text": "선고",
+                "value": 23
             },
             {
                 "text": "국민",
                 "value": 20
             },
             {
-                "text": "혐의",
-                "value": 19
-            },
-            {
-                "text": "윤영",
-                "value": 16
-            },
-            {
-                "text": "특검",
-                "value": 15
-            },
-            {
                 "text": "김건",
-                "value": 15
+                "value": 18
+            },
+            {
+                "text": "항소",
+                "value": 18
+            },
+            {
+                "text": "혐의",
+                "value": 17
+            },
+            {
+                "text": "구속",
+                "value": 13
             },
             {
                 "text": "제명",
                 "value": 12
             },
             {
-                "text": "1심",
-                "value": 12
+                "text": "특검",
+                "value": 11
             },
             {
-                "text": "수사",
-                "value": 11
+                "text": "의혹",
+                "value": 10
+            },
+            {
+                "text": "체포",
+                "value": 10
+            },
+            {
+                "text": "재판부",
+                "value": 10
             },
             {
                 "text": "금품",
                 "value": 10
-            },
-            {
-                "text": "자금",
-                "value": 10
-            },
-            {
-                "text": "유죄",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-02T09:56:58.493992",
+        "last_analyzed_at": "2026-02-03T14:50:41.691172",
         "trend_news": {
             "labels": [
-                "01-27",
                 "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
-                "02-02"
+                "02-02",
+                "02-03"
             ],
             "data": [
-                1,
-                4,
-                18,
+                0,
+                13,
                 5,
                 0,
                 2,
-                0
+                6,
+                4
             ]
+        },
+        "ai_policy_summary": "\"권성동 의원은 주로 공정 거래 및 금융 관련 법안에 집중하며, 개혁가적 입법 활동을 통해 경제적 안정성과 소비자 보호를 개선하는 데 주력하고 있습니다. 특히 독점규제 및 공정거래와 관련된 법안들을 통해 국민의 실생활과 직결된 공정한 시장 환경을 만들어내는 행보를 보입니다.\"",
+        "policy_stats": {
+            "passed": 0,
+            "reflected": 3,
+            "pending": 17,
+            "failed": 0,
+            "total": 20,
+            "achievement_rate": 15.0
         }
     },
     "recent_news": [
         {
+            "_id": "69814ae238b0cf40969776e6",
+            "link": "https://n.news.naver.com/mnews/article/003/0013745072?sid=102",
+            "created_at": "2026-02-03T10:09:52.897000",
+            "description": "현역 의원은 국회의원의 불체포특권을 명시한 헌법 44조에 따라 회기 중에는 국회 동의 없이 체포·구금되지... 실제로 지난 2024 12·3 비상계엄 선포 당시 국민의힘 원내대표였던 추경호 의원은 불체포특권을 포기해 구속... ",
+            "originallink": "https://www.newsis.com/view/NISX20260203_0003500199",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T09:56:00",
+            "related_members": [
+                "MNZ4401T",
+                "5N65159P",
+                "GDG1847Z",
+                "G152611B"
+            ],
+            "title": "'공천헌금 의혹' 강선우 2주 만에 재출석…\"조사에 충실할 것\""
+        },
+        {
+            "_id": "69814ae538b0cf4096977702",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309523?sid=102",
+            "created_at": "2026-02-03T10:09:55.382000",
+            "description": "당연히 권성동 의원 측에서는 항소를 진행할 수밖에 없는데. 징역 2년이 그대로 확정되면 국회의원 신분도 당연히 의원직을 상실하게 되는 형이라고 볼 수 있고요. 향후 10년간 피선거권이 박탈되는 중형이라고 볼 수... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202602030840195673",
+            "press": "YTN",
+            "pubDate": "2026-02-03T08:40:00",
+            "related_members": [
+                "GDG1847Z",
+                "TQP7167T"
+            ],
+            "title": "[뉴스UP] \"목걸이는 배달 사고\"...김건희, 1심 불복해 항소"
+        },
+        {
+            "_id": "69814ae538b0cf4096977703",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111628?sid=103",
+            "created_at": "2026-02-03T10:09:55.382000",
+            "description": "이 보고서는 당시 신천지 요한지파장 최모씨가 고동안 총무의 비리 의혹을 조사해 이만희 교주에게... 국회의원 고액 후원자명단(docs.openwatch.kr)을 살펴보면 배모씨는 지난 2024년 3월15일자로 국민의힘 권성동 의원에게... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465756?utm_source=naver&utm_medium=article&utm_campaign=20260203070256",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-03T06:04:00",
+            "related_members": [
+                "GDG1847Z",
+                "OSV9142K"
+            ],
+            "title": "[단독]신천지 2인자 '금고지기' 더 있다…'성남파' 금고지기 3인방 폭로"
+        },
+        {
+            "_id": "69814ae238b0cf40969776ec",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744660?sid=102",
+            "created_at": "2026-02-03T10:09:52.897000",
+            "description": "현역 의원은 국회의원의 불체포특권을 명시한 헌법 44조에 따라 회기 중에는 국회 동의 없이 체포·구금되지... 실제로 지난 2024 12·3 비상계엄 선포 당시 국민의힘 원내대표였던 추경호 의원은 불체포특권을 포기해 구속... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499409",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T06:00:00",
+            "related_members": [
+                "MNZ4401T",
+                "GDG1847Z",
+                "G152611B"
+            ],
+            "title": "경찰, 강선우 구속영장 신청 검토…불체포특권 '변수'"
+        },
+        {
+            "_id": "69814ae538b0cf4096977704",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789621?sid=110",
+            "created_at": "2026-02-03T10:09:55.383000",
+            "description": "‘돌아오는’ 가장 빠른 길은 오는 6월3일 지방선거와 함께 치러지는 국회의원 보궐선거 출마다. 그런데... 대구시장 출마를 노리는 추경호 의원(달성군) 또는 주호영 의원(수성구 갑) 지역구를 염두에 둔 것이다. 김부겸 전... ",
+            "originallink": "https://www.hani.co.kr/arti/opinion/column/1242980.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-02T18:32:00",
+            "related_members": [
+                "GDG1847Z",
+                "8BF5855P",
+                "8SV6917G",
+                "MSY7784L",
+                "9YO73104",
+                "G152611B"
+            ],
+            "title": "한동훈이 보수의 미래인가? [권태호 칼럼]"
+        },
+        {
+            "_id": "69814ae538b0cf4096977705",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309243?sid=102",
+            "created_at": "2026-02-03T10:09:55.383000",
+            "description": "김건희 씨와 같은 날 선고가 있었던 권성동 의원도 항소를 제기했죠. [기자] 네, 국민의힘 권성동 의원 측은... 앞서 재판부는 권 의원이 국회의원의 청렴 의무를 저버리고 통일교 측으로부터 교단 지원 청탁과 함께 1억... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0103_202602021556052830",
+            "press": "YTN",
+            "pubDate": "2026-02-02T15:56:00",
+            "related_members": [
+                "GDG1847Z",
+                "TQP7167T"
+            ],
+            "title": "'징역 1년 8개월' 김건희 측 항소...2심 수 싸움 예고"
+        },
+        {
+            "_id": "69814ae538b0cf4096977706",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111447?sid=102",
+            "created_at": "2026-02-03T10:09:55.383000",
+            "description": "같은 재판부에서 징역 2년을 선고받은 국민의힘 권성동 의원도 항소장을 제출했다. 김씨 측은 2일 \"1심... 재판부는 \"헌법상 청렴의 의무가 규정된 유일한 국가기관이 국회의원이다. 이는 국민이 누구보다도 국회의원에게... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465488?utm_source=naver&utm_medium=article&utm_campaign=20260202032049",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-02T15:21:00",
+            "related_members": [
+                "GDG1847Z",
+                "TQP7167T"
+            ],
+            "title": "'통일교 금품수수' 김건희 1심 판결에 항소…권성동도 항소"
+        },
+        {
+            "_id": "69814ae538b0cf4096977707",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116939?sid=102",
+            "created_at": "2026-02-03T10:09:55.383000",
+            "description": "통일교 측에서 불법 정치자금 1억 원을 수수했단 혐의로 징역 2년을 선고받은 권성동 국민의힘 의원이 1심... 앞서 1심 재판부는 권 의원이 국회의원 청렴 의무를 위배했다며 징역 2년과 추징금 1억 원을 선고했습니다.... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475000&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T14:22:00",
+            "related_members": [
+                "GDG1847Z"
+            ],
+            "title": "‘통일교 1억 수수’ 권성동 의원, 징역 2년에 항소"
+        },
+        {
+            "_id": "69814ae538b0cf4096977708",
+            "link": "https://n.news.naver.com/mnews/article/421/0008747996?sid=102",
+            "created_at": "2026-02-03T10:09:55.383000",
+            "description": "통일교 측으로부터 1억 원 상당의 불법 정치자금을 수수한 혐의로 징역 2년을 선고받은 권성동 국민의힘... 재판부는 \"헌법상 청렴 의무가 기재된 유일한 국가기관이 국회의원\"이라며 \"이런 의무에 기초해 양심에 따라... ",
+            "originallink": "https://www.news1.kr/society/court-prosecution/6058836",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T11:48:00",
+            "related_members": [
+                "GDG1847Z"
+            ],
+            "title": "'통일교 1억 수수' 권성동, 1심 징역 2년 불복해 항소"
+        },
+        {
+            "_id": "69814ae538b0cf4096977709",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956607?sid=102",
+            "created_at": "2026-02-03T10:09:55.383000",
+            "description": "통일교 측에서 불법 정치자금 1억원을 받은 혐의로 1심에서 징역 2년이 선고된 권성동 국민의힘 의원이... 인정된다”며 “국회의원은 양심에 따라 국가 이익을 우선해야 함에도 피고인은 통일교에서 1억원을 받아... ",
+            "originallink": "https://www.chosun.com/national/court_law/2026/02/02/VBOAGK5SRZCNVKZMSAJPHYLQCQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-02-02T11:12:00",
+            "related_members": [
+                "GDG1847Z"
+            ],
+            "title": "통일교서 1억 수수 권성동, 1심 징역 2년 판결에 항소"
+        },
+        {
             "_id": "697ff0fa38b0cf409697730c",
             "link": "https://n.news.naver.com/mnews/article/052/0002308740?sid=102",
             "created_at": "2026-02-02T09:34:02.152000",
-            "description": "또한 청문회에서 국회의원들이 조곤조곤 물어봤으면 답변했을 것이다라고 하는데 기업의 비밀, 즉 자신들의... 국민의힘의 장동혁 당대표가 본인의 목숨을 걸고 단식을 하듯이 쌍특검, 이번 강선우, 김병기, 김경과 관련된... ",
+            "description": "또한 청문회에서 국회의원들이 조곤조곤 물어봤으면 답변했을 것이다라고 하는데 기업의 비밀, 즉 자신들의... 그런데 어떻게 아직까지도 강선우, 김병기, 김경, 민주당 측 정치인들은 활보하고 다니죠? 저는 이런 상황이... ",
             "originallink": "https://www.ytn.co.kr/_ln/0103_202602011244368945",
             "press": "YTN",
             "pubDate": "2026-02-01T12:44:00",
@@ -184,7 +337,7 @@
             "_id": "697ff0fa38b0cf409697730d",
             "link": "https://n.news.naver.com/mnews/article/437/0000476238?sid=100",
             "created_at": "2026-02-02T09:34:02.152000",
-            "description": "이 비공표 여론조사 등을 여러 이준석 정치인, 김종인 전 비대위원장 등에게 줬으니 이 사람들도 받아보는... [김용남/전 국회의원 : 만약에 여론조사를 명태균 씨가 윤석열, 김건희 부부에게 전혀 일언반구, 언질도 없이 한... ",
+            "description": "그렇기 때문에 창원에는 김영선 의원 그리고 대구에는 이인선 의원이 공천되기도 했습니다. 그렇기 때문에... [김용남/전 국회의원 : 만약에 여론조사를 명태균 씨가 윤석열, 김건희 부부에게 전혀 일언반구, 언질도 없이 한... ",
             "originallink": "https://news.jtbc.co.kr/article/NB12282533?influxDiv=NAVER",
             "press": "JTBC",
             "pubDate": "2026-02-01T10:01:00",
@@ -483,147 +636,6 @@
                 "GDG1847Z"
             ],
             "title": "‘통일교 1억 수수’ 권성동 징역 2년…‘김건희 금품’ 윤영호도 유죄"
-        },
-        {
-            "_id": "697cbd1c38b0cf4096976a86",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328383?sid=102",
-            "created_at": "2026-01-30T23:15:56.195000",
-            "description": "통일교 측으로부터 불법 정치자금 1억 원을 수수한 혐의를 받는 권성동 국민의힘 의원에게는 징역 2년이... 재판부는 \"국회의원은 헌법상 청렴의무에 기초해 양심에 따라 국가이익을 우선\"해야 한다며, \"피고인의 범행은... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008422228&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-29T06:12:00",
-            "related_members": [
-                "GDG1847Z"
-            ],
-            "title": "'통일교 1억' 권성동 징역 2년…윤영호도 실형"
-        },
-        {
-            "_id": "697cbd1c38b0cf4096976a87",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693309?sid=100",
-            "created_at": "2026-01-30T23:15:56.195000",
-            "description": "법원이 국민의힘 권성동 의원에게 1억 원의 불법 정치자금을 받은 혐의로 1심에서 징역 2년을 선고했다. 권... 국가기관이 국회의원”이라며 “불법 정치자금을 수수해 국민의 기대와 헌법상 책무를 저버렸다”고... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260129/133253735/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-29T04:36:00",
-            "related_members": [
-                "GDG1847Z"
-            ],
-            "title": "‘정교유착’ 권성동 징역 2년-윤영호 1년 2개월 선고"
-        },
-        {
-            "_id": "697cbd1c38b0cf4096976a88",
-            "link": "https://n.news.naver.com/mnews/article/023/0003955865?sid=102",
-            "created_at": "2026-01-30T23:15:56.196000",
-            "description": "국민의힘 권성동 의원에게 1심에서 실형이 선고됐다. 법원은 권 의원에게 돈을 건넨 윤영호 전 통일교... 재판부는 “국회의원은 양심에 따라 국가 이익을 우선해야 함에도 피고인은 통일교에서 1억원을 받아 국민의... ",
-            "originallink": "https://www.chosun.com/national/court_law/2026/01/29/DVH3YPORIRAWHHNVOSF7K2EHTE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-29T00:54:00",
-            "related_members": [
-                "GDG1847Z"
-            ],
-            "title": "통일교서 1억 수수 권성동 징역 2년… 윤영호도 1년 2개월 실형"
-        },
-        {
-            "_id": "697cbd1c38b0cf4096976a89",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307299?sid=102",
-            "created_at": "2026-01-30T23:15:56.196000",
-            "description": "이어 열린 권성동 의원 재판 결과도 크게 다르지 않았습니다. 권 의원은 윤 전 본부장에게 통일교 지원 등을 요청받고 그 대가로 1억 원을 받은 혐의가 인정돼 징역 2년을 선고받았습니다. 특히 재판부는 국회의원은 국민... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601290033324928",
-            "press": "YTN",
-            "pubDate": "2026-01-29T00:33:00",
-            "related_members": [
-                "GDG1847Z"
-            ],
-            "title": "'통일교 금품수수' 권성동 징역 2년...윤영호도 유죄"
-        },
-        {
-            "_id": "697cbd1c38b0cf4096976a8a",
-            "link": "https://n.news.naver.com/mnews/article/055/0001328345?sid=102",
-            "created_at": "2026-01-30T23:15:56.196000",
-            "description": "통일교 측으로부터 불법 정치자금 1억 원을 수수한 혐의를 받고 있는 권성동 국민의힘 의원에겐 징역 2년이... 재판부는 \"국회의원은 헌법상 청렴의무에 기초해 양심에 따라 국가이익을 우선\"해야 한다며, \"피고인의... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008422154&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-29T00:23:00",
-            "related_members": [
-                "GDG1847Z"
-            ],
-            "title": "권성동·윤영호 나란히 실형…'정교유착'에 철퇴"
-        },
-        {
-            "_id": "697cbd3138b0cf4096976b80",
-            "link": "https://n.news.naver.com/mnews/article/056/0012114306?sid=100",
-            "created_at": "2026-01-30T23:16:17.578000",
-            "description": "더불어민주당이 국민의힘 권성동 의원에 대한 징역 2년 선고에 “강한 유감”을 밝혔습니다. 민주당 문금주... 할 국회의원에게 요구되는 책임의 무게를 정면으로 거스르는 판단”이라고 비판했습니다. 또한 “권 의원은... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471461&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-28T19:29:00",
-            "related_members": [
-                "GDG1847Z",
-                "GRP3908I"
-            ],
-            "title": "민주당, 권성동 징역 2년에 “강한 유감…항소로 정교유착 실체 규명해..."
-        },
-        {
-            "_id": "697cbd3138b0cf4096976b81",
-            "link": "https://n.news.naver.com/mnews/article/421/0008740552?sid=100",
-            "created_at": "2026-01-30T23:16:17.578000",
-            "description": "공직자와 국회의원이 갖는 계기가 되기를 바란다\"고 밝혔다. 특히 \"통일교의 정치개입 혐의가 권 의원 선고에... 문금주 원내대변인은 서면 브리핑에서 권 의원 1심 선고에 대해 \"권력을 매개로 한 불법 정치자금 수수가... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6054448",
-            "press": "뉴스1",
-            "pubDate": "2026-01-28T18:24:00",
-            "related_members": [
-                "GDG1847Z",
-                "GRP3908I",
-                "5TQ6306B"
-            ],
-            "title": "범여권, 권성동 징역 2년에 \"특검 빨리 관철돼야\" \"일벌백계\""
-        },
-        {
-            "_id": "697cbd1d38b0cf4096976a8e",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307124?sid=102",
-            "created_at": "2026-01-30T23:15:56.888000",
-            "description": "[박수현] 권영진 의원님께서 민주당 국회의원이신 줄 알겠습니다. 지금 특검 수사가 잘못됐다는 것을 매우... 그런 면에서 권성동 의원은 저렇게 하면서 똑같이 통일교에서 돈을 받았다고 윤영호가 진술한 전재수 민주당 전... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601281630336987",
-            "press": "YTN",
-            "pubDate": "2026-01-28T16:30:00",
-            "related_members": [
-                "TQP7167T",
-                "5TQ6306B",
-                "LYY5513O",
-                "GDG1847Z",
-                "9YO73104"
-            ],
-            "title": "'V0' 김건희 '운명의 날'...1심 '징역 1년 8개월' 선고"
-        },
-        {
-            "_id": "697cbd4f38b0cf4096976c7c",
-            "link": "https://n.news.naver.com/mnews/article/052/0002306933?sid=102",
-            "created_at": "2026-01-30T23:16:47.776000",
-            "description": "[김건희 / 윤석열 전 대통령 배우자 (지난 2022년) : 권성동하고, 윤한홍이가 반대하잖아. 그렇죠? 하여튼 너무... 대가로 국회의원 공천을 제3자에게 준 것이 아니냐, 이렇게 봤었고 그것이 맞다고 한다면 이때는 뇌물죄가... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601281014435802",
-            "press": "YTN",
-            "pubDate": "2026-01-28T10:14:00",
-            "related_members": [
-                "8X15119P",
-                "GDG1847Z",
-                "TQP7167T"
-            ],
-            "title": "오후 김건희 1심 선고...윤 부부 '동반 실형' 갈림길"
-        },
-        {
-            "_id": "697cbd4c38b0cf4096976c5a",
-            "link": "https://n.news.naver.com/mnews/article/028/0002788660?sid=100",
-            "created_at": "2026-01-30T23:16:44.681000",
-            "description": "건 국회의원으로서 할 일이 아니다. 의총에 불만이 있으면 현장에서 얘기해달라”며 고 의원을 엄중... 고 의원은 “권성동 원내대표 때는 당시 권 원내대표에 반발한 조경태 의원 발언을 제재했는데, 이 위원장의 발언은 왜... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1241983.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-27T19:12:00",
-            "related_members": [
-                "MU69217P",
-                "GDG1847Z",
-                "5KV82250"
-            ],
-            "title": "친한계 “의총 개판” “거지 같아”-지도부 “경고”…국힘 큰 파열음"
         }
     ],
     "recent_videos": [
@@ -828,5 +840,487 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-02-02T09:56:58.493992"
+    "recent_bills": [
+        {
+            "BILL_ID": "PRC_T2U5C0D6B1B9A0Y9Z5H3H2F7G7E1F2",
+            "BILL_NO": "2211198",
+            "BILL_NAME": "행정조사기본법 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2025-07-01",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2U5C0D6B1B9A0Y9Z5H3H2F7G7E1F2&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_T2U5C0D6B1B9A0Y9Z5H3H2F7G7E1F2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-11-24",
+            "COMMITTEE_DT": "2025-07-02",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "윤한홍,신성범,김재섭,박형수,김장겸,권영세,강명구,정동만,유상범",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_K2H5D0F3N0B7O1X9T1G9F2J2C4P6U6",
+            "BILL_NO": "2208736",
+            "BILL_NAME": "선거관리위원회 특별감사 실시와 국민 신뢰 회복을 위한 특별감사관 임명 등에 관한 법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2025-03-07",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2H5D0F3N0B7O1X9T1G9F2J2C4P6U6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 108인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_K2H5D0F3N0B7O1X9T1G9F2J2C4P6U6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-07-01",
+            "COMMITTEE_DT": "2025-03-10",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "강대식,강명구,강민국,강선영,강승규,고동진,곽규택,구자근,권영세,권영진,김건,김기웅,김기현,김대식,김도읍,김미애,김민전,김상욱,김상훈,김석기,김선교,김성원,김소희,김승수,김예지,김용태,김위상,김은혜,김장겸,김재섭,김정재,김종양,김태호,김형동,김희정,나경원,박대출,박덕흠,박상웅,박성민,박성훈,박수민,박수영,박정하,박정훈,박준태,박충권,박형수,배준영,배현진,백종헌,서명옥,서범수,서일준,서지영,서천호,성일종,송석준,송언석,신동욱,신성범,안상훈,안철수,엄태영,우재준,유상범,유영하,유용원,윤상현,윤영석,윤재옥,윤한홍,이달희,이만희,이상휘,이성권,이양수,이인선,이종배,이종욱,이철규,이헌승,인요한,임이자,임종득,장동혁,정동만,정성국,정연욱,정점식,정희용,조경태,조배숙,조승환,조은희,조정훈,조지연,주진우,주호영,진종오,최보윤,최수진,최은석,최형두,추경호,한기호,한지아",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_S2N5N0Z1M1O7U1Q4X5A2H2Q0V2T0G8",
+            "BILL_NO": "2207608",
+            "BILL_NAME": "윤석열 정부의 비상계엄 선포 진상규명을 위한 특별검사 임명 등에 관한 법률안",
+            "COMMITTEE": "법제사법위원회",
+            "PROPOSE_DT": "2025-01-17",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2N5N0Z1M1O7U1Q4X5A2H2Q0V2T0G8&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 104인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_S2N5N0Z1M1O7U1Q4X5A2H2Q0V2T0G8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2025-01-20",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700006",
+            "PUBL_PROPOSER": "강대식,강명구,강민국,강선영,강승규,고동진,곽규택,구자근,권영세,권영진,김건,김기웅,김기현,김대식,김도읍,김미애,김민전,김상욱,김상훈,김석기,김선교,김성원,김소희,김승수,김예지,김용태,김위상,김은혜,김장겸,김재섭,김정재,김종양,김태호,김형동,김희정,나경원,박대출,박덕흠,박상웅,박성민,박성훈,박수민,박수영,박정하,박정훈,박준태,박충권,박형수,배준영,배현진,백종헌,서명옥,서범수,서일준,서지영,서천호,성일종,송석준,송언석,신동욱,신성범,안상훈,안철수,엄태영,우재준,유상범,유용원,윤영석,윤재옥,윤한홍,이달희,이만희,이상휘,이성권,이양수,이인선,이종배,이종욱,이철규,이헌승,인요한,임이자,임종득,정동만,정성국,정연욱,정점식,조경태,조배숙,조승환,조은희,조정훈,조지연,주진우,주호영,진종오,최보윤,최수진,최은석,최형두,추경호,한기호,한지아",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_R2Z4A1Y1Y1X1V1W0D4E0D2D8B8C2B9",
+            "BILL_NO": "2205992",
+            "BILL_NAME": "독점규제 및 공정거래에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-11-28",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Z4A1Y1Y1X1V1W0D4E0D2D8B8C2B9&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_R2Z4A1Y1Y1X1V1W0D4E0D2D8B8C2B9",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-19",
+            "COMMITTEE_DT": "2024-11-29",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "이만희,엄태영,김장겸,최은석,김상훈,김승수,한기호,김재섭,김성원",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_I2G4H1F1G1E1E1N0L4L1K2L4J9J6S6",
+            "BILL_NO": "2205991",
+            "BILL_NAME": "게임산업진흥에 관한 법률 일부개정법률안",
+            "COMMITTEE": "문화체육관광위원회",
+            "PROPOSE_DT": "2024-11-28",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2G4H1F1G1E1E1N0L4L1K2L4J9J6S6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_I2G4H1F1G1E1E1N0L4L1K2L4J9J6S6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-01-10",
+            "COMMITTEE_DT": "2024-11-29",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700513",
+            "PUBL_PROPOSER": "박정하,이만희,엄태영,김장겸,최은석,이철규,윤한홍,김재섭,김성원",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_H2F4G1E1F1M1L1L0K4L3J3J3F8E7E6",
+            "BILL_NO": "2205916",
+            "BILL_NAME": "도시 및 주거환경정비법 일부개정법률안",
+            "COMMITTEE": "국토교통위원회",
+            "PROPOSE_DT": "2024-11-27",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2F4G1E1F1M1L1L0K4L3J3J3F8E7E6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_H2F4G1E1F1M1L1L0K4L3J3J3F8E7E6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-18",
+            "COMMITTEE_DT": "2024-11-28",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700407",
+            "PUBL_PROPOSER": "이만희,엄태영,박형수,최은석,이철규,김승수,윤한홍,한기호,신성범",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_W2U4T1U0S2B5Z0Y9X5X8F3E1D4H0F2",
+            "BILL_NO": "2205657",
+            "BILL_NAME": "경찰공무원법 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2024-11-18",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U4T1U0S2B5Z0Y9X5X8F3E1D4H0F2&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_W2U4T1U0S2B5Z0Y9X5X8F3E1D4H0F2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-11-27",
+            "CMT_PRESENT_DT": "2025-02-18",
+            "COMMITTEE_DT": "2024-11-19",
+            "PROC_DT": "2026-01-29",
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "최은석,윤한홍,김승수,엄태영,김장겸,한기호,조승환,김상욱,김상훈",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_H2P4O1M0L2M8U1S4R4S9R3N8L7K0J3",
+            "BILL_NO": "2205310",
+            "BILL_NAME": "독점규제 및 공정거래에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-11-06",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P4O1M0L2M8U1S4R4S9R3N8L7K0J3&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_H2P4O1M0L2M8U1S4R4S9R3N8L7K0J3",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-19",
+            "COMMITTEE_DT": "2024-11-07",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "강승규,이만희,김장겸,엄태영,김상훈,윤한홍,한기호,최은석,김성원",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_C2Y4X1V0U2V8D1C4A4Z8A3I4H1F7E0",
+            "BILL_NO": "2205200",
+            "BILL_NAME": "한국산업은행법 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-11-04",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2Y4X1V0U2V8D1C4A4Z8A3I4H1F7E0&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2Y4X1V0U2V8D1C4A4Z8A3I4H1F7E0",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-07-30",
+            "CMT_PRESENT_DT": "2025-07-30",
+            "COMMITTEE_DT": "2024-11-05",
+            "PROC_DT": "2025-08-27",
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "강승규,김용태,이만희,유용원,김장겸,엄태영,김상훈,윤한홍,한기호",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_C2K4J0K7J2R6Q0O9N3O8K1J1I1G2P6",
+            "BILL_NO": "2204957",
+            "BILL_NAME": "국회법 일부개정법률안",
+            "COMMITTEE": "국회운영위원회",
+            "PROPOSE_DT": "2024-10-28",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2K4J0K7J2R6Q0O9N3O8K1J1I1G2P6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 12인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2K4J0K7J2R6Q0O9N3O8K1J1I1G2P6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-02-19",
+            "COMMITTEE_DT": "2024-10-29",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700005",
+            "PUBL_PROPOSER": "강선영,김승수,김용태,신동욱,인요한,서지영,이만희,임종득,한기호,김민전,김장겸",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_D2E4M0K7L1J0K1J6E2F6D2E7C0D2B4",
+            "BILL_NO": "2204951",
+            "BILL_NAME": "공직선거법 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2024-10-28",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2E4M0K7L1J0K1J6E2F6D2E7C0D2B4&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 15인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_D2E4M0K7L1J0K1J6E2F6D2E7C0D2B4",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2024-10-29",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "서천호,백종헌,우재준,윤한홍,정성국,임종득,강선영,김대식,박상웅,최은석,박수영,곽규택,김은혜,김승수",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_P2Q4O0P9N1O2W1U3V1T2U1S7T8A1Z5",
+            "BILL_NO": "2204179",
+            "BILL_NAME": "주식회사 등의 외부감사에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-09-23",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q4O0P9N1O2W1U3V1T2U1S7T8A1Z5&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_P2Q4O0P9N1O2W1U3V1T2U1S7T8A1Z5",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2024-09-24",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "박덕흠,임종득,박상웅,김성원,김용태,김승수,엄태영,송석준,이철규",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_M2N4L0M9K1L2A1A3Z1X4Y2W9X6F9F4",
+            "BILL_NO": "2204177",
+            "BILL_NAME": "상속세 및 증여세법 일부개정법률안",
+            "COMMITTEE": "재정경제기획위원회",
+            "PROPOSE_DT": "2024-09-23",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2N4L0M9K1L2A1A3Z1X4Y2W9X6F9F4&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 11인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_M2N4L0M9K1L2A1A3Z1X4Y2W9X6F9F4",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-11-13",
+            "COMMITTEE_DT": "2024-09-24",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700590",
+            "PUBL_PROPOSER": "강대식,조은희,박상웅,김성원,김용태,최은석,김승수,엄태영,유용원,이철규",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_T2R4S0Q9R0P4X1Y0W5X7V5W0U4U3K6",
+            "BILL_NO": "2203914",
+            "BILL_NAME": "개인금융채권의 관리 및 개인금융채무자의 보호에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-09-11",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R4S0Q9R0P4X1Y0W5X7V5W0U4U3K6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_T2R4S0Q9R0P4X1Y0W5X7V5W0U4U3K6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-11-12",
+            "COMMITTEE_DT": "2024-09-12",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "이만희,윤한홍,박상웅,유용원,엄태영,김장겸,송석준,김승수,최은석",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_A2A4J0H7G2F6N0M9M3L8S5R5Q1O7P4",
+            "BILL_NO": "2202445",
+            "BILL_NAME": "국립묘지의 설치 및 운영에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-07-31",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A4J0H7G2F6N0M9M3L8S5R5Q1O7P4&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_A2A4J0H7G2F6N0M9M3L8S5R5Q1O7P4",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": "2024-08-01",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "강선영,김승수,김용태,서명옥,신동욱,인요한,서지영,이만희,임종득",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_Y2X4Y0G7E2C4D1C3Y4X5V4D5B7A8Z8",
+            "BILL_NO": "2202233",
+            "BILL_NAME": "대도시권 광역교통 관리에 관한 특별법 일부개정법률안",
+            "COMMITTEE": "국토교통위원회",
+            "PROPOSE_DT": "2024-07-25",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2X4Y0G7E2C4D1C3Y4X5V4D5B7A8Z8&ageFrom=22&ageTo=22",
+            "PROPOSER": "이춘석의원ㆍ권성동의원 등 13인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_Y2X4Y0G7E2C4D1C3Y4X5V4D5B7A8Z8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-08-21",
+            "COMMITTEE_DT": "2024-07-26",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700407",
+            "PUBL_PROPOSER": "정준호,신영대,김윤덕,윤준병,위성곤,안호영,윤종군,이원택,정동영,이성윤,박희승",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "이춘석,권성동"
+        },
+        {
+            "BILL_ID": "PRC_G2E4A0Z6X2Y1M1L5M4H2G1F1D9E8M6",
+            "BILL_NO": "2201905",
+            "BILL_NAME": "제조물 책임법 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-07-18",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2E4A0Z6X2Y1M1L5M4H2G1F1D9E8M6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 14인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_G2E4A0Z6X2Y1M1L5M4H2G1F1D9E8M6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-09-25",
+            "COMMITTEE_DT": "2024-07-19",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "엄태영,김기현,조정훈,강승규,김성원,박충권,유용원,서지영,유상범,김용태,김상욱,곽규택,김장겸",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_Q2O4P0X7Y1W0W1V6T2U7C5B4Z6A1Y6",
+            "BILL_NO": "2201897",
+            "BILL_NAME": "자본시장과 금융투자업에 관한 법률 일부개정법률안",
+            "COMMITTEE": "정무위원회",
+            "PROPOSE_DT": "2024-07-18",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O4P0X7Y1W0W1V6T2U7C5B4Z6A1Y6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 12인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_Q2O4P0X7Y1W0W1V6T2U7C5B4Z6A1Y6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2024-08-28",
+            "CMT_PRESENT_DT": "2024-08-28",
+            "COMMITTEE_DT": "2024-07-19",
+            "PROC_DT": "2024-09-26",
+            "COMMITTEE_ID": "9700008",
+            "PUBL_PROPOSER": "서천호,백종헌,우재준,윤한홍,정성국,김예지,임종득,강선영,김대식,박상웅,곽규택",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_D2C4D0Y7Z1X0Y1W6V2V9D0E3C5D1B6",
+            "BILL_NO": "2201671",
+            "BILL_NAME": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2024-07-12",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2C4D0Y7Z1X0Y1W6V2V9D0E3C5D1B6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 13인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_D2C4D0Y7Z1X0Y1W6V2V9D0E3C5D1B6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-08-26",
+            "COMMITTEE_DT": "2024-07-15",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "서천호,백종헌,이인선,우재준,윤한홍,김예지,임종득,강선영,김대식,박상웅,최은석,박수영",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        },
+        {
+            "BILL_ID": "PRC_A2Z4P0Q6P2O1M1U5V3U5S5Q6R1W5V6",
+            "BILL_NO": "2201269",
+            "BILL_NAME": "공직선거법 일부개정법률안",
+            "COMMITTEE": "행정안전위원회",
+            "PROPOSE_DT": "2024-07-02",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z4P0Q6P2O1M1U5V3U5S5Q6R1W5V6&ageFrom=22&ageTo=22",
+            "PROPOSER": "권성동의원 등 11인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_A2Z4P0Q6P2O1M1U5V3U5S5Q6R1W5V6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2024-11-20",
+            "COMMITTEE_DT": "2024-07-03",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700480",
+            "PUBL_PROPOSER": "인요한,송석준,엄태영,김기현,신동욱,조정훈,이종욱,박충권,윤한홍,강선영",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "권성동"
+        }
+    ],
+    "exported_at": "2026-02-03T14:50:41.692176"
 }

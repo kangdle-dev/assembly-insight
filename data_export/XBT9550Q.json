@@ -65,66 +65,62 @@
             "의장",
             "대표",
             "이해찬",
-            "총리",
             "영결식",
+            "총리",
             "대통령",
             "눈물",
-            "민주당",
-            "인사",
-            "국무총리",
-            "정청래",
-            "현장",
+            "원내",
+            "개헌",
+            "국민",
+            "본회의",
             "참석",
+            "강행",
             "엄수",
-            "여야"
+            "현장"
         ],
         "keyword_frequency": [
             {
                 "text": "의장",
-                "value": 50
+                "value": 56
             },
             {
                 "text": "대표",
-                "value": 42
-            },
-            {
-                "text": "이해찬",
                 "value": 40
             },
             {
-                "text": "총리",
+                "text": "이해찬",
                 "value": 31
             },
             {
                 "text": "영결식",
-                "value": 28
+                "value": 27
             },
             {
-                "text": "대통령",
+                "text": "총리",
                 "value": 26
             },
             {
-                "text": "눈물",
-                "value": 20
+                "text": "대통령",
+                "value": 21
             },
             {
-                "text": "민주당",
+                "text": "눈물",
                 "value": 18
             },
             {
-                "text": "인사",
-                "value": 16
+                "text": "원내",
+                "value": 17
             },
             {
-                "text": "국무총리",
-                "value": 16
+                "text": "개헌",
+                "value": 17
             },
             {
-                "text": "정청래",
-                "value": 15
+                "text": "국민",
+                "value": 17
             },
             {
-                "text": "현장",
+                "text": "본회의",
                 "value": 14
             },
             {
@@ -132,37 +128,217 @@
                 "value": 13
             },
             {
-                "text": "엄수",
-                "value": 13
+                "text": "강행",
+                "value": 12
             },
             {
-                "text": "여야",
+                "text": "엄수",
+                "value": 12
+            },
+            {
+                "text": "현장",
                 "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-02T09:57:22.479766",
+        "last_analyzed_at": "2026-02-03T14:51:14.775572",
         "trend_news": {
             "labels": [
-                "01-27",
                 "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
-                "02-02"
+                "02-02",
+                "02-03"
             ],
             "data": [
-                3,
-                4,
-                5,
+                0,
+                0,
                 0,
                 11,
                 6,
-                1
+                13,
+                0
             ]
-        }
+        },
+        "ai_policy_summary": "정책 분석 데이터가 없습니다.",
+        "policy_stats": null
     },
     "recent_news": [
+        {
+            "_id": "69814b0f38b0cf40969777b9",
+            "link": "https://n.news.naver.com/mnews/article/009/0005631236?sid=100",
+            "created_at": "2026-02-03T10:10:37.470000",
+            "description": "임시국회를 정상적으로 운영할 수 없을 것이라고 경고했다. 송 원내대표는 2일 국회 본회의 직후 열린 의원총... 우원식 국회의장이 오는 6·3 지방선거일에 개헌에 대한 국민투표를 동시 진행하자고 제안한 데 대해선... ",
+            "originallink": "https://www.mk.co.kr/article/11950822",
+            "press": "매일경제",
+            "pubDate": "2026-02-02T23:44:00",
+            "related_members": [
+                "6EN68926",
+                "XBT9550Q"
+            ],
+            "title": "송언석 “사법악법 강행하면 국회 정상운영 불가”…전면 필버 시사"
+        },
+        {
+            "_id": "69814b0f38b0cf40969777ba",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309386?sid=100",
+            "created_at": "2026-02-03T10:10:37.470000",
+            "description": "송 원내대표는 오늘(2일) 국회 본회의 직후 열린 의원총회에서, 민주당이 추진하는 '법 왜곡죄'와 '재판소원법... 우원식 국회의장이 6월 지방선거와 함께 개헌 국민투표를 하자고 제안한 데 대해선, 엉터리 관세협상과... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602022158393907",
+            "press": "YTN",
+            "pubDate": "2026-02-02T21:58:00",
+            "related_members": [
+                "6EN68926",
+                "XBT9550Q"
+            ],
+            "title": "송언석 \"사법개혁법 강행 시 임시국회 정상운영 불가\""
+        },
+        {
+            "_id": "69814b0f38b0cf40969777bd",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309287?sid=100",
+            "created_at": "2026-02-03T10:10:37.472000",
+            "description": "송 원내대표는 오늘(2일) 국회 본회의 직후 열린 의원총회에서, 민주당이 추진하는 '법 왜곡죄'와 '재판소원법... 우원식 국회의장이 6월 지방선거와 함께 개헌 국민투표를 하자고 제안한 데 대해선, 엉터리 관세협상과... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602021704190897",
+            "press": "YTN",
+            "pubDate": "2026-02-02T17:04:00",
+            "related_members": [
+                "6EN68926",
+                "XBT9550Q"
+            ],
+            "title": "송언석 \"사법개혁법 강행 시 임시국회 정상운영 불가\""
+        },
+        {
+            "_id": "69814b1638b0cf40969777d2",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117034?sid=100",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "우원식 국회의장이 ‘국민투표법 개정’ 필요성을 밝힌 데 대해 국민의힘이 “개헌을 기정사실화 하는듯한... 송언석 원내대표는 오늘(2일) 국회에서 열린 당 의원총회에서 “왜 지금 개헌을 해야 되는지 납득하기... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475059&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T16:17:00",
+            "related_members": [
+                "XBT9550Q",
+                "6EN68926"
+            ],
+            "title": "국민의힘 “우 의장 ‘개헌 기정사실화’ 유감…5일 본회의 악법 강행 ..."
+        },
+        {
+            "_id": "69814b1638b0cf40969777d3",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585693?sid=100",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "이어 “이 법들의 통과를 꼭 막아야 하기 때문에 의원들의 총의를 모아 끝까지 투쟁해야 한다”고 덧붙였다. 송 원내대표는 또 이날 2월 임시국회 개원식에서 우원식 국회의장의 개헌 관련 발언을 언급하며 “관세... ",
+            "originallink": "https://www.sedaily.com/article/20003763?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-02T16:15:00",
+            "related_members": [
+                "XBT9550Q",
+                "6EN68926"
+            ],
+            "title": "송언석 “與, 사법파괴법 강행하면 본회의 어려워...투쟁할 것”"
+        },
+        {
+            "_id": "69814b1638b0cf40969777d4",
+            "link": "https://n.news.naver.com/mnews/article/003/0013744115?sid=100",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "이승재 한은진 기자 = 송언석 국민의힘 원내대표는 2일 우원식 국회의장이 2월 임시국회 개회사에서 개헌... 송 원내대표는 이날 국회에서 열린 의원총회에서 \"왜 지금 개헌을 해야 하는지 납득하기 어렵다\"며 이같이... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499420",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T16:09:00",
+            "related_members": [
+                "XBT9550Q",
+                "6EN68926"
+            ],
+            "title": "송언석 \"우 의장, 개헌 기정사실화 유감…5일 본회의 악법 강행 의도\""
+        },
+        {
+            "_id": "69814b1638b0cf40969777d5",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789563?sid=100",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "한다”는 우원식 국회의장의 발언에 “왜 지금 개헌을 해야하는지 납득하기 어렵다”며 “개헌을... 송 원내대표는 이날 국회에서 열린 의원총회에서 “엉터리 관세협상으로 환율이 어마어마하게 치솟고 있고 (국민들은)... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1242919.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-02T16:00:00",
+            "related_members": [
+                "XBT9550Q",
+                "6EN68926"
+            ],
+            "title": "송언석 “설 전 투표법 개정하자는 우원식, 왜 지금인지 납득 안 돼”"
+        },
+        {
+            "_id": "69814b1638b0cf40969777d6",
+            "link": "https://n.news.naver.com/mnews/article/421/0008748699?sid=100",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "한상희 홍유진 손승환 기자 = 송언석 국민의힘 원내대표는 2일 우원식 국회의장이 국민투표법 개정 필요성을... 송 원내대표는 이날 국회 본회의 직후 열린 의원총회에서 \"왜 지금 개헌을 해야 하는지 납득하기 어렵다\"며... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6059182",
+            "press": "뉴스1",
+            "pubDate": "2026-02-02T15:20:00",
+            "related_members": [
+                "XBT9550Q",
+                "6EN68926"
+            ],
+            "title": "송언석 \"우 의장, 개헌 기정사실화 발언 매우 유감\""
+        },
+        {
+            "_id": "69814af838b0cf4096977778",
+            "link": "https://n.news.naver.com/mnews/article/003/0013743827?sid=100",
+            "created_at": "2026-02-03T10:10:15.176000",
+            "description": "김현정 원내대변인은 2일 국회 본회의에 앞서 열린 의원총회 후 기자들과 만나 \"민주당은 5일 본회의 개최를... 강력하게 우원식 국회의장에 요청하는 상황\"이라며 \"국민의힘은 필리버스터(무제한토론)와 설 연휴 주간을... ",
+            "originallink": "https://www.newsis.com/view/NISX20260202_0003499256",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T15:09:00",
+            "related_members": [
+                "6VC83722",
+                "7YL9580G",
+                "XBT9550Q"
+            ],
+            "title": "與 \"5일 본회의 열어 개혁·민생법안 처리 강력 요청\""
+        },
+        {
+            "_id": "69814b1638b0cf40969777d7",
+            "link": "https://n.news.naver.com/mnews/article/003/0013743735?sid=100",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "우원식 국회의장과 여야 의원들이 2일 서울 여의도 국회에서 열린 제432회 국회(임시회) 개회식에서 국민의례를 하고 있다. 2026.02.02. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260202_0021147477",
+            "press": "뉴시스",
+            "pubDate": "2026-02-02T14:59:00",
+            "related_members": [
+                "XBT9550Q"
+            ],
+            "title": "국민의례하는 국회의원들"
+        },
+        {
+            "_id": "69814b1638b0cf40969777d8",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111314?sid=102",
+            "created_at": "2026-02-03T10:10:44.289000",
+            "description": "우원식 국회의장과 여수지역 국회의원이 축하 영상을 보내 책 출간을 축하했다. 특히 여수 출신 정원오 성동구청장과 김보라 안성시장이 고향을 향한 응원 메시지를 전해 눈길을 끌었다. 더불어민주당 정청래 대표와... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465297?utm_source=naver&utm_medium=article&utm_campaign=20260202112746",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-02T11:28:00",
+            "related_members": [
+                "XBT9550Q",
+                "2385336L"
+            ],
+            "title": "여수 최초 여성시의장 백인숙, 북콘서트 '성료'"
+        },
+        {
+            "_id": "69814aed38b0cf409697772b",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116834?sid=100",
+            "created_at": "2026-02-03T10:10:03.981000",
+            "description": "조국혁신당의 황운하 의원이 공동 대표론을 꺼내들고 나왔기 때문에 이 부분이 그냥 그대로 지나칠 수는... 왜냐하면 재보궐 선거 나가서 국회의원직 한 번 한다고 해서 국민의힘에서 아이고, 오십시오라고 이야기할 수... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474763&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T10:34:00",
+            "related_members": [
+                "XBT9550Q",
+                "TJW93720",
+                "XSP20229",
+                "5TQ6306B",
+                "EH27538E",
+                "H5476989",
+                "XPP2564T",
+                "0YT3774N"
+            ],
+            "title": "[전격시사] “대통령 SNS 부동산 발언…” (전용기) “소통 강화” vs (김..."
+        },
         {
             "_id": "697ff10338b0cf4096977323",
             "link": "https://n.news.naver.com/mnews/article/020/0003694105?sid=100",
@@ -232,7 +408,7 @@
             "_id": "697ff10338b0cf4096977328",
             "link": "https://n.news.naver.com/mnews/article/421/0008746858?sid=102",
             "created_at": "2026-02-02T09:34:11.528000",
-            "description": "이날 행사에선 김민석 국무총리, 정성호 법무부 장관, 유승민 대한체육회장, 문희상 전 국회의장, 정세균 전 총리, 정청래 당 대표, 한병도 당 원내대표, 우원식 국회의장, 이성윤·박지원 당 최고위원, 박찬대 의원, 안규백... ",
+            "description": "그는 군산 시골 소년에서부터 공인회계사·행시·사시를 패스한 '고시 3관왕'의 여정과 변호사·국회의원을... 이날 행사에선 김민석 국무총리, 정성호 법무부 장관, 유승민 대한체육회장, 문희상 전 국회의장, 정세균 전... ",
             "originallink": "https://www.news1.kr/local/jeonbuk/6058068",
             "press": "뉴스1",
             "pubDate": "2026-02-01T17:34:00",
@@ -323,7 +499,7 @@
             "_id": "697ff11238b0cf4096977360",
             "link": "https://n.news.naver.com/mnews/article/052/0002308589?sid=100",
             "created_at": "2026-02-02T09:34:26.276000",
-            "description": "나선 우원식 국회의장과 민주당 정청래 대표는 고인이 우리 민주주의 역사 그 자체였다고 회고했습니다.... 7선 국회의원이자 장관, 국무총리까지 역임하며 우리 정치사에 큰 발자취를 남긴 고인은 세종시에 있는 가족... ",
+            "description": "7선 국회의원이자 장관, 국무총리까지 역임하며 우리 정치사에 큰 발자취를 남긴 고인은 세종시에 있는 가족 묘소에서 영원한 잠에 들었습니다. YTN 윤웅성입니다. 촬영기자 : 이성모 온승원 영상편집 : 김희정",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601312234103838",
             "press": "YTN",
             "pubDate": "2026-01-31T22:34:00",
@@ -488,246 +664,6 @@
                 "XBT9550Q"
             ],
             "title": "故이해찬 전 총리 발인 엄수…세종서 영면"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ae2",
-            "link": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
-            "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 ‘국회가 일 안 한다, 뭐하냐.’... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에... ",
-            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107141&s_mcd=0263&s_hcd=01",
-            "press": "YTN",
-            "pubDate": "2026-01-29T20:30:00",
-            "related_members": [
-                "6VC83722",
-                "7YL9580G",
-                "MLH1404S",
-                "8Q88373R",
-                "NX534083",
-                "XBT9550Q",
-                "K5F2023J",
-                "EH27538E",
-                "FYI20317",
-                "8SV6917G",
-                "0YT3774N"
-            ],
-            "title": "與김현정 \"합당, 당내서 핵폭탄급 문제로 터져...공동대표? 정치적 관점..."
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ae3",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307758?sid=100",
-            "created_at": "2026-01-30T23:16:01.469000",
-            "description": "평택 병에 김현정 의원 나오셨습니다. 국회 이재명 대통령이 국무회의에서 '국회가 일 안 한다, 뭐하냐.... 임이자 의원 엊그저께 저희 방송 나오셔 가지고, 여야가 일단 협의를 해 봐라. 그리고 민주당이 그 사이에 언제까지... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601291934537352",
-            "press": "YTN",
-            "pubDate": "2026-01-29T19:34:00",
-            "related_members": [
-                "6VC83722",
-                "7YL9580G",
-                "MLH1404S",
-                "8Q88373R",
-                "NX534083",
-                "XBT9550Q",
-                "K5F2023J",
-                "EH27538E",
-                "FYI20317",
-                "8SV6917G",
-                "0YT3774N"
-            ],
-            "title": "與김현정 \"합당, 당내서 핵폭탄급 문제로 터져...공동대표? 정치적 관점..."
-        },
-        {
-            "_id": "697cbd4b38b0cf4096976c4c",
-            "link": "https://n.news.naver.com/mnews/article/016/0002593061?sid=100",
-            "created_at": "2026-01-30T23:16:43.387000",
-            "description": "의원이 재적 5분의 1에 미치지 못 하면 필리버스터를 중지하도록 하는 내용이 포함됐으나, 야권의 반발로 제외됐다. 또 무기명투표에 원칙적으로 전자장치를 이용도 빠졌다. 국회법 개정안 수정안이 가결되자 우원식... ",
-            "originallink": "https://biz.heraldcorp.com/article/10665617?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-29T14:20:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "[속보] ‘의장 사회권 이양’ 국회법 개정안 국회 통과…국힘 반발"
-        },
-        {
-            "_id": "697cbd4b38b0cf4096976c4d",
-            "link": "https://n.news.naver.com/mnews/article/079/0004110182?sid=103",
-            "created_at": "2026-01-30T23:16:43.387000",
-            "description": "이어 2008년 더불어민주당 우원식 국회의원 비서를 거쳐 같은 당 김상희 의원 보좌진으로 2015년까지 국회에 몸담았다. 유 연구위원은 2018년엔 문재인 대통령 비서실 시민참여비서관실 행정관을 지냈고, 2021년 12월엔... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6463654?utm_source=naver&utm_medium=article&utm_campaign=20260129100240",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-29T10:03:00",
-            "related_members": [
-                "XBT9550Q"
-            ],
-            "title": "고준위 상임위원에 유휘종 前에너지공단 신재생에너지센터 소장 임명"
-        },
-        {
-            "_id": "697cbd4b38b0cf4096976c4e",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693268?sid=100",
-            "created_at": "2026-01-30T23:16:43.387000",
-            "description": "여야는 국회의장단이 아닌 의원이 본회의 필리버스터(무제한 토론) 사회를 볼 수 있도록 하는 내용의 국회법... 우원식 국회의장과 민주당 소속 이학영 부의장의 부담을 덜기 위해 추진해 온 법안이다. 필리버스터 진행 시... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260129/133253378/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-29T04:34:00",
-            "related_members": [
-                "XBT9550Q",
-                "K5F2023J"
-            ],
-            "title": "李 “느리다” 지적에, 여야 오늘 법안 90개 처리"
-        },
-        {
-            "_id": "697cbd1838b0cf4096976a28",
-            "link": "https://n.news.naver.com/mnews/article/003/0013736195?sid=100",
-            "created_at": "2026-01-30T23:15:52.531000",
-            "description": "야권 인사 발길도…김종인·조경태·윤상현 등 조문 야권 인사들의 조문 행렬도 이어졌다. 이 전 총리와... 이후 오전 9시 국회 의원회관 대회의실에서 영결식을 엄수한 뒤 오전 11시께 서울 추모공원에서 화장을 진행한다.... ",
-            "originallink": "https://www.newsis.com/view/NISX20260128_0003494117",
-            "press": "뉴시스",
-            "pubDate": "2026-01-28T22:16:00",
-            "related_members": [
-                "MSY7784L",
-                "GOC54665",
-                "V429892C",
-                "JZY9937U",
-                "N2P9317N",
-                "RJH6314D",
-                "ZRF3039U",
-                "5N65159P",
-                "8P37634C",
-                "JG77046J",
-                "FJK3396E",
-                "S824682L",
-                "XBT9550Q",
-                "MLH1404S",
-                "5KV82250",
-                "H5476989"
-            ],
-            "title": "故 이해찬 장례 이틀차…윤재옥·윤상현 등 야권 인사도 발길(종합2보)"
-        },
-        {
-            "_id": "697cbd4b38b0cf4096976c4f",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693111?sid=100",
-            "created_at": "2026-01-30T23:16:43.387000",
-            "description": "여야는 국회의장단이 아닌 의원이 본회의 필리버스터(무제한 토론) 사회를 볼 수 있도록 하는 내용의 국회법... 우원식 국회의장과 민주당 소속 이학영 부의장의 부담을 덜기 위해 추진해온 법안이다. 필리버스터 진행 시... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260128/133250182/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-28T17:03:00",
-            "related_members": [
-                "XBT9550Q",
-                "K5F2023J"
-            ],
-            "title": "李 “입법 느리다” 지적에…여야 쟁점법안 미루고 민생법안 내일 처리"
-        },
-        {
-            "_id": "697cbd1b38b0cf4096976a5d",
-            "link": "https://n.news.naver.com/mnews/article/053/0000055394?sid=102",
-            "created_at": "2026-01-30T23:15:54.974000",
-            "description": "이재정·김영배·김현·이해식·정태호·최민희 민주당 의원이 베트남에서부터 고인과 함께 귀국했다. 공항에서는 상임장례위원장인 김민석 국무총리와 우원식 국회의장, 정청래 더불어민주당 대표, 한병도 민주당... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48225",
-            "press": "조선일보",
-            "pubDate": "2026-01-28T16:19:00",
-            "related_members": [
-                "WCD5518S",
-                "H5476989",
-                "B7D7534L",
-                "UQ282145",
-                "CCU1009B",
-                "MLH1404S",
-                "YS38221N",
-                "XBT9550Q",
-                "UHB5553T",
-                "7YL9580G",
-                "2385336L",
-                "M0A1658U",
-                "ARP89147",
-                "IN328264"
-            ],
-            "title": "[현장] \"민주주의의 어르신이 떠났다\"…이해찬 빈소에 이어진 조문 행렬"
-        },
-        {
-            "_id": "697cbd2038b0cf4096976ac2",
-            "link": "https://n.news.naver.com/mnews/article/023/0003955598?sid=100",
-            "created_at": "2026-01-30T23:15:59.955000",
-            "description": "국민의힘에서는 주호영 국회부의장, 김대식 의원이 조문했다. 빈소 내부에는 이재명 대통령, 우원식 국회의장, 조희대 대법원장, 김민석 총리, 정청래 민주당 대표, 장동혁 국민의힘 대표와 함께 문재인 전 대통령, 다이빙... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2026/01/28/JRIXWYML7BF55OJ3IN6DKF3HX4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-28T00:48:00",
-            "related_members": [
-                "MLH1404S",
-                "8SV6917G",
-                "ANS8383S",
-                "XBT9550Q",
-                "KFM1081G",
-                "2385336L",
-                "ARP89147",
-                "M0A1658U",
-                "IN328264"
-            ],
-            "title": "이해찬 빈소에 여권 총집결… 李대통령, 유족 만나며 눈물"
-        },
-        {
-            "_id": "697cbd4c38b0cf4096976c5b",
-            "link": "https://n.news.naver.com/mnews/article/022/0004100996?sid=100",
-            "created_at": "2026-01-30T23:16:44.681000",
-            "description": "정태호 더불어민주당 의원(왼쪽)과 송언석 국민의힘 원내대표. 연합뉴스 민주당 한병도 원내대표와 천준호 원내운영수석부대표, 국민의힘 송언석 원내대표와 유상범 원내운영수석부대표는 이날 오후 우원식 국회의장... ",
-            "originallink": "https://www.segye.com/newsView/20260127515856?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-27T18:37:00",
-            "related_members": [
-                "A494529E",
-                "H5476989",
-                "MU69217P",
-                "6EN68926",
-                "XBT9550Q",
-                "UHB5553T",
-                "TZP9391O"
-            ],
-            "title": "與 “대미투자법 2말3초 처리” 野 “비준절차 외면 정부 책임”"
-        },
-        {
-            "_id": "697cbd1b38b0cf4096976a6b",
-            "link": "https://n.news.naver.com/mnews/article/009/0005628125?sid=100",
-            "created_at": "2026-01-30T23:15:55.585000",
-            "description": "비롯해 이재정·김영배·김현·이해식·정태호·최민희 민주당 의원도 베트남에서부터 이 전 총리와 함께 한국에 도착했다. 공항에서는 상임장례위원장인 김민석 총리와 우원식 국회의장, 정 대표, 한병도 민주당... ",
-            "originallink": "https://www.mk.co.kr/article/11944634",
-            "press": "매일경제",
-            "pubDate": "2026-01-27T16:59:00",
-            "related_members": [
-                "URV1689Q",
-                "2385336L",
-                "FIE6569O",
-                "MLH1404S",
-                "XSP20229",
-                "H5476989",
-                "B7D7534L",
-                "UQ282145",
-                "CCU1009B",
-                "YS38221N",
-                "XBT9550Q",
-                "UHB5553T",
-                "7YL9580G",
-                "M0A1658U",
-                "IN328264"
-            ],
-            "title": "여당 의원들 故 이해찬 조문 행렬…상주 역할은 정청래"
-        },
-        {
-            "_id": "697cbd2438b0cf4096976afa",
-            "link": "https://n.news.naver.com/mnews/article/003/0013733210?sid=100",
-            "created_at": "2026-01-30T23:16:04.511000",
-            "description": "우원식 국회의장과 김민석 국무총리, 정 대표, 김성환 기후에너지환경부 장관, 윤호중 행정안전부 장관... 참여정부 국무총리를 지낸 이 수석부의장은 국회의원과 주요 공직을 두루 거친 정치계 원로로 한국 정치의 중심에... ",
-            "originallink": "https://www.newsis.com/view/NISX20260127_0003492026",
-            "press": "뉴시스",
-            "pubDate": "2026-01-27T15:33:00",
-            "related_members": [
-                "XBT9550Q",
-                "M0A1658U",
-                "MLH1404S",
-                "XSP20229",
-                "URV1689Q",
-                "FYI20317",
-                "IN328264"
-            ],
-            "title": "이해찬 전 국무총리 빈소… 범여권 인사들 조문행렬 [뉴시스Pic]"
         }
     ],
     "recent_videos": [
@@ -952,5 +888,6 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-02-02T09:57:22.479766"
+    "recent_bills": [],
+    "exported_at": "2026-02-03T14:51:14.775572"
 }

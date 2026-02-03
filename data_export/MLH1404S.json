@@ -58,111 +58,395 @@
     "analysis": {
         "keywords": [
             "총리",
+            "합당",
             "국무총리",
             "대표",
-            "이해찬",
-            "영결식",
-            "국민",
-            "관저",
-            "행사",
-            "현장",
-            "합당",
-            "대통령",
             "민주당",
+            "현장",
+            "혁신",
             "정청래",
-            "참석",
-            "혁신"
+            "국정",
+            "대통령",
+            "이해찬",
+            "선거",
+            "조국",
+            "영결식",
+            "론스타"
         ],
         "keyword_frequency": [
             {
                 "text": "총리",
-                "value": 68
-            },
-            {
-                "text": "국무총리",
                 "value": 41
             },
             {
+                "text": "합당",
+                "value": 35
+            },
+            {
+                "text": "국무총리",
+                "value": 33
+            },
+            {
                 "text": "대표",
-                "value": 30
+                "value": 24
             },
             {
-                "text": "이해찬",
-                "value": 29
-            },
-            {
-                "text": "영결식",
-                "value": 27
-            },
-            {
-                "text": "국민",
-                "value": 21
-            },
-            {
-                "text": "관저",
-                "value": 21
-            },
-            {
-                "text": "행사",
-                "value": 20
+                "text": "민주당",
+                "value": 18
             },
             {
                 "text": "현장",
                 "value": 18
             },
             {
-                "text": "합당",
-                "value": 17
-            },
-            {
-                "text": "대통령",
-                "value": 17
-            },
-            {
-                "text": "민주당",
-                "value": 16
+                "text": "혁신",
+                "value": 14
             },
             {
                 "text": "정청래",
-                "value": 15
+                "value": 13
             },
             {
-                "text": "참석",
-                "value": 14
+                "text": "국정",
+                "value": 13
             },
             {
-                "text": "혁신",
-                "value": 14
+                "text": "대통령",
+                "value": 13
+            },
+            {
+                "text": "이해찬",
+                "value": 11
+            },
+            {
+                "text": "선거",
+                "value": 10
+            },
+            {
+                "text": "조국",
+                "value": 10
+            },
+            {
+                "text": "영결식",
+                "value": 10
+            },
+            {
+                "text": "론스타",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-02T09:57:01.231603",
+        "last_analyzed_at": "2026-02-03T14:50:45.333997",
         "trend_news": {
             "labels": [
-                "01-27",
                 "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
-                "02-02"
+                "02-02",
+                "02-03"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                13,
+                12,
                 15,
-                2
+                3
             ]
+        },
+        "ai_policy_summary": "\"김민석 의원은 주로 응급의료, 복지, 아동 보호와 관련된 분야에 집중하며, 보호자적 입법 활동을 통해 사회적 안전망과 복지 체계를 개선하는 데 주력하고 있습니다. 특히 아동복지법 및 아동학대범죄의 처벌 등에 관한 법안들을 통해 국민의 실생활과 직결된 안전과 복지 향상을 만들어내는 행보를 보입니다.\"",
+        "policy_stats": {
+            "passed": 0,
+            "reflected": 3,
+            "pending": 8,
+            "failed": 0,
+            "total": 11,
+            "achievement_rate": 27.3
         }
     },
     "recent_news": [
         {
+            "_id": "69814ae338b0cf40969776ef",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117585?sid=100",
+            "created_at": "2026-02-03T10:09:53.251000",
+            "description": "◆박정현 더불어민주당 국회의원 일단 우선 이전 내용이 들어가 있고요. 지금 성일종 의원님이 대표 발의하신 그 국민의힘이 낸 법안에는 공공기관 이전 내용이 빠져 있습니다. 그래서 아마 심의 같이하면서 이 내용은... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475846&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-03T09:29:00",
+            "related_members": [
+                "42K7317Y",
+                "4019850M",
+                "HVV5250J",
+                "57B28032",
+                "MLH1404S",
+                "7XY7109I"
+            ],
+            "title": "‘충남·대전 통합특별법’ 무엇이 담겼나？"
+        },
+        {
+            "_id": "69814aea38b0cf409697771d",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749483?sid=102",
+            "created_at": "2026-02-03T10:10:00.822000",
+            "description": "신정훈 더불어민주당 국회의원(나주·화순)은 \"도로를 포장하고 교량을 놓는 예산은 기존대로 국비 등이 지원되니, 행정통합에 따른 순수한 인센티브는 주민들의 삶의 질을 개선하고 지역의 주력산업을 강화하는 데... ",
+            "originallink": "https://www.news1.kr/local/gwangju-jeonnam/6059201",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T06:15:00",
+            "related_members": [
+                "MLH1404S",
+                "M7O7878U"
+            ],
+            "title": "전남광주특별시가 4년간 받는 20조원…어디에 어떻게 쓰나"
+        },
+        {
+            "_id": "69814ae138b0cf40969776d0",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749441?sid=100",
+            "created_at": "2026-02-03T10:09:51.482000",
+            "description": "대표도, 국회의원도 그 누구도 당원들의 결정에 승복해야 한다. 그렇게 하자\"고 요청했다. 정 대표는 이어... 황명선 최고위원도 \"합당 논의를 중단하고 국정 뒷받침에 당력을 집중해야 한다\"고 가세했고, 강득구 최고위원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6059610",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T05:45:00",
+            "related_members": [
+                "MLH1404S",
+                "8P37634C",
+                "RJH6314D",
+                "2385336L",
+                "8O34202I",
+                "EFU76868",
+                "GOC54665",
+                "JG77046J",
+                "3LP22204"
+            ],
+            "title": "정청래 마이웨이·김민석 참전…與합당 갈등, 당권 경쟁 전초전 양상"
+        },
+        {
+            "_id": "69814ae838b0cf4096977717",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107207&s_mcd=0263&s_hcd=01",
+            "created_at": "2026-02-03T10:09:58.584000",
+            "description": "서울 성북구을의 김남근 국회의원입니다. ◆ 김준우 : 정무위 소속이고 현안 핵심적으로 뭐랄까 이야기할... 몇몇 이소영 의원이나 이런 분들과 함께 그날도 개혁 과제 한 네다섯 가지 상법 관련해서 쟁점들이 있었다고... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107207&s_mcd=0263&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-02-02T23:00:00",
+            "related_members": [
+                "IUX1829H",
+                "MLH1404S",
+                "WTR5885Y"
+            ],
+            "title": "與김남근 \"토지공개념, 합당과 무관...한 두명의 주장일 뿐 정확한 지적..."
+        },
+        {
+            "_id": "69814aea38b0cf409697771e",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309399?sid=100",
+            "created_at": "2026-02-03T10:10:00.822000",
+            "description": "[강성필] 지난 주말부터 한준호 전 최고위원 그리고 앵커께서 말씀하셨던 더민초 의원들이 강력하게... 국회의원직이라도 거시겠습니까?] [앵커] 김용태 의원이 지난주부터 장동혁 대표 재신임 투표를 거론했는데, 오늘... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602022233295719",
+            "press": "YTN",
+            "pubDate": "2026-02-02T22:33:00",
+            "related_members": [
+                "EPI69383",
+                "MLH1404S",
+                "KFM1081G",
+                "GOC54665",
+                "JG77046J",
+                "2385336L",
+                "H5476989",
+                "BCQ55105"
+            ],
+            "title": "[뉴스NIGHT] 민주당 지도부 공개충돌...한동훈 제명 후폭풍 계속"
+        },
+        {
+            "_id": "69814ae138b0cf40969776d1",
+            "link": "https://n.news.naver.com/mnews/article/032/0003425360?sid=100",
+            "created_at": "2026-02-03T10:09:51.482000",
+            "description": "이언주·강득구·황명선 최고위원은 합당 논의 중단을 주장했다. 이 최고위원은 “민주적 선결 절차를 패싱한... 민주당 초선 의원 모임인 ‘더민초’는 국회 의원회관에서 합당 관련 간담회를 열고 지방선거 이후 합당... ",
+            "originallink": "https://www.khan.co.kr/article/202602022011005",
+            "press": "경향신문",
+            "pubDate": "2026-02-02T20:11:00",
+            "related_members": [
+                "RJH6314D",
+                "8P37634C",
+                "JG77046J",
+                "MLH1404S",
+                "GOC54665",
+                "2385336L",
+                "3LP22204",
+                "FYI20317"
+            ],
+            "title": "더불어난 ‘합당’ 갈등"
+        },
+        {
+            "_id": "69814aea38b0cf409697771f",
+            "link": "https://n.news.naver.com/mnews/article/022/0004102613?sid=102",
+            "created_at": "2026-02-03T10:10:00.823000",
+            "description": "지난해 10월 국민의힘 성일종 의원 대표로 발의된 특별법안과 비교해서도 권한이 축소·약화됐다고 날을... 그러면서 “지역 국회의원에는 희망이 없다. 대통령의 결단이 필요하다”고 촉구했다. 민주당 대전·충남... ",
+            "originallink": "https://www.segye.com/newsView/20260202517086?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-02T18:05:00",
+            "related_members": [
+                "MLH1404S",
+                "4019850M",
+                "HVV5250J",
+                "7XY7109I"
+            ],
+            "title": "이장우 “민주당 특별법 광주·전남보다 약한 지역차별법”…주민투표..."
+        },
+        {
+            "_id": "69814ae838b0cf4096977718",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309423?sid=100",
+            "created_at": "2026-02-03T10:09:58.584000",
+            "description": "서울 성북구을의 김남근 국회의원입니다. ◆ 김준우 : 정무위 소속이고 현안 핵심적으로 뭐랄까 이야기할... 몇몇 이소영 의원이나 이런 분들과 함께 그날도 개혁 과제 한 네다섯 가지 상법 관련해서 쟁점들이 있었다고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602021741203190",
+            "press": "YTN",
+            "pubDate": "2026-02-02T17:41:00",
+            "related_members": [
+                "IUX1829H",
+                "MLH1404S",
+                "WTR5885Y"
+            ],
+            "title": "與김남근 \"토지공개념, 합당과 무관...한 두명의 주장일 뿐 정확한 지적..."
+        },
+        {
+            "_id": "69814ae138b0cf40969776d2",
+            "link": "https://n.news.naver.com/mnews/article/032/0003425330?sid=100",
+            "created_at": "2026-02-03T10:09:51.482000",
+            "description": "이·강득구·황명선 최고위원은 합당 논의 중단을 주장했다. 이 최고위원은 “민주적 선결 절차를 패싱한... 민주당 초선 의원 모임인 ‘더민초’는 이날 국회 의원회관에서 합당 관련 간담회를 열고 지방선거 이후 합당... ",
+            "originallink": "https://www.khan.co.kr/article/202602021730001",
+            "press": "경향신문",
+            "pubDate": "2026-02-02T17:30:00",
+            "related_members": [
+                "MLH1404S",
+                "8P37634C",
+                "RJH6314D",
+                "GOC54665",
+                "JG77046J",
+                "3LP22204",
+                "2385336L",
+                "FYI20317"
+            ],
+            "title": "민주당 지도부, 조국혁신당 놓고 정면충돌, 김민석 총리 가세…격화되는..."
+        },
+        {
+            "_id": "69814ae138b0cf40969776d3",
+            "link": "https://n.news.naver.com/mnews/article/022/0004102572?sid=100",
+            "created_at": "2026-02-03T10:09:51.482000",
+            "description": "연합뉴스 비당권파 인사인 이언주·황명선·강득구 최고위원은 2일 최고위 모두발언에서 정 대표 합당 제안을... 연합뉴스 민주당 초선 의원 모임(더민초)도 이날 국회 의원회관에서 간담회를 갖고 합당 논의 중단을... ",
+            "originallink": "https://www.segye.com/newsView/20260202515678?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-02T17:11:00",
+            "related_members": [
+                "RJH6314D",
+                "8P37634C",
+                "JG77046J",
+                "2385336L",
+                "MLH1404S",
+                "GOC54665",
+                "3LP22204"
+            ],
+            "title": "‘합당 블랙홀’에 빠진 정청래號"
+        },
+        {
+            "_id": "69814aea38b0cf4096977720",
+            "link": "https://n.news.naver.com/mnews/article/016/0002594714?sid=102",
+            "created_at": "2026-02-03T10:10:00.823000",
+            "description": "김민석 국무총리 [연합] 지난해 말 “은퇴하면 익산에서 살고 싶다”고 밝혔던 김민석 국무총리가 전북 익산... 영등포에서 국회의원으로 4번 당선됐고 정치적 기반 역시 영등포다. 본적은 부친의 고향인 경남 사천이다. 김... ",
+            "originallink": "https://biz.heraldcorp.com/article/10667996?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-02T16:40:00",
+            "related_members": [
+                "MLH1404S"
+            ],
+            "title": "“은퇴하면 살려고 동네까지 찍어뒀다” 김민석 총리, 결국 ‘여기’ 명..."
+        },
+        {
+            "_id": "69814ae538b0cf409697770f",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117048?sid=100",
+            "created_at": "2026-02-03T10:09:56.074000",
+            "description": "당대표도 국회의원도 그 누구도 당원들의 결정에 승복해야 합니다. &lt;녹취&gt; 이언주 / 더불어민주당... 한병도 원내대표는요, 좌석 등급을 매기는 것이 참 해괴한 정치다. 이 티켓 장사에 불과하다, 이런 비판을 했는데. 잠실... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475052&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T16:00:00",
+            "related_members": [
+                "LYY5513O",
+                "MLH1404S",
+                "JG77046J",
+                "2385336L",
+                "GOC54665",
+                "EPI69383",
+                "EH27538E",
+                "H5476989"
+            ],
+            "title": "[사사건건] 연일 ‘부동산 메시지’…이 대통령의 추진력? ‘근자감’?"
+        },
+        {
+            "_id": "69814aea38b0cf4096977721",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476401?sid=100",
+            "created_at": "2026-02-03T10:10:00.823000",
+            "description": "더불어민주당 사무총장을 맡고 있는 조승래 국회의원입니다. ▶정영진 대전 유성구. 유성 제가 많이 왔다... 한준호 의원 같은 경우는 누가 봐도 이제 친명계로 분류가 되는데 당장 논의를 멈춰라 정부에 도움이 안 된다.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12282971?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-02T15:44:00",
+            "related_members": [
+                "MLH1404S",
+                "FYI20317",
+                "BT62420K",
+                "JG77046J",
+                "2385336L",
+                "H5476989",
+                "BCQ55105"
+            ],
+            "title": "[전문] 조승래 \"합당, 빨리 해야 혼선 최소화...3월 중순쯤 투표 통해 최..."
+        },
+        {
+            "_id": "69814aea38b0cf4096977722",
+            "link": "https://n.news.naver.com/mnews/article/011/0004585664?sid=102",
+            "created_at": "2026-02-03T10:10:00.824000",
+            "description": "또한 김민석 국무총리와 정청래 민주당대표가 축전을, 김영록 전남지사와 강기정 광주시장, 김관영 전북지사, 신정훈 국회의원 등이 축하영상을 통해 출판을 축하하고 응원의 메시지를 전했다. 한편 박지원 국회의원은... ",
+            "originallink": "https://www.sedaily.com/article/20003726?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-02T15:11:00",
+            "related_members": [
+                "MLH1404S",
+                "M7O7878U",
+                "8BF5855P",
+                "2385336L",
+                "VRY5522V",
+                "4L695580",
+                "51A45980"
+            ],
+            "title": "목포시장 민주당 대표주자로 나아가기 위한 첫 여정 ‘강성휘’ 출판기..."
+        },
+        {
+            "_id": "69814aea38b0cf4096977723",
+            "link": "https://n.news.naver.com/mnews/article/056/0012116950?sid=100",
+            "created_at": "2026-02-03T10:10:00.824000",
+            "description": "김민석 국무총리는 오는 6월 지방선거를 앞두고 “국정의 이완과 한 치의 빈틈이 없도록 국정 성공에... 이어 “현직 국무총리이자 정당 소속의 국회의원으로서 각종 선거를 앞두고 다양한 정치적 추측과 질문에 접하곤... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475011&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-02T14:54:00",
+            "related_members": [
+                "MLH1404S"
+            ],
+            "title": "김 총리 “선거 앞두고 국정 빈틈 없도록 전력투구…책임과 소통 강화”"
+        },
+        {
+            "_id": "69814aea38b0cf4096977724",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309187?sid=100",
+            "created_at": "2026-02-03T10:10:00.824000",
+            "description": "김민석 국무총리는 올해 6월 지방선거를 앞두고 국정의 이완과 한 치의 빈틈이 없도록 국정 성공에 집중하고... 이어 현직 총리이자 국회의원으로서 선거를 앞두고 다양한 정치적 추측과 질문에도 접한다며 누차 말씀드렸듯... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602021438402510",
+            "press": "YTN",
+            "pubDate": "2026-02-02T14:38:00",
+            "related_members": [
+                "MLH1404S"
+            ],
+            "title": "김 총리 \"선거 앞두고 국정성공 집중...총리 책임 강화\""
+        },
+        {
             "_id": "697ff0f938b0cf40969772fe",
             "link": "https://n.news.naver.com/mnews/article/020/0003694153?sid=100",
             "created_at": "2026-02-02T09:34:00.936000",
-            "description": "친명(친이재명)계로 경기도지사 출마가 유력한 한준호 의원은 1일 국회에서 기자회견을 열고 “합당 제안은 여기에서 멈춰주시기 바란다”며 “충분한 숙의 없는 통합은 또 다른 분열의 시작이 될 수 있다”고 했다. 한... ",
+            "description": "처리되는 국회 본회의장에서 적절치 않은 모습이 보인 것에 대해 죄송하게 생각한다”고 했다. 이런 가운데 김 총리와 가까운 채현일 의원은 1일 페이스북에 “‘어떤 경우에도 정치인 조국이 사라져선 안 된다’는 기조가... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260202/133276286/2",
             "press": "동아일보",
             "pubDate": "2026-02-02T04:34:00",
@@ -200,7 +484,7 @@
             "_id": "697ff0f938b0cf4096977300",
             "link": "https://n.news.naver.com/mnews/article/020/0003694065?sid=100",
             "created_at": "2026-02-02T09:34:00.936000",
-            "description": "친명(친이재명)계로 경기도지사 출마가 유력한 한준호 의원은 1일 국회에서 기자회견을 열고 “합당 제안은 여기에서 멈춰주시기 바란다”며 “충분한 숙의 없는 통합은 또 다른 분열의 시작이 될 수 있다”고 했다. 한... ",
+            "description": "처리되는 국회 본회의장에서 적절치 않은 모습이 보인 것에 대해 죄송하게 생각한다”고 했다. 이런 가운데 김 총리와 가까운 채현일 의원은 1일 페이스북에 “‘어떤 경우에도 정치인 조국이 사라져선 안 된다’는 기조가... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260201/133274987/1",
             "press": "동아일보",
             "pubDate": "2026-02-01T23:26:00",
@@ -299,7 +583,7 @@
             "_id": "697ff0f938b0cf4096977301",
             "link": "https://n.news.naver.com/mnews/article/015/0005245228?sid=100",
             "created_at": "2026-02-02T09:34:00.936000",
-            "description": "친명(친이재명)계 인사인 한준호 의원은 이날 국회 기자회견에서 “혁신당과의 합당 제안은 여기에서... 최고위원회의에서 합당 문제를 두고 정 대표와 각을 세우는 이언주·황명선·강득구 최고위원 등도 김 총리와... ",
+            "description": "친명(친이재명)계 인사인 한준호 의원은 이날 국회 기자회견에서 “혁신당과의 합당 제안은 여기에서... 또 다른 친명계이자 김민석 국무총리와 가까운 채현일 의원도 가세했다. 채 의원은 SNS에 “‘어떤 경우에도 정치인... ",
             "originallink": "https://www.hankyung.com/article/2026020164401",
             "press": "한국경제",
             "pubDate": "2026-02-01T17:58:00",
@@ -319,7 +603,7 @@
             "_id": "697ff10338b0cf4096977328",
             "link": "https://n.news.naver.com/mnews/article/421/0008746858?sid=102",
             "created_at": "2026-02-02T09:34:11.528000",
-            "description": "이날 행사에선 김민석 국무총리, 정성호 법무부 장관, 유승민 대한체육회장, 문희상 전 국회의장, 정세균 전 총리, 정청래 당 대표, 한병도 당 원내대표, 우원식 국회의장, 이성윤·박지원 당 최고위원, 박찬대 의원, 안규백... ",
+            "description": "그는 군산 시골 소년에서부터 공인회계사·행시·사시를 패스한 '고시 3관왕'의 여정과 변호사·국회의원을... 이날 행사에선 김민석 국무총리, 정성호 법무부 장관, 유승민 대한체육회장, 문희상 전 국회의장, 정세균 전... ",
             "originallink": "https://www.news1.kr/local/jeonbuk/6058068",
             "press": "뉴스1",
             "pubDate": "2026-02-01T17:34:00",
@@ -344,7 +628,7 @@
             "_id": "697ff0f938b0cf4096977304",
             "link": "https://n.news.naver.com/mnews/article/052/0002308795?sid=100",
             "created_at": "2026-02-02T09:34:00.936000",
-            "description": "특히 조국혁신당 같은 경우에는 무려 현역 국회의원이 12명입니다. 12명을 가지고 있는 사실 조국혁신당이... 그런데 지방선거를 앞두고 이런 변수를 가져가면서 어떻게 보면 한동훈과는 함께하지 못하면서 이준석의... ",
+            "description": "특히 조국혁신당 같은 경우에는 무려 현역 국회의원이 12명입니다. 12명을 가지고 있는 사실 조국혁신당이... 그러니까 일각에서는 경기지사에 한준호, 그리고 인천시장에 박찬대, 또 서울시장에 정원오, 이렇게 이 대통령이... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202602011638460129",
             "press": "YTN",
             "pubDate": "2026-02-01T16:38:00",
@@ -416,7 +700,7 @@
             "_id": "697ff0fa38b0cf409697730c",
             "link": "https://n.news.naver.com/mnews/article/052/0002308740?sid=102",
             "created_at": "2026-02-02T09:34:02.152000",
-            "description": "또한 청문회에서 국회의원들이 조곤조곤 물어봤으면 답변했을 것이다라고 하는데 기업의 비밀, 즉 자신들의... 국민의힘의 장동혁 당대표가 본인의 목숨을 걸고 단식을 하듯이 쌍특검, 이번 강선우, 김병기, 김경과 관련된... ",
+            "description": "또한 청문회에서 국회의원들이 조곤조곤 물어봤으면 답변했을 것이다라고 하는데 기업의 비밀, 즉 자신들의... 그런데 어떻게 아직까지도 강선우, 김병기, 김경, 민주당 측 정치인들은 활보하고 다니죠? 저는 이런 상황이... ",
             "originallink": "https://www.ytn.co.kr/_ln/0103_202602011244368945",
             "press": "YTN",
             "pubDate": "2026-02-01T12:44:00",
@@ -428,270 +712,6 @@
                 "KFM1081G"
             ],
             "title": "쿠팡, 로저스 대표 경찰 첫 조사...김경 공천 로비 수사 속도"
-        },
-        {
-            "_id": "697ff15138b0cf40969773c3",
-            "link": "https://n.news.naver.com/mnews/article/003/0013741693?sid=100",
-            "created_at": "2026-02-02T09:35:29.667000",
-            "description": "최보윤 국민의힘 수석대변인은 이날 오전 논평을 내어 \"김 총리는 서울시장 출마 여부를 분명히 밝히고, 국민... 최 수석대변인은 \"김 총리는 지난 17일 국가 공공시설인 서울 삼청동 총리 관저에서 자신의 국회의원 지역구... ",
-            "originallink": "https://www.newsis.com/view/NISX20260201_0003497812",
-            "press": "뉴시스",
-            "pubDate": "2026-02-01T09:53:00",
-            "related_members": [
-                "MLH1404S",
-                "UOS16250"
-            ],
-            "title": "국힘 \"김민석, 총리 관저서 당원 행사…관저가 민주당 지역사무실인가..."
-        },
-        {
-            "_id": "697ff10f38b0cf4096977355",
-            "link": "https://n.news.naver.com/mnews/article/050/0000101770?sid=101",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했다. 국민의힘 소속인 주호영 국회부의장, 조국혁신당 조국 대표, 진보당 김재연 상임대표, 사회민주당 한창민 대표, 기본소득당 용혜인 대표 등 야권 인사들도... ",
-            "originallink": "https://magazine.hankyung.com/business/article/202602015706b",
-            "press": "한국경제",
-            "pubDate": "2026-02-01T08:18:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C",
-                "XBT9550Q",
-                "MLH1404S",
-                "IN328264"
-            ],
-            "title": "\"민주주의 역사 그 자체\" 故이해찬 전 총리 영결식 눈물 속 엄수"
-        },
-        {
-            "_id": "697ff10e38b0cf4096977353",
-            "link": "https://n.news.naver.com/mnews/article/003/0013741600?sid=102",
-            "created_at": "2026-02-02T09:34:22.161000",
-            "description": "이날 출판기념회에는 김경수 지방시대 위원장, 민홍철 국회의원, 김정호 국회의원, 허성무 국회의원 등 경남 민주당의 주요 인사들이 참석한다. 정영두 김해시장 출마예정자는 “김민석 국무총리, 정청래 민주당 대표... ",
-            "originallink": "https://www.newsis.com/view/NISX20260201_0003497740",
-            "press": "뉴시스",
-            "pubDate": "2026-02-01T07:53:00",
-            "related_members": [
-                "MLH1404S",
-                "9LD2641Q",
-                "O6D8329R",
-                "HHB5652A",
-                "2385336L",
-                "BT62420K",
-                "FYI20317"
-            ],
-            "title": "정영두 김해시장 출마예정자, 출판기념회"
-        },
-        {
-            "_id": "697ff12e38b0cf409697738d",
-            "link": "https://tjmbc.co.kr/NewsArticle/822567",
-            "created_at": "2026-02-02T09:34:54.790000",
-            "description": "안장식에는 유족과 함께 김민석 국무총리, 우원식 국회의장 등이 자리해 흙 한 줌 한 줌을 덮으며 고인의... 이 전 총리는 지난 1988년 13대 총선에서 처음 정계에 입문한 뒤 7선 국회의원을 지내며 국무총리와 당대표 등을... ",
-            "originallink": "https://tjmbc.co.kr/NewsArticle/822567",
-            "press": "MBC",
-            "pubDate": "2026-01-31T20:42:00",
-            "related_members": [
-                "XBT9550Q",
-                "MLH1404S"
-            ],
-            "title": "[리포트]직접 설계한 세종에 영면..故 이해찬 전 총리"
-        },
-        {
-            "_id": "697ff13338b0cf4096977391",
-            "link": "https://n.news.naver.com/mnews/article/421/0008746062?sid=102",
-            "created_at": "2026-02-02T09:34:59.683000",
-            "description": "안장식에는 유족과 우원식 국회의장, 김민석 국무총리, 윤호중 행정안전부 장관, 최교진 교육부 장관, 정청래 대표를 비롯한 민주당 소속 의원들이 대거 참석했다. 고인의 보좌관을 지낸 유시민 작가, 배우 명계남 씨도... ",
-            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6057668",
-            "press": "뉴스1",
-            "pubDate": "2026-01-31T17:52:00",
-            "related_members": [
-                "M0A1658U",
-                "2385336L",
-                "XBT9550Q",
-                "MLH1404S"
-            ],
-            "title": "이해찬 전 총리, 부모 곁 세종서 영면…1000여명 마지막 길 배웅"
-        },
-        {
-            "_id": "697ff14c38b0cf40969773bc",
-            "link": "https://n.news.naver.com/mnews/article/022/0004102071?sid=100",
-            "created_at": "2026-02-02T09:35:24.461000",
-            "description": "이재명 대통령과 김혜경 여사가 31일 국회 의원회관 대회의실에서 열린 故 이해찬 제36대 국무총리 사회장 영결식에 참석했다. 청와대에서는 조정식 정무특보, 홍익표 정무수석 등이 장례위에서는 우원식 국회의장, 김민석... ",
-            "originallink": "https://www.segye.com/newsView/20260131504440?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-31T13:10:00",
-            "related_members": [
-                "IN328264",
-                "XBT9550Q",
-                "MLH1404S"
-            ],
-            "title": "故 이해찬 제36대 국무총리 사회장 영결식 [한강로 사진관]"
-        },
-        {
-            "_id": "697ff13f38b0cf40969773ac",
-            "link": "https://n.news.naver.com/mnews/article/005/0001829444?sid=100",
-            "created_at": "2026-02-02T09:35:11.603000",
-            "description": "영결식은 이해식 의원의 사회로 시작됐다. 조정식 정무특보의 약력 보고를 시작으로 김민석 국무총리의 조사, 우원식 국회의장과 정청래 대표, 백낙청 명예교수, 한명숙 전 총리의 추도사가 이어졌다. 추도사 과정에서 여러... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029329716&code=61111211&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-31T11:28:00",
-            "related_members": [
-                "MLH1404S",
-                "CCU1009B",
-                "IN328264",
-                "XBT9550Q",
-                "2385336L"
-            ],
-            "title": "故 이해찬 전 총리 사회장 영결식 엄수… 이 대통령 부부 등 각계 인사..."
-        },
-        {
-            "_id": "697ff11938b0cf4096977365",
-            "link": "https://n.news.naver.com/mnews/article/056/0012116312?sid=100",
-            "created_at": "2026-02-02T09:34:33.445000",
-            "description": "국민의힘이 김민석 국무총리가 관저에서 자신의 국회의원 지역구 당원 행사를 열었다며, “권력을... 앞서 시민단체 ‘서민민생대책위원회’는 김 총리가 지난 17일 서울 삼청동 국무총리 관저에서 민주당 채현일 의원과... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474089&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-31T11:05:00",
-            "related_members": [
-                "NX534083",
-                "MLH1404S",
-                "1S05899F"
-            ],
-            "title": "국민의힘 “김민석 총리, 관저서 민주당 당원 행사…해임 대상”"
-        },
-        {
-            "_id": "697ff11938b0cf4096977366",
-            "link": "https://n.news.naver.com/mnews/article/448/0000587468?sid=100",
-            "created_at": "2026-02-02T09:34:33.445000",
-            "description": "민주당 채현일 의원도 참석했다”고 밝혔다. 박 수석대변인은 “김 총리는 영등포을 지역구 국회의원으로, 국가 공공시설을 자신의 지역 정치 행사 무대로 활용한 셈”이라며 “총리 관저는 건물 유지부터 경호, 운영... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/31/2026013190019.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-31T10:50:00",
-            "related_members": [
-                "NX534083",
-                "MLH1404S",
-                "1S05899F"
-            ],
-            "title": "국힘 \"'관저 친목행사' 김민석, 즉각 사퇴가 국민에 대한 예의\""
-        },
-        {
-            "_id": "697ff11938b0cf4096977367",
-            "link": "https://n.news.naver.com/mnews/article/448/0000587464?sid=100",
-            "created_at": "2026-02-02T09:34:33.446000",
-            "description": "박성훈 국민의힘 수석대변인은 이날 논평을 통해 “김 총리는 지난 17일 서울 종로구 삼청동 총리 관저 내부에... 이어 “영등포을 지역구 국회의원인 김 총리가 국가 공공시설을 자신의 지역 정치 행사 무대로 활용한 것”... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/31/2026013190015.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-31T10:30:00",
-            "related_members": [
-                "NX534083",
-                "MLH1404S"
-            ],
-            "title": "국민의힘 \"김민석, 총리 관저서 친목행사…국가 자산 사적 이용 사퇴해..."
-        },
-        {
-            "_id": "697ff10838b0cf4096977336",
-            "link": "https://n.news.naver.com/mnews/article/032/0003424949?sid=100",
-            "created_at": "2026-02-02T09:34:16.320000",
-            "description": "우원식 국회의장, 김민석 국무총리, 정청래 더불어민주당 대표 등이 뒤를 따랐다. 한병도 민주당 원내대표, 추미애·김태년·김영배·한민수 의원, 윤호중 행정안전부 장관, 권오을 국가보훈부 장관, 조국 조국혁신당 대표... ",
-            "originallink": "https://www.khan.co.kr/article/202601311029001",
-            "press": "경향신문",
-            "pubDate": "2026-01-31T10:29:00",
-            "related_members": [
-                "B7D7534L",
-                "MLH1404S",
-                "H5476989",
-                "URV1689Q",
-                "8JG4358H",
-                "1WE5693J",
-                "XBT9550Q",
-                "M0A1658U",
-                "2385336L"
-            ],
-            "title": "고 이해찬 전 총리 영결식 엄수…눈물 훔친 이 대통령"
-        },
-        {
-            "_id": "697ff13338b0cf4096977392",
-            "link": "https://n.news.naver.com/mnews/article/011/0004585137?sid=100",
-            "created_at": "2026-02-02T09:34:59.684000",
-            "description": "우원식 국회의장과 김민석 국무총리 등이 함께했다. 장례 기간 상주 역할을 한 김부겸 전 총리와 윤호중... 7선 국회의원을 지낸 고인은 충남 청양 출신으로, 세종에서 두 차례 국회의원을 지냈다. 이 대통령에게는 정치적... ",
-            "originallink": "https://www.sedaily.com/article/20003143?ref=naver",
-            "press": "서울경제",
-            "pubDate": "2026-01-31T10:15:00",
-            "related_members": [
-                "M0A1658U",
-                "XBT9550Q",
-                "MLH1404S"
-            ],
-            "title": "눈물 쏟은 李 대통령…故이해찬 전 총리 영결식 참석"
-        },
-        {
-            "_id": "697ff11938b0cf4096977368",
-            "link": "https://n.news.naver.com/mnews/article/421/0008745770?sid=100",
-            "created_at": "2026-02-02T09:34:33.446000",
-            "description": "이 자리에는 영등포갑 민주당 채현일 의원도 함께했다\"며 이같이 밝혔다. 박 수석대변인은 \"김 총리는 영등포을 지역구 국회의원으로, 국가 공공시설을 자신의 지역 정치 행사 무대로 이용한 것\"이라며 \"총리 관저는 건물... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6057488",
-            "press": "뉴스1",
-            "pubDate": "2026-01-31T09:52:00",
-            "related_members": [
-                "NX534083",
-                "MLH1404S",
-                "1S05899F"
-            ],
-            "title": "국힘 \"'관저 친목행사' 김민석, 당장 물러나는 게 국민 대한 예의\""
-        },
-        {
-            "_id": "697ff15038b0cf40969773c0",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693867?sid=100",
-            "created_at": "2026-02-02T09:35:27.892000",
-            "description": "30일 정치권에 따르면 시민단체 서민민생대책위원회는 27일 김 총리와 민주당 채현일 의원을 직권남용... 김 총리와 채 의원은 각각 서울 영등포을과 영등포갑 국회의원이다. 국무총리실은 “행사 전 선관위에 문의했고... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133269861/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-31T01:42:00",
-            "related_members": [
-                "1S05899F",
-                "MLH1404S"
-            ],
-            "title": "“김민석, 총리공관서 당원 행사” 경찰 고발"
-        },
-        {
-            "_id": "697ff12838b0cf409697737e",
-            "link": "https://n.news.naver.com/mnews/article/020/0003693864?sid=100",
-            "created_at": "2026-02-02T09:34:48.014000",
-            "description": "개혁신당 이준석 대표와 오세훈 서울시장도 이날 오후 빈소를 찾아 고인을 추모했다. 이 전 총리의 기관... 여의도 국회 의원회관에서 엄수된다. 영결식에선 김민석 국무총리와 정 대표가 추도사를 낭독한다. 영결식 후 이... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260130/133269867/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-31T01:42:00",
-            "related_members": [
-                "2385336L",
-                "KFM1081G",
-                "6EN68926",
-                "MLH1404S",
-                "QWL7778X"
-            ],
-            "title": "이해찬 빈소서 손 맞잡은 정청래-장동혁"
-        },
-        {
-            "_id": "697ff12a38b0cf4096977386",
-            "link": "https://n.news.naver.com/mnews/article/056/0012116198?sid=100",
-            "created_at": "2026-02-02T09:34:50.314000",
-            "description": "이후 국회 의원회관에서 당 지도부와 정부 관계자 등이 참석한 가운데 영결식이 거행될 예정입니다. 장례위원장인 김민석 국무총리를 비롯해 윤호중 행정안전부 장관, 정동영 통일부 장관, 안규백 국방부 장관 등 관계... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473931&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-31T01:03:00",
-            "related_members": [
-                "M0A1658U",
-                "TST4507I",
-                "ARP89147",
-                "MLH1404S"
-            ],
-            "title": "고 이해찬 전 총리 오늘 발인…국회 영결식 이후 세종 은하수공원 안장"
         }
     ],
     "recent_videos": [
@@ -916,5 +936,271 @@
             "upload_date": null
         }
     ],
-    "exported_at": "2026-02-02T09:57:01.231603"
+    "recent_bills": [
+        {
+            "BILL_ID": "PRC_C2C5A0B4A1V4W1U6U2T6U0S9S7B7Z3",
+            "BILL_NO": "2210091",
+            "BILL_NAME": "응급의료에 관한 법률 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2025-04-24",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2C5A0B4A1V4W1U6U2T6U0S9S7B7Z3&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2C5A0B4A1V4W1U6U2T6U0S9S7B7Z3",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-18",
+            "COMMITTEE_DT": "2025-04-25",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "윤준병,윤종군,서삼석,김현,이원택,김남근,박지원,김기표,이재정",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_R2T5R0R4P1Q4Y1Y6X2V5W2U1U5R0R6",
+            "BILL_NO": "2210090",
+            "BILL_NAME": "긴급복지지원법 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2025-04-24",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2T5R0R4P1Q4Y1Y6X2V5W2U1U5R0R6&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_R2T5R0R4P1Q4Y1Y6X2V5W2U1U5R0R6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-18",
+            "COMMITTEE_DT": "2025-04-25",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "윤준병,윤종군,서삼석,김현,이원택,김남근,박지원,김기표,이재정",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_B2A5A0I4J1H4I1G6G2F7N0N5M3M9K8",
+            "BILL_NO": "2210089",
+            "BILL_NAME": "결핵예방법 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2025-04-24",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A5A0I4J1H4I1G6G2F7N0N5M3M9K8&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_B2A5A0I4J1H4I1G6G2F7N0N5M3M9K8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-18",
+            "COMMITTEE_DT": "2025-04-25",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "윤준병,윤종군,서삼석,김현,이원택,김남근,박지원,김기표,이재정",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_L2T5R0S3R2Q5Y1W5V2U4U1D9B3A6Z5",
+            "BILL_NO": "2209817",
+            "BILL_NAME": "가사소송법 일부개정법률안",
+            "COMMITTEE": "법제사법위원회",
+            "PROPOSE_DT": "2025-04-15",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2T5R0S3R2Q5Y1W5V2U4U1D9B3A6Z5&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_L2T5R0S3R2Q5Y1W5V2U4U1D9B3A6Z5",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-11-26",
+            "COMMITTEE_DT": "2025-04-16",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700006",
+            "PUBL_PROPOSER": "김준혁,조계원,송재봉,정동영,박선원,이수진,박지원,이원택,윤종군",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_S2R5Z0A3Z2X5W1W5F2D4C4A8B4J5I3",
+            "BILL_NO": "2209815",
+            "BILL_NAME": "아동복지법 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2025-04-15",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2R5Z0A3Z2X5W1W5F2D4C4A8B4J5I3&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_S2R5Z0A3Z2X5W1W5F2D4C4A8B4J5I3",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-18",
+            "COMMITTEE_DT": "2025-04-16",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "김준혁,조계원,송재봉,정동영,박선원,박지원,이수진,이원택,윤종군",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_E2D5C0A3B1X9V0U9V5U1C3A6Z4A0Y8",
+            "BILL_NO": "2209280",
+            "BILL_NAME": "아동학대범죄의 처벌 등에 관한 특례법 일부개정법률안",
+            "COMMITTEE": "법제사법위원회",
+            "PROPOSE_DT": "2025-03-21",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2D5C0A3B1X9V0U9V5U1C3A6Z4A0Y8&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 14인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_E2D5C0A3B1X9V0U9V5U1C3A6Z4A0Y8",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-11-12",
+            "COMMITTEE_DT": "2025-03-24",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700006",
+            "PUBL_PROPOSER": "송재봉,윤준병,정동영,서미화,안태준,박지원,이원택,위성락,임호선,조계원,이연희,김우영,김기표",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_S2R5Z0Y3X1X9W0S9R5P2Q2O4W3V4U2",
+            "BILL_NO": "2209268",
+            "BILL_NAME": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안",
+            "COMMITTEE": "과학기술정보방송통신위원회",
+            "PROPOSE_DT": "2025-03-21",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2R5Z0Y3X1X9W0S9R5P2Q2O4W3V4U2&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 14인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_S2R5Z0Y3X1X9W0S9R5P2Q2O4W3V4U2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-26",
+            "COMMITTEE_DT": "2025-03-24",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700479",
+            "PUBL_PROPOSER": "박희승,송재봉,윤준병,정동영,서미화,안태준,박지원,이원택,위성락,임호선,이연희,김우영,김기표",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_T2R5S0A3A1Z9H0F9E2F8D4Z6Y8Z5X2",
+            "BILL_NO": "2209266",
+            "BILL_NAME": "긴급복지지원법 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2025-03-21",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5S0A3A1Z9H0F9E2F8D4Z6Y8Z5X2&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 14인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_T2R5S0A3A1Z9H0F9E2F8D4Z6Y8Z5X2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": "2025-08-18",
+            "COMMITTEE_DT": "2025-03-24",
+            "PROC_DT": null,
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "박희승,송재봉,윤준병,정동영,서미화,안태준,박지원,이원택,위성락,임호선,이연희,김우영,김기표",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_I2Q4R1P1Q2O7N0N8V5W5U5U4T7R7S1",
+            "BILL_NO": "2205948",
+            "BILL_NAME": "국가배상법 일부개정법률안",
+            "COMMITTEE": "법제사법위원회",
+            "PROPOSE_DT": "2024-11-27",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q4R1P1Q2O7N0N8V5W5U5U4T7R7S1&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 12인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_I2Q4R1P1Q2O7N0N8V5W5U5U4T7R7S1",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2024-12-09",
+            "CMT_PRESENT_DT": "2024-12-09",
+            "COMMITTEE_DT": "2024-11-28",
+            "PROC_DT": "2024-12-10",
+            "COMMITTEE_ID": "9700006",
+            "PUBL_PROPOSER": "서영교,이건태,장경태,박홍배,박선원,김영호,안규백,황명선,김용민,김병주,진성준",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_G2Q4A0S9P2B0J1I7P5Z2B5Q5S7G6M2",
+            "BILL_NO": "2204148",
+            "BILL_NAME": "계엄법 일부개정법률안",
+            "COMMITTEE": "국방위원회",
+            "PROPOSE_DT": "2024-09-20",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_G2Q4A0S9P2B0J1I7P5Z2B5Q5S7G6M2&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_G2Q4A0S9P2B0J1I7P5Z2B5Q5S7G6M2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2025-06-25",
+            "CMT_PRESENT_DT": "2024-11-15",
+            "COMMITTEE_DT": "2024-09-23",
+            "PROC_DT": "2025-07-03",
+            "COMMITTEE_ID": "9700019",
+            "PUBL_PROPOSER": "김병주,박선원,부승찬,조국,허영,안규백,황희,박범계,추미애",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        },
+        {
+            "BILL_ID": "PRC_C2B4B0A6Y1Y2H1H5F5G6F3D2D7L0M6",
+            "BILL_NO": "2200404",
+            "BILL_NAME": "노인복지법 일부개정법률안",
+            "COMMITTEE": "보건복지위원회",
+            "PROPOSE_DT": "2024-06-12",
+            "PROC_RESULT": "대안반영폐기",
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2B4B0A6Y1Y2H1H5F5G6F3D2D7L0M6&ageFrom=22&ageTo=22",
+            "PROPOSER": "김민석의원 등 13인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_C2B4B0A6Y1Y2H1H5F5G6F3D2D7L0M6",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": "대안반영폐기",
+            "CMT_PROC_DT": "2024-11-21",
+            "CMT_PRESENT_DT": "2024-07-16",
+            "COMMITTEE_DT": "2024-06-13",
+            "PROC_DT": "2024-12-02",
+            "COMMITTEE_ID": "9700341",
+            "PUBL_PROPOSER": "한정애,서영교,장경태,박홍배,강선우,남인순,박희승,김영호,김남희,채현일,정준호,강득구",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "김민석"
+        }
+    ],
+    "exported_at": "2026-02-03T14:50:45.333997"
 }

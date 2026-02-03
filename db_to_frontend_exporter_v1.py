@@ -100,7 +100,7 @@ def export_integrated_insight():
         os.makedirs(EXPORT_DIR)
         print(f"📂 폴더 생성 완료: {EXPORT_DIR}")
 
-    print(f"\n🚀 [START] 22대 국회 통합 분석 시스템 (Kiwi Engine)")
+    print(f"\n🚀 [START] 22대 국회 통합 분석 시스템 (Kiwi + Policy Engine)")
     print("=" * 80)
     
     # 1. 22대 의원 로드
@@ -121,15 +121,20 @@ def export_integrated_insight():
     # 2. 의원별 개별 분석 및 파일 생성
     for i, member in enumerate(members, 1):
         naas_cd = member.get('NAAS_CD')
-        name = member.get('HG_NM') or member.get('NAAS_NM') # 필드명 대응
+        # DB 구조에 따라 HG_NM 또는 NAAS_NM 사용
+        name = member.get('HG_NM') or member.get('NAAS_NM') or member.get('name')
         
         if not naas_cd: continue
 
         print(f"📦 [{i}/{total_members}] 분석 중: {name} ({naas_cd})", end=" ", flush=True)
 
-        # 데이터 취합
+        # [기존 데이터 취합]
         news = list(db.news.find({"related_members": naas_cd}).sort("pubDate", -1).limit(30))
         videos = list(db.youtube_videos.find({"MONA_CD": naas_cd}).sort("upload_date", -1).limit(20))
+
+        # [신규: 법안/정책 데이터 취합]
+        # members_policy 컬렉션에서 의원 이름으로 정책 데이터를 찾습니다.
+        policy_data = db.members_policy.find_one({"name": name})
 
         # AI 키워드 분석 실행 (Kiwi)
         analysis_res = extract_member_keywords(news, videos, name)
@@ -142,9 +147,14 @@ def export_integrated_insight():
                 "keyword_frequency": analysis_res["keyword_details"],
                 "last_analyzed_at": datetime.now().isoformat(),
                 "trend_news": get_news_trend(news),
+                # [추가] 입법 분석 통계 및 AI 요약
+                "ai_policy_summary": policy_data.get('ai_summary') if policy_data else "정책 분석 데이터가 없습니다.",
+                "policy_stats": policy_data.get('analysis_stats') if policy_data else None,
             },
             "recent_news": format_mongo_data(news),
             "recent_videos": format_mongo_data(videos),
+            # [추가] 최근 발의 법안 리스트 (최근 10건)
+            "recent_bills": format_mongo_data(policy_data.get('representative_bills', [])) if policy_data else [],
             "exported_at": datetime.now().isoformat()
         }
         
@@ -154,7 +164,7 @@ def export_integrated_insight():
             json.dump(combined_data, f, ensure_ascii=False, indent=4)
         
         kw_str = ', '.join(analysis_res['top_keywords'][:3])
-        print(f" -> ✅ 완료 ({kw_str})")
+        print(f" -> ✅ 완료 (법안: {len(combined_data['recent_bills'])}건 포함)")
 
     duration = time.time() - start_time
     print("\n" + "=" * 80)

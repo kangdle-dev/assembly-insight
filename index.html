@@ -121,7 +121,7 @@
 
     async function init() {
         try {
-            const response = await fetch('data_export/members_all.json');
+            const response = await fetch('/members_all.json');
             if (!response.ok) throw new Error("JSON 로드 실패");
             const rawData = await response.json();
             
@@ -277,7 +277,7 @@
             return `
                 ${adHtml}
                 <div class="card p-4 flex items-center gap-4 cursor-pointer active:scale-95 transition-all" 
-                    onclick="location.href='details/${m.NAAS_CD}.html'">
+                    onclick="location.href='members/22_details/${m.NAAS_NM}.html'">
                     <div class="w-16 h-16 rounded-2xl overflow-hidden bg-slate-100 flex-shrink-0">
                         <img src="./${m.PHOTO_PATH}" class="w-full h-full object-cover" onerror="this.src='https://via.placeholder.com/150x200?text=👤'">
                     </div>
