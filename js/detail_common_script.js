@@ -5,6 +5,8 @@
 const appTag = document.getElementById('app');
 const naasId = appTag ? appTag.getAttribute('data-id') : new URLSearchParams(window.location.search).get('id');
 let allBills = []; 
+let allNews = [];
+let allVideos = [];
 
 document.addEventListener('DOMContentLoaded', () => {
     if (!naasId) return;
@@ -196,36 +198,99 @@ function expandBills() {
 // 뉴스 및 영상 렌더링 (기존 로직 유지)
 function renderNews(news) {
     const list = document.getElementById('news-list');
-    if (!list || !news) return;
-    list.innerHTML = news.slice(0, 8).map(item => `
-        <li class="p-5 active:bg-slate-50 transition-colors">
-            <a href="${item.link}" target="_blank" class="block">
-                <div class="flex items-center gap-2 mb-2">
-                    <span class="text-[12px] font-bold text-blue-500 uppercase tracking-tight">${item.press || 'Media'}</span>
-                    <span class="text-[12px] text-slate-400">${item.pubDate ? new Date(item.pubDate).toLocaleDateString() : ""}</span>
-                </div>
-                <h4 class="text-sm font-bold text-slate-800 leading-snug line-clamp-2">${item.title.replace(/<[^>]*>?/gm, '')}</h4>
-            </a>
-        </li>`).join('');
+    const moreBtnContainer = document.getElementById('more-news-container');
+    if (!list) return;
+
+    allNews = news || [];
+    const initialNews = allNews.slice(0, 10); // 초기 10개    
+
+    const getNewsHtml = (item) => {
+        return ` 
+            <li class="p-5 active:bg-slate-50 transition-colors">
+                <a href="${item.originallink}" target="_blank" class="block">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="text-[12px] font-bold text-blue-500 uppercase tracking-tight">${item.press || 'Media'}</span>
+                        <span class="text-[12px] text-slate-400">${item.pubDate ? new Date(item.pubDate).toLocaleString() : ""}</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-slate-800 leading-snug line-clamp-2">${item.title.replace(/<[^>]*>?/gm, '')}</h4>
+                </a>
+            </li>`;
+    };
+    list.innerHTML = initialNews.map(getNewsHtml).join('');
+
+    // 더보기 버튼 동적 노출
+    if (allNews.length > 10 && moreBtnContainer) {
+        moreBtnContainer.innerHTML = `
+            <button onclick="expandNews()" class="w-full py-4 text-xs font-bold text-slate-400 hover:text-blue-600 transition-colors bg-slate-50/30">
+                뉴스 더보기 (${allNews.length - 10}건) <i class="fa-solid fa-chevron-down ml-1"></i>
+            </button>
+        `;
+    }
+}
+
+// 뉴스 확장 함수
+function expandNews() {
+    const list = document.getElementById('news-list');
+    const moreBtnContainer = document.getElementById('more-news-container');    
+
+    // 전체 리스트 재렌더링 (또는 추가분만 append 가능)
+    list.innerHTML = allNews.map(item => {
+        const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleString('ko-KR') : "";
+        return `
+            <li class="p-5 active:bg-slate-50 transition-colors border-b border-slate-50">
+                <a href="${item.link}" target="_blank" class="block">
+                    <div class="flex items-center gap-2 mb-2">
+                        <span class="text-[12px] font-bold text-blue-500 uppercase tracking-tight">${item.press || 'Media'}</span>
+                        <span class="text-[12px] text-slate-400">${dateStr}</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-slate-800 leading-snug">${item.title.replace(/<[^>]*>?/gm, '')}</h4>
+                </a>
+            </li>`;
+    }).join('');
+
+    if (moreBtnContainer) moreBtnContainer.innerHTML = ''; // 버튼 제거
 }
 
 function renderVideos(videos) {
     const container = document.getElementById('video-list');
-    if (!container || !videos) return;
-    container.innerHTML = videos.slice(0, 6).map(v => {
-        const videoId = (v.url.split('v=')[1] || "").split('&')[0];
+    const moreBtnContainer = document.getElementById('more-video-container');
+    
+    if (!container) return;
+    allVideos = videos || [];
+    const initialVideos = allVideos.slice(0, 10); // 초기 10개    
+
+    const getVideoHtml = (item) => {
+        const videoId = (item.url.split('v=')[1] || "").split('&')[0];
         return `
-            <a href="${v.url}" target="_blank" class="flex gap-4 group">
-                <div class="w-24 h-16 rounded-2xl overflow-hidden flex-shrink-0 shadow-sm relative">
+            <a href="${item.url}" target="_blank" class="flex gap-4 group">
+                <div class="w-40 h-24 rounded-2xl overflow-hidden flex-shrink-0 shadow-sm relative">
                     <img src="https://img.youtube.com/vi/${videoId}/mqdefault.jpg" class="w-full h-full object-cover">
                     <div class="absolute inset-0 bg-black/10 flex items-center justify-center"><i class="fa-solid fa-play text-white text-xs opacity-80"></i></div>
                 </div>
                 <div class="flex flex-col justify-center min-w-0">
-                    <h4 class="text-[14px] font-bold text-slate-800 line-clamp-2 leading-tight group-hover:text-blue-600 transition-colors">${v.title}</h4>
-                    <span class="text-[12px] text-slate-400 mt-1">${v.channel || 'YouTube'}</span>
+                    <h4 class="text-[14px] font-bold text-slate-800 line-clamp-2 leading-tight group-hover:text-blue-600 transition-colors">${item.title}</h4>
+                    <span class="text-[12px] text-slate-400 mt-1">${item.channel || 'YouTube'}</span>
                 </div>
             </a>`;
-    }).join('');
+    }
+    container.innerHTML = initialVideos.map(getVideoHtml).join('');
+
+    // 더보기 버튼 동적 노출
+    if (allVideos.length > 10 && moreBtnContainer) {
+        moreBtnContainer.innerHTML = `
+            <button onclick="expandVideos()" class="w-full py-4 text-xs font-bold text-slate-400 hover:text-blue-600 transition-colors bg-slate-50/30">
+                영상 더보기 (${allVideos.length - 10}건) <i class="fa-solid fa-chevron-down ml-1"></i>
+            </button>
+        `;
+    }
+}
+
+// 영상 확장 함수
+function expandVideos() {
+    const container = document.getElementById('video-list');
+    const moreBtnContainer = document.getElementById('more-video-container');
+
+    if (moreBtnContainer) moreBtnContainer.innerHTML = ''; // 버튼 제거
 }
 
 // 트렌드 차트 및 SNS 로직 생략 (기존 함수와 동일)
@@ -267,4 +332,25 @@ function renderSNSLinks(snsInfo) {
 
 async function _snsPopShare(title) {    
     try { await navigator.share({ title: title, url: window.location.href }); } catch (e) { console.error(e); }    
+}
+
+/**
+ * 축소된 상단 바를 고려한 섹션 스크롤 로직
+ */
+function scrollToSection(sectionId) {
+    const element = document.getElementById(sectionId);
+    if (!element) return;
+
+    // 네비게이션 바 높이(h-14/16) + 여백(20px) 설정
+    const navHeight = document.querySelector('nav').offsetHeight;
+    const elementPosition = element.getBoundingClientRect().top;
+    const offsetPosition = elementPosition + window.pageYOffset - navHeight - 20;
+
+    window.scrollTo({
+        top: offsetPosition,
+        behavior: "smooth"
+    });
+
+    // 탭 활성화 스타일 업데이트
+    updateActiveTab(sectionId);
 }

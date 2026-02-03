@@ -48,16 +48,22 @@
     <!-- End Google Tag Manager (noscript) -->
 
     
-    <nav class="bg-white/80 backdrop-blur-xl sticky top-0 z-50 border-b border-slate-100 px-4 py-3">
-        <div class="max-w-6xl mx-auto flex justify-between items-center">
-            <button onclick="history.back()" class="w-10 h-10 flex items-center justify-center rounded-full bg-slate-50 hover:bg-slate-100 text-slate-600">
-                <i class="fa-solid fa-chevron-left"></i>
+    <nav class="bg-white/80 backdrop-blur-xl sticky top-0 z-50 border-b border-slate-100 px-4">
+        <div class="max-w-6xl mx-auto flex items-center h-14 md:h-16 gap-4">
+            
+            <button onclick="history.back()" class="w-8 h-8 flex items-center justify-center rounded-full bg-slate-50 hover:bg-slate-100 text-slate-600 flex-shrink-0">
+                <i class="fa-solid fa-chevron-left text-sm"></i>
             </button>
-            <span class="font-black text-lg tracking-tight text-blue-600">의원 상세 리포트</span>
-            <div class="flex gap-2">
-                <button class="hidden md:flex px-4 py-2 rounded-full bg-blue-600 text-white text-xs font-bold" onclick="_snsPopShare('김성환 의원 AI 분석 리포트')">공유하기</button>
-                <button class="w-10 h-10 md:hidden flex items-center justify-center rounded-full bg-slate-50"><i class="fa-solid fa-share-nodes"></i></button>
+    
+            <div class="flex-1 flex justify-center gap-6 md:gap-12">
+                <button onclick="scrollToSection('bills-section')" class="nav-tab py-1 text-xs md:text-sm font-black text-slate-400 border-b-2 border-transparent hover:text-blue-600 transition-all">의정활동</button>
+                <button onclick="scrollToSection('news-section')" class="nav-tab py-1 text-xs md:text-sm font-black text-slate-400 border-b-2 border-transparent hover:text-blue-600 transition-all">주요보도</button>
+                <button onclick="scrollToSection('video-section')" class="nav-tab py-1 text-xs md:text-sm font-black text-slate-400 border-b-2 border-transparent hover:text-blue-600 transition-all">활동영상</button>
             </div>
+    
+            <button class="px-4 py-1.5 rounded-full bg-blue-600 text-white text-[10px] md:text-xs font-bold flex-shrink-0" onclick="_snsPopShare('김성환 리포트')">
+                공유<span class="hidden md:inline">하기</span>
+            </button>
         </div>
     </nav>
 
@@ -143,7 +149,7 @@
             </div>
     
             
-            <section class="card overflow-hidden">
+            <section class="card overflow-hidden" id="bills-section">
                 <div class="overflow-x-auto">
                     <table class="w-full text-left border-collapse" id="bills-table">
                         <tbody class="divide-y divide-slate-50">
@@ -153,24 +159,26 @@
                 </div>
             </section>
     
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <section class="card overflow-hidden">
-                    <div class="p-6 border-b border-slate-50 font-bold flex justify-between items-center">
-                        <span>주요 보도</span><i class="fa-solid fa-newspaper text-blue-500"></i>
-                    </div>
-                    <ul id="news-list" class="divide-y divide-slate-50">
-                        {{NEWS_LIST_ITEMS}}
-                    </ul>
-                </section>
-                <section class="card overflow-hidden">
-                    <div class="p-6 border-b border-slate-50 font-bold flex justify-between items-center">
-                        <span>활동 영상</span><i class="fa-brands fa-youtube text-red-500"></i>
-                    </div>
-                    <div id="video-list" class="p-4 space-y-4">
-                        {{VIDEO_LIST_ITEMS}}
-                    </div>
-                </section>
-            </div>
+            
+            <section class="card overflow-hidden" id="news-section">
+                <div class="p-6 border-b border-slate-50 font-bold flex justify-between items-center">
+                    <span>주요 보도</span><i class="fa-solid fa-newspaper text-blue-500"></i>
+                </div>
+                <ul id="news-list" class="divide-y divide-slate-50">
+                    {{NEWS_LIST_ITEMS}}
+                </ul>
+                <div id="more-news-container"></div>
+            </section>
+            <section class="card overflow-hidden" id="video-section">
+                <div class="p-6 border-b border-slate-50 font-bold flex justify-between items-center">
+                    <span>활동 영상</span><i class="fa-brands fa-youtube text-red-500"></i>
+                </div>
+                <div id="video-list" class="p-4 space-y-4">
+                    {{VIDEO_LIST_ITEMS}}
+                </div>
+                <div id="more-video-container"></div>
+            </section>
+        
         </div>
     </main>
 
