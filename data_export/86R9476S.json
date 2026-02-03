@@ -42,42 +42,46 @@
     },
     "analysis": {
         "keywords": [
-            "통합",
+            "합당",
             "한동훈",
             "대표",
-            "전남",
             "이해찬",
+            "출마",
+            "민주당",
             "이낙연",
             "국민",
-            "민주당",
-            "더불어민주당",
             "선거",
-            "위원장",
-            "후보",
+            "시장",
             "장동",
-            "출마",
-            "발의"
+            "후보",
+            "조문",
+            "중단",
+            "당원"
         ],
         "keyword_frequency": [
             {
-                "text": "통합",
-                "value": 23
+                "text": "합당",
+                "value": 22
             },
             {
                 "text": "한동훈",
-                "value": 20
+                "value": 19
             },
             {
                 "text": "대표",
                 "value": 17
             },
             {
-                "text": "전남",
-                "value": 17
-            },
-            {
                 "text": "이해찬",
                 "value": 16
+            },
+            {
+                "text": "출마",
+                "value": 15
+            },
+            {
+                "text": "민주당",
+                "value": 15
             },
             {
                 "text": "이낙연",
@@ -88,39 +92,35 @@
                 "value": 13
             },
             {
-                "text": "민주당",
-                "value": 12
-            },
-            {
-                "text": "더불어민주당",
-                "value": 12
-            },
-            {
                 "text": "선거",
-                "value": 12
-            },
-            {
-                "text": "위원장",
                 "value": 11
             },
             {
-                "text": "후보",
-                "value": 11
+                "text": "시장",
+                "value": 10
             },
             {
                 "text": "장동",
                 "value": 10
             },
             {
-                "text": "출마",
+                "text": "후보",
                 "value": 10
             },
             {
-                "text": "발의",
+                "text": "조문",
                 "value": 10
+            },
+            {
+                "text": "중단",
+                "value": 9
+            },
+            {
+                "text": "당원",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:50:44.927556",
+        "last_analyzed_at": "2026-02-03T19:07:44.952025",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -132,13 +132,13 @@
                 "02-03"
             ],
             "data": [
-                5,
-                7,
+                0,
+                2,
                 11,
                 1,
                 3,
                 2,
-                1
+                11
             ]
         },
         "ai_policy_summary": "\"김문수 의원은 주로 교육 및 지방자치 분야에 집중하며, 개혁가적 입법 활동을 통해 교육의 질과 지역 균형 발전을 개선하는 데 주력하고 있습니다. 특히 고등교육법 및 초·중등교육법 관련 법안들을 통해 국민의 실생활과 직결된 교육 기회의 확대와 지역 사회의 활성화를 도모하는 행보를 보입니다.\"",
@@ -153,10 +153,201 @@
     },
     "recent_news": [
         {
+            "_id": "6981c73838b0cf4096977ae3",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588208?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "더불어민주당 김문수·유동철 의원 등이 \"졸속합당 중단\"을 촉구하며 전당원 서명 운동에 돌입하겠다고 밝혔다. 두 의원은 3일 국회 소통관에서 기자회견을 열고 \"이재명 정부의 성공을 위해 반드시 지방선거에서 승리해야... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/03/2026020390252.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-03T18:15:00",
+            "related_members": [
+                "86R9476S"
+            ],
+            "title": "與 일각, 합당 반대 전당원 서명운동 돌입…\"졸속합당 중단\""
+        },
+        {
+            "_id": "6981c72f38b0cf4096977ac7",
+            "link": "https://n.news.naver.com/mnews/article/009/0005631781?sid=100",
+            "created_at": "2026-02-03T19:00:12.559000",
+            "description": "이언주·황명선 등과 연쇄회동 한준호 \"지선전 합당 안돼\" '전당원 서명운동'까지 등장 당원 1인 1표제 결과도... 경기도지사 출마를 준비 중인 한준호 민주당 의원은 이날 국회 기자회견에서 \"지금은 결론을 내릴 때가... ",
+            "originallink": "https://www.mk.co.kr/article/11951760",
+            "press": "매일경제",
+            "pubDate": "2026-02-03T18:01:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "JG77046J",
+                "2385336L",
+                "RJH6314D",
+                "86R9476S",
+                "S824682L"
+            ],
+            "title": "정청래, 합당 반대파 만났지만 … 민주 내홍 여전"
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae4",
+            "link": "https://n.news.naver.com/mnews/article/421/0008751057?sid=102",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "3일 오후 국회의원회관 제3세미나실에서는 ‘공정한 교육·보육 재정 마련을 위한 표준비용 산정 대토론회’... 기조 발제를 맡은 김병주 교수는 현행 표준비용 산정 체계의 구조적 한계를 짚었다. 이어 유보통합 취지에... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6060559",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T15:17:00",
+            "related_members": [
+                "86R9476S",
+                "GF286398"
+            ],
+            "title": "한사총, 유보통합 재정 기준 재정비 논의…국회서 표준비용 산정 토론회"
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008750752?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "근데 어제 이제 처음에 의총장 들어갔는데 저는 지금 국회의원 되고 나서 의총 의원들이 모이는 의총 장소에... ▶정성국 : 저는 딱 그걸 보는 순간에 한병도 원내대표였죠 그리고 민주당 대변인도 그런 지적을 했죠. 딱 듣는... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6060434",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T14:14:00",
+            "related_members": [
+                "CGW7415Z",
+                "86R9476S",
+                "KFM1081G",
+                "EPI69383",
+                "QWL7778X",
+                "2385336L",
+                "H5476989"
+            ],
+            "title": "[인터뷰 전문] 정성국 \"장동혁 사퇴해야 한동훈 돌아올 기회 생겨\""
+        },
+        {
+            "_id": "6981c72f38b0cf4096977acb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008750537?sid=100",
+            "created_at": "2026-02-03T19:00:12.559000",
+            "description": "이언주·강득구·황명선 최고위원은 정 대표에게 합당 논의 중단을 계속해서 요구하고 있다. 여기에 이날(3일) 김문수 의원, 유동철 부산 수영구 지역위원장도 국회에서 회견을 열어 '졸속 합당 중단 촉구' 전 당원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6060321",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T12:59:00",
+            "related_members": [
+                "8P37634C",
+                "JG77046J",
+                "86R9476S",
+                "2385336L",
+                "RJH6314D",
+                "MLH1404S",
+                "8BF5855P",
+                "2NV6751W",
+                "FYI20317",
+                "3C23171A",
+                "8JG4358H",
+                "BCQ55105"
+            ],
+            "title": "설득 나선 정청래·목소리 키우는 반대파…민주, 합당 제안 여파 지속"
+        },
+        {
+            "_id": "6981c72f38b0cf4096977acc",
+            "link": "https://n.news.naver.com/mnews/article/003/0013745758?sid=100",
+            "created_at": "2026-02-03T19:00:12.559000",
+            "description": "친명계이자 경기도지사 출마를 준비 중인 한준호 의원은 이날 국회 소통관 기자회견을 통해 \"당원 참여형... 정 대표는 전날부터 합당에 반대 의사를 표한 강득구·이언주·황명선 최고위원 등과도 회동을 시작했다．",
+            "originallink": "https://www.newsis.com/view/NISX20260203_0003500605",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T12:26:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "JG77046J",
+                "2385336L",
+                "RJH6314D",
+                "86R9476S"
+            ],
+            "title": "정청래 합당 제안에 與 내홍 지속…친명 \"졸속 합당 중단하라\" 서명운동"
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae6",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117723?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "그러면서 \"당원은 물론 최고위원과 국회의원들조차 충분히 공유받지 못한 채 일방적으로 추진되는 합당은... 최고위원을 지낸 한준호 의원은 오늘 기자회견을 열고 \"지금은 (합당) 결론을 내릴 때가 아니다. 논의는... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476006&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-03T11:40:00",
+            "related_members": [
+                "86R9476S",
+                "NPD75153",
+                "2NV6751W",
+                "8JG4358H",
+                "BCQ55105"
+            ],
+            "title": "민주당 내 ‘합당 중단’ 목소리 잇따라…혁신당 “프로포즈 하더니 싸..."
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae7",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595158?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "대구시장에는 주호영·추경호·유영하·윤재옥·최은석 등 현역 의원들이 일찌감치 출마를 준비해 온 것으로... 정치권에서는 수도권이나 영남권에 무소속으로 도전하거나 지방선거와 함께 치르는 국회의원 보궐선거... ",
+            "originallink": "https://biz.heraldcorp.com/article/10668551?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-03T11:34:00",
+            "related_members": [
+                "L5P27909",
+                "86R9476S",
+                "DMP1439I",
+                "SLW27496",
+                "YOG1280B",
+                "G152611B",
+                "JZV5283U",
+                "8SV6917G",
+                "UF53617M",
+                "ZRF3039U",
+                "25G2571T"
+            ],
+            "title": "수도권 한파, TK는 과열…국힘, 지역별 ‘지선 출마’ 온도차"
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae8",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117681?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "===================================================== 신지호 전 국회의원 - “난장판 의원총회…국힘 ‘절윤’해야”... 요금을 받는 걸 갖고 또 한병도 더불어민주당 원내대표가 비판을 하셨잖아요. 그래서 상당히 눈에 띄었어요, 토크... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475916&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-03T10:40:00",
+            "related_members": [
+                "L5P27909",
+                "YOG1280B",
+                "86R9476S",
+                "6EN68926",
+                "25G2571T",
+                "WJL30106",
+                "8SV6917G",
+                "H5476989"
+            ],
+            "title": "[전격시사] 신지호 전 국회의원 - “난장판 의원총회…국힘 ‘절윤’해..."
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae9",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595044?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "대구시장에는 주호영·추경호·유영하·윤재옥·최은석 등 현역 의원들이 일찌감치 출마를 준비해 온 것으로... 정치권에서는 수도권이나 영남권에 무소속으로 도전하거나 지방선거와 함께 치르는 국회의원 보궐선거... ",
+            "originallink": "https://biz.heraldcorp.com/article/10668404?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-03T10:27:00",
+            "related_members": [
+                "L5P27909",
+                "86R9476S",
+                "DMP1439I",
+                "SLW27496",
+                "6EN68926",
+                "YOG1280B",
+                "G152611B",
+                "JZV5283U",
+                "8SV6917G",
+                "UF53617M",
+                "ZRF3039U",
+                "25G2571T"
+            ],
+            "title": "野 지지율 하락에 지역별로 ‘지선 출마’ 온도 차 [이런 정치]"
+        },
+        {
             "_id": "69814ae238b0cf40969776ea",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107215&s_mcd=0214&s_hcd=01",
             "created_at": "2026-02-03T10:09:52.897000",
-            "description": "다만 이제 3선 국회의원으로서 우리 당의 중진으로서 이렇게 바라봤을 때는 왜 오세훈 시장님께서 저렇게... 최보윤 수석 대변인 논평 담긴 기사도 공유를 했습니다.대통령의 언급 내용을 잠깐 말씀드리면 이 만국적 부동산... ",
+            "description": "다만, 3선 국회의원으로서 우리 당의 중진으로서 이렇게 바라봤을 때는 왜 오세훈 시장님께서 저렇게... 최보윤 수석 대변인 논평 담긴 기사도 공유를 했습니다. 대통령의 언급 내용을 잠깐 말씀드리면, \"이 망국적 부동산... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107215&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-02-03T09:30:00",
@@ -193,7 +384,7 @@
             "_id": "69814ae338b0cf40969776f2",
             "link": "https://n.news.naver.com/mnews/article/020/0003694283?sid=100",
             "created_at": "2026-02-03T10:09:53.770000",
-            "description": "민주당 한병도 원내대표의 비판과 관련해 “(한 전 대표의 콘서트는 과거) 본 적 없는 (콘서트)”라고 했다.... 이번에 좀 일찍 한다고 그랬으니까 그리고 국회의원 신분은 5월 3일까지인가가 5월 3일까지인가 하기 때문에... ",
+            "description": "▶ 김준일: 예 왜 그러냐면은 이런 거 토크 콘서트 예전에 예를 들면 안철수, 박경철. ▷ 강경석: 많이 하셨죠.... 이번에 좀 일찍 한다고 그랬으니까 그리고 국회의원 신분은 5월 3일까지인가가 5월 3일까지인가 하기 때문에... ",
             "originallink": "https://www.donga.com/news/Politics/article/all/20260202/133279761/1",
             "press": "동아일보",
             "pubDate": "2026-02-02T14:37:00",
@@ -486,164 +677,6 @@
                 "OWD1018N"
             ],
             "title": "[정치ON] 끝내 한동훈 내친 국민의힘...한동훈 \"반드시 돌아올 것\""
-        },
-        {
-            "_id": "697cbd1938b0cf4096976a42",
-            "link": "https://n.news.naver.com/mnews/article/421/0008742370?sid=100",
-            "created_at": "2026-01-30T23:15:53.690000",
-            "description": "저희 비록 3석밖에 안 되지만 이번 이혜훈 청문회에서도 보셨다시피 사실 천하람 대표가 발굴한 의제로 모든... 지난번 최고위 선거에서 이 중앙위원들, 당협위원장들이나 국회의원들 선거 투표에서 최고위 투표율이 90%가... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6055291",
-            "press": "뉴스1",
-            "pubDate": "2026-01-29T14:27:00",
-            "related_members": [
-                "8Q88373R",
-                "MNZ4401T",
-                "8X15119P",
-                "LYY5513O",
-                "KFM1081G",
-                "X7I4680R",
-                "86R9476S",
-                "GOC54665",
-                "N2P9317N",
-                "80C5885Z",
-                "JZV5283U",
-                "JG77046J",
-                "QWL7778X",
-                "YGB8604T",
-                "WI719547",
-                "B7789327"
-            ],
-            "title": "[인터뷰 전문] 이기인 \"韓 제명, 무조건 선거에 타격…최악의 판단\""
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ad2",
-            "link": "https://n.news.naver.com/mnews/article/079/0004110339?sid=102",
-            "created_at": "2026-01-30T23:16:00.824000",
-            "description": "이번 정책 간담회는 더불어민주당 김문수 국회의원(순천 갑)이 주최하고 전라남도교육청과 전라남도의회가 공동 주관했으며 김정희 전남도의회 교육위원장과 김진남 전남도의회 교육위원 등이 함께 했다. 정철 위원장은... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6463881?utm_source=naver&utm_medium=article&utm_campaign=20260129020142",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-29T14:02:00",
-            "related_members": [
-                "86R9476S"
-            ],
-            "title": "전남교육청 국회에서 '전남 미래형 늘봄학교' 모델 제시"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ad3",
-            "link": "https://n.news.naver.com/mnews/article/021/0002767423?sid=100",
-            "created_at": "2026-01-30T23:16:00.825000",
-            "description": "지난해 조기 대선이 열리며 대선 경선 출마로 활로를 모색했지만, 김문수 전 고용노동부 장관에게 대선 후보... 일각에서는 한 전 대표가 오는 6월 지방선거와 함께 진행되는 국회의원 보궐선거에 나가는 방안도 거론된다.... ",
-            "originallink": "https://www.munhwa.com/article/11564658?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-29T12:06:00",
-            "related_members": [
-                "86R9476S"
-            ],
-            "title": "한동훈 선택지는… ① 법적 대응 ② 무소속 출마 ③ 창당"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ad4",
-            "link": "https://n.news.naver.com/mnews/article/056/0012114734?sid=102",
-            "created_at": "2026-01-30T23:16:00.825000",
-            "description": "[김문수/국회의원 : \"당연히 순천대 목포대가 통합하면 국립 거점대 즉 전남대나 서울대 수준(으로 만들고) 또 대통령 공약으로 서울대 10개 만들기라는 공약이 있습니다.\"] 두 대학이 통합하면 전국의 거점 국립대 중... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471997&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-29T09:17:00",
-            "related_members": [
-                "86R9476S"
-            ],
-            "title": "순천대-목포대 통합 임박…통합 대학 청사진은?"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ad5",
-            "link": "https://n.news.naver.com/mnews/article/056/0012114730?sid=100",
-            "created_at": "2026-01-30T23:16:00.825000",
-            "description": "[김원이/더불어민주당 전남도당위원장/지난 27일 : \"소탐대실하면 안 된다는 마음가짐으로 서로 양보하고... [김문수/국회의원/더불어민주당 행정통합입법추진지원단 : \"입법지원단에서 광주전남, 대전충남 양 법안의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471899&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-29T07:38:00",
-            "related_members": [
-                "86R9476S",
-                "4L695580"
-            ],
-            "title": "광주·전남 통합 특별법 발의 연기…대전·충남과 동시 추진"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ad6",
-            "link": "https://n.news.naver.com/mnews/article/056/0012114468?sid=102",
-            "created_at": "2026-01-30T23:16:00.825000",
-            "description": "[김문수/국회의원 : \"당연히 순천대 목포대가 통합하면 국립 거점대 즉 전남대나 서울대 수준(으로 만들고) 또 대통령 공약으로 서울대 10개 만들기라는 공약이 있습니다.\"] 두 대학이 통합하면 전국의 거점 국립대 중... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471632&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-28T21:44:00",
-            "related_members": [
-                "86R9476S"
-            ],
-            "title": "순천대-목포대 통합 임박…통합 대학 청사진은?"
-        },
-        {
-            "_id": "697cbd2138b0cf4096976ad7",
-            "link": "https://n.news.naver.com/mnews/article/056/0012114448?sid=100",
-            "created_at": "2026-01-30T23:16:00.825000",
-            "description": "[김원이/더불어민주당 전남도당위원장/어제 : \"소탐대실하면 안 된다는 마음가짐으로 서로 양보하고 다시... [김문수/국회의원/더불어민주당 행정통합입법추진지원단 : \"입법지원단에서 광주전남, 대전충남 양 법안의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471602&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-28T21:37:00",
-            "related_members": [
-                "86R9476S",
-                "4L695580"
-            ],
-            "title": "광주·전남 통합 특별법 발의 연기…대전·충남과 동시 추진"
-        },
-        {
-            "_id": "697cbd2938b0cf4096976b2a",
-            "link": "https://n.news.naver.com/mnews/article/056/0012114269?sid=100",
-            "created_at": "2026-01-30T23:16:08.873000",
-            "description": "[김원이/더불어민주당 전남도당위원장/어제 : \"소탐대실하면 안 된다는 마음가짐으로 서로 양보하고 다시... [김문수/국회의원/더불어민주당 행정통합입법추진지원단 : \"입법지원단에서 광주전남, 대전충남 양 법안의... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8471370&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-28T19:00:00",
-            "related_members": [
-                "4L695580",
-                "86R9476S"
-            ],
-            "title": "광주·전남 통합 특별법 발의 연기…대전·충남과 동시 추진"
-        },
-        {
-            "_id": "697cbd1d38b0cf4096976a9a",
-            "link": "https://n.news.naver.com/mnews/article/003/0013736098?sid=102",
-            "created_at": "2026-01-30T23:15:57.539000",
-            "description": "28일 더불어민주당 여수갑 지역위원회는 주철현 의원과 권향엽·김문수·문금주·조계원·황정아 국회의원이 공동 주최한 토론회를 통해 석유화학산업이 직면한 위기 대응을 넘어 미래를 준비하는 전환 전략을 모색했다.... ",
-            "originallink": "https://www.newsis.com/view/NISX20260128_0003493951",
-            "press": "뉴시스",
-            "pubDate": "2026-01-28T18:10:00",
-            "related_members": [
-                "T6A6557F",
-                "T465023H",
-                "8TU8443O",
-                "86R9476S",
-                "EFU76868",
-                "GRP3908I"
-            ],
-            "title": "\"여수 석유화학, 고온 가스 실용화로 재도약\" 열띤 토론회"
-        },
-        {
-            "_id": "697cbd1d38b0cf4096976a9b",
-            "link": "https://n.news.naver.com/mnews/article/382/0001251507?sid=102",
-            "created_at": "2026-01-30T23:15:57.539000",
-            "description": "주철현 국회의원(전남 여수시갑)은 28일 전남 여수상공회의소 대회의실에서 ‘고온가스로(HTGR)를 활용한... 주철현 의원을 비롯해 권향엽·김문수·문금주·조계원·황정아 의원이 공동 주최한 이번 행사는 국가기간산업인... ",
-            "originallink": "https://sports.donga.com/region/article/all/20260128/133250906/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-28T18:07:00",
-            "related_members": [
-                "T6A6557F",
-                "T465023H",
-                "8TU8443O",
-                "86R9476S",
-                "EFU76868",
-                "GRP3908I"
-            ],
-            "title": "주철현 의원 “석유화학 위기, ‘고온가스로’가 해법”"
         }
     ],
     "recent_videos": [
@@ -2772,5 +2805,5 @@
             "RST_PROPOSER": "김문수"
         }
     ],
-    "exported_at": "2026-02-03T14:50:44.927556"
+    "exported_at": "2026-02-03T19:07:44.952025"
 }

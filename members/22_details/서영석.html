@@ -85,42 +85,47 @@
                         </div>
                 </div>
             </section>
-            <section class="card p-6 space-y-8">
-                <div>
-                    <h4 class="text-xs font-black text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
-                        <i class="fa-solid fa-address-card text-blue-500"></i> 기본 정보
-                    </h4>
-                    <div class="space-y-3 text-sm">
-                        <div class="flex justify-between"><span class="text-slate-400">한문 성명</span><span class="font-bold text-slate-700" id="det-han-name">-</span></div>
-                        <div class="flex justify-between"><span class="text-slate-400">영문 성명</span><span class="font-bold text-slate-700" id="det-en-name">-</span></div>
-                        <div class="flex justify-between"><span class="text-slate-400">생년월일</span><span class="font-bold text-slate-700" id="det-birth">-</span></div>
-                        <div class="flex justify-between"><span class="text-slate-400">의원실</span><span class="font-bold text-slate-700" id="det-room">-</span></div>
-                    </div>
-                </div>
-    
-                <div>
-                    <h4 class="text-xs font-black text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
-                        <i class="fa-solid fa-users-gear text-blue-500"></i> 보좌진
-                    </h4>
-                    <div class="space-y-4">
-                        <div class="bg-slate-50 p-3 rounded-xl">
-                            <span class="text-[10px] font-bold text-blue-400 block mb-1">보좌관</span>
-                            <p class="text-xs font-bold text-slate-700" id="det-aide">-</p>
-                        </div>
-                        <div class="bg-slate-50 p-3 rounded-xl">
-                            <span class="text-[10px] font-bold text-blue-400 block mb-1">비서관</span>
-                            <p class="text-xs font-bold text-slate-700" id="det-chief">-</p>
+            <section class="card p-6 space-y-8 relative">
+                <div id="mobile-profile-content" class="overflow-hidden max-h-[100px] md:max-h-none transition-all duration-500 relative">
+                    <div>
+                        <h4 class="text-xs font-black text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
+                            <i class="fa-solid fa-address-card text-blue-500"></i> 기본 정보
+                        </h4>
+                        <div class="space-y-3 text-sm">
+                            <div class="flex justify-between"><span class="text-slate-400">한문 성명</span><span class="font-bold text-slate-700" id="det-han-name">-</span></div>
+                            <div class="flex justify-between"><span class="text-slate-400">영문 성명</span><span class="font-bold text-slate-700" id="det-en-name">-</span></div>
+                            <div class="flex justify-between"><span class="text-slate-400">생년월일</span><span class="font-bold text-slate-700" id="det-birth">-</span></div>
+                            <div class="flex justify-between"><span class="text-slate-400">의원실</span><span class="font-bold text-slate-700" id="det-room">-</span></div>
                         </div>
                     </div>
+        
+                    <div>
+                        <h4 class="text-xs font-black text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
+                            <i class="fa-solid fa-users-gear text-blue-500"></i> 보좌진
+                        </h4>
+                        <div class="space-y-4">
+                            <div class="bg-slate-50 p-3 rounded-xl">
+                                <span class="text-[10px] font-bold text-blue-400 block mb-1">보좌관</span>
+                                <p class="text-xs font-bold text-slate-700" id="det-aide">-</p>
+                            </div>
+                            <div class="bg-slate-50 p-3 rounded-xl">
+                                <span class="text-[10px] font-bold text-blue-400 block mb-1">비서관</span>
+                                <p class="text-xs font-bold text-slate-700" id="det-chief">-</p>
+                            </div>
+                        </div>
+                    </div>
+        
+                    <div>
+                        <h4 class="text-xs font-black text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
+                            <i class="fa-solid fa-graduation-cap text-blue-500"></i> 주요 약력
+                        </h4>
+                        <ul class="text-xs text-slate-600 space-y-2 leading-relaxed" id="det-edu"></ul>
+                    </div>
+                    <div id="profile-gradient" class="absolute bottom-0 left-0 right-0 h-20 bg-gradient-to-t from-white to-transparent md:hidden"></div>
                 </div>
-    
-                <div>
-                    <h4 class="text-xs font-black text-slate-400 mb-4 uppercase tracking-widest flex items-center gap-2">
-                        <i class="fa-solid fa-graduation-cap text-blue-500"></i> 주요 약력
-                    </h4>
-                    <ul class="text-xs text-slate-600 space-y-2 leading-relaxed" id="det-edu"></ul>
-                </div>
-                
+                <button id="profile-more-btn" onclick="toggleMobileProfile()" class="w-full py-3 mt-4 text-xs font-bold text-blue-600 border border-blue-100 rounded-xl bg-blue-50/50 md:hidden flex items-center justify-center gap-2">
+                    상세정보 더보기 <i class="fa-solid fa-chevron-down"></i>
+                </button>
             </section>
             <div class="hidden lg:flex card ad-slot h-60 text-slate-300 items-center justify-center text-xs font-bold uppercase tracking-widest">Advertisement</div>
         </div>
@@ -138,7 +143,7 @@
             </section>
     
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <section class="card p-6">
+                <section class="card p-6 flex flex-col items-center justify-center text-center">
                     <h3 class="text-xs font-bold text-slate-400 mb-6 uppercase tracking-widest">입법 성과 (성과율 24.1%)</h3>
                     <div class="h-[200px]"><canvas id="policyChart"></canvas></div>
                 </section>

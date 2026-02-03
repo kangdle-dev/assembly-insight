@@ -48,20 +48,20 @@
             "경찰",
             "경남",
             "한국인",
-            "제명",
             "국민",
+            "제명",
             "경기",
             "선출",
+            "협력사",
+            "한화",
             "박완수",
             "청장",
-            "최초",
-            "출신",
-            "시장"
+            "최초"
         ],
         "keyword_frequency": [
             {
                 "text": "김종",
-                "value": 42
+                "value": 44
             },
             {
                 "text": "인터폴",
@@ -84,12 +84,12 @@
                 "value": 12
             },
             {
-                "text": "제명",
+                "text": "국민",
                 "value": 11
             },
             {
-                "text": "국민",
-                "value": 10
+                "text": "제명",
+                "value": 11
             },
             {
                 "text": "경기",
@@ -98,6 +98,14 @@
             {
                 "text": "선출",
                 "value": 10
+            },
+            {
+                "text": "협력사",
+                "value": 9
+            },
+            {
+                "text": "한화",
+                "value": 8
             },
             {
                 "text": "박완수",
@@ -110,17 +118,9 @@
             {
                 "text": "최초",
                 "value": 8
-            },
-            {
-                "text": "출신",
-                "value": 8
-            },
-            {
-                "text": "시장",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:50:52.569498",
+        "last_analyzed_at": "2026-02-03T19:07:52.444547",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -138,7 +138,7 @@
                 0,
                 0,
                 0,
-                0
+                3
             ]
         },
         "ai_policy_summary": "\"김종양 의원은 주로 지방자치와 안전 관리에 집중하며, 조정자 입법 활동을 통해 지역 균형 발전과 사회 안전을 개선하는 데 주력하고 있습니다. 특히 지방공기업법, 경찰관 직무집행법, 재난 및 안전관리 기본법 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지 향상을 도모하는 행보를 보입니다.\"",
@@ -152,6 +152,48 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c74338b0cf4096977b05",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112035?sid=102",
+            "created_at": "2026-02-03T19:00:32.708000",
+            "description": "이번 선포식에는 손재일 한화에어로스페이스 대표이사와 상생협력 협의회 회원사, 김경수 지방시대위원회 위원장을 비롯한 정부 주요 인사, 김종양·허성무 국회의원, 경남도, 창원시 관계자가 참석해 지역 및 방위산업... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466377?utm_source=naver&utm_medium=article&utm_campaign=20260203061702",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-03T18:18:00",
+            "related_members": [
+                "N378078V",
+                "HHB5652A"
+            ],
+            "title": "한화에어로스페이스 협력사 상생협력 선포…창원시 '환영'"
+        },
+        {
+            "_id": "6981c74338b0cf4096977b06",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694723?sid=101",
+            "created_at": "2026-02-03T19:00:32.708000",
+            "description": "의창구), 허성무 더불어민주당 국회의원(창원시 성산구) 등 주요 관계자들이 참석했다. 김경수 지방시대위원장은 “오늘 행사 주인공은 협력사”라며 “한화에어로스페이스가 협력사들과 함께 지역에서 꾸준히 경쟁력을... ",
+            "originallink": "https://www.donga.com/news/Economy/article/all/20260203/133291143/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-03T18:15:00",
+            "related_members": [
+                "N378078V",
+                "HHB5652A"
+            ],
+            "title": "한화에어로스페이스, 협력사 R&amp;D 전액 지원… 업계 최대 규모 ‘성과공..."
+        },
+        {
+            "_id": "6981c74338b0cf4096977b07",
+            "link": "https://n.news.naver.com/mnews/article/366/0001140296?sid=101",
+            "created_at": "2026-02-03T19:00:32.708000",
+            "description": "이날 행사에는 김경수 지방시대위원장, 김종양 국민의힘 국회의원, 허성무 더불어민주당 국회의원 등 정부·지자체 관계자 80여명과 협력사 56곳이 참석했다. 한화에어로는 총 300억원 규모의 ‘혁신 성과공유제’를... ",
+            "originallink": "https://biz.chosun.com/industry/company/2026/02/03/4JCV4CS35JDJFGRUOS73VK2HMY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-02-03T17:05:00",
+            "related_members": [
+                "N378078V",
+                "HHB5652A"
+            ],
+            "title": "한화에어로, 협력사 R&amp;D 비용 전액 쏜다… ‘성과 공유제’ 전격 도입"
+        },
         {
             "_id": "6970123c297082fcc2b34c8d",
             "link": "https://n.news.naver.com/mnews/article/079/0004106433?sid=100",
@@ -1099,5 +1141,5 @@
             "RST_PROPOSER": "김종양"
         }
     ],
-    "exported_at": "2026-02-03T14:50:52.570008"
+    "exported_at": "2026-02-03T19:07:52.444547"
 }

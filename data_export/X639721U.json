@@ -45,17 +45,17 @@
             "미애",
             "민주당",
             "통합",
-            "선거",
             "행정",
             "더불어민주당",
             "경북",
+            "선거",
             "대구",
+            "발의",
             "자치",
             "산림청",
             "산림",
             "선관위",
             "지방",
-            "발의",
             "에너지"
         ],
         "keyword_frequency": [
@@ -69,31 +69,35 @@
             },
             {
                 "text": "통합",
-                "value": 19
+                "value": 21
+            },
+            {
+                "text": "행정",
+                "value": 17
+            },
+            {
+                "text": "더불어민주당",
+                "value": 16
+            },
+            {
+                "text": "경북",
+                "value": 15
             },
             {
                 "text": "선거",
                 "value": 15
             },
             {
-                "text": "행정",
-                "value": 14
-            },
-            {
-                "text": "더불어민주당",
-                "value": 14
-            },
-            {
-                "text": "경북",
-                "value": 13
-            },
-            {
                 "text": "대구",
-                "value": 11
+                "value": 14
+            },
+            {
+                "text": "발의",
+                "value": 12
             },
             {
                 "text": "자치",
-                "value": 11
+                "value": 12
             },
             {
                 "text": "산림청",
@@ -112,15 +116,11 @@
                 "value": 10
             },
             {
-                "text": "발의",
-                "value": 10
-            },
-            {
                 "text": "에너지",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:51:28.729871",
+        "last_analyzed_at": "2026-02-03T19:08:24.527569",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -138,7 +138,7 @@
                 0,
                 0,
                 7,
-                0
+                1
             ]
         },
         "ai_policy_summary": "\"임미애 의원은 주로 농업, 환경, 그리고 공공 안전 분야에 집중하며, 사회적 안전망을 강화하는 입법 활동을 통해 유권자의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 농어업 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정과 안전성을 만들어내는 행보를 보입니다.\"",
@@ -152,6 +152,22 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c75e38b0cf4096977b3e",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111751?sid=102",
+            "created_at": "2026-02-03T19:00:59.622000",
+            "description": "지난 2일 더불어민주당 임미애 국회의원은 고도의 자치권이 보장되는 정부 직할 '대구경북특별시'를... 두 단체장은 신정훈 국회 행정안전위원장과 더불어민주당 한병도 원내대표, 한정애 정책위원회 의장을 만나... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465947?utm_source=naver&utm_medium=article&utm_campaign=20260203034601",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-03T10:52:00",
+            "related_members": [
+                "X639721U",
+                "M7O7878U",
+                "XPP2564T",
+                "H5476989"
+            ],
+            "title": "대구경북행정통합 특별법 여야 잇달아 발의…국회 통과 기대감"
+        },
         {
             "_id": "69814af138b0cf409697774b",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107208&s_mcd=0263&s_hcd=01",
@@ -313,11 +329,11 @@
             "title": "경남 진보시민단체 \"기초의회 중대선거구제 도입 필요\""
         },
         {
-            "_id": "697cbd5c38b0cf4096976cc9",
-            "link": "https://n.news.naver.com/mnews/article/003/0013734750?sid=100",
+            "_id": "697cbd5c38b0cf4096976cc8",
+            "link": "https://n.news.naver.com/mnews/article/003/0013734748?sid=100",
             "created_at": "2026-01-30T23:17:00.456000",
             "description": "임미애 더불어민주당 국회의원이 28일 오전 서울 여의도 국회 의원회관에서 열린 '지방자치 30년 평가와 과제' 토론회에서 발언하고 있다. 2026.01.28. kmn@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260128_0021141853",
+            "originallink": "https://www.newsis.com/view/NISI20260128_0021141854",
             "press": "뉴시스",
             "pubDate": "2026-01-28T11:21:00",
             "related_members": [
@@ -326,11 +342,11 @@
             "title": "임미애 의원, '지방자치 30년 평가와 과제' 토론회 참석"
         },
         {
-            "_id": "697cbd5c38b0cf4096976cc8",
-            "link": "https://n.news.naver.com/mnews/article/003/0013734748?sid=100",
+            "_id": "697cbd5c38b0cf4096976cc9",
+            "link": "https://n.news.naver.com/mnews/article/003/0013734750?sid=100",
             "created_at": "2026-01-30T23:17:00.456000",
             "description": "임미애 더불어민주당 국회의원이 28일 오전 서울 여의도 국회 의원회관에서 열린 '지방자치 30년 평가와 과제' 토론회에서 발언하고 있다. 2026.01.28. kmn@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260128_0021141854",
+            "originallink": "https://www.newsis.com/view/NISI20260128_0021141853",
             "press": "뉴시스",
             "pubDate": "2026-01-28T11:21:00",
             "related_members": [
@@ -371,7 +387,7 @@
             "_id": "697cbd2538b0cf4096976b09",
             "link": "https://n.news.naver.com/mnews/article/421/0008738192?sid=100",
             "created_at": "2026-01-30T23:16:05.804000",
-            "description": "= ◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "description": "= ◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의... 11:00 조배숙 의원, ['정교분리' 곡해로 교회 폐쇄와 재산 몰수하는 악법 반대 기자회견] 11:20 윤종오 의원... ",
             "originallink": "https://www.news1.kr/politics/assembly/6053047",
             "press": "뉴스1",
             "pubDate": "2026-01-28T05:00:00",
@@ -770,24 +786,6 @@
                 "T6A6557F"
             ],
             "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b54b631fd174349960d3",
-            "link": "https://n.news.naver.com/mnews/article/262/0000019050?sid=100",
-            "created_at": "2026-01-12T17:48:08.356000",
-            "description": "송언석 국민의힘 원내대표를 비롯해 김석기·김정재·이만희·임이자 국회의원 등 경북 출신 다선 중진들도 잠재적 후보군으로 분류된다. 이들 현역의원의 경우 이 지사가 불출마할 경우 대거 선거전에 뛰어들 태세다.... ",
-            "originallink": "https://shindonga.donga.com/3/all/13/6036514/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-02T09:01:00",
-            "related_members": [
-                "EH27538E",
-                "OSV9142K",
-                "6EN68926",
-                "ZYP7962W",
-                "E1J8836Y",
-                "X639721U"
-            ],
-            "title": "이철우, ‘건강’ 걸림돌 넘어 3선 가도 달릴까"
         }
     ],
     "recent_videos": [
@@ -2692,5 +2690,5 @@
             "RST_PROPOSER": "임미애"
         }
     ],
-    "exported_at": "2026-02-03T14:51:28.729871"
+    "exported_at": "2026-02-03T19:08:24.527569"
 }

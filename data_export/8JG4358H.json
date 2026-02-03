@@ -47,25 +47,25 @@
             "이해찬",
             "총리",
             "영결식",
+            "합당",
             "민주당",
             "엄수",
             "조국",
             "정청래",
+            "민주",
             "대통령",
             "세종",
             "안장",
-            "민주",
-            "출마",
-            "장관"
+            "이날"
         ],
         "keyword_frequency": [
             {
                 "text": "한민",
-                "value": 60
+                "value": 55
             },
             {
                 "text": "대표",
-                "value": 31
+                "value": 30
             },
             {
                 "text": "이해찬",
@@ -80,8 +80,12 @@
                 "value": 23
             },
             {
-                "text": "민주당",
+                "text": "합당",
                 "value": 20
+            },
+            {
+                "text": "민주당",
+                "value": 19
             },
             {
                 "text": "엄수",
@@ -93,11 +97,15 @@
             },
             {
                 "text": "정청래",
-                "value": 13
+                "value": 15
+            },
+            {
+                "text": "민주",
+                "value": 14
             },
             {
                 "text": "대통령",
-                "value": 12
+                "value": 13
             },
             {
                 "text": "세종",
@@ -108,19 +116,11 @@
                 "value": 12
             },
             {
-                "text": "민주",
-                "value": 12
-            },
-            {
-                "text": "출마",
-                "value": 10
-            },
-            {
-                "text": "장관",
+                "text": "이날",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:51:44.028145",
+        "last_analyzed_at": "2026-02-03T19:08:37.005909",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -138,7 +138,7 @@
                 10,
                 0,
                 1,
-                0
+                4
             ]
         },
         "ai_policy_summary": "\"한민수 의원은 주로 정보통신 및 방송 관련 법안과 공직 선거 제도 개선에 집중하며, 혁신가적 입법 활동을 통해 국민의 안전과 공정성을 개선하는 데 주력하고 있습니다. 특히 정보통신망 및 방송법 관련 법안들을 통해 국민의 실생활과 직결된 디지털 환경의 안전성과 공정한 선거 시스템을 만들어내는 행보를 보입니다.\"",
@@ -152,6 +152,91 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c73838b0cf4096977aeb",
+            "link": "https://n.news.naver.com/mnews/article/052/0002309789?sid=100",
+            "created_at": "2026-02-03T19:00:21.660000",
+            "description": "이재명 대통령은 지난번 청와대 만찬 초청해서 정청래 당대표, 한병도 원내대표 해서 그때 뭐 이야기를... 1인 1표제를 놓고 중앙위원회에서 중앙위원들, 다시 말해서 국회의원과 지역위원장 그리고 시도지사들과... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602031611274585",
+            "press": "YTN",
+            "pubDate": "2026-02-03T16:11:00",
+            "related_members": [
+                "MLH1404S",
+                "2385336L",
+                "EPI69383",
+                "6EN68926",
+                "JG77046J",
+                "QWL7778X",
+                "EH27538E",
+                "KFM1081G",
+                "CGW7415Z",
+                "5KV82250",
+                "8JG4358H",
+                "H5476989"
+            ],
+            "title": "[정치ON] 여야, 지선 앞두고 '합당-제명 내홍' 동병상련"
+        },
+        {
+            "_id": "6981c72f38b0cf4096977acb",
+            "link": "https://n.news.naver.com/mnews/article/421/0008750537?sid=100",
+            "created_at": "2026-02-03T19:00:12.559000",
+            "description": "이언주·강득구·황명선 최고위원은 정 대표에게 합당 논의 중단을 계속해서 요구하고 있다. 여기에 이날(3일) 김문수 의원, 유동철 부산 수영구 지역위원장도 국회에서 회견을 열어 '졸속 합당 중단 촉구' 전 당원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6060321",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T12:59:00",
+            "related_members": [
+                "8P37634C",
+                "JG77046J",
+                "86R9476S",
+                "2385336L",
+                "RJH6314D",
+                "MLH1404S",
+                "8BF5855P",
+                "2NV6751W",
+                "FYI20317",
+                "3C23171A",
+                "8JG4358H",
+                "BCQ55105"
+            ],
+            "title": "설득 나선 정청래·목소리 키우는 반대파…민주, 합당 제안 여파 지속"
+        },
+        {
+            "_id": "6981c72f38b0cf4096977acd",
+            "link": "https://n.news.naver.com/mnews/article/021/0002768525?sid=100",
+            "created_at": "2026-02-03T19:00:12.559000",
+            "description": "정 대표는 전날(2일) 이언주·황명선 최고위원을 만난 데 이어 이날 강득구 최고위원과 별도 회동하는 것으로... 경기지사 출마를 준비하고 있는 한준호 의원은 이날 국회에서 기자회견을 열고 “결정을 내려야 한다면... ",
+            "originallink": "https://www.munhwa.com/article/11565776?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-02-03T11:56:00",
+            "related_members": [
+                "8P37634C",
+                "BCQ55105",
+                "JG77046J",
+                "2385336L",
+                "RJH6314D",
+                "MLH1404S",
+                "8BF5855P",
+                "8JG4358H"
+            ],
+            "title": "정청래, 최고위원 회동에도… ‘합당 반대’ 여론은 들끓어"
+        },
+        {
+            "_id": "6981c73838b0cf4096977ae6",
+            "link": "https://n.news.naver.com/mnews/article/056/0012117723?sid=100",
+            "created_at": "2026-02-03T19:00:21.008000",
+            "description": "그러면서 \"당원은 물론 최고위원과 국회의원들조차 충분히 공유받지 못한 채 일방적으로 추진되는 합당은... 최고위원을 지낸 한준호 의원은 오늘 기자회견을 열고 \"지금은 (합당) 결론을 내릴 때가 아니다. 논의는... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476006&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-03T11:40:00",
+            "related_members": [
+                "86R9476S",
+                "NPD75153",
+                "2NV6751W",
+                "8JG4358H",
+                "BCQ55105"
+            ],
+            "title": "민주당 내 ‘합당 중단’ 목소리 잇따라…혁신당 “프로포즈 하더니 싸..."
+        },
         {
             "_id": "697ff10d38b0cf409697734e",
             "link": "http://andongmbc.co.kr/adboard/NewsView80547",
@@ -441,7 +526,7 @@
             "_id": "697cbd1c38b0cf4096976a83",
             "link": "https://n.news.naver.com/mnews/article/055/0001328445?sid=100",
             "created_at": "2026-01-30T23:15:56.195000",
-            "description": "그리고 권성동 의원도 1심에서 1억 수수 사실에 대해 유죄가 나왔어요. 이게 앞서 한민수 의원 민주당... YS도 똑같이 박정희 정부로부터 제명을 당했잖아요, 국회의원직을 제명당했는데요. 그때 그걸 돌파해내고, 그 어려운... ",
+            "description": "김소희 의원은 어제 다른 방송에 나가서 그런 얘기를 하기도 하던데요. ▶박정훈 : 줄어들기는 뭘... YS도 똑같이 박정희 정부로부터 제명을 당했잖아요, 국회의원직을 제명당했는데요. 그때 그걸 돌파해내고, 그 어려운... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008422447&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-01-29T09:09:00",
@@ -461,7 +546,7 @@
             "_id": "697cbd6438b0cf4096976cf9",
             "link": "https://n.news.naver.com/mnews/article/009/0005628490?sid=100",
             "created_at": "2026-01-30T23:17:08.606000",
-            "description": "당대표 비서실장을 맡고 있는 한민수 민주당 의원도 이날 채널A 라디오 ‘정치시그널’에서 트럼프 대통령의 ‘관세 인상’ 언급을 두고 “11월 말에 법안이 발의됐고, 숙려기간이 20일 있었다”면서 “12월은 예산 국회였... ",
+            "description": "28일 국회 재정경제기획위원회 여당 간사인 정태호 민주당 의원은 MBC 라디오 ‘김종배의 시선집중’에서 트럼프 대통령의 발언에 대해 “뭔가 잘못된 정보가 입력이 됐나 싶어서 당황스럽기도 하지만 의아스러운 상황”... ",
             "originallink": "https://www.mk.co.kr/article/11945563",
             "press": "매일경제",
             "pubDate": "2026-01-28T11:23:00",
@@ -613,76 +698,6 @@
                 "8JG4358H"
             ],
             "title": "與, 검찰 보완수사 불가 기조 수정할까…중수청법 정책의총"
-        },
-        {
-            "_id": "6972d1f384596000289976c4",
-            "link": "https://n.news.naver.com/mnews/article/015/0005240134?sid=101",
-            "created_at": "2026-01-23T10:42:09.195000",
-            "description": "이날 간담회에는 ▲정청래 더불어민주당 대표, 한정애 국회 산업통상자원중소벤처기업위원회 위원장, 권향엽 산자중기위 위원, 박해철 국회의원, 한민수 당대표 비서실장, ▲허소 더불어민주당 대구시당위원장, 안준승... ",
-            "originallink": "https://www.hankyung.com/article/202601213509h",
-            "press": "한국경제",
-            "pubDate": "2026-01-21T10:57:00",
-            "related_members": [
-                "8JG4358H",
-                "E2B3753X",
-                "XPP2564T",
-                "2385336L",
-                "EFU76868"
-            ],
-            "title": "정청래 민주당 대표 \"AX 혁신 예산이 대구 발전의 마중물이 되어야\""
-        },
-        {
-            "_id": "6970122f297082fcc2b34c22",
-            "link": "http://andongmbc.co.kr/adboard/NewsView80313",
-            "created_at": "2026-01-21T08:39:25.381000",
-            "description": "◀ 리포트 ▶ 국민의힘에서는 6선 중진 주호영 국회의원이 이달 중 대구시장 출마 선언을 합니다. 이미... 최대 관전 포인트가 될 수 있다는 평가가 나옵니다. MBC뉴스 권윤수입니다. (영상취재 윤종희 그래픽 한민수)",
-            "originallink": "http://andongmbc.co.kr/adboard/NewsView80313",
-            "press": "MBC",
-            "pubDate": "2026-01-20T21:14:00",
-            "related_members": [
-                "8SV6917G",
-                "LYY5513O",
-                "UF53617M",
-                "G152611B",
-                "8JG4358H"
-            ],
-            "title": "[R]홍의락, 김부겸에게 \"대구시장에 출마하라\" 촉구"
-        },
-        {
-            "_id": "69701230297082fcc2b34c2b",
-            "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
-            "created_at": "2026-01-21T08:39:26.798000",
-            "description": "부구청장/이인화 국회의원 보좌관/김기대 전 서울시의원, (국) 박중화 서울시의원/강맹훈 전 서울시... 광주시의원/김영남 전 광주시의원/조승환 전 서구청 총무국장 남구청장 (민) 김병내 남구청장/황경아 남구의원/김용집... ",
-            "originallink": "http://monthly.chosun.com/client/news/viw.asp?ctcd=A&nNewsNumb=202602100011",
-            "press": "조선일보",
-            "pubDate": "2026-01-20T15:30:00",
-            "related_members": [
-                "HE08888N",
-                "XSP20229",
-                "8O34202I",
-                "9LD2641Q",
-                "0R68099X",
-                "6K79158C",
-                "9YO73104",
-                "ME83002L",
-                "8JG4358H"
-            ],
-            "title": "6·3 지방선거 | 전국 227곳 기초단체장 출마 예상자 | 행정구역 개편으..."
-        },
-        {
-            "_id": "6970123c297082fcc2b34c89",
-            "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=199491&mode=view",
-            "created_at": "2026-01-21T08:39:38.911000",
-            "description": "시장과 도지사의 의지 부족과 무산 시 책임 떠넘기기, 거기다 지역구 국회의원들이 지역 여론을 자기들... 500만 시도민들이 곱지 않은 시선으로 지켜보고 있습니다. MBC뉴스 윤태호입니다. (영상취재 윤종희, 그래픽 한민수)",
-            "originallink": "http://www.phmbc.co.kr/www/news/desk_news?idx=199491&mode=view",
-            "press": "MBC",
-            "pubDate": "2026-01-19T20:42:00",
-            "related_members": [
-                "DMP1439I",
-                "WTR5885Y",
-                "8JG4358H"
-            ],
-            "title": "용두사미 '행정 통합' 재점화, 불신과 우려가 더 커"
         }
     ],
     "recent_videos": [
@@ -2223,5 +2238,5 @@
             "RST_PROPOSER": "한민수"
         }
     ],
-    "exported_at": "2026-02-03T14:51:44.029145"
+    "exported_at": "2026-02-03T19:08:37.006412"
 }

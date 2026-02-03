@@ -50,18 +50,18 @@
             "장동",
             "제명",
             "대표",
-            "지도부",
             "모임",
+            "지도부",
+            "대안",
+            "미래",
             "징계",
             "이성권",
-            "단식",
             "수사",
             "대통령",
-            "소장파",
+            "국민",
             "선거",
-            "의총",
-            "위원",
-            "대안"
+            "단식",
+            "통합"
         ],
         "keyword_frequency": [
             {
@@ -70,19 +70,27 @@
             },
             {
                 "text": "제명",
-                "value": 25
+                "value": 26
             },
             {
                 "text": "대표",
-                "value": 19
+                "value": 20
+            },
+            {
+                "text": "모임",
+                "value": 16
             },
             {
                 "text": "지도부",
                 "value": 16
             },
             {
-                "text": "모임",
-                "value": 16
+                "text": "대안",
+                "value": 12
+            },
+            {
+                "text": "미래",
+                "value": 12
             },
             {
                 "text": "징계",
@@ -90,11 +98,7 @@
             },
             {
                 "text": "이성권",
-                "value": 11
-            },
-            {
-                "text": "단식",
-                "value": 11
+                "value": 10
             },
             {
                 "text": "수사",
@@ -105,27 +109,23 @@
                 "value": 10
             },
             {
-                "text": "소장파",
-                "value": 10
+                "text": "국민",
+                "value": 9
             },
             {
                 "text": "선거",
                 "value": 9
             },
             {
-                "text": "의총",
+                "text": "단식",
                 "value": 9
             },
             {
-                "text": "위원",
-                "value": 9
-            },
-            {
-                "text": "대안",
-                "value": 9
+                "text": "통합",
+                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:50:42.133441",
+        "last_analyzed_at": "2026-02-03T19:07:42.286528",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -143,7 +143,7 @@
                 0,
                 1,
                 10,
-                0
+                1
             ]
         },
         "ai_policy_summary": "\"권영진 의원은 주로 주거 및 교통 관련 정책 분야에 집중하며, 혁신적이고 미래 지향적인 입법 활동을 통해 국민의 주거 안정과 교통 편의를 개선하는 데 주력하고 있습니다. 특히 빈 건축물 정비 및 민간임대주택 관련 법안들을 통해 국민의 실생활과 직결된 주거 환경 개선과 안전성을 높이는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -157,6 +157,35 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c73138b0cf4096977ad7",
+            "link": "https://n.news.naver.com/mnews/article/055/0001329823?sid=100",
+            "created_at": "2026-02-03T19:00:14.675000",
+            "description": "이 대표는 오늘(3일) 국회 의원회관에서 국민의힘 초·재선 모임인 '대안과 미래'가 주최한 '위기의 한국... 이날 대안과 미래 모임에는 이성권, 권영진, 박정하, 고동진, 서범수, 이만희, 최형두, 김소희, 김재섭, 엄태영, 김건... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008428836&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-02-03T11:32:00",
+            "related_members": [
+                "KFM1081G",
+                "TQP7167T",
+                "HS39431V",
+                "57B28032",
+                "QWL7778X",
+                "A0P4646G",
+                "WXJ8352N",
+                "8348421R",
+                "OSV9142K",
+                "6RD62559",
+                "1SR94244",
+                "4019850M",
+                "LYY5513O",
+                "L7J93733",
+                "KBK8836C",
+                "CNW5754J",
+                "MQU41854"
+            ],
+            "title": "이준석, '대안과 미래' 모임서 \"장동혁, 잠재적 경쟁자 빼고 통합할 것..."
+        },
         {
             "_id": "69814ae538b0cf409697770a",
             "link": "https://n.news.naver.com/mnews/article/011/0004585827?sid=100",
@@ -181,7 +210,7 @@
             "_id": "69814ae138b0cf40969776dc",
             "link": "https://n.news.naver.com/mnews/article/421/0008749323?sid=100",
             "created_at": "2026-02-03T10:09:51.893000",
-            "description": "막말하고, 국회의원 사무실을 찾아다니며 시위한 부분에 대해 지도부가 제재해야 할 것 아니냐\"면서 \"그래야... 한편, 의총 도중엔 반탄파(탄핵 반대)인 조광한 최고위원과 친한계 정성국 의원 사이에 고성이 오가기도 했다.... ",
+            "description": "막말하고, 국회의원 사무실을 찾아다니며 시위한 부분에 대해 지도부가 제재해야 할 것 아니냐\"면서 \"그래야... 그러나 친한계 우재준 최고위원은 의원총회 이후 기자들과 만나 \"국민들 시야에서 보면 이번 제명은 결국 탄핵... ",
             "originallink": "https://www.news1.kr/politics/assembly/6059630",
             "press": "뉴스1",
             "pubDate": "2026-02-02T20:31:00",
@@ -285,7 +314,7 @@
             "_id": "69814ae538b0cf409697770c",
             "link": "https://n.news.naver.com/mnews/article/366/0001140041?sid=100",
             "created_at": "2026-02-03T10:09:56.074000",
-            "description": "조 최고위원은 원외 인사인 자신이 의원총회에 참석한 것을 두고 정성국 의원과 박정훈 의원이 자신에게... 이어 “당 분위기와 관련해 의원들이 무슨 얘기를 하면 당직을 맡은 사람들이 ‘네 국회의원직을 걸어라’는 등... ",
+            "description": "이어 “당 분위기와 관련해 의원들이 무슨 얘기를 하면 당직을 맡은 사람들이 ‘네 국회의원직을 걸어라’는... 안철수 의원은 “(재신임 투표는) 너무 과하다는 의견을 의원들이 많이 얘기했다”며 “각 의원이 들은... ",
             "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/02/02/JWK7BRDL3NG5NNAH4GHH5H5W6I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
             "press": "조선일보",
             "pubDate": "2026-02-02T18:32:00",
@@ -830,33 +859,6 @@
                 "TQP7167T"
             ],
             "title": "국민의힘 소장파 \"장동혁 단식 지지…당 통합 저해 언행 중단돼야\""
-        },
-        {
-            "_id": "6970122c297082fcc2b34c12",
-            "link": "https://n.news.naver.com/mnews/article/023/0003954071?sid=100",
-            "created_at": "2026-01-21T08:39:23.222000",
-            "description": "대안과 미래 간사를 맡고 있는 이성권 의원은 이날 오전 국회 의원회관에서 조찬 모임을 한 뒤 기자들과 만나... 이날 조찬 모임에는 안철수(4선), 김성원·송석준(이상 3선), 권영진·박정하·서범수·엄태영·이성권·최형두... ",
-            "originallink": "https://www.chosun.com/politics/politics_general/2026/01/20/FRHNZ5CMQ5EI3AJP4ZNWAE27ZM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-20T11:07:00",
-            "related_members": [
-                "KBK8836C",
-                "PYA8594I",
-                "HS39431V",
-                "8XE7026P",
-                "WXJ8352N",
-                "TQP7167T",
-                "4019850M",
-                "A0P4646G",
-                "LYY5513O",
-                "L7J93733",
-                "6RD62559",
-                "CNW5754J",
-                "YOG1280B",
-                "8348421R",
-                "9D939735"
-            ],
-            "title": "국힘 소장파 모임 “張 단식 지지… 지금 필요한 건 당 통합”"
         }
     ],
     "recent_videos": [
@@ -2299,5 +2301,5 @@
             "RST_PROPOSER": "권영진"
         }
     ],
-    "exported_at": "2026-02-03T14:50:42.133441"
+    "exported_at": "2026-02-03T19:07:42.286528"
 }

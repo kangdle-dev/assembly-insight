@@ -143,12 +143,12 @@
         const val = e.target.value.trim();
         const results = document.getElementById('search-results');
         if (!val) { results.classList.add('hidden'); return; }
-        
+
         const filtered = allMembers.filter(m => (m.NAAS_NM || m.HG_NM || "").includes(val)).slice(0, 8);
         if (filtered.length > 0) {
-            results.classList.remove('hidden');
+            results.classList.remove('hidden');            
             results.innerHTML = filtered.map(m => `
-                <div class="flex items-center p-4 border-b border-slate-50 active:bg-slate-50 cursor-pointer" onclick="location.href='detail.html?id=${m.NAAS_CD || m.MONA_CD}'">
+                <div class="flex items-center p-4 border-b border-slate-50 active:bg-slate-50 cursor-pointer" onclick="location.href='/members/22_details/${m.NAAS_NM}.html'">
                     <img src="./${m.PHOTO_PATH}" class="w-10 h-10 rounded-full object-cover mr-3 bg-slate-100" onerror="this.src='https://via.placeholder.com/50'">
                     <div>
                         <div class="text-sm font-bold text-slate-800">${m.NAAS_NM || m.HG_NM} <span class="text-[10px] font-normal text-slate-400 ml-1">${m.CURR_PLPT_NM || m.PLPT_NM}</span></div>

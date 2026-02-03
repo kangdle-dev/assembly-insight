@@ -354,3 +354,26 @@ function scrollToSection(sectionId) {
     // 탭 활성화 스타일 업데이트
     updateActiveTab(sectionId);
 }
+
+/**
+ * 모바일 상세 프로필 펼치기/접기
+ */
+function toggleMobileProfile() {
+    const content = document.getElementById('mobile-profile-content');
+    const btn = document.getElementById('profile-more-btn');
+    const gradient = document.getElementById('profile-gradient');
+
+    if (content.style.maxHeight === 'none' || content.classList.contains('expanded')) {
+        // 다시 접기 (필요한 경우)
+        content.style.maxHeight = '400px';
+        content.classList.remove('expanded');
+        btn.innerHTML = '상세정보 더보기 <i class="fa-solid fa-chevron-down"></i>';
+        if (gradient) gradient.classList.remove('hidden');
+    } else {
+        // 펼치기
+        content.style.maxHeight = 'none';
+        content.classList.add('expanded');
+        btn.innerHTML = '상세정보 접기 <i class="fa-solid fa-chevron-up"></i>';
+        if (gradient) gradient.classList.add('hidden');
+    }
+}

@@ -58,20 +58,20 @@
             "신성",
             "제명",
             "계엄",
+            "유용원",
             "경남",
             "대안",
             "신년",
             "외전",
             "모임",
             "이상",
-            "함양",
-            "합천",
-            "장동"
+            "이날",
+            "함양"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 19
+                "value": 21
             },
             {
                 "text": "대표",
@@ -92,6 +92,10 @@
             {
                 "text": "계엄",
                 "value": 11
+            },
+            {
+                "text": "유용원",
+                "value": 10
             },
             {
                 "text": "경남",
@@ -118,19 +122,15 @@
                 "value": 9
             },
             {
+                "text": "이날",
+                "value": 8
+            },
+            {
                 "text": "함양",
-                "value": 8
-            },
-            {
-                "text": "합천",
-                "value": 8
-            },
-            {
-                "text": "장동",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:51:10.627907",
+        "last_analyzed_at": "2026-02-03T19:08:09.669464",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -148,7 +148,7 @@
                 0,
                 1,
                 2,
-                0
+                2
             ]
         },
         "ai_policy_summary": "\"신성범 의원은 주로 농업, 환경, 그리고 사회적 안전망에 집중하며, 개혁가적 입법 활동을 통해 유권자의 복지와 안전을 개선하는 데 주력하고 있습니다. 특히 ‘농업·농촌 공익기능 증진 직접지불제도 운영에 관한 법률’과 ‘한국인 원자폭탄 피해자 지원을 위한 특별법’ 관련 법안들을 통해 국민의 실생활과 직결된 복지 향상과 사회적 정의 실현을 만들어내는 행보를 보입니다.\"",
@@ -162,6 +162,36 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c73a38b0cf4096977af2",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956862?sid=100",
+            "created_at": "2026-02-03T19:00:23.502000",
+            "description": "국회 국방위원회 소속 국민의힘 유용원 의원은 이날 오전 국회에서 ‘우크라이나 북한군 포로, 국내 송환 어떻게 해야 하나’를 주제로 정책 세미나를 열었다. 유 의원 등 정치권이 학자와 연구소, 시민단체 등 관계자와... ",
+            "originallink": "https://www.chosun.com/politics/politics_general/2026/02/03/LILYJMQXENGY3BFOMIWQZROOTU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-02-03T14:39:00",
+            "related_members": [
+                "ZYP7962W",
+                "GP21946O",
+                "RMC1840P",
+                "KBK8836C"
+            ],
+            "title": "우크라 억류 北포로 귀순 세미나서 “이재명·젤렌스키 대통령 결단 필..."
+        },
+        {
+            "_id": "6981c75e38b0cf4096977b3d",
+            "link": "https://n.news.naver.com/mnews/article/003/0013745147?sid=100",
+            "created_at": "2026-02-03T19:00:58.867000",
+            "description": "신성범 국회 정보위원장과 유용원 국민의힘 의원이 3일 서울 여의도 국회 의원회관에서 열린 '우크라이나 북한군 포로, 국내 송환 어떻게 해야 하나' 정책세미나에서 대화하고 있다. 2026.02.03. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260203_0021148330",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T10:13:00",
+            "related_members": [
+                "RMC1840P",
+                "KBK8836C"
+            ],
+            "title": "대화하는 신성범-유용원"
+        },
         {
             "_id": "69814b1038b0cf40969777c1",
             "link": "https://n.news.naver.com/mnews/article/003/0013744325?sid=102",
@@ -1503,5 +1533,5 @@
             "RST_PROPOSER": "신성범"
         }
     ],
-    "exported_at": "2026-02-03T14:51:10.627907"
+    "exported_at": "2026-02-03T19:08:09.669968"
 }

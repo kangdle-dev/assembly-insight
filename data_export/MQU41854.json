@@ -50,18 +50,18 @@
             "국민",
             "토론회",
             "공개",
-            "신상",
+            "모임",
             "회관",
+            "신상",
+            "대안",
+            "미래",
             "제도",
             "개선",
             "대표",
             "정보",
             "제명",
-            "모임",
             "재범",
-            "방지",
-            "대안",
-            "미래"
+            "방지"
         ],
         "keyword_frequency": [
             {
@@ -77,12 +77,24 @@
                 "value": 21
             },
             {
-                "text": "신상",
+                "text": "모임",
                 "value": 19
             },
             {
                 "text": "회관",
-                "value": 18
+                "value": 19
+            },
+            {
+                "text": "신상",
+                "value": 19
+            },
+            {
+                "text": "대안",
+                "value": 17
+            },
+            {
+                "text": "미래",
+                "value": 17
             },
             {
                 "text": "제도",
@@ -105,27 +117,15 @@
                 "value": 15
             },
             {
-                "text": "모임",
-                "value": 15
-            },
-            {
                 "text": "재범",
                 "value": 14
             },
             {
                 "text": "방지",
                 "value": 14
-            },
-            {
-                "text": "대안",
-                "value": 13
-            },
-            {
-                "text": "미래",
-                "value": 13
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:51:37.452646",
+        "last_analyzed_at": "2026-02-03T19:08:31.655914",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -143,7 +143,7 @@
                 0,
                 1,
                 1,
-                1
+                2
             ]
         },
         "ai_policy_summary": "\"조은희 의원은 주로 사회 안전 및 복지 분야에 집중하며, 개혁가적 입법 활동을 통해 국민의 안전과 복지 개선에 주력하고 있습니다. 특히 스토킹 방지 및 피해자 보호와 관련된 법안들을 통해 국민의 실생활과 직결된 안전한 사회 환경을 만들어내는 행보를 보입니다.\"",
@@ -157,6 +157,35 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c73138b0cf4096977ad7",
+            "link": "https://n.news.naver.com/mnews/article/055/0001329823?sid=100",
+            "created_at": "2026-02-03T19:00:14.675000",
+            "description": "이 대표는 오늘(3일) 국회 의원회관에서 국민의힘 초·재선 모임인 '대안과 미래'가 주최한 '위기의 한국... 이날 대안과 미래 모임에는 이성권, 권영진, 박정하, 고동진, 서범수, 이만희, 최형두, 김소희, 김재섭, 엄태영, 김건... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008428836&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-02-03T11:32:00",
+            "related_members": [
+                "KFM1081G",
+                "TQP7167T",
+                "HS39431V",
+                "57B28032",
+                "QWL7778X",
+                "A0P4646G",
+                "WXJ8352N",
+                "8348421R",
+                "OSV9142K",
+                "6RD62559",
+                "1SR94244",
+                "4019850M",
+                "LYY5513O",
+                "L7J93733",
+                "KBK8836C",
+                "CNW5754J",
+                "MQU41854"
+            ],
+            "title": "이준석, '대안과 미래' 모임서 \"장동혁, 잠재적 경쟁자 빼고 통합할 것..."
+        },
         {
             "_id": "69814b2538b0cf4096977808",
             "link": "https://n.news.naver.com/mnews/article/421/0008749640?sid=100",
@@ -383,37 +412,24 @@
             "title": "성범죄 年 5만 건 中 전자발찌는 1%… 관리 공백 인한 ‘정신적 후유증..."
         },
         {
-            "_id": "697cbd6738b0cf4096976d0b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013732962?sid=100",
-            "created_at": "2026-01-30T23:17:11.117000",
-            "description": "조은희 국민의힘 의원이 27일 서울 여의도 국회 의원회관에서 열린 성범죄자 재범 방지를 위한 신상정보 등록, 공개제도 개선 정책토론회에서 인사말을 하고 있다. 2026.01.27. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260127_0021140832",
-            "press": "뉴시스",
-            "pubDate": "2026-01-27T14:52:00",
-            "related_members": [
-                "MQU41854"
-            ],
-            "title": "성범죄 재범 방지위한 신상정보, 공개제도 개선 토론회"
-        },
-        {
-            "_id": "697cbd6738b0cf4096976d09",
-            "link": "https://n.news.naver.com/mnews/article/003/0013732964?sid=100",
-            "created_at": "2026-01-30T23:17:11.117000",
-            "description": "조은희 국민의힘 의원이 27일 서울 여의도 국회 의원회관에서 열린 성범죄자 재범 방지를 위한 신상정보 등록, 공개제도 개선 정책토론회에서 인사말을 하고 있다. 2026.01.27. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260127_0021140831",
-            "press": "뉴시스",
-            "pubDate": "2026-01-27T14:52:00",
-            "related_members": [
-                "MQU41854"
-            ],
-            "title": "성범죄 재범 방지위한 신상정보, 공개제도 개선 토론회"
-        },
-        {
             "_id": "697cbd6738b0cf4096976d0a",
             "link": "https://n.news.naver.com/mnews/article/003/0013732965?sid=100",
             "created_at": "2026-01-30T23:17:11.117000",
             "description": "조은희 국민의힘 의원이 27일 서울 여의도 국회 의원회관에서 열린 성범죄자 재범 방지를 위한 신상정보 등록, 공개제도 개선 정책토론회에서 인사말을 하고 있다. 2026.01.27. kkssmm99@newsis.com",
             "originallink": "https://www.newsis.com/view/NISI20260127_0021140830",
+            "press": "뉴시스",
+            "pubDate": "2026-01-27T14:52:00",
+            "related_members": [
+                "MQU41854"
+            ],
+            "title": "성범죄 재범 방지위한 신상정보, 공개제도 개선 토론회"
+        },
+        {
+            "_id": "697cbd6738b0cf4096976d0c",
+            "link": "https://n.news.naver.com/mnews/article/003/0013732963?sid=100",
+            "created_at": "2026-01-30T23:17:11.117000",
+            "description": "조은희 국민의힘 의원이 27일 서울 여의도 국회 의원회관에서 열린 성범죄자 재범 방지를 위한 신상정보 등록, 공개제도 개선 정책토론회에서 인사말을 하고 있다. 2026.01.27. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260127_0021140828",
             "press": "뉴시스",
             "pubDate": "2026-01-27T14:52:00",
             "related_members": [
@@ -435,11 +451,24 @@
             "title": "인사말하는 조은희 의원"
         },
         {
-            "_id": "697cbd6738b0cf4096976d0c",
-            "link": "https://n.news.naver.com/mnews/article/003/0013732963?sid=100",
+            "_id": "697cbd6738b0cf4096976d09",
+            "link": "https://n.news.naver.com/mnews/article/003/0013732964?sid=100",
             "created_at": "2026-01-30T23:17:11.117000",
             "description": "조은희 국민의힘 의원이 27일 서울 여의도 국회 의원회관에서 열린 성범죄자 재범 방지를 위한 신상정보 등록, 공개제도 개선 정책토론회에서 인사말을 하고 있다. 2026.01.27. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260127_0021140828",
+            "originallink": "https://www.newsis.com/view/NISI20260127_0021140831",
+            "press": "뉴시스",
+            "pubDate": "2026-01-27T14:52:00",
+            "related_members": [
+                "MQU41854"
+            ],
+            "title": "성범죄 재범 방지위한 신상정보, 공개제도 개선 토론회"
+        },
+        {
+            "_id": "697cbd6738b0cf4096976d0b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013732962?sid=100",
+            "created_at": "2026-01-30T23:17:11.117000",
+            "description": "조은희 국민의힘 의원이 27일 서울 여의도 국회 의원회관에서 열린 성범죄자 재범 방지를 위한 신상정보 등록, 공개제도 개선 정책토론회에서 인사말을 하고 있다. 2026.01.27. kkssmm99@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260127_0021140832",
             "press": "뉴시스",
             "pubDate": "2026-01-27T14:52:00",
             "related_members": [
@@ -852,30 +881,6 @@
                 "MQU41854"
             ],
             "title": "“서초 2040 발전 모습?”...서초구 ‘2040 도시발전전략 정책보고회’..."
-        },
-        {
-            "_id": "6964b58b631fd17434996494",
-            "link": "https://n.news.naver.com/mnews/article/023/0003947987?sid=100",
-            "created_at": "2026-01-12T17:49:12.214000",
-            "description": "국민의힘에선 주호영 국회부의장, 나경원·이종배·윤한홍·추경호·한기호·권영진·김은혜·박정하·조은희 의원 등 20여 명이 참석했던 것으로 전해졌다. 이 전 대통령은 장동혁 대표에 대해 “개인적인 연이 있는 사이는... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2025/12/19/3W6EQD4MJRHJBHVVUOT2STTJ2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2025-12-19T16:30:00",
-            "related_members": [
-                "JQA21112",
-                "HSW1214Q",
-                "6RD62559",
-                "G152611B",
-                "KFM1081G",
-                "8X15119P",
-                "MQU41854",
-                "8SV6917G",
-                "4019850M",
-                "L5P27909",
-                "SLW27496",
-                "LYY5513O"
-            ],
-            "title": "MB “강도 들어오면 힘 모아야” 화합 주문에 野, 아전인수 해석"
         }
     ],
     "recent_videos": [
@@ -2066,5 +2071,5 @@
             "RST_PROPOSER": "조은희"
         }
     ],
-    "exported_at": "2026-02-03T14:51:37.453648"
+    "exported_at": "2026-02-03T19:08:31.656914"
 }

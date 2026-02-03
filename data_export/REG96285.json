@@ -45,47 +45,43 @@
             "내란",
             "재판부",
             "전담",
-            "헌법",
             "국민",
-            "소원",
             "대표",
+            "헌법",
             "징계",
             "한동훈",
-            "의장",
             "장동",
+            "소원",
+            "의장",
+            "제명",
             "청구",
             "우원식",
-            "제명",
-            "제기"
+            "잘못"
         ],
         "keyword_frequency": [
             {
                 "text": "내란",
-                "value": 33
+                "value": 28
             },
             {
                 "text": "재판부",
-                "value": 33
+                "value": 28
             },
             {
                 "text": "전담",
-                "value": 31
-            },
-            {
-                "text": "헌법",
-                "value": 25
+                "value": 26
             },
             {
                 "text": "국민",
-                "value": 24
-            },
-            {
-                "text": "소원",
-                "value": 21
+                "value": 22
             },
             {
                 "text": "대표",
-                "value": 20
+                "value": 22
+            },
+            {
+                "text": "헌법",
+                "value": 21
             },
             {
                 "text": "징계",
@@ -96,31 +92,35 @@
                 "value": 19
             },
             {
-                "text": "의장",
-                "value": 19
-            },
-            {
                 "text": "장동",
                 "value": 17
             },
             {
-                "text": "청구",
+                "text": "소원",
                 "value": 17
             },
             {
-                "text": "우원식",
-                "value": 15
+                "text": "의장",
+                "value": 16
             },
             {
                 "text": "제명",
                 "value": 14
             },
             {
-                "text": "제기",
-                "value": 14
+                "text": "청구",
+                "value": 13
+            },
+            {
+                "text": "우원식",
+                "value": 13
+            },
+            {
+                "text": "잘못",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-03T14:50:41.095675",
+        "last_analyzed_at": "2026-02-03T19:07:41.276908",
         "trend_news": {
             "labels": [
                 "01-28",
@@ -138,7 +138,7 @@
                 0,
                 0,
                 8,
-                2
+                4
             ]
         },
         "ai_policy_summary": "\"곽규택 의원은 주로 항만, 교통, 환경 및 공공 안전 분야에 집중하며, 개혁가적 입법 활동을 통해 유권자의 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 항만 재개발 및 교통사고 처리 관련 법안들을 통해 국민의 실생활과 직결된 안전한 교통 환경과 지속 가능한 발전을 만들어내는 행보를 보입니다.\"",
@@ -152,6 +152,38 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6981c73238b0cf4096977ad8",
+            "link": "https://n.news.naver.com/mnews/article/015/0005246217?sid=100",
+            "created_at": "2026-02-03T19:00:15.318000",
+            "description": "국민의힘 의원총회에서 거친 언사로 맞붙었던 정성국 의원과 조광한 최고위원이 3일에도 장외 설전을 벌였다.... 그러자 정 의원이 \"이게 국회의원에게 얻다 대고\"라고 하면서 서로 반말까지 오갔다는 게 조 최고위원의... ",
+            "originallink": "https://www.hankyung.com/article/2026020310817",
+            "press": "한국경제",
+            "pubDate": "2026-02-03T16:23:00",
+            "related_members": [
+                "6EN68926",
+                "REG96285",
+                "ANS8383S",
+                "CGW7415Z",
+                "KFM1081G"
+            ],
+            "title": "\"너 좀 나와봐\" vs \"의원에게 얻다 대고\"…국힘 의총 '아수라장'"
+        },
+        {
+            "_id": "6981c73238b0cf4096977ad9",
+            "link": "https://n.news.naver.com/mnews/article/023/0003956828?sid=100",
+            "created_at": "2026-02-03T19:00:15.318000",
+            "description": "저는 송언석 원내대표에게 당 사안에 대해 엄중히 경고해 줄 것을 요청했고, 원내대표께도 ‘그렇게 하겠다’... 그러자 정 의원이 “이게 국회의원에게 얻다 대고”라고 하자, 서로 반말까지 하게 됐다는 것이다. 그러면서... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/02/03/I6I6UPS5CBDJ3NHLMQNMB5CG4Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-02-03T10:37:00",
+            "related_members": [
+                "6EN68926",
+                "REG96285",
+                "ANS8383S"
+            ],
+            "title": "의총서 “야 인마 나와” 국힘 충돌, 장외설전으로"
+        },
         {
             "_id": "69814ae438b0cf40969776f5",
             "link": "https://n.news.naver.com/mnews/article/056/0012117611?sid=100",
@@ -599,35 +631,6 @@
                 "REG96285"
             ],
             "title": "국민의힘, 민주당 주도 ‘내란전담재판부 설치법’ 헌법소원 제기"
-        },
-        {
-            "_id": "6976fce78459600028997f22",
-            "link": "https://n.news.naver.com/mnews/article/003/0013730171?sid=100",
-            "created_at": "2026-01-26T14:34:29.391000",
-            "description": "국회 법제사법위원회 소속 국민의힘 의원들은 이날 우원식 국회의장을 상대로 권한쟁의심판도 함께 청구했다. 우 의장이 내란전담재판부법과 온라인 입틀막법(정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부... ",
-            "originallink": "https://www.newsis.com/view/NISX20260126_0003490056",
-            "press": "뉴시스",
-            "pubDate": "2026-01-26T11:35:00",
-            "related_members": [
-                "REG96285",
-                "XBT9550Q"
-            ],
-            "title": "국힘 \"내란전담재판부법 심각한 위헌성 존재\"…헌법소원 청구"
-        },
-        {
-            "_id": "6976fce78459600028997f23",
-            "link": "https://n.news.naver.com/mnews/article/016/0002590936?sid=100",
-            "created_at": "2026-01-26T14:34:29.391000",
-            "description": "이어 국회 법제사법위원회 소속 국민의힘 의원들이 우원식 국회의장을 상대로 권한 쟁의 심판을 함께 청구했다는 사실을 덧붙였다. 곽규택 국민의힘 법률자문위원장은 “합리적 이유 없이 특정 범죄와 그 피고인을... ",
-            "originallink": "https://biz.heraldcorp.com/article/10662678?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-26T11:22:00",
-            "related_members": [
-                "XBT9550Q",
-                "REG96285",
-                "6EN68926"
-            ],
-            "title": "[속보] 국힘, ‘내란 전담 재판부법’ 헌법 소원 제기"
         }
     ],
     "recent_videos": [
@@ -1818,5 +1821,5 @@
             "RST_PROPOSER": "곽규택"
         }
     ],
-    "exported_at": "2026-02-03T14:50:41.095675"
+    "exported_at": "2026-02-03T19:07:41.277909"
 }
