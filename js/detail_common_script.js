@@ -303,19 +303,91 @@ function expandVideos() {
 
 // 트렌드 차트 및 SNS 로직 생략 (기존 함수와 동일)
 function renderTrendChart(trendData) {
+    console.log(trendData);
     if (!trendData || !document.getElementById('trendChart')) return;
     const ctx = document.getElementById('trendChart').getContext('2d');
+    
     new Chart(ctx, {
         type: 'line',
         data: {
             labels: trendData.labels,
-            datasets: [{
-                data: trendData.data,
-                borderColor: '#3b82f6', backgroundColor: 'rgba(59, 130, 246, 0.05)',
-                fill: true, tension: 0.4, borderWidth: 3, pointRadius: 0
-            }]
+            datasets: [
+                {
+                    // 1. 의원 본인 데이터 (메인 파란색 실선)
+                    label: '현재 의원',
+                    data: trendData.data,
+                    borderColor: '#3b82f6', 
+                    backgroundColor: 'rgba(59, 130, 246, 0.08)',
+                    fill: true, 
+                    tension: 0.4, 
+                    borderWidth: 3,
+                    pointRadius: 0,
+                    pointHoverRadius: 6,
+                    zIndex: 10
+                },
+                {
+                    // 2. 22대 의원 평균 데이터 (배경 회색 점선)
+                    label: '22대 평균',
+                    data: trendData.avg_data, // JSON에 포함된 평균 데이터 배열
+                    borderColor: '#cbd5e1', 
+                    borderWidth: 2,
+                    borderDash: [5, 5], // 점선 스타일
+                    fill: false, 
+                    tension: 0.4, 
+                    pointRadius: 0,
+                    pointHoverRadius: 0,
+                    zIndex: 5
+                }
+            ]
         },
-        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { display: false }, x: { grid: { display: false }, ticks: { font: { size: 9 } } } } }
+        options: { 
+            responsive: true, 
+            maintainAspectRatio: false, 
+            interaction: {
+                mode: 'index', // 마우스 올렸을 때 두 데이터 한 번에 비교
+                intersect: false,
+            },
+            plugins: { 
+                legend: { 
+                    display: true, 
+                    position: 'top',
+                    align: 'end',
+                    labels: { 
+                        boxWidth: 8, 
+                        usePointStyle: true,
+                        font: { size: 10, weight: '600' } 
+                    }
+                },
+                tooltip: {
+                    backgroundColor: 'rgba(255, 255, 255, 0.95)',
+                    titleColor: '#1e293b',
+                    bodyColor: '#475569',
+                    borderColor: '#e2e8f0',
+                    borderWidth: 1,
+                    padding: 10,
+                    titleFont: { weight: 'bold' },
+                    callbacks: {
+                        label: function(context) {
+                            return ` ${context.dataset.label}: ${context.parsed.y}pt`;
+                        }
+                    }
+                }
+            }, 
+            scales: { 
+                y: { 
+                    display: false, // 복잡함 제거를 위해 Y축 숨김
+                    beginAtZero: true 
+                }, 
+                x: { 
+                    grid: { display: false }, 
+                    ticks: { 
+                        font: { size: 10 }, 
+                        color: '#94a3b8',
+                        maxRotation: 0
+                    } 
+                } 
+            } 
+        }
     });
 }
 
@@ -419,8 +491,6 @@ function renderKeywordChart(keywordFrequency) {
         }
     });
 }
-
-
 
 /**
  * 1. 의원 이름 매핑 데이터 로드 (빌드된 JSON 활용)

@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 from kiwipiepy import Kiwi  # KoNLPy 대신 사용
 from collections import Counter
 from dotenv import load_dotenv
+import numpy as np
 
 # [1. 환경 설정 및 DB 연결]
 load_dotenv()
@@ -115,14 +116,32 @@ def export_integrated_insight():
     if total_members == 0:
         print("⚠️ [ERROR] DB에 22대 의원 데이터가 없습니다.")
         return
+    
+    # 22대 의원 이름 목록 저장
+    generate_member_map(members)
 
     # 메인 페이지용 전체 명단 저장
     with open(os.path.join(EXPORT_DIR, MAIN_PAGE_MEMBERS_ALL_DATA_FILE), 'w', encoding='utf-8') as f:
         json.dump(format_mongo_data(members), f, ensure_ascii=False, indent=4)
     print(f"✅ [MAIN] {MAIN_PAGE_MEMBERS_ALL_DATA_FILE} 생성 완료")
 
-    # 22대 의원 이름 목록 저장
-    generate_member_map(members)
+    # 평균 화제성 데이터 주입 로직 실행
+    # 개별 분석(for문)에 들어가기 전에 모든 의원의 뉴스 트렌드를 수집하여 평균을 계산합니다.
+    print("\n📊 전체 의원 화제성 평균 계산 중...")
+    all_member_trends = []
+    for m in members:
+        # 각 의원의 뉴스 데이터를 임시로 가져와서 트렌드 계산
+        m_news = list(db.news.find({"related_members": m.get('NAAS_CD')}).sort("pubDate", -1).limit(30))
+        m_trend = get_news_trend(m_news)
+        all_member_trends.append(m_trend['data'])
+    
+    # numpy를 이용한 평균 계산
+    if all_member_trends:
+        avg_scores = np.mean(np.array(all_member_trends), axis=0).round(1).tolist()
+        print(f"✅ 평균 데이터 계산 완료: {avg_scores}")
+    else:
+        avg_scores = [0] * 7 # 데이터가 없을 경우 기본값
+
 
     start_time = time.time()
 
@@ -154,7 +173,11 @@ def export_integrated_insight():
                 "keywords": analysis_res["top_keywords"],
                 "keyword_frequency": analysis_res["keyword_details"],
                 "last_analyzed_at": datetime.now().isoformat(),
-                "trend_news": get_news_trend(news),
+                "trend_news": { 
+                    **get_news_trend(news),
+                    "avg_data": avg_scores
+                },
+                
                 # [추가] 입법 분석 통계 및 AI 요약
                 "ai_policy_summary": policy_data.get('ai_summary') if policy_data else "정책 분석 데이터가 없습니다.",
                 "policy_stats": policy_data.get('analysis_stats') if policy_data else None,
@@ -196,6 +219,36 @@ def generate_member_map(members):
     
     print(f"✅ [MAIN] {MEMBERS_22ND_NAME} 생성 완료 (총 {len(member_map)}명)")
     return member_map
+
+# 화제성 평균 데이터 주입
+def inject_avg_trend_data(members_payloads):
+    """
+    모든 의원의 데이터 리스트를 받아 일자별 평균을 계산하고 주입합니다.
+    members_payloads: 각 의원의 상세 정보(dict)가 담긴 리스트
+    """
+    
+    # 1. 모든 의원의 화제성 점수(data)를 모음
+    all_scores = []
+    for p in members_payloads:
+        trend = p.get('analysis', {}).get('trend_news', {})
+        if trend and 'data' in trend:
+            all_scores.append(trend['data'])
+    
+    if not all_scores:
+        return members_payloads
+
+    # 2. 날짜별 평균 계산 (numpy 활용 시 매우 빠름)
+    # 행렬로 변환하여 세로축(날짜별) 평균 산출
+    scores_matrix = np.array(all_scores)
+    avg_scores = np.mean(scores_matrix, axis=0).round(1).tolist() # 소수점 1자리까지
+
+    # 3. 각 의원 데이터에 평균값 주입
+    for p in members_payloads:
+        if 'analysis' in p and 'trend_news' in p['analysis']:
+            p['analysis']['trend_news']['avg_data'] = avg_scores
+            
+    print(f"✅ 화제성 평균 데이터 주입 완료 (기준 데이터: {len(all_scores)}건)")
+    return members_payloads
 
 if __name__ == "__main__":
     export_integrated_insight()
