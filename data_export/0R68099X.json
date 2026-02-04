@@ -48,41 +48,41 @@
     "analysis": {
         "keywords": [
             "김병기",
+            "민주당",
             "헌금",
             "의혹",
-            "민주당",
             "탄원서",
             "후보자",
             "공천",
-            "경찰",
             "예비",
             "선거",
-            "지방",
+            "경찰",
             "공모",
+            "지방",
             "출마",
-            "지역구",
-            "전달"
+            "전달",
+            "조사"
         ],
         "keyword_frequency": [
             {
                 "text": "김병기",
-                "value": 41
-            },
-            {
-                "text": "헌금",
-                "value": 28
-            },
-            {
-                "text": "의혹",
-                "value": 25
+                "value": 35
             },
             {
                 "text": "민주당",
-                "value": 23
+                "value": 26
+            },
+            {
+                "text": "헌금",
+                "value": 26
+            },
+            {
+                "text": "의혹",
+                "value": 24
             },
             {
                 "text": "탄원서",
-                "value": 23
+                "value": 20
             },
             {
                 "text": "후보자",
@@ -90,10 +90,6 @@
             },
             {
                 "text": "공천",
-                "value": 18
-            },
-            {
-                "text": "경찰",
                 "value": 17
             },
             {
@@ -105,45 +101,49 @@
                 "value": 15
             },
             {
-                "text": "지방",
-                "value": 14
+                "text": "경찰",
+                "value": 15
             },
             {
                 "text": "공모",
                 "value": 14
             },
             {
-                "text": "출마",
+                "text": "지방",
                 "value": 13
             },
             {
-                "text": "지역구",
+                "text": "출마",
                 "value": 13
             },
             {
                 "text": "전달",
                 "value": 13
+            },
+            {
+                "text": "조사",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:08:19.030749",
+        "last_analyzed_at": "2026-02-04T12:53:49.003733",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                0,
                 0,
                 1,
                 1,
                 6,
                 1,
-                0
+                1,
+                1
             ]
         },
         "ai_policy_summary": "이수진 의원은 주로 보건, 복지 및 고용 분야에 집중하며, 개혁가적 입법 활동을 통해 사회적 약자와 일반 국민의 삶을 개선하는 데 주력하고 있습니다. 특히 남녀고용평등, 아동복지 및 의료 관련 법안들을 통해 국민의 실생활과 직결된 복지 체계의 강화와 안전망 구축을 만들어내는 행보를 보입니다.",
@@ -157,6 +157,38 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6982827238b0cf4096977cc4",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694858?sid=100",
+            "created_at": "2026-02-04T08:19:12.528000",
+            "description": "민주당 정태호 의원도 12일 국회에서 ‘설탕 과다사용부담금 국회 토론회’를 열고 의견을 수렴한 뒤 별도 법안 발의를 검토하고 있다. 민주당은 관련 법안을 종합해 설탕부담금 입법 절차를 밟을 예정이다. 한정애... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260204/133292528/2",
+            "press": "동아일보",
+            "pubDate": "2026-02-04T04:35:00",
+            "related_members": [
+                "7GW5372Y",
+                "UHB5553T",
+                "0R68099X",
+                "XPP2564T"
+            ],
+            "title": "李 ‘설탕부담금’ 제안에… 與, 관련 법안 발의"
+        },
+        {
+            "_id": "6982827238b0cf4096977cc5",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694749?sid=100",
+            "created_at": "2026-02-04T08:19:12.528000",
+            "description": "민주당 정태호 의원도 12일 국회에서 ‘설탕 과다사용부담금 국회 토론회’를 열고 의견을 수렴한 뒤 별도 법안 발의를 검토하고 있다. 민주당은 관련 법안을 종합해 설탕부담금 입법 절차를 밟을 예정이다. 한정애... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260203/133292032/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-03T20:39:00",
+            "related_members": [
+                "7GW5372Y",
+                "UHB5553T",
+                "0R68099X",
+                "XPP2564T"
+            ],
+            "title": "“설탕 줄여라” 설탕세 입법 개시…함량 높으면 부담금 최대 28배"
+        },
         {
             "_id": "697ff13838b0cf409697739a",
             "link": "https://n.news.naver.com/mnews/article/056/0012116642?sid=100",
@@ -278,7 +310,7 @@
             "_id": "697cbd4f38b0cf4096976c74",
             "link": "https://n.news.naver.com/mnews/article/056/0012116086?sid=100",
             "created_at": "2026-01-30T23:16:47.452000",
-            "description": "이수진 기자입니다. [리포트] 신영대 전 의원은 사무장의 공직선거법 위반 혐의가 유죄로 확정되면서 국회의원직을 내려놔야 했습니다. 이에 따라 오는 6월, 지방선거와 함께 신 의원의 지역구인 군산·김제·부안 갑에서... ",
+            "description": "당헌·당규상 국회의원직과 지역위원장직은 별개로, 자동 해임되지 않는 데다 의원 본인의 사법적 문제로 의원직을 잃은 게 아닌 만큼, 사고 지역 지정도 어렵다면서 재선거 후보 공천을 서두르겠다는 입장입니다. [윤준병... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473763&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-30T21:42:00",
@@ -597,41 +629,6 @@
                 "0R68099X"
             ],
             "title": "“국회의원 하나 때문에 구의회가 완전히 개판 됐다”…‘동작 스캔들..."
-        },
-        {
-            "_id": "696c5be4297082fcc2b19b61",
-            "link": "https://n.news.naver.com/mnews/article/262/0000019088?sid=100",
-            "created_at": "2026-01-18T13:04:52.147000",
-            "description": "“지역에선 재선한 구청장이 현역 국회의원보다 인기가 좋다. 이 전 구청장이 총선에 나간다고 하니 김 전... 현역의원을 빼겠다는 건 이 지역을 포기하겠다는 건가 싶었다. 전체 의원 대화방에서 이재명 당대표와 안규백... ",
-            "originallink": "https://shindonga.donga.com/3/all/13/6061696/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-17T09:01:00",
-            "related_members": [
-                "JZY9937U",
-                "MNZ4401T",
-                "TST4507I",
-                "5N65159P",
-                "8Q88373R",
-                "7YL9580G",
-                "SLW27496",
-                "0R68099X"
-            ],
-            "title": "[영상] “김병기에 탄원서 들어간 뒤부터 피바람 불었다”"
-        },
-        {
-            "_id": "6968ad84297082fcc2b18cc6",
-            "link": "https://n.news.naver.com/mnews/article/016/0002586163?sid=102",
-            "created_at": "2026-01-15T18:04:01.564000",
-            "description": "서울경찰청 광역수사단 공공범죄수사대는 이날 김 의원의 서울 동작구 자택과 국회 의원회관 사무실... 이러한 의혹은 전직 동작구 의원들이 2023년 12월 당시 지역구 의원이던 이수진 전 민주당 의원 측에 탄원서를... ",
-            "originallink": "https://biz.heraldcorp.com/article/10656009?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-15T10:43:00",
-            "related_members": [
-                "8Q88373R",
-                "MNZ4401T",
-                "0R68099X"
-            ],
-            "title": "與 공천헌금 수사 김병기 아이폰 잠겼다…경찰 김병기 압수수색 ·김경..."
         }
     ],
     "recent_videos": [
@@ -670,7 +667,7 @@
             "url": "https://www.youtube.com/watch?v=REzMoyIpQQ8",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-01-13T09:49:12.296000",
+            "collected_at": "2026-02-04T08:40:57.974000",
             "duration": 296.0,
             "title": "서울시 정책엑스포 | 더불어민주당 비례대표 국회의원 이수진 | \"엄마가 행복한 서울, 엄마 마음이 건강한 서울\"",
             "upload_date": null
@@ -690,7 +687,7 @@
             "url": "https://www.youtube.com/watch?v=QDU0ne1_Xds",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-02-02T09:50:02.355000",
+            "collected_at": "2026-02-04T08:40:57.974000",
             "duration": 129.0,
             "title": "[단독] 이수진 \"당 윤리감찰단 두 달 뒤에도 '김병기 투서' 모르더라\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -700,7 +697,7 @@
             "url": "https://www.youtube.com/watch?v=W9vyyvQprl0",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-02-02T09:50:02.355000",
+            "collected_at": "2026-02-04T08:40:59.482000",
             "duration": 75.0,
             "title": "'김병기 폭로' 이수진 \"'대표에게 보고됐다'…김현지와 통화한 녹취 있어\"｜지금 이 뉴스",
             "upload_date": null
@@ -710,7 +707,7 @@
             "url": "https://www.youtube.com/watch?v=UC9jenXiV9fP7wy122SbkmQA",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-02-02T09:50:02.355000",
+            "collected_at": "2026-02-04T08:40:57.974000",
             "duration": null,
             "title": "동작이수진채널",
             "upload_date": null
@@ -750,7 +747,7 @@
             "url": "https://www.youtube.com/watch?v=M7k5rnKTjyc",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-02-02T09:50:03.670000",
+            "collected_at": "2026-02-04T08:40:59.482000",
             "duration": 103.0,
             "title": "“김현지, 이수진 측 탄원서 받아 당 사무국에 전달” / 채널A / 뉴스A",
             "upload_date": null
@@ -760,7 +757,7 @@
             "url": "https://www.youtube.com/watch?v=oRI-2zegboY",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-02-02T09:50:03.670000",
+            "collected_at": "2026-02-04T08:40:59.482000",
             "duration": 209.0,
             "title": "이수진 측 \"김현지 통화 녹취 있어\"…야 '특검' 공세 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -770,7 +767,7 @@
             "url": "https://www.youtube.com/watch?v=DasjorzkkZg",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-01-30T23:29:12.071000",
+            "collected_at": "2026-02-04T08:40:57.974000",
             "duration": 110.0,
             "title": "'김병기 탄원서' 공개했던 이수진 \"김현지에 전달했다\"…野 \"부패 카르텔, 특검 불가피\" [뉴스7]",
             "upload_date": null
@@ -780,7 +777,7 @@
             "url": "https://www.youtube.com/watch?v=sUvRnfDLwHc",
             "HG_NM": "이수진",
             "MONA_CD": "0R68099X",
-            "collected_at": "2026-01-30T23:29:12.071000",
+            "collected_at": "2026-02-04T08:40:57.974000",
             "duration": 190.0,
             "title": "“나 빼고 유럽 출장” 같은 당에 따진 이수진 | 뉴스TOP 10",
             "upload_date": null
@@ -5519,5 +5516,5 @@
             "RST_PROPOSER": "이수진"
         }
     ],
-    "exported_at": "2026-02-03T19:08:19.030749"
+    "exported_at": "2026-02-04T12:53:49.004240"
 }

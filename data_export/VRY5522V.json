@@ -52,16 +52,16 @@
             "광주",
             "시장",
             "민주당",
+            "선거",
             "특별",
-            "광산",
-            "출마",
-            "신정훈",
-            "정준",
-            "청사",
-            "복당",
             "후보",
-            "강기정",
-            "선거"
+            "광산",
+            "신정훈",
+            "특별시",
+            "정준",
+            "복당",
+            "출마",
+            "선거전"
         ],
         "keyword_frequency": [
             {
@@ -70,30 +70,34 @@
             },
             {
                 "text": "통합",
-                "value": 41
+                "value": 42
             },
             {
                 "text": "광주",
-                "value": 38
+                "value": 36
             },
             {
                 "text": "시장",
-                "value": 30
+                "value": 31
             },
             {
                 "text": "민주당",
-                "value": 22
+                "value": 20
+            },
+            {
+                "text": "선거",
+                "value": 18
             },
             {
                 "text": "특별",
-                "value": 16
+                "value": 17
+            },
+            {
+                "text": "후보",
+                "value": 14
             },
             {
                 "text": "광산",
-                "value": 15
-            },
-            {
-                "text": "출마",
                 "value": 14
             },
             {
@@ -101,11 +105,11 @@
                 "value": 13
             },
             {
-                "text": "정준",
+                "text": "특별시",
                 "value": 13
             },
             {
-                "text": "청사",
+                "text": "정준",
                 "value": 12
             },
             {
@@ -113,37 +117,33 @@
                 "value": 12
             },
             {
-                "text": "후보",
+                "text": "출마",
                 "value": 11
             },
             {
-                "text": "강기정",
-                "value": 11
-            },
-            {
-                "text": "선거",
+                "text": "선거전",
                 "value": 11
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:07:57.158248",
+        "last_analyzed_at": "2026-02-04T12:53:28.751970",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                3,
                 1,
                 1,
                 0,
                 2,
                 10,
-                8
+                11,
+                0
             ]
         },
         "ai_policy_summary": "\"민형배 의원은 주로 공정 거래, 사회복지 및 교육 분야에 집중하며, 개혁가적 입법 활동을 통해 유권자의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 가맹사업, 대리점 거래 공정화 및 양육비 이행 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정과 복지 향상을 만들어내는 행보를 보입니다.\"",
@@ -157,6 +157,48 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6982828138b0cf4096977cd3",
+            "link": "http://andongmbc.co.kr/adboard/NewsView80594",
+            "created_at": "2026-02-04T08:19:27.732000",
+            "description": "[ CG1 ] 통합특별시장 예비 후보자인 신정훈 국회의원은 개인 sns에 글을 올리고 \"오랜 기간 낙후와 소멸의 진원지였던 전남 서남권이 특별시의 중심지가 되는 것이 통합의 정신을 가장 잘 실현하는 방안이다\"고... ",
+            "originallink": "http://andongmbc.co.kr/adboard/NewsView80594",
+            "press": "MBC",
+            "pubDate": "2026-02-03T21:24:00",
+            "related_members": [
+                "VRY5522V",
+                "M7O7878U"
+            ],
+            "title": "[R]전남은 \"주 청사 전남으로\" 외치는데...광주는 침묵"
+        },
+        {
+            "_id": "6982827638b0cf4096977cc8",
+            "link": "https://mpmbc.co.kr/NewsArticle/1503695",
+            "created_at": "2026-02-04T08:19:16.593000",
+            "description": "[통CG] ◀ INT ▶ 민형배 더불어민주당 국회의원(광주 광산구을) 지금은 굳이 후보 등록을 하고 현장에서 선거 운동을 하기보다는 통합 특별시가 제대로 출범할 수 있는 법적·제도적 근거를 완성하는 것이 훨씬 중요하다고... ",
+            "originallink": "https://mpmbc.co.kr/NewsArticle/1503695",
+            "press": "MBC",
+            "pubDate": "2026-02-03T20:58:00",
+            "related_members": [
+                "VRY5522V",
+                "OFE45081"
+            ],
+            "title": "지방선거 시작됐는데…선거구는 ‘안갯속’"
+        },
+        {
+            "_id": "6982827638b0cf4096977cc9",
+            "link": "https://kjmbc.co.kr/NewsArticle/1503718",
+            "created_at": "2026-02-04T08:19:16.593000",
+            "description": "* 민형배 / 더불어민주당 국회의원(광주 광산구을) \"지금은 굳이 후보 등록을 하고 현장에서 선거 운동을 하기보다는 통합 특별시가 제대로 출범할 수 있는 법적 제도적 근거를 완성하는 것이 훨씬 중요하다고 봅니다.... ",
+            "originallink": "https://kjmbc.co.kr/NewsArticle/1503718",
+            "press": "MBC",
+            "pubDate": "2026-02-03T20:40:00",
+            "related_members": [
+                "VRY5522V",
+                "OFE45081"
+            ],
+            "title": "지방선거 시작됐는데…선거구는 ‘안갯속’"
+        },
         {
             "_id": "6981c73f38b0cf4096977afd",
             "link": "https://n.news.naver.com/mnews/article/421/0008751513?sid=102",
@@ -180,7 +222,7 @@
             "_id": "6981c73438b0cf4096977ade",
             "link": "https://n.news.naver.com/mnews/article/011/0004586205?sid=100",
             "created_at": "2026-02-03T19:00:17.241000",
-            "description": "추미애 의원과 이날 출마를 선언한 권칠승 의원을 비롯해 김병주·한준호 의원도 출마 의사를 드러냈다.... 대구 국회의원 12석 가운데 절반이 대구 시장을 노리는 셈이다. 이에 더해 이진숙 전 방송통신위원장까지 출마를... ",
+            "description": "대구광역시장 선거 후보로 주호영·윤재옥·추경호·최은석·유영하 의원 등 현역 의원만 5명이 출사표를 던졌다. 대구 국회의원 12석 가운데 절반이 대구 시장을 노리는 셈이다. 이에 더해 이진숙 전 방송통신위원장까지... ",
             "originallink": "https://www.sedaily.com/article/20004361?ref=naver",
             "press": "서울경제",
             "pubDate": "2026-02-03T17:50:00",
@@ -369,7 +411,7 @@
             "_id": "69814aea38b0cf4096977722",
             "link": "https://n.news.naver.com/mnews/article/011/0004585664?sid=102",
             "created_at": "2026-02-03T10:10:00.824000",
-            "description": "또한 김민석 국무총리와 정청래 민주당대표가 축전을, 김영록 전남지사와 강기정 광주시장, 김관영 전북지사, 신정훈 국회의원 등이 축하영상을 통해 출판을 축하하고 응원의 메시지를 전했다. 한편 박지원 국회의원은... ",
+            "description": "이날 출판기념회에는 김원이 더불어민주당 전남도당 위원장과 박지원·민형배·서미화 국회의원, 김대중 전남교육감, 장석웅 전 전남교육감, 명현관 해남군수, 전·현직 전남도의원 등 정치권 인사를 비롯, 홀을 가득 메운... ",
             "originallink": "https://www.sedaily.com/article/20003726?ref=naver",
             "press": "서울경제",
             "pubDate": "2026-02-02T15:11:00",
@@ -615,68 +657,6 @@
                 "I7R13867"
             ],
             "title": "광주·전남 행정통합 최종합의 참가자들 SNS서 각양 각색 자평"
-        },
-        {
-            "_id": "697cbd3138b0cf4096976b82",
-            "link": "https://n.news.naver.com/mnews/article/003/0013733636?sid=102",
-            "created_at": "2026-01-30T23:16:17.578000",
-            "description": "광역단체장과 국회의원들이 간담회와 SNS 등을 통해 최종 합의 결과에 대한 미묘한 온도차를 보였다. 27일... 광주 안도걸·전진숙, 전남 문금주·조계원 의원 등은 합의 내용만 간략히 전하며 특별법 제정에 끝까지 힘을... ",
-            "originallink": "https://www.newsis.com/view/NISX20260127_0003492299",
-            "press": "뉴시스",
-            "pubDate": "2026-01-27T17:23:00",
-            "related_members": [
-                "8TU8443O",
-                "EB16073M",
-                "QUR40502",
-                "GRP3908I",
-                "VRY5522V",
-                "M7O7878U",
-                "I7R13867",
-                "T465023H"
-            ],
-            "title": "광주·전남 통합 명칭-청사 놓고 간담회-SNS '온도차'"
-        },
-        {
-            "_id": "697cbd3338b0cf4096976b8b",
-            "link": "https://n.news.naver.com/mnews/article/079/0004109449?sid=102",
-            "created_at": "2026-01-30T23:16:19.083000",
-            "description": "더불어민주당 민형배 국회의원(광주 광산을)은 광주·전남 행정통합 이후 인구 100만명 규모의 유입을 감당할 신산업 벨트 조성이 필요하다며, 이를 전담할 '국토남부 신산업수도개발청' 설립을 주장했다. 민형배 의원은... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6462570?utm_source=naver&utm_medium=article&utm_campaign=20260127025014",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-27T14:51:00",
-            "related_members": [
-                "VRY5522V"
-            ],
-            "title": "민형배 의원, '국토남부 신산업수도개발청' 설립 제안"
-        },
-        {
-            "_id": "697cbd1d38b0cf4096976a9d",
-            "link": "https://kjmbc.co.kr/NewsArticle/1502492",
-            "created_at": "2026-01-30T23:15:57.539000",
-            "description": "◀ 리포트 ▶ 광주지역 국회의원들 대부분은 이번 가안을 두고 명확한 입장을 내지 않았습니다. [ CG ] 양부남 민주당 광주시당 위원장은 \"최종안이 나오기 전까지 할 말이 없다\"고 했고 전진숙, 정준호, 조인철 의원도... ",
-            "originallink": "https://kjmbc.co.kr/NewsArticle/1502492",
-            "press": "MBC",
-            "pubDate": "2026-01-27T07:45:00",
-            "related_members": [
-                "EFU76868",
-                "8BF5855P",
-                "FOK3459D",
-                "GRP3908I",
-                "ZKB18611",
-                "EB16073M",
-                "VRY5522V",
-                "IWR8966I",
-                "4L695580",
-                "M7O7878U",
-                "8TU8443O",
-                "86R9476S",
-                "I7R13867",
-                "CK143054",
-                "QUR40502",
-                "IC499858",
-                "9HE7226N"
-            ],
-            "title": "[한걸음더]명칭·청사 예민하고 중요한 문제 18명 국회의원에게 물었더..."
         }
     ],
     "recent_videos": [
@@ -695,7 +675,7 @@
             "url": "https://www.youtube.com/watch?v=tzuaM4AC2Ks",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-02-02T09:44:13.716000",
+            "collected_at": "2026-02-04T08:35:08.641000",
             "duration": 1165.0,
             "title": "[연합뉴스TV] 1번지현장 - 민형배 민주 인사청문TF 단장, \"한덕수 낙마 가능성…왜?\"",
             "upload_date": null
@@ -755,7 +735,7 @@
             "url": "https://www.youtube.com/watch?v=zD5Ckz3K5jw",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-02-02T09:44:12.399000",
+            "collected_at": "2026-02-04T08:35:07.331000",
             "duration": 510.0,
             "title": "[이슈대담] 탈당 1년 만에 복당, 민형배 의원에게 듣는다 / KBS  2023.05.02.",
             "upload_date": null
@@ -775,7 +755,7 @@
             "url": "https://www.youtube.com/watch?v=HIpsS0Sx2mE",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-02-02T09:44:12.399000",
+            "collected_at": "2026-02-04T08:35:07.331000",
             "duration": 581.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 민형배 의원(더불어민주당)",
             "upload_date": null
@@ -785,7 +765,7 @@
             "url": "https://www.youtube.com/watch?v=1_SPgReSkfA",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-01-30T23:22:51.743000",
+            "collected_at": "2026-02-04T08:35:07.331000",
             "duration": 1460.0,
             "title": "[국회TV] 국회의원 25시 '광주 광산구을 민형배 의원 편'",
             "upload_date": null
@@ -825,7 +805,7 @@
             "url": "https://www.youtube.com/watch?v=d2WEYKcj5PU",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-02-02T09:44:12.399000",
+            "collected_at": "2026-02-04T08:35:07.331000",
             "duration": 161.0,
             "title": "민형배 국회의원, 더불어 민주당 차기 대선후보로 \"이재명 지지\"",
             "upload_date": null
@@ -845,7 +825,7 @@
             "url": "https://www.youtube.com/watch?v=UC1M1iWQhaGvAoVuKDEPrJTQ",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-02-02T09:44:12.399000",
+            "collected_at": "2026-02-04T08:35:07.331000",
             "duration": null,
             "title": "민형배TV",
             "upload_date": null
@@ -855,7 +835,7 @@
             "url": "https://www.youtube.com/watch?v=vWnvOaWhC6E",
             "HG_NM": "민형배",
             "MONA_CD": "VRY5522V",
-            "collected_at": "2026-02-02T09:44:12.399000",
+            "collected_at": "2026-02-04T08:35:07.331000",
             "duration": 162.0,
             "title": "민형배 더불어민주당 복당.. 지역 정가 복잡다단  -R (230427목/뉴스투데이)",
             "upload_date": null
@@ -6619,5 +6599,5 @@
             "RST_PROPOSER": "민형배"
         }
     ],
-    "exported_at": "2026-02-03T19:07:57.159252"
+    "exported_at": "2026-02-04T12:53:28.753474"
 }

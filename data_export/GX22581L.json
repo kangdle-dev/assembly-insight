@@ -49,19 +49,19 @@
         "keywords": [
             "선거",
             "경남",
+            "국민",
             "지방",
             "인사",
-            "국민",
             "대통령",
             "새해",
             "신년",
+            "행사",
             "특검",
             "정국",
             "영향",
             "정무",
             "검사",
-            "위원장",
-            "승리"
+            "위원장"
         ],
         "keyword_frequency": [
             {
@@ -70,7 +70,11 @@
             },
             {
                 "text": "경남",
-                "value": 15
+                "value": 16
+            },
+            {
+                "text": "국민",
+                "value": 11
             },
             {
                 "text": "지방",
@@ -79,10 +83,6 @@
             {
                 "text": "인사",
                 "value": 11
-            },
-            {
-                "text": "국민",
-                "value": 10
             },
             {
                 "text": "대통령",
@@ -95,6 +95,10 @@
             {
                 "text": "신년",
                 "value": 7
+            },
+            {
+                "text": "행사",
+                "value": 6
             },
             {
                 "text": "특검",
@@ -119,22 +123,18 @@
             {
                 "text": "위원장",
                 "value": 5
-            },
-            {
-                "text": "승리",
-                "value": 5
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:07:39.899407",
+        "last_analyzed_at": "2026-02-04T12:53:12.474354",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
                 0,
@@ -142,8 +142,8 @@
                 0,
                 0,
                 0,
-                0,
-                1
+                2,
+                0
             ]
         },
         "ai_policy_summary": "\"강민국 의원은 주로 금융 및 유통 관련 법안에 집중하며, 개혁가적 입법 활동을 통해 경제적 안정성과 공정 거래 환경을 개선하는 데 주력하고 있습니다. 특히 신용정보 보호 및 대규모 유통업 거래 공정화 관련 법안들을 통해 국민의 실생활과 직결된 경제적 불안 해소와 소비자 권익 보호를 만들어내는 행보를 보입니다.\"",
@@ -157,6 +157,27 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6982826738b0cf4096977ca4",
+            "link": "https://n.news.naver.com/mnews/article/003/0013747100?sid=102",
+            "created_at": "2026-02-04T08:19:01.638000",
+            "description": "국민의힘 박상웅(경남 밀양·의령·함안·창녕) 국회의원은 의령군의 미래 기반과 정주 여건 개선을 위한... 박 의원의 지역 순회 일정 가운데 첫 행사로, 이날 행사에는 군민 600여명이 참석했다. 이 날 장동혁 당대표... ",
+            "originallink": "https://www.newsis.com/view/NISX20260203_0003501402",
+            "press": "뉴시스",
+            "pubDate": "2026-02-03T23:03:00",
+            "related_members": [
+                "GX22581L",
+                "KFM1081G",
+                "TCP9838Y",
+                "OWD1018N",
+                "X7I4680R",
+                "6EN68926",
+                "TZP9391O",
+                "VA04150X",
+                "SLW27496"
+            ],
+            "title": "박상웅 의원 \"의령군 미래 기반 위해 남북6축 고속도로 추진\""
+        },
         {
             "_id": "6981c73038b0cf4096977ace",
             "link": "https://n.news.naver.com/mnews/article/003/0013746793?sid=102",
@@ -322,7 +343,7 @@
             "url": "https://www.youtube.com/watch?v=1_0QWAefr7w",
             "HG_NM": "강민국",
             "MONA_CD": "GX22581L",
-            "collected_at": "2026-02-02T09:39:30.176000",
+            "collected_at": "2026-02-04T08:30:30.006000",
             "duration": 459.0,
             "title": "[국회의원 강민국] 강민국 수석대변인 초청 KNN 인물포커스 대담 방송",
             "upload_date": null
@@ -332,7 +353,7 @@
             "url": "https://www.youtube.com/watch?v=4xTLhd-EHEc",
             "HG_NM": "강민국",
             "MONA_CD": "GX22581L",
-            "collected_at": "2026-02-02T09:39:30.176000",
+            "collected_at": "2026-02-04T08:30:30.006000",
             "duration": 220.0,
             "title": "강혜경 \"강민국 의원도 명태균 잘 알지 않습니까?\"...밑도끝도없는 주장에 뿔난 강민국 \"증인으로 와서 누굴 아니? 모르니? 뭐하는겁니까?\"",
             "upload_date": null
@@ -342,7 +363,7 @@
             "url": "https://www.youtube.com/watch?v=eGDKSKPWKWc",
             "HG_NM": "강민국",
             "MONA_CD": "GX22581L",
-            "collected_at": "2026-02-02T09:39:31.531000",
+            "collected_at": "2026-02-04T08:30:31.278000",
             "duration": 339.0,
             "title": "강민국 \"아파트 2채 보유는 다주택 아닙니까?\" [티조Clip]",
             "upload_date": null
@@ -402,7 +423,7 @@
             "url": "https://www.youtube.com/watch?v=F5XotkDvrE4",
             "HG_NM": "강민국",
             "MONA_CD": "GX22581L",
-            "collected_at": "2026-02-02T09:39:30.176000",
+            "collected_at": "2026-02-04T08:30:30.006000",
             "duration": 185.0,
             "title": "[국회의원 강민국] 당 수석 대변인 임명 후 첫 고위당정협의회 관련 브리핑",
             "upload_date": null
@@ -442,7 +463,7 @@
             "url": "https://www.youtube.com/watch?v=m9AVN3UBsGw",
             "HG_NM": "강민국",
             "MONA_CD": "GX22581L",
-            "collected_at": "2026-02-02T09:39:30.176000",
+            "collected_at": "2026-02-04T08:30:30.006000",
             "duration": 1173.0,
             "title": "CBS라디오 대담 국민의힘 국회의원 강민국 인터뷰",
             "upload_date": null
@@ -964,5 +985,5 @@
             "RST_PROPOSER": "강민국"
         }
     ],
-    "exported_at": "2026-02-03T19:07:39.899407"
+    "exported_at": "2026-02-04T12:53:12.474354"
 }

@@ -43,20 +43,20 @@
     "analysis": {
         "keywords": [
             "쿠팡",
+            "인천",
             "청문회",
             "대표",
             "더불어민주당",
-            "인천",
             "민주당",
+            "공소",
+            "취소",
             "조사",
             "통역",
             "의사",
             "민초",
-            "대화",
-            "로저스",
+            "검찰",
             "대통령",
-            "공소",
-            "취소"
+            "대화"
         ],
         "keyword_frequency": [
             {
@@ -64,23 +64,31 @@
                 "value": 18
             },
             {
+                "text": "인천",
+                "value": 15
+            },
+            {
                 "text": "청문회",
                 "value": 15
             },
             {
                 "text": "대표",
-                "value": 13
+                "value": 14
             },
             {
                 "text": "더불어민주당",
-                "value": 12
-            },
-            {
-                "text": "인천",
-                "value": 11
+                "value": 13
             },
             {
                 "text": "민주당",
+                "value": 10
+            },
+            {
+                "text": "공소",
+                "value": 9
+            },
+            {
+                "text": "취소",
                 "value": 9
             },
             {
@@ -100,45 +108,37 @@
                 "value": 8
             },
             {
-                "text": "대화",
-                "value": 7
-            },
-            {
-                "text": "로저스",
+                "text": "검찰",
                 "value": 7
             },
             {
                 "text": "대통령",
-                "value": 6
+                "value": 7
             },
             {
-                "text": "공소",
-                "value": 6
-            },
-            {
-                "text": "취소",
-                "value": 6
+                "text": "대화",
+                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:07:55.435112",
+        "last_analyzed_at": "2026-02-04T12:53:27.174947",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                0,
                 1,
                 0,
                 0,
                 0,
                 2,
-                2
+                3,
+                0
             ]
         },
         "ai_policy_summary": "\"노종면 의원은 주로 방송, 언론, 안전 및 지역 경제 활성화에 집중하며, 개혁가적 입법 활동을 통해 국민의 안전과 복지 개선에 주력하고 있습니다. 특히 방송법 및 지역사랑상품권 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정과 사회적 안전망을 강화하는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -152,6 +152,22 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6982827e38b0cf4096977cd1",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112052?sid=102",
+            "created_at": "2026-02-04T08:19:25.348000",
+            "description": "더불어민주당 인천지역 국회의원들이 이재명 대통령에 대한 기소 사건들을 '공소 취소'해야 한다고 촉구했다. 3일 박찬대·허종식·노종면·이용우 의원은 민주당 소속 인천지역 의원 11명을 대표해 인천시청에서... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466403?utm_source=naver&utm_medium=article&utm_campaign=20260203070902",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-03T19:10:00",
+            "related_members": [
+                "RUZ25800",
+                "VCP96419",
+                "6K79158C",
+                "BT62420K"
+            ],
+            "title": "민주 인천 국회의원들 \"李는 정치검찰에 희생…공소 취소해야\""
+        },
         {
             "_id": "6981c74838b0cf4096977b0d",
             "link": "https://n.news.naver.com/mnews/article/032/0003425551?sid=100",
@@ -467,7 +483,7 @@
             "url": "https://www.youtube.com/watch?v=bxTm_PsT_tE",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:46.577000",
+            "collected_at": "2026-02-04T08:34:42.521000",
             "duration": 747.0,
             "title": "[노종면의 더뉴스] 다시보기 2019년 09월 30일 - 1부",
             "upload_date": null
@@ -477,7 +493,7 @@
             "url": "https://www.youtube.com/watch?v=mEWg8uQyJ7o",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": 694.0,
             "title": "이재명 정부 두 달 뒤 일어날 일? 노종면 의원 “기대할 만하다”",
             "upload_date": null
@@ -507,7 +523,7 @@
             "url": "https://www.youtube.com/watch?v=iYqCTCqdNOk",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": 442.0,
             "title": "\"침묵했다면 그게 결격 사유\"...노종면, 후보자에게 감사하다며...",
             "upload_date": null
@@ -517,7 +533,7 @@
             "url": "https://www.youtube.com/watch?v=vEf9DNvQCbM",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": 298.0,
             "title": "\"사실 보도만 한다면서요?\" 기자출신 노종면의 13가지 팩트나열에 KBS 박민 '얼음'",
             "upload_date": null
@@ -527,7 +543,7 @@
             "url": "https://www.youtube.com/watch?v=2tEBc3OTtFY",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": 385.0,
             "title": "\"기본이 안 돼있어 진짜!\" 노종면 의원 대폭발! 결국 자리까지 박차고 나가.. #과학기술정보방송통신위원회",
             "upload_date": null
@@ -547,7 +563,7 @@
             "url": "https://www.youtube.com/watch?v=vMNH3VV1d90",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": 646.0,
             "title": "노종면 의원, 차마 공개하지 못하는 충격 음성파일 국정감사장에서 틀었다. 그 영상에서 흘러나오는 오디오 들어보니...",
             "upload_date": null
@@ -607,7 +623,7 @@
             "url": "https://www.youtube.com/watch?v=m0GQCLBtCkY",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:46.577000",
+            "collected_at": "2026-02-04T08:34:42.521000",
             "duration": 1091.0,
             "title": "[뉴스하이킥] 'YTN 출신' 노종면 의원이 말하는 YTN 지배구조 정상화 - 노종면, MBC 251201 방송",
             "upload_date": null
@@ -617,7 +633,7 @@
             "url": "https://www.youtube.com/watch?v=UCYSotw-23uZ08wiIGucwEHQ",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": null,
             "title": "노종면TV",
             "upload_date": null
@@ -627,7 +643,7 @@
             "url": "https://www.youtube.com/watch?v=0BUmuCGrw88",
             "HG_NM": "노종면",
             "MONA_CD": "RUZ25800",
-            "collected_at": "2026-02-02T09:43:45.271000",
+            "collected_at": "2026-02-04T08:34:41.245000",
             "duration": 119.0,
             "title": "노종면, YTN 이명박·윤석열 정권 외압 폭로",
             "upload_date": null
@@ -1255,5 +1271,5 @@
             "RST_PROPOSER": "노종면"
         }
     ],
-    "exported_at": "2026-02-03T19:07:55.436112"
+    "exported_at": "2026-02-04T12:53:27.175947"
 }

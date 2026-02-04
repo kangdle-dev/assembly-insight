@@ -55,23 +55,23 @@
             "더불어민주당",
             "경기",
             "의장",
+            "지사",
             "화성",
             "행정",
-            "지사",
             "경기도",
             "시흥",
             "출마",
-            "이날",
             "의정",
             "김진경",
             "대전",
-            "김병주",
-            "인터뷰"
+            "민주당",
+            "후보",
+            "이날"
         ],
         "keyword_frequency": [
             {
                 "text": "더불어민주당",
-                "value": 24
+                "value": 23
             },
             {
                 "text": "경기",
@@ -82,16 +82,16 @@
                 "value": 17
             },
             {
+                "text": "지사",
+                "value": 14
+            },
+            {
                 "text": "화성",
-                "value": 15
+                "value": 14
             },
             {
                 "text": "행정",
                 "value": 13
-            },
-            {
-                "text": "지사",
-                "value": 12
             },
             {
                 "text": "경기도",
@@ -103,10 +103,6 @@
             },
             {
                 "text": "출마",
-                "value": 11
-            },
-            {
-                "text": "이날",
                 "value": 10
             },
             {
@@ -122,33 +118,37 @@
                 "value": 10
             },
             {
-                "text": "김병주",
+                "text": "민주당",
                 "value": 9
             },
             {
-                "text": "인터뷰",
+                "text": "후보",
+                "value": 9
+            },
+            {
+                "text": "이날",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:07:42.493447",
+        "last_analyzed_at": "2026-02-04T12:53:14.946313",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                3,
                 2,
                 0,
                 0,
                 1,
                 5,
-                4
+                4,
+                1
             ]
         },
         "ai_policy_summary": "\"권칠승 의원은 주로 법률 및 사회 안전 분야에 집중하며, 개혁가적인 입법 활동을 통해 국민의 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 10·29 이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법과 같은 법안들을 통해 국민의 실생활과 직결된 안전망 강화를 만들어내는 행보를 보입니다.\"",
@@ -163,10 +163,39 @@
     },
     "recent_news": [
         {
+            "_id": "6982826b38b0cf4096977cbc",
+            "link": "https://n.news.naver.com/mnews/article/023/0003957004?sid=100",
+            "created_at": "2026-02-04T08:19:05.819000",
+            "description": "민주당에선 서울시장 후보로 김영배·박주민·박홍근·서영교·전현희 의원 등 국회의원만 5명이 출마 선언을 했고, 정원오 서울 성동구청장도 2월 중 출마 선언을 할 예정이다. 경기지사 후보에는 김동연 현 지사가 민주당... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/02/04/VP5FEQZITZHTJNN7H442FK3VEY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-02-04T00:58:00",
+            "related_members": [
+                "URV1689Q",
+                "BCQ55105",
+                "GF286398",
+                "C7E79345",
+                "X1K3667J",
+                "86R9476S",
+                "6AU2417B",
+                "25G2571T",
+                "TKJ4800F",
+                "B7D7534L",
+                "S824682L",
+                "L5P27909",
+                "OWD1018N",
+                "YOG1280B",
+                "SLW27496",
+                "BT62420K",
+                "KFM1081G"
+            ],
+            "title": "민주 “너무 많소” 국힘 “누구 없소”"
+        },
+        {
             "_id": "6981c73438b0cf4096977ade",
             "link": "https://n.news.naver.com/mnews/article/011/0004586205?sid=100",
             "created_at": "2026-02-03T19:00:17.241000",
-            "description": "추미애 의원과 이날 출마를 선언한 권칠승 의원을 비롯해 김병주·한준호 의원도 출마 의사를 드러냈다.... 대구 국회의원 12석 가운데 절반이 대구 시장을 노리는 셈이다. 이에 더해 이진숙 전 방송통신위원장까지 출마를... ",
+            "description": "대구광역시장 선거 후보로 주호영·윤재옥·추경호·최은석·유영하 의원 등 현역 의원만 5명이 출사표를 던졌다. 대구 국회의원 12석 가운데 절반이 대구 시장을 노리는 셈이다. 이에 더해 이진숙 전 방송통신위원장까지... ",
             "originallink": "https://www.sedaily.com/article/20004361?ref=naver",
             "press": "서울경제",
             "pubDate": "2026-02-03T17:50:00",
@@ -263,7 +292,7 @@
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -339,7 +368,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -727,19 +756,6 @@
                 "C7E79345"
             ],
             "title": "'용인 반도체클러스터' 이전론 확산…경기지사 후보에 쏠린 눈"
-        },
-        {
-            "_id": "6964b545631fd17434996058",
-            "link": "https://n.news.naver.com/mnews/article/003/0013696827?sid=102",
-            "created_at": "2026-01-12T17:48:02.626000",
-            "description": "권칠승 국회의원(더불어민주당·경기화성병)이 최근 정치권을 중심으로 용인반도체 클러스터 이전 논란이 있는 것과 관련 \"지방선거와 연관하는 것 자체가 이해할 수 없다. 이는 소모적 논쟁일 뿐\"이라는 입장을 밝혔다.... ",
-            "originallink": "https://www.newsis.com/view/NISX20260107_0003467885",
-            "press": "뉴시스",
-            "pubDate": "2026-01-07T10:11:00",
-            "related_members": [
-                "C7E79345"
-            ],
-            "title": "권칠승 국회의원 \"용인반도체 이전 논란은 소모적 논쟁\""
         }
     ],
     "recent_videos": [
@@ -748,7 +764,7 @@
             "url": "https://www.youtube.com/watch?v=-j8CG_0fZ_Q",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-01-23T16:39:56.691000",
+            "collected_at": "2026-02-04T08:31:12.926000",
             "duration": 2640.0,
             "title": "[전격시사] 민주, '조희대 사퇴' 총공세 (당당토론｜권칠승 더불어민주당 의원, 김희정 국민의힘 의원)｜KBS 250917 방송",
             "upload_date": null
@@ -808,7 +824,7 @@
             "url": "https://www.youtube.com/watch?v=ttXez6cJBSI",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:16.301000",
+            "collected_at": "2026-02-04T08:31:14.357000",
             "duration": 435.0,
             "title": "오세훈, 억지 부리는 권칠승에 \"그건 민주당 시각이죠\" [티조Clip]",
             "upload_date": null
@@ -818,7 +834,7 @@
             "url": "https://www.youtube.com/watch?v=7u4D_MCjFCY",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:14.939000",
+            "collected_at": "2026-02-04T08:31:12.926000",
             "duration": 569.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 권칠승 의원(더불어민주당)",
             "upload_date": null
@@ -848,7 +864,7 @@
             "url": "https://www.youtube.com/watch?v=jgC13G5x3O0",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:16.301000",
+            "collected_at": "2026-02-04T08:31:14.357000",
             "duration": 415.0,
             "title": "[권칠승TV] 권칠승과 화성 원팀, [김어준의 겸손은 힘들다 뉴스공장] 출연!",
             "upload_date": null
@@ -868,7 +884,7 @@
             "url": "https://www.youtube.com/watch?v=V21vejtjBr4",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:16.301000",
+            "collected_at": "2026-02-04T08:31:14.357000",
             "duration": 118.0,
             "title": "권칠승, 최 전 함장 따로 만나 사과…국힘, 윤리위 제소 | 뉴스A",
             "upload_date": null
@@ -878,7 +894,7 @@
             "url": "https://www.youtube.com/watch?v=AyUqnnUSFDs",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:16.301000",
+            "collected_at": "2026-02-04T08:31:14.357000",
             "duration": 320.0,
             "title": "‘무슨 낯짝’ 발언 논란 권칠승, 이틀 만에 “유감” | 뉴스A 라이브",
             "upload_date": null
@@ -888,7 +904,7 @@
             "url": "https://www.youtube.com/watch?v=wjQF3l7vlhM",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:14.939000",
+            "collected_at": "2026-02-04T08:31:12.926000",
             "duration": 579.0,
             "title": "현장을 잘 아는 실무형 정치인! 권칠승 의원이 살아왔던 시절은? [인사이드 스토리]",
             "upload_date": null
@@ -908,7 +924,7 @@
             "url": "https://www.youtube.com/watch?v=rq7QAWsbqG0",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:14.939000",
+            "collected_at": "2026-02-04T08:31:12.926000",
             "duration": 76.0,
             "title": "[풀발언] '권칠승' 의원, 더불어민주당 긴급의원총회 발언 [04.26 ]",
             "upload_date": null
@@ -918,7 +934,7 @@
             "url": "https://www.youtube.com/watch?v=FnFt1uObMcI",
             "HG_NM": "권칠승",
             "MONA_CD": "C7E79345",
-            "collected_at": "2026-02-02T09:40:14.939000",
+            "collected_at": "2026-02-04T08:31:12.926000",
             "duration": 1898.0,
             "title": "OBS 인사이드스토리 273회 권칠승 의원 출연",
             "upload_date": null
@@ -2338,5 +2354,5 @@
             "RST_PROPOSER": "권칠승"
         }
     ],
-    "exported_at": "2026-02-03T19:07:42.493447"
+    "exported_at": "2026-02-04T12:53:14.946313"
 }

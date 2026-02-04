@@ -48,36 +48,36 @@
     "analysis": {
         "keywords": [
             "민주당",
-            "특별법",
             "투자",
-            "국민",
+            "특별법",
+            "설탕",
             "관세",
             "더불어민주당",
-            "여당",
+            "국민",
             "대미",
+            "법안",
+            "여당",
             "처리",
             "위원장",
             "경제",
-            "대표",
-            "대통령",
-            "트럼프",
-            "간사"
+            "간사",
+            "총리"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 23
-            },
-            {
-                "text": "특별법",
-                "value": 20
+                "value": 29
             },
             {
                 "text": "투자",
+                "value": 20
+            },
+            {
+                "text": "특별법",
                 "value": 19
             },
             {
-                "text": "국민",
+                "text": "설탕",
                 "value": 18
             },
             {
@@ -89,12 +89,20 @@
                 "value": 18
             },
             {
-                "text": "여당",
+                "text": "국민",
                 "value": 16
             },
             {
                 "text": "대미",
                 "value": 16
+            },
+            {
+                "text": "법안",
+                "value": 15
+            },
+            {
+                "text": "여당",
+                "value": 15
             },
             {
                 "text": "처리",
@@ -109,41 +117,33 @@
                 "value": 14
             },
             {
-                "text": "대표",
+                "text": "간사",
                 "value": 13
             },
             {
-                "text": "대통령",
-                "value": 12
-            },
-            {
-                "text": "트럼프",
-                "value": 12
-            },
-            {
-                "text": "간사",
-                "value": 12
+                "text": "총리",
+                "value": 13
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:08:30.000678",
+        "last_analyzed_at": "2026-02-04T12:53:59.323226",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                7,
                 0,
                 0,
                 1,
                 0,
                 3,
-                0
+                1,
+                1
             ]
         },
         "ai_policy_summary": "\"정태호 의원은 주로 조세, 재정, 그리고 사회적 안전망에 집중하며, 개혁가적 입법 활동을 통해 경제적 안정성과 복지 향상을 개선하는 데 주력하고 있습니다. 특히 조세특례제한법과 지속가능발전 기본법 관련 법안들을 통해 국민의 실생활과 직결된 경제적 지원과 환경 보호의 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -158,10 +158,42 @@
     },
     "recent_news": [
         {
+            "_id": "6982827238b0cf4096977cc4",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694858?sid=100",
+            "created_at": "2026-02-04T08:19:12.528000",
+            "description": "민주당 정태호 의원도 12일 국회에서 ‘설탕 과다사용부담금 국회 토론회’를 열고 의견을 수렴한 뒤 별도 법안 발의를 검토하고 있다. 민주당은 관련 법안을 종합해 설탕부담금 입법 절차를 밟을 예정이다. 한정애... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260204/133292528/2",
+            "press": "동아일보",
+            "pubDate": "2026-02-04T04:35:00",
+            "related_members": [
+                "7GW5372Y",
+                "UHB5553T",
+                "0R68099X",
+                "XPP2564T"
+            ],
+            "title": "李 ‘설탕부담금’ 제안에… 與, 관련 법안 발의"
+        },
+        {
+            "_id": "6982827238b0cf4096977cc5",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694749?sid=100",
+            "created_at": "2026-02-04T08:19:12.528000",
+            "description": "민주당 정태호 의원도 12일 국회에서 ‘설탕 과다사용부담금 국회 토론회’를 열고 의견을 수렴한 뒤 별도 법안 발의를 검토하고 있다. 민주당은 관련 법안을 종합해 설탕부담금 입법 절차를 밟을 예정이다. 한정애... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260203/133292032/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-03T20:39:00",
+            "related_members": [
+                "7GW5372Y",
+                "UHB5553T",
+                "0R68099X",
+                "XPP2564T"
+            ],
+            "title": "“설탕 줄여라” 설탕세 입법 개시…함량 높으면 부담금 최대 28배"
+        },
+        {
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -207,7 +239,7 @@
             "_id": "69814b0138b0cf409697779d",
             "link": "https://n.news.naver.com/mnews/article/056/0012116833?sid=100",
             "created_at": "2026-02-03T10:10:23.673000",
-            "description": "▷ 소현정 : 그러면 지금 시점에서 어제 한정애 정책위의장이 2말 3초 시한을 또 얘기를 했단 말이죠. 그러면... 지금 한 전 대표가 국회의원 보궐선거에 무소속으로 출마할 수 있다 이런 얘기들이 나오고 있고 또 검토할 수... ",
+            "description": "▶ 임이자 : 우리 당의 박수영 간사님하고 민주당의 정태호 간사님이 아마 주말에도 서로 얘기를 하는 걸로... 지금 한 전 대표가 국회의원 보궐선거에 무소속으로 출마할 수 있다 이런 얘기들이 나오고 있고 또 검토할 수... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474762&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-02T10:32:00",
@@ -225,7 +257,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -271,7 +303,7 @@
             "_id": "697ff10638b0cf4096977330",
             "link": "https://n.news.naver.com/mnews/article/003/0013741434?sid=100",
             "created_at": "2026-02-02T09:34:14.738000",
-            "description": "김영진·김태년·박주민·정태호·황정아 의원 등이 함께했다. 김성환 기후에너지환경부 장관도 함께했다. 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
+            "description": "집행위원장인 조정식 대통령 정무특보와 윤호중 행정안전부 장관 등도 끝까지 자리를 지켰다. 민주당에서는... 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
             "originallink": "https://www.newsis.com/view/NISX20260131_0003497625",
             "press": "뉴시스",
             "pubDate": "2026-01-31T17:09:00",
@@ -341,7 +373,7 @@
             "_id": "697cbd3738b0cf4096976b9a",
             "link": "https://n.news.naver.com/mnews/article/421/0008739025?sid=100",
             "created_at": "2026-01-30T23:16:23.318000",
-            "description": "임 의원은 \"반드시 국회 비준을 거쳐야 한다는 게 국민의힘의 일관된 입장이나, 재경위원장으로는 서로 해석... 재경위원인 천하람 개혁신당 원내대표는 KBS라디오에서 \"지금 특별법이 무겁게 만들어져 있으니 심플하게... ",
+            "description": "소관 상임위인 국회 재정경제기획위원회 여당 간사 정태호 민주당 의원은 이날 MBC라디오에서 \"국회에서 비준하면 법적 구속력을 가지는 것으로 국회가 인정하는 것\"이라며 \"정부가 10년 동안 미국에 투자할 때 유연하게... ",
             "originallink": "https://www.news1.kr/politics/assembly/6053621",
             "press": "뉴스1",
             "pubDate": "2026-01-28T11:15:00",
@@ -417,7 +449,7 @@
             "_id": "697cbd2a38b0cf4096976b3e",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107099&s_mcd=0263&s_hcd=01",
             "created_at": "2026-01-30T23:16:10.678000",
-            "description": "국회의원 3선 정도 하면 위원장하고 그다음에는 딱딱 맞아떨어져야 되잖아요. ◇ 김준우 : 네. ◆ 임이자... 개혁신당에 천하람 의원님이 오셨어요. 그래서 박수영 간사께 뭐라고 말씀을 드렸냐 하면 ‘일단은 비준... ",
+            "description": "국회의원 3선 정도 하면 위원장하고 그다음에는 딱딱 맞아떨어져야 되잖아요. ◇ 김준우 : 네. ◆ 임이자... 조국혁신당의 차규근 의원님은 안 오셨어요. 아마도 이해찬 전 총리 ◇ 김준우 : 상을 당하셔서 ◆ 임이자 : 네... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107099&s_mcd=0263&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-01-27T20:30:00",
@@ -469,7 +501,7 @@
             "_id": "697cbd2a38b0cf4096976b3f",
             "link": "https://n.news.naver.com/mnews/article/052/0002306713?sid=100",
             "created_at": "2026-01-30T23:16:10.678000",
-            "description": "국회의원 3선 정도 하면 위원장하고 그다음에는 딱딱 맞아떨어져야 되잖아요. ◇ 김준우 : 네. ◆ 임이자... 개혁신당에 천하람 의원님이 오셨어요. 그래서 박수영 간사께 뭐라고 말씀을 드렸냐 하면 '일단은 비준... ",
+            "description": "국회의원 3선 정도 하면 위원장하고 그다음에는 딱딱 맞아떨어져야 되잖아요. ◇ 김준우 : 네. ◆ 임이자... 조국혁신당의 차규근 의원님은 안 오셨어요. 아마도 이해찬 전 총리 ◇ 김준우 : 상을 당하셔서 ◆ 임이자 : 네... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202601271942218711",
             "press": "YTN",
             "pubDate": "2026-01-27T19:42:00",
@@ -707,45 +739,6 @@
                 "YGB8604T"
             ],
             "title": "여야, 한목소리로 “이혜훈 장남 입학 경위·아파트 청약 부적절” 질타"
-        },
-        {
-            "_id": "6976fcf38459600028997f86",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423488?sid=100",
-            "created_at": "2026-01-26T14:34:40.836000",
-            "description": "여야 의원들은 이날 국회 재정경제기획위원회에서 열린 이 후보자 인사청문회에서 이 후보자를 둘러싼 각종... 이 후보자가 결혼한 아들을 ‘미혼’ 부양가족으로 포함한 이유로 아들 부부의 불화를 언급하자 진성준... ",
-            "originallink": "https://www.khan.co.kr/article/202601232008001",
-            "press": "경향신문",
-            "pubDate": "2026-01-23T20:08:00",
-            "related_members": [
-                "8O34202I",
-                "NUB4941Z",
-                "NX534083",
-                "WTR5885Y",
-                "LT72093S",
-                "UHB5553T",
-                "3C23171A"
-            ],
-            "title": "여당, 이혜훈 부정청약 의혹 ‘송곳 검증’…“주택법 위반 사과하라”..."
-        },
-        {
-            "_id": "6976fcfa8459600028997fb8",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423466?sid=100",
-            "created_at": "2026-01-26T14:34:47.741000",
-            "description": "이 후보자는 진성준 민주당 의원이 “(청약 과정이) 명백하게 불법인데 집을 내놓을 용의가 있냐”고 묻자... 국민의힘 의원들은 청문회장에서 이 후보자가 국회의원 시절 보좌진에게 폭언하는 녹음을 수차례 틀었다.... ",
-            "originallink": "https://www.khan.co.kr/article/202601231634001",
-            "press": "경향신문",
-            "pubDate": "2026-01-23T16:34:00",
-            "related_members": [
-                "P0F1530P",
-                "NUB4941Z",
-                "S824682L",
-                "UHB5553T",
-                "WTR5885Y",
-                "EH27538E",
-                "3C23171A",
-                "YGB8604T"
-            ],
-            "title": "눈가 훔친 이혜훈, ‘부정 청약’ 의혹에 “장남, 혼인관계 파경으로 치..."
         }
     ],
     "recent_videos": [
@@ -754,7 +747,7 @@
             "url": "https://www.youtube.com/watch?v=4WXoYeqtFl0",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:59.080000",
+            "collected_at": "2026-02-04T08:43:53.277000",
             "duration": 299.0,
             "title": "\"위원장의 말씀.. 사실에 부합하지 않아요\" 정태호의 팩폭에 위원장 '급정색' [G1현장영상]",
             "upload_date": null
@@ -774,7 +767,7 @@
             "url": "https://www.youtube.com/watch?v=BfBPpXQAWXk",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.889000",
             "duration": 1253.0,
             "title": "\"'반윤석열 신당', 의미 있는 정당 될 것\" 정태호 더불어민주당 의원 [시사스페셜-정운갑의 집중분석]",
             "upload_date": null
@@ -794,7 +787,7 @@
             "url": "https://www.youtube.com/watch?v=gglqGz0YxzY",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.890000",
             "duration": 314.0,
             "title": "200825 국회의원 정태호, 산자중기위 2019년 회계연도 결산질의",
             "upload_date": null
@@ -814,7 +807,7 @@
             "url": "https://www.youtube.com/watch?v=PtHbCuddoPA",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:59.080000",
+            "collected_at": "2026-02-04T08:43:53.277000",
             "duration": 1095.0,
             "title": "[이뉴스초대석] 정태호 “文정부 성공‧정권 재창출 견인… 관악, 서울 중심상권 영광 재현”",
             "upload_date": null
@@ -824,7 +817,7 @@
             "url": "https://www.youtube.com/watch?v=UCGrIqmBh85ToDm8qthbDKlA",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.889000",
             "duration": null,
             "title": "정태호티비",
             "upload_date": null
@@ -834,7 +827,7 @@
             "url": "https://www.youtube.com/watch?v=gBC6RtLJWtU",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.890000",
             "duration": 4045.0,
             "title": "210331 정태호 국회의원, [공식]새날 출연!",
             "upload_date": null
@@ -844,7 +837,7 @@
             "url": "https://www.youtube.com/watch?v=KJFHxWzVkFA",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.890000",
             "duration": 1125.0,
             "title": "문재인정부를 말하다(with 다스뵈이다, 정태호 국회의원)",
             "upload_date": null
@@ -864,7 +857,7 @@
             "url": "https://www.youtube.com/watch?v=4a4phxHxOJE",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:59.080000",
+            "collected_at": "2026-02-04T08:43:53.277000",
             "duration": 638.0,
             "title": "201013 연합뉴스TV 1번지 현장 - 정태호 의원에게 묻는 정국현안",
             "upload_date": null
@@ -874,7 +867,7 @@
             "url": "https://www.youtube.com/watch?v=MWy0fBQqlUc",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:59.080000",
+            "collected_at": "2026-02-04T08:43:53.277000",
             "duration": 1101.0,
             "title": "20201116 - 국회방송 뉴스N [파워인터뷰] 더불어민주당 정태호 전략기획위원장",
             "upload_date": null
@@ -904,7 +897,7 @@
             "url": "https://www.youtube.com/watch?v=Zal_Bspkmbk",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.889000",
             "duration": 113.0,
             "title": "정태호 국회의원이 직접 말해주는 검찰독재 투쟁기",
             "upload_date": null
@@ -924,7 +917,7 @@
             "url": "https://www.youtube.com/watch?v=1bRi60_Z44s",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:57.764000",
+            "collected_at": "2026-02-04T08:43:51.889000",
             "duration": 1409.0,
             "title": "국회의원25시_375회 정태호 의원 편[2020.12.21]",
             "upload_date": null
@@ -934,7 +927,7 @@
             "url": "https://www.youtube.com/watch?v=q7YwrfA8uEI",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-02T09:52:59.080000",
+            "collected_at": "2026-02-04T08:43:53.277000",
             "duration": 1108.0,
             "title": "[백운기의 뉴스와이드] 정태호 \"국정감사, 민생 대책 논의 없이 정쟁만 반복돼 답답\" (1008)",
             "upload_date": null
@@ -2152,5 +2145,5 @@
             "RST_PROPOSER": "정태호"
         }
     ],
-    "exported_at": "2026-02-03T19:08:30.000678"
+    "exported_at": "2026-02-04T12:53:59.323226"
 }

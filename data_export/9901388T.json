@@ -43,37 +43,37 @@
     "analysis": {
         "keywords": [
             "토론",
-            "징계",
             "국민",
             "사과",
+            "징계",
             "한동훈",
             "대통령",
             "장동",
             "고성",
             "전두환",
-            "단식",
             "민주당",
-            "윤희석",
-            "조정훈",
+            "단식",
             "대상",
-            "이혜훈"
+            "이혜훈",
+            "김태현",
+            "이너"
         ],
         "keyword_frequency": [
             {
                 "text": "토론",
-                "value": 15
-            },
-            {
-                "text": "징계",
-                "value": 12
+                "value": 14
             },
             {
                 "text": "국민",
-                "value": 12
+                "value": 14
             },
             {
                 "text": "사과",
                 "value": 12
+            },
+            {
+                "text": "징계",
+                "value": 11
             },
             {
                 "text": "한동훈",
@@ -96,20 +96,12 @@
                 "value": 8
             },
             {
-                "text": "단식",
+                "text": "민주당",
                 "value": 8
             },
             {
-                "text": "민주당",
-                "value": 7
-            },
-            {
-                "text": "윤희석",
-                "value": 6
-            },
-            {
-                "text": "조정훈",
-                "value": 6
+                "text": "단식",
+                "value": 8
             },
             {
                 "text": "대상",
@@ -118,26 +110,34 @@
             {
                 "text": "이혜훈",
                 "value": 6
+            },
+            {
+                "text": "김태현",
+                "value": 6
+            },
+            {
+                "text": "이너",
+                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:07:39.736036",
+        "last_analyzed_at": "2026-02-04T12:53:12.310483",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
                 1,
                 7,
+                0,
                 0
             ]
         },
@@ -207,7 +207,7 @@
             "_id": "69814ae138b0cf40969776de",
             "link": "https://n.news.naver.com/mnews/article/052/0002309365?sid=100",
             "created_at": "2026-02-03T10:09:51.894000",
-            "description": "없으면 오히려 뒷분들 역차별 조정훈, 韓에게 매달릴 땐 언제고...급변침 행보 많아 고성국과 토론? 징계도... 가고 국회의원도 많이 갔는데 ◆ 김준우 : 그거는 민주당 행사는 아니고 김어준 씨 행사죠. 정확히는 □ 윤희석... ",
+            "description": "가고 국회의원도 많이 갔는데 ◆ 김준우 : 그거는 민주당 행사는 아니고 김어준 씨 행사죠. 정확히는... 라는 강명구 의원의 디펜스 같은 것도 좀 있었는데요. 이거 어떻게 보셨습니까? □ 윤희석 : 그게 디펜스가 됩니까?... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202602021740449639",
             "press": "YTN",
             "pubDate": "2026-02-02T17:40:00",
@@ -303,7 +303,7 @@
             "_id": "6970122b297082fcc2b34bf6",
             "link": "https://n.news.naver.com/mnews/article/056/0012108679?sid=100",
             "created_at": "2026-01-21T08:39:21.472000",
-            "description": "부쩍 수척해진 모습의 장 대표는 농성 텐트가 차려진 로텐더홀로 돌아가 국회 의료진의 검진을 받았습니다. 의사 출신인 서명옥 의원은 \"바이탈(활력 징후) 점검 결과 모든 수치가 정상 이하로 떨어지고 있다\"며... ",
+            "description": "이성권·엄태영·권영진·고동진·유용원·서범수·안상훈 의원도 국회에서 조찬 모임을 마친 뒤 농성장을... 조직부총장인 강명구 의원도 채널A 유튜브 '정치시그널'에서 \"민주당 정청래 대표는 인간적 도리로 오셔서... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463946&ref=A",
             "press": "KBS",
             "pubDate": "2026-01-20T17:01:00",
@@ -414,11 +414,21 @@
             "upload_date": null
         },
         {
+            "_id": "6982851538b0cf4096977cf2",
+            "url": "https://www.youtube.com/watch?v=qJWYi21vz5w",
+            "HG_NM": "강명구",
+            "MONA_CD": "9901388T",
+            "collected_at": "2026-02-04T08:30:26.564000",
+            "duration": 912.0,
+            "title": "강명구 \"한동훈 제명 논란, 뭐가 됐던 이젠 매듭지을 때…트럼프 관세 복원, 정부 무능 자인\" (26.1.27.) | 강명구 국민의힘 의원 | 파워인터뷰 | 국회라이브6",
+            "upload_date": null
+        },
+        {
             "_id": "697ff24038b0cf40969773cf",
             "url": "https://www.youtube.com/watch?v=3Xv95u4uIog",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:28.264000",
+            "collected_at": "2026-02-04T08:30:28.174000",
             "duration": 607.0,
             "title": "[여담야담] 윤 대통령 석방에 민주 '단일대오'...국힘 강명구 \"정치쇼에 불과\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
@@ -428,7 +438,7 @@
             "url": "https://www.youtube.com/watch?v=SriKuL4Jzs4",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:26.871000",
+            "collected_at": "2026-02-04T08:30:26.564000",
             "duration": 1070.0,
             "title": "[김태현의 정치쇼] 강명구 \"尹 일정 총괄했지만 명태균 본 적 없어…한남동 라인? 팩트 없다\" I 이너:뷰 241016(수)",
             "upload_date": null
@@ -438,7 +448,7 @@
             "url": "https://www.youtube.com/watch?v=GwJiBF1_FJ0",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:26.871000",
+            "collected_at": "2026-02-04T08:30:26.564000",
             "duration": 1054.0,
             "title": "[김태현의 정치쇼] 강명구 \"이혜훈 사과는 악어의 눈물...한동훈, '당게' 사과하고 털어내야\" |이너:뷰 251231(수)",
             "upload_date": null
@@ -448,7 +458,7 @@
             "url": "https://www.youtube.com/watch?v=njtVrImKhUE",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:28.264000",
+            "collected_at": "2026-02-04T08:30:28.174000",
             "duration": 118.0,
             "title": "\"운영위 국감 앞둔 민주당의 기획 폭로\"…강명구 \"윤 대통령, 박절하지 못해 명태균 전화 받아\"｜지금 이 뉴스",
             "upload_date": null
@@ -458,7 +468,7 @@
             "url": "https://www.youtube.com/watch?v=muTdL2fmz2o",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:28.264000",
+            "collected_at": "2026-02-04T08:30:28.174000",
             "duration": 321.0,
             "title": "“대통령 리스크로 외교 흔들린다”… 강명구 직격탄!ㅣTBC뉴스",
             "upload_date": null
@@ -488,7 +498,7 @@
             "url": "https://www.youtube.com/watch?v=2wXyAlT2904",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:26.871000",
+            "collected_at": "2026-02-04T08:30:26.564000",
             "duration": 89.0,
             "title": "강명구 국회의원 당선인 축사, 박정희와 대한민국 기념탑 제막식 2024 05 16",
             "upload_date": null
@@ -508,7 +518,7 @@
             "url": "https://www.youtube.com/watch?v=jDf4AfFWfkY",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:26.871000",
+            "collected_at": "2026-02-04T08:30:26.564000",
             "duration": 466.0,
             "title": "여러가지 엮어서 공격했지만 본전도 못찾은 국힘 강명구",
             "upload_date": null
@@ -518,7 +528,7 @@
             "url": "https://www.youtube.com/watch?v=O17frUdaL1c",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:28.264000",
+            "collected_at": "2026-02-04T08:30:28.174000",
             "duration": 1038.0,
             "title": "[김태현의 정치쇼] 강명구 \"계엄 사과는 지엽적 문제…당게, 이번에 털고 기강 세워야\" |이너:뷰 251202(화)",
             "upload_date": null
@@ -578,7 +588,7 @@
             "url": "https://www.youtube.com/watch?v=UCCtkGmAo-iT32XzofwUgxgg",
             "HG_NM": "강명구",
             "MONA_CD": "9901388T",
-            "collected_at": "2026-02-02T09:39:26.871000",
+            "collected_at": "2026-02-04T08:30:26.564000",
             "duration": null,
             "title": "강명구TV",
             "upload_date": null
@@ -589,7 +599,7 @@
             "BILL_ID": "PRC_V2U6U0T1R1S3Z1A1Y4Z9X3Y1W5W5T3",
             "BILL_NO": "2216498",
             "BILL_NAME": "개인정보 보호법 일부개정법률안",
-            "COMMITTEE": null,
+            "COMMITTEE": "정무위원회",
             "PROPOSE_DT": "2026-02-02",
             "PROC_RESULT": null,
             "AGE": "22",
@@ -602,9 +612,9 @@
             "CMT_PROC_RESULT_CD": null,
             "CMT_PROC_DT": null,
             "CMT_PRESENT_DT": null,
-            "COMMITTEE_DT": null,
+            "COMMITTEE_DT": "2026-02-03",
             "PROC_DT": null,
-            "COMMITTEE_ID": null,
+            "COMMITTEE_ID": "9700008",
             "PUBL_PROPOSER": "안철수,임종득,김기현,김기웅,이달희,서지영,김장겸,윤영석,구자근,한기호,김승수,조은희",
             "LAW_PROC_RESULT_CD": null,
             "RST_PROPOSER": "강명구"
@@ -1786,5 +1796,5 @@
             "RST_PROPOSER": "강명구"
         }
     ],
-    "exported_at": "2026-02-03T19:07:39.736036"
+    "exported_at": "2026-02-04T12:53:12.310483"
 }

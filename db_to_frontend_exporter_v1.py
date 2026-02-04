@@ -16,6 +16,7 @@ DB_NAME = os.getenv("DB_NAME")
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
 EXPORT_DIR = "data_export"
+MAIN_PAGE_MEMBERS_ALL_DATA_FILE = "main_page_members_all_data.json" # 메인 페이지에 사용될 전체 명단 데이터 파일명
 
 # Kiwi 초기화 (사용자 사전 추가나 옵션 설정이 가능합니다)
 kiwi = Kiwi()
@@ -90,6 +91,9 @@ def extract_member_keywords(news_list, video_list, member_name):
     
     # 상위 15개 키워드 산출
     keyword_counts = Counter(nouns).most_common(15)
+    
+    print(f"\n -> ✅ 키워드 추출 완료: {keyword_counts[:3]}")
+
     return {
         "top_keywords": [word for word, count in keyword_counts],
         "keyword_details": [{"text": word, "value": count} for word, count in keyword_counts]
@@ -112,9 +116,9 @@ def export_integrated_insight():
         return
 
     # 메인 페이지용 전체 명단 저장
-    with open(os.path.join(EXPORT_DIR, "members_all.json"), 'w', encoding='utf-8') as f:
+    with open(os.path.join(EXPORT_DIR, MAIN_PAGE_MEMBERS_ALL_DATA_FILE), 'w', encoding='utf-8') as f:
         json.dump(format_mongo_data(members), f, ensure_ascii=False, indent=4)
-    print(f"✅ [MAIN] members_all.json 생성 완료")
+    print(f"✅ [MAIN] {MAIN_PAGE_MEMBERS_ALL_DATA_FILE} 생성 완료")
 
     start_time = time.time()
 

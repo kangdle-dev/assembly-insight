@@ -47,21 +47,21 @@
             "공천",
             "출신",
             "원내",
-            "강선",
             "국방",
+            "강선",
+            "인공",
+            "지능",
             "발의",
             "제출",
             "수사",
             "김병기",
-            "추진",
-            "수석",
-            "대변인",
-            "특검"
+            "유용원",
+            "추진"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 16
+                "value": 17
             },
             {
                 "text": "의혹",
@@ -80,11 +80,19 @@
                 "value": 11
             },
             {
+                "text": "국방",
+                "value": 10
+            },
+            {
                 "text": "강선",
                 "value": 9
             },
             {
-                "text": "국방",
+                "text": "인공",
+                "value": 8
+            },
+            {
+                "text": "지능",
                 "value": 8
             },
             {
@@ -104,51 +112,43 @@
                 "value": 8
             },
             {
+                "text": "유용원",
+                "value": 7
+            },
+            {
                 "text": "추진",
-                "value": 7
-            },
-            {
-                "text": "수석",
-                "value": 7
-            },
-            {
-                "text": "대변인",
-                "value": 7
-            },
-            {
-                "text": "특검",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:07:40.063307",
+        "last_analyzed_at": "2026-02-04T12:53:12.643855",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                1,
                 0,
                 0,
                 0,
                 0,
                 3,
+                0,
                 0
             ]
         },
-        "ai_policy_summary": "\"강선영 의원은 주로 군사, 안전 및 복지 분야에 집중하며, 보호자적 입법 활동을 통해 북한이탈주민, 군인 및 일반 시민의 삶을 개선하는 데 주력하고 있습니다. 특히 군인사법 및 복지 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지의 기대 효과를 만들어내는 행보를 보입니다.\"",
+        "ai_policy_summary": "\"강선영 의원은 주로 군사 및 안전 관련 정책 분야에 집중하며, 보호자적 입법 활동을 통해 군인 및 그 가족의 복지와 안전을 개선하는 데 주력하고 있습니다. 특히 군인사법 및 군인복지기본법 관련 법안들을 통해 국민의 실생활과 직결된 복지 향상과 안전 보장을 만들어내는 행보를 보입니다.\"",
         "policy_stats": {
             "passed": 1,
             "reflected": 4,
-            "pending": 29,
+            "pending": 30,
             "failed": 2,
-            "total": 36,
-            "achievement_rate": 13.9
+            "total": 37,
+            "achievement_rate": 13.5
         }
     },
     "recent_news": [
@@ -156,7 +156,7 @@
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -215,7 +215,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -261,7 +261,7 @@
             "_id": "697cbd1938b0cf4096976a2d",
             "link": "https://n.news.naver.com/mnews/article/003/0013735497?sid=100",
             "created_at": "2026-01-30T23:15:53.399000",
-            "description": "여의도 국회 의원회관 세미나실에서 열린 한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한 긴급토론회에서 국민의례를 하고 있다.앞줄 오른쪽부터 최형두, 고동진 의원, 성 위원장, 유 의원, 박충권,조은희... ",
+            "description": "여의도 국회 의원회관 세미나실에서 열린 한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한... 앞줄 오른쪽부터 최형두, 고동진 의원, 성 위원장, 유 의원, 박충권,조은희, 임종득, 강선영 국민의힘 의원. 2026.01.28.... ",
             "originallink": "https://www.newsis.com/view/NISI20260128_0021142262",
             "press": "뉴시스",
             "pubDate": "2026-01-28T15:12:00",
@@ -448,7 +448,7 @@
             "url": "https://www.youtube.com/watch?v=72dh6vcNDSk",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:33.548000",
+            "collected_at": "2026-02-04T08:30:33.201000",
             "duration": 376.0,
             "title": "강선영 의원! 이국종에게 '돌직구' 조언을 날리는데",
             "upload_date": null
@@ -458,7 +458,7 @@
             "url": "https://www.youtube.com/watch?v=nDUQ3fdtGOk",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:34.883000",
+            "collected_at": "2026-02-04T08:30:34.439000",
             "duration": 526.0,
             "title": "장군 출신 강선영, 핵추진잠수함 핵심 쟁점 정조준 [티조Clip]",
             "upload_date": null
@@ -468,7 +468,7 @@
             "url": "https://www.youtube.com/watch?v=Y3mfTwCucyQ",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:34.883000",
+            "collected_at": "2026-02-04T08:30:34.439000",
             "duration": 123.0,
             "title": "‘국감 중에’·‘호우 중에’…민형배·강선영 골프 구설수 [9시 뉴스] / KBS  2024.10.17.",
             "upload_date": null
@@ -488,7 +488,7 @@
             "url": "https://www.youtube.com/watch?v=WxgkXmMZF84",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:33.548000",
+            "collected_at": "2026-02-04T08:30:33.201000",
             "duration": 128.0,
             "title": "장군 출신 강선영 의원, 장병들 앞 \"내가 1990년 3월 입대했다\" [현장영상] / 채널A",
             "upload_date": null
@@ -498,7 +498,7 @@
             "url": "https://www.youtube.com/watch?v=Jv73CjvZo08",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:34.883000",
+            "collected_at": "2026-02-04T08:30:34.439000",
             "duration": 428.0,
             "title": "장군 출신 강선영, 합참의장 후보자에게 성급한 전작권 전환 지적 [티조Clip]",
             "upload_date": null
@@ -508,7 +508,7 @@
             "url": "https://www.youtube.com/watch?v=GcVsixzuv1I",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:33.548000",
+            "collected_at": "2026-02-04T08:30:33.201000",
             "duration": 207.0,
             "title": "[단독] '투스타' 출신 강선영 의원, 수해 중 군골프장…중단시키니 항의 / JTBC 뉴스룸",
             "upload_date": null
@@ -518,7 +518,7 @@
             "url": "https://www.youtube.com/watch?v=fMm6FDXxY20",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:34.883000",
+            "collected_at": "2026-02-04T08:30:34.439000",
             "duration": 265.0,
             "title": "[자막] 강선영 \"안규백이 방위병출신이라서 안보 우려\" 정청래, \"내란동조 국민의힘이 할말인가\"",
             "upload_date": null
@@ -528,13 +528,37 @@
             "url": "https://www.youtube.com/watch?v=zlHNuU5w2Z4",
             "HG_NM": "강선영",
             "MONA_CD": "NQO7187X",
-            "collected_at": "2026-02-02T09:39:33.548000",
+            "collected_at": "2026-02-04T08:30:33.202000",
             "duration": 198.0,
             "title": "[돌발영상] 민주당 김병주를 거론하며 공격한 여당 강선영(2성이 4성에게 고합니다)  / YTN",
             "upload_date": null
         }
     ],
     "recent_bills": [
+        {
+            "BILL_ID": "PRC_U2T6T0B2A0A2Y0Z9X3Y3G2G5E2F4E2",
+            "BILL_NO": "2216533",
+            "BILL_NAME": "군인사법 일부개정법률안",
+            "COMMITTEE": null,
+            "PROPOSE_DT": "2026-02-03",
+            "PROC_RESULT": null,
+            "AGE": "22",
+            "DETAIL_LINK": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2T6T0B2A0A2Y0Z9X3Y3G2G5E2F4E2&ageFrom=22&ageTo=22",
+            "PROPOSER": "강선영의원 등 10인",
+            "MEMBER_LIST": "http://likms.assembly.go.kr/bill/coactorListPopup.do?billId=PRC_U2T6T0B2A0A2Y0Z9X3Y3G2G5E2F4E2",
+            "LAW_PROC_DT": null,
+            "LAW_PRESENT_DT": null,
+            "LAW_SUBMIT_DT": null,
+            "CMT_PROC_RESULT_CD": null,
+            "CMT_PROC_DT": null,
+            "CMT_PRESENT_DT": null,
+            "COMMITTEE_DT": null,
+            "PROC_DT": null,
+            "COMMITTEE_ID": null,
+            "PUBL_PROPOSER": "강대식,고동진,박준태,김건,유용원,이인선,이만희,정성국,안철수",
+            "LAW_PROC_RESULT_CD": null,
+            "RST_PROPOSER": "강선영"
+        },
         {
             "BILL_ID": "PRC_T2U6B0C1A2B7Z1X3Y5U2U2T8T1S4S8",
             "BILL_NO": "2216388",
@@ -1400,5 +1424,5 @@
             "RST_PROPOSER": "강선영"
         }
     ],
-    "exported_at": "2026-02-03T19:07:40.063307"
+    "exported_at": "2026-02-04T12:53:12.643855"
 }

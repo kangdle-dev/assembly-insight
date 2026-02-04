@@ -57,12 +57,12 @@
             "기후",
             "산업",
             "더불어민주당",
-            "선거",
             "후보",
+            "선거",
             "서귀포시",
             "특위",
-            "위원장",
             "간담회",
+            "위원장",
             "사회",
             "이행",
             "도지사",
@@ -75,7 +75,7 @@
             },
             {
                 "text": "제주",
-                "value": 55
+                "value": 56
             },
             {
                 "text": "기후",
@@ -83,34 +83,34 @@
             },
             {
                 "text": "산업",
-                "value": 26
+                "value": 25
             },
             {
                 "text": "더불어민주당",
-                "value": 23
+                "value": 24
+            },
+            {
+                "text": "후보",
+                "value": 21
             },
             {
                 "text": "선거",
                 "value": 19
             },
             {
-                "text": "후보",
-                "value": 19
-            },
-            {
                 "text": "서귀포시",
-                "value": 18
+                "value": 19
             },
             {
                 "text": "특위",
                 "value": 18
             },
             {
-                "text": "위원장",
-                "value": 15
+                "text": "간담회",
+                "value": 16
             },
             {
-                "text": "간담회",
+                "text": "위원장",
                 "value": 15
             },
             {
@@ -130,25 +130,25 @@
                 "value": 13
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:08:13.558316",
+        "last_analyzed_at": "2026-02-04T12:53:43.883136",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                3,
                 6,
                 0,
                 0,
                 1,
                 5,
-                5
+                5,
+                2
             ]
         },
         "ai_policy_summary": "\"위성곤 의원은 주로 공공 안전 및 사회 복지 분야에 집중하며, 사회적 약자 보호를 위한 입법 활동을 통해 유권자의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 가정폭력 방지 및 피해자 보호와 관련된 법안들을 통해 국민의 실생활과 직결된 안전과 복지 증진을 만들어내는 행보를 보입니다.\"",
@@ -162,6 +162,74 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6982826738b0cf4096977ca8",
+            "link": "https://n.news.naver.com/mnews/article/421/0008751829?sid=100",
+            "created_at": "2026-02-04T08:19:02.341000",
+            "description": "김위상 의원실, 외국인력 정책과 개선과 지속가능한 상생 방안(의원회관 제7간담회의실) 14:00 차지호... 전 국회의원, 인천 검단구청장 출마선언 기자회견] 10:40 이용우 의원, [한국노총 금속노련 소속 포스코 하청... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6061005",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T05:00:00",
+            "related_members": [
+                "UQ282145",
+                "MNZ4401T",
+                "5K93695T",
+                "6K79158C",
+                "3LP22204",
+                "B7D7534L",
+                "RC885085",
+                "LCZ1711I",
+                "QQ429063",
+                "VCP96419",
+                "XEF29171",
+                "OIA3741M",
+                "XG348314",
+                "GE71932C",
+                "RQQ3807K",
+                "3TP65086",
+                "N2P9317N",
+                "KNP22261",
+                "DAV7257X",
+                "P8A4624C",
+                "JQA21112",
+                "BNV6535N"
+            ],
+            "title": "[오늘의 국회일정] (4일, 수)"
+        },
+        {
+            "_id": "6982826738b0cf4096977ca9",
+            "link": "https://n.news.naver.com/mnews/article/003/0013747207?sid=100",
+            "created_at": "2026-02-04T08:19:02.341000",
+            "description": "김위상 의원실, 외국인력 정책과 개선과 지속가능한 상생 방안(의원회관 제7간담회의실) 14:00 차지호... 전 국회의원, 인천 검단구청장 출마선언 기자회견 10:40 이용우 의원, 한국노총 금속노련 소속 포스코 하청... ",
+            "originallink": "https://www.newsis.com/view/NISX20260203_0003501377",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T05:00:00",
+            "related_members": [
+                "UQ282145",
+                "MNZ4401T",
+                "5K93695T",
+                "6K79158C",
+                "3LP22204",
+                "B7D7534L",
+                "RC885085",
+                "LCZ1711I",
+                "QQ429063",
+                "VCP96419",
+                "XEF29171",
+                "OIA3741M",
+                "XG348314",
+                "GE71932C",
+                "RQQ3807K",
+                "3TP65086",
+                "N2P9317N",
+                "KNP22261",
+                "DAV7257X",
+                "P8A4624C",
+                "JQA21112",
+                "BNV6535N"
+            ],
+            "title": "[오늘의 주요일정]국회(2월4일 수요일)"
+        },
         {
             "_id": "6981c74638b0cf4096977b0a",
             "link": "https://n.news.naver.com/mnews/article/003/0013745228?sid=102",
@@ -346,19 +414,6 @@
             "title": "기후특위 간담회 자리한 산업계"
         },
         {
-            "_id": "697cbd4c38b0cf4096976c56",
-            "link": "https://n.news.naver.com/mnews/article/421/0008741490?sid=100",
-            "created_at": "2026-01-30T23:16:44.069000",
-            "description": "위성곤 국회 기후위기특별위원장이 29일 서울 여의도 국회 의원회관에서 열린 산업부문 NDC 이행을 위한 국회 기후특위-산업계 간담회에서 모두 발언을 하고 있다. 2026.1.29/뉴스1",
-            "originallink": "https://www.news1.kr/photos/7721334",
-            "press": "뉴스1",
-            "pubDate": "2026-01-29T10:24:00",
-            "related_members": [
-                "RQQ3807K"
-            ],
-            "title": "산업계 만난 국회 기후특위 'NDC 이행을 위해'"
-        },
-        {
             "_id": "697cbd4c38b0cf4096976c55",
             "link": "https://n.news.naver.com/mnews/article/421/0008741494?sid=100",
             "created_at": "2026-01-30T23:16:44.069000",
@@ -383,6 +438,19 @@
                 "RQQ3807K"
             ],
             "title": "모두 발언하는 위성곤 국회 기후특위원장"
+        },
+        {
+            "_id": "697cbd4c38b0cf4096976c56",
+            "link": "https://n.news.naver.com/mnews/article/421/0008741490?sid=100",
+            "created_at": "2026-01-30T23:16:44.069000",
+            "description": "위성곤 국회 기후위기특별위원장이 29일 서울 여의도 국회 의원회관에서 열린 산업부문 NDC 이행을 위한 국회 기후특위-산업계 간담회에서 모두 발언을 하고 있다. 2026.1.29/뉴스1",
+            "originallink": "https://www.news1.kr/photos/7721334",
+            "press": "뉴스1",
+            "pubDate": "2026-01-29T10:24:00",
+            "related_members": [
+                "RQQ3807K"
+            ],
+            "title": "산업계 만난 국회 기후특위 'NDC 이행을 위해'"
         },
         {
             "_id": "697cbd4c38b0cf4096976c53",
@@ -445,7 +513,7 @@
             "_id": "697cbd2538b0cf4096976b08",
             "link": "https://n.news.naver.com/mnews/article/003/0013733906?sid=100",
             "created_at": "2026-01-30T23:16:05.804000",
-            "description": "◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의(본관... 11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실) 13:00 문대림... ",
+            "description": "◇국회의장 10:00 시민개헌넷 개헌 간담회(의장집무실) ◇상임위원회 10:00 외교통일위원회 전체회의(본관... 11:00 조배숙 의원, ['정교분리' 곡해로 교회 폐쇄와 재산 몰수하는 악법 반대 기자회견] 11:20 윤종오 의원... ",
             "originallink": "https://www.newsis.com/view/NISX20260127_0003492453",
             "press": "뉴시스",
             "pubDate": "2026-01-28T05:00:00",
@@ -608,137 +676,17 @@
                 "X1K3667J"
             ],
             "title": "[오늘의 주요일정]국회(1월22일 목요일)"
-        },
-        {
-            "_id": "6972d2008459600028997733",
-            "link": "https://n.news.naver.com/mnews/article/421/0008727404?sid=100",
-            "created_at": "2026-01-23T10:42:22.522000",
-            "description": "13:30 윤후덕 의원실 등, \"2026년 이재명 정부의 통일·외교 정책방향은?\": 2026 통일정책포럼(국회도서관 소강당) 14:00 손명수 의원실 등, 대한민국 대전환: 기회와 과실을 고루 나누는 모두의 성장(국회의원회관... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6046840",
-            "press": "뉴스1",
-            "pubDate": "2026-01-22T05:00:00",
-            "related_members": [
-                "E1J8836Y",
-                "N2P9317N",
-                "1A82234K",
-                "5KV82250",
-                "6AU2417B",
-                "VCP96419",
-                "JSA8739I",
-                "RQQ3807K",
-                "3TP65086",
-                "P8A4624C",
-                "O7R5461J",
-                "HSW1214Q",
-                "TJW93720",
-                "25G2571T",
-                "X1K3667J"
-            ],
-            "title": "[오늘의 국회일정] (22일, 목)"
-        },
-        {
-            "_id": "6970125b297082fcc2b34d1c",
-            "link": "https://n.news.naver.com/mnews/article/016/0002588637?sid=100",
-            "created_at": "2026-01-21T08:40:10.225000",
-            "description": "위성곤 의원실 제공 국회 행정안전위원회 소속 위성곤 의원(제주 서귀포시, 더불어민주당)은 21일 교육공무원의 육아휴직 대상 자녀 연령을 현실에 맞게 상향 조정하는 ‘교육공무원법 일부개정법률안’을 대표발의했다.... ",
-            "originallink": "https://biz.heraldcorp.com/article/10659490?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-21T08:12:00",
-            "related_members": [
-                "RQQ3807K"
-            ],
-            "title": "“초등 6학년까지 육아휴직 허용”…위성곤 의원, 교육공무원법 개정안..."
         }
     ],
     "recent_videos": [
-        {
-            "_id": "6966ef70887d07f7ba2fb4a1",
-            "url": "https://www.youtube.com/watch?v=r3yNyiCichg",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:35.673000",
-            "duration": 712.0,
-            "title": "[시선집중] 국제 기준은 '이원화', 251억 반영했던 예산 행안부가 253억 삭감해...국정감사 전 현안논의할 것 - 위성곤 더불어민주당 의원, MBC 250929 방송",
-            "upload_date": null
-        },
         {
             "_id": "697ff46338b0cf4096977433",
             "url": "https://www.youtube.com/watch?v=cL7e4ftE7jc",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:35.673000",
-            "duration": 1694.0,
+            "collected_at": "2026-02-04T08:39:31.182000",
+            "duration": 1699.0,
             "title": "2026 제9회전국동시지방선거 특별기획 - 위성곤 도지사 (예비)후보를 만나다 260202(월)제주포커스",
-            "upload_date": null
-        },
-        {
-            "_id": "697cbfd938b0cf4096976e40",
-            "url": "https://www.youtube.com/watch?v=rOGpBOAcbQc",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
-            "duration": 7547.0,
-            "title": "[라이브] 자치경찰 이원화 도입을 위한 입법 토론회 | 국회의원 위성곤",
-            "upload_date": null
-        },
-        {
-            "_id": "697cbfd938b0cf4096976e3f",
-            "url": "https://www.youtube.com/watch?v=FIuO5Cz1IEU",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
-            "duration": 7812.0,
-            "title": "[라이브] 열에너지기본법·열에너지탈탄소화 촉진법 입법공청회 | 국회의원 위성곤",
-            "upload_date": null
-        },
-        {
-            "_id": "697327388459600028997a49",
-            "url": "https://www.youtube.com/watch?v=OcnUMa3JQj4",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-30T23:27:37.683000",
-            "duration": 401.0,
-            "title": "정치하는 사람 '위성곤'  - 농업 포기하면 국가유지 어려워 | 더불어민주당 서귀포시 국회의원  21대 총선 후보 기호 1번 일 잘하는 위성곤이 전하는 제주의소리",
-            "upload_date": null
-        },
-        {
-            "_id": "697327388459600028997a48",
-            "url": "https://www.youtube.com/watch?v=LwFnA5KQodQ",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-30T23:27:36.186000",
-            "duration": 4294.0,
-            "title": "서귀포큰일꾼 국회의원 위성곤 2024 의정보고회 다시보기 [FULL]",
-            "upload_date": null
-        },
-        {
-            "_id": "69701421297082fcc2b34e5f",
-            "url": "https://www.youtube.com/watch?v=_pHeDw6SDss",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-21T08:47:43.934000",
-            "duration": 1610.0,
-            "title": "(대담 풀영상) 위성곤, \"경험과 역량있는 일꾼 필요\"",
-            "upload_date": null
-        },
-        {
-            "_id": "69701421297082fcc2b34e5e",
-            "url": "https://www.youtube.com/watch?v=M2sDPmZkCU4",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-21T08:47:43.227000",
-            "duration": 583.0,
-            "title": "제21대 국회 \"300인의 희망인터뷰\" 위성곤 의원(더불어민주당)",
-            "upload_date": null
-        },
-        {
-            "_id": "69701421297082fcc2b34e5d",
-            "url": "https://www.youtube.com/watch?v=S0fpGXLqri8",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
-            "duration": 162.0,
-            "title": "[7시뉴스제주/201105 여론조사] 국회의원 평가③ 서귀포시 위성곤 의원",
             "upload_date": null
         },
         {
@@ -752,13 +700,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ad2c631fd1743497d951",
-            "url": "https://www.youtube.com/watch?v=UCAFjsCaWERftqIbP_OjZU7Q",
+            "_id": "6966ef70887d07f7ba2fb49c",
+            "url": "https://www.youtube.com/watch?v=sO8QOXblEls",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
-            "duration": null,
-            "title": "위성곤TV",
+            "collected_at": "2026-02-04T08:39:29.880000",
+            "duration": 542.0,
+            "title": "위성곤 의원 더불어민주당_NATV 국회방송 300인의 희망인터뷰",
+            "upload_date": null
+        },
+        {
+            "_id": "697cbfd938b0cf4096976e3f",
+            "url": "https://www.youtube.com/watch?v=FIuO5Cz1IEU",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-02-04T08:39:29.880000",
+            "duration": 7812.0,
+            "title": "[라이브] 열에너지기본법·열에너지탈탄소화 촉진법 입법공청회 | 국회의원 위성곤",
+            "upload_date": null
+        },
+        {
+            "_id": "69701421297082fcc2b34e5e",
+            "url": "https://www.youtube.com/watch?v=M2sDPmZkCU4",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-21T08:47:43.227000",
+            "duration": 583.0,
+            "title": "제21대 국회 \"300인의 희망인터뷰\" 위성곤 의원(더불어민주당)",
             "upload_date": null
         },
         {
@@ -766,9 +734,69 @@
             "url": "https://www.youtube.com/watch?v=D4mLYmbz18k",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:35.673000",
+            "collected_at": "2026-02-04T08:39:31.182000",
             "duration": 523.0,
             "title": "위성곤의 희망인터뷰 - NATV 국회방송 20대 국회의원 300인의 희망인터뷰 | 더불어민주당 서귀포시 국회의원  21대 총선 후보 기호 1번 일 잘하는 위성곤이 전하는 제주의소리",
+            "upload_date": null
+        },
+        {
+            "_id": "6982873438b0cf4096977d89",
+            "url": "https://www.youtube.com/watch?v=wbT23CqsSaQ",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-02-04T08:39:31.182000",
+            "duration": 426.0,
+            "title": "정치하는 사람 '위성곤'  - 정치란 세상을 바꾸는 일 | 더불어민주당 서귀포시 국회의원  21대 총선 후보 기호 1번 일 잘하는 위성곤이 전하는 제주의소리",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2c631fd1743497d952",
+            "url": "https://www.youtube.com/watch?v=wLZEMj-YAvM",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-18T13:16:51.487000",
+            "duration": 69.0,
+            "title": "TV자막에 ’비상계엄‘ 오보인 줄 알았다 | 국회의원 위성곤 #계엄 #겸공 #김어준 #뉴스공장 #예결위",
+            "upload_date": null
+        },
+        {
+            "_id": "69701421297082fcc2b34e5d",
+            "url": "https://www.youtube.com/watch?v=S0fpGXLqri8",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-02-04T08:39:29.880000",
+            "duration": 162.0,
+            "title": "[7시뉴스제주/201105 여론조사] 국회의원 평가③ 서귀포시 위성곤 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "6966ef70887d07f7ba2fb49b",
+            "url": "https://www.youtube.com/watch?v=xNOyJAg78uQ",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-02-04T08:39:29.880000",
+            "duration": 430.0,
+            "title": "위성곤 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.12.)",
+            "upload_date": null
+        },
+        {
+            "_id": "697327388459600028997a49",
+            "url": "https://www.youtube.com/watch?v=OcnUMa3JQj4",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-30T23:27:37.683000",
+            "duration": 401.0,
+            "title": "정치하는 사람 '위성곤'  - 농업 포기하면 국가유지 어려워 | 더불어민주당 서귀포시 국회의원  21대 총선 후보 기호 1번 일 잘하는 위성곤이 전하는 제주의소리",
+            "upload_date": null
+        },
+        {
+            "_id": "69701421297082fcc2b34e5f",
+            "url": "https://www.youtube.com/watch?v=_pHeDw6SDss",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-21T08:47:43.934000",
+            "duration": 1610.0,
+            "title": "(대담 풀영상) 위성곤, \"경험과 역량있는 일꾼 필요\"",
             "upload_date": null
         },
         {
@@ -782,33 +810,13 @@
             "upload_date": null
         },
         {
-            "_id": "6966ef70887d07f7ba2fb49f",
-            "url": "https://www.youtube.com/watch?v=a5mabxNjCDA",
+            "_id": "697cbfd938b0cf4096976e40",
+            "url": "https://www.youtube.com/watch?v=rOGpBOAcbQc",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:35.673000",
-            "duration": 1081.0,
-            "title": "[7시뉴스제주/200421 당선자에게 듣는다] 서귀포시 위성곤 당선인",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49b",
-            "url": "https://www.youtube.com/watch?v=xNOyJAg78uQ",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
-            "duration": 430.0,
-            "title": "위성곤 더불어민주당 의원 - 전원위원회 100인 발언 (23.4.12.)",
-            "upload_date": null
-        },
-        {
-            "_id": "6966ef70887d07f7ba2fb49c",
-            "url": "https://www.youtube.com/watch?v=sO8QOXblEls",
-            "HG_NM": "위성곤",
-            "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
-            "duration": 542.0,
-            "title": "위성곤 의원 더불어민주당_NATV 국회방송 300인의 희망인터뷰",
+            "collected_at": "2026-02-04T08:39:29.880000",
+            "duration": 7547.0,
+            "title": "[라이브] 자치경찰 이원화 도입을 위한 입법 토론회 | 국회의원 위성곤",
             "upload_date": null
         },
         {
@@ -822,23 +830,53 @@
             "upload_date": null
         },
         {
+            "_id": "6966ef70887d07f7ba2fb4a1",
+            "url": "https://www.youtube.com/watch?v=r3yNyiCichg",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-02-04T08:39:31.182000",
+            "duration": 712.0,
+            "title": "[시선집중] 국제 기준은 '이원화', 251억 반영했던 예산 행안부가 253억 삭감해...국정감사 전 현안논의할 것 - 위성곤 더불어민주당 의원, MBC 250929 방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ad2c631fd1743497d951",
+            "url": "https://www.youtube.com/watch?v=UCAFjsCaWERftqIbP_OjZU7Q",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-02-04T08:39:29.880000",
+            "duration": null,
+            "title": "위성곤TV",
+            "upload_date": null
+        },
+        {
             "_id": "6960ad2c631fd1743497d953",
             "url": "https://www.youtube.com/watch?v=M-zrwRQCCXE",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-02-02T09:48:34.346000",
+            "collected_at": "2026-02-04T08:39:29.880000",
             "duration": 614.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
             "upload_date": null
         },
         {
-            "_id": "6960ad2c631fd1743497d952",
-            "url": "https://www.youtube.com/watch?v=wLZEMj-YAvM",
+            "_id": "6966ef70887d07f7ba2fb49f",
+            "url": "https://www.youtube.com/watch?v=a5mabxNjCDA",
             "HG_NM": "위성곤",
             "MONA_CD": "RQQ3807K",
-            "collected_at": "2026-01-18T13:16:51.487000",
-            "duration": 69.0,
-            "title": "TV자막에 ’비상계엄‘ 오보인 줄 알았다 | 국회의원 위성곤 #계엄 #겸공 #김어준 #뉴스공장 #예결위",
+            "collected_at": "2026-02-04T08:39:31.182000",
+            "duration": 1081.0,
+            "title": "[7시뉴스제주/200421 당선자에게 듣는다] 서귀포시 위성곤 당선인",
+            "upload_date": null
+        },
+        {
+            "_id": "697327388459600028997a48",
+            "url": "https://www.youtube.com/watch?v=LwFnA5KQodQ",
+            "HG_NM": "위성곤",
+            "MONA_CD": "RQQ3807K",
+            "collected_at": "2026-01-30T23:27:36.186000",
+            "duration": 4294.0,
+            "title": "서귀포큰일꾼 국회의원 위성곤 2024 의정보고회 다시보기 [FULL]",
             "upload_date": null
         }
     ],
@@ -3052,5 +3090,5 @@
             "RST_PROPOSER": "위성곤"
         }
     ],
-    "exported_at": "2026-02-03T19:08:13.558316"
+    "exported_at": "2026-02-04T12:53:43.883136"
 }

@@ -46,22 +46,22 @@
             "초선",
             "합당",
             "민초",
-            "모임",
             "간담회",
             "회관",
+            "모임",
             "대표",
-            "더불어민주당",
             "더민초",
+            "더불어민주당",
             "민주당",
-            "민주",
             "논의",
+            "민주",
             "여의도",
             "서울"
         ],
         "keyword_frequency": [
             {
                 "text": "이재",
-                "value": 59
+                "value": 61
             },
             {
                 "text": "초선",
@@ -69,30 +69,26 @@
             },
             {
                 "text": "합당",
-                "value": 42
+                "value": 40
             },
             {
                 "text": "민초",
-                "value": 38
+                "value": 39
+            },
+            {
+                "text": "간담회",
+                "value": 36
+            },
+            {
+                "text": "회관",
+                "value": 33
             },
             {
                 "text": "모임",
                 "value": 33
             },
             {
-                "text": "간담회",
-                "value": 33
-            },
-            {
-                "text": "회관",
-                "value": 31
-            },
-            {
                 "text": "대표",
-                "value": 26
-            },
-            {
-                "text": "더불어민주당",
                 "value": 26
             },
             {
@@ -100,16 +96,20 @@
                 "value": 25
             },
             {
-                "text": "민주당",
-                "value": 24
+                "text": "더불어민주당",
+                "value": 25
             },
             {
-                "text": "민주",
+                "text": "민주당",
                 "value": 22
             },
             {
                 "text": "논의",
-                "value": 21
+                "value": 20
+            },
+            {
+                "text": "민주",
+                "value": 20
             },
             {
                 "text": "여의도",
@@ -120,24 +120,24 @@
                 "value": 19
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:08:20.874435",
+        "last_analyzed_at": "2026-02-04T12:53:50.727097",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
                 25,
+                2,
                 2
             ]
         },
@@ -152,6 +152,74 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "6982826738b0cf4096977ca8",
+            "link": "https://n.news.naver.com/mnews/article/421/0008751829?sid=100",
+            "created_at": "2026-02-04T08:19:02.341000",
+            "description": "김위상 의원실, 외국인력 정책과 개선과 지속가능한 상생 방안(의원회관 제7간담회의실) 14:00 차지호... 전 국회의원, 인천 검단구청장 출마선언 기자회견] 10:40 이용우 의원, [한국노총 금속노련 소속 포스코 하청... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6061005",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T05:00:00",
+            "related_members": [
+                "UQ282145",
+                "MNZ4401T",
+                "5K93695T",
+                "6K79158C",
+                "3LP22204",
+                "B7D7534L",
+                "RC885085",
+                "LCZ1711I",
+                "QQ429063",
+                "VCP96419",
+                "XEF29171",
+                "OIA3741M",
+                "XG348314",
+                "GE71932C",
+                "RQQ3807K",
+                "3TP65086",
+                "N2P9317N",
+                "KNP22261",
+                "DAV7257X",
+                "P8A4624C",
+                "JQA21112",
+                "BNV6535N"
+            ],
+            "title": "[오늘의 국회일정] (4일, 수)"
+        },
+        {
+            "_id": "6982826738b0cf4096977ca9",
+            "link": "https://n.news.naver.com/mnews/article/003/0013747207?sid=100",
+            "created_at": "2026-02-04T08:19:02.341000",
+            "description": "김위상 의원실, 외국인력 정책과 개선과 지속가능한 상생 방안(의원회관 제7간담회의실) 14:00 차지호... 전 국회의원, 인천 검단구청장 출마선언 기자회견 10:40 이용우 의원, 한국노총 금속노련 소속 포스코 하청... ",
+            "originallink": "https://www.newsis.com/view/NISX20260203_0003501377",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T05:00:00",
+            "related_members": [
+                "UQ282145",
+                "MNZ4401T",
+                "5K93695T",
+                "6K79158C",
+                "3LP22204",
+                "B7D7534L",
+                "RC885085",
+                "LCZ1711I",
+                "QQ429063",
+                "VCP96419",
+                "XEF29171",
+                "OIA3741M",
+                "XG348314",
+                "GE71932C",
+                "RQQ3807K",
+                "3TP65086",
+                "N2P9317N",
+                "KNP22261",
+                "DAV7257X",
+                "P8A4624C",
+                "JQA21112",
+                "BNV6535N"
+            ],
+            "title": "[오늘의 주요일정]국회(2월4일 수요일)"
+        },
         {
             "_id": "69814af638b0cf4096977763",
             "link": "https://n.news.naver.com/mnews/article/021/0002768361?sid=100",
@@ -171,7 +239,7 @@
             "_id": "69814ae138b0cf40969776d0",
             "link": "https://n.news.naver.com/mnews/article/421/0008749441?sid=100",
             "created_at": "2026-02-03T10:09:51.482000",
-            "description": "대표도, 국회의원도 그 누구도 당원들의 결정에 승복해야 한다. 그렇게 하자\"고 요청했다. 정 대표는 이어... 황명선 최고위원도 \"합당 논의를 중단하고 국정 뒷받침에 당력을 집중해야 한다\"고 가세했고, 강득구 최고위원... ",
+            "description": "대표도, 국회의원도 그 누구도 당원들의 결정에 승복해야 한다. 그렇게 하자\"고 요청했다. 정 대표는 이어... 이재강 의원은 비공개 회의 후 기자들과 만나 \"대체적인 의견은 합당 논의를 중단해야 한다는 것이었다\"며 \"일부... ",
             "originallink": "https://www.news1.kr/politics/assembly/6059610",
             "press": "뉴스1",
             "pubDate": "2026-02-03T05:45:00",
@@ -192,7 +260,7 @@
             "_id": "69814ae138b0cf40969776d1",
             "link": "https://n.news.naver.com/mnews/article/032/0003425360?sid=100",
             "created_at": "2026-02-03T10:09:51.482000",
-            "description": "이언주·강득구·황명선 최고위원은 합당 논의 중단을 주장했다. 이 최고위원은 “민주적 선결 절차를 패싱한... 민주당 초선 의원 모임인 ‘더민초’는 국회 의원회관에서 합당 관련 간담회를 열고 지방선거 이후 합당... ",
+            "description": "조승래 사무총장은 JTBC 유튜브 인터뷰에서 합당에 대한 최종 의사결정은 “3월 중순쯤” 이루어질 것이라고... 민주당 초선 의원 모임인 ‘더민초’는 국회 의원회관에서 합당 관련 간담회를 열고 지방선거 이후 합당... ",
             "originallink": "https://www.khan.co.kr/article/202602022011005",
             "press": "경향신문",
             "pubDate": "2026-02-02T20:11:00",
@@ -229,7 +297,7 @@
             "_id": "69814ae138b0cf40969776d2",
             "link": "https://n.news.naver.com/mnews/article/032/0003425330?sid=100",
             "created_at": "2026-02-03T10:09:51.482000",
-            "description": "이·강득구·황명선 최고위원은 합당 논의 중단을 주장했다. 이 최고위원은 “민주적 선결 절차를 패싱한... 민주당 초선 의원 모임인 ‘더민초’는 이날 국회 의원회관에서 합당 관련 간담회를 열고 지방선거 이후 합당... ",
+            "description": "조승래 사무총장은 이날 JTBC 유튜브 인터뷰에서 “가능한 빨리하는 게 좋다”며 합당에 대한 최종 의사... 민주당 초선 의원 모임인 ‘더민초’는 이날 국회 의원회관에서 합당 관련 간담회를 열고 지방선거 이후 합당... ",
             "originallink": "https://www.khan.co.kr/article/202602021730001",
             "press": "경향신문",
             "pubDate": "2026-02-02T17:30:00",
@@ -249,7 +317,7 @@
             "_id": "69814ae138b0cf40969776d3",
             "link": "https://n.news.naver.com/mnews/article/022/0004102572?sid=100",
             "created_at": "2026-02-03T10:09:51.482000",
-            "description": "연합뉴스 비당권파 인사인 이언주·황명선·강득구 최고위원은 2일 최고위 모두발언에서 정 대표 합당 제안을... 연합뉴스 민주당 초선 의원 모임(더민초)도 이날 국회 의원회관에서 간담회를 갖고 합당 논의 중단을... ",
+            "description": "연합뉴스 민주당 초선 의원 모임(더민초)도 이날 국회 의원회관에서 간담회를 갖고 합당 논의 중단을 촉구하고 나섰다. 더민초 대표인 이재강 의원은 간담회 후 “대체적인 의견은 합당 논의가 중단돼야 한다는 것”이라며... ",
             "originallink": "https://www.segye.com/newsView/20260202515678?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-02-02T17:11:00",
@@ -567,94 +635,6 @@
                 "3LP22204"
             ],
             "title": "“한상경제권은 동포사회·대한민국 상생발전 도모하기 위한 프로젝트”"
-        },
-        {
-            "_id": "6976fced8459600028997f58",
-            "link": "https://n.news.naver.com/mnews/article/079/0004108758?sid=102",
-            "created_at": "2026-01-26T14:34:35.261000",
-            "description": "더불어민주당 허성무(창원성산구, 산업통상자원중소벤처기업위원회) 국회의원이  '2026 의정보고회'를... 서영석·박정·김영배·박성준·박해철·모경종·장철민·김병주·박선원·이재관·홍기원·김원이·황정아·김영호... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6461560?utm_source=naver&utm_medium=article&utm_campaign=20260125084551",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-25T20:46:00",
-            "related_members": [
-                "5N65159P",
-                "2385336L",
-                "4019850M",
-                "JZY9937U",
-                "XR24352K",
-                "MLH1404S",
-                "HHB5652A",
-                "H5476989",
-                "VZA76236",
-                "2NV6751W",
-                "E2B3753X",
-                "5MD4184K",
-                "GF286398",
-                "RKS3658I",
-                "J1G57517",
-                "T6A6557F",
-                "B7D7534L",
-                "IL74008M",
-                "4L695580",
-                "7BM2933Y",
-                "CCU1009B",
-                "8BF5855P",
-                "OIA3741M",
-                "3LP22204",
-                "JG77046J",
-                "6WK3815W",
-                "CIZ8557P",
-                "TJW93720",
-                "ZDR63255",
-                "7YL9580G",
-                "GOC54665",
-                "QUR40502",
-                "XPP2564T"
-            ],
-            "title": "허성무 의원, '2026 의정보고회' 성료…\"주민 목소리 적극 반영\""
-        },
-        {
-            "_id": "6972d1ee8459600028997688",
-            "link": "https://n.news.naver.com/mnews/article/079/0004108196?sid=100",
-            "created_at": "2026-01-23T10:42:04.433000",
-            "description": "막 국회의원들이 나도 몰랐는데 그리고 당원들이 국회의원들한테 문자를 막 날리고 이거 어떻게 된 거냐고... 반조국파와 그다음에 신장식부터 이게 차규근 이런 조국파가 있어요. 그러니까 제 말은 이게 합당하면요. 그... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6460757?utm_source=naver&utm_medium=article&utm_campaign=20260123070020",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-23T07:01:00",
-            "related_members": [
-                "8P37634C",
-                "JG77046J",
-                "VDN5593C",
-                "J1G57517",
-                "6AU2417B",
-                "VZA76236",
-                "OFE45081",
-                "NXB3178C",
-                "GF286398",
-                "MLH1404S",
-                "2385336L",
-                "8Q88373R",
-                "5TQ6306B",
-                "1A82234K",
-                "0YT3774N",
-                "8BF5855P",
-                "S824682L",
-                "RG972910",
-                "TKJ4800F",
-                "KNP22261",
-                "NPD75153",
-                "N2P9317N",
-                "M7O7878U",
-                "YS38221N",
-                "YOG1280B",
-                "RJH6314D",
-                "3LP22204",
-                "KFM1081G",
-                "QWL7778X",
-                "9YO73104",
-                "BCQ55105"
-            ],
-            "title": "윤희석 \"국힘은 있는 사람도 제명, 민주당 합당 부럽다\""
         }
     ],
     "recent_videos": [
@@ -733,7 +713,7 @@
             "url": "https://www.youtube.com/watch?v=gtqj0AbzF1Q",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:33.033000",
+            "collected_at": "2026-02-04T08:41:29.524000",
             "duration": 235.0,
             "title": "정청래를 위협하는 초선의원...이재강을 견제했던 정청래?",
             "upload_date": null
@@ -743,7 +723,7 @@
             "url": "https://www.youtube.com/watch?v=keZQWiM2PNg",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:33.033000",
+            "collected_at": "2026-02-04T08:41:29.524000",
             "duration": 3868.0,
             "title": "12/11(금) 풀버전｜이동형의 뉴스정면승부(변상욱, 이재강, 신장식, 박정호,강은미)/ YTN 라디오",
             "upload_date": null
@@ -753,7 +733,7 @@
             "url": "https://www.youtube.com/watch?v=OZdFPOJRoY4",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:31.709000",
+            "collected_at": "2026-02-04T08:41:28.210000",
             "duration": 900.0,
             "title": "4월 6일 - 이재강, 집중유세 :: 원혜영 의원님과 함께 합니다",
             "upload_date": null
@@ -773,7 +753,7 @@
             "url": "https://www.youtube.com/watch?v=b7AdwpVqZUs",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:31.709000",
+            "collected_at": "2026-02-04T08:41:28.210000",
             "duration": 157.0,
             "title": "이재강 \"의정부를 남북평화 터전으로 만들 것\" [의정부] 딜라이브TV● 방송일 : 2023.11.01",
             "upload_date": null
@@ -793,7 +773,7 @@
             "url": "https://www.youtube.com/watch?v=CHLYv_I9-jY",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:31.709000",
+            "collected_at": "2026-02-04T08:41:28.210000",
             "duration": 259.0,
             "title": "민주당 이재강 의원,한반도 평화 정착을 위한 항공안전법 개정안 발의 기자회견",
             "upload_date": null
@@ -823,7 +803,7 @@
             "url": "https://www.youtube.com/watch?v=UC190UjHfvH6wDzWDCIKNcIw",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:31.709000",
+            "collected_at": "2026-02-04T08:41:28.210000",
             "duration": null,
             "title": "이재강TV",
             "upload_date": null
@@ -833,7 +813,7 @@
             "url": "https://www.youtube.com/watch?v=mDX5R0HWYf4",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:33.033000",
+            "collected_at": "2026-02-04T08:41:29.524000",
             "duration": 305.0,
             "title": "박상학 증인 샤우팅에 난리난 국회...\"어디서 고함지르고 그래\" #이재강",
             "upload_date": null
@@ -843,7 +823,7 @@
             "url": "https://www.youtube.com/watch?v=EQKRei_lcnU",
             "HG_NM": "이재강",
             "MONA_CD": "3LP22204",
-            "collected_at": "2026-02-02T09:50:31.709000",
+            "collected_at": "2026-02-04T08:41:28.210000",
             "duration": 396.0,
             "title": "민주당 이재강 의원1 11 2 합 더불어민주당 초선모임 윤석열 대통령 국회 개원식 불참 규탄 기자회견",
             "upload_date": null
@@ -1581,5 +1561,5 @@
             "RST_PROPOSER": "이재강"
         }
     ],
-    "exported_at": "2026-02-03T19:08:20.874435"
+    "exported_at": "2026-02-04T12:53:50.727097"
 }

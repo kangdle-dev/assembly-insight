@@ -57,29 +57,29 @@
             "천지",
             "총회장",
             "가입",
-            "수사",
             "국민",
+            "수사",
             "부총리",
             "당원",
-            "교주",
             "최경환",
             "경제",
+            "대표",
             "유착",
-            "의혹",
-            "선거"
+            "교주",
+            "단독"
         ],
         "keyword_frequency": [
             {
                 "text": "신천지",
-                "value": 43
+                "value": 41
             },
             {
                 "text": "합수",
-                "value": 31
+                "value": 27
             },
             {
                 "text": "천지",
-                "value": 26
+                "value": 25
             },
             {
                 "text": "총회장",
@@ -87,15 +87,15 @@
             },
             {
                 "text": "가입",
-                "value": 21
-            },
-            {
-                "text": "수사",
                 "value": 19
             },
             {
                 "text": "국민",
-                "value": 15
+                "value": 18
+            },
+            {
+                "text": "수사",
+                "value": 17
             },
             {
                 "text": "부총리",
@@ -103,11 +103,7 @@
             },
             {
                 "text": "당원",
-                "value": 14
-            },
-            {
-                "text": "교주",
-                "value": 13
+                "value": 12
             },
             {
                 "text": "최경환",
@@ -118,37 +114,41 @@
                 "value": 12
             },
             {
+                "text": "대표",
+                "value": 11
+            },
+            {
                 "text": "유착",
                 "value": 11
             },
             {
-                "text": "의혹",
+                "text": "교주",
                 "value": 11
             },
             {
-                "text": "선거",
-                "value": 11
+                "text": "단독",
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-03T19:08:17.821898",
+        "last_analyzed_at": "2026-02-04T12:53:47.857601",
         "trend_news": {
             "labels": [
-                "01-28",
                 "01-29",
                 "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
-                "02-03"
+                "02-03",
+                "02-04"
             ],
             "data": [
-                0,
                 1,
                 2,
                 1,
                 0,
                 2,
-                4
+                5,
+                0
             ]
         },
         "ai_policy_summary": "\"이만희 의원은 주로 농업, 식품, 환경 관련 분야에 집중하며, 조정자 입법 활동을 통해 국민의 경제적 안정과 복지 개선에 주력하고 있습니다. 특히 농수산물 유통 및 가격안정, 개인정보 보호 등 관련 법안들을 통해 국민의 실생활과 직결된 안전하고 공정한 거래 환경을 만들어내는 행보를 보입니다.\"",
@@ -162,6 +162,21 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698282a038b0cf4096977cdf",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112061?sid=102",
+            "created_at": "2026-02-04T08:19:59.252000",
+            "description": "친한계 쪽은 친한계 쪽에서 반발이 심하고 또 이쪽 장동혁 대표 장동혁계라고 하면 장동혁계 쪽에서는 또... 나가는 순간 탈당을 하게 되면 국회의원직에서 물러나야 되니까. 아마 그게 제딴에는 좀 걱정스러운 게 그렇다면... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466424?utm_source=naver&utm_medium=article&utm_campaign=20260203075202",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-03T19:53:00",
+            "related_members": [
+                "OSV9142K",
+                "W8W95421",
+                "KFM1081G"
+            ],
+            "title": "\"국민의힘 마이너스 정치 안타까워, 당명보다 체질 바꿔야\""
+        },
         {
             "_id": "6981c73338b0cf4096977add",
             "link": "https://n.news.naver.com/mnews/article/437/0000476576?sid=102",
@@ -180,7 +195,7 @@
             "_id": "6981c73138b0cf4096977ad7",
             "link": "https://n.news.naver.com/mnews/article/055/0001329823?sid=100",
             "created_at": "2026-02-03T19:00:14.675000",
-            "description": "이 대표는 오늘(3일) 국회 의원회관에서 국민의힘 초·재선 모임인 '대안과 미래'가 주최한 '위기의 한국... 이날 대안과 미래 모임에는 이성권, 권영진, 박정하, 고동진, 서범수, 이만희, 최형두, 김소희, 김재섭, 엄태영, 김건... ",
+            "description": "이 대표는 오늘(3일) 국회 의원회관에서 국민의힘 초·재선 모임인 '대안과 미래'가 주최한 '위기의 한국... 묻는 조은희 국민의힘 의원 질문에 \"개인적으로 사과 여부를 두고 싸우지 않았으면 좋겠다\"고 답했습니다. 이... ",
             "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008428836&plink=ORI&cooper=NAVER",
             "press": "SBS",
             "pubDate": "2026-02-03T11:32:00",
@@ -241,7 +256,7 @@
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -287,7 +302,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -670,19 +685,6 @@
                 "OSV9142K"
             ],
             "title": "[단독]\"MB측, 이만희에게 당원 요청\"…이해관계 맞은 신천지"
-        },
-        {
-            "_id": "6972d22584596000289977da",
-            "link": "https://n.news.naver.com/mnews/article/421/0008725738?sid=102",
-            "created_at": "2026-01-23T10:42:59.581000",
-            "description": "합수본은 이날 오전 10시부터 이만희의 경호를 맡은 일명 '일곱사자' 구성원으로 활동하다 탈퇴한 A 씨를 참고인 신분으로 불러 조사하고 있다. 합수본은 A 씨에게 신천지가 정당 경선 및 대통령·국회의원 선거 과정에서... ",
-            "originallink": "https://www.news1.kr/society/general-society/6045954",
-            "press": "뉴스1",
-            "pubDate": "2026-01-21T10:54:00",
-            "related_members": [
-                "OSV9142K"
-            ],
-            "title": "합수본, 이만희 교주 前 경호원 조사…신천지 국힘 당원가입 의혹 수사"
         }
     ],
     "recent_videos": [
@@ -711,7 +713,7 @@
             "url": "https://www.youtube.com/watch?v=CSbO9rtQoGQ",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 438.0,
             "title": "[이만희 국회의원] 원내대변인의 하루",
             "upload_date": null
@@ -761,7 +763,7 @@
             "url": "https://www.youtube.com/watch?v=5lN50R6jMRI",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 168.0,
             "title": "\"이광희 씨!\" \"이만희가 뭐야!\" 인사청문회 하다가…자존심을 건 두 의원의 설전 (현장영상) / SBS",
             "upload_date": null
@@ -781,7 +783,7 @@
             "url": "https://www.youtube.com/watch?v=80_y76VnL_c",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 147.0,
             "title": "국민의힘 사무총장에 이만희 의원··대표·원내대표·사무총장 모두 '친윤' (2023.10.16/뉴스데스크/대구MBC)",
             "upload_date": null
@@ -801,7 +803,7 @@
             "url": "https://www.youtube.com/watch?v=lPWZMrTLNVw",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 537.0,
             "title": "NATV 국회방송 300인의 희망 인터뷰(새누리당 이만희 의원)",
             "upload_date": null
@@ -831,7 +833,7 @@
             "url": "https://www.youtube.com/watch?v=eQdff-1uh38",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 304.0,
             "title": "[국회는지금] \"농촌 돕는 현안 예산 미비\" 이만희 의원ㅣ#헬로tv뉴스",
             "upload_date": null
@@ -841,7 +843,7 @@
             "url": "https://www.youtube.com/watch?v=Wtuit8OOR_E",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 816.0,
             "title": "영천의 원로대표단, 이만희국회의원 공천배제 건의문 관련 기자브리핑",
             "upload_date": null
@@ -851,7 +853,7 @@
             "url": "https://www.youtube.com/watch?v=wBz3NjRj4lk",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 91.0,
             "title": "[김교흥] 김교흥 “사과하세요”VS 이만희 “거짓말 정부라니”",
             "upload_date": null
@@ -861,7 +863,7 @@
             "url": "https://www.youtube.com/watch?v=lvQhtY8D7RM",
             "HG_NM": "이만희",
             "MONA_CD": "OSV9142K",
-            "collected_at": "2026-02-02T09:49:42.702000",
+            "collected_at": "2026-02-04T08:40:38.113000",
             "duration": 84.0,
             "title": "[스팟Live] 이만희-이광희 의원, 노태악 선관위원장 출석 놓고 '설전'｜25.03.06 국회 행안위",
             "upload_date": null
@@ -3625,5 +3627,5 @@
             "RST_PROPOSER": "이만희"
         }
     ],
-    "exported_at": "2026-02-03T19:08:17.822420"
+    "exported_at": "2026-02-04T12:53:47.857601"
 }
