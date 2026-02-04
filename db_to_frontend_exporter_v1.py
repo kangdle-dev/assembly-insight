@@ -17,6 +17,7 @@ client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
 EXPORT_DIR = "data_export"
 MAIN_PAGE_MEMBERS_ALL_DATA_FILE = "main_page_members_all_data.json" # 메인 페이지에 사용될 전체 명단 데이터 파일명
+MEMBERS_22ND_NAME = "members_22nd_name.json" # 메인 페이지에 사용될 의원 이름 목록 파일명
 
 # Kiwi 초기화 (사용자 사전 추가나 옵션 설정이 가능합니다)
 kiwi = Kiwi()
@@ -120,6 +121,9 @@ def export_integrated_insight():
         json.dump(format_mongo_data(members), f, ensure_ascii=False, indent=4)
     print(f"✅ [MAIN] {MAIN_PAGE_MEMBERS_ALL_DATA_FILE} 생성 완료")
 
+    # 22대 의원 이름 목록 저장
+    generate_member_map(members)
+
     start_time = time.time()
 
     # 2. 의원별 개별 분석 및 파일 생성
@@ -173,6 +177,25 @@ def export_integrated_insight():
     duration = time.time() - start_time
     print("\n" + "=" * 80)
     print(f"🏁 [FINISH] 총 {total_members}명 분석 완료. 소요시간: {duration:.2f}초")
+
+def generate_member_map(members):
+    """
+    의원 전체 명단에서 코드와 이름만 추출하여 매핑 테이블 생성
+    """
+    # 딕셔너리 컴프리헨션으로 {코드: 이름} 추출
+    member_map = {
+        m.get('NAAS_CD'): m.get('NAAS_NM') or m.get('HG_NM') 
+        for m in members 
+        if m.get('NAAS_CD')
+    }
+    
+    # 파일 저장
+    file_path = os.path.join(EXPORT_DIR, MEMBERS_22ND_NAME)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(member_map, f, ensure_ascii=False, indent=4)
+    
+    print(f"✅ [MAIN] {MEMBERS_22ND_NAME} 생성 완료 (총 {len(member_map)}명)")
+    return member_map
 
 if __name__ == "__main__":
     export_integrated_insight()

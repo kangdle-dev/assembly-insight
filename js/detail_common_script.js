@@ -7,6 +7,8 @@ const naasId = appTag ? appTag.getAttribute('data-id') : new URLSearchParams(win
 let allBills = []; 
 let allNews = [];
 let allVideos = [];
+let memberNameMap = {};
+const MEMBERS_22ND_NAME = "members_22nd_name.json"; // 22대 의원 이름 매핑 파일명
 
 document.addEventListener('DOMContentLoaded', () => {
     if (!naasId) return;
@@ -15,7 +17,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadMemberData() {
     try {
-        const response = await fetch(`/data_export/${naasId}.json`);
+        // 이름 매핑을 먼저 로드
+        await loadMemberMap();
+
+        const response = await fetch(`/data_export/${naasId}.json`);        
+
         if (!response.ok) throw new Error("File Not Found");
         const data = await response.json();
         renderPage(data);
@@ -50,6 +56,7 @@ function renderPage(data) {
     renderPolicyChart(analysis.policy_stats);
     renderTrendChart(analysis.trend_news);
     renderKeywordChart(analysis.keyword_frequency);
+    renderRelatedMemberTags(recent_news);
 
     // 4. 리스트 렌더링 (더보기 기능 포함)
     renderBillsTable(recent_bills);
@@ -411,4 +418,73 @@ function renderKeywordChart(keywordFrequency) {
             }
         }
     });
+}
+
+
+
+/**
+ * 1. 의원 이름 매핑 데이터 로드 (빌드된 JSON 활용)
+ */
+async function loadMemberMap() {
+    try {
+        const response = await fetch(`/data_export/${MEMBERS_22ND_NAME}`);        
+        const data = await response.json();
+        
+        // 데이터가 리스트 형태라면 {코드: 이름} 딕셔너리로 변환
+        if (Array.isArray(data)) {
+            data.forEach(m => {
+                const code = m.NAAS_CD || m.naas_cd;
+                const name = m.NAAS_NM || m.hg_nm || m.HG_NM;
+                if (code) memberNameMap[code] = name;
+            });
+        } else {
+            memberNameMap = data; // 이미 딕셔너리 형태인 경우
+        }
+    } catch (error) {
+        console.error("이름 매핑 파일 로드 실패:", error);
+    }
+}
+
+/**
+ * 2. 관련 의원 해시태그 렌더링
+ */
+function renderRelatedMemberTags(newsList) {
+    const container = document.getElementById('related-member-tags');
+    if (!newsList || !container) return;
+
+    // 빈도수 집계
+    const counts = {};
+    newsList.forEach(news => {
+        if (news.related_members) {
+            news.related_members.forEach(id => {
+                if (id !== naasId) counts[id] = (counts[id] || 0) + 1;
+            });
+        }
+    });
+
+    const sortedMembers = Object.entries(counts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10); // 상위 10명 추출
+
+    if (sortedMembers.length === 0) {
+        container.innerHTML = '<p class="text-slate-300 text-xs italic">최근 공동 언급된 동료 의원이 없습니다.</p>';
+        return;
+    }
+
+    container.innerHTML = sortedMembers.map(([id, count], index) => {
+        // 매핑 테이블에서 이름 찾기
+        const name = memberNameMap[id] || `의원(${id.substring(0,4)})`;
+        
+        // 순위에 따른 폰트 크기 및 색상 차등 (가독성 최적화)
+        let sizeClass = "text-[12px] px-3 py-1.5 bg-slate-50 text-slate-500 border border-slate-100"; // 기본
+        if (index === 0) sizeClass = "text-[18px] px-5 py-2 bg-blue-600 text-white font-black shadow-md"; // 1위
+        else if (index < 4) sizeClass = "text-[15px] px-4 py-2 bg-blue-50 text-blue-700 font-bold border border-blue-100"; // 2~4위
+
+        return `
+            <a href="./${id}.html" 
+               class="inline-block rounded-full transition-all hover:scale-110 active:scale-95 shadow-sm ${sizeClass}"
+               title="공동 뉴스 출연 ${count}회">
+                #${name}
+            </a>`;
+    }).join('');
 }
