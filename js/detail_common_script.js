@@ -49,6 +49,7 @@ function renderPage(data) {
     // 3. 차트 렌더링
     renderPolicyChart(analysis.policy_stats);
     renderTrendChart(analysis.trend_news);
+    renderKeywordChart(analysis.keyword_frequency);
 
     // 4. 리스트 렌더링 (더보기 기능 포함)
     renderBillsTable(recent_bills);
@@ -147,14 +148,14 @@ function renderBillsTable(bills) {
 
         return `
             <tr class="hover:bg-slate-50/50 transition-colors border-b border-slate-50 cursor-pointer" onclick="window.open('${link}', '_blank')">
-                <td class="p-4"><span class="px-2 py-0.5 rounded-md text-[10px] font-bold ${badgeClass}">${result}</span></td>
-                <td class="p-4 font-bold text-slate-700 text-sm">
+                <td class="p-4"><span class="px-2 py-0.5 rounded-md text-[12px] font-bold ${badgeClass}">${result}</span></td>
+                <td class="p-4 font-bold text-slate-700 text-[15px]">
                     <div class="flex items-center gap-1">
                         <span class="truncate max-w-[150px] md:max-w-none">${bill.BILL_NAME || ""}</span>
-                        <i class="fa-solid fa-arrow-up-right-from-square text-[9px] text-slate-300"></i>
+                        <i class="fa-solid fa-arrow-up-right-from-square text-[11px] text-slate-300"></i>
                     </div>
                 </td>
-                <td class="p-4 text-[11px] text-slate-400 font-mono text-right">${(bill.PROPOSE_DT || "").substring(0, 10)}</td>
+                <td class="p-4 text-[12px] text-slate-400 font-mono text-right">${(bill.PROPOSE_DT || "").substring(0, 10)}</td>
             </tr>`;
     };
 
@@ -212,7 +213,7 @@ function renderNews(news) {
                         <span class="text-[12px] font-bold text-blue-500 uppercase tracking-tight">${item.press || 'Media'}</span>
                         <span class="text-[12px] text-slate-400">${item.pubDate ? new Date(item.pubDate).toLocaleString() : ""}</span>
                     </div>
-                    <h4 class="text-sm font-bold text-slate-800 leading-snug line-clamp-2">${item.title.replace(/<[^>]*>?/gm, '')}</h4>
+                    <h4 class="text-[15px] font-bold text-slate-800 leading-snug line-clamp-2">${item.title.replace(/<[^>]*>?/gm, '')}</h4>
                 </a>
             </li>`;
     };
@@ -221,7 +222,7 @@ function renderNews(news) {
     // 더보기 버튼 동적 노출
     if (allNews.length > 10 && moreBtnContainer) {
         moreBtnContainer.innerHTML = `
-            <button onclick="expandNews()" class="w-full py-4 text-xs font-bold text-slate-400 hover:text-blue-600 transition-colors bg-slate-50/30">
+            <button onclick="expandNews()" class="w-full py-4 text-sm font-bold text-slate-400 hover:text-blue-600 transition-colors bg-slate-50/30">
                 뉴스 더보기 (${allNews.length - 10}건) <i class="fa-solid fa-chevron-down ml-1"></i>
             </button>
         `;
@@ -268,7 +269,7 @@ function renderVideos(videos) {
                     <div class="absolute inset-0 bg-black/10 flex items-center justify-center"><i class="fa-solid fa-play text-white text-xs opacity-80"></i></div>
                 </div>
                 <div class="flex flex-col justify-center min-w-0">
-                    <h4 class="text-[14px] font-bold text-slate-800 line-clamp-2 leading-tight group-hover:text-blue-600 transition-colors">${item.title}</h4>
+                    <h4 class="text-[15px] font-bold text-slate-800 line-clamp-2 leading-tight group-hover:text-blue-600 transition-colors">${item.title}</h4>
                     <span class="text-[12px] text-slate-400 mt-1">${item.channel || 'YouTube'}</span>
                 </div>
             </a>`;
@@ -278,7 +279,7 @@ function renderVideos(videos) {
     // 더보기 버튼 동적 노출
     if (allVideos.length > 10 && moreBtnContainer) {
         moreBtnContainer.innerHTML = `
-            <button onclick="expandVideos()" class="w-full py-4 text-xs font-bold text-slate-400 hover:text-blue-600 transition-colors bg-slate-50/30">
+            <button onclick="expandVideos()" class="w-full py-4 text-sm font-bold text-slate-400 hover:text-blue-600 transition-colors bg-slate-50/30">
                 영상 더보기 (${allVideos.length - 10}건) <i class="fa-solid fa-chevron-down ml-1"></i>
             </button>
         `;
@@ -376,4 +377,38 @@ function toggleMobileProfile() {
         btn.innerHTML = '상세정보 접기 <i class="fa-solid fa-chevron-up"></i>';
         if (gradient) gradient.classList.add('hidden');
     }
+}
+
+/**
+ * 키워드 빈도수 가로 바 차트 렌더링
+ */
+function renderKeywordChart(keywordFrequency) {
+    if (!keywordFrequency || !document.getElementById('keywordChart')) return;
+
+    const ctx = document.getElementById('keywordChart').getContext('2d');
+    const topKeywords = keywordFrequency.slice(0, 7); // 상위 7개 추출
+
+    new Chart(ctx, {
+        type: 'bar', // 가로 바 차트
+        data: {
+            labels: topKeywords.map(k => k.text),
+            datasets: [{
+                label: '언급 횟수',
+                data: topKeywords.map(k => k.value),
+                backgroundColor: 'rgba(59, 130, 246, 0.8)',
+                borderRadius: 8,
+                barThickness: 15
+            }]
+        },
+        options: {
+            indexAxis: 'y', // 가로 방향 설정
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+                x: { grid: { display: false }, ticks: { display: false }, border: { display: false } },
+                y: { grid: { display: false }, border: { display: false }, ticks: { font: { size: 11, weight: 'bold' } } }
+            }
+        }
+    });
 }
