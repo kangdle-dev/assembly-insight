@@ -246,7 +246,7 @@ function expandNews() {
         const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleString('ko-KR') : "";
         return `
             <li class="p-5 active:bg-slate-50 transition-colors border-b border-slate-50">
-                <a href="${item.link}" target="_blank" class="block">
+                <a href="${item.originallink}" target="_blank" class="block">
                     <div class="flex items-center gap-2 mb-2">
                         <span class="text-[12px] font-bold text-blue-500 uppercase tracking-tight">${item.press || 'Media'}</span>
                         <span class="text-[12px] text-slate-400">${dateStr}</span>
@@ -481,7 +481,7 @@ function renderRelatedMemberTags(newsList) {
         else if (index < 4) sizeClass = "text-[15px] px-4 py-2 bg-blue-50 text-blue-700 font-bold border border-blue-100"; // 2~4위
 
         return `
-            <a href="./${id}.html" 
+            <a href="./${name}.html" 
                class="inline-block rounded-full transition-all hover:scale-110 active:scale-95 shadow-sm ${sizeClass}"
                title="공동 뉴스 출연 ${count}회">
                 #${name}
