@@ -45,8 +45,8 @@
             "해임",
             "독립기념관",
             "관장",
-            "이사회",
             "김형석",
+            "이사회",
             "이사",
             "보훈",
             "의결",
@@ -54,9 +54,9 @@
             "독립",
             "기념관",
             "증손자",
+            "고발",
             "요구",
-            "김구",
-            "감사"
+            "김구"
         ],
         "keyword_frequency": [
             {
@@ -65,31 +65,31 @@
             },
             {
                 "text": "독립기념관",
-                "value": 54
+                "value": 50
             },
             {
                 "text": "관장",
                 "value": 49
             },
             {
+                "text": "김형석",
+                "value": 47
+            },
+            {
                 "text": "이사회",
                 "value": 43
             },
             {
-                "text": "김형석",
-                "value": 43
-            },
-            {
                 "text": "이사",
-                "value": 25
-            },
-            {
-                "text": "보훈",
                 "value": 24
             },
             {
+                "text": "보훈",
+                "value": 23
+            },
+            {
                 "text": "의결",
-                "value": 20
+                "value": 21
             },
             {
                 "text": "요구안",
@@ -108,28 +108,28 @@
                 "value": 17
             },
             {
+                "text": "고발",
+                "value": 16
+            },
+            {
                 "text": "요구",
                 "value": 16
             },
             {
                 "text": "김구",
                 "value": 15
-            },
-            {
-                "text": "감사",
-                "value": 15
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:39:57.829878",
+        "last_analyzed_at": "2026-02-06T15:38:16.202592",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
@@ -137,17 +137,17 @@
                 0,
                 0,
                 0,
-                0,
-                0
+                3,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김용만 의원은 주로 국가유공자, 보훈 및 사회 안전과 관련된 정책 분야에 집중하며, 사회적 약자 보호를 지향하는 입법 활동을 통해 국민의 복지와 안전을 개선하는 데 주력하고 있습니다. 특히 독립유공자 예우 및 스토킹 범죄 처벌 관련 법안들을 통해 국민의 실생활과 직결된 안전한 사회 환경 조성을 위한 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,78 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c138b0cf40969783d4",
+            "link": "https://n.news.naver.com/mnews/article/052/0002311092?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "유영하 의원도 국회증언감정법 개정안을 언급하며, 위원장이 자기 명의로 고발하는 걸 거부할 때 과반... 박범계 의원도 윤한홍 위원장에게 팔짱 끼고 있지 말고 위원장이 선도적으로 나쁜 사람을 추려 고발하자고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602060258598469",
+            "press": "YTN",
+            "pubDate": "2026-02-06T02:58:00",
+            "related_members": [
+                "GX22581L",
+                "JZV5283U",
+                "GF286398",
+                "NB64509Z",
+                "8X15119P",
+                "7R156073"
+            ],
+            "title": "여야, 정무위서 범여권 주도 '위증' 증인 고발 놓고 충돌"
+        },
+        {
+            "_id": "698545c138b0cf40969783d5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008756630?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "강 의원은 \"국회 증언 감정법상 위원회 고발 절차는 명확하다. 위원회 의결이 선행돼야 하고 그에 따라... 않나\"라며 \"(윤한홍) 위원장께서 선도적으로 양당 간사를 불러 모아 진짜 나쁜 사람들이 있다면 추려서 고발을 하자... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6063741",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T16:41:00",
+            "related_members": [
+                "GX22581L",
+                "GF286398",
+                "5KV96424",
+                "NB64509Z",
+                "7R156073",
+                "JZV5283U",
+                "8X15119P"
+            ],
+            "title": "정무위, 김병주·김형석 '증감법 고발' 설전…22분만에 파행"
+        },
+        {
+            "_id": "698545c138b0cf40969783d6",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310780?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "유영하 의원도 국회증언감정법 개정안을 언급하며, 위원장이 자기 명의로 고발하는 걸 거부할 때 과반... 박범계 의원도 윤한홍 위원장에게 팔짱 끼고 있지 말고 위원장이 선도적으로 나쁜 사람을 추려 고발하자고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602051435446190",
+            "press": "YTN",
+            "pubDate": "2026-02-05T14:35:00",
+            "related_members": [
+                "GX22581L",
+                "JZV5283U",
+                "GF286398",
+                "NB64509Z",
+                "8X15119P",
+                "7R156073"
+            ],
+            "title": "여야, 정무위서 범여권 주도 '위증' 증인 고발 놓고 충돌"
+        },
+        {
+            "_id": "698545c138b0cf40969783d7",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588597?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "같은 당 유영하 의원도 국회증언감정법의 개정으로 재적 위원 과반수의 연서(서명)로 위증 등을 고발할 수... 지난 1년간 국민의힘 소속 윤한홍 정무위원장에게 문제의 증인들에 대해 정무위 차원의 고발을 촉구했지만... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/05/2026020590103.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-05T13:51:00",
+            "related_members": [
+                "GX22581L",
+                "GF286398",
+                "NB64509Z",
+                "JZV5283U",
+                "8X15119P"
+            ],
+            "title": "여야, 정무위서 '김병주·김형석 위증' 범與 주도 고발 놓고 설전"
+        },
         {
             "_id": "6972d1ee8459600028997693",
             "link": "https://n.news.naver.com/mnews/article/021/0002765328?sid=100",
@@ -477,30 +549,6 @@
             "title": "독립기념관, '김형석 해임 논의' 이사회 이르면 내주 개최"
         },
         {
-            "_id": "696594a6887d07f7ba2fab3c",
-            "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
-            "created_at": "2026-01-13T09:41:09.070000",
-            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 17:00 김우영 의원실, K-청년 라운드 우리의 언어로 문화를 보다: [2주차] K-기술과 K-컬처: 과연 연관성이... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6036526",
-            "press": "뉴스1",
-            "pubDate": "2026-01-13T05:00:00",
-            "related_members": [
-                "NB64509Z",
-                "CC78321E",
-                "3UI95829",
-                "DWK26447",
-                "3TP65086",
-                "1WE5693J",
-                "6AU2417B",
-                "VRY5522V",
-                "K5F2023J",
-                "8348421R",
-                "9HE7226N",
-                "KNP22261"
-            ],
-            "title": "[오늘의 국회일정] (13일, 화)"
-        },
-        {
             "_id": "696594a6887d07f7ba2fab3b",
             "link": "https://n.news.naver.com/mnews/article/003/0013706318?sid=100",
             "created_at": "2026-01-13T09:41:09.070000",
@@ -523,6 +571,30 @@
                 "KNP22261"
             ],
             "title": "[오늘의 주요일정]국회(1월13일 화요일)"
+        },
+        {
+            "_id": "696594a6887d07f7ba2fab3c",
+            "link": "https://n.news.naver.com/mnews/article/421/0008709927?sid=100",
+            "created_at": "2026-01-13T09:41:09.070000",
+            "description": "= ◇국회의장 10:00 「웡 카이쥔」주한싱가포르대사 접견 / 의장집무실 15:30 2026 중소기업인 신년인사회... 17:00 김우영 의원실, K-청년 라운드 우리의 언어로 문화를 보다: [2주차] K-기술과 K-컬처: 과연 연관성이... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6036526",
+            "press": "뉴스1",
+            "pubDate": "2026-01-13T05:00:00",
+            "related_members": [
+                "NB64509Z",
+                "CC78321E",
+                "3UI95829",
+                "DWK26447",
+                "3TP65086",
+                "1WE5693J",
+                "6AU2417B",
+                "VRY5522V",
+                "K5F2023J",
+                "8348421R",
+                "9HE7226N",
+                "KNP22261"
+            ],
+            "title": "[오늘의 국회일정] (13일, 화)"
         },
         {
             "_id": "6964b542631fd17434996011",
@@ -682,21 +754,6 @@
                 "T6A6557F"
             ],
             "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b54f631fd1743499611b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012088439?sid=100",
-            "created_at": "2026-01-12T17:48:12.365000",
-            "description": "독립기념관 이사인 더불어민주당 김용만, 문진석, 송옥주 의원은 어제 국회에서 기자회견을 열어 보훈부가 지난 5일 감사 결과를 통보했지만 독립기념관이 이를 이사회에 알리지 않아 이사회의 감시, 심의 능을... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8436677&ref=A",
-            "press": "KBS",
-            "pubDate": "2025-12-18T08:21:00",
-            "related_members": [
-                "4U29186R",
-                "3249208I",
-                "NB64509Z"
-            ],
-            "title": "민주당 “독립기념관장, 감사 결과 미보고…즉각 사퇴”"
         }
     ],
     "recent_videos": [
@@ -745,7 +802,7 @@
             "url": "https://www.youtube.com/watch?v=gtcjshhRR_I",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:07.777000",
+            "collected_at": "2026-02-06T10:41:41.165000",
             "duration": 101.0,
             "title": "'성범죄 혐의' 김용만 회장, 아들 해임하고 대표이사 복귀? [앵커리포트] / YTN",
             "upload_date": null
@@ -775,7 +832,7 @@
             "url": "https://www.youtube.com/watch?v=fR64eZNahb4",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:06.362000",
+            "collected_at": "2026-02-06T10:41:39.885000",
             "duration": 534.0,
             "title": "팩폭으로 김형석 때려잡는 김용만 \"그냥 사퇴하지 마!\"",
             "upload_date": null
@@ -785,7 +842,7 @@
             "url": "https://www.youtube.com/watch?v=6PP9bvCB_3k",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:07.777000",
+            "collected_at": "2026-02-06T10:41:41.165000",
             "duration": 641.0,
             "title": "[생중계] 김용만 더불어민주당 의원, 독립기념관 정상화를 위한 김형석 해임 이사회 소집 요구 (2026.01.13 오전)",
             "upload_date": null
@@ -795,7 +852,7 @@
             "url": "https://www.youtube.com/watch?v=9IHYV66heXQ",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:07.777000",
+            "collected_at": "2026-02-06T10:41:41.165000",
             "duration": 216.0,
             "title": "[자막] 김구 증손자 김용만이 이재명 대통령 앞에서 전한 눈물의 '음수사원'",
             "upload_date": null
@@ -815,7 +872,7 @@
             "url": "https://www.youtube.com/watch?v=1T_i21hT0uc",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:06.362000",
+            "collected_at": "2026-02-06T10:41:39.885000",
             "duration": 318.0,
             "title": "\"백범 김구 증손자 김용만입니다\" 이재명 대통령이 김용만 의원과 꼭 같이 오려고 했던 이유",
             "upload_date": null
@@ -865,7 +922,7 @@
             "url": "https://www.youtube.com/watch?v=qKtjin0OBfI",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:06.362000",
+            "collected_at": "2026-02-06T10:41:39.885000",
             "duration": 1145.0,
             "title": "\"백범 김구 선생님이 테러리스트입니까?\" '김구 증손자' 김용만 의원 뉴라이트 역사왜곡 증거 '우르르' 짚자..",
             "upload_date": null
@@ -875,7 +932,7 @@
             "url": "https://www.youtube.com/watch?v=UYx68JWJuJo",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:06.362000",
+            "collected_at": "2026-02-06T10:41:39.885000",
             "duration": 185.0,
             "title": "난장판 된 대정부 긴급현안질문 중 격돌한 1986년생 박충권 김용만 의원",
             "upload_date": null
@@ -885,7 +942,7 @@
             "url": "https://www.youtube.com/watch?v=7HIhGsX2sOc",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:07.777000",
+            "collected_at": "2026-02-06T10:41:41.165000",
             "duration": 685.0,
             "title": "이재명 대통령 청산리전투 사진에 관심보이자 백범 김구 선생 증손자 김용만 의원이 전한 숨은 이야기",
             "upload_date": null
@@ -895,7 +952,7 @@
             "url": "https://www.youtube.com/watch?v=1yPUavH7vBo",
             "HG_NM": "김용만",
             "MONA_CD": "NB64509Z",
-            "collected_at": "2026-02-04T08:33:06.362000",
+            "collected_at": "2026-02-06T10:41:39.885000",
             "duration": 980.0,
             "title": "임시 정부 창설 100주년..백범 김구 선생 앞에선 증손자 김용만 의원",
             "upload_date": null
@@ -1791,5 +1848,5 @@
             "RST_PROPOSER": "김용만"
         }
     ],
-    "exported_at": "2026-02-04T18:39:57.830878"
+    "exported_at": "2026-02-06T15:38:16.202592"
 }

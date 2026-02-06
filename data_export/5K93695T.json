@@ -47,33 +47,41 @@
     },
     "analysis": {
         "keywords": [
-            "대구",
             "국민",
+            "대구",
+            "뮤지컬",
             "선거",
-            "북구",
-            "선관위",
             "문화",
-            "개선",
+            "북구",
+            "간담회",
+            "선관위",
             "정책",
+            "출마",
+            "지방",
+            "정개특위",
             "제도",
             "질문",
-            "정개특위",
-            "장관",
-            "간담회",
-            "출마",
-            "지방"
+            "한국"
         ],
         "keyword_frequency": [
             {
-                "text": "대구",
-                "value": 16
+                "text": "국민",
+                "value": 18
             },
             {
-                "text": "국민",
+                "text": "대구",
                 "value": 15
             },
             {
+                "text": "뮤지컬",
+                "value": 13
+            },
+            {
                 "text": "선거",
+                "value": 13
+            },
+            {
+                "text": "문화",
                 "value": 12
             },
             {
@@ -81,19 +89,27 @@
                 "value": 12
             },
             {
-                "text": "선관위",
-                "value": 11
-            },
-            {
-                "text": "문화",
+                "text": "간담회",
                 "value": 10
             },
             {
-                "text": "개선",
-                "value": 9
+                "text": "선관위",
+                "value": 10
             },
             {
                 "text": "정책",
+                "value": 9
+            },
+            {
+                "text": "출마",
+                "value": 8
+            },
+            {
+                "text": "지방",
+                "value": 8
+            },
+            {
+                "text": "정개특위",
                 "value": 8
             },
             {
@@ -105,54 +121,38 @@
                 "value": 8
             },
             {
-                "text": "정개특위",
+                "text": "한국",
                 "value": 7
-            },
-            {
-                "text": "장관",
-                "value": 7
-            },
-            {
-                "text": "간담회",
-                "value": 6
-            },
-            {
-                "text": "출마",
-                "value": 6
-            },
-            {
-                "text": "지방",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:39:56.054940",
+        "last_analyzed_at": "2026-02-06T15:38:14.609505",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                1,
-                0,
                 0,
                 0,
                 0,
                 3,
-                2
+                5,
+                1,
+                0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김승수 의원은 주로 문화 및 체육 분야에 집중하며, 혁신가적인 입법 활동을 통해 국민의 복지와 문화적 권리를 개선하는 데 주력하고 있습니다. 특히 체육인 복지법, 문화산업진흥 기본법 등 관련 법안들을 통해 국민의 실생활과 직결된 복지 향상과 문화 산업의 발전을 만들어내는 행보를 보입니다.\"",
@@ -167,10 +167,67 @@
     },
     "recent_news": [
         {
+            "_id": "698545c738b0cf4096978439",
+            "link": "https://n.news.naver.com/mnews/article/015/0005247058?sid=103",
+            "created_at": "2026-02-06T10:37:09.903000",
+            "description": "이어서 국회의원회관 6간담회의실에서는 연계 행사로 정책간담회가 진행되었는데, 국민의힘 이상휘·이소희 의원, 조국혁신당 김재원 의원을 비롯해 문화산업 및 뮤지컬계 관계자들이 참석하여 뮤지컬 산업의... ",
+            "originallink": "https://www.hankyung.com/article/202602054993h",
+            "press": "한국경제",
+            "pubDate": "2026-02-05T07:34:00",
+            "related_members": [
+                "ZRF3039U",
+                "X7I4680R",
+                "SLW27496",
+                "5K93695T",
+                "DMP1439I",
+                "8L52480G"
+            ],
+            "title": "한국뮤지컬 60주년 및 DIMF 20주년 기념 전시·정책간담회 열려"
+        },
+        {
+            "_id": "698545ce38b0cf4096978462",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310293?sid=103",
+            "created_at": "2026-02-06T10:37:16.697000",
+            "description": "한국뮤지컬협회는 오늘 오후 서울 여의도 국회 의원회관에서 이종규 뮤지컬협회 이사장과, 국민의힘 김승수 의원, 문화체육관광부 김영수 1차관, 배우 송승환과 차지연 등이 참석한 가운데 개막식을 열었습니다. 국회... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0106_202602041617060738",
+            "press": "YTN",
+            "pubDate": "2026-02-04T16:17:00",
+            "related_members": [
+                "5K93695T"
+            ],
+            "title": "국회서 한국뮤지컬 60주년 기념 특별전...'온 스테이지: K뮤지컬'"
+        },
+        {
+            "_id": "698545ce38b0cf4096978463",
+            "link": "https://n.news.naver.com/mnews/article/056/0012118685?sid=103",
+            "created_at": "2026-02-06T10:37:16.697000",
+            "description": "국회 문체위 소속 김승수 의원 등이 주최한 이번 간담회에서는 DIMF를 비롯해 한국 뮤지컬의 역사와 발전 방안을 주제로 한 발제와 지정 토론이 이뤄집니다. 전시회는 내일(5일)까지 국회의원회관 제2 로비에서... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477225&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T13:47:00",
+            "related_members": [
+                "5K93695T"
+            ],
+            "title": "국회서 DIMF 20주년 기념 간담회 열려"
+        },
+        {
+            "_id": "698545ce38b0cf4096978464",
+            "link": "https://n.news.naver.com/mnews/article/056/0012118529?sid=100",
+            "created_at": "2026-02-06T10:37:16.697000",
+            "description": "[김승수/국민의힘 국회의원/지난달 26일 : \"'자치구들을 그대로 인정할 것이냐, 말 것이냐'에 따라 가지고 '구청장 선거와 지방의회, 구의회가 있는 것이냐, 없을 것이냐'도 굉장히 결과가 달라집니다.\"] 반면 현역 신분인... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477016&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T10:08:00",
+            "related_members": [
+                "5K93695T"
+            ],
+            "title": "예비후보 등록 시작인데…‘나는 어디로 출마?’"
+        },
+        {
             "_id": "6982826738b0cf4096977ca9",
             "link": "https://n.news.naver.com/mnews/article/003/0013747207?sid=100",
             "created_at": "2026-02-04T08:19:02.341000",
-            "description": "김위상 의원실, 외국인력 정책과 개선과 지속가능한 상생 방안(의원회관 제7간담회의실) 14:00 차지호... 전 국회의원, 인천 검단구청장 출마선언 기자회견 10:40 이용우 의원, 한국노총 금속노련 소속 포스코 하청... ",
+            "description": "10:20 허종식 의원, 허숙정 전 국회의원, 인천 검단구청장 출마선언 기자회견 10:40 이용우 의원, 한국노총 금속노련 소속 포스코 하청 노동자 원청교섭 선포 기자회견 11:00 윤종오 의원, 소상공인 경영안정 바우처... ",
             "originallink": "https://www.newsis.com/view/NISX20260203_0003501377",
             "press": "뉴시스",
             "pubDate": "2026-02-04T05:00:00",
@@ -196,7 +253,8 @@
                 "DAV7257X",
                 "P8A4624C",
                 "JQA21112",
-                "BNV6535N"
+                "BNV6535N",
+                "CC78321E"
             ],
             "title": "[오늘의 주요일정]국회(2월4일 수요일)"
         },
@@ -204,7 +262,7 @@
             "_id": "6982826738b0cf4096977ca8",
             "link": "https://n.news.naver.com/mnews/article/421/0008751829?sid=100",
             "created_at": "2026-02-04T08:19:02.341000",
-            "description": "김위상 의원실, 외국인력 정책과 개선과 지속가능한 상생 방안(의원회관 제7간담회의실) 14:00 차지호... 전 국회의원, 인천 검단구청장 출마선언 기자회견] 10:40 이용우 의원, [한국노총 금속노련 소속 포스코 하청... ",
+            "description": "10:20 허종식 의원, [허숙정 전 국회의원, 인천 검단구청장 출마선언 기자회견] 10:40 이용우 의원, [한국노총 금속노련 소속 포스코 하청 노동자 원청교섭 선포 기자회견] 11:00 윤종오 의원, [소상공인 경영안정... ",
             "originallink": "https://www.news1.kr/politics/assembly/6061005",
             "press": "뉴스1",
             "pubDate": "2026-02-04T05:00:00",
@@ -230,7 +288,8 @@
                 "DAV7257X",
                 "P8A4624C",
                 "JQA21112",
-                "BNV6535N"
+                "BNV6535N",
+                "CC78321E"
             ],
             "title": "[오늘의 국회일정] (4일, 수)"
         },
@@ -305,7 +364,7 @@
             "_id": "697cbd2538b0cf4096976b06",
             "link": "https://n.news.naver.com/mnews/article/003/0013731458?sid=100",
             "created_at": "2026-01-30T23:16:05.509000",
-            "description": "임미애 더불어민주당 의원은 이날 국회에서 열린 정개특위 2차 전체회의에서 허철훈 선관위 사무총장을... 정춘생 조국혁신당 의원은 \"특정 정당이 독점하고 있는 지역의 투표율을 알고 있나. 광주는 37.7%, 대구는 42.2%다... ",
+            "description": "바꿔달라'고 국회에 제출해야 한다\"고 했다. 한편 정개특위는 이날 '공직선거법 및 지방선거구제 개편심사소위원회' '정치관계법심사소위원회' 구성의 건도 의결했다. 정개특위 여야 간사인 윤건영 민주당 의원과 조정훈... ",
             "originallink": "https://www.newsis.com/view/NISX20260126_0003490875",
             "press": "뉴시스",
             "pubDate": "2026-01-26T20:31:00",
@@ -486,7 +545,7 @@
             "url": "https://www.youtube.com/watch?v=1EW4Sb4v8L4",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 121.0,
             "title": "'성남 FC'관련 김승수 의원 대정부 질문[국민의힘 대구북구을 김승수 국회의원]",
             "upload_date": null
@@ -526,7 +585,7 @@
             "url": "https://www.youtube.com/watch?v=W0mpZChNKoY",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:44.613000",
+            "collected_at": "2026-02-06T10:41:18.659000",
             "duration": 375.0,
             "title": "[긴급속보] '박세리-김승수, 비공개 결혼 발표'…세기의 커플 탄생인 줄 알았더니 [아침&매일경제]",
             "upload_date": null
@@ -536,7 +595,7 @@
             "url": "https://www.youtube.com/watch?v=Jokcvti-TzE",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 80.0,
             "title": "[김승수 국회의원 대정부질문 영상 - 간첩과 함께 방북한 국무위원! 명확한 답을 내지 못하는 김민석 총리!]",
             "upload_date": null
@@ -556,7 +615,7 @@
             "url": "https://www.youtube.com/watch?v=ixIoc6K7Rwk",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 164.0,
             "title": "[김승수 국회의원 Youtube 영상 - 국회 문체위 전체회의, 자료제출 안하는 최휘영 후보자! 검증을 위한 자료제출에 적극 응해야!]",
             "upload_date": null
@@ -576,7 +635,7 @@
             "url": "https://www.youtube.com/watch?v=HwsBpTrDeZQ",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 713.0,
             "title": "[대구 북구을 국회의원 김승수] 뉴스핌 정치이너뷰",
             "upload_date": null
@@ -586,7 +645,7 @@
             "url": "https://www.youtube.com/watch?v=3a7dQg4xHhA",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 122.0,
             "title": "김승수 20250821 제428회 국회 임시회  제02차 문화체육관광위원회 김승수위원국민의힘질의최휘영장관문화 H 634611 1 1",
             "upload_date": null
@@ -606,7 +665,7 @@
             "url": "https://www.youtube.com/watch?v=VPQinf1rGo8",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 152.0,
             "title": "[김승수 국회의원 - 수해피해 상황서도 그대로 진행된 광복절 전야제, 중복행사로 취지도 훼손 돼!]",
             "upload_date": null
@@ -626,7 +685,7 @@
             "url": "https://www.youtube.com/watch?v=UC-P15fmnNHOYk6_G8nRLm8Q",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": null,
             "title": "김승수 대구북구을 국회의원",
             "upload_date": null
@@ -646,7 +705,7 @@
             "url": "https://www.youtube.com/watch?v=z75afy4f5dk",
             "HG_NM": "김승수",
             "MONA_CD": "5K93695T",
-            "collected_at": "2026-02-04T08:32:43.221000",
+            "collected_at": "2026-02-06T10:41:17.277000",
             "duration": 280.0,
             "title": "[대구 북구을 국회의원 김승수] 2026 병오년 신년 인사, 새해 복 많이 받으십시오",
             "upload_date": null
@@ -2152,5 +2211,5 @@
             "RST_PROPOSER": "김승수"
         }
     ],
-    "exported_at": "2026-02-04T18:39:56.054940"
+    "exported_at": "2026-02-06T15:38:14.609505"
 }

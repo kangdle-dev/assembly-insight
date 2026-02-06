@@ -58,33 +58,33 @@
     "analysis": {
         "keywords": [
             "전남",
-            "통합",
             "광주",
+            "통합",
             "시장",
             "민주당",
-            "김영록",
             "후보",
+            "김영록",
             "특별",
-            "지사",
             "신정훈",
-            "확진",
             "더불어민주당",
+            "확진",
             "담양",
             "강기정",
-            "정준"
+            "정준",
+            "선거"
         ],
         "keyword_frequency": [
             {
                 "text": "전남",
-                "value": 52
-            },
-            {
-                "text": "통합",
-                "value": 43
+                "value": 45
             },
             {
                 "text": "광주",
-                "value": 40
+                "value": 38
+            },
+            {
+                "text": "통합",
+                "value": 38
             },
             {
                 "text": "시장",
@@ -95,32 +95,28 @@
                 "value": 21
             },
             {
-                "text": "김영록",
-                "value": 19
-            },
-            {
                 "text": "후보",
                 "value": 18
+            },
+            {
+                "text": "김영록",
+                "value": 15
             },
             {
                 "text": "특별",
                 "value": 14
             },
             {
-                "text": "지사",
-                "value": 13
-            },
-            {
                 "text": "신정훈",
                 "value": 13
             },
             {
-                "text": "확진",
+                "text": "더불어민주당",
                 "value": 12
             },
             {
-                "text": "더불어민주당",
-                "value": 11
+                "text": "확진",
+                "value": 12
             },
             {
                 "text": "담양",
@@ -133,36 +129,40 @@
             {
                 "text": "정준",
                 "value": 11
+            },
+            {
+                "text": "선거",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:29.884991",
+        "last_analyzed_at": "2026-02-06T15:38:45.286520",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                1,
                 0,
                 3,
                 6,
                 5,
+                0,
+                2,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이개호 의원은 주로 복지 및 지역 균형 발전에 집중하며, 개혁가적 입법 활동을 통해 사회적 약자와 지역 주민의 삶을 개선하는 데 주력하고 있습니다. 특히 장애인, 노인, 농어촌 관련 법안들을 통해 국민의 실생활과 직결된 복지 향상과 지역 균형 발전의 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -176,6 +176,34 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545f138b0cf4096978517",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596447?sid=101",
+            "created_at": "2026-02-06T10:37:51.842000",
+            "description": "이개호 더불어민주당 국회의원은 이날 페이스북에 “1992년 처음 만났을 당시 허름한 점퍼 차림에 털털한 운동화를 신고 다니던 검소한 모습이 기억에 남는다”며 “가장 건실했던 사업가, 가장 모범적인 기업인, 가장... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670365?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T11:35:00",
+            "related_members": [
+                "M7O7878U",
+                "I7R13867"
+            ],
+            "title": "“늘 따뜻했던 巨木”…‘원칙으로 길을 만든 어른’ 영면하다 [故 정창..."
+        },
+        {
+            "_id": "698545f138b0cf4096978518",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596275?sid=101",
+            "created_at": "2026-02-06T10:37:51.842000",
+            "description": "[광주=박해묵 기자] 이개호 더불어민주당 국회의원은 이날 페이스북에 “1992년 처음 만났을 당시 허름한 점퍼 차림에 털털한 운동화를 신고 다니던 검소한 모습이 기억에 남는다”며 “가장 건실했던 사업가, 가장... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670164?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T10:07:00",
+            "related_members": [
+                "M7O7878U",
+                "I7R13867"
+            ],
+            "title": "“늘 따뜻했던 거목의 그림자” 故 정창선 회장 추도식 거행"
+        },
         {
             "_id": "6981c76938b0cf4096977b60",
             "link": "https://n.news.naver.com/mnews/article/421/0008751521?sid=102",
@@ -714,56 +742,6 @@
                 "IN328264"
             ],
             "title": "김영록 전남도지사, '진심 정치' 북콘서트 '대성황'"
-        },
-        {
-            "_id": "69701242297082fcc2b34ca7",
-            "link": "https://n.news.naver.com/mnews/article/022/0004098474?sid=102",
-            "created_at": "2026-01-21T08:39:45.063000",
-            "description": "또 문재인 전 대통령, 우원식 국회의장, 김민석 국무총리, 정청래 더불어민주당 대표, 한병도 원내대표, 이언주 수석최고위원, 정세균·문희상 전 국회의장, 조정식 대통령 정무특보, 이철우 경북도지사, 이개호 국회의원... ",
-            "originallink": "https://www.segye.com/newsView/20260118509016?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-18T19:01:00",
-            "related_members": [
-                "GRP3908I",
-                "EB16073M",
-                "H5476989",
-                "I7R13867",
-                "XBT9550Q",
-                "IN328264",
-                "MLH1404S",
-                "JG77046J",
-                "2385336L",
-                "8BF5855P",
-                "9HE7226N",
-                "IC499858",
-                "86R9476S"
-            ],
-            "title": "김영록 전남도지사 “광주·전남 대통합으로 전례 없는 도약 이끌 것”"
-        },
-        {
-            "_id": "69701242297082fcc2b34ca9",
-            "link": "https://n.news.naver.com/mnews/article/003/0013716802?sid=102",
-            "created_at": "2026-01-21T08:39:45.063000",
-            "description": "국회의장, 조정식 대통령 정무특보, 이철우 경북도지사, 이개호 국회의원 등은 축하 영상과 축전을 보냈다. 김 지사는 지역 최대 이슈로 부상한 광주·전남 대통합을 전격 제안한 이유에 대해 \"지금까지 산업화시대에... ",
-            "originallink": "https://www.newsis.com/view/NISX20260118_0003480965",
-            "press": "뉴시스",
-            "pubDate": "2026-01-18T18:04:00",
-            "related_members": [
-                "GRP3908I",
-                "8BF5855P",
-                "9HE7226N",
-                "IC499858",
-                "86R9476S",
-                "EB16073M",
-                "I7R13867",
-                "H5476989",
-                "XBT9550Q",
-                "MLH1404S",
-                "JG77046J",
-                "2385336L",
-                "IN328264"
-            ],
-            "title": "김영록 전남지사 \"대통합으로 새 역사 열어가겠다\""
         }
     ],
     "recent_videos": [
@@ -782,7 +760,7 @@
             "url": "https://www.youtube.com/watch?v=WsvcnSySL7Q",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:22.639000",
+            "collected_at": "2026-02-06T10:48:52.917000",
             "duration": 89.0,
             "title": "[YTN 실시간뉴스] 與 이개호 의원 확진...원내대표 선거 비상 / YTN",
             "upload_date": null
@@ -792,7 +770,7 @@
             "url": "https://www.youtube.com/watch?v=UvwlI-xBFlw",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 117.0,
             "title": "민주당 이개호 의원, 코로나19 확진...국회·지역구 비상 / YTN 사이언스",
             "upload_date": null
@@ -812,7 +790,7 @@
             "url": "https://www.youtube.com/watch?v=8HK48-LmVhk",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 120.0,
             "title": "민주당 이개호 의원, 코로나19 확진...국회·지역구 비상 / YTN",
             "upload_date": null
@@ -852,7 +830,7 @@
             "url": "https://www.youtube.com/watch?v=aB7geLqPT_Q",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 1767.0,
             "title": "[국회의원 이개호] 백운기의 정치1번지 이제부터 심판시작!",
             "upload_date": null
@@ -862,7 +840,7 @@
             "url": "https://www.youtube.com/watch?v=u7Ejmo9w5SU",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:22.639000",
+            "collected_at": "2026-02-06T10:48:52.917000",
             "duration": 89.0,
             "title": "이개호 의원) 사실상 '포기'.. 민주당 후보는-R (180309금/뉴스데스크)",
             "upload_date": null
@@ -882,7 +860,7 @@
             "url": "https://www.youtube.com/watch?v=7JQwrcpIctU",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 845.0,
             "title": "[국회의원 이개호] 20241028 연합뉴스TV 1번지 초대석 인터뷰",
             "upload_date": null
@@ -892,7 +870,7 @@
             "url": "https://www.youtube.com/watch?v=U_E4dBVL5WM",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 1185.0,
             "title": "이개호 국회의원 대정부질문 풀영상(2023.2.7)",
             "upload_date": null
@@ -902,7 +880,7 @@
             "url": "https://www.youtube.com/watch?v=3dp3G0JqRSQ",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:22.639000",
+            "collected_at": "2026-02-06T10:48:52.917000",
             "duration": 212.0,
             "title": "[뉴스투데이](이슈와사람) 이개호 더불어민주당 의원",
             "upload_date": null
@@ -912,7 +890,7 @@
             "url": "https://www.youtube.com/watch?v=YjBuZ8iYLTY",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 1297.0,
             "title": "국회의원 25시-제224회, 이개호 의원(새정치민주연합)",
             "upload_date": null
@@ -932,7 +910,7 @@
             "url": "https://www.youtube.com/watch?v=UCkDf-Hsk7mtxsIIecbrZKxw",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": null,
             "title": "이개호",
             "upload_date": null
@@ -942,7 +920,7 @@
             "url": "https://www.youtube.com/watch?v=UOmG_14KiBQ",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 83.0,
             "title": "예고) 가슴 따뜻한 정치 더불어민주당 이개호 의원의 인생책 I 책추천",
             "upload_date": null
@@ -962,7 +940,7 @@
             "url": "https://www.youtube.com/watch?v=XpEFvLYrD2Y",
             "HG_NM": "이개호",
             "MONA_CD": "I7R13867",
-            "collected_at": "2026-02-04T08:40:21.383000",
+            "collected_at": "2026-02-06T10:48:51.631000",
             "duration": 84.0,
             "title": "이개호 의원 확진…현역 국회의원 첫 확진에 국회 긴장 [이슈픽]",
             "upload_date": null
@@ -1906,5 +1884,5 @@
             "RST_PROPOSER": "이개호"
         }
     ],
-    "exported_at": "2026-02-04T18:40:29.884991"
+    "exported_at": "2026-02-06T15:38:45.286520"
 }

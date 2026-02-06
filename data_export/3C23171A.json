@@ -54,19 +54,19 @@
         "keywords": [
             "대표",
             "원내",
-            "민주당",
             "이혜훈",
             "투자",
+            "민주당",
+            "더불어민주당",
             "의혹",
             "선거",
-            "더불어민주당",
-            "한병도",
             "청약",
-            "투표",
-            "후보자",
+            "한병도",
             "대미",
-            "부정",
-            "김병기"
+            "후보자",
+            "투표",
+            "출마",
+            "이날"
         ],
         "keyword_frequency": [
             {
@@ -75,19 +75,23 @@
             },
             {
                 "text": "원내",
-                "value": 32
+                "value": 31
+            },
+            {
+                "text": "이혜훈",
+                "value": 23
+            },
+            {
+                "text": "투자",
+                "value": 22
             },
             {
                 "text": "민주당",
                 "value": 21
             },
             {
-                "text": "이혜훈",
-                "value": 21
-            },
-            {
-                "text": "투자",
-                "value": 19
+                "text": "더불어민주당",
+                "value": 18
             },
             {
                 "text": "의혹",
@@ -98,66 +102,62 @@
                 "value": 16
             },
             {
-                "text": "더불어민주당",
-                "value": 16
-            },
-            {
-                "text": "한병도",
-                "value": 16
-            },
-            {
                 "text": "청약",
                 "value": 14
             },
             {
-                "text": "투표",
-                "value": 13
+                "text": "한병도",
+                "value": 14
+            },
+            {
+                "text": "대미",
+                "value": 12
             },
             {
                 "text": "후보자",
                 "value": 12
             },
             {
-                "text": "대미",
+                "text": "투표",
+                "value": 11
+            },
+            {
+                "text": "출마",
                 "value": 10
             },
             {
-                "text": "부정",
-                "value": 10
-            },
-            {
-                "text": "김병기",
+                "text": "이날",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:46.690176",
+        "last_analyzed_at": "2026-02-06T15:39:03.521530",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
+                1,
+                1,
                 1,
                 1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"진성준 의원은 주로 공공 안전 및 복지 분야에 집중하며, 개혁가적 입법 활동을 통해 사회적 약자와 지역사회의 발전을 개선하는 데 주력하고 있습니다. 특히 장애인·노인 지원 및 지역균형발전 관련 법안들을 통해 국민의 실생활과 직결된 복지 향상과 안전성을 만들어내는 행보를 보입니다.\"",
@@ -171,6 +171,42 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c638b0cf4096978431",
+            "link": "https://n.news.naver.com/mnews/article/011/0004587359?sid=100",
+            "created_at": "2026-02-06T10:37:08.649000",
+            "description": "투자에 대한 심의·의결 시 국회의 동의를 받을 필요가 없고 기금의 관리와 운용에 관한 사항을 1년에 한 번 이상 국회에 보고해야 한다. 여당 홍기원·정일영 의원안은 기금 운용 결과 및 외환·재정 영향평가 보고 의무화... ",
+            "originallink": "https://www.sedaily.com/article/20005662?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-06T06:01:00",
+            "related_members": [
+                "TQP7167T",
+                "8Q88373R",
+                "NX534083",
+                "FU87526G",
+                "EB16073M",
+                "6EN68926",
+                "H5476989",
+                "3C23171A",
+                "5MD4184K",
+                "LT72093S"
+            ],
+            "title": "우후죽순 ‘대미투자특별법’...특위 구성에도 ‘단일안’ 마련 복잡"
+        },
+        {
+            "_id": "6985460b38b0cf4096978580",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476952?sid=102",
+            "created_at": "2026-02-06T10:38:17.138000",
+            "description": "2022년 지방선거 서울 지역에서 공천을 받거나 공천을 희망했던 30명이 국회의원에게 연 300만원 이상 고액... 강서구 시의원 후보 경모 씨는 2020년부터 2024년까지 진성준 의원에게 네 차례 총 2000만원을 보냈습니다.... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12283531?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-05T08:36:00",
+            "related_members": [
+                "RPN2293B",
+                "3C23171A"
+            ],
+            "title": "지난 지선 서울, 공천을 받거나 희망한 30명…국회의원에 고액 후원"
+        },
         {
             "_id": "6982826638b0cf4096977c9e",
             "link": "https://n.news.naver.com/mnews/article/028/0002789822?sid=100",
@@ -187,13 +223,13 @@
                 "JG77046J",
                 "RJH6314D"
             ],
-            "title": "권력투쟁 된 합당 갈등…당내 “민생 밀리고 그저 구경만”"
+            "title": "권력투쟁으로 번진 합당 내홍…당권 경쟁 얽히며 전선 확대"
         },
         {
             "_id": "6981c72f38b0cf4096977acb",
             "link": "https://n.news.naver.com/mnews/article/421/0008750537?sid=100",
             "created_at": "2026-02-03T19:00:12.559000",
-            "description": "초·재선 사이에도 반발이 있는 가운데 4일 재선 의원 모임 '더민재'도 국회의원회관에서 관련 논의를 한다.... 페이스북을 통해 박지원 의원이 제안한 당대표-중진 간담회, 진성준 의원이 제언한 당 지도부가 토론 절차와... ",
+            "description": "초·재선 사이에도 반발이 있는 가운데 4일 재선 의원 모임 '더민재'도 국회의원회관에서 관련 논의를 한다.... 한민수 당대표 비서실장은 이날 YTN 라디오에서 \"정 대표도 더 일찍 지도부와 협의를 못한 부분은 아쉽게... ",
             "originallink": "https://www.news1.kr/politics/assembly/6060321",
             "press": "뉴스1",
             "pubDate": "2026-02-03T12:59:00",
@@ -217,7 +253,7 @@
             "_id": "697cbd3638b0cf4096976b91",
             "link": "https://n.news.naver.com/mnews/article/022/0004101307?sid=100",
             "created_at": "2026-01-30T23:16:22.657000",
-            "description": "‘보고’에서 나아가 국회의 ‘동의’를 얻게 한 법안도 줄을 이었다. 민주당 진성준 의원 안은 공사의 한미전략투자운영위원회(운영위)가 투자 결정 및 집행 시 국회의 ‘사전 동의’를 받게 했다. 같은 당 안도걸 의원... ",
+            "description": "이후 의원들은 국회의 관여도를 높인 법안들을 발의했다. 민주당 홍기원 의원이 발의한 법안은 공사가 대규모 투자사업을 집행하는 경우 국회 소관 상임위에 사전 보고하게 했다. 공사가 대규모 투자를 할 때마다 국회에... ",
             "originallink": "https://www.segye.com/newsView/20260128516757?OutUrl=naver",
             "press": "세계일보",
             "pubDate": "2026-01-28T18:12:00",
@@ -286,7 +322,7 @@
             "_id": "697cbd3638b0cf4096976b95",
             "link": "https://n.news.naver.com/mnews/article/079/0004109467?sid=100",
             "created_at": "2026-01-30T23:16:22.657000",
-            "description": "경우 국회 상임위에 보고하도록 했다. 진성준 의원 안은 사업 투자 결정 및 집행을 의결할 때 사전에 국회의 동의를 받도록 했다. 또 공사가 전년도 기금 관리·운용 보고서를 작성해 매년 정기국회 개회 전까지 상임위에... ",
+            "description": "김 의원의 법률안은 '공사가 기금의 관리와 운용에 관한 사항을 1년에 한 번 이상 국회에 보고'하도록 했다. 홍기원 의원 안은 △국제·통상 환경에 중대한 변경 발생 △전략적 투자의 상업적 합리성 또는 양해각서 기본... ",
             "originallink": "https://www.nocutnews.co.kr/news/6462589?utm_source=naver&utm_medium=article&utm_campaign=20260127032415",
             "press": "노컷뉴스",
             "pubDate": "2026-01-27T15:25:00",
@@ -494,7 +530,7 @@
             "_id": "6972d20d845960002899777d",
             "link": "https://n.news.naver.com/mnews/article/262/0000019097?sid=100",
             "created_at": "2026-01-23T10:42:35.127000",
-            "description": "그러나 원내대표 선거의 경우 권리당원 투표 20%, 국회의원 투표 80%를 반영한다는 점에서 백 의원의 선명성은 빛을 보지 못했다. 당 전략기획위원장과 정책위의장을 역임한 진성준 의원은 자타 공인의 ‘전략통’... ",
+            "description": "국회의원 한 사람 한 사람이 동등한 권한과 책임을 행사하는 헌법기관이라는 점에서 원내대표 선거는 가장... 진성준 의원은 자타 공인의 ‘전략통’ ‘정책통’ 인사다. ‘박정어학원’ 설립자로 환경노동위원장과... ",
             "originallink": "https://shindonga.donga.com/3/all/13/6066907/1",
             "press": "동아일보",
             "pubDate": "2026-01-21T09:01:00",
@@ -726,60 +762,17 @@
                 "4019850M"
             ],
             "title": "김병기·특검·개혁·지방선거…한병도 與원내대표 앞 '4대 과제'"
-        },
-        {
-            "_id": "6964b54f631fd17434996120",
-            "link": "https://n.news.naver.com/mnews/article/421/0008703069?sid=100",
-            "created_at": "2026-01-12T17:48:12.656000",
-            "description": "8일 당 원내대표 보궐선거에 출마한 진성준·백혜련 의원과 법제사법위원회 소속 김용민(여당 간사)·박지원... 국회의원 제명의 경우 윤리심판원이 결정하더라도 최고위를 거쳐 의원총회에서 재적 과반의 찬성이 필요할... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6032612",
-            "press": "뉴스1",
-            "pubDate": "2026-01-08T11:41:00",
-            "related_members": [
-                "HSS7466Y",
-                "8BF5855P",
-                "3C23171A",
-                "8Q88373R",
-                "OFE45081"
-            ],
-            "title": "김병기 눈덩이 의혹, 거취 압박…12일 윤리심판원 결정 촉각"
-        },
-        {
-            "_id": "6964b544631fd17434996049",
-            "link": "https://n.news.naver.com/mnews/article/079/0004102984?sid=102",
-            "created_at": "2026-01-12T17:48:02.031000",
-            "description": "다음날에는 기획재정위원회 임이자 위원장을 비롯해 권영세·박대출·정태호·진성준 의원 등 5명이 참석했으며, 국회사무처 및 금융기관 관계자들도 함께했다. 국회의원 방문단은 통합강원관 투어를 통해 디지털... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453215?utm_source=naver&utm_medium=article&utm_campaign=20260108102611",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-08T10:27:00",
-            "related_members": [
-                "EH27538E",
-                "3C23171A",
-                "LG63087O",
-                "UHB5553T",
-                "W4X85128",
-                "JG77046J",
-                "DAY6557K",
-                "A0P4646G",
-                "YS38221N",
-                "4L695580",
-                "7YL9580G",
-                "04T3751T",
-                "FJK3396E",
-                "TZP9391O"
-            ],
-            "title": "국회 방문단, CES 2026 통합강원관 방문…강원 혁신 기술 '주목'"
         }
     ],
     "recent_videos": [
         {
-            "_id": "6968b24c297082fcc2b19146",
-            "url": "https://www.youtube.com/watch?v=zxEYoFKLcH4",
+            "_id": "696c5fb9297082fcc2b19d2f",
+            "url": "https://www.youtube.com/watch?v=LzGlpCFoDyw",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-18T13:21:13.576000",
-            "duration": 95.0,
-            "title": "진성준의 충고 \"김병기 억울해도 선당후사해야\"",
+            "collected_at": "2026-01-21T08:51:32.832000",
+            "duration": 401.0,
+            "title": "\"압도적 지선 승리 위해\" 진성준 의원 민주당 원내대표 보궐선거 출마선언",
             "upload_date": null
         },
         {
@@ -803,13 +796,13 @@
             "upload_date": null
         },
         {
-            "_id": "6968b0e9297082fcc2b190ab",
-            "url": "https://www.youtube.com/watch?v=wwfcQ-q46UE",
+            "_id": "6968b24c297082fcc2b19145",
+            "url": "https://www.youtube.com/watch?v=l5bkYXCkgbk",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:48.048000",
-            "duration": 1505.0,
-            "title": "진성준, 한병도, 백혜련, 박정 다 친명? 4명 성향 완벽 분석!  (20260108 목요일 클립) 봉지욱 신인규 곽수산",
+            "collected_at": "2026-01-18T13:21:12.475000",
+            "duration": 176.0,
+            "title": "국회의원 진성준을 후원해주세요! 정의로운 나라를 위한 마중물이 필요합니다!",
             "upload_date": null
         },
         {
@@ -817,7 +810,7 @@
             "url": "https://www.youtube.com/watch?v=hiI8xBRH1TQ",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:48.048000",
+            "collected_at": "2026-02-06T10:53:16.332000",
             "duration": 1346.0,
             "title": "진성준의 국회의원 25시~~",
             "upload_date": null
@@ -833,13 +826,13 @@
             "upload_date": null
         },
         {
-            "_id": "696c5fb9297082fcc2b19d2f",
-            "url": "https://www.youtube.com/watch?v=LzGlpCFoDyw",
+            "_id": "697328228459600028997ad6",
+            "url": "https://www.youtube.com/watch?v=AV8tmR1nN1Q",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-21T08:51:32.832000",
-            "duration": 401.0,
-            "title": "\"압도적 지선 승리 위해\" 진성준 의원 민주당 원내대표 보궐선거 출마선언",
+            "collected_at": "2026-01-23T16:49:50.753000",
+            "duration": 1070.0,
+            "title": "[시선집중] 악재 속 원대 출사표, 출마의 변...김병기·이혜훈 의혹, 제한없이 소명해야 - 진성준 더불어민주당 의원, MBC 260105 방송",
             "upload_date": null
         },
         {
@@ -847,7 +840,7 @@
             "url": "https://www.youtube.com/watch?v=7Sm-fu5d9Wc",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:49.418000",
+            "collected_at": "2026-02-06T10:53:17.748000",
             "duration": 1201.0,
             "title": "[다시보기] 진성준, 더불어민주당 원내대표 보궐선거 출마 기자회견 “당청일치 구현…연임 도전 안할 것”-12월 31일 (수) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -857,7 +850,7 @@
             "url": "https://www.youtube.com/watch?v=oediuIxVOY0",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:49.418000",
+            "collected_at": "2026-02-06T10:53:17.748000",
             "duration": 310.0,
             "title": "진성준 “부동산 보유세 인상 조치 불가피” / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -877,7 +870,7 @@
             "url": "https://www.youtube.com/watch?v=7rIuJH4_dXE",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:49.418000",
+            "collected_at": "2026-02-06T10:53:17.748000",
             "duration": 1185.0,
             "title": "진성준 \"소비쿠폰 탓에 고환율? 초보적 단순 논리\"",
             "upload_date": null
@@ -897,19 +890,19 @@
             "url": "https://www.youtube.com/watch?v=SVDtmzth1mQ",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:49.418000",
+            "collected_at": "2026-02-06T10:53:17.748000",
             "duration": 1282.0,
             "title": "진성준 \"김병기, 억울하더라도 선당후사해야\"",
             "upload_date": null
         },
         {
-            "_id": "6968b24c297082fcc2b19145",
-            "url": "https://www.youtube.com/watch?v=l5bkYXCkgbk",
+            "_id": "6968b24c297082fcc2b19146",
+            "url": "https://www.youtube.com/watch?v=zxEYoFKLcH4",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-01-18T13:21:12.475000",
-            "duration": 176.0,
-            "title": "국회의원 진성준을 후원해주세요! 정의로운 나라를 위한 마중물이 필요합니다!",
+            "collected_at": "2026-01-18T13:21:13.576000",
+            "duration": 95.0,
+            "title": "진성준의 충고 \"김병기 억울해도 선당후사해야\"",
             "upload_date": null
         },
         {
@@ -917,7 +910,7 @@
             "url": "https://www.youtube.com/watch?v=UrnmPSdlkEE",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:48.048000",
+            "collected_at": "2026-02-06T10:53:16.332000",
             "duration": 75.0,
             "title": "[현장영상] 배현진 \"쳐봐!\" 열받은 진성준의 행동은? / 채널A",
             "upload_date": null
@@ -937,7 +930,7 @@
             "url": "https://www.youtube.com/watch?v=UCzWEju7x5X_6-rR4eFJnZqw",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:48.048000",
+            "collected_at": "2026-02-06T10:53:16.332000",
             "duration": null,
             "title": "진성준 TV",
             "upload_date": null
@@ -947,7 +940,7 @@
             "url": "https://www.youtube.com/watch?v=Wfw8q8S4ioY",
             "HG_NM": "진성준",
             "MONA_CD": "3C23171A",
-            "collected_at": "2026-02-04T08:44:48.048000",
+            "collected_at": "2026-02-06T10:53:16.332000",
             "duration": 1250.0,
             "title": "진성준 \"보유세, 용기 내자... 집값 못 잡는게 선거에 더 위험\"     \"똘똘한 한 채로 간다? 그것도 손봐야\"",
             "upload_date": null
@@ -1983,5 +1976,5 @@
             "RST_PROPOSER": "진성준"
         }
     ],
-    "exported_at": "2026-02-04T18:40:46.691177"
+    "exported_at": "2026-02-06T15:39:03.522530"
 }

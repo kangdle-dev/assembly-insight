@@ -47,46 +47,62 @@
     },
     "analysis": {
         "keywords": [
+            "구속",
             "홈플러스",
             "사태",
-            "구속",
-            "더불어민주당",
-            "회장",
+            "고발",
             "영장",
+            "회장",
+            "위증",
+            "위원장",
+            "지사",
+            "민주당",
             "시장",
             "수원",
-            "경기",
-            "지사",
-            "출판",
-            "민주당",
-            "기념회",
-            "심사",
-            "당정"
+            "더불어민주당",
+            "김동연",
+            "출판"
         ],
         "keyword_frequency": [
-            {
-                "text": "홈플러스",
-                "value": 29
-            },
-            {
-                "text": "사태",
-                "value": 24
-            },
             {
                 "text": "구속",
                 "value": 24
             },
             {
-                "text": "더불어민주당",
-                "value": 16
+                "text": "홈플러스",
+                "value": 24
             },
             {
-                "text": "회장",
-                "value": 16
+                "text": "사태",
+                "value": 22
+            },
+            {
+                "text": "고발",
+                "value": 20
             },
             {
                 "text": "영장",
                 "value": 16
+            },
+            {
+                "text": "회장",
+                "value": 15
+            },
+            {
+                "text": "위증",
+                "value": 14
+            },
+            {
+                "text": "위원장",
+                "value": 14
+            },
+            {
+                "text": "지사",
+                "value": 14
+            },
+            {
+                "text": "민주당",
+                "value": 14
             },
             {
                 "text": "시장",
@@ -97,62 +113,46 @@
                 "value": 14
             },
             {
-                "text": "경기",
+                "text": "더불어민주당",
                 "value": 13
             },
             {
-                "text": "지사",
+                "text": "김동연",
                 "value": 13
             },
             {
                 "text": "출판",
-                "value": 13
-            },
-            {
-                "text": "민주당",
-                "value": 12
-            },
-            {
-                "text": "기념회",
-                "value": 12
-            },
-            {
-                "text": "심사",
                 "value": 11
-            },
-            {
-                "text": "당정",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:39:53.653014",
+        "last_analyzed_at": "2026-02-06T15:38:12.483137",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                1,
                 0,
                 3,
                 4,
                 3,
+                9,
+                5,
                 1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김병주 의원은 주로 군사 및 안전 분야에 집중하며, 보호자적 입법 활동을 통해 군인 복지와 국가 안전을 개선하는 데 주력하고 있습니다. 특히 군사기지 및 군사시설 보호법과 병역법 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지의 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -166,6 +166,247 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c138b0cf40969783d4",
+            "link": "https://n.news.naver.com/mnews/article/052/0002311092?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "유영하 의원도 국회증언감정법 개정안을 언급하며, 위원장이 자기 명의로 고발하는 걸 거부할 때 과반... 박범계 의원도 윤한홍 위원장에게 팔짱 끼고 있지 말고 위원장이 선도적으로 나쁜 사람을 추려 고발하자고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602060258598469",
+            "press": "YTN",
+            "pubDate": "2026-02-06T02:58:00",
+            "related_members": [
+                "GX22581L",
+                "JZV5283U",
+                "GF286398",
+                "NB64509Z",
+                "8X15119P",
+                "7R156073"
+            ],
+            "title": "여야, 정무위서 범여권 주도 '위증' 증인 고발 놓고 충돌"
+        },
+        {
+            "_id": "698545c138b0cf40969783d5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008756630?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "강 의원은 \"국회 증언 감정법상 위원회 고발 절차는 명확하다. 위원회 의결이 선행돼야 하고 그에 따라... 않나\"라며 \"(윤한홍) 위원장께서 선도적으로 양당 간사를 불러 모아 진짜 나쁜 사람들이 있다면 추려서 고발을 하자... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6063741",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T16:41:00",
+            "related_members": [
+                "GX22581L",
+                "GF286398",
+                "5KV96424",
+                "NB64509Z",
+                "7R156073",
+                "JZV5283U",
+                "8X15119P"
+            ],
+            "title": "정무위, 김병주·김형석 '증감법 고발' 설전…22분만에 파행"
+        },
+        {
+            "_id": "698545c138b0cf40969783d6",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310780?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "유영하 의원도 국회증언감정법 개정안을 언급하며, 위원장이 자기 명의로 고발하는 걸 거부할 때 과반... 박범계 의원도 윤한홍 위원장에게 팔짱 끼고 있지 말고 위원장이 선도적으로 나쁜 사람을 추려 고발하자고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602051435446190",
+            "press": "YTN",
+            "pubDate": "2026-02-05T14:35:00",
+            "related_members": [
+                "GX22581L",
+                "JZV5283U",
+                "GF286398",
+                "NB64509Z",
+                "8X15119P",
+                "7R156073"
+            ],
+            "title": "여야, 정무위서 범여권 주도 '위증' 증인 고발 놓고 충돌"
+        },
+        {
+            "_id": "698545c138b0cf40969783d7",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588597?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "같은 당 유영하 의원도 국회증언감정법의 개정으로 재적 위원 과반수의 연서(서명)로 위증 등을 고발할 수... 지난 1년간 국민의힘 소속 윤한홍 정무위원장에게 문제의 증인들에 대해 정무위 차원의 고발을 촉구했지만... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/05/2026020590103.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-05T13:51:00",
+            "related_members": [
+                "GX22581L",
+                "GF286398",
+                "NB64509Z",
+                "JZV5283U",
+                "8X15119P"
+            ],
+            "title": "여야, 정무위서 '김병주·김형석 위증' 범與 주도 고발 놓고 설전"
+        },
+        {
+            "_id": "698545cb38b0cf4096978457",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596169?sid=100",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "김병주 의원실 제공 더불어민주당 김병주 의원(경기 남양주시을)은 지난 2일 국회 의원회관에서 한국요양보호사중앙회(회장 민소현)와 정책간담회를 갖고, 이재명 정부의 핵심 국정과제인 ‘돌봄 국가책임제’를... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670009?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T08:29:00",
+            "related_members": [
+                "GF286398"
+            ],
+            "title": "김병주 의원 “이재명 정부 ‘돌봄 국가책임제’, 경기도에서 가장 먼저..."
+        },
+        {
+            "_id": "698545cb38b0cf4096978458",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112577?sid=102",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "3%를 기록한 추미애 국회의원에 오차 범위 밖에서 앞섰다. 일찌감치 경기도지사 출마를 선언한 한준호 의원은 7.8%, 김병주 의원은 4.6%를 기록했다. 김 지사는 성별, 연령대별, 이념성향별 조사에서도 대부분 선두를... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6467161?utm_source=naver&utm_medium=article&utm_campaign=20260205073122",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-05T05:01:00",
+            "related_members": [
+                "GF286398",
+                "BCQ55105",
+                "URV1689Q"
+            ],
+            "title": "친명 사과·반도체 해결 통했나…김동연, 당심·민심 모두 선두"
+        },
+        {
+            "_id": "698545cb38b0cf4096978459",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476899?sid=100",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "[전한길/전 한국사 강사 : 이런 참군인들이 나와 가지고 다음에 국회의원이 돼 가지고 국방위를 이끌어가고... 김병주 더불어민주당 의원은 이런 모습을 두고 \"군복을 벗은 뒤에도 계속되는 '국헌문란 행위의 연장'\"이라고... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12283427?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-04T19:43:00",
+            "related_members": [
+                "GF286398",
+                "7YL9580G"
+            ],
+            "title": "김현태, 군복 벗고 '극우의 길'…전한길 \"이런 참군인!\""
+        },
+        {
+            "_id": "698545cb38b0cf409697845a",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789953?sid=102",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "더불어민주당 국회의원이 “책임 회피를 위한 극우 선동”이라고 강하게 비판했다. 김 의원은 4일... 또 김 의원을 비롯한 민주당 의원(박범계, 박선원, 부승찬)과 문형배 전 헌법재판소장 권한대행, 민중기 특별검사까지... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1243332.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-04T17:52:00",
+            "related_members": [
+                "GF286398",
+                "7YL9580G",
+                "VZA76236",
+                "7R156073",
+                "6I88973D"
+            ],
+            "title": "김병주 “‘내란 행동대장’ 김현태…민주주의 침 뱉고 가짜뉴스 배설”"
+        },
+        {
+            "_id": "698545c938b0cf4096978445",
+            "link": "https://n.news.naver.com/mnews/article/421/0008753837?sid=102",
+            "created_at": "2026-02-06T10:37:11.800000",
+            "description": "고(故) 이해찬 전 국무총리, 박정·김승원·김병주·안태준·문금주·김문수 국회의원, 강원국 전 대통령비서실 연설비서관은 영상을 통해 축하했다. 오 전 부지사는 저서에 지역 변화에 대한 문제의식 등 30여년간의 공직... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6062187",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T16:40:00",
+            "related_members": [
+                "W8L9421K",
+                "GF286398",
+                "ATB59635",
+                "GRP3908I",
+                "4019850M",
+                "86R9476S"
+            ],
+            "title": "오후석 전 경기도 행정2부지사, 하남서 출판기념회"
+        },
+        {
+            "_id": "698545c538b0cf409697842b",
+            "link": "https://n.news.naver.com/mnews/article/015/0005246776?sid=100",
+            "created_at": "2026-02-06T10:37:08.048000",
+            "description": "이에 따라 출마를 저울질하던 의원 대부분이 기한에 맞춰 직을 내려놓았다. 22대 국회 민주당 의원 161명 중... 경기도에서는 4명의 현역 의원(추미애·권칠승·김병주·한준호)이 현직인 김동연 지사와 경선한다. 부산의... ",
+            "originallink": "https://www.hankyung.com/article/202602044025i",
+            "press": "한국경제",
+            "pubDate": "2026-02-04T16:36:00",
+            "related_members": [
+                "C7E79345",
+                "GF286398",
+                "BCQ55105",
+                "URV1689Q",
+                "X1K3667J",
+                "BT62420K",
+                "VDN5593C",
+                "7R156073",
+                "5TQ6306B",
+                "2NV6751W",
+                "CIZ8557P",
+                "9YO73104"
+            ],
+            "title": "현역의원만 27명…광역단체장 선거전에 대거 뛰어드는 민주당"
+        },
+        {
+            "_id": "698545c538b0cf409697842c",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595969?sid=100",
+            "created_at": "2026-02-06T10:37:08.048000",
+            "description": "0%로 추미애 국회 법사위원장(18.3%)을 오차범위 밖에서 앞섰다. 이어 한준호 의원 7.8%, 김병주 의원 4.6%, 염태영 의원 2.9%, 양기대 전 광명시장 1.8%, 권칠승 의원 0.7% 순이다. ‘없음·모름’은 33.7%였다. 성별로는... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669747?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T16:29:00",
+            "related_members": [
+                "C7E79345",
+                "GF286398",
+                "BCQ55105",
+                "URX8075K",
+                "URV1689Q",
+                "L5P27909",
+                "YOG1280B"
+            ],
+            "title": "김동연, 與 경기지사 후보적합도 30% ‘1위’…국힘은 유승민 25.8%"
+        },
+        {
+            "_id": "698545cb38b0cf409697845b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013748769?sid=102",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "이어 한준호 국회의원 7.8%, 김병주 국회의원 4.6%, 염태영 국회의원 2.9%, 양기대 전 광명시장 1.8%, 권칠승 국회의원 0.7% 등이다. 성별로 보면 남녀 모두 김동연 지사가 남성 29.2%, 여성은 30.8%로 가장 높은 지지를... ",
+            "originallink": "https://www.newsis.com/view/NISX20260204_0003502457",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T14:38:00",
+            "related_members": [
+                "C7E79345",
+                "GF286398",
+                "BCQ55105",
+                "URX8075K",
+                "L5P27909",
+                "YOG1280B"
+            ],
+            "title": "김동연, 경기도지사 여론조사 민주 1위…국힘 유승민"
+        },
+        {
+            "_id": "698545cb38b0cf409697845c",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588372?sid=100",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "대통령으로부터 국회의원을 끌어내라는 지시를 받았다”고 증언한 곽종근 전 육군 특수전사령관을 두고는 “내란 조작범들에게 이용당했다”고 했다. 그러면서 박범계·김병주·박선원·부승찬 의원 등 민주당 인사들을... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/04/2026020490135.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-04T13:54:00",
+            "related_members": [
+                "VZA76236",
+                "GF286398",
+                "7YL9580G",
+                "7R156073",
+                "6I88973D"
+            ],
+            "title": "\"민주당, 계엄 미리 알고 준비\"…김현태 전 707단장 '내란 조작' 주장"
+        },
+        {
+            "_id": "698545cb38b0cf409697845d",
+            "link": "https://n.news.naver.com/mnews/article/021/0002768782?sid=100",
+            "created_at": "2026-02-06T10:37:13.539000",
+            "description": "그는 “곽 전 사령관이 특정 세력에 이용됐다”며 “안타깝게도 내란 조작범인 김병주가 12월 5일 곽... 그는 계엄 엿새 뒤 기자회견을 자청해 “국회의원을 끌어내라는 지시를 받았다”고 진술했다가 지난해 2월 헌재에서... ",
+            "originallink": "https://www.munhwa.com/article/11566036?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-02-04T11:19:00",
+            "related_members": [
+                "GF286398",
+                "7YL9580G"
+            ],
+            "title": "707단장 김현태 “민주당, 계엄 미리 알고 대응했다” 주장"
+        },
         {
             "_id": "6982826b38b0cf4096977cbc",
             "link": "https://n.news.naver.com/mnews/article/023/0003957004?sid=100",
@@ -265,7 +506,7 @@
                 "6I88973D",
                 "7R156073"
             ],
-            "title": "‘파면’ 김현태 극우본색 “계엄은 합법…문형배는 조작범” 궤변"
+            "title": "‘파면’ 김현태 극우 본색 “전한길 선생님 감사합니다…계엄은 합법..."
         },
         {
             "_id": "69814aeb38b0cf4096977728",
@@ -319,7 +560,7 @@
             "_id": "69814ae138b0cf40969776d6",
             "link": "https://n.news.naver.com/mnews/article/021/0002768254?sid=102",
             "created_at": "2026-02-03T10:09:51.482000",
-            "description": "특히 수원에 지역구를 둔 김승원·백혜련·김영진·김준혁·염태영 더불어민주당 의원과 김동연 경기지사, 강득구·추미애·한준호·김병주 민주당 의원, 김진표 전 국회의장, 유은혜 전 교육부총리, 안민석 전 의원 등 유력... ",
+            "description": "특히 수원에 지역구를 둔 김승원·백혜련·김영진·김준혁·염태영 더불어민주당 의원과 김동연 경기지사... 민주당 의원, 김진표 전 국회의장, 유은혜 전 교육부총리, 안민석 전 의원 등 유력 정치인들이 방문했다. 또... ",
             "originallink": "https://www.munhwa.com/article/11565503?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T14:38:00",
@@ -474,320 +715,6 @@
                 "GF286398"
             ],
             "title": "[여담야담] '모범적 동맹' 치켜세우더니 다시 '관세 폭탄' 왜?"
-        },
-        {
-            "_id": "6976fced8459600028997f58",
-            "link": "https://n.news.naver.com/mnews/article/079/0004108758?sid=102",
-            "created_at": "2026-01-26T14:34:35.261000",
-            "description": "더불어민주당 허성무(창원성산구, 산업통상자원중소벤처기업위원회) 국회의원이  '2026 의정보고회'를... 한정애·전진숙·문정복·소병훈·김태선·김현·전용기·이언주·이해식·오기형·이재강·장종태·박지원 의원 등... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6461560?utm_source=naver&utm_medium=article&utm_campaign=20260125084551",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-25T20:46:00",
-            "related_members": [
-                "5N65159P",
-                "2385336L",
-                "4019850M",
-                "JZY9937U",
-                "XR24352K",
-                "MLH1404S",
-                "HHB5652A",
-                "H5476989",
-                "VZA76236",
-                "2NV6751W",
-                "E2B3753X",
-                "5MD4184K",
-                "GF286398",
-                "RKS3658I",
-                "J1G57517",
-                "T6A6557F",
-                "B7D7534L",
-                "IL74008M",
-                "4L695580",
-                "7BM2933Y",
-                "CCU1009B",
-                "8BF5855P",
-                "OIA3741M",
-                "3LP22204",
-                "JG77046J",
-                "6WK3815W",
-                "CIZ8557P",
-                "TJW93720",
-                "ZDR63255",
-                "7YL9580G",
-                "GOC54665",
-                "QUR40502",
-                "XPP2564T"
-            ],
-            "title": "허성무 의원, '2026 의정보고회' 성료…\"주민 목소리 적극 반영\""
-        },
-        {
-            "_id": "6976fcea8459600028997f38",
-            "link": "https://n.news.naver.com/mnews/article/421/0008732355?sid=100",
-            "created_at": "2026-01-26T14:34:32.095000",
-            "description": "채현일 의원도 \"하루빨리 회복해 지혜와 혜안으로 대한민국 민주주의를 위해 저희 곁에서 굳건히 함께해... 초대 국회의원 선거에 뛰어들었을 때 감히 제가 후원회장을 맡았고 이후 많은 지도 편달을 해줬다\"고 인연을... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6049723",
-            "press": "뉴스1",
-            "pubDate": "2026-01-24T15:18:00",
-            "related_members": [
-                "BCQ55105",
-                "X1K3667J",
-                "GF286398",
-                "2385336L",
-                "7YL9580G",
-                "XR24352K",
-                "S824682L",
-                "TKJ4800F",
-                "UQ282145",
-                "1S05899F"
-            ],
-            "title": "범여, 이해찬 위중 소식에 \"아직 하실일 많아…쾌유 기원\"(종합)"
-        },
-        {
-            "_id": "6976fcee8459600028997f68",
-            "link": "https://n.news.naver.com/mnews/article/016/0002590317?sid=101",
-            "created_at": "2026-01-26T14:34:36.206000",
-            "description": "이종성 일반노조 위원장은 통화에서 “김병주 MBK파트너스 회장의 선의를 바랄 수밖에 없는 상황이다.... 안수용 마트노조 홈플러스 지부 위원장은 지난 21일 국회 의원회관에서 더불어민주당 을지로위원회 주최로 열린... ",
-            "originallink": "https://biz.heraldcorp.com/article/10661778?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-24T07:01:00",
-            "related_members": [
-                "GF286398"
-            ],
-            "title": "“조건부 찬성” vs “절대 반대”…회생안 엇갈린 홈플 노조"
-        },
-        {
-            "_id": "6972d1ee8459600028997688",
-            "link": "https://n.news.naver.com/mnews/article/079/0004108196?sid=100",
-            "created_at": "2026-01-23T10:42:04.433000",
-            "description": "막 국회의원들이 나도 몰랐는데 그리고 당원들이 국회의원들한테 문자를 막 날리고 이거 어떻게 된 거냐고... 반조국파와 그다음에 신장식부터 이게 차규근 이런 조국파가 있어요. 그러니까 제 말은 이게 합당하면요. 그... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6460757?utm_source=naver&utm_medium=article&utm_campaign=20260123070020",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-23T07:01:00",
-            "related_members": [
-                "8P37634C",
-                "JG77046J",
-                "VDN5593C",
-                "J1G57517",
-                "6AU2417B",
-                "VZA76236",
-                "OFE45081",
-                "NXB3178C",
-                "GF286398",
-                "MLH1404S",
-                "2385336L",
-                "8Q88373R",
-                "5TQ6306B",
-                "1A82234K",
-                "0YT3774N",
-                "8BF5855P",
-                "S824682L",
-                "RG972910",
-                "TKJ4800F",
-                "KNP22261",
-                "NPD75153",
-                "N2P9317N",
-                "M7O7878U",
-                "YS38221N",
-                "YOG1280B",
-                "RJH6314D",
-                "3LP22204",
-                "KFM1081G",
-                "QWL7778X",
-                "9YO73104",
-                "BCQ55105"
-            ],
-            "title": "윤희석 \"국힘은 있는 사람도 제명, 민주당 합당 부럽다\""
-        },
-        {
-            "_id": "6972d1f784596000289976ec",
-            "link": "https://n.news.naver.com/mnews/article/016/0002589383?sid=101",
-            "created_at": "2026-01-23T10:42:13.933000",
-            "description": "주최로 국회 의원회관에서 열린 긴급좌담회에서도 드러났다. 홈플러스 사태와 관련된 이해관계자들이 다수 참석했지만, 메리츠는 불참했다. 민주당 MBK홈플러스 사태 해결 태스크포스(TF) 단장인 유동수 의원은... ",
-            "originallink": "https://biz.heraldcorp.com/article/10660543?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-22T10:15:00",
-            "related_members": [
-                "GF286398",
-                "GX38539O"
-            ],
-            "title": "홈플러스 청산 위기감 고조…기약없는 대출에 ‘막막’"
-        },
-        {
-            "_id": "6972d1f284596000289976c2",
-            "link": "https://n.news.naver.com/mnews/article/021/0002765363?sid=100",
-            "created_at": "2026-01-23T10:42:08.902000",
-            "description": "경기지사 후보 예비후보 자격심사에는 김동연 경기지사를 비롯해 권칠승, 김병주, 염태영, 추미애, 한준호... 꽤 높았는데 명함도 못 내밀 듯”이라고 썼다. 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다.",
-            "originallink": "https://www.munhwa.com/article/11562552?ref=naver",
-            "press": "문화일보",
-            "pubDate": "2026-01-21T11:05:00",
-            "related_members": [
-                "URV1689Q",
-                "URX8075K",
-                "C7E79345",
-                "BCQ55105",
-                "GF286398"
-            ],
-            "title": "李, 1호 감사패는 ‘한준호’…경기지사도 명심?"
-        },
-        {
-            "_id": "6970122f297082fcc2b34c25",
-            "link": "https://n.news.naver.com/mnews/article/023/0003954230?sid=100",
-            "created_at": "2026-01-21T08:39:25.682000",
-            "description": "한 의원을 콕 집어 3개월 전 성과를 포상했다는 이유에서다. 민주당에선 추미애(6선)·권칠승(3선)·김병주... 이날 이후 국회의원이 아닌 정 구청장의 인지도는 급상승했다. 민주당 내 다른 서울시장 후보들은 “이게 도대체... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2026/01/21/TK4M4QOYUFBIXHEZ7GWLEWUJTI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-21T00:49:00",
-            "related_members": [
-                "URV1689Q",
-                "BCQ55105",
-                "GF286398",
-                "C7E79345",
-                "TKJ4800F",
-                "25G2571T",
-                "B7D7534L",
-                "S824682L",
-                "6AU2417B",
-                "BT62420K",
-                "URX8075K",
-                "2385336L"
-            ],
-            "title": "[정치 인사이드] 李, 한준호 띄우자… 비명계 “경기지사도 명심 찍기”"
-        },
-        {
-            "_id": "69701234297082fcc2b34c4b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008723314?sid=100",
-            "created_at": "2026-01-21T08:39:30.701000",
-            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정 협의 후... 이날 당정협의회에는 이두희 국방부 차관과 한정애 정책위의장, 최기상 정책위 수석부의장, 김한규... ",
-            "originallink": "https://www.news1.kr/diplomacy/defense-diplomacy/6044412",
-            "press": "뉴스1",
-            "pubDate": "2026-01-20T10:03:00",
-            "related_members": [
-                "6I88973D",
-                "GF286398",
-                "RJH6314D",
-                "I5I2468R",
-                "NUB4941Z",
-                "XPP2564T"
-            ],
-            "title": "당정, 군소음대책지역 8곳 새로 지정…기존 69곳은 확대(종합)"
-        },
-        {
-            "_id": "69701234297082fcc2b34c4c",
-            "link": "https://n.news.naver.com/mnews/article/421/0008723108?sid=100",
-            "created_at": "2026-01-21T08:39:30.701000",
-            "description": "국회 국방위원회 여당 간사를 맡고 있는 부승찬 민주당 의원은 이날 국회에서 열린 관련 당정협의 후... 이날 당정협의회에는 이두희 국방부 차관과 한정애 정책위의장, 최기상 정책위 수석부의장, 김한규... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6044288",
-            "press": "뉴스1",
-            "pubDate": "2026-01-20T09:06:00",
-            "related_members": [
-                "6I88973D",
-                "GF286398",
-                "RJH6314D",
-                "I5I2468R",
-                "NUB4941Z",
-                "XPP2564T"
-            ],
-            "title": "당정, 군소음대책지역 8곳 새로 지정…기존 69곳은 확대"
-        },
-        {
-            "_id": "69701234297082fcc2b34c4d",
-            "link": "https://n.news.naver.com/mnews/article/003/0013719291?sid=100",
-            "created_at": "2026-01-21T08:39:30.701000",
-            "description": "김병주 더불어민주당 의원과 이두희 국방부 차관이 20일 서울 여의도 국회 의원회관에서 열린 군용비행장 및 군사격장 소음피해대책 관련 당정협의에서 악수하고 있다. 2026.01.20. kkssmm99@newsis.com",
-            "originallink": "https://www.newsis.com/view/NISI20260120_0021132395",
-            "press": "뉴시스",
-            "pubDate": "2026-01-20T08:33:00",
-            "related_members": [
-                "GF286398"
-            ],
-            "title": "악수하는 김병주-이두희"
-        },
-        {
-            "_id": "69701234297082fcc2b34c4e",
-            "link": "https://n.news.naver.com/mnews/article/421/0008722948?sid=100",
-            "created_at": "2026-01-21T08:39:30.701000",
-            "description": "김병주 더불어민주당 의원과 이두희 국방부 차관이 20일 서울 여의도 국회 의원회관에서 열린 군용비행장 및 군사격장 소음피해대책 관련 당정협의에서 인사하고 있다. 2026.1.20/뉴스1",
-            "originallink": "https://www.news1.kr/photos/7705160",
-            "press": "뉴스1",
-            "pubDate": "2026-01-20T08:13:00",
-            "related_members": [
-                "GF286398"
-            ],
-            "title": "인사하는 김병주·이두희"
-        },
-        {
-            "_id": "69701234297082fcc2b34c4f",
-            "link": "https://n.news.naver.com/mnews/article/005/0001826971?sid=102",
-            "created_at": "2026-01-21T08:39:30.701000",
-            "description": "행사에는 여권 소속 다수 국회의원과 전직 장관, 교육 관련 인사들이 대거 참석했다. 추미애·한준호·김영진... 남인순 의원 등이 자리했다. 또한 김동연 경기도지사, 강금실 전 법무부 장관과 조국혁신당 백선희 의원... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029268619&code=61122013&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-19T09:01:00",
-            "related_members": [
-                "URV1689Q",
-                "3ZR4438W",
-                "ATB59635",
-                "5765663F",
-                "88O1334C",
-                "GF286398",
-                "1WE5693J",
-                "BCQ55105",
-                "WTR5885Y",
-                "4L695580",
-                "FU53642G",
-                "HSS7466Y",
-                "68P7228G",
-                "HXT76735",
-                "04T3751T",
-                "0R68099X",
-                "YN160848",
-                "XBT9550Q",
-                "UQ282145"
-            ],
-            "title": "유은혜 출판기념회 개최…정계·교육계 인사 다수 참석"
-        },
-        {
-            "_id": "696c5bed297082fcc2b19b8e",
-            "link": "https://n.news.naver.com/mnews/article/079/0004106227?sid=102",
-            "created_at": "2026-01-18T13:05:01.197000",
-            "description": "더불어민주당 추미애·김병주·한준호·김영진·김승원·백혜련·이인영·김태년·김성회·이소영 의원 등... 그는 19·20대 국회의원을 지낸 뒤 문재인 정부 당시 부총리겸 교육부장관을 맡았다. 역대 최장수 교육부장관을... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6457900?utm_source=naver&utm_medium=article&utm_campaign=20260117102355",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-17T22:24:00",
-            "related_members": [
-                "HSS7466Y",
-                "URV1689Q",
-                "88O1334C",
-                "ATB59635",
-                "BCQ55105",
-                "WTR5885Y",
-                "3ZR4438W",
-                "5765663F",
-                "GF286398",
-                "1WE5693J",
-                "UQ282145"
-            ],
-            "title": "\"숨 막힌 학교에 숨을\"…유은혜, '적자생존 교육'에 직격탄"
-        },
-        {
-            "_id": "696c5bed297082fcc2b19b8f",
-            "link": "https://n.news.naver.com/mnews/article/382/0001248716?sid=102",
-            "created_at": "2026-01-18T13:05:01.198000",
-            "description": "또 우원식 국회의장, 윤후덕(파주시갑)·박정(파주시을) 국회의원, 황명선 더불어민주당 최고위원, 김승원 경기도당위원장, 이인영·김병주·부승찬 국회의원, 강남훈 (사)기본사회 이사장 등이 추천사를 통해 책의 출간을... ",
-            "originallink": "https://sports.donga.com/region/article/all/20260117/133176773/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-17T18:23:00",
-            "related_members": [
-                "O7R5461J",
-                "ATB59635",
-                "6I88973D",
-                "4019850M",
-                "XBT9550Q",
-                "3ZR4438W",
-                "RJH6314D",
-                "GF286398"
-            ],
-            "title": "“현장에 답이 있다” 김경일 파주시장, 출판기념회서 ‘소통 행정’ 강..."
         }
     ],
     "recent_videos": [
@@ -796,7 +723,7 @@
             "url": "https://www.youtube.com/watch?v=1_4W5SkkOTQ",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
-            "collected_at": "2026-02-04T08:32:10.728000",
+            "collected_at": "2026-02-06T10:40:44.621000",
             "duration": 763.0,
             "title": "[여담야담] '정치쇼' 비판에 눈물 흘린 김병주…\"절박함으로 했다\" / SBS / 편상욱의 뉴스브리핑",
             "upload_date": null
@@ -856,7 +783,7 @@
             "url": "https://www.youtube.com/watch?v=xjyTL63-7Ps",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
-            "collected_at": "2026-02-04T08:32:10.728000",
+            "collected_at": "2026-02-06T10:40:44.621000",
             "duration": 1147.0,
             "title": "2차 계엄 막기 위해 특전사 찾아간 김병주 의원 | 그날그곳",
             "upload_date": null
@@ -866,7 +793,7 @@
             "url": "https://www.youtube.com/watch?v=O4jOBDdyVtY",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
-            "collected_at": "2026-02-04T08:32:10.728000",
+            "collected_at": "2026-02-06T10:40:44.621000",
             "duration": 1076.0,
             "title": "[뉴스하이킥] '4성장군 출신' 김병주가 말하는 그날, 그 시간에 계엄이 일어난 이유는? - 김병주, MBC 251203 방송",
             "upload_date": null
@@ -886,7 +813,7 @@
             "url": "https://www.youtube.com/watch?v=JTzXEp3VZdo",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
-            "collected_at": "2026-02-04T08:32:12.052000",
+            "collected_at": "2026-02-06T10:40:45.900000",
             "duration": 149.0,
             "title": "'홈플러스 사태' MBK 김병주 구속영장…사기 혐의 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -926,7 +853,7 @@
             "url": "https://www.youtube.com/watch?v=hGapqPRPwl0",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
-            "collected_at": "2026-02-04T08:32:12.052000",
+            "collected_at": "2026-02-06T10:40:45.900000",
             "duration": 1009.0,
             "title": "김병주 \"특전사가 마음 먹었으면 10분안에 국회 장악… 아찔해\" [12.3 특집 ③]",
             "upload_date": null
@@ -956,7 +883,7 @@
             "url": "https://www.youtube.com/watch?v=UCCwY9FkjAaWaXk6UrpQyD1g",
             "HG_NM": "김병주",
             "MONA_CD": "GF286398",
-            "collected_at": "2026-02-04T08:32:10.728000",
+            "collected_at": "2026-02-06T10:40:44.621000",
             "duration": null,
             "title": "주블리 김병주",
             "upload_date": null
@@ -1522,5 +1449,5 @@
             "RST_PROPOSER": "김병주"
         }
     ],
-    "exported_at": "2026-02-04T18:39:53.653014"
+    "exported_at": "2026-02-06T15:38:12.484136"
 }

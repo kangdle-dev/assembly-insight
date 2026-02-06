@@ -46,22 +46,22 @@
             "민주당",
             "에너지",
             "국민",
+            "정책",
             "더불어민주당",
+            "회관",
+            "국가",
             "김소희",
             "위원회",
             "민주",
             "산업",
             "포럼",
-            "환경",
-            "위성",
-            "청년",
-            "국가",
-            "토론회"
+            "탄소",
+            "위성"
         ],
         "keyword_frequency": [
             {
                 "text": "기후",
-                "value": 12
+                "value": 13
             },
             {
                 "text": "민주당",
@@ -76,8 +76,20 @@
                 "value": 8
             },
             {
+                "text": "정책",
+                "value": 7
+            },
+            {
                 "text": "더불어민주당",
                 "value": 7
+            },
+            {
+                "text": "회관",
+                "value": 6
+            },
+            {
+                "text": "국가",
+                "value": 6
             },
             {
                 "text": "김소희",
@@ -100,54 +112,42 @@
                 "value": 5
             },
             {
-                "text": "환경",
+                "text": "탄소",
                 "value": 5
             },
             {
                 "text": "위성",
                 "value": 5
-            },
-            {
-                "text": "청년",
-                "value": 4
-            },
-            {
-                "text": "국가",
-                "value": 4
-            },
-            {
-                "text": "토론회",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:13.231773",
+        "last_analyzed_at": "2026-02-06T15:38:29.957192",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
-                0,
-                0,
                 1,
                 0,
                 1,
+                0,
+                2,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"박지혜 의원은 주로 기후 변화 대응 및 에너지 관련 정책 분야에 집중하며, 혁신적이고 미래 지향적인 입법 활동을 통해 경제와 환경의 지속 가능성을 개선하는 데 주력하고 있습니다. 특히 기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 관련 법안들을 통해 국민의 실생활과 직결된 환경 보호와 경제 활성화를 기대할 수 있는 행보를 보입니다.\"",
@@ -162,10 +162,64 @@
     },
     "recent_news": [
         {
+            "_id": "698545c038b0cf40969783d0",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749884?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "(의원회관 제11간담회의실) 10:00 최기상 의원실 등, 초국가범죄와 가상자산 국회 정책세미나(의원회관 제1소회의실) 14:00 박지혜 의원실, 녹색국채를 통한 기후 재정 확보 방안(의원회관 제3간담회의실) 14:00 손명수... ",
+            "originallink": "https://www.newsis.com/view/NISX20260204_0003503086",
+            "press": "뉴시스",
+            "pubDate": "2026-02-05T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "IUX1829H",
+                "3LP22204",
+                "ZYP7962W",
+                "AEO5706C",
+                "TZ228122",
+                "6AU2417B",
+                "I5I2468R",
+                "EMH4976E",
+                "JSA8739I",
+                "MDC3257K",
+                "RBM5454A",
+                "FH777496",
+                "IC499858",
+                "XG348314"
+            ],
+            "title": "[오늘의 주요일정]국회(2월5일 목요일)"
+        },
+        {
+            "_id": "698545c038b0cf40969783d1",
+            "link": "https://n.news.naver.com/mnews/article/421/0008754375?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "(의원회관 제11간담회의실) 10:00 최기상 의원실 등, 초국가범죄와 가상자산 국회 정책세미나(의원회관 제1소회의실) 14:00 박지혜 의원실, 녹색국채를 통한 기후 재정 확보 방안(의원회관 제3간담회의실) 14:00 손명수... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6062435",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "IUX1829H",
+                "3LP22204",
+                "ZYP7962W",
+                "AEO5706C",
+                "TZ228122",
+                "6AU2417B",
+                "I5I2468R",
+                "EMH4976E",
+                "JSA8739I",
+                "MDC3257K",
+                "RBM5454A",
+                "FH777496",
+                "IC499858",
+                "XG348314"
+            ],
+            "title": "[오늘의 국회일정](5일,목)"
+        },
+        {
             "_id": "6981c75238b0cf4096977b1c",
             "link": "https://n.news.naver.com/mnews/article/016/0002595193?sid=105",
             "created_at": "2026-02-03T19:00:47.597000",
-            "description": "개회식에서는 Helene Juramy 주한 유럽연합 대표부 환경통상담당관의 개회사와 제22대 더불어민주당 박지혜 국회의원의 축사를 통해 재생에너지 전환 과정에서 생물다양성 보호를 병행하는 정책적 접근의 중요성을... ",
+            "description": "개회식에서는 Helene Juramy 주한 유럽연합 대표부 경제통상 참사관의 개회사와 제22대 더불어민주당 박지혜 국회의원의 축사를 통해 재생에너지 전환 과정에서 생물다양성 보호를 병행하는 정책적 접근의 중요성을... ",
             "originallink": "https://biz.heraldcorp.com/article/10668590?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-02-03T12:09:00",
@@ -211,7 +265,7 @@
             "_id": "6976fd058459600028997ffb",
             "link": "https://n.news.naver.com/mnews/article/032/0003423474?sid=100",
             "created_at": "2026-01-26T14:34:59.154000",
-            "description": "이소영 의원은 이날 YTN 라디오에서 “(정 대표가) 기자회견 전에 지도부 논의를 반드시 했어야 한다”며... 이언주 수석최고위원과 황명선·강득구 최고위원은 이날 국회에서 공동 기자회견을 열... https://www.khan.co.kr... ",
+            "description": "정 대표는 합당 절차와 관련해 정책의원총회를 다음주 이른 시일 내에 열 것을 지시했다고 박지혜 대변인이... 이날 국회에서 열린 정책 의원총회는 의총 10분 전 정 대표가 긴급 기자회견을 열고 합당을 제안하... https... ",
             "originallink": "https://www.khan.co.kr/article/202601231725001",
             "press": "경향신문",
             "pubDate": "2026-01-23T17:25:00",
@@ -235,7 +289,7 @@
             "_id": "6976fd068459600028997ffe",
             "link": "https://n.news.naver.com/mnews/article/033/0000050186?sid=110",
             "created_at": "2026-01-26T14:35:00.073000",
-            "description": "의원 안 2030년 50%·2035년 65%·2040년 75%, 서왕진 의원 안 2030년 40%·2035년 65%·2040년 85%·2045년 95%, 이소영... 아기 기후소송 청구인 대표로 헌재에 출석해 발언한 한제아 어린이는 “어른들은 투표를 통해 국회의원이... ",
+            "description": "95%, 박지혜 의원 안 2030년 35%·2035년 65%·2040년 85%·2045년 95%이다. 국회는 오는 2월 28일까지 탄소중립기본법을 개정해야 하지만, 아직도 뭉그적거리고 있다. 탄소중립기본법을 개정하지 않는 국회도, 이재명... ",
             "originallink": "https://weekly.khan.co.kr/article/202601231501001",
             "press": "경향신문",
             "pubDate": "2026-01-23T15:02:00",
@@ -360,7 +414,7 @@
             "url": "https://www.youtube.com/watch?v=UCtd7vLGgWPg0pgezpNDvbSg",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-04T08:36:29.380000",
+            "collected_at": "2026-02-06T10:45:01.443000",
             "duration": null,
             "title": "박지혜tv",
             "upload_date": null
@@ -370,7 +424,7 @@
             "url": "https://www.youtube.com/watch?v=LO_1m5cKpvI",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-04T08:36:29.380000",
+            "collected_at": "2026-02-06T10:45:02.852000",
             "duration": 547.0,
             "title": "조국, 과도한 정치적 행보…민주당과 합당, 섣부른 얘기[팩트앤뷰 박지혜]",
             "upload_date": null
@@ -380,7 +434,7 @@
             "url": "https://www.youtube.com/watch?v=peCJVFjq4D8",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-04T08:36:29.380000",
+            "collected_at": "2026-02-06T10:45:01.443000",
             "duration": 183.0,
             "title": "외교부장관 답변에 경악한 민주당 박지혜 의원...뉴욕타임즈 기자에게 뭐라 했길래..",
             "upload_date": null
@@ -390,7 +444,7 @@
             "url": "https://www.youtube.com/watch?v=fEgT5RAySi4",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-02T09:45:34.234000",
+            "collected_at": "2026-02-06T10:45:01.443000",
             "duration": 309.0,
             "title": "민주당 박지혜 의원,전기차 보급 촉진 관련 기자회견",
             "upload_date": null
@@ -420,7 +474,7 @@
             "url": "https://www.youtube.com/watch?v=A5QTNy5Wme0",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-01-21T08:45:31.012000",
+            "collected_at": "2026-02-06T10:45:02.852000",
             "duration": 1015.0,
             "title": "[뉴스큐] '민주 1호 인재' 박지혜 \"기후위기와 민생 접목할 의원 부족\" / YTN",
             "upload_date": null
@@ -450,7 +504,7 @@
             "url": "https://www.youtube.com/watch?v=J58OPTfGwus",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-04T08:36:30.806000",
+            "collected_at": "2026-02-06T10:45:02.852000",
             "duration": 11360.0,
             "title": "[최보라+1월 3일] 이재명 대통령 2026년 '대전환 원년' 선언+강선우 제명, 김병기 징계... 이혜훈은 청문회 넘을까? (박지혜·홍정민·강성필)",
             "upload_date": null
@@ -460,7 +514,7 @@
             "url": "https://www.youtube.com/watch?v=guSMtexo3x8",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-04T08:36:30.806000",
+            "collected_at": "2026-02-06T10:45:02.852000",
             "duration": 3988.0,
             "title": "(재)[박지혜 채현일 이용우 김현정] 오세훈의 조급증 #특검 #지선 / 전당원 투표 해설 / 산업재해 예방법 본격 준비/ 국힘은 정당이 아니다 등",
             "upload_date": null
@@ -470,7 +524,7 @@
             "url": "https://www.youtube.com/watch?v=PJKfrRmutfY",
             "HG_NM": "박지혜",
             "MONA_CD": "EMH4976E",
-            "collected_at": "2026-02-04T08:36:30.806000",
+            "collected_at": "2026-02-06T10:45:02.852000",
             "duration": 3926.0,
             "title": "[박지혜 김현정 이용우] 역대급 APEC 성과! 후속 과제는? / 내란동조·국정마비·민생포기 국민의힘,  정당해산으로 되갚아야 / 2025 국정감사 결산 등",
             "upload_date": null
@@ -2158,5 +2212,5 @@
             "RST_PROPOSER": "박지혜"
         }
     ],
-    "exported_at": "2026-02-04T18:40:13.232277"
+    "exported_at": "2026-02-06T15:38:29.957192"
 }

@@ -46,22 +46,22 @@
             "지사",
             "출마",
             "고양시",
-            "민주당",
             "사업",
             "경기도",
-            "예비",
-            "정책",
-            "철도",
-            "기획",
-            "등록",
             "도지사",
+            "정부",
+            "예비",
+            "민주당",
+            "철도",
+            "등록",
             "문턱",
-            "지역"
+            "지역",
+            "후보"
         ],
         "keyword_frequency": [
             {
                 "text": "충북",
-                "value": 45
+                "value": 46
             },
             {
                 "text": "지사",
@@ -69,15 +69,11 @@
             },
             {
                 "text": "출마",
-                "value": 16
+                "value": 19
             },
             {
                 "text": "고양시",
                 "value": 14
-            },
-            {
-                "text": "민주당",
-                "value": 13
             },
             {
                 "text": "사업",
@@ -88,11 +84,19 @@
                 "value": 12
             },
             {
+                "text": "도지사",
+                "value": 11
+            },
+            {
+                "text": "정부",
+                "value": 11
+            },
+            {
                 "text": "예비",
                 "value": 11
             },
             {
-                "text": "정책",
+                "text": "민주당",
                 "value": 11
             },
             {
@@ -100,15 +104,7 @@
                 "value": 11
             },
             {
-                "text": "기획",
-                "value": 11
-            },
-            {
                 "text": "등록",
-                "value": 10
-            },
-            {
-                "text": "도지사",
                 "value": 10
             },
             {
@@ -118,36 +114,40 @@
             {
                 "text": "지역",
                 "value": 10
+            },
+            {
+                "text": "후보",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:39:57.311292",
+        "last_analyzed_at": "2026-02-06T15:38:15.743624",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                1,
                 0,
                 0,
                 9,
                 8,
-                0
+                3,
+                0,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김영환 의원은 주로 재정 및 세제 개혁 분야에 집중하며, 개혁가적 입법 활동을 통해 국민의 경제적 안정성을 개선하는 데 주력하고 있습니다. 특히 조세특례제한법 및 국가재정법 관련 법안들을 통해 국민의 실생활과 직결된 세금 부담 완화 및 재정 투명성을 높이는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,75 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d038b0cf4096978468",
+            "link": "https://n.news.naver.com/mnews/article/366/0001140927?sid=102",
+            "created_at": "2026-02-06T10:37:18.327000",
+            "description": "이날 개소식에는 김영환 충북도지사, 이광형 카이스트 총장, 이연희 국회의원, 김대수 카이스트 생명과학기술대학장, 김용진 서울대병원 연구부원장, 한상배 충북대 약학대학장, 이규선 한국생명공학연구원... ",
+            "originallink": "https://biz.chosun.com/topics/topics_social/2026/02/06/FF2XV66HMFHJVEFJDMKGNADEEA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-02-06T09:05:00",
+            "related_members": [
+                "8O34202I",
+                "EBH1101V"
+            ],
+            "title": "충북 청주에 바이오 융합 플랫폼 ‘카이스트 바이오 스퀘어’ 개소"
+        },
+        {
+            "_id": "698545c638b0cf409697842f",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588457?sid=100",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "더불어민주당 김우영 의원(서울 은평구을)은 4일 국회의원회관에서 '기본사회 실현 및 기본사회 기본법... 조계원 의원과 무소속 최혁진 의원이 공동주최하고, 민주연구원과 더불어민주당 사회적경제위원회 등 유관... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/04/2026020490220.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-04T17:27:00",
+            "related_members": [
+                "EFU76868",
+                "8O34202I",
+                "6AU2417B",
+                "86R9476S",
+                "MIS62075",
+                "43Q3892U",
+                "3UI95829",
+                "EB16073M",
+                "1WE5693J",
+                "B7D7534L",
+                "8P37634C",
+                "GJ56729D",
+                "M0A1658U",
+                "X639721U",
+                "8TU8443O",
+                "CC78321E"
+            ],
+            "title": "與 김우영 \"기본사회 기본법, 완벽보다 시작이 우선\"…관련 토론회 개최"
+        },
+        {
+            "_id": "698545d038b0cf4096978469",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595726?sid=100",
+            "created_at": "2026-02-06T10:37:18.328000",
+            "description": "이에 대해 이장우 대전시장, 김태흠 충남지사, 김영환 충북지사 등은 국세·지방세 비율 개편 언급이 없고 한시적 지원에 그친다고 지적했는데 유 시장 역시 비판 행렬에 동참한 것이다. 기초자치단체장과 국회의원, 장관... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669408?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T11:24:00",
+            "related_members": [
+                "8O34202I"
+            ],
+            "title": "“행정통합, 수도권에 역차별…중앙-지방정부 수직관계여선 안돼” [민..."
+        },
+        {
+            "_id": "698545d038b0cf409697846a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008752269?sid=102",
+            "created_at": "2026-02-06T10:37:18.328000",
+            "description": "공감 발언은 특별자치단체 구성이 중부내륙의 공통 과제임을 보여주는 반응\"이라고 평가했다. 이 대변인은 중부내륙 행정 협력 회의를 주창해 운영하는 엄태영 국회의원과 김영환 충북도 지사를 만난 것으로 알려졌다.",
+            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6061408",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T09:51:00",
+            "related_members": [
+                "8O34202I",
+                "8348421R"
+            ],
+            "title": "이충형 \"제천·충주·원주 특별자치단체 제안에 두 도시 공감\""
+        },
         {
             "_id": "6981c73e38b0cf4096977af6",
             "link": "https://n.news.naver.com/mnews/article/421/0008751551?sid=102",
@@ -259,7 +328,7 @@
             "_id": "69814ae138b0cf40969776d0",
             "link": "https://n.news.naver.com/mnews/article/421/0008749441?sid=100",
             "created_at": "2026-02-03T10:09:51.482000",
-            "description": "대표도, 국회의원도 그 누구도 당원들의 결정에 승복해야 한다. 그렇게 하자\"고 요청했다. 정 대표는 이어... 이재강 의원은 비공개 회의 후 기자들과 만나 \"대체적인 의견은 합당 논의를 중단해야 한다는 것이었다\"며 \"일부... ",
+            "description": "대표도, 국회의원도 그 누구도 당원들의 결정에 승복해야 한다. 그렇게 하자\"고 요청했다. 정 대표는 이어... 그러자 친청계인 문정복 최고위원은 \"이 대통령께서 당 대표를 하던 시절이 기억난다\"며 \"의원총회고... ",
             "originallink": "https://www.news1.kr/politics/assembly/6059610",
             "press": "뉴스1",
             "pubDate": "2026-02-03T05:45:00",
@@ -406,7 +475,7 @@
             "_id": "697cbd2738b0cf4096976b11",
             "link": "https://n.news.naver.com/mnews/article/421/0008745165?sid=102",
             "created_at": "2026-01-30T23:16:06.979000",
-            "description": "김영환 현 지사가 10%, 노영민 전 대통령 비서실장과 송기섭 진천군수는 각각 8%, 임호선 국회의원은 7%를 보였다. 오차범위이기는 하지만 현재로서는 조 시장이 도지사 후보가 될 가능성이 작다. 이런 이유로 2년 뒤에 있을... ",
+            "description": "당시 윤진식 국회의원이 도지사 출마를 위해 이종배 시장에게 보궐선거 출마를 권유했고, 시장 후보로 조길형 중앙경찰학교장을 차출했다. 이 시장은 처음에 총선 출마를 거부했다가 심사숙고 끝에 시장직을 사퇴했다.... ",
             "originallink": "https://www.news1.kr/local/sejong-chungbuk/6056969",
             "press": "뉴스1",
             "pubDate": "2026-01-30T16:14:00",
@@ -532,82 +601,6 @@
                 "YGB8604T"
             ],
             "title": "꼬리에 꼬리를 무는 의혹…이혜훈 해명에도 여야 “변명 안돼”"
-        },
-        {
-            "_id": "6976fcf38459600028997f86",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423488?sid=100",
-            "created_at": "2026-01-26T14:34:40.836000",
-            "description": "여야 의원들은 이날 국회 재정경제기획위원회에서 열린 이 후보자 인사청문회에서 이 후보자를 둘러싼 각종... 이 후보자가 결혼한 아들을 ‘미혼’ 부양가족으로 포함한 이유로 아들 부부의 불화를 언급하자 진성준... ",
-            "originallink": "https://www.khan.co.kr/article/202601232008001",
-            "press": "경향신문",
-            "pubDate": "2026-01-23T20:08:00",
-            "related_members": [
-                "8O34202I",
-                "NUB4941Z",
-                "NX534083",
-                "WTR5885Y",
-                "LT72093S",
-                "UHB5553T",
-                "3C23171A"
-            ],
-            "title": "여당, 이혜훈 부정청약 의혹 ‘송곳 검증’…“주택법 위반 사과하라”..."
-        },
-        {
-            "_id": "6976fcf38459600028997f87",
-            "link": "https://n.news.naver.com/mnews/article/421/0008731691?sid=102",
-            "created_at": "2026-01-26T14:34:40.836000",
-            "description": "있다\"며 \"충북 국회의원들과 여러 가지 논의하고 준비해 충북이 서운한 마음이 들지 않도록 노력하겠다\"고 했다. 앞서 최고위원회에서는 김영환 충북지사의 사채와 관련한 언급도 있었다. 문정복 최고위원은 \"김 지사가... ",
-            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6049237",
-            "press": "뉴스1",
-            "pubDate": "2026-01-23T16:13:00",
-            "related_members": [
-                "GOC54665",
-                "8O34202I",
-                "2385336L"
-            ],
-            "title": "정청래 대표 \"충북도당 당원 명부 유출 철저 조사 지시\""
-        },
-        {
-            "_id": "6976fcf38459600028997f88",
-            "link": "https://n.news.naver.com/mnews/article/366/0001138044?sid=100",
-            "created_at": "2026-01-26T14:34:40.836000",
-            "description": "박홍근 민주당 의원은 23일 국회 재정경제기획위원회에서 열린 이 후보자 인사청문회에서 “정책 노선을 볼... 진성준 민주당 의원도 원펜타스 부정 청약 의혹을 언급하면서 “청약 규칙에 미혼인 자녀만 부양가족으로... ",
-            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/01/23/YIKM5UXQWFHDLNKGHNM4VNH2MM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-            "press": "조선일보",
-            "pubDate": "2026-01-23T14:59:00",
-            "related_members": [
-                "8O34202I",
-                "S824682L",
-                "EB16073M",
-                "WTR5885Y",
-                "LT72093S",
-                "3C23171A"
-            ],
-            "title": "“정책 질문 준비했는데 이혜훈 답변에 의구심”…與 의원들도 방어 대..."
-        },
-        {
-            "_id": "6972d1f484596000289976d0",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423305?sid=100",
-            "created_at": "2026-01-23T10:42:10.904000",
-            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 오 의원을 비롯해 김남근·김영환·김현정·민병덕·박상혁·안도걸·이강일·이정문·이소영 의원 등 특위 소속... ",
-            "originallink": "https://www.khan.co.kr/article/202601222037005",
-            "press": "경향신문",
-            "pubDate": "2026-01-22T20:37:00",
-            "related_members": [
-                "TZ228122",
-                "6VC83722",
-                "HXT76735",
-                "EB16073M",
-                "AEO5706C",
-                "7YL9580G",
-                "O0I2045I",
-                "IUX1829H",
-                "8O34202I",
-                "WTR5885Y",
-                "OIA3741M",
-                "H5476989"
-            ],
-            "title": "‘5000피’ 찍은 날…당·청 “3차 상법 개정, 조속 추진” 공감대"
         }
     ],
     "recent_videos": [
@@ -616,7 +609,7 @@
             "url": "https://www.youtube.com/watch?v=BVg4PlR6KKw",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 99.0,
             "title": "안산상록 김영환 의원, 18대 국회 최우수 국회의원으로 선정",
             "upload_date": null
@@ -626,7 +619,7 @@
             "url": "https://www.youtube.com/watch?v=jZLUL1Isf1o",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 181.0,
             "title": "투게더 - Ep.7 : 국회의원 김영환! 그의 행복나눔 지인들은 누구?",
             "upload_date": null
@@ -636,7 +629,7 @@
             "url": "https://www.youtube.com/watch?v=Dc_GonU66jU",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 431.0,
             "title": "\"있어요?\" \"봤어요?\" 김영환과 정청래의 환상적 콤비를 마주한 최상목",
             "upload_date": null
@@ -686,7 +679,7 @@
             "url": "https://www.youtube.com/watch?v=rH_psSLgZK4",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 155.0,
             "title": "김영환, 점잖으신데 운 떼더니...\"왜 공격\"....국힘 의원 발칵",
             "upload_date": null
@@ -696,7 +689,7 @@
             "url": "https://www.youtube.com/watch?v=hYmvkirEId8",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 826.0,
             "title": "[이슈 인터뷰] 정권교체 윤석열만 가능해? - 김영환 (前 국회의원) [표창원의 뉴스하이킥] | MBC 210716방송",
             "upload_date": null
@@ -716,7 +709,7 @@
             "url": "https://www.youtube.com/watch?v=k8GywBAJXT8",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:33:01.124000",
+            "collected_at": "2026-02-06T10:41:34.662000",
             "duration": 141.0,
             "title": "김영환 지사 \"청와대 개입\" 반발‥ 경찰 \"구속영장 신청 검토\"",
             "upload_date": null
@@ -726,7 +719,7 @@
             "url": "https://www.youtube.com/watch?v=V_OTRkRX6oU",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:33:01.124000",
+            "collected_at": "2026-02-06T10:41:34.662000",
             "duration": 111.0,
             "title": "김영환 지사 \"청와대 개입\" 반발‥ 경찰 \"구속영장 신청 검토\" (2025.12.22/뉴스데스크/MBC충북)",
             "upload_date": null
@@ -736,7 +729,7 @@
             "url": "https://www.youtube.com/watch?v=FJ6im-qZYPk",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 93.0,
             "title": "김영환 의원(민주당),  어린시절부터 지금까지",
             "upload_date": null
@@ -756,7 +749,7 @@
             "url": "https://www.youtube.com/watch?v=RWLBZf9sjV0",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 251.0,
             "title": "\"국힘, 이재명정부 실패만 바랍니까?\" 김영환, 본회의장 깔끔한 팩폭 ... 대왕고래, 양평고속도로 누구 작품이죠?",
             "upload_date": null
@@ -766,7 +759,7 @@
             "url": "https://www.youtube.com/watch?v=ifT6aMocTNE",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-04T08:32:59.830000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 295.0,
             "title": "국민 세금이 어디로 갔는지 모른다는 기재부… 김영환 의원 일침 \"‘이 정부’는 달라져야 합니다.”",
             "upload_date": null
@@ -806,7 +799,7 @@
             "url": "https://www.youtube.com/watch?v=1NDz0CPvOeo",
             "HG_NM": "김영환",
             "MONA_CD": "8O34202I",
-            "collected_at": "2026-02-02T09:42:02.170000",
+            "collected_at": "2026-02-06T10:41:33.326000",
             "duration": 453.0,
             "title": "\"정청래 의원이 김영환을 울린 사연? 지갑에 만원도 없던 야인 시절 그를 도운 의리!\"",
             "upload_date": null
@@ -1270,5 +1263,5 @@
             "RST_PROPOSER": "김영환"
         }
     ],
-    "exported_at": "2026-02-04T18:39:57.311292"
+    "exported_at": "2026-02-06T15:38:15.743624"
 }

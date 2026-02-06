@@ -48,40 +48,44 @@
     "analysis": {
         "keywords": [
             "민주당",
+            "관세",
             "투자",
             "특별법",
-            "설탕",
-            "관세",
-            "더불어민주당",
-            "국민",
             "대미",
+            "설탕",
+            "더불어민주당",
+            "트럼프",
+            "국민",
             "법안",
-            "여당",
             "처리",
-            "위원장",
             "경제",
-            "간사",
-            "총리"
+            "대통령",
+            "위원장",
+            "여당"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 29
+                "value": 27
+            },
+            {
+                "text": "관세",
+                "value": 22
             },
             {
                 "text": "투자",
-                "value": 20
+                "value": 22
             },
             {
                 "text": "특별법",
                 "value": 19
             },
             {
-                "text": "설탕",
+                "text": "대미",
                 "value": 18
             },
             {
-                "text": "관세",
+                "text": "설탕",
                 "value": 18
             },
             {
@@ -89,11 +93,11 @@
                 "value": 18
             },
             {
-                "text": "국민",
+                "text": "트럼프",
                 "value": 16
             },
             {
-                "text": "대미",
+                "text": "국민",
                 "value": 16
             },
             {
@@ -101,58 +105,54 @@
                 "value": 15
             },
             {
-                "text": "여당",
-                "value": 15
-            },
-            {
                 "text": "처리",
                 "value": 15
-            },
-            {
-                "text": "위원장",
-                "value": 14
             },
             {
                 "text": "경제",
                 "value": 14
             },
             {
-                "text": "간사",
-                "value": 13
+                "text": "대통령",
+                "value": 14
             },
             {
-                "text": "총리",
-                "value": 13
+                "text": "위원장",
+                "value": 14
+            },
+            {
+                "text": "여당",
+                "value": 14
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:43.164162",
+        "last_analyzed_at": "2026-02-06T15:38:59.709586",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                0,
                 1,
                 0,
                 3,
                 1,
-                1
+                2,
+                0,
+                0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"정태호 의원은 주로 조세, 재정, 그리고 사회적 안전망에 집중하며, 개혁가적 입법 활동을 통해 경제적 안정성과 복지 향상을 개선하는 데 주력하고 있습니다. 특히 조세특례제한법과 지속가능발전 기본법 관련 법안들을 통해 국민의 실생활과 직결된 경제적 지원과 환경 보호의 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -166,6 +166,23 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545e138b0cf40969784d1",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789897?sid=100",
+            "created_at": "2026-02-06T10:37:35.136000",
+            "description": "국회재정경제기획위원회가 설 연휴 전에 도널드 트럼프 미국 대통령발 ‘관세 재인상’ 문제와 관련한... 조국혁신당 의원, 천하람 개혁신당 의원이 참석했다. 임 위원장은 이날 면담에서 트럼프 대통령이 갑자기 관세를... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1243271.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-04T14:58:00",
+            "related_members": [
+                "UHB5553T",
+                "KNP22261",
+                "FU87526G",
+                "EH27538E",
+                "YGB8604T"
+            ],
+            "title": "국회 재경위, 트럼프 관세 압박 빌미된 ‘대미투자법’ 설 전 상정 논의"
+        },
         {
             "_id": "6982827238b0cf4096977cc4",
             "link": "https://n.news.naver.com/mnews/article/020/0003694858?sid=100",
@@ -202,7 +219,7 @@
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -266,7 +283,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -312,7 +329,7 @@
             "_id": "697ff10638b0cf4096977330",
             "link": "https://n.news.naver.com/mnews/article/003/0013741434?sid=100",
             "created_at": "2026-02-02T09:34:14.738000",
-            "description": "집행위원장인 조정식 대통령 정무특보와 윤호중 행정안전부 장관 등도 끝까지 자리를 지켰다. 민주당에서는... 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
+            "description": "김영진·김태년·박주민·정태호·황정아 의원 등이 함께했다. 김성환 기후에너지환경부 장관도 함께했다. 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
             "originallink": "https://www.newsis.com/view/NISX20260131_0003497625",
             "press": "뉴시스",
             "pubDate": "2026-01-31T17:09:00",
@@ -731,23 +748,6 @@
                 "YOG1280B"
             ],
             "title": "‘실세 총리’ ‘선거의 왕’ 수식어… DJ부터 대통령 4명과 각별"
-        },
-        {
-            "_id": "6976fcfa8459600028997fb5",
-            "link": "https://n.news.naver.com/mnews/article/028/0002788093?sid=101",
-            "created_at": "2026-01-26T14:34:47.741000",
-            "description": "여당 의원들도 검증의 날을 세웠다. 여야는 23일 국회 재정경제기획위원회에서 열린 이 후보자... 그는 이소영 민주당 의원이 “장남 부부가 결혼 이후 1년5개월간 주민등록상 주소가 전혀 겹치지 않았다”고 지적하자, 이를... ",
-            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1241419.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-23T21:50:00",
-            "related_members": [
-                "P0F1530P",
-                "WTR5885Y",
-                "EH27538E",
-                "UHB5553T",
-                "YGB8604T"
-            ],
-            "title": "여야, 한목소리로 “이혜훈 장남 입학 경위·아파트 청약 부적절” 질타"
         }
     ],
     "recent_videos": [
@@ -756,7 +756,7 @@
             "url": "https://www.youtube.com/watch?v=4WXoYeqtFl0",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:53.277000",
+            "collected_at": "2026-02-06T10:52:22.948000",
             "duration": 299.0,
             "title": "\"위원장의 말씀.. 사실에 부합하지 않아요\" 정태호의 팩폭에 위원장 '급정색' [G1현장영상]",
             "upload_date": null
@@ -776,7 +776,7 @@
             "url": "https://www.youtube.com/watch?v=BfBPpXQAWXk",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.889000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": 1253.0,
             "title": "\"'반윤석열 신당', 의미 있는 정당 될 것\" 정태호 더불어민주당 의원 [시사스페셜-정운갑의 집중분석]",
             "upload_date": null
@@ -796,7 +796,7 @@
             "url": "https://www.youtube.com/watch?v=gglqGz0YxzY",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.890000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": 314.0,
             "title": "200825 국회의원 정태호, 산자중기위 2019년 회계연도 결산질의",
             "upload_date": null
@@ -816,7 +816,7 @@
             "url": "https://www.youtube.com/watch?v=PtHbCuddoPA",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:53.277000",
+            "collected_at": "2026-02-06T10:52:22.948000",
             "duration": 1095.0,
             "title": "[이뉴스초대석] 정태호 “文정부 성공‧정권 재창출 견인… 관악, 서울 중심상권 영광 재현”",
             "upload_date": null
@@ -826,7 +826,7 @@
             "url": "https://www.youtube.com/watch?v=UCGrIqmBh85ToDm8qthbDKlA",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.889000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": null,
             "title": "정태호티비",
             "upload_date": null
@@ -836,7 +836,7 @@
             "url": "https://www.youtube.com/watch?v=gBC6RtLJWtU",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.890000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": 4045.0,
             "title": "210331 정태호 국회의원, [공식]새날 출연!",
             "upload_date": null
@@ -846,7 +846,7 @@
             "url": "https://www.youtube.com/watch?v=KJFHxWzVkFA",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.890000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": 1125.0,
             "title": "문재인정부를 말하다(with 다스뵈이다, 정태호 국회의원)",
             "upload_date": null
@@ -866,7 +866,7 @@
             "url": "https://www.youtube.com/watch?v=4a4phxHxOJE",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:53.277000",
+            "collected_at": "2026-02-06T10:52:22.948000",
             "duration": 638.0,
             "title": "201013 연합뉴스TV 1번지 현장 - 정태호 의원에게 묻는 정국현안",
             "upload_date": null
@@ -876,7 +876,7 @@
             "url": "https://www.youtube.com/watch?v=MWy0fBQqlUc",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:53.277000",
+            "collected_at": "2026-02-06T10:52:22.948000",
             "duration": 1101.0,
             "title": "20201116 - 국회방송 뉴스N [파워인터뷰] 더불어민주당 정태호 전략기획위원장",
             "upload_date": null
@@ -906,7 +906,7 @@
             "url": "https://www.youtube.com/watch?v=Zal_Bspkmbk",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.889000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": 113.0,
             "title": "정태호 국회의원이 직접 말해주는 검찰독재 투쟁기",
             "upload_date": null
@@ -926,7 +926,7 @@
             "url": "https://www.youtube.com/watch?v=1bRi60_Z44s",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:51.889000",
+            "collected_at": "2026-02-06T10:52:21.620000",
             "duration": 1409.0,
             "title": "국회의원25시_375회 정태호 의원 편[2020.12.21]",
             "upload_date": null
@@ -936,7 +936,7 @@
             "url": "https://www.youtube.com/watch?v=q7YwrfA8uEI",
             "HG_NM": "정태호",
             "MONA_CD": "UHB5553T",
-            "collected_at": "2026-02-04T08:43:53.277000",
+            "collected_at": "2026-02-06T10:52:22.948000",
             "duration": 1108.0,
             "title": "[백운기의 뉴스와이드] 정태호 \"국정감사, 민생 대책 논의 없이 정쟁만 반복돼 답답\" (1008)",
             "upload_date": null
@@ -2154,5 +2154,5 @@
             "RST_PROPOSER": "정태호"
         }
     ],
-    "exported_at": "2026-02-04T18:40:43.164677"
+    "exported_at": "2026-02-06T15:38:59.711091"
 }

@@ -53,25 +53,29 @@
     "analysis": {
         "keywords": [
             "윤한",
+            "고발",
             "선거",
             "장동",
-            "윤석열",
             "국민",
+            "윤석열",
+            "정무위",
+            "위원장",
+            "김건",
             "계엄",
+            "위증",
             "단독",
             "권성동",
             "사과",
-            "대통령",
-            "대표",
-            "지방",
-            "특검",
-            "정무",
-            "통일교"
+            "대통령"
         ],
         "keyword_frequency": [
             {
                 "text": "윤한",
-                "value": 29
+                "value": 30
+            },
+            {
+                "text": "고발",
+                "value": 19
             },
             {
                 "text": "선거",
@@ -82,16 +86,32 @@
                 "value": 14
             },
             {
+                "text": "국민",
+                "value": 13
+            },
+            {
                 "text": "윤석열",
                 "value": 13
             },
             {
-                "text": "국민",
+                "text": "정무위",
                 "value": 12
+            },
+            {
+                "text": "위원장",
+                "value": 12
+            },
+            {
+                "text": "김건",
+                "value": 11
             },
             {
                 "text": "계엄",
                 "value": 11
+            },
+            {
+                "text": "위증",
+                "value": 10
             },
             {
                 "text": "단독",
@@ -108,56 +128,36 @@
             {
                 "text": "대통령",
                 "value": 10
-            },
-            {
-                "text": "대표",
-                "value": 9
-            },
-            {
-                "text": "지방",
-                "value": 8
-            },
-            {
-                "text": "특검",
-                "value": 8
-            },
-            {
-                "text": "정무",
-                "value": 7
-            },
-            {
-                "text": "통일교",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:29.088325",
+        "last_analyzed_at": "2026-02-06T15:38:44.441323",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                1,
-                2,
                 0,
                 3,
                 1,
                 0,
-                0
+                0,
+                3,
+                3
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"윤한홍 의원은 주로 가맹사업, 금융, 보훈 및 복지 분야에 집중하며, 보호자적인 입법 활동을 통해 국가유공자와 일반 시민의 복지를 개선하는 데 주력하고 있습니다. 특히 보훈 관련 법안들을 통해 국민의 실생활과 직결된 안전과 지원 체계를 강화하는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -171,6 +171,118 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c238b0cf40969783dc",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107273&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-02-06T10:37:04.160000",
+            "description": "결과적으로는 김영수 전 의원이 공천을 받았잖아요.그리고 국회의원이 됐고요. 그리고 세비를 반반씩... 윤상현, 이준석 등과 여러 가지 소통을 했다.이건 뭐 다 드러나 있어요. ◇김영수: 공관위의 결정으로 공천을 받은... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107273&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-02-06T09:30:00",
+            "related_members": [
+                "MNZ4401T",
+                "TQP7167T",
+                "8X15119P",
+                "GDG1847Z",
+                "8Q88373R",
+                "SLW27496",
+                "QWL7778X",
+                "MSY7784L"
+            ],
+            "title": "'명태균 무죄' 파장 계속, 김건희 재판 방패막되나..\"면죄부 논리\" vs \"증..."
+        },
+        {
+            "_id": "698545c238b0cf40969783dd",
+            "link": "https://n.news.naver.com/mnews/article/052/0002311209?sid=100",
+            "created_at": "2026-02-06T10:37:04.160000",
+            "description": "결과적으로는 김영수 전 의원이 공천을 받았잖아요.그리고 국회의원이 됐고요. 그리고 세비를 반반씩... 윤상현, 이준석 등과 여러 가지 소통을 했다.이건 뭐 다 드러나 있어요. ◇김영수: 공관위의 결정으로 공천을 받은... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602060854343968",
+            "press": "YTN",
+            "pubDate": "2026-02-06T08:54:00",
+            "related_members": [
+                "MNZ4401T",
+                "TQP7167T",
+                "8X15119P",
+                "GDG1847Z",
+                "8Q88373R",
+                "SLW27496",
+                "QWL7778X",
+                "MSY7784L"
+            ],
+            "title": "'명태균 무죄' 파장 계속, 김건희 재판 방패막되나..\"면죄부 논리\" vs \"증..."
+        },
+        {
+            "_id": "698545c138b0cf40969783d4",
+            "link": "https://n.news.naver.com/mnews/article/052/0002311092?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "유영하 의원도 국회증언감정법 개정안을 언급하며, 위원장이 자기 명의로 고발하는 걸 거부할 때 과반... 박범계 의원도 윤한홍 위원장에게 팔짱 끼고 있지 말고 위원장이 선도적으로 나쁜 사람을 추려 고발하자고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602060258598469",
+            "press": "YTN",
+            "pubDate": "2026-02-06T02:58:00",
+            "related_members": [
+                "GX22581L",
+                "JZV5283U",
+                "GF286398",
+                "NB64509Z",
+                "8X15119P",
+                "7R156073"
+            ],
+            "title": "여야, 정무위서 범여권 주도 '위증' 증인 고발 놓고 충돌"
+        },
+        {
+            "_id": "698545c138b0cf40969783d5",
+            "link": "https://n.news.naver.com/mnews/article/421/0008756630?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "강 의원은 \"국회 증언 감정법상 위원회 고발 절차는 명확하다. 위원회 의결이 선행돼야 하고 그에 따라... 않나\"라며 \"(윤한홍) 위원장께서 선도적으로 양당 간사를 불러 모아 진짜 나쁜 사람들이 있다면 추려서 고발을 하자... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6063741",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T16:41:00",
+            "related_members": [
+                "GX22581L",
+                "GF286398",
+                "5KV96424",
+                "NB64509Z",
+                "7R156073",
+                "JZV5283U",
+                "8X15119P"
+            ],
+            "title": "정무위, 김병주·김형석 '증감법 고발' 설전…22분만에 파행"
+        },
+        {
+            "_id": "698545c138b0cf40969783d6",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310780?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "유영하 의원도 국회증언감정법 개정안을 언급하며, 위원장이 자기 명의로 고발하는 걸 거부할 때 과반... 박범계 의원도 윤한홍 위원장에게 팔짱 끼고 있지 말고 위원장이 선도적으로 나쁜 사람을 추려 고발하자고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602051435446190",
+            "press": "YTN",
+            "pubDate": "2026-02-05T14:35:00",
+            "related_members": [
+                "GX22581L",
+                "JZV5283U",
+                "GF286398",
+                "NB64509Z",
+                "8X15119P",
+                "7R156073"
+            ],
+            "title": "여야, 정무위서 범여권 주도 '위증' 증인 고발 놓고 충돌"
+        },
+        {
+            "_id": "698545c138b0cf40969783d7",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588597?sid=100",
+            "created_at": "2026-02-06T10:37:03.534000",
+            "description": "같은 당 유영하 의원도 국회증언감정법의 개정으로 재적 위원 과반수의 연서(서명)로 위증 등을 고발할 수... 지난 1년간 국민의힘 소속 윤한홍 정무위원장에게 문제의 증인들에 대해 정무위 차원의 고발을 촉구했지만... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/05/2026020590103.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-05T13:51:00",
+            "related_members": [
+                "GX22581L",
+                "GF286398",
+                "NB64509Z",
+                "JZV5283U",
+                "8X15119P"
+            ],
+            "title": "여야, 정무위서 '김병주·김형석 위증' 범與 주도 고발 놓고 설전"
+        },
         {
             "_id": "69814aeb38b0cf4096977728",
             "link": "https://n.news.naver.com/mnews/article/052/0002309288?sid=100",
@@ -605,7 +717,7 @@
             "url": "https://www.youtube.com/watch?v=spHNeCj9JFg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:08.370000",
+            "collected_at": "2026-02-06T10:48:38.751000",
             "duration": 466.0,
             "title": "[현장영상] 윤한홍 뜻밖의 발언에 '당황'…옆 의원 표정이 점점 굳더니 / JTBC News",
             "upload_date": null
@@ -615,7 +727,7 @@
             "url": "https://www.youtube.com/watch?v=6rHkLAeAoF0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:08.370000",
+            "collected_at": "2026-02-06T10:48:38.751000",
             "duration": 1059.0,
             "title": "윤한홍, '의대 정원 사과' 건의 하자 \"윤, 격노하며 욕해\"  / JTBC 이가혁 라이브",
             "upload_date": null
@@ -625,7 +737,7 @@
             "url": "https://www.youtube.com/watch?v=PQ3XQVIq5XA",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:08.370000",
+            "collected_at": "2026-02-06T10:48:38.751000",
             "duration": 529.0,
             "title": "'원조 친윤' 윤한홍 장동혁 면전서 “똥 묻은 개” [현장영상] / 채널A",
             "upload_date": null
@@ -635,7 +747,7 @@
             "url": "https://www.youtube.com/watch?v=6n3pzkmKlI0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:08.370000",
+            "collected_at": "2026-02-06T10:48:38.751000",
             "duration": 122.0,
             "title": "\"이런 얘기 더 이상 안 된다\"…윤한홍, 장동혁 면전서 \"계엄 사과·윤 절연하라\"｜지금 이 장면",
             "upload_date": null
@@ -645,7 +757,7 @@
             "url": "https://www.youtube.com/watch?v=Aesp0XenRuY",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:08.370000",
+            "collected_at": "2026-02-06T10:48:38.751000",
             "duration": 2039.0,
             "title": "\"똥 묻은 개가…\" 장동혁 면전서 면박 준 '원조 친윤' 윤한홍 [뉴스와이드]",
             "upload_date": null
@@ -655,7 +767,7 @@
             "url": "https://www.youtube.com/watch?v=8UWMoTP2rVg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:09.659000",
+            "collected_at": "2026-02-06T10:48:40.059000",
             "duration": 460.0,
             "title": "[지금뉴스] 원조 ‘친윤’ 윤한홍 “윤석열과 절연이 이재명에 복수하는 것” / KBS 2025.12.05.",
             "upload_date": null
@@ -665,7 +777,7 @@
             "url": "https://www.youtube.com/watch?v=UCwAQlslOvR_fCKJ8qYdee6w",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:08.370000",
+            "collected_at": "2026-02-06T10:48:38.751000",
             "duration": null,
             "title": "윤한홍희망TV",
             "upload_date": null
@@ -685,7 +797,7 @@
             "url": "https://www.youtube.com/watch?v=1k-n8j7QJDg",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:09.659000",
+            "collected_at": "2026-02-06T10:48:40.059000",
             "duration": 132.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" / JTBC 뉴스룸",
             "upload_date": null
@@ -695,7 +807,7 @@
             "url": "https://www.youtube.com/watch?v=vGHYN3pKR0I",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:09.659000",
+            "collected_at": "2026-02-06T10:48:40.059000",
             "duration": 747.0,
             "title": "[단독] \"윤한홍, '김건희가 찍은 업체'라며 21그램 계약 지시\" [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -725,7 +837,7 @@
             "url": "https://www.youtube.com/watch?v=gBZwgpmufWk",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:09.659000",
+            "collected_at": "2026-02-06T10:48:40.059000",
             "duration": 1414.0,
             "title": "윤한홍 \"평생 들을 욕 10분간\" 尹 '쌍욕' 폭격..'이XX' 팽당한 당대표들..무릎꿇은 충암파에 '이런 X' 재소환 - [핫이슈PLAY] 2025년 12월 14일",
             "upload_date": null
@@ -735,7 +847,7 @@
             "url": "https://www.youtube.com/watch?v=Y253i1C-Uu0",
             "HG_NM": "윤한홍",
             "MONA_CD": "8X15119P",
-            "collected_at": "2026-02-04T08:40:09.659000",
+            "collected_at": "2026-02-06T10:48:40.059000",
             "duration": 1406.0,
             "title": "[뉴스1번지] 민주 '1인 1표제' 부결…'친윤' 윤한홍 \"절연·사과\" / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -1487,5 +1599,5 @@
             "RST_PROPOSER": "윤한홍"
         }
     ],
-    "exported_at": "2026-02-04T18:40:29.088325"
+    "exported_at": "2026-02-06T15:38:44.441827"
 }

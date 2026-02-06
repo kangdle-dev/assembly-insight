@@ -43,13 +43,13 @@
     "analysis": {
         "keywords": [
             "한민",
+            "대표",
             "이해찬",
             "총리",
-            "대표",
             "영결식",
             "합당",
-            "엄수",
             "민주당",
+            "엄수",
             "정청래",
             "민주",
             "조국",
@@ -61,7 +61,11 @@
         "keyword_frequency": [
             {
                 "text": "한민",
-                "value": 49
+                "value": 59
+            },
+            {
+                "text": "대표",
+                "value": 33
             },
             {
                 "text": "이해찬",
@@ -69,31 +73,27 @@
             },
             {
                 "text": "총리",
-                "value": 28
-            },
-            {
-                "text": "대표",
-                "value": 23
+                "value": 26
             },
             {
                 "text": "영결식",
-                "value": 22
+                "value": 23
             },
             {
                 "text": "합당",
-                "value": 18
+                "value": 21
+            },
+            {
+                "text": "민주당",
+                "value": 19
             },
             {
                 "text": "엄수",
                 "value": 18
             },
             {
-                "text": "민주당",
-                "value": 16
-            },
-            {
                 "text": "정청래",
-                "value": 14
+                "value": 17
             },
             {
                 "text": "민주",
@@ -117,37 +117,37 @@
             },
             {
                 "text": "회관",
-                "value": 10
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:50.291390",
+        "last_analyzed_at": "2026-02-06T15:39:07.367606",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                2,
-                4,
                 10,
                 0,
                 1,
-                4,
+                5,
+                1,
+                1,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"한민수 의원은 주로 정보통신 및 방송 관련 법안과 공직 선거 제도 개선에 집중하며, 혁신가적 입법 활동을 통해 국민의 안전과 공정성을 개선하는 데 주력하고 있습니다. 특히 정보통신망 및 방송법 관련 법안들을 통해 국민의 실생활과 직결된 디지털 환경의 안전성과 공정한 선거 시스템을 만들어내는 행보를 보입니다.\"",
@@ -162,10 +162,70 @@
     },
     "recent_news": [
         {
+            "_id": "698545e538b0cf40969784e3",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310882?sid=100",
+            "created_at": "2026-02-06T10:37:39.587000",
+            "description": "[한민수] 나와야 되겠죠, 만약에 당당한 정치인이 있으면. 그런데 저는 오세훈 시장이 간만에 옳은 소리 했다고 한 게 당대표가 책임 져라. 물을 수 있는 거 아닙니까? 당원도 물을 수 있는 거고 국회의원도 물을 수 있는... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602051546007946",
+            "press": "YTN",
+            "pubDate": "2026-02-05T15:46:00",
+            "related_members": [
+                "BT62420K",
+                "KFM1081G",
+                "2385336L",
+                "4X525582",
+                "JZV5283U",
+                "JG77046J",
+                "8JG4358H",
+                "CGW7415Z"
+            ],
+            "title": "[정치ON] 장동혁 승부수...\"당원이 물러나라면 의원까지 사퇴\""
+        },
+        {
+            "_id": "698545c538b0cf409697842a",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310309?sid=100",
+            "created_at": "2026-02-06T10:37:07.698000",
+            "description": "당무 표결에서 국회의원과 권리 당원이 똑같은 1표를 행사하게 되면 당원들에게 인기가 많은 정청래 대표... 한민수 의원은 이재명은 한다라고 외우라고 하던데요, 어제 인터뷰에서. 물론 다주택자가 모두 투기성은 아니고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602041638335400",
+            "press": "YTN",
+            "pubDate": "2026-02-04T16:38:00",
+            "related_members": [
+                "LYY5513O",
+                "5TQ6306B",
+                "KFM1081G",
+                "2385336L",
+                "C7E79345",
+                "JZY9937U",
+                "5N65159P",
+                "BT62420K",
+                "6EN68926",
+                "EH27538E",
+                "EPI69383",
+                "5KV82250",
+                "YGB8604T",
+                "8JG4358H"
+            ],
+            "title": "[정치ON] 정청래 \"전 당원 여론조사\"...장동혁 \"영수회담 제안\""
+        },
+        {
+            "_id": "698282a238b0cf4096977ce0",
+            "link": "http://andongmbc.co.kr/adboard/NewsView80596",
+            "created_at": "2026-02-04T08:20:00.787000",
+            "description": "대다수가 현역 국회의원들이어서 의원직 사퇴가 필수인 예비 후보 등록을 선택하지 않는 겁니다. 또 예비... 최종 후보자로 내놓느냐에만 관심이 쏠리고 있습니다. MBC뉴스 권윤수입니다. (영상취재 한보욱 그래픽 한민수)",
+            "originallink": "http://andongmbc.co.kr/adboard/NewsView80596",
+            "press": "MBC",
+            "pubDate": "2026-02-03T21:26:00",
+            "related_members": [
+                "WTR5885Y",
+                "8JG4358H"
+            ],
+            "title": "[R]예비 후보 등록 첫날인데 썰렁...왜?"
+        },
+        {
             "_id": "6981c73838b0cf4096977aeb",
             "link": "https://n.news.naver.com/mnews/article/052/0002309789?sid=100",
             "created_at": "2026-02-03T19:00:21.660000",
-            "description": "[앵커] 이런 분위기 속에서 국민의힘 최다선 의원인 6선의 조경태 의원은 2월말 3월초가재건의... 1인 1표제를 놓고 중앙위원회에서 중앙위원들, 다시 말해서 국회의원과 지역위원장 그리고 시도지사들과... ",
+            "description": "1인 1표제를 놓고 중앙위원회에서 중앙위원들, 다시 말해서 국회의원과 지역위원장 그리고 시도지사들과... 민주당 한민수 의원이 국민의힘을 향해서 모르면 그냥 외워라, 이재명은 합니다. 외우라고 했습니다. [김성태]... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202602031611274585",
             "press": "YTN",
             "pubDate": "2026-02-03T16:11:00",
@@ -189,7 +249,7 @@
             "_id": "6981c72f38b0cf4096977acb",
             "link": "https://n.news.naver.com/mnews/article/421/0008750537?sid=100",
             "created_at": "2026-02-03T19:00:12.559000",
-            "description": "초·재선 사이에도 반발이 있는 가운데 4일 재선 의원 모임 '더민재'도 국회의원회관에서 관련 논의를 한다.... 페이스북을 통해 박지원 의원이 제안한 당대표-중진 간담회, 진성준 의원이 제언한 당 지도부가 토론 절차와... ",
+            "description": "초·재선 사이에도 반발이 있는 가운데 4일 재선 의원 모임 '더민재'도 국회의원회관에서 관련 논의를 한다.... 한민수 당대표 비서실장은 이날 YTN 라디오에서 \"정 대표도 더 일찍 지도부와 협의를 못한 부분은 아쉽게... ",
             "originallink": "https://www.news1.kr/politics/assembly/6060321",
             "press": "뉴스1",
             "pubDate": "2026-02-03T12:59:00",
@@ -213,7 +273,7 @@
             "_id": "6981c72f38b0cf4096977acd",
             "link": "https://n.news.naver.com/mnews/article/021/0002768525?sid=100",
             "created_at": "2026-02-03T19:00:12.559000",
-            "description": "정 대표는 전날(2일) 이언주·황명선 최고위원을 만난 데 이어 이날 강득구 최고위원과 별도 회동하는 것으로... 경기지사 출마를 준비하고 있는 한준호 의원은 이날 국회에서 기자회견을 열고 “결정을 내려야 한다면... ",
+            "description": "재선 의원 일부는 오는 4일 오전 국회에서 간담회를 열고 합당 관련 의견을 모은다. 정 대표 비서실장을 맡고 있는 한민수 의원은 이날 YTN 라디오에서 “합당으로 정 대표가 자기 정치를 하려 한다. 이게 공격의 핵심”... ",
             "originallink": "https://www.munhwa.com/article/11565776?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-03T11:56:00",
@@ -233,7 +293,7 @@
             "_id": "6981c73838b0cf4096977ae6",
             "link": "https://n.news.naver.com/mnews/article/056/0012117723?sid=100",
             "created_at": "2026-02-03T19:00:21.008000",
-            "description": "그러면서 \"당원은 물론 최고위원과 국회의원들조차 충분히 공유받지 못한 채 일방적으로 추진되는 합당은... 민주당 장철민 의원도 지금의 합당 논의에는 문제가 있다고 밝혔습니다. 장 의원은 오늘 SBS 라디오 '김태현의... ",
+            "description": "그러면서 \"당원은 물론 최고위원과 국회의원들조차 충분히 공유받지 못한 채 일방적으로 추진되는 합당은... 반면, 당 대표 비서실장인 한민수 의원은, 합당 제안의 절차적인 문제는 지적할 수 있지만 합당 제안이 '당의... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476006&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-03T11:40:00",
@@ -250,7 +310,7 @@
             "_id": "697ff10d38b0cf409697734e",
             "link": "http://andongmbc.co.kr/adboard/NewsView80547",
             "created_at": "2026-02-02T09:34:21.496000",
-            "description": "여권에서는 민주당 경북도당 위원장인 임미애 국회의원과 오중기 전 청와대 행정관이 세평에 오릅니다. 선거의 최대 변수는 통합 단체장 선출 여부입니다. 통합 단체장을 선출하게 되면 대구시장 후보와 도지사 후보가... ",
+            "description": "\" 이 밖에도 야권에선 전현직 국회의원과 다선 단체장이 추가로 나올 가능성도 있습니다. 여권에서는 민주당... 검찰 송치 건 등이 이번 선거의 쟁점으로 떠오를 전망입니다. MBC 뉴스 윤태호입니다. (영상취재 , 그래픽 한민수)",
             "originallink": "http://andongmbc.co.kr/adboard/NewsView80547",
             "press": "MBC",
             "pubDate": "2026-02-02T09:06:00",
@@ -286,7 +346,7 @@
             "_id": "697ff10838b0cf4096977337",
             "link": "https://n.news.naver.com/mnews/article/057/0001933015?sid=100",
             "created_at": "2026-02-02T09:34:16.320000",
-            "description": "장례 기간 상주 역할을 한 김부겸 전 총리와 윤호중 행정안전부 장관은 발인식 시작 전 고인에게 먼저... 영결식은 오전 9시 국회의원회관에서 진행됐습니다. 이 자리에는 이 대통령과 김혜경 여사가 직접 참석해 고인의... ",
+            "description": "민주당 한병도 원내대표, 추미애·김태년·김영배·한민수 의원과 윤호중·권오을 장관, 조국 대표 등도... 영결식은 오전 9시 국회의원회관에서 진행됐습니다. 이 자리에는 이 대통령과 김혜경 여사가 직접 참석해 고인의... ",
             "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5172702",
             "press": "매일경제",
             "pubDate": "2026-01-31T09:33:00",
@@ -322,7 +382,7 @@
             "_id": "697ff10838b0cf4096977339",
             "link": "https://n.news.naver.com/mnews/article/005/0001829438?sid=100",
             "created_at": "2026-02-02T09:34:16.320000",
-            "description": "장례 기간 상주 역할을 맡았던 김부겸 전 총리와 윤호중 행정안전부 장관은 발인에 앞서 고인에게 두 차례... 이후 민주평화통일자문회의 사무실과 더불어민주당 당사에서 차례로 노제가 치러졌으며, 오전 9시엔 국회의원... ",
+            "description": "한병도 민주당 원내대표를 비롯해 추미애·김태년·김영배·한민수 민주당 의원과 윤호중·권오을 장관, 조국... 9시엔 국회의원회관에서 영결식이 진행됐다. 고인은 서울 서초구에 위치한 서울추모공원에서 화장을 마친 뒤... ",
             "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029329431&code=61111111&cp=nv",
             "press": "국민일보",
             "pubDate": "2026-01-31T09:26:00",
@@ -340,7 +400,7 @@
             "_id": "697ff10838b0cf409697733a",
             "link": "https://n.news.naver.com/mnews/article/023/0003956370?sid=100",
             "created_at": "2026-02-02T09:34:16.320000",
-            "description": "의원, 윤호중·권오을 장관, 조국 대표 등은 운구 차량 앞에서 대기하고 있었다. 이들은 고인의 관을 실은 운구 차량 트렁크가 닫히자 일제히 묵념했다. 발인에 이어 영결식은 이날 오전 9시 국회 의원회관에서 진행된다.... ",
+            "description": "김영배·한민수 의원, 윤호중·권오을 장관, 조국 대표 등은 운구 차량 앞에서 대기하고 있었다. 이들은 고인의 관을 실은 운구 차량 트렁크가 닫히자 일제히 묵념했다. 발인에 이어 영결식은 이날 오전 9시 국회... ",
             "originallink": "https://www.chosun.com/politics/politics_general/2026/01/31/VDH6GHJ24JCW5CUNV6774QW4EY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
             "press": "조선일보",
             "pubDate": "2026-01-31T09:20:00",
@@ -358,7 +418,7 @@
             "_id": "697ff10838b0cf409697733b",
             "link": "https://n.news.naver.com/mnews/article/079/0004110972?sid=100",
             "created_at": "2026-02-02T09:34:16.320000",
-            "description": "의원, 윤호중·권오을 장관, 조국 대표 등이 운구차 앞에서 대기했다. 고인 관을 실은 운구차 트렁크가 닫히자 이들은 고인에게 묵념했다. 영결식은 이날 오전 9시부터 국회 의원회관에서 진행된다. 그 전... ",
+            "description": "추미애·김태년·김영배·한민수 의원, 윤호중·권오을 장관, 조국 대표 등이 운구차 앞에서 대기했다. 고인 관을 실은 운구차 트렁크가 닫히자 이들은 고인에게 묵념했다. 영결식은 이날 오전 9시부터 국회 의원회관에서... ",
             "originallink": "https://www.nocutnews.co.kr/news/6464840?utm_source=naver&utm_medium=article&utm_campaign=20260131090821",
             "press": "노컷뉴스",
             "pubDate": "2026-01-31T09:09:00",
@@ -375,7 +435,7 @@
             "_id": "697ff10838b0cf409697733d",
             "link": "https://n.news.naver.com/mnews/article/016/0002593859?sid=100",
             "created_at": "2026-02-02T09:34:16.320000",
-            "description": "윤호중·권오을 장관, 조국 대표 등은 운구 차량 앞에서 대기하고 있었다. 고인의 관을 실은 운구 차량 트렁크가 닫히자 이들은 일제히 묵념으로 고인의 가는 길을 애도했다. 발인에 이어 영결식은 이날 오전 9시 국회의원... ",
+            "description": "민주당 한병도 원내대표, 추미애·김태년·김영배·한민수 의원, 윤호중·권오을 장관, 조국 대표 등은 운구... 발인에 이어 영결식은 이날 오전 9시 국회의원회관에서 진행된다. 그 전에 민주평화통일자문회의 사무실과... ",
             "originallink": "https://biz.heraldcorp.com/article/10666803?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-01-31T08:44:00",
@@ -646,158 +706,17 @@
                 "8JG4358H"
             ],
             "title": "이해찬 전 총리 별세에 정청래, 제주 일정 전면 취소…서울행(종합)"
-        },
-        {
-            "_id": "6972d22884596000289977ec",
-            "link": "https://n.news.naver.com/mnews/article/079/0004108240?sid=100",
-            "created_at": "2026-01-23T10:43:02.379000",
-            "description": "서울 강북을 국회의원 한민수입니다. ◇ 박성태&gt; 일단 첫 번째 궁금한 게 앞서 제가 얘기를 했었는데 어제 전격 발표를 했는데 논의는 그러면 언제부터 있었냐는 겁니다. ◆ 한민수&gt; 구체적인 시점은 제가 잘 알지 못하고 또... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6460829?utm_source=naver&utm_medium=article&utm_campaign=20260123095621",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-23T09:57:00",
-            "related_members": [
-                "JG77046J",
-                "2385336L",
-                "8JG4358H",
-                "KFM1081G"
-            ],
-            "title": "한민수 \"연임 위해 조국당 합당? '찐명' 정청래가 그러겠나\""
-        },
-        {
-            "_id": "6972d1ef84596000289976aa",
-            "link": "https://n.news.naver.com/mnews/article/052/0002304465?sid=100",
-            "created_at": "2026-01-23T10:42:05.625000",
-            "description": "[한민수] 제가 그걸 어떻게 알겠습니까? 그리고 저런 문제는 지금 비서실장이시고 또 그다음에 본인이 가장 중요할 거예요. 출마 같은 경우는 정치인들은 어디 국회의원이 됐든 지자체장이 됐든 본인 결심이 제일 중요한... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601221641202248",
-            "press": "YTN",
-            "pubDate": "2026-01-22T16:41:00",
-            "related_members": [
-                "KFM1081G",
-                "8Q88373R",
-                "MNZ4401T",
-                "E1J8836Y",
-                "TZP9391O",
-                "S824682L",
-                "6EN68926",
-                "QWL7778X",
-                "9YO73104",
-                "IN328264",
-                "UF53617M",
-                "8JG4358H"
-            ],
-            "title": "[정치ON] 박근혜 만류로 끝난 8일의 '장동혁 단식'...정치적 득과 실은?"
-        },
-        {
-            "_id": "6972d1fd8459600028997712",
-            "link": "https://n.news.naver.com/mnews/article/421/0008727467?sid=100",
-            "created_at": "2026-01-23T10:42:19.252000",
-            "description": "민주당은 이날 오전 10시 국회에서 의원총회를 열고 검찰개혁에 대한 논의를 이어간다. 한정애 정책위의장... 한민수 당대표 비서실장은 전날 MBC라디오에서 '경찰 비대화 통제 방안도 강구돼야 하는 것 아니냐'는 질문에... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6046532",
-            "press": "뉴스1",
-            "pubDate": "2026-01-22T06:05:00",
-            "related_members": [
-                "RPN2293B",
-                "URV1689Q",
-                "8BF5855P",
-                "XPP2564T",
-                "OFE45081",
-                "NUB4941Z",
-                "1A82234K",
-                "N2P9317N",
-                "8JG4358H"
-            ],
-            "title": "與, 검찰 보완수사 불가 기조 수정할까…중수청법 정책의총"
         }
     ],
     "recent_videos": [
-        {
-            "_id": "69659751887d07f7ba2faeb3",
-            "url": "https://www.youtube.com/watch?v=vIkTsEu4b70",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
-            "duration": 200.0,
-            "title": "내란수괴 동의 못한다? 대폭발한 한민수.. 날이 서는 과방위 회의장",
-            "upload_date": null
-        },
         {
             "_id": "697cc17838b0cf4096976ee9",
             "url": "https://www.youtube.com/watch?v=V23VIwJDOn4",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
+            "collected_at": "2026-02-06T10:54:11.820000",
             "duration": 1455.0,
             "title": "[더in터뷰] 한민수 \"합당 제안이 연임용? 성립 안 돼…지선 승리 위해 뛸 것\" / JTBC 이가혁 라이브",
-            "upload_date": null
-        },
-        {
-            "_id": "6973284e8459600028997b0f",
-            "url": "https://www.youtube.com/watch?v=1-4oz_PcMuA",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:45.602000",
-            "duration": 1226.0,
-            "title": "한민수 \"연임 위해 조국당 합당? '찐명' 정청래가 그러겠나",
-            "upload_date": null
-        },
-        {
-            "_id": "6970152e297082fcc2b34ef7",
-            "url": "https://www.youtube.com/watch?v=IjWcGWfMMr8",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
-            "duration": 274.0,
-            "title": "한민수 \"이 대통령 '반명' 질문 현장서 들어…뼈 있는 농담 아니라 뼈 없어\" [뉴스와이드]",
-            "upload_date": null
-        },
-        {
-            "_id": "6966f06c887d07f7ba2fb559",
-            "url": "https://www.youtube.com/watch?v=ABk_lTMZNEk",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:45.602000",
-            "duration": 130.0,
-            "title": "오세훈 시장 쉴드치는 박정훈에 직격탄 날리는 한민수 \"1도 관심없어요!\"",
-            "upload_date": null
-        },
-        {
-            "_id": "69659751887d07f7ba2faeb8",
-            "url": "https://www.youtube.com/watch?v=0EX7AzGIkqI",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-14T10:25:00.460000",
-            "duration": 1427.0,
-            "title": "[정면승부] 윤희석 “당의 주인은 국민”  vs 한민수 “당의 주인은 당원”_230926",
-            "upload_date": null
-        },
-        {
-            "_id": "69659751887d07f7ba2faeb7",
-            "url": "https://www.youtube.com/watch?v=zXiejVyM238",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-21T08:52:12.376000",
-            "duration": 223.0,
-            "title": "하루 만에 사과문 '슬쩍' 내린 쿠팡에 \"국민 무시하나?\" 한민수 질타 / SBS / 바로이뉴스",
-            "upload_date": null
-        },
-        {
-            "_id": "69659751887d07f7ba2faeb6",
-            "url": "https://www.youtube.com/watch?v=GLDbtmsxBK8",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:45.602000",
-            "duration": 1218.0,
-            "title": "한민수 \"李 마지막 시정연설이라니… 국힘, 저러다 망할 것\"",
-            "upload_date": null
-        },
-        {
-            "_id": "69659751887d07f7ba2faeb4",
-            "url": "https://www.youtube.com/watch?v=GW10n73PXeg",
-            "HG_NM": "한민수",
-            "MONA_CD": "8JG4358H",
-            "collected_at": "2026-01-23T16:50:35.233000",
-            "duration": 142.0,
-            "title": "윤석열 검찰총장 특활비 사용내역 비판하는 한민수 의원...\"특활비로 수백만원 어치 소고기 먹었습니다! 폭탄주 곁들여서!\"",
             "upload_date": null
         },
         {
@@ -811,13 +730,33 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4b",
-            "url": "https://www.youtube.com/watch?v=UCwe6Y_E-TW9hSc395jWCpSQ",
+            "_id": "6960ae3d631fd1743497dd4f",
+            "url": "https://www.youtube.com/watch?v=_NZf7lem7Ag",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
-            "duration": null,
-            "title": "한민수TV",
+            "collected_at": "2026-02-06T10:54:13.162000",
+            "duration": 2700.0,
+            "title": "[뉴스하이킥] 2026년 한국정치, 무슨 일이 펼쳐질까? - 한민수&정성국, MBC 260101방송",
+            "upload_date": null
+        },
+        {
+            "_id": "6970152e297082fcc2b34ef7",
+            "url": "https://www.youtube.com/watch?v=IjWcGWfMMr8",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-02-06T10:54:11.820000",
+            "duration": 274.0,
+            "title": "한민수 \"이 대통령 '반명' 질문 현장서 들어…뼈 있는 농담 아니라 뼈 없어\" [뉴스와이드]",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb6",
+            "url": "https://www.youtube.com/watch?v=GLDbtmsxBK8",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-02-06T10:54:13.162000",
+            "duration": 1218.0,
+            "title": "한민수 \"李 마지막 시정연설이라니… 국힘, 저러다 망할 것\"",
             "upload_date": null
         },
         {
@@ -825,29 +764,39 @@
             "url": "https://www.youtube.com/watch?v=5Ttx502TwUg",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
+            "collected_at": "2026-02-06T10:54:11.820000",
             "duration": 73.0,
             "title": "장동혁, 한민수 '사이코패스' 발언에 \"뭐 눈에 뭐만 보여\" [현장영상] / 채널A",
             "upload_date": null
         },
         {
-            "_id": "69659751887d07f7ba2faeb0",
-            "url": "https://www.youtube.com/watch?v=Rp5HPtGc0Vs",
+            "_id": "698549c738b0cf40969786a0",
+            "url": "https://www.youtube.com/watch?v=-GSO5cQDnzw",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
-            "duration": 282.0,
-            "title": "민주당 한민수 의원 \"컴퓨터는 켜보셨어요?\"라는 질문에 이진숙의 답변 \"직무와 관련된 것이어서 답변 못하겠습니다\"",
+            "collected_at": "2026-02-06T10:54:13.162000",
+            "duration": 618.0,
+            "title": "[모닝콜] 합당, 정청래 대표 뜻 아니다? 한민수 \"세세하게는 말하기 그렇지만‥\" (2026.02.05/뉴스투데이/MBC)",
             "upload_date": null
         },
         {
-            "_id": "69659751887d07f7ba2faeb2",
-            "url": "https://www.youtube.com/watch?v=paKccPMeyOs",
+            "_id": "6960ae3d631fd1743497dd4c",
+            "url": "https://www.youtube.com/watch?v=BRxYomj8Blg",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
-            "duration": 155.0,
-            "title": "계속되는 이재명 대표 언급에 극대노한 한민수 의원",
+            "collected_at": "2026-02-02T09:54:49.240000",
+            "duration": 611.0,
+            "title": "국회의원 300명에겐 흔템! 한민수 의원에게는 최애템인 이유 듣고 유정의 뱉은 한마디는? | 국집소 | 국회방송",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb4",
+            "url": "https://www.youtube.com/watch?v=GW10n73PXeg",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-23T16:50:35.233000",
+            "duration": 142.0,
+            "title": "윤석열 검찰총장 특활비 사용내역 비판하는 한민수 의원...\"특활비로 수백만원 어치 소고기 먹었습니다! 폭탄주 곁들여서!\"",
             "upload_date": null
         },
         {
@@ -861,13 +810,43 @@
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4f",
-            "url": "https://www.youtube.com/watch?v=_NZf7lem7Ag",
+            "_id": "6966f06c887d07f7ba2fb559",
+            "url": "https://www.youtube.com/watch?v=ABk_lTMZNEk",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:45.602000",
-            "duration": 2700.0,
-            "title": "[뉴스하이킥] 2026년 한국정치, 무슨 일이 펼쳐질까? - 한민수&정성국, MBC 260101방송",
+            "collected_at": "2026-02-06T10:54:13.162000",
+            "duration": 130.0,
+            "title": "오세훈 시장 쉴드치는 박정훈에 직격탄 날리는 한민수 \"1도 관심없어요!\"",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb7",
+            "url": "https://www.youtube.com/watch?v=zXiejVyM238",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-21T08:52:12.376000",
+            "duration": 223.0,
+            "title": "하루 만에 사과문 '슬쩍' 내린 쿠팡에 \"국민 무시하나?\" 한민수 질타 / SBS / 바로이뉴스",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb0",
+            "url": "https://www.youtube.com/watch?v=Rp5HPtGc0Vs",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-02-06T10:54:11.820000",
+            "duration": 282.0,
+            "title": "민주당 한민수 의원 \"컴퓨터는 켜보셨어요?\"라는 질문에 이진숙의 답변 \"직무와 관련된 것이어서 답변 못하겠습니다\"",
+            "upload_date": null
+        },
+        {
+            "_id": "6973284e8459600028997b0f",
+            "url": "https://www.youtube.com/watch?v=1-4oz_PcMuA",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-02-06T10:54:13.162000",
+            "duration": 1226.0,
+            "title": "한민수 \"연임 위해 조국당 합당? '찐명' 정청래가 그러겠나",
             "upload_date": null
         },
         {
@@ -875,9 +854,29 @@
             "url": "https://www.youtube.com/watch?v=ZyPjXn27S1M",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
+            "collected_at": "2026-02-06T10:54:11.820000",
             "duration": 220.0,
             "title": "빵 터진 최민희 위원장 ...한민수 의원, 뭐라 말했길래",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb3",
+            "url": "https://www.youtube.com/watch?v=vIkTsEu4b70",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-02-06T10:54:11.820000",
+            "duration": 200.0,
+            "title": "내란수괴 동의 못한다? 대폭발한 한민수.. 날이 서는 과방위 회의장",
+            "upload_date": null
+        },
+        {
+            "_id": "6960ae3d631fd1743497dd4b",
+            "url": "https://www.youtube.com/watch?v=UCwe6Y_E-TW9hSc395jWCpSQ",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-02-06T10:54:11.820000",
+            "duration": null,
+            "title": "한민수TV",
             "upload_date": null
         },
         {
@@ -885,19 +884,29 @@
             "url": "https://www.youtube.com/watch?v=4i2SqcgwJeg",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-04T08:45:44.115000",
+            "collected_at": "2026-02-06T10:54:11.820000",
             "duration": 328.0,
             "title": "\"대통령 권력 5년, 뭐가 대단하다고 겁이 없나?\"...한민수 의원, 본회의 5분 자유 발언",
             "upload_date": null
         },
         {
-            "_id": "6960ae3d631fd1743497dd4c",
-            "url": "https://www.youtube.com/watch?v=BRxYomj8Blg",
+            "_id": "69659751887d07f7ba2faeb2",
+            "url": "https://www.youtube.com/watch?v=paKccPMeyOs",
             "HG_NM": "한민수",
             "MONA_CD": "8JG4358H",
-            "collected_at": "2026-02-02T09:54:49.240000",
-            "duration": 611.0,
-            "title": "국회의원 300명에겐 흔템! 한민수 의원에게는 최애템인 이유 듣고 유정의 뱉은 한마디는? | 국집소 | 국회방송",
+            "collected_at": "2026-02-06T10:54:11.820000",
+            "duration": 155.0,
+            "title": "계속되는 이재명 대표 언급에 극대노한 한민수 의원",
+            "upload_date": null
+        },
+        {
+            "_id": "69659751887d07f7ba2faeb8",
+            "url": "https://www.youtube.com/watch?v=0EX7AzGIkqI",
+            "HG_NM": "한민수",
+            "MONA_CD": "8JG4358H",
+            "collected_at": "2026-01-14T10:25:00.460000",
+            "duration": 1427.0,
+            "title": "[정면승부] 윤희석 “당의 주인은 국민”  vs 한민수 “당의 주인은 당원”_230926",
             "upload_date": null
         }
     ],
@@ -2247,5 +2256,5 @@
             "RST_PROPOSER": "한민수"
         }
     ],
-    "exported_at": "2026-02-04T18:40:50.291390"
+    "exported_at": "2026-02-06T15:39:07.367606"
 }

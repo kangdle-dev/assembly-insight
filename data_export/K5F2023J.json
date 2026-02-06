@@ -60,34 +60,30 @@
             "부의장",
             "의장",
             "버스",
-            "대표",
             "법안",
+            "집단",
+            "소송",
+            "대표",
             "지역",
             "더불어민주당",
             "지구",
             "민주당",
-            "장관",
             "김현정",
-            "우원식",
-            "단독",
-            "환경",
-            "회견"
+            "발의",
+            "추진",
+            "단독"
         ],
         "keyword_frequency": [
             {
                 "text": "부의장",
-                "value": 26
+                "value": 24
             },
             {
                 "text": "의장",
-                "value": 18
-            },
-            {
-                "text": "버스",
                 "value": 17
             },
             {
-                "text": "대표",
+                "text": "버스",
                 "value": 15
             },
             {
@@ -95,12 +91,24 @@
                 "value": 14
             },
             {
+                "text": "집단",
+                "value": 12
+            },
+            {
+                "text": "소송",
+                "value": 12
+            },
+            {
+                "text": "대표",
+                "value": 12
+            },
+            {
                 "text": "지역",
                 "value": 12
             },
             {
                 "text": "더불어민주당",
-                "value": 10
+                "value": 11
             },
             {
                 "text": "지구",
@@ -111,58 +119,50 @@
                 "value": 9
             },
             {
-                "text": "장관",
-                "value": 9
-            },
-            {
                 "text": "김현정",
                 "value": 9
             },
             {
-                "text": "우원식",
-                "value": 9
+                "text": "발의",
+                "value": 8
+            },
+            {
+                "text": "추진",
+                "value": 8
             },
             {
                 "text": "단독",
                 "value": 8
-            },
-            {
-                "text": "환경",
-                "value": 8
-            },
-            {
-                "text": "회견",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:36.414854",
+        "last_analyzed_at": "2026-02-06T15:38:52.388121",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                3,
-                0,
                 0,
                 3,
                 0,
                 0,
+                0,
+                2,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이학영 의원은 주로 환경 보호 및 사회 복지에 집중하며, 개혁적인 입법 활동을 통해 국민의 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 야생생물 보호, 아동복지, 동물보호 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지 향상을 만들어내는 행보를 보입니다.\"",
@@ -176,6 +176,41 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c838b0cf409697843a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008756744?sid=102",
+            "created_at": "2026-02-06T10:37:10.218000",
+            "description": "토론회는 집단소송법을 발의한 이학영·서영교·백혜련·박주민·오기형·김남근 더불어민주당 의원과 차규근 조국혁신당 의원 및 한창민 사회민주당 의원 등 국회의원과 경제정의실천시민연합(경실련), 참여연대 등... ",
+            "originallink": "https://www.news1.kr/society/incident-accident/6063779",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T17:11:00",
+            "related_members": [
+                "IUX1829H",
+                "HSS7466Y",
+                "6AU2417B",
+                "K5F2023J",
+                "TKJ4800F",
+                "OIA3741M",
+                "T4I4862D",
+                "KNP22261"
+            ],
+            "title": "\"OECD 중 한국만 뒤처졌다…'제2의 쿠팡 사태' 막을 집단소송법 필요\""
+        },
+        {
+            "_id": "698545c838b0cf409697843c",
+            "link": "https://n.news.naver.com/mnews/article/011/0004587081?sid=102",
+            "created_at": "2026-02-06T10:37:10.219000",
+            "description": "집단소송법 제정연대는 현재 집단소송법을 발의한 서영교·이학영·김남근 더불어민주당 의원 등 여야 국회의원과 경제정의실천시민연합, 참여연대 등 소비자·시민단체로 구성된 단체다. 집단소송법이란 여러 명의... ",
+            "originallink": "https://www.sedaily.com/article/20005385?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-05T14:37:00",
+            "related_members": [
+                "IUX1829H",
+                "TKJ4800F",
+                "K5F2023J"
+            ],
+            "title": "“제2의 쿠팡, 더는 안돼”...시민단체 ‘집단소송법’ 발의 추진"
+        },
         {
             "_id": "697ff10538b0cf409697732e",
             "link": "https://n.news.naver.com/mnews/article/032/0003425105?sid=100",
@@ -682,33 +717,6 @@
                 "6AU2417B"
             ],
             "title": "쿠팡 조준 나선 與…오기형 의원, 집단소송제 확대 법안 발의"
-        },
-        {
-            "_id": "6964b57f631fd174349963fa",
-            "link": "https://n.news.naver.com/mnews/article/016/0002578963?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "30일 더불어민주당 이학영 의원(경기군포, 국회부의장)은 ‘청문회 사후조치’를 불이행하거나 허위로 보고하는 증인 및 기업에 대한 처벌 근거를 담은 ‘국회증언감정법 일부개정법률안’을 대표발의했다고 밝혔다. 이번... ",
-            "originallink": "https://biz.heraldcorp.com/article/10646022?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-30T13:52:00",
-            "related_members": [
-                "K5F2023J"
-            ],
-            "title": "이학영 의원, 국회증언감정법 일부개정법률안 대표발의…“국회 청문회..."
-        },
-        {
-            "_id": "6964b57f631fd174349963fb",
-            "link": "https://n.news.naver.com/mnews/article/052/0002292111?sid=100",
-            "created_at": "2026-01-12T17:49:00.268000",
-            "description": "저는 우원식 의장이든 이학영 부의장이 필리버스터를 진행하는 과정에서 물리적 신체적 노고, 인정할 수밖에... 그래서 이 현상에만 집중해서 말씀을 드리고 싶은데, 필리버스터라는 것이 국회의원들은 돌아가면서 하는... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202512251218241125",
-            "press": "YTN",
-            "pubDate": "2025-12-25T12:18:00",
-            "related_members": [
-                "XBT9550Q",
-                "K5F2023J"
-            ],
-            "title": "이 대통령, 성탄절 '쿠팡' 장관회의...이례적 소집"
         }
     ],
     "recent_videos": [
@@ -727,7 +735,7 @@
             "url": "https://www.youtube.com/watch?v=GSIpSv5WdRo",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:08.283000",
+            "collected_at": "2026-02-06T10:50:38.806000",
             "duration": 127.0,
             "title": "[단독] \"이학영, 특보 취업도 청탁\"…'제3자 뇌물' 검토 / SBS 8뉴스",
             "upload_date": null
@@ -797,7 +805,7 @@
             "url": "https://www.youtube.com/watch?v=vOLK-jjKK1E",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:06.956000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": 1285.0,
             "title": "160228_국회의원이학영 필리버스터_01",
             "upload_date": null
@@ -807,7 +815,7 @@
             "url": "https://www.youtube.com/watch?v=jxMnHeOB_9U",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-02T09:51:12.082000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": 1358.0,
             "title": "이학영 의원 국회의원 25시 187회",
             "upload_date": null
@@ -857,7 +865,7 @@
             "url": "https://www.youtube.com/watch?v=-JvrrGos20g",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:06.956000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": 17424.0,
             "title": "160228_국회의원이학영 필리버스터_05",
             "upload_date": null
@@ -867,7 +875,7 @@
             "url": "https://www.youtube.com/watch?v=FkB4wKOy59Q",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:08.283000",
+            "collected_at": "2026-02-06T10:50:38.806000",
             "duration": 78.0,
             "title": "이학영이 말하는 민주주의 (축약버젼)",
             "upload_date": null
@@ -877,7 +885,7 @@
             "url": "https://www.youtube.com/watch?v=UClztZIVGP1NmO7E8ZvKDwKg",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:06.956000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": null,
             "title": "이학영TV",
             "upload_date": null
@@ -887,7 +895,7 @@
             "url": "https://www.youtube.com/watch?v=fRw0zjob22U",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:06.956000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": 70.0,
             "title": "160228_국회의원이학영 필리버스터_02",
             "upload_date": null
@@ -897,7 +905,7 @@
             "url": "https://www.youtube.com/watch?v=v8KzsjphMbc",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-02-04T08:42:06.956000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": 68.0,
             "title": "국회의원 이학영 상임위(정무위) 질의_20150616",
             "upload_date": null
@@ -907,7 +915,7 @@
             "url": "https://www.youtube.com/watch?v=tXqeAmrjyHM",
             "HG_NM": "이학영",
             "MONA_CD": "K5F2023J",
-            "collected_at": "2026-01-30T23:30:28.210000",
+            "collected_at": "2026-02-06T10:50:37.386000",
             "duration": 5017.0,
             "title": "160228_국회의원이학영 필리버스터_07",
             "upload_date": null
@@ -3027,5 +3035,5 @@
             "RST_PROPOSER": "이학영"
         }
     ],
-    "exported_at": "2026-02-04T18:40:36.414854"
+    "exported_at": "2026-02-06T15:38:52.388251"
 }

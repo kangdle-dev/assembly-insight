@@ -44,19 +44,19 @@
         "keywords": [
             "경기",
             "광주시",
-            "토론회",
             "지역",
+            "토론회",
             "감사",
             "회견",
             "김동연",
+            "경기도",
             "지사",
             "도시",
             "현안",
             "질의",
             "국토",
             "위원회",
-            "국정",
-            "민주당"
+            "국정"
         ],
         "keyword_frequency": [
             {
@@ -68,11 +68,11 @@
                 "value": 8
             },
             {
-                "text": "토론회",
-                "value": 6
+                "text": "지역",
+                "value": 7
             },
             {
-                "text": "지역",
+                "text": "토론회",
                 "value": 6
             },
             {
@@ -86,6 +86,10 @@
             {
                 "text": "김동연",
                 "value": 5
+            },
+            {
+                "text": "경기도",
+                "value": 4
             },
             {
                 "text": "지사",
@@ -114,40 +118,36 @@
             {
                 "text": "국정",
                 "value": 4
-            },
-            {
-                "text": "민주당",
-                "value": 4
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:23.353856",
+        "last_analyzed_at": "2026-02-06T15:38:39.174806",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
                 0,
                 0,
                 0,
-                0,
+                1,
                 0,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"안태준 의원은 주로 주거 및 교통 관련 정책 분야에 집중하며, 혁신적이고 포괄적인 입법 활동을 통해 국민의 주거 안정성과 이동 편의성을 개선하는 데 주력하고 있습니다. 특히 주택법, 공공주택 특별법, 교통약자의 이동편의 증진법 관련 법안들을 통해 국민의 실생활과 직결된 주거 안정 및 교통 편의성을 증진시키는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,24 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c938b0cf4096978445",
+            "link": "https://n.news.naver.com/mnews/article/421/0008753837?sid=102",
+            "created_at": "2026-02-06T10:37:11.800000",
+            "description": "고(故) 이해찬 전 국무총리, 박정·김승원·김병주·안태준·문금주·김문수 국회의원, 강원국 전 대통령비서실 연설비서관은 영상을 통해 축하했다. 오 전 부지사는 저서에 지역 변화에 대한 문제의식 등 30여년간의 공직... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6062187",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T16:40:00",
+            "related_members": [
+                "W8L9421K",
+                "GF286398",
+                "ATB59635",
+                "GRP3908I",
+                "4019850M",
+                "86R9476S"
+            ],
+            "title": "오후석 전 경기도 행정2부지사, 하남서 출판기념회"
+        },
         {
             "_id": "6964b54d631fd174349960f9",
             "link": "https://n.news.naver.com/mnews/article/382/0001247120?sid=102",
@@ -226,7 +244,7 @@
             "url": "https://www.youtube.com/watch?v=SapafpM9WFM",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:50.813000",
+            "collected_at": "2026-02-06T10:47:21.094000",
             "duration": 352.0,
             "title": "[국회의원 안태준] 국토부장관 후보자 인사청문회 경기광주 지역 현안 질의",
             "upload_date": null
@@ -236,7 +254,7 @@
             "url": "https://www.youtube.com/watch?v=CmR6aWnleBk",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:50.813000",
+            "collected_at": "2026-02-06T10:47:21.094000",
             "duration": 1013.0,
             "title": "[경기 광주시을 국회의원 안태준] 2025. 10. 14 국토교통위원회 국정감사 - 2일차(LH 등) 질의 편집본",
             "upload_date": null
@@ -246,7 +264,7 @@
             "url": "https://www.youtube.com/watch?v=ORFX-Lu8C7Y",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-02T09:47:56.458000",
+            "collected_at": "2026-02-06T10:47:22.425000",
             "duration": 641.0,
             "title": "민주당 안태준 의원1 11 2 합 먹사니즘 전국네트워크 출범 선언 기자회견",
             "upload_date": null
@@ -256,7 +274,7 @@
             "url": "https://www.youtube.com/watch?v=9VI7zj4CLW8",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:50.813000",
+            "collected_at": "2026-02-06T10:47:21.094000",
             "duration": 1303.0,
             "title": "안태준 국회의원 지역현안 입법지원 토론회",
             "upload_date": null
@@ -266,7 +284,7 @@
             "url": "https://www.youtube.com/watch?v=Wep2TljAF8o",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:50.813000",
+            "collected_at": "2026-02-06T10:47:21.094000",
             "duration": 244.0,
             "title": "이수진 의원 '지역사무소 개소식'에 참석한 안태준 더불어민주당 의원의 인사말 영상(0617)",
             "upload_date": null
@@ -276,7 +294,7 @@
             "url": "https://www.youtube.com/watch?v=eLp1KG7ndiE",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:50.813000",
+            "collected_at": "2026-02-06T10:47:21.094000",
             "duration": 236.0,
             "title": "\"윤정부 집값 잡겠다고 집값 올리는 꼴\" 안태준 국회의원 11월 7일 정책조정회의",
             "upload_date": null
@@ -286,7 +304,7 @@
             "url": "https://www.youtube.com/watch?v=bW0EyLl1rfE",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:50.813000",
+            "collected_at": "2026-02-06T10:47:21.094000",
             "duration": 456.0,
             "title": "[경기 광주시을 국회의원 안태준] 경기광주시을 제10차 운영위원회 (in 광화문)",
             "upload_date": null
@@ -306,7 +324,7 @@
             "url": "https://www.youtube.com/watch?v=_McbFpt8KWQ",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:52.240000",
+            "collected_at": "2026-02-06T10:47:22.425000",
             "duration": 446.0,
             "title": "국힘 선배들에 호통 친 청출어람 안태준 당선인 “배지 부끄러운 짓 하지마!”",
             "upload_date": null
@@ -316,7 +334,7 @@
             "url": "https://www.youtube.com/watch?v=weA0bjrFIro",
             "HG_NM": "안태준",
             "MONA_CD": "W8L9421K",
-            "collected_at": "2026-02-04T08:38:52.240000",
+            "collected_at": "2026-02-06T10:47:22.425000",
             "duration": 168.0,
             "title": "하야뉴스 - 안태준 대신 총회장,  “합류한 구성원들과 화합 신뢰회복에 최선”20190103",
             "upload_date": null
@@ -1344,5 +1362,5 @@
             "RST_PROPOSER": "안태준"
         }
     ],
-    "exported_at": "2026-02-04T18:40:23.353856"
+    "exported_at": "2026-02-06T15:38:39.174806"
 }

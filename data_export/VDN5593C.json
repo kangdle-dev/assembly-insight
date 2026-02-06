@@ -44,19 +44,19 @@
         "keywords": [
             "이혜훈",
             "민주당",
-            "선거",
             "출마",
             "사퇴",
             "대통령",
+            "선거",
             "후보자",
-            "울산",
-            "지방",
             "인사",
             "스팟",
             "사형",
             "수호",
             "더불어민주당",
-            "조국"
+            "울산",
+            "조국",
+            "국민"
         ],
         "keyword_frequency": [
             {
@@ -65,15 +65,11 @@
             },
             {
                 "text": "민주당",
-                "value": 19
-            },
-            {
-                "text": "선거",
-                "value": 16
+                "value": 21
             },
             {
                 "text": "출마",
-                "value": 15
+                "value": 16
             },
             {
                 "text": "사퇴",
@@ -84,16 +80,12 @@
                 "value": 14
             },
             {
-                "text": "후보자",
+                "text": "선거",
                 "value": 12
             },
             {
-                "text": "울산",
-                "value": 11
-            },
-            {
-                "text": "지방",
-                "value": 11
+                "text": "후보자",
+                "value": 12
             },
             {
                 "text": "인사",
@@ -116,38 +108,46 @@
                 "value": 9
             },
             {
+                "text": "울산",
+                "value": 9
+            },
+            {
                 "text": "조국",
+                "value": 9
+            },
+            {
+                "text": "국민",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:39:53.914398",
+        "last_analyzed_at": "2026-02-06T15:38:12.717602",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
                 1,
+                2,
+                0,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김상욱 의원은 주로 복지와 안전 분야에 집중하며, 보호자적 입법 활동을 통해 유권자의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 아동·청소년의 성보호 및 공공안전 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지의 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,44 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c538b0cf409697842b",
+            "link": "https://n.news.naver.com/mnews/article/015/0005246776?sid=100",
+            "created_at": "2026-02-06T10:37:08.048000",
+            "description": "이에 따라 출마를 저울질하던 의원 대부분이 기한에 맞춰 직을 내려놓았다. 22대 국회 민주당 의원 161명 중... 경기도에서는 4명의 현역 의원(추미애·권칠승·김병주·한준호)이 현직인 김동연 지사와 경선한다. 부산의... ",
+            "originallink": "https://www.hankyung.com/article/202602044025i",
+            "press": "한국경제",
+            "pubDate": "2026-02-04T16:36:00",
+            "related_members": [
+                "C7E79345",
+                "GF286398",
+                "BCQ55105",
+                "URV1689Q",
+                "X1K3667J",
+                "BT62420K",
+                "VDN5593C",
+                "7R156073",
+                "5TQ6306B",
+                "2NV6751W",
+                "CIZ8557P",
+                "9YO73104"
+            ],
+            "title": "현역의원만 27명…광역단체장 선거전에 대거 뛰어드는 민주당"
+        },
+        {
+            "_id": "698545cb38b0cf409697845e",
+            "link": "https://n.news.naver.com/mnews/article/056/0012118747?sid=100",
+            "created_at": "2026-02-06T10:37:13.907000",
+            "description": "3MHz ■ 진행 : 윤인구 아나운서 ■ 출연 : 김상욱 더불어민주당 의원 ▷ 윤인구 : 정치권이 시끌시끌합니다.... 들어 국회의원들께서 치열하게 토론하고 근거를 다 대는 것을 보고 판단할 수 있는 그런 숙의 과정이 있어야... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477363&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T16:32:00",
+            "related_members": [
+                "KFM1081G",
+                "VDN5593C"
+            ],
+            "title": "[세상의 모든 정보 윤인구입니다] 김상욱 “장동혁, 도대체 어느 나라 ..."
+        },
         {
             "_id": "6981c73438b0cf4096977ade",
             "link": "https://n.news.naver.com/mnews/article/011/0004586205?sid=100",
@@ -266,7 +304,7 @@
             "_id": "6972d1ee8459600028997688",
             "link": "https://n.news.naver.com/mnews/article/079/0004108196?sid=100",
             "created_at": "2026-01-23T10:42:04.433000",
-            "description": "막 국회의원들이 나도 몰랐는데 그리고 당원들이 국회의원들한테 문자를 막 날리고 이거 어떻게 된 거냐고... 반조국파와 그다음에 신장식부터 이게 차규근 이런 조국파가 있어요. 그러니까 제 말은 이게 합당하면요. 그... ",
+            "description": "막 국회의원들이 나도 몰랐는데 그리고 당원들이 국회의원들한테 문자를 막 날리고 이거 어떻게 된 거냐고... 또 이게 스스로 조국 없이도 자강할 수 있다는 황운하나 박은정이나 반조국파도 많다는 거예요. ◇ 박재홍... ",
             "originallink": "https://www.nocutnews.co.kr/news/6460757?utm_source=naver&utm_medium=article&utm_campaign=20260123070020",
             "press": "노컷뉴스",
             "pubDate": "2026-01-23T07:01:00",
@@ -674,40 +712,6 @@
                 "VDN5593C"
             ],
             "title": "YD인테리어, 친환경 인테리어 기반 ESG 경영 성과로 대상·시의회 표창"
-        },
-        {
-            "_id": "6964b547631fd1743499607c",
-            "link": "https://n.news.naver.com/mnews/article/421/0008692401?sid=102",
-            "created_at": "2026-01-12T17:48:04.335000",
-            "description": "김두겸 시장은 \"지방선거 승리는 단순히 지방정권을 지키는 문제가 아니라, 향후 국회의원 선거로 이어지는... 더불어민주당 울산시당도 전날 당사에서 단배식을 열고 시당위원장인 김태선 의원과 김상욱 의원... ",
-            "originallink": "https://www.news1.kr/local/ulsan/6026824",
-            "press": "뉴스1",
-            "pubDate": "2026-01-02T14:24:00",
-            "related_members": [
-                "L7J93733",
-                "X7I4680R",
-                "X3170462",
-                "6WK3815W",
-                "VDN5593C"
-            ],
-            "title": "울산 여야 정당, 신년 행사 열고 \"지방선거 승리\" 결의"
-        },
-        {
-            "_id": "6964b543631fd17434996034",
-            "link": "https://n.news.naver.com/mnews/article/032/0003416906?sid=100",
-            "created_at": "2026-01-12T17:48:01.155000",
-            "description": "국회의원 투표 성향으로 이념점수를 측정해보니 갈수록 차이가 벌어지는 양극화가 심화하고 있는 것으로... 민주당에서 온건파로 분류할 수 있는 의원들을 꼽아보니 김상욱 의원을 비롯해 이소영(-0.300), 채현일(-0.... ",
-            "originallink": "https://www.khan.co.kr/article/202512230600051",
-            "press": "경향신문",
-            "pubDate": "2025-12-23T06:00:00",
-            "related_members": [
-                "FIE6569O",
-                "1A82234K",
-                "1S05899F",
-                "VDN5593C",
-                "WTR5885Y"
-            ],
-            "title": "22대 국회, 더 벌어진 거대 양당 이념성향···이미지만 ‘강성’인 온..."
         }
     ],
     "recent_videos": [
@@ -726,7 +730,7 @@
             "url": "https://www.youtube.com/watch?v=QIfR7cstID8",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-01-30T23:19:40.408000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": 1097.0,
             "title": "[김태현의 정치쇼] 김상욱 \"尹 사형 구형·선고가 맞아…이혜훈, 1교시 헌법수호부터 과락\" |이너:뷰 260109(금)",
             "upload_date": null
@@ -736,7 +740,7 @@
             "url": "https://www.youtube.com/watch?v=NhfxQ2ShijY",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-04T08:32:15.308000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": 351.0,
             "title": "[현장영상] \"본회의장 있으면 죽는다?\"…김상욱 '계엄 통화' 언급하곤 / JTBC News",
             "upload_date": null
@@ -786,7 +790,7 @@
             "url": "https://www.youtube.com/watch?v=6zvzQaAM16g",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-04T08:32:13.977000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": 728.0,
             "title": "\"민주당의 미래다!\" 박지원의 극찬! 김상욱을 뒤흔든 '12.3 계엄'의 순간과 용기 있는 결단",
             "upload_date": null
@@ -796,7 +800,7 @@
             "url": "https://www.youtube.com/watch?v=LjQJVK4XkX0",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-04T08:32:13.977000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": 314.0,
             "title": "장동혁, 욕심 때문에 틀렸다는 걸 알면서도..\"징계 제명 대상입니다\" (feat. 김상욱 민주당 의원) | EP.151 | 정치스토브리그 | SBS",
             "upload_date": null
@@ -806,7 +810,7 @@
             "url": "https://www.youtube.com/watch?v=TBoDzHSk2ss",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-04T08:32:13.977000",
+            "collected_at": "2026-02-06T10:40:49.114000",
             "duration": 1292.0,
             "title": "[외전인터뷰] 김상욱 \"역적죄 재판하는데 저렇게 가볍게‥내란재판부 필요\" (2025.12.02/뉴스외전/MBC)",
             "upload_date": null
@@ -856,7 +860,7 @@
             "url": "https://www.youtube.com/watch?v=6osRSAEObME",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-02T09:41:15.841000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": 780.0,
             "title": "[박정호의 핫스팟+김상욱] \"눈이 빤짝 반짝\" 이재명 대통령 만난 총수들도 잼며들었더라~",
             "upload_date": null
@@ -876,7 +880,7 @@
             "url": "https://www.youtube.com/watch?v=UCwFcwmKmiwj69Btk0hvZF0g",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-04T08:32:13.977000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": null,
             "title": "김상욱TV",
             "upload_date": null
@@ -886,7 +890,7 @@
             "url": "https://www.youtube.com/watch?v=HlfXtwXEGDo",
             "HG_NM": "김상욱",
             "MONA_CD": "VDN5593C",
-            "collected_at": "2026-02-04T08:32:13.977000",
+            "collected_at": "2026-02-06T10:40:47.832000",
             "duration": 2482.0,
             "title": "김상욱 “정황적으론 국힘 일부 의원, 계엄 미리 인지·동조한 사람도 있었다 추측”",
             "upload_date": null
@@ -1610,5 +1614,5 @@
             "RST_PROPOSER": "김상욱"
         }
     ],
-    "exported_at": "2026-02-04T18:39:53.914902"
+    "exported_at": "2026-02-06T15:38:12.717602"
 }

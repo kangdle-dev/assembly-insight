@@ -49,19 +49,19 @@
         "keywords": [
             "민주당",
             "이혜훈",
-            "대통령",
-            "특위",
             "합당",
-            "코스피",
-            "대표",
             "후보자",
-            "위원",
+            "대표",
+            "대통령",
             "청약",
-            "지적",
-            "개정",
+            "코스피",
+            "위원",
+            "근조",
+            "정부",
+            "발언",
             "더불어민주당",
             "의혹",
-            "정청래"
+            "특위"
         ],
         "keyword_frequency": [
             {
@@ -73,43 +73,43 @@
                 "value": 24
             },
             {
-                "text": "대통령",
-                "value": 19
-            },
-            {
-                "text": "특위",
-                "value": 16
-            },
-            {
                 "text": "합당",
-                "value": 15
-            },
-            {
-                "text": "코스피",
-                "value": 15
-            },
-            {
-                "text": "대표",
-                "value": 12
+                "value": 17
             },
             {
                 "text": "후보자",
-                "value": 12
+                "value": 13
             },
             {
-                "text": "위원",
-                "value": 12
+                "text": "대표",
+                "value": 11
+            },
+            {
+                "text": "대통령",
+                "value": 11
             },
             {
                 "text": "청약",
                 "value": 11
             },
             {
-                "text": "지적",
+                "text": "코스피",
+                "value": 10
+            },
+            {
+                "text": "위원",
+                "value": 10
+            },
+            {
+                "text": "근조",
                 "value": 9
             },
             {
-                "text": "개정",
+                "text": "정부",
+                "value": 9
+            },
+            {
+                "text": "발언",
                 "value": 9
             },
             {
@@ -121,38 +121,38 @@
                 "value": 9
             },
             {
-                "text": "정청래",
+                "text": "특위",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:31.898022",
+        "last_analyzed_at": "2026-02-06T15:38:47.492579",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                3,
-                0,
                 1,
                 1,
                 2,
                 1,
+                1,
+                3,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이소영 의원은 주로 기후 변화 및 환경 보호, 그리고 경제적 안정성에 집중하며, 혁신가적 입법 활동을 통해 국민의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 기후위기 대응 및 탄소중립 관련 법안들을 통해 국민의 실생활과 직결된 환경적 지속 가능성과 주거 안정성을 높이는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -167,15 +167,70 @@
     },
     "recent_news": [
         {
+            "_id": "6985460038b0cf4096978560",
+            "link": "https://n.news.naver.com/mnews/article/021/0002769269?sid=100",
+            "created_at": "2026-02-06T10:38:06.665000",
+            "description": "5일 업계에 따르면 서울 지하철 4호선 정부과천청사역 11번 출구와 경기 의왕시과천시 국회의원인 이소영 민주당 의원의 사무실 앞에는 정부의 주택 공급 계획에 반대하는 근조 화환 시위가 벌어지고 있다. 근조화환에는... ",
+            "originallink": "https://www.munhwa.com/article/11566535?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-02-05T21:30:00",
+            "related_members": [
+                "WTR5885Y"
+            ],
+            "title": "“공급 되긴 하는 거지?” 용산 이어 과천도 ‘근조화환’"
+        },
+        {
+            "_id": "6985460038b0cf4096978561",
+            "link": "https://n.news.naver.com/mnews/article/015/0005247131?sid=101",
+            "created_at": "2026-02-06T10:38:06.665000",
+            "description": "5일 서울 지하철 4호선 정부과천청사역 11번 출구와 경기 의왕시과천시 국회의원인 이소영 민주당 의원의 사무실 앞에는 정부의 주택 공급 계획에 반대하는 근조 화환 시위가 벌어지고 있다. 근조화환에는 \"과천경마공원... ",
+            "originallink": "https://www.hankyung.com/article/2026020552026",
+            "press": "한국경제",
+            "pubDate": "2026-02-05T09:59:00",
+            "related_members": [
+                "WTR5885Y"
+            ],
+            "title": "용산 이어 과천에도 '근조화환'…공급대책 둘러싼 갈등 '폭발'"
+        },
+        {
+            "_id": "6985460038b0cf4096978562",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749963?sid=102",
+            "created_at": "2026-02-06T10:38:06.665000",
+            "description": "정부의 '과천 경마장·국군 방첩사 부지 9800호 주택 공급 계획' 반대 목소리가 이소영 지역 국회의원에 대한 비난으로 이어지는 가운데 '근조 조화'가 이 의원 지역 사무실 앞에 등장하는 등 후폭풍이 거세다. 정부의 1.29... ",
+            "originallink": "https://www.newsis.com/view/NISX20260204_0003503092",
+            "press": "뉴시스",
+            "pubDate": "2026-02-05T06:11:00",
+            "related_members": [
+                "WTR5885Y"
+            ],
+            "title": "이소영의원 지역 사무실 앞 '근조조화'까지…'경마장 주택 반대' 거센 항..."
+        },
+        {
+            "_id": "698545d638b0cf4096978490",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694939?sid=100",
+            "created_at": "2026-02-06T10:37:25.026000",
+            "description": "동아일보는 3일 서울 여의도 국회의원회관에서 김 의원과 인터뷰를 가졌다. 다음은 일문일답. ―경제는... 예를 들어 이소영 의원의 배당소득 분리과세 법안, 민병덕 의원의 스테이블코인 기본법 등을 각 의원들이 직접... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260204/133294403/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-04T12:26:00",
+            "related_members": [
+                "1WE5693J",
+                "WTR5885Y",
+                "TZ228122"
+            ],
+            "title": "김태년 “반도체특별법 등 입법 성과…민생-개혁 입법 동시 추진해야”"
+        },
+        {
             "_id": "698282a238b0cf4096977ce0",
             "link": "http://andongmbc.co.kr/adboard/NewsView80596",
             "created_at": "2026-02-04T08:20:00.787000",
-            "description": "대다수가 현역 국회의원들이어서 의원직 사퇴가 필수인 예비 후보 등록을 선택하지 않는 겁니다. 또 예비... ◀ INT ▶이소영/대구대 사회학과 교수 \"'빅네임'(현역 의원)들이 판을 주도하는 상황에서 신인이나 또는... ",
+            "description": "대다수가 현역 국회의원들이어서 의원직 사퇴가 필수인 예비 후보 등록을 선택하지 않는 겁니다. 또 예비... 최종 후보자로 내놓느냐에만 관심이 쏠리고 있습니다. MBC뉴스 권윤수입니다. (영상취재 한보욱 그래픽 한민수)",
             "originallink": "http://andongmbc.co.kr/adboard/NewsView80596",
             "press": "MBC",
             "pubDate": "2026-02-03T21:26:00",
             "related_members": [
-                "WTR5885Y"
+                "WTR5885Y",
+                "8JG4358H"
             ],
             "title": "[R]예비 후보 등록 첫날인데 썰렁...왜?"
         },
@@ -231,7 +286,7 @@
             "_id": "697ff11138b0cf409697735d",
             "link": "https://n.news.naver.com/mnews/article/079/0004110962?sid=100",
             "created_at": "2026-02-02T09:34:24.970000",
-            "description": "지금 의원님하고 그 이소영 의원인 것 같아. ◇ 박재홍&gt; 합리적인 의원 딱 두 분이에요. ◆ 정옥임&gt; 아니 나... 그러니까 그런 게 과연 얼마나 되는지 정말 그게 도움이 되는지 확인하는 과정이 있어야 저희 국회의원이나... ",
+            "description": "내에서 황운하 의원의 그런 발언이 민주당 내부 갈등에 더 어떻게 보면 기름을 끼얹고, ◇ 박재홍&gt; 그러니까... 그러니까 그런 게 과연 얼마나 되는지 정말 그게 도움이 되는지 확인하는 과정이 있어야 저희 국회의원이나... ",
             "originallink": "https://www.nocutnews.co.kr/news/6464797?utm_source=naver&utm_medium=article&utm_campaign=20260131083020",
             "press": "노컷뉴스",
             "pubDate": "2026-01-31T08:31:00",
@@ -437,7 +492,7 @@
             "_id": "6976fd058459600028997ffb",
             "link": "https://n.news.naver.com/mnews/article/032/0003423474?sid=100",
             "created_at": "2026-01-26T14:34:59.154000",
-            "description": "이소영 의원은 이날 YTN 라디오에서 “(정 대표가) 기자회견 전에 지도부 논의를 반드시 했어야 한다”며... 이언주 수석최고위원과 황명선·강득구 최고위원은 이날 국회에서 공동 기자회견을 열... https://www.khan.co.kr... ",
+            "description": "정 대표는 합당 절차와 관련해 정책의원총회를 다음주 이른 시일 내에 열 것을 지시했다고 박지혜 대변인이... 이날 국회에서 열린 정책 의원총회는 의총 10분 전 정 대표가 긴급 기자회견을 열고 합당을 제안하... https... ",
             "originallink": "https://www.khan.co.kr/article/202601231725001",
             "press": "경향신문",
             "pubDate": "2026-01-23T17:25:00",
@@ -481,7 +536,7 @@
             "_id": "6976fd068459600028997ffe",
             "link": "https://n.news.naver.com/mnews/article/033/0000050186?sid=110",
             "created_at": "2026-01-26T14:35:00.073000",
-            "description": "의원 안 2030년 50%·2035년 65%·2040년 75%, 서왕진 의원 안 2030년 40%·2035년 65%·2040년 85%·2045년 95%, 이소영... 아기 기후소송 청구인 대표로 헌재에 출석해 발언한 한제아 어린이는 “어른들은 투표를 통해 국회의원이... ",
+            "description": "95%, 박지혜 의원 안 2030년 35%·2035년 65%·2040년 85%·2045년 95%이다. 국회는 오는 2월 28일까지 탄소중립기본법을 개정해야 하지만, 아직도 뭉그적거리고 있다. 탄소중립기본법을 개정하지 않는 국회도, 이재명... ",
             "originallink": "https://weekly.khan.co.kr/article/202601231501001",
             "press": "경향신문",
             "pubDate": "2026-01-23T15:02:00",
@@ -581,83 +636,6 @@
                 "WTR5885Y"
             ],
             "title": "합당? 與 이소영 \"매우 당황, 최고위원 모르는데 조국과 논의? 정청래, ..."
-        },
-        {
-            "_id": "6972d1f484596000289976d0",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423305?sid=100",
-            "created_at": "2026-01-23T10:42:10.904000",
-            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 오 의원을 비롯해 김남근·김영환·김현정·민병덕·박상혁·안도걸·이강일·이정문·이소영 의원 등 특위 소속... ",
-            "originallink": "https://www.khan.co.kr/article/202601222037005",
-            "press": "경향신문",
-            "pubDate": "2026-01-22T20:37:00",
-            "related_members": [
-                "TZ228122",
-                "6VC83722",
-                "HXT76735",
-                "EB16073M",
-                "AEO5706C",
-                "7YL9580G",
-                "O0I2045I",
-                "IUX1829H",
-                "8O34202I",
-                "WTR5885Y",
-                "OIA3741M",
-                "H5476989"
-            ],
-            "title": "‘5000피’ 찍은 날…당·청 “3차 상법 개정, 조속 추진” 공감대"
-        },
-        {
-            "_id": "6972d21d84596000289977ba",
-            "link": "https://n.news.naver.com/mnews/article/005/0001827827?sid=101",
-            "created_at": "2026-01-23T10:42:51.823000",
-            "description": "코스피5000특위 위원장인 오기형 의원도 이날 국회에서 기자들과 만나 “LG화학 물적 분할 케이스처럼 중복상장 엄격하게 처리하자, 자본시장 개정법이 나와 있지만 막혀 있다는 부분에 대한 문제 제기가 있었다”고... ",
-            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029289530&code=61141211&cp=nv",
-            "press": "국민일보",
-            "pubDate": "2026-01-22T20:16:00",
-            "related_members": [
-                "OIA3741M",
-                "WTR5885Y"
-            ],
-            "title": "[단독] 李 “L자 들어가는 주식 사면 안된다면서요?” 중복상장 지적"
-        },
-        {
-            "_id": "6972d1f484596000289976d1",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423226?sid=100",
-            "created_at": "2026-01-23T10:42:10.904000",
-            "description": "오기형 의원이 국회 소통관 브리핑에서 밝혔다. 이 대통령은 오찬에서 3차 상법 개정의 조속한 추진을... 오 의원을 비롯해 김남근·김영환·김현정·민병덕·박상혁·안도걸·이강일·이정문·이소영 의원 등 특위 소속... ",
-            "originallink": "https://www.khan.co.kr/article/202601221615001",
-            "press": "경향신문",
-            "pubDate": "2026-01-22T16:15:00",
-            "related_members": [
-                "TZ228122",
-                "6VC83722",
-                "HXT76735",
-                "EB16073M",
-                "AEO5706C",
-                "7YL9580G",
-                "O0I2045I",
-                "IUX1829H",
-                "8O34202I",
-                "WTR5885Y",
-                "OIA3741M",
-                "H5476989",
-                "XPP2564T"
-            ],
-            "title": "‘5000피’ 찍은 날 “자사주 1년 내 의무 소각” 노 젓기···이 대통령..."
-        },
-        {
-            "_id": "6972d21d84596000289977bd",
-            "link": "https://n.news.naver.com/mnews/article/437/0000474840?sid=100",
-            "created_at": "2026-01-23T10:42:51.823000",
-            "description": "민주당 코스피 5000 특위 위원장인 오기형 의원은 오찬 직후 국회 브리핑을 통해 \"코스피 5000은 이 대통령의... 특위 소속 이소영 의원이 대표 발의해둔 상태로, 이 대통령 역시 그 취지에 공감을 표시한 것으로... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12281374?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-22T16:06:00",
-            "related_members": [
-                "OIA3741M",
-                "WTR5885Y"
-            ],
-            "title": "'코스피 5000' 쏜 날 민주당 특위 만난 이 대통령…\"3차 상법 개정 조속..."
         }
     ],
     "recent_videos": [
@@ -706,7 +684,7 @@
             "url": "https://www.youtube.com/watch?v=uFHTKOm1kDk",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-02-04T08:40:54.612000",
+            "collected_at": "2026-02-06T10:49:24.410000",
             "duration": 174.0,
             "title": "[이소영 의원/국토위] 원희룡 장관, '정치중립' 약속 거부",
             "upload_date": null
@@ -736,7 +714,7 @@
             "url": "https://www.youtube.com/watch?v=UCWw2YRY-nQFi6MrFVI30jkA",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-02-04T08:40:54.612000",
+            "collected_at": "2026-02-06T10:49:24.410000",
             "duration": null,
             "title": "이소영 국회의원",
             "upload_date": null
@@ -776,7 +754,7 @@
             "url": "https://www.youtube.com/watch?v=P0d-0FPMgog",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-02-04T08:40:55.926000",
+            "collected_at": "2026-02-06T10:49:25.722000",
             "duration": 138.0,
             "title": "이소영 의원 \"이혜훈 청문회 자료 미진해도 국민께 판단 맡겨야... 시작도 안 하고 보이콧? 이게 뭐 하는 겁니까?\"",
             "upload_date": null
@@ -786,7 +764,7 @@
             "url": "https://www.youtube.com/watch?v=NNNv-BIrXvc",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-02-04T08:40:54.612000",
+            "collected_at": "2026-02-06T10:49:24.410000",
             "duration": 4951.0,
             "title": "이소영 의원 LIVE 코스피 4,000 이게 끝이 아니다 / 이소영 의원 / 라이브",
             "upload_date": null
@@ -826,7 +804,7 @@
             "url": "https://www.youtube.com/watch?v=9nfWZTTwdis",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-02-04T08:40:54.612000",
+            "collected_at": "2026-02-06T10:49:24.410000",
             "duration": 350.0,
             "title": "'기후에 진심'인 두사람 (이소영 국회의원&김성환 환경부장관)",
             "upload_date": null
@@ -836,7 +814,7 @@
             "url": "https://www.youtube.com/watch?v=mK91IXe_Lfw",
             "HG_NM": "이소영",
             "MONA_CD": "WTR5885Y",
-            "collected_at": "2026-02-04T08:40:55.926000",
+            "collected_at": "2026-02-06T10:49:25.722000",
             "duration": 331.0,
             "title": "\"이소영 의원, 어딨습니까?\".. 시작부터 '화기애애' 민주당 의총, 이유는?",
             "upload_date": null
@@ -1632,5 +1610,5 @@
             "RST_PROPOSER": "이소영"
         }
     ],
-    "exported_at": "2026-02-04T18:40:31.898022"
+    "exported_at": "2026-02-06T15:38:47.492579"
 }

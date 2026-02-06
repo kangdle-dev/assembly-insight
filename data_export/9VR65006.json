@@ -59,47 +59,43 @@
         "keywords": [
             "국민",
             "시사",
+            "정각",
+            "연금",
+            "더불어민주당",
             "국방",
+            "양산",
+            "여야",
             "인공",
             "지능",
-            "정각",
-            "유용원",
-            "양산",
-            "더불어민주당",
             "권성동",
             "대통령",
             "논란",
             "최고",
-            "위원",
-            "사퇴"
+            "위원"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 14
+                "value": 17
             },
             {
                 "text": "시사",
                 "value": 12
             },
             {
-                "text": "국방",
-                "value": 9
-            },
-            {
-                "text": "인공",
-                "value": 8
-            },
-            {
-                "text": "지능",
-                "value": 8
-            },
-            {
                 "text": "정각",
                 "value": 8
             },
             {
-                "text": "유용원",
+                "text": "연금",
+                "value": 7
+            },
+            {
+                "text": "더불어민주당",
+                "value": 7
+            },
+            {
+                "text": "국방",
                 "value": 7
             },
             {
@@ -107,7 +103,15 @@
                 "value": 7
             },
             {
-                "text": "더불어민주당",
+                "text": "여야",
+                "value": 6
+            },
+            {
+                "text": "인공",
+                "value": 6
+            },
+            {
+                "text": "지능",
                 "value": 6
             },
             {
@@ -129,40 +133,36 @@
             {
                 "text": "위원",
                 "value": 6
-            },
-            {
-                "text": "사퇴",
-                "value": 6
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:27.968667",
+        "last_analyzed_at": "2026-02-06T15:38:43.302356",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
+                0,
+                0,
                 2,
                 0,
                 0,
-                0,
                 2,
-                0,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"윤영석 의원은 주로 조세 및 지방자치 분야에 집중하며, 개혁가적 입법 활동을 통해 국민의 경제적 안정성을 개선하는 데 주력하고 있습니다. 특히 조세특례제한법과 지방세특례제한법 관련 법안들을 통해 국민의 실생활과 직결된 세금 부담 완화와 지방 재정 안정화를 기대할 수 있는 행보를 보입니다.\"",
@@ -177,10 +177,43 @@
     },
     "recent_news": [
         {
+            "_id": "698545d938b0cf40969784a8",
+            "link": "https://n.news.naver.com/mnews/article/028/0002790197?sid=102",
+            "created_at": "2026-02-06T10:37:27.919000",
+            "description": "남인순 더불어민주당 의원은 “국회에서 우선순위에 대한 논의를 정리해야 할 것 같다. 그 다음 국민 공론화... 위원장인 윤영석 국민의힘 의원은 회의를 마무리하며 “정부의 연금개혁에 대한 방향을 보고받아야 된다”고... ",
+            "originallink": "https://www.hani.co.kr/arti/society/rights/1243539.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-05T18:08:00",
+            "related_members": [
+                "04T3751T",
+                "Y0X4618N",
+                "9VR65006"
+            ],
+            "title": "5개월 만에 열린 연금특위…소득보장과 재정안정론 부딪쳐 공전"
+        },
+        {
+            "_id": "698545d938b0cf40969784a9",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596498?sid=100",
+            "created_at": "2026-02-06T10:37:27.919000",
+            "description": "내달 10일 회의 잠정 합의, 작년엔 공전 국채 발행·퇴직연금 기금화 등 쟁점 야당 신임 간사에 안상훈 의원 5일 국회에서 열린 연금개혁특별위원회 전체회의에서 위원장인 국민의힘 윤영석 의원이 개의를 선언하고 있다.... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670422?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T13:49:00",
+            "related_members": [
+                "04T3751T",
+                "Y0X4618N",
+                "9VR65006",
+                "PYA8594I",
+                "ZW43496R",
+                "OIA3741M"
+            ],
+            "title": "[단독] 여야, 연금개혁 논의 속도 낸다…내달 특위서 정부안 점검"
+        },
+        {
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -226,7 +259,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -407,7 +440,7 @@
             "url": "https://www.youtube.com/watch?v=kCKkOGEAMDw",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:53.434000",
+            "collected_at": "2026-02-06T10:48:24.042000",
             "duration": 940.0,
             "title": "[백운기의 뉴스와이드] 윤영석 \"\"사분오열 국민의힘, 지도부가 리더십으로 결집해야\"\"",
             "upload_date": null
@@ -417,7 +450,7 @@
             "url": "https://www.youtube.com/watch?v=PuGRb5YU1v0",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 609.0,
             "title": "\"부정청약에 대해 아들과 며느리 불화 탓 책임을 미뤄…해명을 그렇게 하셨잖아요?\" 윤영석 국민의힘 의원 | 인사청문회 (26.1.23.) | 국회방송",
             "upload_date": null
@@ -447,7 +480,7 @@
             "url": "https://www.youtube.com/watch?v=AJpdebOliyg",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:53.434000",
+            "collected_at": "2026-02-06T10:48:24.042000",
             "duration": 651.0,
             "title": "여야 막말 논란…윤영석 \"文, XXXX\" 김준혁 \"퇴계이황\" [프레스룸LIVE-이슈ZIP]",
             "upload_date": null
@@ -457,7 +490,7 @@
             "url": "https://www.youtube.com/watch?v=IHuVFKoXw_Y",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:53.434000",
+            "collected_at": "2026-02-06T10:48:24.042000",
             "duration": 198.0,
             "title": "윤영석, 이혜훈 자료 미제출 논란에 \"합리화로 넘길 사안 아니다\" [G1현장영상]",
             "upload_date": null
@@ -497,7 +530,7 @@
             "url": "https://www.youtube.com/watch?v=Y320t5nAa5I",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 782.0,
             "title": "[윤영석TV] 국회방송 국회의원 25시",
             "upload_date": null
@@ -517,7 +550,7 @@
             "url": "https://www.youtube.com/watch?v=iMAaSTyJgzQ",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 1632.0,
             "title": "[김경래의 최강시사] 윤영석 \"추미애 수사지휘권? 이전 정부에서도 못본 꼴\" VS 홍익표 \"소설 같은 얘기 그만하세요\" ┃KBS 201022 방송",
             "upload_date": null
@@ -527,7 +560,7 @@
             "url": "https://www.youtube.com/watch?v=0oeJlfQpOEQ",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 63.0,
             "title": "[최고위원 후보자] 기호3 윤영석",
             "upload_date": null
@@ -537,7 +570,7 @@
             "url": "https://www.youtube.com/watch?v=hlt9qK6CbH8",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 92.0,
             "title": "윤영석 삭발식 \"대한민국 민주주의와 법치주의 되살리려 나섰다\"",
             "upload_date": null
@@ -547,7 +580,7 @@
             "url": "https://www.youtube.com/watch?v=qgUNafy2MnQ",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 1515.0,
             "title": "국회의원25시_408회 윤영석 의원 편[2021. 11. 9]",
             "upload_date": null
@@ -557,7 +590,7 @@
             "url": "https://www.youtube.com/watch?v=D-CVGyWZu84",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 109.0,
             "title": "검찰, 윤영석 의원 소환 및 현영희 5차 조사",
             "upload_date": null
@@ -567,7 +600,7 @@
             "url": "https://www.youtube.com/watch?v=93rrZzcKi4c",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:52.112000",
+            "collected_at": "2026-02-06T10:48:22.817000",
             "duration": 1673.0,
             "title": "[정면]“LH사태 일파만파, 정치권 불협화음 고조”- 윤관석 더불어민주당 의원, 윤영석 국.../ YTN 라디오",
             "upload_date": null
@@ -577,7 +610,7 @@
             "url": "https://www.youtube.com/watch?v=M8KCBwwJxYs",
             "HG_NM": "윤영석",
             "MONA_CD": "9VR65006",
-            "collected_at": "2026-02-04T08:39:53.434000",
+            "collected_at": "2026-02-06T10:48:24.042000",
             "duration": 803.0,
             "title": "[백운기의 뉴스와이드] 윤영석 \"국민의힘 당대표 된다면 통합과 혁신만이 살길…극우 세력, 아주 배제하는 것 맞지 않아\"",
             "upload_date": null
@@ -1761,5 +1794,5 @@
             "RST_PROPOSER": "윤영석"
         }
     ],
-    "exported_at": "2026-02-04T18:40:27.968667"
+    "exported_at": "2026-02-06T15:38:43.302356"
 }

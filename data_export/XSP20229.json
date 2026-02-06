@@ -60,13 +60,13 @@
             "낙동강",
             "토론회",
             "문제",
-            "대표",
             "전략",
+            "대표",
             "총리",
             "정부",
             "회관",
-            "민주당",
-            "해결"
+            "해결",
+            "공급"
         ],
         "keyword_frequency": [
             {
@@ -79,11 +79,11 @@
             },
             {
                 "text": "에너지",
-                "value": 32
+                "value": 29
             },
             {
                 "text": "환경부",
-                "value": 21
+                "value": 23
             },
             {
                 "text": "이해찬",
@@ -102,12 +102,12 @@
                 "value": 15
             },
             {
-                "text": "대표",
+                "text": "전략",
                 "value": 14
             },
             {
-                "text": "전략",
-                "value": 14
+                "text": "대표",
+                "value": 13
             },
             {
                 "text": "총리",
@@ -122,28 +122,28 @@
                 "value": 12
             },
             {
-                "text": "민주당",
+                "text": "해결",
                 "value": 11
             },
             {
-                "text": "해결",
-                "value": 11
+                "text": "공급",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:39:55.343184",
+        "last_analyzed_at": "2026-02-06T15:38:13.952846",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                2,
-                4,
+                1,
+                0,
                 1,
                 0,
                 1,
@@ -151,13 +151,13 @@
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김성환 의원은 주로 신재생 에너지 및 환경 관련 정책 분야에 집중하며, 혁신적이고 미래 지향적인 입법 활동을 통해 국민의 안전과 환경 보호를 개선하는 데 주력하고 있습니다. 특히 신에너지 및 재생에너지 개발과 수소 경제 관련 법안들을 통해 국민의 실생활과 직결된 에너지 효율성 및 지속 가능한 발전을 만들어내는 행보를 보입니다.\"",
@@ -172,10 +172,25 @@
     },
     "recent_news": [
         {
+            "_id": "698545cd38b0cf409697845f",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476874?sid=100",
+            "created_at": "2026-02-06T10:37:15.718000",
+            "description": "그때 우원식 국회의장이나 환경부 장관하고 있는 김성환 의원이 노원구 국회의원이에요. 이분들이 주민들의 뜻을 받아서 강력한 저항을 하니까 결국은 태릉 골프장 택지공급 이거 무산돼버렸습니다, 거의. 그런데 이번에... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12283402?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-04T19:01:00",
+            "related_members": [
+                "XBT9550Q",
+                "XSP20229",
+                "5TQ6306B"
+            ],
+            "title": "[맞수토론] '아마'는 없다…이 대통령, 연일 '다주택자' 고강도 압박"
+        },
+        {
             "_id": "69814aed38b0cf409697772b",
             "link": "https://n.news.naver.com/mnews/article/056/0012116834?sid=100",
             "created_at": "2026-02-03T10:10:03.981000",
-            "description": "국회의원 보궐선거는 조금 더 시간이 여유가 있습니다만 앞으로... ▶ 김성태 : 전용기 의원님 이야기는 참고로 민주당의 희망사항입니다. ▷ 소현정 : 근데 한동훈 전 대표 유료 콘서트 개최에 대해서 한병도 원내대표가... ",
+            "description": "조국혁신당의 황운하 의원이 공동 대표론을 꺼내들고 나왔기 때문에 이 부분이 그냥 그대로 지나칠 수는... 왜냐하면 재보궐 선거 나가서 국회의원직 한 번 한다고 해서 국민의힘에서 아이고, 오십시오라고 이야기할 수... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474763&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-02T10:34:00",
@@ -195,7 +210,7 @@
             "_id": "697ff10638b0cf4096977330",
             "link": "https://n.news.naver.com/mnews/article/003/0013741434?sid=100",
             "created_at": "2026-02-02T09:34:14.738000",
-            "description": "집행위원장인 조정식 대통령 정무특보와 윤호중 행정안전부 장관 등도 끝까지 자리를 지켰다. 민주당에서는... 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
+            "description": "김영진·김태년·박주민·정태호·황정아 의원 등이 함께했다. 김성환 기후에너지환경부 장관도 함께했다. 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
             "originallink": "https://www.newsis.com/view/NISX20260131_0003497625",
             "press": "뉴시스",
             "pubDate": "2026-01-31T17:09:00",
@@ -648,20 +663,6 @@
                 "XSP20229"
             ],
             "title": "\"발전사업 인허가권 지방 이양해야\" 전남도, 기후부에 건의"
-        },
-        {
-            "_id": "6972d1f984596000289976f5",
-            "link": "https://n.news.naver.com/mnews/article/079/0004108041?sid=102",
-            "created_at": "2026-01-23T10:42:15.953000",
-            "description": "김성환 기후부 장관의 취임 후 첫 호남 방문 일정의 하나로 열린 이번 간담회에는 김영록 전남도지사와 신정훈 국회의원, 김동철 한전 사장, 윤병태 나주시장, 박진호 한국에너지공대 총장대행 등 지역 에너지 생태계를... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6460536?utm_source=naver&utm_medium=article&utm_campaign=20260122040812",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-22T16:09:00",
-            "related_members": [
-                "M7O7878U",
-                "XSP20229"
-            ],
-            "title": "전남도, 발전사업 인허가권 이양 등 '에너지 수도' 현안 건의"
         }
     ],
     "recent_videos": [
@@ -680,7 +681,7 @@
             "url": "https://www.youtube.com/watch?v=vM46LLVptME",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-02T09:41:37.180000",
+            "collected_at": "2026-02-06T10:41:08.613000",
             "duration": 193.0,
             "title": "김성환 기후부 장관이 겪은 이 대통령 업무 스타일은?｜이가혁 라이브",
             "upload_date": null
@@ -690,7 +691,7 @@
             "url": "https://www.youtube.com/watch?v=ASBdwIOy_cU",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-04T08:32:33.421000",
+            "collected_at": "2026-02-06T10:41:07.211000",
             "duration": 244.0,
             "title": "국회의원 김성환이 말합니다.",
             "upload_date": null
@@ -740,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=pyFc6F_yn1c",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-04T08:32:33.421000",
+            "collected_at": "2026-02-06T10:41:07.211000",
             "duration": 357.0,
             "title": "[김어준의 다스뵈이다] 총수를 감동시킨 김성환 의원의 위스토리(Westory)",
             "upload_date": null
@@ -760,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=qmwa32MuOu8",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-01-30T23:20:03.377000",
+            "collected_at": "2026-02-06T10:41:07.211000",
             "duration": 1783.0,
             "title": "[YTN 뉴스앤이슈 ] '김성환 국회의원 여야 의원 대담 코너' FULL VER.",
             "upload_date": null
@@ -770,7 +771,7 @@
             "url": "https://www.youtube.com/watch?v=aO1hHHW1NpI",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-02T09:41:37.180000",
+            "collected_at": "2026-02-06T10:41:08.613000",
             "duration": 577.0,
             "title": "'거시기' 배우 김성환 \"정윤희·장미희 애인이었다\" - 김명준의 뉴스파이터",
             "upload_date": null
@@ -810,7 +811,7 @@
             "url": "https://www.youtube.com/watch?v=kutiqqxdxIs",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-04T08:32:33.421000",
+            "collected_at": "2026-02-06T10:41:07.211000",
             "duration": 87.0,
             "title": "6월 항쟁을 몸으로 직접 치른 김성환 국회의원의 회고 [6.10 민주항쟁]",
             "upload_date": null
@@ -830,7 +831,7 @@
             "url": "https://www.youtube.com/watch?v=UCVwCEfX77O5aXZSt5wYQO1w",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-04T08:32:33.421000",
+            "collected_at": "2026-02-06T10:41:07.211000",
             "duration": null,
             "title": "김성환TV",
             "upload_date": null
@@ -840,7 +841,7 @@
             "url": "https://www.youtube.com/watch?v=QrDUz2LMVmM",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-04T08:32:33.421000",
+            "collected_at": "2026-02-06T10:41:07.211000",
             "duration": 580.0,
             "title": "[국회 300인의 희망인터뷰] 김성환 의원 - 나의 세가지 키워드!",
             "upload_date": null
@@ -860,7 +861,7 @@
             "url": "https://www.youtube.com/watch?v=ivTWzrBt0l0",
             "HG_NM": "김성환",
             "MONA_CD": "XSP20229",
-            "collected_at": "2026-02-04T08:32:34.797000",
+            "collected_at": "2026-02-06T10:41:08.613000",
             "duration": 252.0,
             "title": "김성환, 故 송대관에게 10억 빌려준 사연 공개 / 채널A / 뉴스TOP 10",
             "upload_date": null
@@ -1204,5 +1205,5 @@
             "RST_PROPOSER": "김성환"
         }
     ],
-    "exported_at": "2026-02-04T18:39:55.343686"
+    "exported_at": "2026-02-06T15:38:13.952846"
 }

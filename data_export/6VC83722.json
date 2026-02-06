@@ -46,26 +46,26 @@
             "혁신",
             "특검",
             "합당",
-            "종합",
             "대통령",
             "처리",
+            "종합",
             "추천",
-            "법안",
+            "대변인",
             "민주",
-            "대표",
-            "후보",
             "원내",
-            "총회",
-            "이혜훈"
+            "법안",
+            "후보",
+            "이혜훈",
+            "대미"
         ],
         "keyword_frequency": [
             {
                 "text": "민주당",
-                "value": 37
+                "value": 35
             },
             {
                 "text": "혁신",
-                "value": 24
+                "value": 25
             },
             {
                 "text": "특검",
@@ -76,15 +76,15 @@
                 "value": 20
             },
             {
-                "text": "종합",
-                "value": 15
-            },
-            {
                 "text": "대통령",
-                "value": 15
+                "value": 17
             },
             {
                 "text": "처리",
+                "value": 15
+            },
+            {
+                "text": "종합",
                 "value": 14
             },
             {
@@ -92,7 +92,7 @@
                 "value": 13
             },
             {
-                "text": "법안",
+                "text": "대변인",
                 "value": 12
             },
             {
@@ -100,54 +100,54 @@
                 "value": 11
             },
             {
-                "text": "대표",
-                "value": 11
+                "text": "원내",
+                "value": 10
+            },
+            {
+                "text": "법안",
+                "value": 10
             },
             {
                 "text": "후보",
                 "value": 10
             },
             {
-                "text": "원내",
-                "value": 10
-            },
-            {
-                "text": "총회",
-                "value": 10
-            },
-            {
                 "text": "이혜훈",
                 "value": 10
+            },
+            {
+                "text": "대미",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:03.811461",
+        "last_analyzed_at": "2026-02-06T15:38:21.520447",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                3,
-                0,
                 0,
                 4,
                 9,
                 3,
+                2,
+                0,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김현정 의원은 주로 소비자 보호 및 금융 관련 분야에 집중하며, 개혁가적 입법 활동을 통해 국민의 경제적 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 전자상거래와 금융소비자 보호 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정성을 높이는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,36 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d838b0cf409697849c",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588484?sid=100",
+            "created_at": "2026-02-06T10:37:26.657000",
+            "description": "김현정 / 더불어민주당 원내대변인 (지난달 27일) \"국민의힘에서 입장이 국회의 비준이 필요하다고 계속 주장하면서 법안 처리에 대단히 반대하는 입장이었잖아요.\" 임이자 / 국민의힘 의원 (국회 재정경제기획위원장... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/04/2026020490239.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-04T21:08:00",
+            "related_members": [
+                "7YL9580G",
+                "6VC83722",
+                "EH27538E",
+                "6EN68926"
+            ],
+            "title": "與 \"속도보다 신중\"이라던 '대미투자법' 뒤늦게 속도…여야, '특위' 구성..."
+        },
+        {
+            "_id": "698545d838b0cf409697849d",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595680?sid=100",
+            "created_at": "2026-02-06T10:37:26.658000",
+            "description": "김현정 더불어민주당 의원 [연합] 국회 정무위원회 소속 김현정 의원(더불어민주당, 평택시병)은 기업의 이윤추구 과정에서 발생하는 불법행위로 인한 대규모 집단피해에 대해 피해자들이 실질적인 손해배상을 받을 수... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669354?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T11:09:00",
+            "related_members": [
+                "7YL9580G",
+                "6VC83722"
+            ],
+            "title": "김현정 의원, 기업 불법행위 집단피해 구제 위한 ‘집단소송법’ 제정안..."
+        },
         {
             "_id": "6981c74638b0cf4096977b0c",
             "link": "https://n.news.naver.com/mnews/article/032/0003425475?sid=100",
@@ -181,7 +211,7 @@
             "_id": "69814ae238b0cf40969776ea",
             "link": "https://radio.ytn.co.kr/program/?f=2&id=107215&s_mcd=0214&s_hcd=01",
             "created_at": "2026-02-03T10:09:52.897000",
-            "description": "이철우 지사가 은사, 스승의 그림자도 안 밟아 - 조정훈 인재영입위원장 인선 비판? 가리키는 손가락 보지... 다만, 3선 국회의원으로서 우리 당의 중진으로서 이렇게 바라봤을 때는 왜 오세훈 시장님께서 저렇게... ",
+            "description": "다만, 3선 국회의원으로서 우리 당의 중진으로서 이렇게 바라봤을 때는 왜 오세훈 시장님께서 저렇게... 최보윤 수석 대변인 논평 담긴 기사도 공유를 했습니다. 대통령의 언급 내용을 잠깐 말씀드리면, \"이 망국적 부동산... ",
             "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107215&s_mcd=0214&s_hcd=01",
             "press": "YTN",
             "pubDate": "2026-02-03T09:30:00",
@@ -205,7 +235,7 @@
             "_id": "6981c73938b0cf4096977aed",
             "link": "https://n.news.naver.com/mnews/article/052/0002309623?sid=100",
             "created_at": "2026-02-03T19:00:21.979000",
-            "description": "이철우 지사가 은사, 스승의 그림자도 안 밟아 - 조정훈 인재영입위원장 인선 비판? 가리키는 손가락 보지... 다만, 3선 국회의원으로서 우리 당의 중진으로서 이렇게 바라봤을 때는 왜 오세훈 시장님께서 저렇게... ",
+            "description": "다만, 3선 국회의원으로서 우리 당의 중진으로서 이렇게 바라봤을 때는 왜 오세훈 시장님께서 저렇게... 최보윤 수석 대변인 논평 담긴 기사도 공유를 했습니다. 대통령의 언급 내용을 잠깐 말씀드리면, \"이 망국적 부동산... ",
             "originallink": "https://www.ytn.co.kr/_ln/0101_202602030921232186",
             "press": "YTN",
             "pubDate": "2026-02-03T09:21:00",
@@ -407,7 +437,7 @@
             "_id": "697ff10338b0cf4096977329",
             "link": "https://n.news.naver.com/mnews/article/009/0005630417?sid=100",
             "created_at": "2026-02-02T09:34:11.528000",
-            "description": "최근 비당권파 중진 의원과 국회의원 출신 국무위원이 정 대표와 혁신당 사이의 사전 밀약 가능성을 언급한... 채현일 의원은 “혁신당의 색채가 민주당의 중도·실용주의 노선과 어떻게 조율될지 설명이 필요하다”고... ",
+            "description": "최근 비당권파 중진 의원과 국회의원 출신 국무위원이 정 대표와 혁신당 사이의 사전 밀약 가능성을 언급한... 이해민 혁신당 사무총장은 이날 기자간담회에서 “갑작스러운 제안에도 질서 있게 대응한 것은 혁신당”... ",
             "originallink": "https://www.mk.co.kr/article/11949455",
             "press": "매일경제",
             "pubDate": "2026-02-01T15:52:00",
@@ -657,43 +687,6 @@
                 "TKJ4800F"
             ],
             "title": "“한덕수, 면목 없다더니 호텔·맛집서 희희낙락”…민주, 법정구속 촉..."
-        },
-        {
-            "_id": "69701240297082fcc2b34c99",
-            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155216",
-            "created_at": "2026-01-21T08:39:42.721000",
-            "description": "이번 단일안은 국회에 발의된 민병덕·안도걸·김현정·이강일 의원 등의 디지털자산 관련 법안을 종합한 자체안으로, 정부안 제출 여부와 관계없이 발빠르게 입법을 추진한다는 방침이다. 민주당 디지털자산 TF는... ",
-            "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092155216",
-            "press": "조선일보",
-            "pubDate": "2026-01-20T17:26:00",
-            "related_members": [
-                "AEO5706C",
-                "7YL9580G",
-                "6VC83722",
-                "EB16073M",
-                "TZ228122",
-                "O0I2045I"
-            ],
-            "title": "與, 2월초 '디지털자산 기본법' 발의… 금융당국과 따로 가나"
-        },
-        {
-            "_id": "696902b5297082fcc2b1926c",
-            "link": "https://n.news.naver.com/mnews/article/022/0004097942?sid=100",
-            "created_at": "2026-01-16T00:07:33.787000",
-            "description": "손 맞잡고 더불어민주당 정청래 대표(왼쪽)가 15일 국회에서 열린 당 의원총회에서 한병도 원내대표와... 변호사 출신인 김남희 의원은 자신의 페이스북에 올린 글에서 “우리나라는 사기 등 경제범죄를 형사적으로... ",
-            "originallink": "https://www.segye.com/newsView/20260115516345?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-15T18:12:00",
-            "related_members": [
-                "NXB3178C",
-                "2385336L",
-                "H5476989",
-                "6VC83722",
-                "7YL9580G",
-                "8BF5855P",
-                "V429892C"
-            ],
-            "title": "與 중수청·공소청 법안 수정 본격화… 20일 공청회가 분수령"
         }
     ],
     "recent_videos": [
@@ -702,7 +695,7 @@
             "url": "https://www.youtube.com/watch?v=R21kRbA9FKI",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:26.107000",
+            "collected_at": "2026-02-06T10:42:59.180000",
             "duration": 186.0,
             "title": "김현정, 16년 만의 뉴스쇼 하차가... '李 저격' 때문? 직접 입 열었다! [이슈클립]",
             "upload_date": null
@@ -712,7 +705,7 @@
             "url": "https://www.youtube.com/watch?v=C3aeqf0o8gg",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:24.750000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 4109.0,
             "title": "[박정호의 핫스팟] 김현정의 정문일침 \"'반바지 대표' 한동훈, 정치인의 기본적 에티켓과 자질 좀 공부하길\" (9월 3일 전체보기)",
             "upload_date": null
@@ -732,7 +725,7 @@
             "url": "https://www.youtube.com/watch?v=xkfhm6iHM7w",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-02T09:43:28.610000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 428.0,
             "title": "여의도 '인적 쇄신 칼 바람', 현직 국회의원들의 체감 온도는? | 김현정의 쎈터:뷰 Centerview EP.5",
             "upload_date": null
@@ -752,7 +745,7 @@
             "url": "https://www.youtube.com/watch?v=u5YPA4q1FvI",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:24.750000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 533.0,
             "title": "김현정 의원 MBN 뉴스와이드 발언 모음.ZIP",
             "upload_date": null
@@ -802,7 +795,7 @@
             "url": "https://www.youtube.com/watch?v=rPR-o9Yf4Q4",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-02T09:43:28.610000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 2884.0,
             "title": "#상생∙#연대∙#공존 등 우분투의 중요성! 김현정 더불어민주당 의원의 '더불어 살아가는 법' 📖 | 인생책방 | 국회방송",
             "upload_date": null
@@ -812,7 +805,7 @@
             "url": "https://www.youtube.com/watch?v=fmTksJMR6cc",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-02T09:43:29.958000",
+            "collected_at": "2026-02-06T10:42:59.180000",
             "duration": 5244.0,
             "title": "12/30 (화) 뉴스연구소(조태임·김준일) |”이혜훈, 변신이자 배신”(신동욱) | “최악의 서울시장은??(김진애) | '김병기, 결국 사퇴' (한칼토론) [김현정의 뉴스쇼]",
             "upload_date": null
@@ -822,7 +815,7 @@
             "url": "https://www.youtube.com/watch?v=s8xlQ1aNmpQ",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:24.750000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 234.0,
             "title": "김현정 \"의원 정수 감축 제안, 진정성 있다면 당론 먼저 채택해야\" [Y녹취록] / YTN",
             "upload_date": null
@@ -852,7 +845,7 @@
             "url": "https://www.youtube.com/watch?v=rcYadlgEdKY",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:24.750000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 517.0,
             "title": "김현정 의원 채널A 뉴스 탑텐 발언 모음",
             "upload_date": null
@@ -862,7 +855,7 @@
             "url": "https://www.youtube.com/watch?v=UC06KOGTQls2OsECol2R2ASA",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:24.750000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": null,
             "title": "김현정 정감정치",
             "upload_date": null
@@ -872,7 +865,7 @@
             "url": "https://www.youtube.com/watch?v=cagjLOS2E4M",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:24.750000",
+            "collected_at": "2026-02-06T10:42:57.882000",
             "duration": 506.0,
             "title": "쿠팡 청문회장에서 김현정 의원, ‘사찰 정황’ 폭로 “작업 현장, 완전 무법지대”",
             "upload_date": null
@@ -882,7 +875,7 @@
             "url": "https://www.youtube.com/watch?v=vV8RGGhxXpE",
             "HG_NM": "김현정",
             "MONA_CD": "6VC83722",
-            "collected_at": "2026-02-04T08:34:26.107000",
+            "collected_at": "2026-02-06T10:42:59.180000",
             "duration": 6391.0,
             "title": "1/2(금) 강선우 탈당, 김병기 윤리위 회부(조태임·박순봉) 2026 정치에 바란다(김종인) 이혜훈 갑질·강선우 1억·한동훈 당게(김종혁·김현정) [김현정의 뉴스쇼]",
             "upload_date": null
@@ -3324,5 +3317,5 @@
             "RST_PROPOSER": "김현정"
         }
     ],
-    "exported_at": "2026-02-04T18:40:03.812462"
+    "exported_at": "2026-02-06T15:38:21.521447"
 }

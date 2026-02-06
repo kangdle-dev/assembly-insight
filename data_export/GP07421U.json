@@ -49,39 +49,51 @@
         "keywords": [
             "더불어민주당",
             "대통령",
+            "콘서트",
             "윤석열",
-            "행정",
+            "축사",
+            "특별",
             "통합",
+            "행정",
             "체포",
             "방해",
-            "국민",
-            "선거",
-            "교육감",
-            "문재인",
-            "특별",
-            "내란",
-            "선고",
-            "국정"
+            "민주당",
+            "서울",
+            "위원회",
+            "회관",
+            "참석자"
         ],
         "keyword_frequency": [
             {
                 "text": "더불어민주당",
-                "value": 18
+                "value": 25
             },
             {
                 "text": "대통령",
-                "value": 13
+                "value": 23
+            },
+            {
+                "text": "콘서트",
+                "value": 17
             },
             {
                 "text": "윤석열",
                 "value": 13
             },
             {
-                "text": "행정",
-                "value": 13
+                "text": "축사",
+                "value": 12
+            },
+            {
+                "text": "특별",
+                "value": 12
             },
             {
                 "text": "통합",
+                "value": 12
+            },
+            {
+                "text": "행정",
                 "value": 12
             },
             {
@@ -93,66 +105,54 @@
                 "value": 11
             },
             {
-                "text": "국민",
-                "value": 11
-            },
-            {
-                "text": "선거",
+                "text": "민주당",
                 "value": 10
             },
             {
-                "text": "교육감",
+                "text": "서울",
                 "value": 10
             },
             {
-                "text": "문재인",
-                "value": 8
+                "text": "위원회",
+                "value": 10
             },
             {
-                "text": "특별",
-                "value": 8
+                "text": "회관",
+                "value": 9
             },
             {
-                "text": "내란",
-                "value": 8
-            },
-            {
-                "text": "선고",
-                "value": 7
-            },
-            {
-                "text": "국정",
-                "value": 6
+                "text": "참석자",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:27.534175",
+        "last_analyzed_at": "2026-02-06T15:38:42.892823",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
                 1,
-                0
+                8,
+                0,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"윤건영 의원은 주로 공공 안전 및 복지에 집중하며, 개혁가적인 입법 활동을 통해 국민의 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 소방공무원 보건안전 및 복지 기본법, 풍수해ㆍ지진재해보험법 관련 법안들을 통해 국민의 실생활과 직결된 안전망 강화와 재해 예방 효과를 만들어내는 행보를 보입니다.\"",
@@ -166,6 +166,135 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c438b0cf4096978411",
+            "link": "https://n.news.naver.com/mnews/article/028/0002790270?sid=102",
+            "created_at": "2026-02-06T10:37:06.899000",
+            "description": "“여순사건에 관심을 가진 국회의원은 용혜인 의원밖에 없더라고요.” 지난해 12월13일 강원대... 그 주간에도 한병도 민주당 원내대표께 꼭 이번 본회의에 법안 상정해달라고 요청드렸고 통과는 예정되어 있었지만, 막상... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1243619.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-06T07:02:00",
+            "related_members": [
+                "GE71932C",
+                "GDG1847Z",
+                "QWL7778X",
+                "TCP9838Y",
+                "SLW27496",
+                "YGB8604T",
+                "GP07421U",
+                "H5476989"
+            ],
+            "title": "“국가폭력 이슈와 기본소득, 묵묵히 그러나 반드시” [안녕 진화위⑮]"
+        },
+        {
+            "_id": "698545f938b0cf4096978545",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749238?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "문정인 전 대통령 통일외교안보특별보좌관이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영 북 콘서트에서 축사를 하고 있다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150587",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U"
+            ],
+            "title": "윤건영 북 콘서트 축사하는 문정인 전 대통령 통일외교안보특별보좌관"
+        },
+        {
+            "_id": "698545f938b0cf4096978540",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749240?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "윤건영 더불어민주당 의원을 비롯한 참석자들이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영... 문정인 전 대통령 통일외교안보특별보좌관, 이인영 더불어민주당 의원 등이 참석했다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150589",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U",
+                "3ZR4438W"
+            ],
+            "title": "국민의례하는 참석자들"
+        },
+        {
+            "_id": "698545f938b0cf4096978541",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749237?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "김경수 대통령직속 지방시대위원회 위원장이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영 북 콘서트에서 축사를 하고 있다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150591",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U"
+            ],
+            "title": "윤건영 북 콘서트 축사하는 김경수 대통령직속 지방시대위원회 위원장"
+        },
+        {
+            "_id": "698545e038b0cf40969784cc",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749233?sid=100",
+            "created_at": "2026-02-06T10:37:34.107000",
+            "description": "윤건영 더불어민주당 의원을 비롯한 참석자들이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영... 더불어민주당 의원, 김경수 대통령직속 지방시대위원회 위원장, 이인영 더불어.민주당 의원. 2026.02.04. kgb... ",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150603",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U",
+                "IL74008M",
+                "3ZR4438W"
+            ],
+            "title": "기념촬영하는 윤건영 북콘서트 참석자들"
+        },
+        {
+            "_id": "698545f938b0cf4096978543",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749239?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "윤건영 더불어민주당 의원이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영 북 콘서트에서 김경수 대통령직속 지방시대위원회 위원장과 인사를 하고 있다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150594",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U"
+            ],
+            "title": "악수하는 윤건영-김경수"
+        },
+        {
+            "_id": "698545f938b0cf4096978544",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749236?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "이인영 더불어민주당 의원이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영 북 콘서트에서 축사를 하고 있다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150592",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U",
+                "3ZR4438W"
+            ],
+            "title": "윤건영 북 콘서트 축사하는 이인영 더불어민주당 의원"
+        },
+        {
+            "_id": "698545f938b0cf409697853f",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749241?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "정세현 전 통일부 장관이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영 북 콘서트에서 축사를 하고 있다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150588",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U"
+            ],
+            "title": "윤건영 북 콘서트 축사하는 정세현 전 통일부 장관"
+        },
+        {
+            "_id": "698545f938b0cf4096978542",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749235?sid=100",
+            "created_at": "2026-02-06T10:37:59.375000",
+            "description": "윤건영 더불어민주당 의원을 비롯한 참석자들이 4일 오후 서울 여의도 국회 의원회관에서 열린 윤건영... 문정인 전 대통령 통일외교안보특별보좌관, 이인영 더불어민주당 의원 등이 참석했다. 2026.02.04. kgb@newsis.com",
+            "originallink": "https://www.newsis.com/view/NISI20260204_0021150590",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T16:28:00",
+            "related_members": [
+                "GP07421U",
+                "3ZR4438W"
+            ],
+            "title": "기념촬영하는 윤건영 북콘서트 참석자들"
+        },
         {
             "_id": "69814af038b0cf409697773c",
             "link": "https://n.news.naver.com/mnews/article/003/0013744737?sid=102",
@@ -207,7 +336,7 @@
             "_id": "697cbd4d38b0cf4096976c66",
             "link": "https://n.news.naver.com/mnews/article/003/0013732355?sid=100",
             "created_at": "2026-01-30T23:16:45.686000",
-            "description": "국회 정치개혁특별위원회 비교섭단체 몫으로 합류한 정춘생 조국혁신당 의원은 이날 ▲3~5인 중대선거구제 도입 ▲광역·기초단체장 결선투표 도입 ▲비례대표 의석 비율 현행 10%→20~30%로 확대 ▲무투표 당선 방지법 ▲돈... ",
+            "description": "서왕진 조국혁신당 원내대표는 이날 \"개혁 진보 4당의 국회의원 전원이 공동 의원총회를 여는 것은 이번이... 또 정 의원은 \"어제 (더불어민주당) 윤건영 간사가 '민주당의 입장이 현행 제도를 바꾸는 것에 적극적이지 않다... ",
             "originallink": "https://www.newsis.com/view/NISX20260127_0003491526",
             "press": "뉴시스",
             "pubDate": "2026-01-27T11:06:00",
@@ -237,7 +366,7 @@
             "_id": "697cbd2538b0cf4096976b06",
             "link": "https://n.news.naver.com/mnews/article/003/0013731458?sid=100",
             "created_at": "2026-01-30T23:16:05.509000",
-            "description": "임미애 더불어민주당 의원은 이날 국회에서 열린 정개특위 2차 전체회의에서 허철훈 선관위 사무총장을... 정춘생 조국혁신당 의원은 \"특정 정당이 독점하고 있는 지역의 투표율을 알고 있나. 광주는 37.7%, 대구는 42.2%다... ",
+            "description": "바꿔달라'고 국회에 제출해야 한다\"고 했다. 한편 정개특위는 이날 '공직선거법 및 지방선거구제 개편심사소위원회' '정치관계법심사소위원회' 구성의 건도 의결했다. 정개특위 여야 간사인 윤건영 민주당 의원과 조정훈... ",
             "originallink": "https://www.newsis.com/view/NISX20260126_0003490875",
             "press": "뉴시스",
             "pubDate": "2026-01-26T20:31:00",
@@ -495,208 +624,6 @@
                 "YGB8604T"
             ],
             "title": "[정치쇼] 윤건영 \"윤 체포방해 '올려치기' 선고해야…장동혁 단식? 번지..."
-        },
-        {
-            "_id": "6964b572631fd1743499635a",
-            "link": "https://edu.donga.com/news/articleView.html?idxno=101560",
-            "created_at": "2026-01-12T17:48:47.614000",
-            "description": "지난 1986년부터 시상한 이래 남덕우 전 국무총리를 시작으로 장영달 전 국회의원, 배동현 전 아모레퍼시픽그룹 대표이사, 손석희 전 JTBC 대표이사, 윤정식 전 OBS 대표이사, 윤건영 국회의원 등의 수상자를 배출하며... ",
-            "originallink": "https://edu.donga.com/news/articleView.html?idxno=101560",
-            "press": "동아일보",
-            "pubDate": "2026-01-09T10:52:00",
-            "related_members": [
-                "GP07421U"
-            ],
-            "title": "국민대 총동문회, 2026년 '자랑스런 국민인의 상' 선정"
-        },
-        {
-            "_id": "6964b566631fd174349962c8",
-            "link": "https://n.news.naver.com/mnews/article/056/0012100125?sid=100",
-            "created_at": "2026-01-12T17:48:35.504000",
-            "description": "우 의장은 오늘(7일) 국회에서 더불어민주당 소속 국회 행정안전위원장 신정훈 의원 및 행안위 간사 윤건영 의원 등과 함께 간담회를 열고 “개헌 기본 절차인 국민투표법 개정되지 않아서 개헌 논의 자체를 하지 못하는... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8452610&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-07T13:51:00",
-            "related_members": [
-                "XBT9550Q",
-                "L7J93733",
-                "M7O7878U",
-                "GP07421U"
-            ],
-            "title": "우원식 “내란 1심 이후 개헌 논의하자…국민투표법 개정부터”"
-        },
-        {
-            "_id": "6964b542631fd17434996011",
-            "link": "https://n.news.naver.com/mnews/article/015/0005233354?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현·고민정·곽상언·권칠승·권향엽·김기표·김남근·김남희·김문수·김승원·김용만·김용민·김윤·김원이·김준혁·김태년·김태선·김현정·남인순·문금주·문정복·민병덕... ",
-            "originallink": "https://www.hankyung.com/article/2026010644427",
-            "press": "한국경제",
-            "pubDate": "2026-01-06T14:33:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "5N65159P",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "VRY5522V",
-                "BT62420K",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "OIA3741M",
-                "BRU2690F",
-                "GP07421U",
-                "JC14718Q",
-                "MQK9493H",
-                "7YC6702R",
-                "W3U3344O",
-                "95J3282H",
-                "0R68099X",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "CCU1009B",
-                "FH777496",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "3C23171A",
-                "8TU8443O",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "與 의원 68명 \"미국의 베네수엘라 군사작전, 국제평화 위협\" [전문]"
-        },
-        {
-            "_id": "6964b542631fd17434996012",
-            "link": "https://n.news.naver.com/mnews/article/028/0002784988?sid=100",
-            "created_at": "2026-01-12T17:48:00.015000",
-            "description": "2026년 1월 6일 더불어민주당 국회의원 68명 강준현, 고민정, 곽상언, 권칠승, 권향엽, 김기표, 김남근, 김남희, 김문수, 김승원, 김용만, 김용민, 김 윤, 김원이, 김준혁, 김태년, 김태선, 김현정, 남인순, 문금주, 문정복, 민병덕... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1238251.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-06T11:58:00",
-            "related_members": [
-                "NB64509Z",
-                "4L695580",
-                "C7E79345",
-                "OFE45081",
-                "YM42715P",
-                "GOC54665",
-                "04T3751T",
-                "EFU76868",
-                "ATB59635",
-                "TZ228122",
-                "NXB3178C",
-                "6VC83722",
-                "FIE6569O",
-                "86R9476S",
-                "WCD5518S",
-                "5KV96424",
-                "IUX1829H",
-                "6WK3815W",
-                "7YL9580G",
-                "3CC88975",
-                "GRP3908I",
-                "1WE5693J",
-                "BT62420K",
-                "VRY5522V",
-                "E2B3753X",
-                "ZDR63255",
-                "HSS7466Y",
-                "XR24352K",
-                "RG972910",
-                "6I88973D",
-                "51A45980",
-                "MDC3257K",
-                "GJ56729D",
-                "ZW43496R",
-                "OIA3741M",
-                "CK143054",
-                "JSA8739I",
-                "URX8075K",
-                "BRU2690F",
-                "MQK9493H",
-                "GP07421U",
-                "7YC6702R",
-                "JC14718Q",
-                "95J3282H",
-                "0R68099X",
-                "W3U3344O",
-                "EBH1101V",
-                "9JF4562W",
-                "6K79158C",
-                "3ZR4438W",
-                "RKS3658I",
-                "3LP22204",
-                "RBM5454A",
-                "UQ282145",
-                "CCU1009B",
-                "FH777496",
-                "2S73768V",
-                "4T026790",
-                "X639721U",
-                "RPN2293B",
-                "QUR40502",
-                "UHB5553T",
-                "8TU8443O",
-                "3C23171A",
-                "YS38221N",
-                "BCQ55105",
-                "T6A6557F"
-            ],
-            "title": "민주 의원 68명 “미, 베네수엘라 군사작전은 국제평화에 심각한 위협”"
-        },
-        {
-            "_id": "6964b572631fd1743499635b",
-            "link": "https://n.news.naver.com/mnews/article/421/0008697388?sid=102",
-            "created_at": "2026-01-12T17:48:47.615000",
-            "description": "국회의원 보궐선거 가능성까지 염두에 둔 전략이라는 해석도 나온다. 현재 임호선(증평·진천·음성)... 재선 도전을 마다할 이유가 없는 윤건영 교육감은 출마 선언 시기를 최대한 늦추고 현직 프리미엄을 활용하면서... ",
-            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6029136",
-            "press": "뉴스1",
-            "pubDate": "2026-01-06T06:00:00",
-            "related_members": [
-                "FH777496",
-                "GP07421U"
-            ],
-            "title": "'지선 5개월 앞' 충북 현역 단체장 등판 언제…시점 고심"
         }
     ],
     "recent_videos": [
@@ -705,7 +632,7 @@
             "url": "https://www.youtube.com/watch?v=O0-w6l1bRxM",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:47.197000",
+            "collected_at": "2026-02-06T10:48:17.498000",
             "duration": 116.0,
             "title": "윤건영 \"체포방해 윤석열 징역 5년? 올려치기 선고해야…총 쐈더라면 내란 사태 발생\"｜지금 이 뉴스",
             "upload_date": null
@@ -745,7 +672,7 @@
             "url": "https://www.youtube.com/watch?v=-fyz3nWcIpk",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:45.898000",
+            "collected_at": "2026-02-06T10:48:16.187000",
             "duration": 989.0,
             "title": "\"분당? 호사가들의 이야기일 뿐 가능성 없어\" 윤건영 더불어민주당 의원 직격인터뷰 [시사스페셜]",
             "upload_date": null
@@ -775,7 +702,7 @@
             "url": "https://www.youtube.com/watch?v=xRamoqL542o",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:45.898000",
+            "collected_at": "2026-02-06T10:48:16.187000",
             "duration": 368.0,
             "title": "\"상식적으로 한번 생각을 해보십쇼\" 윤건영 의원 질의 맞받아친 이상민 행정안전부 장관",
             "upload_date": null
@@ -795,7 +722,7 @@
             "url": "https://www.youtube.com/watch?v=ppCUvpRyTDY",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:47.197000",
+            "collected_at": "2026-02-06T10:48:17.498000",
             "duration": 727.0,
             "title": "\"윤, 업무보고 대충 끝낸 뒤 소폭 말아\"…윤건영 \"너무 취해서 경호관에 업혀 나왔다\" [이슈PLAY] / JTBC News",
             "upload_date": null
@@ -845,7 +772,7 @@
             "url": "https://www.youtube.com/watch?v=L9qTzNVHmjk",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:45.898000",
+            "collected_at": "2026-02-06T10:48:16.187000",
             "duration": 3526.0,
             "title": "윤건영 의원, 일단 명태균 증인 앞으로 불러놓고 오세훈에게 질문했다. 그 이유가...",
             "upload_date": null
@@ -865,7 +792,7 @@
             "url": "https://www.youtube.com/watch?v=UC2zuYf2hbVSNw5cRhDeqJMg",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:45.898000",
+            "collected_at": "2026-02-06T10:48:16.187000",
             "duration": null,
             "title": "윤건영TV",
             "upload_date": null
@@ -885,7 +812,7 @@
             "url": "https://www.youtube.com/watch?v=ABZGl6q4Z9w",
             "HG_NM": "윤건영",
             "MONA_CD": "GP07421U",
-            "collected_at": "2026-02-04T08:39:47.197000",
+            "collected_at": "2026-02-06T10:48:17.498000",
             "duration": 1241.0,
             "title": "윤건영 \"'입꾹닫' 오세훈, 명태균 사라지니 '술술'...치졸해\"",
             "upload_date": null
@@ -2223,5 +2150,5 @@
             "RST_PROPOSER": "윤건영"
         }
     ],
-    "exported_at": "2026-02-04T18:40:27.534175"
+    "exported_at": "2026-02-06T15:38:42.893823"
 }

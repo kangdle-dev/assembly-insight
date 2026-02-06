@@ -57,21 +57,21 @@
             "포항",
             "국민",
             "의혹",
+            "요구",
             "특검",
-            "공천",
             "민주당",
-            "선거",
+            "지역",
             "지역구",
+            "공천",
+            "대표",
             "출마",
             "수사",
-            "단식",
-            "이준석",
-            "출당"
+            "단식"
         ],
         "keyword_frequency": [
             {
                 "text": "정재",
-                "value": 33
+                "value": 32
             },
             {
                 "text": "김정",
@@ -90,11 +90,11 @@
                 "value": 15
             },
             {
-                "text": "특검",
+                "text": "요구",
                 "value": 12
             },
             {
-                "text": "공천",
+                "text": "특검",
                 "value": 12
             },
             {
@@ -102,12 +102,20 @@
                 "value": 12
             },
             {
-                "text": "선거",
+                "text": "지역",
                 "value": 11
             },
             {
                 "text": "지역구",
                 "value": 11
+            },
+            {
+                "text": "공천",
+                "value": 11
+            },
+            {
+                "text": "대표",
+                "value": 10
             },
             {
                 "text": "출마",
@@ -120,44 +128,36 @@
             {
                 "text": "단식",
                 "value": 10
-            },
-            {
-                "text": "이준석",
-                "value": 10
-            },
-            {
-                "text": "출당",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:00.855635",
+        "last_analyzed_at": "2026-02-06T15:38:18.863206",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                0,
                 0,
                 1,
                 2,
                 2,
+                1,
+                0,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김정재 의원은 주로 군사, 소상공인, 그리고 환경 관련 정책 분야에 집중하며, 실질적 변화와 개선을 추구하는 보호자 입법 활동을 통해 국민의 경제적 안정과 복지를 개선하는 데 주력하고 있습니다. 특히 소상공인 보호 및 지원에 관한 법안들과 군사 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안전망과 사회적 지원을 강화하는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -171,6 +171,20 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d438b0cf4096978489",
+            "link": "https://n.news.naver.com/mnews/article/055/0001330314?sid=100",
+            "created_at": "2026-02-06T10:37:22.803000",
+            "description": "같은 당 소속 국토교통위원회 위원인 정점식 의원이 국비 지원이 가능한지 묻자, 국토교통부가 방법을... 국회의원은 국민의 대표이자 지역민의 대표이기도 하기 때문입니다. 다만, 지역을 위해 꼭 필요한 예산인지... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008430960&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-02-04T18:01:00",
+            "related_members": [
+                "E1J8836Y",
+                "LJK4960Z"
+            ],
+            "title": "지역 예산 '수두룩'…올해도 어김없이 '현수막 예산'? [취재파일]"
+        },
         {
             "_id": "69814af538b0cf409697775d",
             "link": "https://n.news.naver.com/mnews/article/015/0005245930?sid=102",
@@ -201,7 +215,7 @@
             "_id": "69814ae438b0cf40969776fb",
             "link": "https://n.news.naver.com/mnews/article/003/0013744450?sid=100",
             "created_at": "2026-02-03T10:09:54.417000",
-            "description": "그는 \"당원들이 선택한 당 대표의 목을 치려고 한다면 무엇을 걸 것인지 묻는다\"며 \"국회의원직이라도 걸겠나... 진행된 의원총회에서는 장 대표 외에도 약 20명의 의원과 최고위원들이 발언에 나섰다. 3선 중진인 임이자... ",
+            "description": "그는 \"당원들이 선택한 당 대표의 목을 치려고 한다면 무엇을 걸 것인지 묻는다\"며 \"국회의원직이라도 걸겠나... 친한계 박정훈 의원은 페이스북에 \"우리가 요구한 것은 장 대표의 사퇴지 재신임이 아니다\"라며 \"자신을... ",
             "originallink": "https://www.newsis.com/view/NISX20260202_0003499711",
             "press": "뉴시스",
             "pubDate": "2026-02-02T19:42:00",
@@ -227,7 +241,7 @@
             "_id": "69814ae538b0cf409697770d",
             "link": "https://n.news.naver.com/mnews/article/003/0013744421?sid=100",
             "created_at": "2026-02-03T10:09:56.074000",
-            "description": "김 최고위원은 \"당원들이 선택한 당 대표의 목을 치려고 한다면 무엇을 걸 것인지 묻는다\"며 \"국회의원직이라... 3선 중진인 임이자 의원은 의원총회에서 \"더 이상 당 지도부를 흔들면 안 된다\"며 지도부 재신임을 위한... ",
+            "description": "김 최고위원은 \"당원들이 선택한 당 대표의 목을 치려고 한다면 무엇을 걸 것인지 묻는다\"며 \"국회의원직이라... 친한계 박정훈 의원은 페이스북에 \"우리가 요구한 것은 장 대표의 사퇴지 재신임이 아니다\"라며 \"자신을... ",
             "originallink": "https://www.newsis.com/view/NISX20260202_0003499653",
             "press": "뉴시스",
             "pubDate": "2026-02-02T18:30:00",
@@ -741,25 +755,6 @@
                 "80C5885Z"
             ],
             "title": "조국혁신당, 이준석 연석회담 제안에 \"국힘에 '도주로' 제시, 부적절\""
-        },
-        {
-            "_id": "6964b552631fd1743499616b",
-            "link": "https://n.news.naver.com/mnews/article/079/0004103411?sid=100",
-            "created_at": "2026-01-12T17:48:15.824000",
-            "description": "그래도 서울이나 이런 데는 없다 이렇게 생각을 했는데 다른 형식의 공천 헌금과 같은 게 아직도 있다는 거고 또 국민의힘 같은 경우는 국회의원 선거에서 서로 경쟁자들 통합하려면 3, 5억 든다. 김정재, 이철규 의원의 어떤... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6453840?utm_source=naver&utm_medium=article&utm_campaign=20260109101423",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-09T10:15:00",
-            "related_members": [
-                "6I88973D",
-                "80C5885Z",
-                "E1J8836Y",
-                "TZP9391O",
-                "6EN68926",
-                "TQP7167T",
-                "LJK4960Z"
-            ],
-            "title": "부승찬·서왕진 지방선거 경험담 \"엄청난 돈 오고 가\""
         }
     ],
     "recent_videos": [
@@ -768,7 +763,7 @@
             "url": "https://www.youtube.com/watch?v=qfHb0HUru2w",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:45.362000",
+            "collected_at": "2026-02-06T10:42:18.443000",
             "duration": 150.0,
             "title": "'서신보고'에 등장한 국힘 김정재 의원…특검, '불법 후원' 수사 / JTBC 아침&",
             "upload_date": null
@@ -798,7 +793,7 @@
             "url": "https://www.youtube.com/watch?v=WpSY8xyoIDo",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-02T09:42:49.108000",
+            "collected_at": "2026-02-06T10:42:18.443000",
             "duration": 245.0,
             "title": "김정재 의원 지역구서 \"출당 요구\"‥ 잇따른 비리 의혹에 막말까지 (2025.10.01/뉴스데스크/포항MBC)",
             "upload_date": null
@@ -828,7 +823,7 @@
             "url": "https://www.youtube.com/watch?v=9DPiU1KffL0",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:46.721000",
+            "collected_at": "2026-02-06T10:42:19.755000",
             "duration": 1729.0,
             "title": "러 군용기 영공 침범... 김정재 의원 MBC 2시 뉴스외전-정치 와호장룡",
             "upload_date": null
@@ -868,7 +863,7 @@
             "url": "https://www.youtube.com/watch?v=WPjpFX_gkJo",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:46.721000",
+            "collected_at": "2026-02-06T10:42:19.755000",
             "duration": 99.0,
             "title": "'호남에 불' 김정재, 사과는 했지만.. (2025.10.13/뉴스데스크/포항MBC)",
             "upload_date": null
@@ -878,7 +873,7 @@
             "url": "https://www.youtube.com/watch?v=tu_1fM6NgZ8",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:46.721000",
+            "collected_at": "2026-02-06T10:42:19.755000",
             "duration": 1198.0,
             "title": "[뉴스직격] \"호남서 불안나나\" 김정재 의원 발언 논란/이재명 대통령 지지율 하락이유는?/김윤희 손지은 김상민",
             "upload_date": null
@@ -888,7 +883,7 @@
             "url": "https://www.youtube.com/watch?v=B13XhvXczMI",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:45.362000",
+            "collected_at": "2026-02-06T10:42:18.443000",
             "duration": 649.0,
             "title": "김정재 국회의원 2022 의정보고영상",
             "upload_date": null
@@ -898,7 +893,7 @@
             "url": "https://www.youtube.com/watch?v=W9UPpPxgyvA",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:45.362000",
+            "collected_at": "2026-02-06T10:42:18.443000",
             "duration": 246.0,
             "title": "김정재, 국회의원 자리 이렇게 얻었나? '3억~5억' 발언 담긴 '충격' 통화 뭐길래...정청래 \"이 건 수사 중인가?\"",
             "upload_date": null
@@ -938,7 +933,7 @@
             "url": "https://www.youtube.com/watch?v=UCAXNqrR7LgLW1WOOyPJVZPg",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:45.362000",
+            "collected_at": "2026-02-06T10:42:18.443000",
             "duration": null,
             "title": "김정재",
             "upload_date": null
@@ -958,7 +953,7 @@
             "url": "https://www.youtube.com/watch?v=WXbpw3UF_WI",
             "HG_NM": "김정재",
             "MONA_CD": "E1J8836Y",
-            "collected_at": "2026-02-04T08:33:45.362000",
+            "collected_at": "2026-02-06T10:42:18.443000",
             "duration": 61.0,
             "title": "김정재, '호남 불' 발언에 \"경상도말\" 해명…민주당 \"사투리탓 옹색\"｜지금 이 장면",
             "upload_date": null
@@ -2310,5 +2305,5 @@
             "RST_PROPOSER": "김정재"
         }
     ],
-    "exported_at": "2026-02-04T18:40:00.857139"
+    "exported_at": "2026-02-06T15:38:18.864211"
 }

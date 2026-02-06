@@ -50,35 +50,35 @@
             "정희",
             "국민",
             "단식",
-            "대표",
+            "장동",
             "인터뷰",
             "지방",
             "시위",
-            "사무총장",
-            "장동",
+            "대표",
+            "사퇴",
+            "선거",
             "고령군",
             "성주군",
             "칠곡군",
             "희망",
-            "선거",
-            "민주당"
+            "사무총장"
         ],
         "keyword_frequency": [
             {
                 "text": "정희",
-                "value": 72
+                "value": 65
             },
             {
                 "text": "국민",
-                "value": 41
+                "value": 39
             },
             {
                 "text": "단식",
                 "value": 18
             },
             {
-                "text": "대표",
-                "value": 14
+                "text": "장동",
+                "value": 15
             },
             {
                 "text": "인터뷰",
@@ -86,18 +86,22 @@
             },
             {
                 "text": "지방",
-                "value": 12
+                "value": 13
             },
             {
                 "text": "시위",
                 "value": 12
             },
             {
-                "text": "사무총장",
+                "text": "대표",
+                "value": 12
+            },
+            {
+                "text": "사퇴",
                 "value": 11
             },
             {
-                "text": "장동",
+                "text": "선거",
                 "value": 10
             },
             {
@@ -117,42 +121,38 @@
                 "value": 10
             },
             {
-                "text": "선거",
-                "value": 9
-            },
-            {
-                "text": "민주당",
+                "text": "사무총장",
                 "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:43.564993",
+        "last_analyzed_at": "2026-02-06T15:39:00.141618",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                1,
-                1,
                 0,
                 0,
                 2,
                 4,
+                1,
+                2,
                 1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"정희용 의원은 주로 농업, 환경, 중소기업 지원 분야에 집중하며, 혁신가적 입법 활동을 통해 소상공인과 지역 경제의 활성화를 개선하는 데 주력하고 있습니다. 특히 농지법 및 조세특례제한법 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정과 복지 향상을 만들어내는 행보를 보입니다.\"",
@@ -166,6 +166,54 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d138b0cf4096978473",
+            "link": "https://n.news.naver.com/mnews/article/020/0003695495?sid=100",
+            "created_at": "2026-02-06T10:37:19.588000",
+            "description": "인사들이 국회의원직이나 시·도지사직을 걸 가능성은 작을 것이란 계산도 깔린 것으로 보인다. 당내에선 장... 한지아 의원은 “사퇴 요구에 대한 답이 아니라 사퇴하지 않기 위한 조건을 만든 것에 불과하다”며 “이미... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260206/133308841/2",
+            "press": "동아일보",
+            "pubDate": "2026-02-06T04:34:00",
+            "related_members": [
+                "EPI69383",
+                "KFM1081G",
+                "4X525582",
+                "PFG2137X",
+                "Q918403D"
+            ],
+            "title": "장동혁 ‘협박 정치’… “직 걸어라” 비판 막고, 당협위원장엔 교체 ..."
+        },
+        {
+            "_id": "698545d138b0cf4096978475",
+            "link": "https://n.news.naver.com/mnews/article/020/0003695389?sid=100",
+            "created_at": "2026-02-06T10:37:19.588000",
+            "description": "인사들이 국회의원직이나 시·도지사 직을 걸 가능성은 작을 것이란 계산도 깔린 것으로 보인다. 당내에선 장... 한지아 의원은 “사퇴 요구에 대한 답이 아니라 사퇴하지 않기 위한 조건을 만든 것에 불과하다”며 “이미... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260205/133308589/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-05T22:18:00",
+            "related_members": [
+                "EPI69383",
+                "KFM1081G",
+                "4X525582",
+                "PFG2137X",
+                "Q918403D"
+            ],
+            "title": "장동혁 “당원 투표 진행…사퇴 요구 시 자리서 물러날 것”"
+        },
+        {
+            "_id": "6985461238b0cf40969785a0",
+            "link": "https://n.news.naver.com/mnews/article/448/0000588725?sid=100",
+            "created_at": "2026-02-06T10:38:24.650000",
+            "description": "물론이고, 국회의원까지 사퇴하겠다고 했습니다. 대신 문제를 제기한 당사자도 의원직 사퇴같은 정치생명을... 정희용 / 국민의힘 사무총장 \"지방선거 기여 부분이 미흡하다면 재평가해서 다시 (당협위원장) 교체 여부에... ",
+            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/02/05/2026020590231.html",
+            "press": "조선일보",
+            "pubDate": "2026-02-05T21:02:00",
+            "related_members": [
+                "PFG2137X",
+                "KFM1081G"
+            ],
+            "title": "'거취 논란' 장동혁 \"직 걸고 사퇴 요구하라…재신임 부결 땐 의원까지..."
+        },
         {
             "_id": "698282ae38b0cf4096977ce1",
             "link": "https://n.news.naver.com/mnews/article/056/0012118351?sid=100",
@@ -212,7 +260,7 @@
             "_id": "69814af538b0cf4096977760",
             "link": "https://n.news.naver.com/mnews/article/421/0008749430?sid=100",
             "created_at": "2026-02-03T10:10:11.823000",
-            "description": "글로벌문화관광특구 국회토론회 (의원회관 제5간담회의실) 10:00 조정훈 의원실, 전공대학의 평생학습 기회 확대를 위한 간담회 (의원회관 제3간담회의실) 14:00 정희용 의원실, 산림재난 대응체계의 패러다임 전환... ",
+            "description": "장애인권리위원장-장애여성 국회의원-국회의장 간담회 (국회접견실) 14:00 한국법학교수회 회장 접견... 힘」 (의원회관 제1소회의실) 09:30 최민희 의원실 등, 대한민국 QUANTUM LEAP!을 위한 양자 포럼 (의원회관... ",
             "originallink": "https://www.news1.kr/politics/assembly/6059620",
             "press": "뉴스1",
             "pubDate": "2026-02-03T05:00:00",
@@ -237,7 +285,7 @@
             "_id": "69814af538b0cf409697775f",
             "link": "https://n.news.naver.com/mnews/article/003/0013744606?sid=100",
             "created_at": "2026-02-03T10:10:11.823000",
-            "description": "글로벌문화관광특구 국회토론회(의원회관 제5간담회의실) 10:00 조정훈 의원실, 전공대학의 평생학습 기회 확대를 위한 간담회(의원회관 제3간담회의실) 14:00 정희용 의원실, 산림재난 대응체계의 패러다임 전환... ",
+            "description": "장애여성 국회의원 - 국회의장 간담회(국회접견실) 14:00 한국법학교수회 회장 접견(의장집무실) 15:00... 힘」(의원회관 제1소회의실) 09:30 최민희 의원실 등, 대한민국 QUANTUM LEAP!을 위한 양자 포럼(의원회관... ",
             "originallink": "https://www.newsis.com/view/NISX20260202_0003499767",
             "press": "뉴시스",
             "pubDate": "2026-02-03T05:00:00",
@@ -288,7 +336,7 @@
             "_id": "697cbd3738b0cf4096976b99",
             "link": "https://n.news.naver.com/mnews/article/003/0013739569?sid=100",
             "created_at": "2026-01-30T23:16:23.318000",
-            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 이날 오전 국회에서 열린 원내대책회의에서 \"이재명... 정희용 사무총장은 \"관세협상은 민생과 뗄 수 없는 핵심 현안\"이라며 \"관세 위기로 우리 기업이 힘들고 경제가... ",
+            "description": "국회 재정경제기획위원회 야당 간사인 박수영 의원은 이날 오전 국회에서 열린 원내대책회의에서 \"이재명 정권은 명심하라. 국회 비준 동의 먼저 받아서 쟁점을 해소하고 대미투자특별법을 신속히 통과시키는 게 가장... ",
             "originallink": "https://www.newsis.com/view/NISX20260130_0003496446",
             "press": "뉴시스",
             "pubDate": "2026-01-30T10:46:00",
@@ -590,54 +638,6 @@
                 "9901388T"
             ],
             "title": "국힘, 2030 청년 '국회의원 입법보조원' 공개 모집"
-        },
-        {
-            "_id": "696594ba887d07f7ba2fab55",
-            "link": "https://n.news.naver.com/mnews/article/079/0004104305?sid=100",
-            "created_at": "2026-01-13T09:41:29.113000",
-            "description": "◆ 김성열&gt; 왜냐하면 국회의원 4년 하라고 했는데 나오자마자 사실 대선을 뛰었잖아요. 그 정도만으로도 사실... ◆ 곽우신&gt; 오늘 정희용 사무총장이 공식화했습니다. 지난 9일부터 11일까지 책임 당원들을 대상으로 ARS... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6455086?utm_source=naver&utm_medium=article&utm_campaign=20260113073013",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-13T07:31:00",
-            "related_members": [
-                "KFM1081G",
-                "4X525582",
-                "QWL7778X",
-                "9YO73104",
-                "PFG2137X",
-                "8SV6917G"
-            ],
-            "title": "김성열 \"장동혁·이준석 만남이 지선 연대? 얻을 게 없다\"[한판승부]"
-        },
-        {
-            "_id": "6964b55d631fd17434996236",
-            "link": "https://n.news.naver.com/mnews/article/009/0005620528?sid=100",
-            "created_at": "2026-01-12T17:48:26.570000",
-            "description": "정희용 국민의힘 사무총장에 따르면 지난 9~11일 당비를 납부하는 책임당원들을 대상으로 당명 개정 여부를... 국민의힘 소속 최다선 의원인 주호영 국회부의장은 당명 변경을 '포대 갈이'에 비유하며 \"내용은 똑같으면서... ",
-            "originallink": "https://www.mk.co.kr/article/11930529",
-            "press": "매일경제",
-            "pubDate": "2026-01-12T17:26:00",
-            "related_members": [
-                "NX534083",
-                "8SV6917G",
-                "KFM1081G",
-                "PFG2137X"
-            ],
-            "title": "국힘 5년만에 간판 바꾼다"
-        },
-        {
-            "_id": "6964b589631fd1743499647d",
-            "link": "https://n.news.naver.com/mnews/article/448/0000581945?sid=100",
-            "created_at": "2026-01-12T17:49:10.482000",
-            "description": "정희용 국민의힘 사무총장은 7일 \"장동혁 대표는 여러 목소리를 듣고 있는 과정에 있다\"고 강조했다. 정 사무총장은 이날 국회에서 소장파 의원들이 주축이 된 '대안과 포럼' 세미나에 참석해 \"장 대표가 발표할 내용도... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/07/2026010790118.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-07T11:20:00",
-            "related_members": [
-                "KFM1081G",
-                "PFG2137X"
-            ],
-            "title": "정희용 \"장동혁, 다양한 목소리 듣는 중…당원 설득하며 외연확장 나아..."
         }
     ],
     "recent_videos": [
@@ -646,7 +646,7 @@
             "url": "https://www.youtube.com/watch?v=WAF-RWfOs2I",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:59.955000",
+            "collected_at": "2026-02-06T10:52:29.361000",
             "duration": 154.0,
             "title": "[정희용 SBS 8 뉴스 인터뷰 영상] ﻿중고거래 안전결제 피싱 기승! 피해에 보호받을 수 있도록 법률 개정이 검토되어야 합니다!  - 정희용 고령군, 성주군, 칠곡군 국회의원",
             "upload_date": null
@@ -726,7 +726,7 @@
             "url": "https://www.youtube.com/watch?v=FXcyA0CKr6s",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:59.955000",
+            "collected_at": "2026-02-06T10:52:29.361000",
             "duration": 109.0,
             "title": "[정희용 연합뉴스TV 인터뷰 영상] SNS 마약거래 청소년 무방비 노출에도 해외업체라 수수방관?..접속 차단 등 선제적인 조치 필요!",
             "upload_date": null
@@ -736,7 +736,7 @@
             "url": "https://www.youtube.com/watch?v=NTW94XSYSWA",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 97.0,
             "title": "\"정희용 의원, 잘 했습니다\" ...의장, 국힘 의원 칭찬...빵 터진 국회",
             "upload_date": null
@@ -746,7 +746,7 @@
             "url": "https://www.youtube.com/watch?v=bzzTgxMZrTM",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 445.0,
             "title": "[정희용 국정감사 질의영상] 해양경찰청 - 서해 공무원 피격사건에 대한 해양경찰청의 확실한 입장 소명 필요, 북한 미사일 발사 관련 안일한 대응체계 지적",
             "upload_date": null
@@ -756,7 +756,7 @@
             "url": "https://www.youtube.com/watch?v=KdGvxvfQBzg",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 464.0,
             "title": "[정의희망용기] 설맞이 떡만둣국 - 정희용의 레시피",
             "upload_date": null
@@ -766,7 +766,7 @@
             "url": "https://www.youtube.com/watch?v=HmgBcYLdJSU",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 608.0,
             "title": "[정희용 국정감사 질의영상] 서해 공무원 피격사건 관련 명예회복 필요 및 해양경찰청의 확실한 입장 표명 촉구, 재해재난 대비 피감기관의 데이터관리 시스템 재검토 요청",
             "upload_date": null
@@ -776,7 +776,7 @@
             "url": "https://www.youtube.com/watch?v=tKiOZ7Yujjk",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:59.955000",
+            "collected_at": "2026-02-06T10:52:29.361000",
             "duration": 593.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 정희용 의원(국민의힘)",
             "upload_date": null
@@ -786,7 +786,7 @@
             "url": "https://www.youtube.com/watch?v=9SFIrUOwxyU",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 1068.0,
             "title": "다음 세대를 위해 노력하는 국회의원! 더 멀리 내다보는 정희용 국민의힘 의원 | 인터뷰 릴레이 칭찬 | 국회방송",
             "upload_date": null
@@ -796,7 +796,7 @@
             "url": "https://www.youtube.com/watch?v=-dt9t2Sty2c",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 259.0,
             "title": "[국회 전원위원회]선거법 개정을 위한 전원위원회 정희용 국회의원 발언 - 경북 고령군·성주군·칠곡군",
             "upload_date": null
@@ -806,7 +806,7 @@
             "url": "https://www.youtube.com/watch?v=0PKxd_b9nRg",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 2798.0,
             "title": "예능감 넘치는 정희용 의원과 함께 (feat. 조자룡) | 인생책방 | 국회방송",
             "upload_date": null
@@ -816,7 +816,7 @@
             "url": "https://www.youtube.com/watch?v=feNzxvNS2bk",
             "HG_NM": "정희용",
             "MONA_CD": "PFG2137X",
-            "collected_at": "2026-02-04T08:43:58.596000",
+            "collected_at": "2026-02-06T10:52:28.137000",
             "duration": 241.0,
             "title": "[국회의원 정희용 추석인사] 행복한 추석 명절 보내십시오 - 고령군·성주군·칠곡군",
             "upload_date": null
@@ -2816,5 +2816,5 @@
             "RST_PROPOSER": "정희용"
         }
     ],
-    "exported_at": "2026-02-04T18:40:43.565514"
+    "exported_at": "2026-02-06T15:39:00.141618"
 }

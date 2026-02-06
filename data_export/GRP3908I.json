@@ -45,23 +45,23 @@
             "금주",
             "민주당",
             "합당",
-            "전남",
             "지역",
+            "전남",
             "더불어민주당",
-            "국민",
             "광주",
-            "교육",
             "제안",
+            "김문수",
+            "대통령",
             "원내",
             "대변인",
-            "대통령",
-            "김문수",
-            "민주"
+            "이전",
+            "동부",
+            "정책"
         ],
         "keyword_frequency": [
             {
                 "text": "금주",
-                "value": 40
+                "value": 43
             },
             {
                 "text": "민주당",
@@ -72,11 +72,11 @@
                 "value": 22
             },
             {
-                "text": "전남",
-                "value": 15
+                "text": "지역",
+                "value": 16
             },
             {
-                "text": "지역",
+                "text": "전남",
                 "value": 15
             },
             {
@@ -84,15 +84,7 @@
                 "value": 13
             },
             {
-                "text": "국민",
-                "value": 13
-            },
-            {
                 "text": "광주",
-                "value": 12
-            },
-            {
-                "text": "교육",
                 "value": 12
             },
             {
@@ -100,11 +92,7 @@
                 "value": 12
             },
             {
-                "text": "원내",
-                "value": 11
-            },
-            {
-                "text": "대변인",
+                "text": "김문수",
                 "value": 11
             },
             {
@@ -112,42 +100,54 @@
                 "value": 11
             },
             {
-                "text": "김문수",
+                "text": "원내",
+                "value": 11
+            },
+            {
+                "text": "대변인",
                 "value": 10
             },
             {
-                "text": "민주",
-                "value": 10
+                "text": "이전",
+                "value": 9
+            },
+            {
+                "text": "동부",
+                "value": 9
+            },
+            {
+                "text": "정책",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:05.757513",
+        "last_analyzed_at": "2026-02-06T15:38:23.251494",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                2,
-                2,
                 0,
                 2,
                 0,
                 0,
+                2,
+                1,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"문금주 의원은 주로 농업, 수산업, 에너지 및 환경 분야에 집중하며, 보호자적 입법 활동을 통해 농어민과 지역사회의 경제적 안정성을 개선하는 데 주력하고 있습니다. 특히 농업 및 수산물 유통 관련 법안들을 통해 국민의 실생활과 직결된 경제적 지원 및 안전망 강화를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,51 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545db38b0cf40969784ab",
+            "link": "https://n.news.naver.com/mnews/article/011/0004587194?sid=102",
+            "created_at": "2026-02-06T10:37:29.147000",
+            "description": "지역구 문금주 국회의원과의 시너지는 10년의 도전 끝에 율포항이 2024년 해양수산부 국가어항 예비대상항으로 선정되는 쾌거를 이뤘다. 보성군은 이를 바탕으로 2026년을 해양수산 르네상스를 여는 해로 선언하며... ",
+            "originallink": "https://www.sedaily.com/article/20005515?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-05T17:18:00",
+            "related_members": [
+                "GRP3908I"
+            ],
+            "title": "“보성의 미래는 바다” 100년 미래 내다본 ‘김철우’ 선견지명…해양..."
+        },
+        {
+            "_id": "698545db38b0cf40969784ac",
+            "link": "https://n.news.naver.com/mnews/article/011/0004586669?sid=100",
+            "created_at": "2026-02-06T10:37:29.147000",
+            "description": "장 대표는 이날 국회에서 “물가가 천정부지다. 쌀값은 전년 대비 18.9%나 올랐다”고 언급했다. 문금주... 전라남도 고흥·보성·장흥·강진군을 지역구로 둔 문 의원은 국회 농림축산식품해양수산위원회에서 활동하고... ",
+            "originallink": "https://www.sedaily.com/article/20004916?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-04T16:56:00",
+            "related_members": [
+                "GRP3908I",
+                "KFM1081G"
+            ],
+            "title": "與문금주, 장동혁 “쌀값 올라”언급에 “정상 가격 회복 과정”"
+        },
+        {
+            "_id": "698545c938b0cf4096978445",
+            "link": "https://n.news.naver.com/mnews/article/421/0008753837?sid=102",
+            "created_at": "2026-02-06T10:37:11.800000",
+            "description": "고(故) 이해찬 전 국무총리, 박정·김승원·김병주·안태준·문금주·김문수 국회의원, 강원국 전 대통령비서실 연설비서관은 영상을 통해 축하했다. 오 전 부지사는 저서에 지역 변화에 대한 문제의식 등 30여년간의 공직... ",
+            "originallink": "https://www.news1.kr/local/gyeonggi/6062187",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T16:40:00",
+            "related_members": [
+                "W8L9421K",
+                "GF286398",
+                "ATB59635",
+                "GRP3908I",
+                "4019850M",
+                "86R9476S"
+            ],
+            "title": "오후석 전 경기도 행정2부지사, 하남서 출판기념회"
+        },
         {
             "_id": "697ff10b38b0cf409697734b",
             "link": "https://n.news.naver.com/mnews/article/011/0004585386?sid=102",
@@ -635,51 +680,6 @@
                 "WTR5885Y"
             ],
             "title": "\"추상 같은 모범 판결\"…\"최종 결과 기다리겠다\""
-        },
-        {
-            "_id": "6972d2068459600028997752",
-            "link": "https://n.news.naver.com/mnews/article/382/0001249787?sid=102",
-            "created_at": "2026-01-23T10:42:28.352000",
-            "description": "특히 이번 선포식은 보성의 교육 공동체와 더불어 김대중 전라남도교육감, 김철우 보성군수, 문금주 국회의원 등이 함께해 자리를 빛낼 예정이다. 김호범 교육장은 “보성의 가장 활발하고, 정주 인구가 많았던 보성의... ",
-            "originallink": "https://sports.donga.com/region/article/all/20260122/133206261/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-22T04:46:00",
-            "related_members": [
-                "GRP3908I"
-            ],
-            "title": "보성군교육지원청, 23일 ‘2026 보성 교육 비전 선포식’ 개최"
-        },
-        {
-            "_id": "6972d2068459600028997753",
-            "link": "https://n.news.naver.com/mnews/article/055/0001326376?sid=100",
-            "created_at": "2026-01-23T10:42:28.352000",
-            "description": "친한동훈계 한지아 의원은 SNS에 \"국민의힘이 배출한 대통령이 시행한 비상계엄으로 초래된 결과에 대해 국회의원으로서 국민께 고개 숙여 다시 한번 사과한다\"고 적었습니다. (영상취재 : 오영춘·김용우, 영상편집 : 이소영)",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008413247&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-21T20:38:00",
-            "related_members": [
-                "GRP3908I",
-                "Q918403D",
-                "NX534083",
-                "WTR5885Y"
-            ],
-            "title": "\"추상 같은 명쾌한 모범 판결\"…\"최종 결과 기다리겠다\""
-        },
-        {
-            "_id": "6972d1f184596000289976b7",
-            "link": "https://n.news.naver.com/mnews/article/022/0004099403?sid=100",
-            "created_at": "2026-01-23T10:42:07.142000",
-            "description": "반면 국민의힘 박성훈 수석대변인은 이날 국회에서 기자들을 만나 “국민의힘은 이미 12·3 비상계엄에 대해... 대해, 국회의원으로서 국민께 고개 숙여 사과드린다”며 “지도부에 강력히 요청한다. 이제라도 윤석열 전... ",
-            "originallink": "https://www.segye.com/newsView/20260121518152?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-21T18:36:00",
-            "related_members": [
-                "REG96285",
-                "GRP3908I",
-                "NX534083",
-                "Q918403D"
-            ],
-            "title": "한덕수 ‘23년’ 선고에… 민주 “당연한 결론”·국힘 “최종 판단 기..."
         }
     ],
     "recent_videos": [
@@ -688,7 +688,7 @@
             "url": "https://www.youtube.com/watch?v=7mPAQHX0WLM",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 436.0,
             "title": "더불어민주당 문금주 국회의원_ 뉴라이트 인사등용, 국민 분노, 책임은 누구?_제418회국회 예산결산특별위원회 종합질의",
             "upload_date": null
@@ -698,7 +698,7 @@
             "url": "https://www.youtube.com/watch?v=UCVg8m6904RHRHfn5cRPHeuQ",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": null,
             "title": "문금주TV",
             "upload_date": null
@@ -708,7 +708,7 @@
             "url": "https://www.youtube.com/watch?v=-jUcrHEd2PU",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 600.0,
             "title": "한우협회-민주당 문금주 의원 간담회&감사패 전달",
             "upload_date": null
@@ -718,7 +718,7 @@
             "url": "https://www.youtube.com/watch?v=u0vOzjW9n44",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 246.0,
             "title": "[2024국정감사] 더불어민주당 문금주, 불법수산물 온라인 유통, \"증거있는데 부득부득 우겨\"",
             "upload_date": null
@@ -728,7 +728,7 @@
             "url": "https://www.youtube.com/watch?v=l6iXsVYugc0",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 215.0,
             "title": "농민은 배제하고 소상공인 지원 650억 추경안 가져온 농림부, 농민 목소리는 어느 부처가 대변하나! | 문금주 국회의원 농해수위 전체회의",
             "upload_date": null
@@ -738,7 +738,7 @@
             "url": "https://www.youtube.com/watch?v=25F0Qvm-2zA",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 245.0,
             "title": "[국감현장] 문금주 의원, “배추가격 폭등, aT 늦장 대응” 질타 #국정감사 #국회 #농림축산식품해양수산위원회 #농림축산식품부 #한국농수산식품유통공사 #at",
             "upload_date": null
@@ -748,7 +748,7 @@
             "url": "https://www.youtube.com/watch?v=q_qOcLXnJHk",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 1299.0,
             "title": "민주당 원대변인 문금주국회의원 대담",
             "upload_date": null
@@ -758,7 +758,7 @@
             "url": "https://www.youtube.com/watch?v=SLax8ULO-iU",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:51.166000",
+            "collected_at": "2026-02-06T10:43:23.527000",
             "duration": 111.0,
             "title": "윤석열이 박살낸 경제 되살릴 이재명! | 문금주 국회의원",
             "upload_date": null
@@ -778,7 +778,7 @@
             "url": "https://www.youtube.com/watch?v=w873c-cN_oE",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:52.481000",
+            "collected_at": "2026-02-06T10:43:24.766000",
             "duration": 540.0,
             "title": "\"곽규택 대통령 발언, 정정하겠습니다\"...결연한 문금주, 눈 치켜뜨더니",
             "upload_date": null
@@ -788,7 +788,7 @@
             "url": "https://www.youtube.com/watch?v=UVF79ih9C1s",
             "HG_NM": "문금주",
             "MONA_CD": "GRP3908I",
-            "collected_at": "2026-02-04T08:34:52.481000",
+            "collected_at": "2026-02-06T10:43:24.766000",
             "duration": 126.0,
             "title": "김승남-문금주 '2인 경선'..컷오프 후보들 반발 (2024.02.28/뉴스데스크/여수MBC)",
             "upload_date": null
@@ -2348,5 +2348,5 @@
             "RST_PROPOSER": "문금주"
         }
     ],
-    "exported_at": "2026-02-04T18:40:05.758512"
+    "exported_at": "2026-02-06T15:38:23.251494"
 }

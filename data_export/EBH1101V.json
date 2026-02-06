@@ -53,19 +53,19 @@
             "지방",
             "선거",
             "승리",
-            "최고",
             "특례",
             "중부",
-            "내륙"
+            "내륙",
+            "특별법"
         ],
         "keyword_frequency": [
             {
                 "text": "충북",
-                "value": 31
+                "value": 33
             },
             {
                 "text": "더불어민주당",
-                "value": 23
+                "value": 24
             },
             {
                 "text": "충북도",
@@ -81,7 +81,7 @@
             },
             {
                 "text": "민주당",
-                "value": 15
+                "value": 14
             },
             {
                 "text": "인사",
@@ -97,14 +97,10 @@
             },
             {
                 "text": "선거",
-                "value": 12
+                "value": 11
             },
             {
                 "text": "승리",
-                "value": 9
-            },
-            {
-                "text": "최고",
                 "value": 9
             },
             {
@@ -118,36 +114,40 @@
             {
                 "text": "내륙",
                 "value": 9
+            },
+            {
+                "text": "특별법",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:32.747919",
+        "last_analyzed_at": "2026-02-06T15:38:48.403465",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                0,
                 2,
                 0,
                 2,
                 1,
-                0
+                1,
+                0,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이연희 의원은 주로 주거 및 교통 분야에 집중하며, 사회 안전과 복지를 중시하는 입법 활동을 통해 국민의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 주택법 및 전세사기 피해자 지원 관련 법안들을 통해 국민의 실생활과 직결된 주거 안정과 안전성을 확보하는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,99 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d038b0cf4096978468",
+            "link": "https://n.news.naver.com/mnews/article/366/0001140927?sid=102",
+            "created_at": "2026-02-06T10:37:18.327000",
+            "description": "이날 개소식에는 김영환 충북도지사, 이광형 카이스트 총장, 이연희 국회의원, 김대수 카이스트 생명과학기술대학장, 김용진 서울대병원 연구부원장, 한상배 충북대 약학대학장, 이규선 한국생명공학연구원... ",
+            "originallink": "https://biz.chosun.com/topics/topics_social/2026/02/06/FF2XV66HMFHJVEFJDMKGNADEEA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-02-06T09:05:00",
+            "related_members": [
+                "8O34202I",
+                "EBH1101V"
+            ],
+            "title": "충북 청주에 바이오 융합 플랫폼 ‘카이스트 바이오 스퀘어’ 개소"
+        },
+        {
+            "_id": "698545c638b0cf4096978430",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595511?sid=100",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "서영교 의원실 제공 서영교 더불어민주당 국회의원은 지난 3일 국회의원회관 대회의실에서 저서 ‘빛의 혁명... 허종식·홍기원·이성윤·권향엽·김기표·김남근·김동아·김성회·김우영·김윤·박균택·박민규·박정현... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669097?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T08:47:00",
+            "related_members": [
+                "IUX1829H",
+                "3CC88975",
+                "EFU76868",
+                "N2P9317N",
+                "5N65159P",
+                "IWR8966I",
+                "88O1334C",
+                "4019850M",
+                "TKJ4800F",
+                "43Q3892U",
+                "MIS62075",
+                "M4O5221T",
+                "3UI95829",
+                "HVV5250J",
+                "ZW43496R",
+                "H5476989",
+                "HSS7466Y",
+                "ZDR63255",
+                "04T3751T",
+                "URV1689Q",
+                "S824682L",
+                "M7O7878U",
+                "1WE5693J",
+                "GX38539O",
+                "6AU2417B",
+                "X1K3667J",
+                "5765663F",
+                "7BM2933Y",
+                "8P37634C",
+                "FJK3396E",
+                "IN328264",
+                "FOK3459D",
+                "8BF5855P",
+                "MDC3257K",
+                "51A45980",
+                "CK143054",
+                "BRU2690F",
+                "XR24352K",
+                "CCU1009B",
+                "ATB59635",
+                "5MD4184K",
+                "VRY5522V",
+                "OFE45081",
+                "B7D7534L",
+                "9JF4562W",
+                "25G2571T",
+                "VCP96419",
+                "0R68099X",
+                "D6U6678O",
+                "IL74008M",
+                "MQK9493H",
+                "AEO5706C",
+                "95J3282H",
+                "6K79158C",
+                "8TU8443O",
+                "NA61091D",
+                "1S05899F",
+                "RKS3658I",
+                "IC499858",
+                "9HE7226N",
+                "5762459L",
+                "X639721U",
+                "1A82234K",
+                "CC78321E",
+                "T4I4862D",
+                "EBH1101V",
+                "RQQ3807K"
+            ],
+            "title": "서영교 의원, ‘빛의 혁명, 빛의 명령’ 북콘서트 성황…수천명 운집"
+        },
         {
             "_id": "69814af038b0cf409697773b",
             "link": "https://n.news.naver.com/mnews/article/056/0012117605?sid=100",
@@ -207,7 +300,7 @@
             "_id": "697ff13938b0cf40969773a0",
             "link": "https://n.news.naver.com/mnews/article/079/0004111008?sid=102",
             "created_at": "2026-02-02T09:35:05.129000",
-            "description": "그다음에 지금 이제 충북에 다섯 명의 국회의원이 있는데 이제 임호선 의원께서 수석 사무부총장 하셨잖아요. 그런데 사임을 하셨는데. 또 충북에는 그렇게 되면 아무도 당직을 주요 당직을 맡은 분이 안 계셔서 그런 점에... ",
+            "description": "핵심요약 ■ 방송: 충북CBS 라디오 &lt;시사직감&gt; 청주 FM 91.5MHz, 충주 FM 99.3MHz (17:00~17:30) ■ 제작: 이은영 PD ■ 진행: 김종현 보도제작국장 ■ 대담: 더불어민주당 이연희 국회의원 [오프닝] ◇ 김종현&gt; 청취자 여러분... ",
             "originallink": "https://www.nocutnews.co.kr/news/6464891?utm_source=naver&utm_medium=article&utm_campaign=20260131045225",
             "press": "노컷뉴스",
             "pubDate": "2026-01-31T16:53:00",
@@ -752,56 +845,6 @@
                 "EBH1101V"
             ],
             "title": "당대표 선거 '전초전' 與보선…김 총리 최측근 강득구 '출사표'"
-        },
-        {
-            "_id": "6964b57c631fd174349963cd",
-            "link": "https://n.news.naver.com/mnews/article/032/0003415332?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "강 의원은 이날 국회에서 출마 선언 기자회견을 열고 “당·청 원팀이 반드시 필요하다”면서 “민주당은... 권칠승·민병덕·이정헌·박성준 의원을 비롯해 김우영·김태선·윤종군·이연희·이재강·채현일 등 친명계 및... ",
-            "originallink": "https://www.khan.co.kr/article/202512151724001",
-            "press": "경향신문",
-            "pubDate": "2025-12-15T17:24:00",
-            "related_members": [
-                "3UI95829",
-                "TZ228122",
-                "3LP22204",
-                "C7E79345",
-                "6WK3815W",
-                "IL74008M",
-                "5762459L",
-                "MQK9493H",
-                "EBH1101V",
-                "1S05899F"
-            ],
-            "title": "오늘부터 여당 최고위원 후보 등록…‘친명’ ‘친청’, 어느 쪽이 2석 ..."
-        },
-        {
-            "_id": "6964b57c631fd174349963ce",
-            "link": "https://n.news.naver.com/mnews/article/016/0002572308?sid=100",
-            "created_at": "2026-01-12T17:48:57.863000",
-            "description": "“보궐선거 출마자 한마음 선의의 경쟁” 강득구(왼쪽에서 세 번째) 더불어민주당 의원이 15일 국회... 김준혁·권칠승·김문수·김우영·김태선·민병덕·박홍배·윤종군·이연희·이용우·이재강·박성준·송재봉·채현일... ",
-            "originallink": "https://biz.heraldcorp.com/article/10636835?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2025-12-15T16:27:00",
-            "related_members": [
-                "5762459L",
-                "8P37634C",
-                "1S05899F",
-                "3UI95829",
-                "TZ228122",
-                "RG972910",
-                "3LP22204",
-                "C7E79345",
-                "6WK3815W",
-                "ZW43496R",
-                "86R9476S",
-                "6K79158C",
-                "YM42715P",
-                "IL74008M",
-                "MQK9493H",
-                "EBH1101V"
-            ],
-            "title": "최고위원 출마 강득구 “친명-친청 없어…당정청 원팀 조정자 역할 하겠..."
         }
     ],
     "recent_videos": [
@@ -820,7 +863,7 @@
             "url": "https://www.youtube.com/watch?v=O1rKy4KSNHk",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-04T08:41:09.665000",
+            "collected_at": "2026-02-06T10:49:38.844000",
             "duration": 181.0,
             "title": "‘스타들의 결혼 소식’ 이연희×전진, 핑크빛 결혼 소식♥ㅣ본격연예 한밤(New Late Night E-NEWS)ㅣSBS ENTER.",
             "upload_date": null
@@ -830,7 +873,7 @@
             "url": "https://www.youtube.com/watch?v=wZF833_c6q8",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-02T09:50:12.247000",
+            "collected_at": "2026-02-06T10:49:37.571000",
             "duration": 469.0,
             "title": "\"女장관 비율, 문 정부 33.3%! 윤 정부 15.7%…적은 이유는? \" 이연희 더불어민주당 의원 | 여가위 국정감사 (24.10.30.) | 국회방송",
             "upload_date": null
@@ -880,7 +923,7 @@
             "url": "https://www.youtube.com/watch?v=BBE_tX6uk3w",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-04T08:41:08.137000",
+            "collected_at": "2026-02-06T10:49:37.571000",
             "duration": 1067.0,
             "title": "[국회의원 이연희] 대정부질문 정치분야 풀영상",
             "upload_date": null
@@ -900,7 +943,7 @@
             "url": "https://www.youtube.com/watch?v=cMp5FcOeyek",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-04T08:41:08.137000",
+            "collected_at": "2026-02-06T10:49:37.571000",
             "duration": 1109.0,
             "title": "이연희 “오송참사 국정조사…대응 매뉴얼 미작동·보고 과정 누락 의혹 등 철저히 파헤칠 것” (25.9.15.) | 이연희 더불어민주당 의원 | 파워인터뷰 | 국회라이브6",
             "upload_date": null
@@ -950,7 +993,7 @@
             "url": "https://www.youtube.com/watch?v=p3pI9J5bc1I",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-04T08:41:08.137000",
+            "collected_at": "2026-02-06T10:49:37.571000",
             "duration": 68.0,
             "title": "[국회의원 이연희] 2025 설 인사드립니다",
             "upload_date": null
@@ -970,7 +1013,7 @@
             "url": "https://www.youtube.com/watch?v=UCXUbKFlcTvoOjTmvpbJ-uKA",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-04T08:41:08.137000",
+            "collected_at": "2026-02-06T10:49:37.571000",
             "duration": null,
             "title": "이연희TV",
             "upload_date": null
@@ -980,7 +1023,7 @@
             "url": "https://www.youtube.com/watch?v=45UrvJAf5bw",
             "HG_NM": "이연희",
             "MONA_CD": "EBH1101V",
-            "collected_at": "2026-02-04T08:41:08.137000",
+            "collected_at": "2026-02-06T10:49:37.571000",
             "duration": 288.0,
             "title": "[국회의원 이연희] 2024 의정보고",
             "upload_date": null
@@ -2904,5 +2947,5 @@
             "RST_PROPOSER": "이연희"
         }
     ],
-    "exported_at": "2026-02-04T18:40:32.747919"
+    "exported_at": "2026-02-06T15:38:48.404465"
 }

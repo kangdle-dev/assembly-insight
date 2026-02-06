@@ -43,45 +43,41 @@
     "analysis": {
         "keywords": [
             "천하",
-            "대표",
             "개혁",
-            "국민",
+            "대표",
             "신당",
-            "이혜훈",
+            "국민",
             "이준석",
             "원내",
-            "청약",
             "대통령",
-            "부정",
+            "이혜훈",
+            "선거",
             "외전",
-            "민주당",
-            "후보자",
-            "의혹"
+            "이날",
+            "부정",
+            "공천",
+            "후보"
         ],
         "keyword_frequency": [
             {
                 "text": "천하",
-                "value": 49
-            },
-            {
-                "text": "대표",
-                "value": 35
+                "value": 50
             },
             {
                 "text": "개혁",
-                "value": 31
+                "value": 36
             },
             {
-                "text": "국민",
-                "value": 26
+                "text": "대표",
+                "value": 34
             },
             {
                 "text": "신당",
-                "value": 21
+                "value": 26
             },
             {
-                "text": "이혜훈",
-                "value": 20
+                "text": "국민",
+                "value": 24
             },
             {
                 "text": "이준석",
@@ -89,65 +85,69 @@
             },
             {
                 "text": "원내",
-                "value": 17
-            },
-            {
-                "text": "청약",
-                "value": 15
+                "value": 18
             },
             {
                 "text": "대통령",
-                "value": 13
+                "value": 14
             },
             {
-                "text": "부정",
-                "value": 12
+                "text": "이혜훈",
+                "value": 14
+            },
+            {
+                "text": "선거",
+                "value": 13
             },
             {
                 "text": "외전",
                 "value": 12
             },
             {
-                "text": "민주당",
+                "text": "이날",
+                "value": 11
+            },
+            {
+                "text": "부정",
                 "value": 10
             },
             {
-                "text": "후보자",
+                "text": "공천",
                 "value": 10
             },
             {
-                "text": "의혹",
+                "text": "후보",
                 "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:48.008054",
+        "last_analyzed_at": "2026-02-06T15:39:04.891618",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                1,
-                0,
                 0,
                 1,
                 0,
                 6,
-                0
+                2,
+                2,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"천하람 의원은 주로 조세 및 경제 관련 분야에 집중하며, 개혁가적 입법 활동을 통해 국민의 경제적 안정과 공정한 거래 환경을 개선하는 데 주력하고 있습니다. 특히 조세특례제한법 및 근로기준법 관련 법안들을 통해 국민의 실생활과 직결된 경제적 형평성을 만들어내는 행보를 보입니다.\"",
@@ -162,10 +162,100 @@
     },
     "recent_news": [
         {
+            "_id": "698545c438b0cf4096978411",
+            "link": "https://n.news.naver.com/mnews/article/028/0002790270?sid=102",
+            "created_at": "2026-02-06T10:37:06.899000",
+            "description": "“여순사건에 관심을 가진 국회의원은 용혜인 의원밖에 없더라고요.” 지난해 12월13일 강원대... 그 주간에도 한병도 민주당 원내대표께 꼭 이번 본회의에 법안 상정해달라고 요청드렸고 통과는 예정되어 있었지만, 막상... ",
+            "originallink": "https://www.hani.co.kr/arti/society/society_general/1243619.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-06T07:02:00",
+            "related_members": [
+                "GE71932C",
+                "GDG1847Z",
+                "QWL7778X",
+                "TCP9838Y",
+                "SLW27496",
+                "YGB8604T",
+                "GP07421U",
+                "H5476989"
+            ],
+            "title": "“국가폭력 이슈와 기본소득, 묵묵히 그러나 반드시” [안녕 진화위⑮]"
+        },
+        {
+            "_id": "6985461938b0cf40969785a9",
+            "link": "https://n.news.naver.com/mnews/article/421/0008754974?sid=100",
+            "created_at": "2026-02-06T10:38:31.453000",
+            "description": "그는 \"2020년 4월 국회의원 선거가 있은 지 6년이 다 돼 간다. 그사이 제기된 선거 무효·당선 무효 소송 126건은... 한편 천하람 원내대표는 이날 회의에서 여야가 전날(4일) 특별위원회 구성을 합의한 대미투자특별법 처리와... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6062945",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T10:15:00",
+            "related_members": [
+                "QWL7778X",
+                "YGB8604T"
+            ],
+            "title": "이준석, '부정선거론자' 전한길 토론 제안…\"1대 40도 좋다\""
+        },
+        {
+            "_id": "6985461938b0cf40969785aa",
+            "link": "https://n.news.naver.com/mnews/article/023/0003957253?sid=100",
+            "created_at": "2026-02-06T10:38:31.453000",
+            "description": "대통령 선거를 치르긴 했지만 국회의원 3명, 창당 3년 차인 개혁신당에겐 만만치 않은 규모다. 개혁신당은... 천하람 개혁신당 공천관리위원장은 “이미 200여 명이 지원했고, 계속 신청이 들어오고 있다”며 “이 중 50... ",
+            "originallink": "https://www.chosun.com/politics/politics_general/2026/02/05/XVJOLQJQKVHCDCOHX72KVLMAKE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-02-05T00:58:00",
+            "related_members": [
+                "YGB8604T"
+            ],
+            "title": "국힘이 헤매는 사이… ‘선거 실험’ 치고나간 개혁신당"
+        },
+        {
+            "_id": "698545c538b0cf409697842a",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310309?sid=100",
+            "created_at": "2026-02-06T10:37:07.698000",
+            "description": "당무 표결에서 국회의원과 권리 당원이 똑같은 1표를 행사하게 되면 당원들에게 인기가 많은 정청래 대표... 한민수 의원은 이재명은 한다라고 외우라고 하던데요, 어제 인터뷰에서. 물론 다주택자가 모두 투기성은 아니고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602041638335400",
+            "press": "YTN",
+            "pubDate": "2026-02-04T16:38:00",
+            "related_members": [
+                "LYY5513O",
+                "5TQ6306B",
+                "KFM1081G",
+                "2385336L",
+                "C7E79345",
+                "JZY9937U",
+                "5N65159P",
+                "BT62420K",
+                "6EN68926",
+                "EH27538E",
+                "EPI69383",
+                "5KV82250",
+                "YGB8604T",
+                "8JG4358H"
+            ],
+            "title": "[정치ON] 정청래 \"전 당원 여론조사\"...장동혁 \"영수회담 제안\""
+        },
+        {
+            "_id": "698545e138b0cf40969784d1",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789897?sid=100",
+            "created_at": "2026-02-06T10:37:35.136000",
+            "description": "국회재정경제기획위원회가 설 연휴 전에 도널드 트럼프 미국 대통령발 ‘관세 재인상’ 문제와 관련한... 조국혁신당 의원, 천하람 개혁신당 의원이 참석했다. 임 위원장은 이날 면담에서 트럼프 대통령이 갑자기 관세를... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1243271.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-04T14:58:00",
+            "related_members": [
+                "UHB5553T",
+                "KNP22261",
+                "FU87526G",
+                "EH27538E",
+                "YGB8604T"
+            ],
+            "title": "국회 재경위, 트럼프 관세 압박 빌미된 ‘대미투자법’ 설 전 상정 논의"
+        },
+        {
             "_id": "6981c77138b0cf4096977b62",
             "link": "https://n.news.naver.com/mnews/article/053/0000055565?sid=100",
             "created_at": "2026-02-03T19:01:18.476000",
-            "description": "장동혁 국민의힘 대표가 한동훈 전 대표에 대한 제명을 결정하며 당내 내홍이 격화되는 가운데, 이준석 개혁신당 대표가 \"잠재적 경쟁자가 될 사람은 빼고 통합하겠다는 것\"이라고 주장했다. 이 대표는 3일 오전 국회의원회... ",
+            "description": "이 대표는 3일 오전 국회의원회관에서 열린 국민의힘 개혁파 의원 모임 '대안과 미래'가 주최한 '위기의 한국... 유승민만 빼고 공천을 다 준다는 것\"이라며 \"지금에 대입하면 저를 안 만나고 천하람 개혁신당 원내대표... ",
             "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48424",
             "press": "조선일보",
             "pubDate": "2026-02-03T13:30:00",
@@ -228,7 +318,7 @@
             "_id": "69814b0a38b0cf40969777ab",
             "link": "https://n.news.naver.com/mnews/article/421/0008749815?sid=100",
             "created_at": "2026-02-03T10:10:33.050000",
-            "description": "이 대표는 이날 오전 국회의원회관에서 열린 국민의힘 대안과 미래가 주최한 토론회에 참석해 \"(장동혁... 지금 대입하면 저를 안 만나고 천하람 개혁신당 원내대표, 이주영 의원에게 계속 공천을 준다고 하면 된다\"며 \"소멸... ",
+            "description": "이 대표는 이날 오전 국회의원회관에서 열린 국민의힘 대안과 미래가 주최한 토론회에 참석해 \"(장동혁... 이날 토론회에 참석한 의원들은 이 대표를 향해 질문을 쏟아내기도 했다. 최형두 의원은 \"당원들 중 가장 강경한... ",
             "originallink": "https://www.news1.kr/politics/assembly/6059950",
             "press": "뉴스1",
             "pubDate": "2026-02-03T09:32:00",
@@ -263,7 +353,7 @@
             "_id": "697ff14038b0cf40969773ad",
             "link": "https://n.news.naver.com/mnews/article/053/0000055504?sid=100",
             "created_at": "2026-02-02T09:35:12.542000",
-            "description": "이 의원은 인요한 전 국민의힘 의원의 바통을 이어받아 지난 1월 12일 제22대 국회에 입성한 '신입 의원'이다. 지난해 12월 10일 인 전 의원의 의원직 사퇴로 공석이 발생하면서, 지난 총선 당시 국민의힘 비례정당인... ",
+            "description": "\"국회에 처음 출근한 1월 15일은 마침 천하람 개혁신당 의원의 필리버스터가 있던 날이었어요. 설렘보다는 무거운 책임감이 먼저 들었죠.\" 이소희 국민의힘 의원(비례)은 국회 첫 출근 당시 감정을 이같이 회상했다. 지난... ",
             "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48315",
             "press": "조선일보",
             "pubDate": "2026-02-01T10:00:00",
@@ -598,84 +688,6 @@
                 "YGB8604T"
             ],
             "title": "천하람 \"이혜훈, 통일교 재단서 강연\"…李 \"통일교인 줄 몰랐다\""
-        },
-        {
-            "_id": "6976fcfa8459600028997fb5",
-            "link": "https://n.news.naver.com/mnews/article/028/0002788093?sid=101",
-            "created_at": "2026-01-26T14:34:47.741000",
-            "description": "여당 의원들도 검증의 날을 세웠다. 여야는 23일 국회 재정경제기획위원회에서 열린 이 후보자... 그는 이소영 민주당 의원이 “장남 부부가 결혼 이후 1년5개월간 주민등록상 주소가 전혀 겹치지 않았다”고 지적하자, 이를... ",
-            "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1241419.html",
-            "press": "한겨레",
-            "pubDate": "2026-01-23T21:50:00",
-            "related_members": [
-                "P0F1530P",
-                "WTR5885Y",
-                "EH27538E",
-                "UHB5553T",
-                "YGB8604T"
-            ],
-            "title": "여야, 한목소리로 “이혜훈 장남 입학 경위·아파트 청약 부적절” 질타"
-        },
-        {
-            "_id": "6976fd3584596000289980af",
-            "link": "https://n.news.naver.com/mnews/article/055/0001327008?sid=100",
-            "created_at": "2026-01-26T14:35:47.401000",
-            "description": "했는데, 국회의원 시절, 보좌진에게 갑질하고 폭언했다는 논란을 의식한 발언입니다. 오늘 청문회에서 한... [천하람/개혁신당 의원 : 대표적으로 의심할 만한 사실관계잖아요. 결혼식하고 신혼집 얻고 그런 거, 그렇죠?]... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008416176&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-23T20:12:00",
-            "related_members": [
-                "YGB8604T"
-            ],
-            "title": "청문회서 해명하다…\"제 아들이 병 얻었다\" 갑자기 눈물"
-        },
-        {
-            "_id": "6976fd3584596000289980b0",
-            "link": "https://n.news.naver.com/mnews/article/437/0000475070?sid=100",
-            "created_at": "2026-01-26T14:35:47.401000",
-            "description": "굉장히 시끄러운 장터라고 저는 생각하는데 그래서 그게 당연한 것은 국회의원들 하나하나는 다... 개혁신당에서도 천하람 원내대표가 오셨고.] [앵커] 필리버스터 끝나고 바로 왔죠. [이규연/청와대 홍보소통수석... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12281584?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-01-23T18:50:00",
-            "related_members": [
-                "YGB8604T",
-                "KFM1081G"
-            ],
-            "title": "[더in터뷰] 홍보수석 \"대통령과 장동혁 만남? 타이밍 문제\""
-        },
-        {
-            "_id": "6976fcee8459600028997f67",
-            "link": "https://n.news.naver.com/mnews/article/052/0002305006?sid=100",
-            "created_at": "2026-01-26T14:34:35.846000",
-            "description": "그리고 또 하나 확인하고 싶은데 천하람 위원께서 비망록 자료를 주셨는데 명확하게 한번 제가 질문드리고... 와서 국회의원들 현역 의원들, 국회의장 등등을 체포하려 하고 물리력을 행사하려고 했던 부분들은 분명히... ",
-            "originallink": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202601231704108214",
-            "press": "YTN",
-            "pubDate": "2026-01-23T17:04:00",
-            "related_members": [
-                "8Q88373R",
-                "YGB8604T"
-            ],
-            "title": "오늘 이혜훈 청문회…'부정 청약·갑질 의혹' 쟁점"
-        },
-        {
-            "_id": "6976fcfa8459600028997fb8",
-            "link": "https://n.news.naver.com/mnews/article/032/0003423466?sid=100",
-            "created_at": "2026-01-26T14:34:47.741000",
-            "description": "이 후보자는 진성준 민주당 의원이 “(청약 과정이) 명백하게 불법인데 집을 내놓을 용의가 있냐”고 묻자... 국민의힘 의원들은 청문회장에서 이 후보자가 국회의원 시절 보좌진에게 폭언하는 녹음을 수차례 틀었다.... ",
-            "originallink": "https://www.khan.co.kr/article/202601231634001",
-            "press": "경향신문",
-            "pubDate": "2026-01-23T16:34:00",
-            "related_members": [
-                "P0F1530P",
-                "NUB4941Z",
-                "S824682L",
-                "UHB5553T",
-                "WTR5885Y",
-                "EH27538E",
-                "3C23171A",
-                "YGB8604T"
-            ],
-            "title": "눈가 훔친 이혜훈, ‘부정 청약’ 의혹에 “장남, 혼인관계 파경으로 치..."
         }
     ],
     "recent_videos": [
@@ -871,7 +883,7 @@
             "url": "https://www.youtube.com/watch?v=o6odsWFnvqs",
             "HG_NM": "천하람",
             "MONA_CD": "YGB8604T",
-            "collected_at": "2026-02-04T08:45:07.791000",
+            "collected_at": "2026-02-06T10:53:35.612000",
             "duration": 574.0,
             "source": "KBS뉴스",
             "title": "[LIVE] 개혁신당 천하람 의원 '부동산 정책' 긴급 기자회견/2025년 11월 5일(수)/KBS",
@@ -1478,5 +1490,5 @@
             "RST_PROPOSER": "천하람"
         }
     ],
-    "exported_at": "2026-02-04T18:40:48.008054"
+    "exported_at": "2026-02-06T15:39:04.891618"
 }

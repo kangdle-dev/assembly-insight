@@ -53,33 +53,37 @@
     "analysis": {
         "keywords": [
             "김해",
-            "공항",
             "민주당",
+            "공항",
+            "스포츠",
             "위원",
             "선거",
             "최고",
-            "이자",
+            "복합",
             "시장",
+            "이자",
+            "시설",
             "출마",
-            "김해시",
             "더불어민주당",
-            "스포츠",
-            "교수",
-            "가덕도",
-            "공약"
+            "김해시",
+            "골프장"
         ],
         "keyword_frequency": [
             {
                 "text": "김해",
-                "value": 25
+                "value": 34
+            },
+            {
+                "text": "민주당",
+                "value": 20
             },
             {
                 "text": "공항",
                 "value": 20
             },
             {
-                "text": "민주당",
-                "value": 17
+                "text": "스포츠",
+                "value": 16
             },
             {
                 "text": "위원",
@@ -87,77 +91,73 @@
             },
             {
                 "text": "선거",
-                "value": 15
+                "value": 14
             },
             {
                 "text": "최고",
                 "value": 14
             },
             {
+                "text": "복합",
+                "value": 13
+            },
+            {
+                "text": "시장",
+                "value": 12
+            },
+            {
                 "text": "이자",
                 "value": 12
             },
             {
-                "text": "시장",
+                "text": "시설",
                 "value": 11
             },
             {
                 "text": "출마",
-                "value": 10
-            },
-            {
-                "text": "김해시",
-                "value": 10
+                "value": 11
             },
             {
                 "text": "더불어민주당",
+                "value": 11
+            },
+            {
+                "text": "김해시",
+                "value": 11
+            },
+            {
+                "text": "골프장",
                 "value": 10
-            },
-            {
-                "text": "스포츠",
-                "value": 10
-            },
-            {
-                "text": "교수",
-                "value": 8
-            },
-            {
-                "text": "가덕도",
-                "value": 7
-            },
-            {
-                "text": "공약",
-                "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:01.084211",
+        "last_analyzed_at": "2026-02-06T15:38:19.068700",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
-                0,
-                0,
                 1,
                 0,
                 1,
+                0,
+                2,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김정호 의원은 주로 고용, 환경, 재생 에너지 및 사회적 안전망 강화에 집중하며, 개혁가적 입법 활동을 통해 근로자와 지역 사회의 복지를 개선하는 데 주력하고 있습니다. 특히 근로기준법, 산업재해보상보험법 및 재생에너지 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정성과 지속 가능한 발전을 만들어내는 행보를 보입니다.\"",
@@ -171,6 +171,32 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d538b0cf409697848a",
+            "link": "https://n.news.naver.com/mnews/article/421/0008756222?sid=102",
+            "created_at": "2026-02-06T10:37:23.117000",
+            "description": "김정호 민주당 국회의원(김해 을)과 민주당 김해시장·광역·기초 의원 출마 예정자들은 5일 김해시청 프레스센터에서 기자회견을 열고 \"김해 복합 스포츠·레저시설 조성 사업을 108홀 규모의 파크골프장과 운동장·다목적... ",
+            "originallink": "https://www.news1.kr/local/busan-gyeongnam/6063483",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T15:06:00",
+            "related_members": [
+                "9LD2641Q"
+            ],
+            "title": "\"골프장 대신에…\" 민주당, 김해 복합스포츠·레저시설 변경 제안"
+        },
+        {
+            "_id": "698545d538b0cf409697848b",
+            "link": "https://n.news.naver.com/mnews/article/003/0013751066?sid=102",
+            "created_at": "2026-02-06T10:37:23.117000",
+            "description": "더불어민주당 김정호 국회의원(김해을)은 김해복합스포츠·레저시설 조성사업과 관련해 골프장 확장 계획을 시민 중심의 파크골프장과 복합 체육시설로 변경해야 한다고 촉구했다. 김정호 의원과 김해시장 시·도의원... ",
+            "originallink": "https://www.newsis.com/view/NISX20260205_0003503821",
+            "press": "뉴시스",
+            "pubDate": "2026-02-05T12:54:00",
+            "related_members": [
+                "9LD2641Q"
+            ],
+            "title": "김정호 \"김해복합스포츠 사업, 파크골프장 조성해야\""
+        },
         {
             "_id": "6981c74338b0cf4096977b04",
             "link": "https://n.news.naver.com/mnews/article/021/0002768554?sid=101",
@@ -190,7 +216,7 @@
             "_id": "697ff10e38b0cf4096977353",
             "link": "https://n.news.naver.com/mnews/article/003/0013741600?sid=102",
             "created_at": "2026-02-02T09:34:22.161000",
-            "description": "정영두 김해시장 출마예정자는 “김민석 국무총리, 정청래 민주당 대표, 박찬대 전 민주당 대표직무대행, 조승래 민주당 사무총장을 비롯한 많은 국회의원들이 축하 동영상과 축전을 보내 왔다\"며 \"6.3지방선거 낙동강... ",
+            "description": "이날 출판기념회에는 김경수 지방시대 위원장, 민홍철 국회의원, 김정호 국회의원, 허성무 국회의원 등 경남 민주당의 주요 인사들이 참석한다. 정영두 김해시장 출마예정자는 “김민석 국무총리, 정청래 민주당 대표... ",
             "originallink": "https://www.newsis.com/view/NISX20260201_0003497740",
             "press": "뉴시스",
             "pubDate": "2026-02-01T07:53:00",
@@ -489,7 +515,7 @@
             "url": "https://www.youtube.com/watch?v=-7sCZfCmTEQ",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:48.633000",
+            "collected_at": "2026-02-06T10:42:21.588000",
             "duration": 118.0,
             "title": "[오늘의 키워드] 욕설에 침까지 뱉어…국회의원 김정호·민경욱 ‘갑질 논란’",
             "upload_date": null
@@ -499,7 +525,7 @@
             "url": "https://www.youtube.com/watch?v=kdHseEO2_9g",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:50.036000",
+            "collected_at": "2026-02-06T10:42:22.973000",
             "duration": 11846.0,
             "title": "김어준의 겸손은힘들다 뉴스공장 2025년 11월 20일 목요일 [김기표, 박현광, 이희수, 이권형, 김병주, 김규현, 노영희, 주진우, 김정호, 스포츠공장] + 텐밀희",
             "upload_date": null
@@ -519,7 +545,7 @@
             "url": "https://www.youtube.com/watch?v=rd0QAJhotRw",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:48.633000",
+            "collected_at": "2026-02-06T10:42:21.588000",
             "duration": 155.0,
             "title": "희망 가득한 설 명절 되세요! 더불어민주당 김해시을 국회의원 김정호 올림",
             "upload_date": null
@@ -529,7 +555,7 @@
             "url": "https://www.youtube.com/watch?v=33YZHF5JUdw",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:48.633000",
+            "collected_at": "2026-02-06T10:42:21.588000",
             "duration": 214.0,
             "title": "[알릴레오] 노무현 대통령과 김정호 의원의 '반딧불이 일화'",
             "upload_date": null
@@ -539,7 +565,7 @@
             "url": "https://www.youtube.com/watch?v=IC4vMQYGJ-Q",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:50.036000",
+            "collected_at": "2026-02-06T10:42:22.973000",
             "duration": 5320.0,
             "title": "반도체 다음 먹거리가 탄생했다, 한국이 미국 넘어 천조국 됩니다 (김정호 교수 풀버전)",
             "upload_date": null
@@ -549,7 +575,7 @@
             "url": "https://www.youtube.com/watch?v=-oRxThbsEPk",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:48.633000",
+            "collected_at": "2026-02-06T10:42:21.588000",
             "duration": 277.0,
             "title": "\"욕 했다\" vs \"억울해\"…김정호 의원, 공항 갑질 논란 '진실공방'",
             "upload_date": null
@@ -609,7 +635,7 @@
             "url": "https://www.youtube.com/watch?v=3oJ_rQOVGKs",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:50.036000",
+            "collected_at": "2026-02-06T10:42:22.973000",
             "duration": 2406.0,
             "title": " 글로벌 한국 경제 80년사...과거를 통해 미래를 배우다 (김정호 교수) | 곽수종의 프리즘",
             "upload_date": null
@@ -619,7 +645,7 @@
             "url": "https://www.youtube.com/watch?v=UCXEu8xyS1u7POLvhhxq0fTA",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:48.633000",
+            "collected_at": "2026-02-06T10:42:21.588000",
             "duration": null,
             "title": "김정호TV",
             "upload_date": null
@@ -629,7 +655,7 @@
             "url": "https://www.youtube.com/watch?v=9-0JyjUAUmk",
             "HG_NM": "김정호",
             "MONA_CD": "9LD2641Q",
-            "collected_at": "2026-02-04T08:33:48.633000",
+            "collected_at": "2026-02-06T10:42:21.588000",
             "duration": 112.0,
             "title": "[자막뉴스] 김정호 의원, 공항 직원 경위서 공개되자 결국... / YTN",
             "upload_date": null
@@ -2889,5 +2915,5 @@
             "RST_PROPOSER": "김정호"
         }
     ],
-    "exported_at": "2026-02-04T18:40:01.085323"
+    "exported_at": "2026-02-06T15:38:19.068700"
 }

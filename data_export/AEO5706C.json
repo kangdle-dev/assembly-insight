@@ -42,57 +42,73 @@
     },
     "analysis": {
         "keywords": [
-            "이강",
             "자산",
+            "이강",
             "디지털",
             "민주당",
-            "코인",
             "스테이",
-            "기본법",
-            "더불어민주당",
-            "주주",
-            "보훈",
+            "코인",
+            "의혹",
             "회관",
+            "기본법",
             "당원",
-            "회의",
-            "충북도",
-            "은행"
+            "명부",
+            "유출",
+            "위원장",
+            "보훈",
+            "더불어민주당"
         ],
         "keyword_frequency": [
             {
-                "text": "이강",
-                "value": 43
+                "text": "자산",
+                "value": 36
             },
             {
-                "text": "자산",
-                "value": 40
+                "text": "이강",
+                "value": 35
             },
             {
                 "text": "디지털",
-                "value": 37
+                "value": 30
             },
             {
                 "text": "민주당",
-                "value": 28
-            },
-            {
-                "text": "코인",
                 "value": 25
             },
             {
                 "text": "스테이",
-                "value": 23
+                "value": 22
             },
             {
-                "text": "기본법",
+                "text": "코인",
+                "value": 22
+            },
+            {
+                "text": "의혹",
                 "value": 18
             },
             {
-                "text": "더불어민주당",
+                "text": "회관",
+                "value": 17
+            },
+            {
+                "text": "기본법",
+                "value": 15
+            },
+            {
+                "text": "당원",
                 "value": 14
             },
             {
-                "text": "주주",
+                "text": "명부",
+                "value": 14
+            },
+            {
+                "text": "유출",
+                "value": 14
+            },
+            {
+                "text": "위원장",
                 "value": 14
             },
             {
@@ -100,54 +116,38 @@
                 "value": 14
             },
             {
-                "text": "회관",
+                "text": "더불어민주당",
                 "value": 13
-            },
-            {
-                "text": "당원",
-                "value": 12
-            },
-            {
-                "text": "회의",
-                "value": 12
-            },
-            {
-                "text": "충북도",
-                "value": 11
-            },
-            {
-                "text": "은행",
-                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:29.685412",
+        "last_analyzed_at": "2026-02-06T15:38:45.073090",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                2,
-                0,
                 0,
                 1,
                 0,
                 2,
+                3,
+                4,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이강일 의원은 주로 공정 거래 및 주거 안정 분야에 집중하며, 개혁가적 입법 활동을 통해 경제적 안정성과 사회적 안전망을 개선하는 데 주력하고 있습니다. 특히 가맹사업거래와 하도급 거래의 공정화를 위한 법안들을 통해 국민의 실생활과 직결된 경제적 공정성을 높이고, 안전한 주거 환경을 조성하는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -162,10 +162,207 @@
     },
     "recent_news": [
         {
+            "_id": "698545fc38b0cf409697854f",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112995?sid=101",
+            "created_at": "2026-02-06T10:38:02.846000",
+            "description": "더불어민주당 디지털자산태스크포스(TF) 위원인 이강일 의원은 5일 국회 정무위원회 전체회의에서 금융위의 스테이블코인 컨소시엄 구상이 은행권에 지나치게 치중돼 있다고 지적했다. 민주당과 가상자산 업계는 혁신을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6467804?utm_source=naver&utm_medium=article&utm_campaign=20260205055126",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-05T17:52:00",
+            "related_members": [
+                "AEO5706C"
+            ],
+            "title": "與 \"은행 중심 스테이블코인 컨소시엄\" 지적…이억원 \"특혜 아냐\""
+        },
+        {
+            "_id": "698545e138b0cf40969784d2",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119338?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "비공개 최고위원회에선 중부 3군의 임호선 국회의원을 충북도당위원장 직무대행으로 지명했습니다. 관련 의혹이 불거진 뒤 청주 서원의 이광희 도당위원장이 관련 의혹의 진위와 무관하게 일신상의 이유로 사퇴 의사를... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478140&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T08:44:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L",
+                "FH777496",
+                "AEO5706C",
+                "95J3282H"
+            ],
+            "title": "지방선거 코 앞인데…‘당원 명부 유출’ 의혹 파장"
+        },
+        {
+            "_id": "698545c038b0cf40969783d0",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749884?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "(의원회관 제11간담회의실) 10:00 최기상 의원실 등, 초국가범죄와 가상자산 국회 정책세미나(의원회관 제1소회의실) 14:00 박지혜 의원실, 녹색국채를 통한 기후 재정 확보 방안(의원회관 제3간담회의실) 14:00 손명수... ",
+            "originallink": "https://www.newsis.com/view/NISX20260204_0003503086",
+            "press": "뉴시스",
+            "pubDate": "2026-02-05T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "IUX1829H",
+                "3LP22204",
+                "ZYP7962W",
+                "AEO5706C",
+                "TZ228122",
+                "6AU2417B",
+                "I5I2468R",
+                "EMH4976E",
+                "JSA8739I",
+                "MDC3257K",
+                "RBM5454A",
+                "FH777496",
+                "IC499858",
+                "XG348314"
+            ],
+            "title": "[오늘의 주요일정]국회(2월5일 목요일)"
+        },
+        {
+            "_id": "698545c038b0cf40969783d1",
+            "link": "https://n.news.naver.com/mnews/article/421/0008754375?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "(의원회관 제11간담회의실) 10:00 최기상 의원실 등, 초국가범죄와 가상자산 국회 정책세미나(의원회관 제1소회의실) 14:00 박지혜 의원실, 녹색국채를 통한 기후 재정 확보 방안(의원회관 제3간담회의실) 14:00 손명수... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6062435",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "IUX1829H",
+                "3LP22204",
+                "ZYP7962W",
+                "AEO5706C",
+                "TZ228122",
+                "6AU2417B",
+                "I5I2468R",
+                "EMH4976E",
+                "JSA8739I",
+                "MDC3257K",
+                "RBM5454A",
+                "FH777496",
+                "IC499858",
+                "XG348314"
+            ],
+            "title": "[오늘의 국회일정](5일,목)"
+        },
+        {
+            "_id": "698545e138b0cf40969784d3",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119025?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "비공개 최고위원회에선 중부 3군의 임호선 국회의원을 충북도당위원장 직무대행으로 지명했습니다. 관련 의혹이 불거진 뒤 청주 서원의 이광희 도당위원장이 관련 의혹의 진위와 무관하게 일신상의 이유로 사퇴 의사를... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477733&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T21:29:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L",
+                "FH777496",
+                "AEO5706C",
+                "95J3282H"
+            ],
+            "title": "지방선거 코 앞인데…‘당원 명부 유출’ 의혹 파장"
+        },
+        {
+            "_id": "698545e138b0cf40969784d5",
+            "link": "https://n.news.naver.com/mnews/article/056/0012118872?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "비공개 최고위원회에선 중부 3군의 임호선 국회의원을 충북도당위원장 직무대행으로 지명했습니다. 관련 의혹이 불거진 뒤 청주 서원의 이광희 도당위원장이 관련 의혹의 진위와 무관하게 일신상의 이유로 사퇴 의사를... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477495&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T19:03:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L",
+                "FH777496",
+                "AEO5706C",
+                "95J3282H"
+            ],
+            "title": "지방선거 코 앞인데…‘당원 명부 유출’ 의혹 파장"
+        },
+        {
+            "_id": "698545c638b0cf4096978430",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595511?sid=100",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "서영교 의원실 제공 서영교 더불어민주당 국회의원은 지난 3일 국회의원회관 대회의실에서 저서 ‘빛의 혁명... 허종식·홍기원·이성윤·권향엽·김기표·김남근·김동아·김성회·김우영·김윤·박균택·박민규·박정현... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669097?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T08:47:00",
+            "related_members": [
+                "IUX1829H",
+                "3CC88975",
+                "EFU76868",
+                "N2P9317N",
+                "5N65159P",
+                "IWR8966I",
+                "88O1334C",
+                "4019850M",
+                "TKJ4800F",
+                "43Q3892U",
+                "MIS62075",
+                "M4O5221T",
+                "3UI95829",
+                "HVV5250J",
+                "ZW43496R",
+                "H5476989",
+                "HSS7466Y",
+                "ZDR63255",
+                "04T3751T",
+                "URV1689Q",
+                "S824682L",
+                "M7O7878U",
+                "1WE5693J",
+                "GX38539O",
+                "6AU2417B",
+                "X1K3667J",
+                "5765663F",
+                "7BM2933Y",
+                "8P37634C",
+                "FJK3396E",
+                "IN328264",
+                "FOK3459D",
+                "8BF5855P",
+                "MDC3257K",
+                "51A45980",
+                "CK143054",
+                "BRU2690F",
+                "XR24352K",
+                "CCU1009B",
+                "ATB59635",
+                "5MD4184K",
+                "VRY5522V",
+                "OFE45081",
+                "B7D7534L",
+                "9JF4562W",
+                "25G2571T",
+                "VCP96419",
+                "0R68099X",
+                "D6U6678O",
+                "IL74008M",
+                "MQK9493H",
+                "AEO5706C",
+                "95J3282H",
+                "6K79158C",
+                "8TU8443O",
+                "NA61091D",
+                "1S05899F",
+                "RKS3658I",
+                "IC499858",
+                "9HE7226N",
+                "5762459L",
+                "X639721U",
+                "1A82234K",
+                "CC78321E",
+                "T4I4862D",
+                "EBH1101V",
+                "RQQ3807K"
+            ],
+            "title": "서영교 의원, ‘빛의 혁명, 빛의 명령’ 북콘서트 성황…수천명 운집"
+        },
+        {
             "_id": "6981c76838b0cf4096977b5e",
             "link": "https://n.news.naver.com/mnews/article/003/0013746850?sid=102",
             "created_at": "2026-02-03T19:01:09.686000",
-            "description": "중앙당은 이강일(청주상당) 국회의원의 공식 요청에 따라 이번 의혹에 대한 강도 높은 조사를 벌였다. 정청래... 여기에 전략·심사 공천설의 당사자인 임호선(증평·진천·음성) 의원이 출마와 불출마 입장을 수차례... ",
+            "description": "중앙당은 이강일(청주상당) 국회의원의 공식 요청에 따라 이번 의혹에 대한 강도 높은 조사를 벌였다. 정청래 당대표가 지난달 23일 현장 최고위원회에서 철저한 조사 방침을 밝힌 뒤 윤리감찰이 이뤄지고 있다. 도당... ",
             "originallink": "https://www.newsis.com/view/NISX20260203_0003501249",
             "press": "뉴시스",
             "pubDate": "2026-02-03T17:34:00",
@@ -181,7 +378,7 @@
             "_id": "6981c76838b0cf4096977b5f",
             "link": "https://n.news.naver.com/mnews/article/003/0013746487?sid=102",
             "created_at": "2026-02-03T19:01:09.686000",
-            "description": "중앙당은 이강일(청주상당) 국회의원의 공식 요청에 따라 이번 의혹에 대한 강도 높은 조사를 벌이고 있다.... 여기에 전략·심사 공천설의 당사자인 임호선(증평·진천·음성) 의원이 출마와 불출마 입장을 수차례... ",
+            "description": "중앙당은 이강일(청주상당) 국회의원의 공식 요청에 따라 이번 의혹에 대한 강도 높은 조사를 벌이고 있다. 정청래 당대표가 지난달 23일 현장 최고위원회에서 철저한 조사 방침을 밝힌 뒤 윤리감찰이 이뤄지고 있다. 도당... ",
             "originallink": "https://www.newsis.com/view/NISX20260203_0003500957",
             "press": "뉴시스",
             "pubDate": "2026-02-03T15:47:00",
@@ -197,7 +394,7 @@
             "_id": "697ff13438b0cf4096977395",
             "link": "https://n.news.naver.com/mnews/article/003/0013742050?sid=102",
             "created_at": "2026-02-02T09:35:00.353000",
-            "description": "당내에서는 이강일(청주상당) 국회의원의 문제 제기로 시작한 도당 당원 명부 유출 의혹 파장이 충북지사... 여기에 전략·심사 공천설의 당사자인 임호선(증평·진천·음성) 의원이 출마와 불출마 입장을 수차례 번복하면서... ",
+            "description": "당내에서는 이강일(청주상당) 국회의원의 문제 제기로 시작한 도당 당원 명부 유출 의혹 파장이 충북지사 전략 공천설로 이어지며 도당 내부 갈등으로 비화하고 있다. 특히 의혹과 관련한 전략 공천 또는 심사 공천... ",
             "originallink": "https://www.newsis.com/view/NISX20260201_0003497971",
             "press": "뉴시스",
             "pubDate": "2026-02-01T15:10:00",
@@ -536,114 +733,6 @@
                 "O0I2045I"
             ],
             "title": "與, 2월초 '디지털자산 기본법' 발의… 금융당국과 따로 가나"
-        },
-        {
-            "_id": "69701260297082fcc2b34d28",
-            "link": "https://n.news.naver.com/mnews/article/003/0013720553?sid=100",
-            "created_at": "2026-01-21T08:40:14.591000",
-            "description": "이강일 더불어민주당 디지털자산 TF 위원이 20일 서울 여의도 국회 의원회관에서 열린 TF 회의에서 발언하고 있다. 이날 회의에선 스테이블코인 관련 디지털자산기본법(2단계 입법) 여당안이 논의되는... ",
-            "originallink": "https://www.newsis.com/view/NISI20260120_0021132982",
-            "press": "뉴시스",
-            "pubDate": "2026-01-20T14:30:00",
-            "related_members": [
-                "AEO5706C"
-            ],
-            "title": "발언하는 이강일 디지털자산 TF 위원"
-        },
-        {
-            "_id": "69701260297082fcc2b34d29",
-            "link": "https://n.news.naver.com/mnews/article/003/0013720184?sid=102",
-            "created_at": "2026-01-21T08:40:14.591000",
-            "description": "이강일(청주 상당) 국회의원은 최근 지역구 당원들로부터 개인정보가 유출된 것으로 보인다는 민원을 접수한 뒤 중앙당에 공식 조사를 요청했다. 민원을 제기한 당원들은 최근 당에 가입했거나 외부 활동이 전혀... ",
-            "originallink": "https://www.newsis.com/view/NISX20260120_0003483293",
-            "press": "뉴시스",
-            "pubDate": "2026-01-20T11:59:00",
-            "related_members": [
-                "AEO5706C"
-            ],
-            "title": "'당원 명단 주고받기' 포착했나…민주, 추가 조치 검토"
-        },
-        {
-            "_id": "696c5c13297082fcc2b19bc2",
-            "link": "https://n.news.naver.com/mnews/article/016/0002587262?sid=101",
-            "created_at": "2026-01-18T13:05:39.368000",
-            "description": "이강일 의원, 안도걸 의원, 한민수 의원, 이정수 서울대 교수, 김윤경 인천대 교수, 안수현 한국외대 교수... 지난 16일 국회의원회관에서 한국핀테산업협회와 디지털자산금융학회가 주관한 ‘디지털자산 제도화가 여는... ",
-            "originallink": "https://biz.heraldcorp.com/article/10657566?ref=naver",
-            "press": "헤럴드경제",
-            "pubDate": "2026-01-18T09:35:00",
-            "related_members": [
-                "EB16073M",
-                "AEO5706C",
-                "8JG4358H",
-                "5N65159P"
-            ],
-            "title": "“은행 중심 원화스테이블코인 발행…코인런 리스크 확산, 기형적 구조..."
-        },
-        {
-            "_id": "696c5c11297082fcc2b19bba",
-            "link": "https://n.news.naver.com/mnews/article/421/0008719885?sid=102",
-            "created_at": "2026-01-18T13:05:37.364000",
-            "description": "이날 행사에는 이광희 더불어민주당 충북도당위원장, 이연희·이강일·송재봉 국회의원, 김두관 전 행정안전부장관, 박문희 전 충북도의회 의장, 언론·학계·시민사회 인사, 지역주민 등 1000여 명이 참석했다. 대한민국과... ",
-            "originallink": "https://www.news1.kr/local/sejong-chungbuk/6042390",
-            "press": "뉴스1",
-            "pubDate": "2026-01-18T08:28:00",
-            "related_members": [
-                "EBH1101V",
-                "95J3282H",
-                "AEO5706C",
-                "RG972910",
-                "2385336L"
-            ],
-            "title": "송기섭 진천군수 '벽을 뚫어 길을내다' 출판전시회 성료"
-        },
-        {
-            "_id": "696c5c11297082fcc2b19bbb",
-            "link": "https://n.news.naver.com/mnews/article/003/0013716022?sid=102",
-            "created_at": "2026-01-18T13:05:37.364000",
-            "description": "행사에는 이광희 더불어민주당 충북도당위원장, 이연희· 이강일· 송재봉 국회의원, 이종찬 광복회장, 김광수·박문희 전 충북도의회 의장 등 정계 관계자를 비롯한 주민 등 3500여명이 참석했다. 정청래 민주당 대표 등... ",
-            "originallink": "https://www.newsis.com/view/NISX20260117_0003480585",
-            "press": "뉴시스",
-            "pubDate": "2026-01-17T19:33:00",
-            "related_members": [
-                "2385336L",
-                "RG972910",
-                "95J3282H",
-                "EBH1101V",
-                "AEO5706C"
-            ],
-            "title": "송기섭 진천군수, '벽을 뚫어 길을 내다' 출판전시회"
-        },
-        {
-            "_id": "696c5bed297082fcc2b19b92",
-            "link": "https://n.news.naver.com/mnews/article/015/0005238385?sid=101",
-            "created_at": "2026-01-18T13:05:01.840000",
-            "description": "이날 토론회에는 안 의원을 비롯해 이강일 민주당 의원, 한민수 민주당 의원 등 TF 소속 의원들이 참석했다. 안 의원의 이번 발언은 금융당국의 방침을 겨냥한 것으로 보인다. 금융위원회는 최근 국회에 스테이블코인 발행... ",
-            "originallink": "https://www.hankyung.com/article/202601165823g",
-            "press": "한국경제",
-            "pubDate": "2026-01-16T18:06:00",
-            "related_members": [
-                "1Y73132H",
-                "EB16073M",
-                "8JG4358H",
-                "AEO5706C"
-            ],
-            "title": "디지털자산기본법 고삐 죄는 與…\"은행 중심은 혁신 저해\""
-        },
-        {
-            "_id": "696c5be9297082fcc2b19b79",
-            "link": "https://n.news.naver.com/mnews/article/009/0005623049?sid=100",
-            "created_at": "2026-01-18T13:04:57.913000",
-            "description": "민주당 코스피5000특별위원회 소속 김남근·오기형·이강일 의원은 16일 국회 의원회관에서 '주주가치 훼손에 대한 민사책임 추궁 활성화 모색 간담회'를 열었다. 이날 간담회 참석자들은 한목소리로 기업들의 민사책임 강화... ",
-            "originallink": "https://www.mk.co.kr/article/11935456",
-            "press": "매일경제",
-            "pubDate": "2026-01-16T17:43:00",
-            "related_members": [
-                "OIA3741M",
-                "IUX1829H",
-                "AEO5706C",
-                "D6U6678O"
-            ],
-            "title": "\"주주대표소송 증거입증 쉽게\" 與, 한국형 디스커버리 추진"
         }
     ],
     "recent_videos": [
@@ -652,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=UChZEb4E_exCUxPS3K0wtfpQ",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:18.091000",
+            "collected_at": "2026-02-06T10:48:48.296000",
             "duration": null,
             "title": "이강일tv",
             "upload_date": null
@@ -662,7 +751,7 @@
             "url": "https://www.youtube.com/watch?v=ZuLuMAyhVrA",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:18.091000",
+            "collected_at": "2026-02-06T10:48:48.296000",
             "duration": 152.0,
             "title": "[이강일 의원 발췌본] \"싸가지없다\" '막말' 기관장.. 건들건들 '씩' 웃더니 (2025.10.13./MBC뉴스)",
             "upload_date": null
@@ -672,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=tOnQIMFc-w0",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:18.091000",
+            "collected_at": "2026-02-06T10:48:48.296000",
             "duration": 584.0,
             "title": "💙더불어민주당 이강일 국회의원 | ⭐300인의 희망 인터뷰",
             "upload_date": null
@@ -692,7 +781,7 @@
             "url": "https://www.youtube.com/watch?v=QLpf4r2LhQs",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:19.471000",
+            "collected_at": "2026-02-06T10:48:49.652000",
             "duration": 718.0,
             "title": "\"제가 제 얼굴 볼 수 있나요?\" 황당 발언에 제대로 화난 이강일 \"말장난하고 있죠!!\"",
             "upload_date": null
@@ -702,7 +791,7 @@
             "url": "https://www.youtube.com/watch?v=ME6M8f5Y4KM",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:19.471000",
+            "collected_at": "2026-02-06T10:48:49.652000",
             "duration": 207.0,
             "title": "가짜뉴스 유포자가 국회의원? \"표현 자유 아닌 사회적 테러\" #민주당 #이강일의원 #이강일 #표현의자유 #세월호 #이재명대통령 #이재명 #중국인 #외국인주택 #투표 #외국인투표",
             "upload_date": null
@@ -712,7 +801,7 @@
             "url": "https://www.youtube.com/watch?v=_dSbyMtjgGI",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:19.471000",
+            "collected_at": "2026-02-06T10:48:49.652000",
             "duration": 130.0,
             "title": "[이강일 의원 발췌본] SBS 비즈 뉴스프리즘 방영분",
             "upload_date": null
@@ -732,7 +821,7 @@
             "url": "https://www.youtube.com/watch?v=NmXZdDLblgA",
             "HG_NM": "이강일",
             "MONA_CD": "AEO5706C",
-            "collected_at": "2026-02-04T08:40:18.091000",
+            "collected_at": "2026-02-06T10:48:48.296000",
             "duration": 6275.0,
             "title": "청주시 상당구 국회의원 이강일 의정보고회 2026년 1월 24일 오후2시 청주시 문화체육관 [본행사]",
             "upload_date": null
@@ -2190,5 +2279,5 @@
             "RST_PROPOSER": "이강일"
         }
     ],
-    "exported_at": "2026-02-04T18:40:29.685412"
+    "exported_at": "2026-02-06T15:38:45.073090"
 }

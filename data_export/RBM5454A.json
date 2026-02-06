@@ -44,19 +44,19 @@
         "keywords": [
             "대표",
             "쿠팡",
-            "원내",
             "자산",
+            "원내",
             "디지털",
             "투표",
+            "의원실",
+            "회관",
             "더불어민주당",
+            "일정",
+            "간담회",
             "민주당",
             "위원",
             "보상",
-            "법안",
-            "민주",
-            "위원장",
-            "수수",
-            "의혹"
+            "법안"
         ],
         "keyword_frequency": [
             {
@@ -65,15 +65,15 @@
             },
             {
                 "text": "쿠팡",
-                "value": 19
+                "value": 21
+            },
+            {
+                "text": "자산",
+                "value": 17
             },
             {
                 "text": "원내",
                 "value": 17
-            },
-            {
-                "text": "자산",
-                "value": 15
             },
             {
                 "text": "디지털",
@@ -84,8 +84,24 @@
                 "value": 14
             },
             {
+                "text": "의원실",
+                "value": 13
+            },
+            {
+                "text": "회관",
+                "value": 13
+            },
+            {
                 "text": "더불어민주당",
                 "value": 13
+            },
+            {
+                "text": "일정",
+                "value": 12
+            },
+            {
+                "text": "간담회",
+                "value": 12
             },
             {
                 "text": "민주당",
@@ -102,34 +118,18 @@
             {
                 "text": "법안",
                 "value": 8
-            },
-            {
-                "text": "민주",
-                "value": 8
-            },
-            {
-                "text": "위원장",
-                "value": 8
-            },
-            {
-                "text": "수수",
-                "value": 8
-            },
-            {
-                "text": "의혹",
-                "value": 8
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:35.539500",
+        "last_analyzed_at": "2026-02-06T15:38:51.443583",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
@@ -137,17 +137,17 @@
                 0,
                 0,
                 0,
-                0,
-                0
+                2,
+                2
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이주희 의원은 주로 정보통신 및 사회 안전 분야에 집중하며, 보호자적 입법 활동을 통해 국민의 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 방사선 및 방사성동위원소 이용진흥법, 가정폭력방지 및 피해자보호법 관련 법안들을 통해 국민의 실생활과 직결된 안전한 사회 환경을 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,124 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545cd38b0cf4096978461",
+            "link": "https://n.news.naver.com/mnews/article/003/0013752676?sid=100",
+            "created_at": "2026-02-06T10:37:16.028000",
+            "description": "10:00 최형두 의원실 등, 쿠팡 해킹 및 개인정보 침탈 사고에 대한 국회 좌담회(의원회관 제5간담회의실) 10:00 임오경 의원실 등, 한국영화산업 선순환 구조 복원을 위한 홀드백 정책 토론회(의원회관 제2소회의실) 10... ",
+            "originallink": "https://www.newsis.com/view/NISX20260205_0003504765",
+            "press": "뉴시스",
+            "pubDate": "2026-02-06T05:00:00",
+            "related_members": [
+                "7YL9580G",
+                "88O1334C",
+                "7BM2933Y",
+                "5765663F",
+                "EB16073M",
+                "W3U3344O",
+                "04T3751T",
+                "2KM3589W",
+                "51A45980",
+                "BRU2690F",
+                "PYA8594I",
+                "8UC4779G",
+                "JG77046J",
+                "WI719547",
+                "RBM5454A",
+                "4T026790",
+                "EH27538E",
+                "A0P4646G",
+                "NA61091D",
+                "9HE7226N"
+            ],
+            "title": "[오늘의 주요일정]국회(2월6일 금요일)"
+        },
+        {
+            "_id": "698545cd38b0cf4096978460",
+            "link": "https://n.news.naver.com/mnews/article/421/0008757152?sid=100",
+            "created_at": "2026-02-06T10:37:16.028000",
+            "description": "10:00 최형두 의원실 등, 쿠팡 해킹 및 개인정보 침탈 사고에 대한 국회 좌담회(의원회관 제5간담회의실) 10:00 임오경 의원실 등, 한국영화산업 선순환 구조 복원을 위한 홀드백 정책 토론회(의원회관 제2소회의실) 10... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6063983",
+            "press": "뉴스1",
+            "pubDate": "2026-02-06T05:00:00",
+            "related_members": [
+                "7YL9580G",
+                "88O1334C",
+                "7BM2933Y",
+                "5765663F",
+                "EB16073M",
+                "W3U3344O",
+                "04T3751T",
+                "2KM3589W",
+                "51A45980",
+                "BRU2690F",
+                "PYA8594I",
+                "8UC4779G",
+                "JG77046J",
+                "WI719547",
+                "RBM5454A",
+                "4T026790",
+                "EH27538E",
+                "A0P4646G",
+                "NA61091D",
+                "9HE7226N"
+            ],
+            "title": "[오늘의 국회일정](6일,금)"
+        },
+        {
+            "_id": "698545c038b0cf40969783d1",
+            "link": "https://n.news.naver.com/mnews/article/421/0008754375?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "(의원회관 제11간담회의실) 10:00 최기상 의원실 등, 초국가범죄와 가상자산 국회 정책세미나(의원회관 제1소회의실) 14:00 박지혜 의원실, 녹색국채를 통한 기후 재정 확보 방안(의원회관 제3간담회의실) 14:00 손명수... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6062435",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "IUX1829H",
+                "3LP22204",
+                "ZYP7962W",
+                "AEO5706C",
+                "TZ228122",
+                "6AU2417B",
+                "I5I2468R",
+                "EMH4976E",
+                "JSA8739I",
+                "MDC3257K",
+                "RBM5454A",
+                "FH777496",
+                "IC499858",
+                "XG348314"
+            ],
+            "title": "[오늘의 국회일정](5일,목)"
+        },
+        {
+            "_id": "698545c038b0cf40969783d0",
+            "link": "https://n.news.naver.com/mnews/article/003/0013749884?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "(의원회관 제11간담회의실) 10:00 최기상 의원실 등, 초국가범죄와 가상자산 국회 정책세미나(의원회관 제1소회의실) 14:00 박지혜 의원실, 녹색국채를 통한 기후 재정 확보 방안(의원회관 제3간담회의실) 14:00 손명수... ",
+            "originallink": "https://www.newsis.com/view/NISX20260204_0003503086",
+            "press": "뉴시스",
+            "pubDate": "2026-02-05T05:00:00",
+            "related_members": [
+                "8P37634C",
+                "IUX1829H",
+                "3LP22204",
+                "ZYP7962W",
+                "AEO5706C",
+                "TZ228122",
+                "6AU2417B",
+                "I5I2468R",
+                "EMH4976E",
+                "JSA8739I",
+                "MDC3257K",
+                "RBM5454A",
+                "FH777496",
+                "IC499858",
+                "XG348314"
+            ],
+            "title": "[오늘의 주요일정]국회(2월5일 목요일)"
+        },
         {
             "_id": "697cbd1a38b0cf4096976a4b",
             "link": "https://n.news.naver.com/mnews/article/016/0002592356?sid=101",
@@ -720,7 +838,7 @@
             "url": "https://www.youtube.com/watch?v=nFjafqmgJjs",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 563.0,
             "title": "이주희 국회의원 1호 법안, 안전관련 '故 정순규 방지법' 발의 기자회견, 더불어민주당 이주희",
             "upload_date": null
@@ -730,7 +848,7 @@
             "url": "https://www.youtube.com/watch?v=8nLENUn0E6s",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:55.677000",
+            "collected_at": "2026-02-06T10:50:25.552000",
             "duration": 75.0,
             "title": "'대장동 정치검사들' 회유에 가족들 협박까지 ㄷㄷㄷ 이주희 \"법 집행관 아닌 조작 수사의 달인들\"",
             "upload_date": null
@@ -740,7 +858,7 @@
             "url": "https://www.youtube.com/watch?v=C8-132EA3Eo",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 560.0,
             "title": "과방위 데뷔한 이주희 의원, 인재유출 '콕' 짚으며 날카로운 질의",
             "upload_date": null
@@ -750,7 +868,7 @@
             "url": "https://www.youtube.com/watch?v=X9zxoLdGddU",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-02T09:50:58.742000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 3424.0,
             "title": "[박정호의 핫스팟+이주희+황희두] 이준석 지지 펨코식 정훈교육에 깜놀! 헉, 일베 속 극우가 문화로(11월 19일 전체보기)",
             "upload_date": null
@@ -770,7 +888,7 @@
             "url": "https://www.youtube.com/watch?v=U7uGs-iSSoM",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 263.0,
             "title": "이주희, 비례 국회의원 승계 후 첫 인사…국회서 밝힌 각오는?",
             "upload_date": null
@@ -780,7 +898,7 @@
             "url": "https://www.youtube.com/watch?v=M31rm7FdLpY",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:55.677000",
+            "collected_at": "2026-02-06T10:50:25.552000",
             "duration": 700.0,
             "title": "\"마진 손실을 왜 납품업체에 강요합니까?\" 이주희의 한마디에 '헉' [G1현장영상]",
             "upload_date": null
@@ -800,7 +918,7 @@
             "url": "https://www.youtube.com/watch?v=dxFJlvKQeog",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 1065.0,
             "title": "이주희 \"女 의원 모욕\" vs 김장겸 \"여성 코스프레\"…시작부터 여야 충돌, 무슨 일? / KNN",
             "upload_date": null
@@ -830,7 +948,7 @@
             "url": "https://www.youtube.com/watch?v=CwIuxZAKAro",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 305.0,
             "title": "새로운 비례대표 이주희 의원, 첫인사서부터 소신 발언",
             "upload_date": null
@@ -850,7 +968,7 @@
             "url": "https://www.youtube.com/watch?v=8v8jfJ-cFUI",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:55.677000",
+            "collected_at": "2026-02-06T10:50:25.552000",
             "duration": 488.0,
             "title": "'쿠팡 청문회' 최민희 이주희 울었다 ... 국세청장 \"쿠팡 세무조사\"",
             "upload_date": null
@@ -860,7 +978,7 @@
             "url": "https://www.youtube.com/watch?v=db8_Xhr-aLw",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 539.0,
             "title": "이주희의원 과방위 첫데뷔!",
             "upload_date": null
@@ -870,7 +988,7 @@
             "url": "https://www.youtube.com/watch?v=JWZfL4vVmhE",
             "HG_NM": "이주희",
             "MONA_CD": "RBM5454A",
-            "collected_at": "2026-02-04T08:41:54.331000",
+            "collected_at": "2026-02-06T10:50:24.067000",
             "duration": 585.0,
             "title": "[생중계] 이주희 더불어민주당 의원 1호 법안, '고 정순규 방지법' 발의 기자회견 (2025.09.05 오전)",
             "upload_date": null
@@ -1382,5 +1500,5 @@
             "RST_PROPOSER": "이주희"
         }
     ],
-    "exported_at": "2026-02-04T18:40:35.539500"
+    "exported_at": "2026-02-06T15:38:51.445145"
 }

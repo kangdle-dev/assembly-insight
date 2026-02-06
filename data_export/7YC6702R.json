@@ -46,26 +46,26 @@
             "민주당",
             "공소",
             "취소",
+            "지역",
             "부천",
             "최고",
-            "위원",
             "검찰",
             "이재명",
             "사건",
-            "대표",
-            "정청래",
+            "위원",
             "조작",
             "기소",
-            "지역"
+            "대표",
+            "선거"
         ],
         "keyword_frequency": [
             {
                 "text": "대통령",
-                "value": 23
+                "value": 22
             },
             {
                 "text": "민주당",
-                "value": 20
+                "value": 18
             },
             {
                 "text": "공소",
@@ -76,15 +76,15 @@
                 "value": 17
             },
             {
+                "text": "지역",
+                "value": 16
+            },
+            {
                 "text": "부천",
                 "value": 15
             },
             {
                 "text": "최고",
-                "value": 15
-            },
-            {
-                "text": "위원",
                 "value": 15
             },
             {
@@ -100,11 +100,7 @@
                 "value": 14
             },
             {
-                "text": "대표",
-                "value": 14
-            },
-            {
-                "text": "정청래",
+                "text": "위원",
                 "value": 14
             },
             {
@@ -116,38 +112,42 @@
                 "value": 13
             },
             {
-                "text": "지역",
+                "text": "대표",
+                "value": 13
+            },
+            {
+                "text": "선거",
                 "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:30.108995",
+        "last_analyzed_at": "2026-02-06T15:38:45.533321",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                0,
                 0,
                 1,
                 1,
                 2,
+                0,
+                2,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"이건태 의원은 주로 공공 안전 및 사회 복지 분야에 집중하며, 개혁가적 입법 활동을 통해 국민의 안전과 생활 질 개선에 주력하고 있습니다. 특히 경찰공무원법, 근로기준법, 소상공인 보호 및 지원에 관한 법률 관련 법안들을 통해 국민의 실생활과 직결된 안전과 경제적 지원 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,60 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c638b0cf409697842d",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596448?sid=101",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "우원식 국회의장, 김진표 전 국회의장을 비롯해 강기정 광주광역시장, 신정훈·윤상현·송석준·조인철·김대식·박정·이건태·양부남·권향엽 국회의원 등 현직의원들도 빈소를 찾았다. 김두관·양향자·박준영 전 국회의원... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670366?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T11:36:00",
+            "related_members": [
+                "7YC6702R",
+                "EFU76868",
+                "4019850M",
+                "ANS8383S",
+                "CK143054",
+                "M7O7878U",
+                "CNW5754J",
+                "XBT9550Q",
+                "ZKB18611",
+                "MSY7784L",
+                "MLH1404S",
+                "ARP89147",
+                "V429892C",
+                "4L695580",
+                "M0A1658U"
+            ],
+            "title": "“지역경제 이끌어주신 큰 별이 졌다” 우원식 국회의장·김정관 산업장..."
+        },
+        {
+            "_id": "698545c638b0cf409697842e",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596311?sid=101",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "우원식 국회의장, 김진표 전 국회의장을 비롯해 강기정 광주광역시장, 신정훈·윤상현·송석준·조인철·김대식·박정·이건태·양부남·권향엽 등 현직 국회의원, 김두관 전 경남지사, 박준영 전 전남지사, 윤장현 전... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670207?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T10:34:00",
+            "related_members": [
+                "7YC6702R",
+                "EFU76868",
+                "4019850M",
+                "ANS8383S",
+                "CK143054",
+                "M7O7878U",
+                "CNW5754J",
+                "XBT9550Q",
+                "ZKB18611",
+                "MSY7784L",
+                "V429892C",
+                "MLH1404S",
+                "4L695580",
+                "M0A1658U",
+                "ARP89147"
+            ],
+            "title": "“지역 경제 이끌어주신 큰 어르신” 우원식 국회의장 등 정재계 발걸음..."
+        },
         {
             "_id": "6981c74838b0cf4096977b0d",
             "link": "https://n.news.naver.com/mnews/article/032/0003425551?sid=100",
@@ -305,7 +359,7 @@
             "_id": "6976fceb8459600028997f3e",
             "link": "https://n.news.naver.com/mnews/article/421/0008732861?sid=102",
             "created_at": "2026-01-26T14:34:32.940000",
-            "description": "이날 출판기념회에는 김승원(민주당 경기도당위원장), 김영진, 박성준, 전용기, 김기표, 김동아, 염태영, 이건태, 이상식 국회의원, 이재준 수원특례시장, 백군기 전 용인특례시장, 이종걸, 김병욱, 양정숙, 양이원영 전... ",
+            "description": "이날 2부에서는 ‘독한 소리를 한다’고 해 붙여진 ‘독소리’ 5형제(양문석·김준혁·부승찬 국회의원, 진석범 전 청와대 선임행정관, 현근택)이 추미애 법사위원장과 토크콘서트를 진행했다. 현 변호사가 12년간 이끌어온... ",
             "originallink": "https://www.news1.kr/local/gyeonggi/6050012",
             "press": "뉴스1",
             "pubDate": "2026-01-25T13:11:00",
@@ -712,57 +766,6 @@
                 "FOK3459D"
             ],
             "title": "민주 지도부 '친청계' 우세에 박지원 \"우린 모두 親청와대\" 원보이스 강..."
-        },
-        {
-            "_id": "6964b541631fd17434995feb",
-            "link": "https://n.news.naver.com/mnews/article/020/0003688513?sid=100",
-            "created_at": "2026-01-12T17:47:58.315000",
-            "description": "한 원내대표는 이날 국회에서 열린 민주당 의원총회에서 백혜련 의원(3선·경기 수원을)과의 결선 투표를 거쳐 당선됐다. 진성준(3선·서울 강서을) 박정(3선·경기 파주을) 의원(기호순)은 1차 투표에서 낙선했다. 원내대표... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260112/133134653/2",
-            "press": "동아일보",
-            "pubDate": "2026-01-12T04:32:00",
-            "related_members": [
-                "HSS7466Y",
-                "N2P9317N",
-                "2385336L",
-                "H5476989",
-                "8P37634C",
-                "GOC54665",
-                "3C23171A",
-                "4019850M",
-                "JG77046J",
-                "8BF5855P",
-                "RJH6314D",
-                "FOK3459D",
-                "7YC6702R",
-                "25G2571T",
-                "GF286398",
-                "BCQ55105",
-                "A494529E"
-            ],
-            "title": "한병도, 국회입성 동기 정청래와도 관계 원만 “당청 엇박자 없을것”"
-        },
-        {
-            "_id": "6964b560631fd17434996285",
-            "link": "https://n.news.naver.com/mnews/article/023/0003952328?sid=100",
-            "created_at": "2026-01-12T17:48:30.115000",
-            "description": "친명계 이건태 의원이 떨어지면서 친청계의 승리란 평가가 나왔다. 이 대통령의 대장동 변호사 출신인 이 의원은 국회의원 표가 많은 중앙위원 투표에선 3위를 기록했으나 권리당원 투표에서 꼴등을 기록해 낙선했다.... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2026/01/12/NLNUVXZ3UZCJXAHA64DJHD7X5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-12T00:58:00",
-            "related_members": [
-                "FOK3459D",
-                "8BF5855P",
-                "2385336L",
-                "7YC6702R",
-                "25G2571T",
-                "N2P9317N",
-                "GF286398",
-                "BCQ55105",
-                "8P37634C",
-                "GOC54665"
-            ],
-            "title": "최고위에 친청 5명·친명 4명… 정청래 입김 더 세진다"
         }
     ],
     "recent_videos": [
@@ -771,7 +774,7 @@
             "url": "https://www.youtube.com/watch?v=q2ly1jXo_qk",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:24.529000",
+            "collected_at": "2026-02-06T10:48:54.887000",
             "duration": 442.0,
             "title": "[국회의원 이건태] 대법원, 정치 판결로 전락  인권의 최후 보루는 어디에?",
             "upload_date": null
@@ -781,7 +784,7 @@
             "url": "https://www.youtube.com/watch?v=WG8YfCD-5BU",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:24.529000",
+            "collected_at": "2026-02-06T10:48:54.887000",
             "duration": 3711.0,
             "title": "[특집인터뷰] 검사 출신 이건태 의원 “저 검사는 진짜 나쁜 놈입니다” 폭탄 발언, 그가 지목한 ‘대상’ 공개!",
             "upload_date": null
@@ -791,7 +794,7 @@
             "url": "https://www.youtube.com/watch?v=7mOFu-VywVQ",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:24.529000",
+            "collected_at": "2026-02-06T10:48:54.887000",
             "duration": 336.0,
             "title": "[국회의원 이건태] 서희건설 ‘알박기’ 실태  조합원 피해는 누가 책임지나",
             "upload_date": null
@@ -821,7 +824,7 @@
             "url": "https://www.youtube.com/watch?v=MarWylP_JdM",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:25.832000",
+            "collected_at": "2026-02-06T10:48:56.377000",
             "duration": 1130.0,
             "title": "[뉴스하이킥] 최고위원 출마 '친명' 이건태의 출사표 그리고 명-청 갈등과 해법 - 이건태, MBC 251208 방송",
             "upload_date": null
@@ -851,7 +854,7 @@
             "url": "https://www.youtube.com/watch?v=ZiDzNxp6ut8",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:24.529000",
+            "collected_at": "2026-02-06T10:48:54.887000",
             "duration": 171.0,
             "title": "[백발백중 이건태의 3분 토크] 오늘의 토크 : 민주당 사법개혁안 발표",
             "upload_date": null
@@ -921,7 +924,7 @@
             "url": "https://www.youtube.com/watch?v=3PP5XNMzDWs",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:25.832000",
+            "collected_at": "2026-02-06T10:48:56.377000",
             "duration": 109.0,
             "title": "이건태, 친명 세 과시…정청래 겨냥 “엇박자” / 채널A / 뉴스A",
             "upload_date": null
@@ -931,7 +934,7 @@
             "url": "https://www.youtube.com/watch?v=UCoY-L8SXrFL3ALVNAWjaCOg",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:24.529000",
+            "collected_at": "2026-02-06T10:48:54.887000",
             "duration": null,
             "title": "이건태TV",
             "upload_date": null
@@ -941,7 +944,7 @@
             "url": "https://www.youtube.com/watch?v=qOdZ3ZFM6k0",
             "HG_NM": "이건태",
             "MONA_CD": "7YC6702R",
-            "collected_at": "2026-02-04T08:40:25.832000",
+            "collected_at": "2026-02-06T10:48:56.377000",
             "duration": 1341.0,
             "title": "[생중계] 이건태 더불어민주당 의원, 최고위원 출마 선언 기자회견 (2025.12.10 오전)",
             "upload_date": null
@@ -2433,5 +2436,5 @@
             "RST_PROPOSER": "이건태"
         }
     ],
-    "exported_at": "2026-02-04T18:40:30.109500"
+    "exported_at": "2026-02-06T15:38:45.533321"
 }

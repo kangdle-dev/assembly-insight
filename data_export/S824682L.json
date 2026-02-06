@@ -57,73 +57,69 @@
     },
     "analysis": {
         "keywords": [
-            "서울시장",
-            "출마",
             "대표",
+            "합당",
             "더불어민주당",
             "원내",
-            "민주당",
-            "합당",
-            "전현희",
-            "선언",
-            "서울",
+            "서울시장",
             "선거",
-            "간담회",
-            "해체",
+            "출마",
+            "민주당",
+            "정청래",
+            "전현희",
+            "당원",
+            "서울",
             "중계방송",
-            "혁신"
+            "초선",
+            "간담회"
         ],
         "keyword_frequency": [
             {
-                "text": "서울시장",
-                "value": 40
-            },
-            {
-                "text": "출마",
-                "value": 36
-            },
-            {
                 "text": "대표",
-                "value": 36
-            },
-            {
-                "text": "더불어민주당",
-                "value": 32
-            },
-            {
-                "text": "원내",
-                "value": 28
-            },
-            {
-                "text": "민주당",
-                "value": 25
+                "value": 50
             },
             {
                 "text": "합당",
-                "value": 23
+                "value": 33
             },
             {
-                "text": "전현희",
-                "value": 22
+                "text": "더불어민주당",
+                "value": 33
             },
             {
-                "text": "선언",
-                "value": 22
+                "text": "원내",
+                "value": 30
             },
             {
-                "text": "서울",
-                "value": 20
+                "text": "서울시장",
+                "value": 26
             },
             {
                 "text": "선거",
+                "value": 25
+            },
+            {
+                "text": "출마",
+                "value": 25
+            },
+            {
+                "text": "민주당",
+                "value": 22
+            },
+            {
+                "text": "정청래",
+                "value": 19
+            },
+            {
+                "text": "전현희",
                 "value": 16
             },
             {
-                "text": "간담회",
-                "value": 14
+                "text": "당원",
+                "value": 15
             },
             {
-                "text": "해체",
+                "text": "서울",
                 "value": 14
             },
             {
@@ -131,38 +127,42 @@
                 "value": 14
             },
             {
-                "text": "혁신",
-                "value": 13
+                "text": "초선",
+                "value": 12
+            },
+            {
+                "text": "간담회",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:14.448219",
+        "last_analyzed_at": "2026-02-06T15:38:31.057317",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                2,
                 0,
-                1,
-                5,
-                14,
+                0,
+                9,
                 7,
-                1
+                5,
+                9,
+                0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"박홍근 의원은 주로 교육, 복지 및 고용 분야에 집중하며, 개혁가적 입법 활동을 통해 사회적 약자와 일반 시민의 권익을 개선하는 데 주력하고 있습니다. 특히 느린학습자 교육 지원 및 남녀고용평등 관련 법안들을 통해 국민의 실생활과 직결된 복지 향상과 경제적 안정성을 만들어내는 행보를 보입니다.\"",
@@ -176,6 +176,288 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c038b0cf40969783c9",
+            "link": "https://n.news.naver.com/mnews/article/032/0003426185?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "계속 정청래 더불어민주당 대표가 5일 조국혁신당과 합당하는 문제로 당 초선 의원들을 만나 “쉬운 선거는... 정 대표는 이날 국회에서 초선 의원 모임(더민초) 30여명과 간담회를 하며 모두발언에서 “제가 (합당을) 긴급... ",
+            "originallink": "https://www.khan.co.kr/article/202602052027005",
+            "press": "경향신문",
+            "pubDate": "2026-02-05T20:27:00",
+            "related_members": [
+                "8P37634C",
+                "2385336L",
+                "NXB3178C",
+                "5765663F",
+                "S824682L",
+                "3LP22204"
+            ],
+            "title": "정청래 “선거 절박해 합당 제안한 것” 당권 장악론 재차 선긋기"
+        },
+        {
+            "_id": "698545c038b0cf40969783ca",
+            "link": "https://n.news.naver.com/mnews/article/032/0003426156?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "정청래 더불어민주당 대표가 5일 조국혁신당과의 합당을 놓고 당 초선 의원들을 만나 “쉬운 선거는 없고... 정 대표는 이날 국회에서 초선 의원 모임(더민초) 30여명과 간담회를 하며 모두발언에서 “제가 (합당을) 긴급... ",
+            "originallink": "https://www.khan.co.kr/article/202602051903001",
+            "press": "경향신문",
+            "pubDate": "2026-02-05T19:03:00",
+            "related_members": [
+                "8P37634C",
+                "2385336L",
+                "NXB3178C",
+                "5765663F",
+                "S824682L",
+                "3LP22204"
+            ],
+            "title": "정청래, ‘합당 반대’ 초선 의원들 만나 “선거 낙관해선 안돼”…초선..."
+        },
+        {
+            "_id": "698545c438b0cf4096978414",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119685?sid=100",
+            "created_at": "2026-02-06T10:37:06.899000",
+            "description": "두 사람은 김 전 의원을 지역구 국회의원 선거 후보자로 추천하는 일과 관련해서 김 전 의원 회계 책임자였던... 지금 앵커 설명하신 대로 그런 내용으로 정리가 되고, 그래서 한정애 정책위의장을 중심으로 지금까지... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478555&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T15:59:00",
+            "related_members": [
+                "G152611B",
+                "GDG1847Z",
+                "MNZ4401T",
+                "9D939735",
+                "5TQ6306B",
+                "S824682L",
+                "4X525582",
+                "6EN68926",
+                "MSY7784L",
+                "CGW7415Z",
+                "H5476989",
+                "XPP2564T"
+            ],
+            "title": "[사사건건] 여야 대표 모두 “전 당원 투표” 주장 의도는?"
+        },
+        {
+            "_id": "698545c038b0cf40969783ce",
+            "link": "https://n.news.naver.com/mnews/article/021/0002769148?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "더불어민주당 정청래 대표가 4일 국회에서 열린 최고위원회의를 마치고 이동하고 있다. 연합뉴스... 경기지사 선거에 나서는 한준호 의원은 MBC 라디오에서 “과정 관리에 실패한 지도부”라며 “왜 독단적으로 (합당)... ",
+            "originallink": "https://www.munhwa.com/article/11566415?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-02-05T12:01:00",
+            "related_members": [
+                "8P37634C",
+                "5TQ6306B",
+                "S824682L",
+                "2385336L",
+                "BCQ55105"
+            ],
+            "title": "“과정관리 실패 지도부” 與 합당 반대 서명 2만8천"
+        },
+        {
+            "_id": "698545e638b0cf40969784ea",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107253&s_mcd=0214&s_hcd=01",
+            "created_at": "2026-02-06T10:37:40.949000",
+            "description": "제가 좀 시민운동 하다가 늦게 들어왔는데, 운이 좋아서 또 주민의 사랑을 받아서 지금도 22대 국회 4선 이상 의원 중에서 가장 젊습니다. ◇김영수: 그렇군요. 젊은 4선 의원 박홍근 전 원내대표를 만나보겠습니다. 당내... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107253&s_mcd=0214&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-02-05T08:30:00",
+            "related_members": [
+                "S824682L",
+                "2385336L"
+            ],
+            "title": "'친명' 박홍근 \"李대통령에 찬물 끼얹은 정청래, 출구전략 찾아야... 강..."
+        },
+        {
+            "_id": "698545e638b0cf40969784eb",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310568?sid=100",
+            "created_at": "2026-02-06T10:37:40.949000",
+            "description": "제가 좀 시민운동 하다가 늦게 들어왔는데, 운이 좋아서 또 주민의 사랑을 받아서 지금도 22대 국회 4선 이상 의원 중에서 가장 젊습니다. ◇김영수: 그렇군요. 젊은 4선 의원 박홍근 전 원내대표를 만나보겠습니다. 당내... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602050812227942",
+            "press": "YTN",
+            "pubDate": "2026-02-05T08:12:00",
+            "related_members": [
+                "S824682L",
+                "2385336L"
+            ],
+            "title": "'친명' 박홍근 \"李대통령에 찬물 끼얹은 정청래, 출구전략 찾아야... 강..."
+        },
+        {
+            "_id": "698545ca38b0cf409697844c",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112589?sid=100",
+            "created_at": "2026-02-06T10:37:12.434000",
+            "description": "◇ 박재홍&gt; 근데 지금 지방선거에서 한동훈 전 대표에 대해서 국회의원 보궐선거에 무소속으로 출마해야... ◇ 박재홍&gt; 황명선 최고위원이랑 이언주 최고위원이 먹었대요. ◆ 서용주&gt; 그래요? ◇ 박재홍&gt; 예. ◆ 서용주... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6467165?utm_source=naver&utm_medium=article&utm_campaign=20260205073121",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-05T07:31:00",
+            "related_members": [
+                "MLH1404S",
+                "2385336L",
+                "S824682L",
+                "CGW7415Z",
+                "JG77046J",
+                "RJH6314D"
+            ],
+            "title": "서용주 \"민주-조국혁신당 합당, 지선 전에 될 듯\"[한판승부]"
+        },
+        {
+            "_id": "698545c038b0cf40969783d3",
+            "link": "https://n.news.naver.com/mnews/article/023/0003957258?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "정 대표는 “국회의원과의 토론회를 통해 경청의 시간을 갖겠다”고도 했다. 정 대표는 오는 5일 당 초선... 황명선 최고위원은 “합당 논의를 멈추는 결단을 촉구한다”며 “이번 지방선거는 ‘이재명 브랜드’의 선거”... ",
+            "originallink": "https://www.chosun.com/politics/assembly/2026/02/05/HZWI47NEFJAQTHAQ2TBALUFVQY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "press": "조선일보",
+            "pubDate": "2026-02-05T00:58:00",
+            "related_members": [
+                "8P37634C",
+                "S824682L",
+                "RJH6314D"
+            ],
+            "title": "‘1인 1표’ 산 넘으니 ‘합당 논의’ 더 큰 산"
+        },
+        {
+            "_id": "698545cf38b0cf4096978467",
+            "link": "https://n.news.naver.com/mnews/article/005/0001830347?sid=100",
+            "created_at": "2026-02-06T10:37:17.688000",
+            "description": "이어 “국회의원과 당원들에게 동등한 발언권, 토론권을 보장해야 할 것”이라고 덧붙였다. 한 민주당... 이언주 황명선 강득구 세 명의 최고위원은 이날 공개회의 발언을 통해 합당 논의를 중단하고 지방선거 이후로 미룰... ",
+            "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1770195080&code=11121100&cp=nv",
+            "press": "국민일보",
+            "pubDate": "2026-02-05T00:06:00",
+            "related_members": [
+                "5765663F",
+                "2385336L",
+                "S824682L",
+                "JG77046J",
+                "RJH6314D",
+                "8P37634C"
+            ],
+            "title": "합당 불지피기 나선 정청래, 토론·전당원 여론조사 예고"
+        },
+        {
+            "_id": "698545c238b0cf40969783f6",
+            "link": "https://n.news.naver.com/mnews/article/028/0002789992?sid=100",
+            "created_at": "2026-02-06T10:37:04.853000",
+            "description": "비판했고, 황명선 최고위원도 “더 이상 논쟁을 키우기보다 당원과 혁신당 쪽에 양해를 구하고 지방선거... 정 대표는 5일과 10일 각각 민주당 초선, 재선 의원들을 만나 합당과 관련된 의견을 수렴하는 한편, “국회의원과... ",
+            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1243373.html",
+            "press": "한겨레",
+            "pubDate": "2026-02-04T20:32:00",
+            "related_members": [
+                "5KV96424",
+                "S824682L",
+                "BCQ55105",
+                "RJH6314D"
+            ],
+            "title": "‘혁신당과 합당’ 두고 민주 내홍 확산…“전당원 여론조사”로 기름..."
+        },
+        {
+            "_id": "698545e638b0cf40969784ec",
+            "link": "https://n.news.naver.com/mnews/article/421/0008754112?sid=100",
+            "created_at": "2026-02-06T10:37:40.950000",
+            "description": "그는 \"언론에서도 국회의원 간 논란, 토론 여부 이런 것만 보도되는데 정작 당의 주인인 당원들은 토론에서... 최고위원을 지낸 한준호 의원도 이날 YTN 라디오 '김영수의 더 인터뷰'에서 정 대표의 입장에 대해 \"지도자로서는... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6062191",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T18:37:00",
+            "related_members": [
+                "S824682L",
+                "2385336L",
+                "BCQ55105"
+            ],
+            "title": "의원 반발 부딪힌 합당 논의…정청래, '全당원 투표·여론조사로 돌파 ..."
+        },
+        {
+            "_id": "698545e638b0cf40969784ed",
+            "link": "https://n.news.naver.com/mnews/article/011/0004586750?sid=100",
+            "created_at": "2026-02-06T10:37:40.950000",
+            "description": "“저는 국회의원과의 토론을 통해 경청의 시간을 갖도록 하겠다”고 말했다. 이어 “원래 합당 여부는... 황명선 최고위원도 “합당 논의를 멈추는 대표님의 결단을 촉구한다”며 “이제는 더 이상 논쟁을 키우기보다... ",
+            "originallink": "https://www.sedaily.com/article/20005017?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-04T18:24:00",
+            "related_members": [
+                "S824682L",
+                "JG77046J",
+                "2385336L",
+                "RJH6314D"
+            ],
+            "title": "정청래 “全당원 여론조사하자”...이언주 “대권 알박기”"
+        },
+        {
+            "_id": "698545c638b0cf4096978430",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595511?sid=100",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "서영교 의원실 제공 서영교 더불어민주당 국회의원은 지난 3일 국회의원회관 대회의실에서 저서 ‘빛의 혁명... 허종식·홍기원·이성윤·권향엽·김기표·김남근·김동아·김성회·김우영·김윤·박균택·박민규·박정현... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669097?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T08:47:00",
+            "related_members": [
+                "IUX1829H",
+                "3CC88975",
+                "EFU76868",
+                "N2P9317N",
+                "5N65159P",
+                "IWR8966I",
+                "88O1334C",
+                "4019850M",
+                "TKJ4800F",
+                "43Q3892U",
+                "MIS62075",
+                "M4O5221T",
+                "3UI95829",
+                "HVV5250J",
+                "ZW43496R",
+                "H5476989",
+                "HSS7466Y",
+                "ZDR63255",
+                "04T3751T",
+                "URV1689Q",
+                "S824682L",
+                "M7O7878U",
+                "1WE5693J",
+                "GX38539O",
+                "6AU2417B",
+                "X1K3667J",
+                "5765663F",
+                "7BM2933Y",
+                "8P37634C",
+                "FJK3396E",
+                "IN328264",
+                "FOK3459D",
+                "8BF5855P",
+                "MDC3257K",
+                "51A45980",
+                "CK143054",
+                "BRU2690F",
+                "XR24352K",
+                "CCU1009B",
+                "ATB59635",
+                "5MD4184K",
+                "VRY5522V",
+                "OFE45081",
+                "B7D7534L",
+                "9JF4562W",
+                "25G2571T",
+                "VCP96419",
+                "0R68099X",
+                "D6U6678O",
+                "IL74008M",
+                "MQK9493H",
+                "AEO5706C",
+                "95J3282H",
+                "6K79158C",
+                "8TU8443O",
+                "NA61091D",
+                "1S05899F",
+                "RKS3658I",
+                "IC499858",
+                "9HE7226N",
+                "5762459L",
+                "X639721U",
+                "1A82234K",
+                "CC78321E",
+                "T4I4862D",
+                "EBH1101V",
+                "RQQ3807K"
+            ],
+            "title": "서영교 의원, ‘빛의 혁명, 빛의 명령’ 북콘서트 성황…수천명 운집"
+        },
         {
             "_id": "6982826b38b0cf4096977cbc",
             "link": "https://n.news.naver.com/mnews/article/023/0003957004?sid=100",
@@ -209,7 +491,7 @@
             "_id": "6982828438b0cf4096977cd4",
             "link": "https://n.news.naver.com/mnews/article/016/0002595414?sid=102",
             "created_at": "2026-02-04T08:19:30.959000",
-            "description": "“일은 보장한다”…현직·전직 단체장들의 증언 이날 출판기념회에는 전현희·박성준 국회의원, 고흥 출신... 정청래 더불어민주당 대표의 문자 메시지와 안규백 국방장관의 영상 축사도 소개되며 분위기를 달궜다.... ",
+            "description": "“일은 보장한다”…현직·전직 단체장들의 증언 이날 출판기념회에는 전현희· 박성준 국회의원, 고흥 출신 박홍근 의원, 류씨 종친회장인 류준상 전 의원, 남연희 성동구의회 의장 등이 참석했다. 특히 정원오 구청장과... ",
             "originallink": "https://biz.heraldcorp.com/article/10668993?ref=naver",
             "press": "헤럴드경제",
             "pubDate": "2026-02-03T22:24:00",
@@ -220,7 +502,7 @@
                 "TST4507I",
                 "2385336L"
             ],
-            "title": "고흥 바닷가 소년, 성동부구청장 거쳐 구청장 도전까지"
+            "title": "고흥 바닷가 소년, 성동부구청장 거쳐 구청장 도전...유보화의 서사"
         },
         {
             "_id": "6981c72f38b0cf4096977ac7",
@@ -286,7 +568,7 @@
             "_id": "6981c73938b0cf4096977aef",
             "link": "https://n.news.naver.com/mnews/article/056/0012117882?sid=100",
             "created_at": "2026-02-03T19:00:22.278000",
-            "description": "그렇지만 국회의원 몇 분이 내려오라고 해서 내려오는 게 과연 책임 있는 자세인지 모르겠고요. 그래서 김용태 전 비대위원장 같은 경우 그리고 임이자 의원 같은 경우가 그럼 재신임을 받아보자 했습니다. 임이자 의원... ",
+            "description": "이게 왜 그 당 대표와 최고위원 선거에서 민주당 소속의 국회의원이랄지 지방 의원이랄지 단체장이랄지 이런... 많은 의원들의 공감대가 좀 있다고 봅니다. ◎김용준: 그래요. ▼김기흥: 그러다 보니까 우재준 최고위원 같은... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476189&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-03T15:59:00",
@@ -317,7 +599,7 @@
             "_id": "69814aef38b0cf409697772e",
             "link": "https://n.news.naver.com/mnews/article/079/0004111616?sid=100",
             "created_at": "2026-02-03T10:10:05.662000",
-            "description": "민주당 전현희 의원은 2일 국회에서 기자회견을 열고 \"강남과 강북을 아우르는 서울시장이 되겠다\"며 서울시장 출사표를 던졌다. 그는 \"돈 벌어오는 최고경영자(CEO) 서울시장 되겠다\"며 공약으로 동대문디자인플라자... ",
+            "description": "민주당 전현희 의원은 2일 국회에서 기자회견을 열고 \"강남과 강북을 아우르는 서울시장이 되겠다\"며... 전 의원의 출마 선언은 민주당 박홍근·서영교·박주민·김영배 의원 등에 이어 다섯 번째다. 이날 김형남 전... ",
             "originallink": "https://www.nocutnews.co.kr/news/6465710?utm_source=naver&utm_medium=article&utm_campaign=20260203070358",
             "press": "노컷뉴스",
             "pubDate": "2026-02-03T05:01:00",
@@ -331,35 +613,10 @@
             "title": "오세훈 상대 여당 후보 최소 8명!…후발 정원오 여전히 '아직'"
         },
         {
-            "_id": "69814af538b0cf4096977760",
-            "link": "https://n.news.naver.com/mnews/article/421/0008749430?sid=100",
-            "created_at": "2026-02-03T10:10:11.823000",
-            "description": "글로벌문화관광특구 국회토론회 (의원회관 제5간담회의실) 10:00 조정훈 의원실, 전공대학의 평생학습 기회 확대를 위한 간담회 (의원회관 제3간담회의실) 14:00 정희용 의원실, 산림재난 대응체계의 패러다임 전환... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6059620",
-            "press": "뉴스1",
-            "pubDate": "2026-02-03T05:00:00",
-            "related_members": [
-                "WJL30106",
-                "PFG2137X",
-                "M2Q9024I",
-                "YM42715P",
-                "NPD75153",
-                "WXJ8352N",
-                "1WE5693J",
-                "S824682L",
-                "7YL9580G",
-                "KBK8836C",
-                "YS38221N",
-                "3TP65086",
-                "P8A4624C"
-            ],
-            "title": "[오늘의 국회일정] (3일, 화)"
-        },
-        {
             "_id": "69814af538b0cf409697775f",
             "link": "https://n.news.naver.com/mnews/article/003/0013744606?sid=100",
             "created_at": "2026-02-03T10:10:11.823000",
-            "description": "글로벌문화관광특구 국회토론회(의원회관 제5간담회의실) 10:00 조정훈 의원실, 전공대학의 평생학습 기회 확대를 위한 간담회(의원회관 제3간담회의실) 14:00 정희용 의원실, 산림재난 대응체계의 패러다임 전환... ",
+            "description": "장애여성 국회의원 - 국회의장 간담회(국회접견실) 14:00 한국법학교수회 회장 접견(의장집무실) 15:00... 힘」(의원회관 제1소회의실) 09:30 최민희 의원실 등, 대한민국 QUANTUM LEAP!을 위한 양자 포럼(의원회관... ",
             "originallink": "https://www.newsis.com/view/NISX20260202_0003499767",
             "press": "뉴시스",
             "pubDate": "2026-02-03T05:00:00",
@@ -379,6 +636,31 @@
                 "WJL30106"
             ],
             "title": "[오늘의 주요일정]국회(2월3일 화요일)"
+        },
+        {
+            "_id": "69814af538b0cf4096977760",
+            "link": "https://n.news.naver.com/mnews/article/421/0008749430?sid=100",
+            "created_at": "2026-02-03T10:10:11.823000",
+            "description": "장애인권리위원장-장애여성 국회의원-국회의장 간담회 (국회접견실) 14:00 한국법학교수회 회장 접견... 힘」 (의원회관 제1소회의실) 09:30 최민희 의원실 등, 대한민국 QUANTUM LEAP!을 위한 양자 포럼 (의원회관... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6059620",
+            "press": "뉴스1",
+            "pubDate": "2026-02-03T05:00:00",
+            "related_members": [
+                "WJL30106",
+                "PFG2137X",
+                "M2Q9024I",
+                "YM42715P",
+                "NPD75153",
+                "WXJ8352N",
+                "1WE5693J",
+                "S824682L",
+                "7YL9580G",
+                "KBK8836C",
+                "YS38221N",
+                "3TP65086",
+                "P8A4624C"
+            ],
+            "title": "[오늘의 국회일정] (3일, 화)"
         },
         {
             "_id": "69814b0638b0cf40969777a5",
@@ -533,248 +815,6 @@
                 "B7D7534L"
             ],
             "title": "전현희, 서울시장 출마...\"DDP 해체하고 '서울 돔' 건설\""
-        },
-        {
-            "_id": "69814aef38b0cf4096977736",
-            "link": "https://n.news.naver.com/mnews/article/015/0005245507?sid=102",
-            "created_at": "2026-02-03T10:10:05.664000",
-            "description": "받아 국회의원을 하고 있는 강남북을 아우르는 유일한 서울시장 후보\"라며 \"엄마의 마음으로 서울 구석구석... 이번 지방선거에서 민주당에서는 박홍근·서영교·박주민·김영배 의원 등이 서울시장 선거 출마를 선언했다.... ",
-            "originallink": "https://www.hankyung.com/article/2026020280857",
-            "press": "한국경제",
-            "pubDate": "2026-02-02T13:19:00",
-            "related_members": [
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "6AU2417B",
-                "B7D7534L"
-            ],
-            "title": "전현희 서울시장 출마 선언…\"강남·강북 아우르겠다\""
-        },
-        {
-            "_id": "69814aef38b0cf4096977737",
-            "link": "https://n.news.naver.com/mnews/article/028/0002789517?sid=100",
-            "created_at": "2026-02-03T10:10:05.664000",
-            "description": "전 의원은 다른 후보들과 차별화된 자신의 장점으로 △서울 강남을 국회의원 당선 경험(2016년) △여성 시장... 올해 6·3 지방선거에서 서울시장에 출마를 선언한 현역 민주당 의원은 박홍근·서영교(4선), 박주민·전현희... ",
-            "originallink": "https://www.hani.co.kr/arti/politics/politics_general/1242870.html",
-            "press": "한겨레",
-            "pubDate": "2026-02-02T12:44:00",
-            "related_members": [
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "6AU2417B",
-                "B7D7534L"
-            ],
-            "title": "전현희 서울시장 출마 선언…“DDP 해체, K팝 공연장 건립” 첫 공약"
-        },
-        {
-            "_id": "69814aef38b0cf4096977738",
-            "link": "https://n.news.naver.com/mnews/article/437/0000476363?sid=100",
-            "created_at": "2026-02-03T10:10:05.664000",
-            "description": "그러면서 변호사로서 로펌 대표변호사를 했던 경력과 치과의사 이력, 3선 국회의원과 국민 권익위원장을... 전 의원의 출마선언으로 민주당에선 김영배ㆍ박주민ㆍ박홍근ㆍ서영교 의원 등 지금까지 출마를 선언한 현역... ",
-            "originallink": "https://news.jtbc.co.kr/article/NB12282931?influxDiv=NAVER",
-            "press": "JTBC",
-            "pubDate": "2026-02-02T12:13:00",
-            "related_members": [
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "6AU2417B",
-                "B7D7534L"
-            ],
-            "title": "전현희 \"DDP 해체하고 서울 돔 지을 것” 서울시장 출마 선언...“돈 벌..."
-        },
-        {
-            "_id": "69814b0438b0cf40969777a2",
-            "link": "https://n.news.naver.com/mnews/article/023/0003956605?sid=100",
-            "created_at": "2026-02-03T10:10:26.343000",
-            "description": "전 의원은 또 “강남에서 민주당 출신이지만 주민들의 선택을 받아 국회의원을 했고, 강북 지역 성동에서... 한편 민주당에선 현재까지 전 의원 외에 김영배·박주민·박홍근·서영교 의원 등 4명이 공식 출마 선언을 했다.... ",
-            "originallink": "https://www.chosun.com/politics/politics_general/2026/02/02/7SEMXWRXQBDDPBA32JKBZQIV4Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-02-02T11:02:00",
-            "related_members": [
-                "25G2571T",
-                "TKJ4800F",
-                "S824682L",
-                "6AU2417B",
-                "B7D7534L"
-            ],
-            "title": "與 전현희, 서울시장 출마… “DDP 해체하고 돔 아레나 짓겠다”"
-        },
-        {
-            "_id": "697ff0f938b0cf40969772fe",
-            "link": "https://n.news.naver.com/mnews/article/020/0003694153?sid=100",
-            "created_at": "2026-02-02T09:34:00.936000",
-            "description": "처리되는 국회 본회의장에서 적절치 않은 모습이 보인 것에 대해 죄송하게 생각한다”고 했다. 이런 가운데 김 총리와 가까운 채현일 의원은 1일 페이스북에 “‘어떤 경우에도 정치인 조국이 사라져선 안 된다’는 기조가... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260202/133276286/2",
-            "press": "동아일보",
-            "pubDate": "2026-02-02T04:34:00",
-            "related_members": [
-                "8P37634C",
-                "2385336L",
-                "MLH1404S",
-                "5TQ6306B",
-                "S824682L",
-                "1S05899F",
-                "BCQ55105"
-            ],
-            "title": "“합당 멈춰라” “당무개입 말라”… 김민석-정청래 당권다툼 전초전"
-        },
-        {
-            "_id": "697ff0f938b0cf4096977300",
-            "link": "https://n.news.naver.com/mnews/article/020/0003694065?sid=100",
-            "created_at": "2026-02-02T09:34:00.936000",
-            "description": "처리되는 국회 본회의장에서 적절치 않은 모습이 보인 것에 대해 죄송하게 생각한다”고 했다. 이런 가운데 김 총리와 가까운 채현일 의원은 1일 페이스북에 “‘어떤 경우에도 정치인 조국이 사라져선 안 된다’는 기조가... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260201/133274987/1",
-            "press": "동아일보",
-            "pubDate": "2026-02-01T23:26:00",
-            "related_members": [
-                "8P37634C",
-                "2385336L",
-                "MLH1404S",
-                "5TQ6306B",
-                "S824682L",
-                "1S05899F",
-                "BCQ55105"
-            ],
-            "title": "“합당 멈춰라” “당무개입 말라” 김민석-정청래 당권다툼 전초전"
-        },
-        {
-            "_id": "697ff10338b0cf4096977327",
-            "link": "https://n.news.naver.com/mnews/article/022/0004102286?sid=100",
-            "created_at": "2026-02-02T09:34:11.528000",
-            "description": "與 한준호, 합당 논의 중단 촉구해 “충분한 숙의 없는 통합, 분열 촉발” 채현일 “조국 지키기가... 여의도 국회 의원회관에서 이 전 총리 영결식을 마친 뒤 영정 행렬을 따라 건물을 나서고 있다. 이 대통령은 부인 김혜경... ",
-            "originallink": "https://www.segye.com/newsView/20260201508145?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-02-01T19:09:00",
-            "related_members": [
-                "BCQ55105",
-                "2385336L",
-                "MLH1404S",
-                "S824682L",
-                "N2P9317N",
-                "JG77046J",
-                "0698755I",
-                "1S05899F",
-                "0YT3774N"
-            ],
-            "title": "애도 끝 민주, 합당 파열음 재분출… 혁신당 “집안 정리부터”"
-        },
-        {
-            "_id": "697ff10838b0cf4096977340",
-            "link": "https://n.news.naver.com/mnews/article/421/0008746882?sid=100",
-            "created_at": "2026-02-02T09:34:16.726000",
-            "description": "또다른 친명계인 채현일 의원도 SNS 글에서 혁신당을 향해 \"불필요한 오해가 확산하지 않도록 혁신당이... 혁신당은 국회의원이 12명임에도 후보를 내지 않았다\"며 \"정치적·정책적으로 큰 차이가 없는 경우이기 때문에 이... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6058097",
-            "press": "뉴스1",
-            "pubDate": "2026-02-01T18:40:00",
-            "related_members": [
-                "5765663F",
-                "S824682L",
-                "NPD75153",
-                "N2P9317N",
-                "2385336L",
-                "JG77046J",
-                "0698755I",
-                "1S05899F",
-                "XPP2564T",
-                "BCQ55105"
-            ],
-            "title": "민주, 합당 놓고 내부 신경전 재점화…혁신당과 노선갈등도 부상(종합2..."
-        },
-        {
-            "_id": "697ff0f938b0cf4096977301",
-            "link": "https://n.news.naver.com/mnews/article/015/0005245228?sid=100",
-            "created_at": "2026-02-02T09:34:00.936000",
-            "description": "친명(친이재명)계 인사인 한준호 의원은 이날 국회 기자회견에서 “혁신당과의 합당 제안은 여기에서... 또 다른 친명계이자 김민석 국무총리와 가까운 채현일 의원도 가세했다. 채 의원은 SNS에 “‘어떤 경우에도 정치인... ",
-            "originallink": "https://www.hankyung.com/article/2026020164401",
-            "press": "한국경제",
-            "pubDate": "2026-02-01T17:58:00",
-            "related_members": [
-                "8P37634C",
-                "BCQ55105",
-                "RJH6314D",
-                "JG77046J",
-                "1S05899F",
-                "MLH1404S",
-                "S824682L",
-                "0698755I"
-            ],
-            "title": "이해찬 장례 끝나자 '명청대전' 재점화…혁신당 합당 반대 목소리 '봇물..."
-        },
-        {
-            "_id": "697ff11f38b0cf4096977376",
-            "link": "https://n.news.naver.com/mnews/article/003/0013742116?sid=100",
-            "created_at": "2026-02-02T09:34:39.244000",
-            "description": "친명(친이재명)계 인사인 한준호 민주당 의원은 1일 국회에서 기자회견을 열고 \"조국혁신당과의 합당 제안은... 채현일 민주당 의원도 이날 페이스북에 합당이 상시적인 정책 노선 갈등, 중도층 이탈로 이어질 우려가 있다며... ",
-            "originallink": "https://www.newsis.com/view/NISX20260201_0003498013",
-            "press": "뉴시스",
-            "pubDate": "2026-02-01T16:55:00",
-            "related_members": [
-                "BCQ55105",
-                "S824682L",
-                "NPD75153",
-                "JG77046J",
-                "0698755I",
-                "1S05899F"
-            ],
-            "title": "與 \"합당 멈춰야\" 이견 재분출…조국혁신당 \"내부 정리부터\"(종합)"
-        },
-        {
-            "_id": "697ff10038b0cf409697731a",
-            "link": "https://n.news.naver.com/mnews/article/023/0003956355?sid=004",
-            "created_at": "2026-02-02T09:34:07.998000",
-            "description": "5선 국회의원의 정치 경력, 높은 인지도, 과거 서울시장 준비 경력 W 참신성·개혁 이미지 부재 O 비교적... 더불어민주당에서는 해양수산부 장관직에서 물러난 전재수 의원이 가장 유력한 후보로 꼽힙니다. 전 의원은... ",
-            "originallink": "https://www.chosun.com/monthly/monthly_politics/2026/01/31/VTDHZPP2CRAIJHR57ZCBATAQGE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-31T05:01:00",
-            "related_members": [
-                "X1K3667J",
-                "LH97552Q",
-                "B7D7534L",
-                "TKJ4800F",
-                "6AU2417B",
-                "25G2571T",
-                "SLW27496",
-                "BT62420K",
-                "2385336L",
-                "S824682L",
-                "OWD1018N",
-                "9YO73104"
-            ],
-            "title": "오세훈 대항마로 여야에 무려 7명... 지방선거 SWOT 분석 ①서울·부산·..."
-        },
-        {
-            "_id": "697cbd3c38b0cf4096976bc0",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307501?sid=100",
-            "created_at": "2026-01-30T23:16:28.422000",
-            "description": "■ 진행 : 나경철 앵커 ■ 출연 : 박홍근 더불어민주당 의원, 윤영석 국민의힘 의원 * 아래 텍스트는 실제 방송... 나오건 국회의원 보궐선거에 나오건 해서 자기의 역량, 기반을 가지고 다시 성공하는 모델을 만들어서... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0134_202601291248265596",
-            "press": "YTN",
-            "pubDate": "2026-01-29T12:48:00",
-            "related_members": [
-                "9VR65006",
-                "S824682L",
-                "KFM1081G"
-            ],
-            "title": "결국 한동훈 지운 장동혁...5년간 재입당 불가 [이슈톺]"
-        },
-        {
-            "_id": "697cbd1c38b0cf4096976a7d",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307490?sid=100",
-            "created_at": "2026-01-30T23:15:56.195000",
-            "description": "[윤영석] 저는 권성동 의원을 사실 같은 국회의원을 같은 당에서 오랫동안 해 왔기 때문에 권성동 의원의 평소 그런 걸 잘 제가 알고 있습니다. 지금도 결백을 주장하고 있고. 저는 결코 그러한 부정한 돈을 받을 사람이... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601291137582497",
-            "press": "YTN",
-            "pubDate": "2026-01-29T11:37:00",
-            "related_members": [
-                "9VR65006",
-                "GDG1847Z",
-                "S824682L",
-                "9YO73104"
-            ],
-            "title": "[시사정각] 국민의힘 한동훈 제명...본격 내전 시작되나?"
         }
     ],
     "recent_videos": [
@@ -959,7 +999,7 @@
             "url": "https://www.youtube.com/watch?v=0hiWYWXPOi0",
             "HG_NM": "박홍근",
             "MONA_CD": "S824682L",
-            "collected_at": "2026-02-04T08:36:46.322000",
+            "collected_at": "2026-02-06T10:45:17.812000",
             "duration": 348.0,
             "source": "KBS뉴스",
             "title": "[풀영상] 더불어민주당 의원총회/박홍근 원내대표 등 참석/2022년 11월 22일(월)/KBS",
@@ -1745,5 +1785,5 @@
             "RST_PROPOSER": "박홍근"
         }
     ],
-    "exported_at": "2026-02-04T18:40:14.448219"
+    "exported_at": "2026-02-06T15:38:31.058319"
 }

@@ -43,52 +43,64 @@
     "analysis": {
         "keywords": [
             "제주",
-            "문대",
             "민주당",
-            "선거",
             "후보",
-            "지방",
-            "도지사",
+            "문대",
+            "선거",
             "위성",
-            "정청래",
-            "위원장",
+            "도지사",
+            "국민",
+            "지사",
             "더불어민주당",
-            "이재명",
-            "서귀포시",
-            "대표",
-            "일정"
+            "위원장",
+            "정청래",
+            "지방",
+            "영훈",
+            "서귀포시"
         ],
         "keyword_frequency": [
             {
                 "text": "제주",
-                "value": 62
-            },
-            {
-                "text": "문대",
-                "value": 25
+                "value": 66
             },
             {
                 "text": "민주당",
-                "value": 24
-            },
-            {
-                "text": "선거",
-                "value": 23
+                "value": 29
             },
             {
                 "text": "후보",
+                "value": 23
+            },
+            {
+                "text": "문대",
+                "value": 22
+            },
+            {
+                "text": "선거",
                 "value": 21
             },
             {
-                "text": "지방",
-                "value": 16
+                "text": "위성",
+                "value": 18
             },
             {
                 "text": "도지사",
-                "value": 15
+                "value": 18
             },
             {
-                "text": "위성",
+                "text": "국민",
+                "value": 13
+            },
+            {
+                "text": "지사",
+                "value": 13
+            },
+            {
+                "text": "더불어민주당",
+                "value": 12
+            },
+            {
+                "text": "위원장",
                 "value": 12
             },
             {
@@ -96,58 +108,46 @@
                 "value": 12
             },
             {
-                "text": "위원장",
+                "text": "지방",
                 "value": 11
             },
             {
-                "text": "더불어민주당",
-                "value": 11
-            },
-            {
-                "text": "이재명",
-                "value": 11
+                "text": "영훈",
+                "value": 10
             },
             {
                 "text": "서귀포시",
                 "value": 10
-            },
-            {
-                "text": "대표",
-                "value": 10
-            },
-            {
-                "text": "일정",
-                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:06.018440",
+        "last_analyzed_at": "2026-02-06T15:38:23.470184",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
-                2,
                 0,
                 0,
                 6,
                 3,
-                0
+                1,
+                4,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"문대림 의원은 주로 농어업 및 해양 산업에 집중하며, 보호자적 입법 활동을 통해 지역 경제와 사회적 안전을 개선하는 데 주력하고 있습니다. 특히 양식산업발전법과 농수산물 유통 및 가격안정 관련 법안들을 통해 국민의 실생활과 직결된 경제적 안정성을 만들어내는 행보를 보입니다.\"",
@@ -162,10 +162,94 @@
     },
     "recent_news": [
         {
+            "_id": "698545db38b0cf40969784ad",
+            "link": "https://n.news.naver.com/mnews/article/056/0012120225?sid=100",
+            "created_at": "2026-02-06T10:37:29.443000",
+            "description": "[오영훈/제주도지사 : \"(이한주) 이사장님께서 만들어 오셨던 기본사회 개념, 기본 소득을 어떤 방식으로 제주에서 만들어 나갈 것인가의 고민이 구체적으로 진행되고 있는데요.\"] [위성곤/더불어민주당 국회의원... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8479298&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-06T08:37:00",
+            "related_members": [
+                "RQQ3807K",
+                "D9I3309M"
+            ],
+            "title": "‘대통령 40년 지기 멘토’ 이한주 정책 특보 제주 방문…오영훈·위성..."
+        },
+        {
+            "_id": "698545db38b0cf40969784ae",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119979?sid=100",
+            "created_at": "2026-02-06T10:37:29.443000",
+            "description": "[오영훈/제주도지사 : \"(이한주) 이사장님께서 만들어 오셨던 기본사회 개념, 기본 소득을 어떤 방식으로 제주에서 만들어 나갈 것인가의 고민이 구체적으로 진행되고 있는데요.\"] [위성곤/더불어민주당 국회의원... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478985&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T21:50:00",
+            "related_members": [
+                "RQQ3807K",
+                "D9I3309M"
+            ],
+            "title": "‘대통령 40년 지기 멘토’ 이한주 정책 특보 제주 방문…오영훈·위성..."
+        },
+        {
+            "_id": "698545db38b0cf40969784af",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119892?sid=100",
+            "created_at": "2026-02-06T10:37:29.443000",
+            "description": "위성곤 국회의원은 13%, 고기철 국민의힘 제주도당위원장 8%순이고요. 송재호 전 국회의원 7%, 문성유 전 기획재정부 기획조정실장 4% 순이었습니다. 김승욱 전 국민의힘 제주도당위원장은 2%, 김명호 진보당... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478831&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T19:45:00",
+            "related_members": [
+                "RQQ3807K",
+                "D9I3309M"
+            ],
+            "title": "[시시각각] 제주 언론 5사 도지사 여론조사 결과, 평가는?"
+        },
+        {
+            "_id": "698545db38b0cf40969784b0",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119762?sid=100",
+            "created_at": "2026-02-06T10:37:29.443000",
+            "description": "[오영훈/제주도지사 : \"(이한주) 이사장님께서 만들어 오셨던 기본사회 개념, 기본 소득을 어떤 방식으로 제주에서 만들어 나갈 것인가의 고민이 구체적으로 진행되고 있는데요.\"] [위성곤/더불어민주당 국회의원... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478683&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T19:01:00",
+            "related_members": [
+                "RQQ3807K",
+                "D9I3309M"
+            ],
+            "title": "‘대통령 40년 지기 멘토’ 이한주 정책 특보 제주 방문…오영훈·위성..."
+        },
+        {
+            "_id": "698545db38b0cf40969784b1",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112979?sid=102",
+            "created_at": "2026-02-06T10:37:29.443000",
+            "description": "이어 위성곤 국회의원(민주당, 서귀포시)이 13%, 고기철 국민의힘 도당위원장 8%, 송재호 전 국회의원(민주당) 7%, 문성유 전 기재부 기획조정실장(국민의힘) 4%, 김승욱 전 국민의힘 도당위원장 2%, 김명호 진보당... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6467773?utm_source=naver&utm_medium=article&utm_campaign=20260205052325",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-05T17:24:00",
+            "related_members": [
+                "D9I3309M",
+                "RQQ3807K"
+            ],
+            "title": "제주지사 선거 민주당 후보끼리 선두 경쟁…국힘 어쩌나"
+        },
+        {
+            "_id": "698545db38b0cf40969784b2",
+            "link": "https://n.news.naver.com/mnews/article/421/0008752361?sid=102",
+            "created_at": "2026-02-06T10:37:29.443000",
+            "description": "오 지사는 4일 도청 소통회의실에서 열린 출입기자 간담회에서 같은 당 문대림(제주시갑)·위성곤 국회의원(서귀포시)이 최근 민선 8기 제주도정에 대해 비판적인 태도를 보이는 것에 대한 입장을 묻자 \"함께 걸어왔던... ",
+            "originallink": "https://www.news1.kr/local/jeju/6061479",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T10:19:00",
+            "related_members": [
+                "RQQ3807K",
+                "D9I3309M"
+            ],
+            "title": "민주당 내부 비판에 오영훈 제주지사 \"선은 넘지 말자\""
+        },
+        {
             "_id": "69814afb38b0cf4096977781",
             "link": "https://n.news.naver.com/mnews/article/056/0012117540?sid=100",
             "created_at": "2026-02-03T10:10:18.045000",
-            "description": "지방선거 시계가 빨라지는 가운데 후보군의 공식 출마 선언이 잇따랐고, 현직 국회의원들도 본격적인 채비에... 서귀포시지역위원장직을 내려놓은 민주당 위성곤 의원도 입장문을 통해 \"무거운 소명감으로 더 험하고 더... ",
+            "description": "이제는 제주가 돈 버는 것이 아니라 도민이 돈 버는 구조로 바꿔야 합니다.\"] 현직 국회의원들도 잇따라 당직을 내려놓으며 선거 채비에 나섰습니다. 더불어민주당 문대림 의원은 제주시갑지역위원장직 사퇴에 앞서 \"끝이... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8475764&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-03T07:54:00",
@@ -174,20 +258,6 @@
                 "RQQ3807K"
             ],
             "title": "지방선거 도지사·교육감 예비후보 등록 시작…제주 후보군들 분주"
-        },
-        {
-            "_id": "69814afb38b0cf4096977783",
-            "link": "https://n.news.naver.com/mnews/article/079/0004111636?sid=102",
-            "created_at": "2026-02-03T10:10:18.045000",
-            "description": "이어 위성곤 국회의원(민주당, 서귀포시)이 13%, 고기철 국민의힘 도당위원장 8%, 송재호 전 국회의원(민주당) 7%, 문성유 전 기재부 기획조정실장(국민의힘) 4%, 김승욱 전 국민의힘 도당위원장 2%, 김명호 진보당... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6465681?utm_source=naver&utm_medium=article&utm_campaign=20260203073058",
-            "press": "노컷뉴스",
-            "pubDate": "2026-02-03T07:31:00",
-            "related_members": [
-                "RQQ3807K",
-                "D9I3309M"
-            ],
-            "title": "제주지사 선호 오영훈·문대림 접전…김광수 교육감 압도"
         },
         {
             "_id": "69814afb38b0cf4096977782",
@@ -202,6 +272,20 @@
                 "D9I3309M"
             ],
             "title": "제주지사 후보 선호도…오영훈·문대림 '19%' 공동 선두"
+        },
+        {
+            "_id": "69814afb38b0cf4096977783",
+            "link": "https://n.news.naver.com/mnews/article/079/0004111636?sid=102",
+            "created_at": "2026-02-03T10:10:18.045000",
+            "description": "이어 위성곤 국회의원(민주당, 서귀포시)이 13%, 고기철 국민의힘 도당위원장 8%, 송재호 전 국회의원(민주당) 7%, 문성유 전 기재부 기획조정실장(국민의힘) 4%, 김승욱 전 국민의힘 도당위원장 2%, 김명호 진보당... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6465681?utm_source=naver&utm_medium=article&utm_campaign=20260203073058",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-03T07:31:00",
+            "related_members": [
+                "RQQ3807K",
+                "D9I3309M"
+            ],
+            "title": "제주지사 선호 오영훈·문대림 접전…김광수 교육감 압도"
         },
         {
             "_id": "69814afb38b0cf4096977784",
@@ -221,7 +305,7 @@
             "_id": "69814ae238b0cf40969776e2",
             "link": "https://n.news.naver.com/mnews/article/009/0005631211?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 이번 ‘국방인공지능법’제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... ",
+            "description": "이번에 여야 국회의원 33명이 ‘국방인공지능법’ 제정안을 공동발의했기 때문이다. 2일 국회 국방위원회... 소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... ",
             "originallink": "https://www.mk.co.kr/article/11950642",
             "press": "매일경제",
             "pubDate": "2026-02-02T19:55:00",
@@ -295,7 +379,7 @@
             "_id": "69814ae238b0cf40969776e4",
             "link": "https://n.news.naver.com/mnews/article/021/0002768090?sid=100",
             "created_at": "2026-02-03T10:09:52.593000",
-            "description": "이번 「국방인공지능법」제정안에는 유용원·부승찬 의원을 비롯해 김소희, 조승환, 김건, 김재섭, 이헌승... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
+            "description": "소병훈, 홍기원, 박홍배, 김남근, 윤종군, 문대림, 정태호, 최형두, 송석준, 서범수, 이만희, 고동진, 안상훈... 유용원·부승찬 의원은 향후 국회 논의 과정에서 여야를 넘어 폭넓은 공감대를 확산시키고, 「국방인공지능법」... ",
             "originallink": "https://www.munhwa.com/article/11565332?ref=naver",
             "press": "문화일보",
             "pubDate": "2026-02-02T09:41:00",
@@ -612,90 +696,6 @@
                 "D9I3309M"
             ],
             "title": "홍익표 만난 정청래 “둘도 없는 절친…당정청 윤활유 역할 기대”"
-        },
-        {
-            "_id": "6972d206845960002899775b",
-            "link": "https://n.news.naver.com/mnews/article/056/0012109421?sid=100",
-            "created_at": "2026-01-23T10:42:28.662000",
-            "description": "7MHz) ■ 연출 : 정인수 ■ 진행 : 김익태 ■ 출연 : 김한규 국회의원(더불어민주당 제주도당 위원장) ■ 구성 : 최지은 ■ 기술 : 정일영 * 인터뷰 내용 인용 보도 시 프로그램명 [KBS제주 1라디오 제주포커스]를 정확히... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8465006&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-21T14:48:00",
-            "related_members": [
-                "NUB4941Z",
-                "D9I3309M",
-                "LT72093S"
-            ],
-            "title": "[제주포커스] “경선은 치열하게, 본선은 하나로”…김한규 위원장의 제..."
-        },
-        {
-            "_id": "69701243297082fcc2b34caa",
-            "link": "https://n.news.naver.com/mnews/article/056/0012108661?sid=100",
-            "created_at": "2026-01-21T08:39:45.370000",
-            "description": "이어서 최근에 송재호, 문대림, 부승찬 제주 출신 전현직 국회의원들이 연대도 하고 포럼도 열고 있는데, 위 의원께서는 참여하지 않은 것으로 확인이 되고 있습니다. 여기에 대해서도 사실 여러 해석과 주장이 나오고... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8463922&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-20T16:14:00",
-            "related_members": [
-                "6I88973D",
-                "RQQ3807K",
-                "D9I3309M"
-            ],
-            "title": "위성곤 “오영훈 도정 불통, 정치력 부재…3선 역할 할 것”"
-        },
-        {
-            "_id": "69701243297082fcc2b34cab",
-            "link": "https://n.news.naver.com/mnews/article/056/0012107951?sid=100",
-            "created_at": "2026-01-21T08:39:45.370000",
-            "description": "오늘은 마지막 순서로 서귀포시 위성곤 국회의원 만나봅니다. 의원님 안녕하십니까? 먼저 도민 여러분께 새해 인사 부탁드립니다. [앵커] 올해 국회 활동하면서 역점 추진했던 제주 현안 두 가지를 꼽으신다면? [앵커] 민선... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8462920&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-19T19:18:00",
-            "related_members": [
-                "6I88973D",
-                "RQQ3807K",
-                "D9I3309M"
-            ],
-            "title": "[대담] 위성곤 의원에게 듣는 제주 현안 해법과 지방선거 행보는?"
-        },
-        {
-            "_id": "696c5bfd297082fcc2b19ba8",
-            "link": "https://n.news.naver.com/mnews/article/079/0004106123?sid=102",
-            "created_at": "2026-01-18T13:05:17.208000",
-            "description": "핵심요약 ■ 방송 : CBS 라디오 &lt;시사매거진 제주&gt; FM 제주시 93.3MHz, 서귀포 90.9MHz (17:00~17:30) ■ 진행자 : 박혜진 아나운서 ■ 대담자 : 문대림 국회의원 ◇박혜진&gt; 신년대담 오늘은 제주시 갑 선거구 국회의원인 문대림... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6457759?utm_source=naver&utm_medium=article&utm_campaign=20260116055629",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-16T17:57:00",
-            "related_members": [
-                "D9I3309M"
-            ],
-            "title": "문대림 의원 \"제주 복합 위기 판 바꿔야…도지사 출마 고민\""
-        },
-        {
-            "_id": "6969b96d297082fcc2b1946e",
-            "link": "https://n.news.naver.com/mnews/article/079/0004105776?sid=102",
-            "created_at": "2026-01-16T13:07:07.172000",
-            "description": "더불어민주당 문대림 국회의원(제주시갑, 농림축산식품해양수산위원)은 \"농축산물 할인지원사업중 할인품목에 만감류가 빠져있는데 포함시키기 위해 농림부와 협의중\"이라며 \"FTA 대응기금으로 만감류 재배를... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6456892?utm_source=naver&utm_medium=article&utm_campaign=20260116080020",
-            "press": "노컷뉴스",
-            "pubDate": "2026-01-16T08:01:00",
-            "related_members": [
-                "D9I3309M"
-            ],
-            "title": "\"품질이 방패다\"…만다린 파도 넘는 제주의 반격"
-        },
-        {
-            "_id": "696902c8297082fcc2b1927f",
-            "link": "https://n.news.naver.com/mnews/article/056/0012105946?sid=100",
-            "created_at": "2026-01-16T00:07:52.889000",
-            "description": "더불어민주당 문대림 국회의원과 송재호 전 국회의원이 공동대표로 참여한 '회복과 성장을 위한 제주혁신포럼' 출범입니다. 이 자리에서 문대림 의원은 현 제주도정에 대해 이재명 정부의 시대정신을 완수하기 힘들다고... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8460255&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-15T19:31:00",
-            "related_members": [
-                "D9I3309M"
-            ],
-            "title": "[시시각각] 윤 전 대통령 사형 구형…지방선거 앞두고 지역 정가 ‘들썩..."
         }
     ],
     "recent_videos": [
@@ -704,7 +704,7 @@
             "url": "https://www.youtube.com/watch?v=edd1lhdb34k",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:55.481000",
+            "collected_at": "2026-02-06T10:43:28.007000",
             "duration": 138.0,
             "title": "여론조사, 원희룡 41.9% vs 문대림 32.8% (김찬년/양윤택)",
             "upload_date": null
@@ -714,7 +714,7 @@
             "url": "https://www.youtube.com/watch?v=Gv9PhG5S3v0",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:54.279000",
+            "collected_at": "2026-02-06T10:43:26.733000",
             "duration": 70.0,
             "title": "[국회의원문대림] 의정보고회 왕방갑서! | 현장 스케치",
             "upload_date": null
@@ -724,7 +724,7 @@
             "url": "https://www.youtube.com/watch?v=Gjs3-hpVTF8",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:54.279000",
+            "collected_at": "2026-02-06T10:43:26.733000",
             "duration": 3716.0,
             "title": "[의정보고회] 대변인 힘(?) 실어준 정청래 당대표...\"비자림보다 문대림\"",
             "upload_date": null
@@ -804,7 +804,7 @@
             "url": "https://www.youtube.com/watch?v=UCpZ9eITB8vgnFHXT3Ey_JnQ",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:54.279000",
+            "collected_at": "2026-02-06T10:43:26.733000",
             "duration": null,
             "title": "문대림TV",
             "upload_date": null
@@ -814,7 +814,7 @@
             "url": "https://www.youtube.com/watch?v=Y9hkFBeb2r0",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:55.481000",
+            "collected_at": "2026-02-06T10:43:28.007000",
             "duration": 147.0,
             "title": "저희는 함께합니다 | 김태석 전 의장 문대림 지지선언",
             "upload_date": null
@@ -824,7 +824,7 @@
             "url": "https://www.youtube.com/watch?v=vkLFVJWBprU",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:55.481000",
+            "collected_at": "2026-02-06T10:43:28.007000",
             "duration": 180.0,
             "title": "오직 제주! 오직 도민! | 문대림 선거사무소 희망의 문이 열렸습니다💙",
             "upload_date": null
@@ -884,7 +884,7 @@
             "url": "https://www.youtube.com/watch?v=SZuJVxLxpqA",
             "HG_NM": "문대림",
             "MONA_CD": "D9I3309M",
-            "collected_at": "2026-02-04T08:34:54.279000",
+            "collected_at": "2026-02-06T10:43:26.733000",
             "duration": 355.0,
             "title": "한덕수를 어떻게 할 것인가? 민주당 내일 의원 총회 연다. 문대림 의원의 결과 예측은?",
             "upload_date": null
@@ -2260,5 +2260,5 @@
             "RST_PROPOSER": "문대림"
         }
     ],
-    "exported_at": "2026-02-04T18:40:06.019014"
+    "exported_at": "2026-02-06T15:38:23.470184"
 }

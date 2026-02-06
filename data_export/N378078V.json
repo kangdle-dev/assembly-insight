@@ -46,22 +46,22 @@
             "인터폴",
             "총재",
             "경찰",
-            "국민",
             "경남",
             "한국인",
+            "협력사",
+            "국민",
             "제명",
+            "창원시",
             "한화",
             "경기",
             "선출",
-            "협력사",
             "에어로스페이스",
-            "상생",
-            "협력"
+            "박완수"
         ],
         "keyword_frequency": [
             {
                 "text": "김종",
-                "value": 46
+                "value": 48
             },
             {
                 "text": "인터폴",
@@ -76,20 +76,28 @@
                 "value": 16
             },
             {
-                "text": "국민",
-                "value": 13
-            },
-            {
                 "text": "경남",
-                "value": 12
+                "value": 13
             },
             {
                 "text": "한국인",
                 "value": 12
             },
             {
+                "text": "협력사",
+                "value": 11
+            },
+            {
+                "text": "국민",
+                "value": 11
+            },
+            {
                 "text": "제명",
                 "value": 11
+            },
+            {
+                "text": "창원시",
+                "value": 10
             },
             {
                 "text": "한화",
@@ -104,50 +112,42 @@
                 "value": 10
             },
             {
-                "text": "협력사",
-                "value": 9
-            },
-            {
                 "text": "에어로스페이스",
                 "value": 8
             },
             {
-                "text": "상생",
-                "value": 8
-            },
-            {
-                "text": "협력",
+                "text": "박완수",
                 "value": 8
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:01.488194",
+        "last_analyzed_at": "2026-02-06T15:38:19.460909",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
                 0,
                 0,
-                0,
-                0,
                 4,
-                1
+                1,
+                1,
+                0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"김종양 의원은 주로 지방자치와 안전 관리에 집중하며, 조정자 입법 활동을 통해 지역 균형 발전과 사회 안전을 개선하는 데 주력하고 있습니다. 특히 지방공기업법, 경찰관 직무집행법, 재난 및 안전관리 기본법 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지 향상을 도모하는 행보를 보입니다.\"",
@@ -162,11 +162,24 @@
     },
     "recent_news": [
         {
+            "_id": "698545d538b0cf409697848e",
+            "link": "https://n.news.naver.com/mnews/article/003/0013750247?sid=102",
+            "created_at": "2026-02-06T10:37:23.727000",
+            "description": "국회 국토교통위원회 소속 김종양 국회의원(창원시 의창구)은 오는 6일 경남 창원시 의창구청 대회의실에서 마금산온천 활성화를 위한 정책토론회를 개최한다고 5일 밝혔다. 토론회는 연간 100만명 이상 찾던... ",
+            "originallink": "https://www.newsis.com/view/NISX20260205_0003503442",
+            "press": "뉴시스",
+            "pubDate": "2026-02-05T09:33:00",
+            "related_members": [
+                "N378078V"
+            ],
+            "title": "김종양 의원, 6일 '마금산온천 활성화 정책토론회' 연다"
+        },
+        {
             "_id": "6982827a38b0cf4096977cce",
             "link": "https://n.news.naver.com/mnews/article/079/0004112090?sid=100",
             "created_at": "2026-02-04T08:19:20.903000",
-            "description": "그런데 국회의원들 가운데도 다주택자들이 상당히 많았습니다. 저희가 전수조사를 해 봤는데, 그 결과를... 다음은 국민의힘 조은희 의원이었는데, 방배동 아파트 1채와 은평구에 오피스텔 9채를 소유했고요. 3위는... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6466347?utm_source=naver&utm_medium=article&utm_campaign=20260204060208",
+            "description": "그런데 국회의원들 가운데도 다주택자들이 상당히 많았습니다. 저희가 전수조사를 해 봤는데, 그 결과를... 4위는 최수진(5채), 5위는 김종양(4채), 공동 6위는 윤상현, 조배숙 의원이었고요. 69명 가운데 나머지 62명은 모두... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466347?utm_source=naver&utm_medium=article&utm_campaign=20260204102212",
             "press": "노컷뉴스",
             "pubDate": "2026-02-04T05:02:00",
             "related_members": [
@@ -176,7 +189,8 @@
                 "N378078V",
                 "M4O5221T",
                 "KFM1081G",
-                "MQU41854"
+                "MQU41854",
+                "URX8075K"
             ],
             "title": "[단독]李 '투기' 지목 다주택자들, 국회에도 69명이나 있다[박지환의 뉴..."
         },
@@ -212,7 +226,7 @@
             "_id": "6981c74338b0cf4096977b06",
             "link": "https://n.news.naver.com/mnews/article/020/0003694723?sid=101",
             "created_at": "2026-02-03T19:00:32.708000",
-            "description": "선포식에는 손재일 한화에어로스페이스 대표와 정인섭 상생협력실장을 비롯해 조정현 SG솔루션 회장(상생협력협의회 대표), 김경수 지방시대위원장, 김명주 경상남도 경제부지사, 김종양 국민의힘 국회의원(창원시... ",
+            "description": "의창구), 허성무 더불어민주당 국회의원(창원시 성산구) 등 주요 관계자들이 참석했다. 김경수 지방시대위원장은 “오늘 행사 주인공은 협력사”라며 “한화에어로스페이스가 협력사들과 함께 지역에서 꾸준히 경쟁력을... ",
             "originallink": "https://www.donga.com/news/Economy/article/all/20260203/133291143/1",
             "press": "동아일보",
             "pubDate": "2026-02-03T18:15:00",
@@ -371,7 +385,7 @@
             "url": "https://www.youtube.com/watch?v=FqrJP5aPCD8",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:56.562000",
+            "collected_at": "2026-02-06T10:42:29.718000",
             "duration": 101.0,
             "title": "김종양 전 경기청장, 인터폴 총재 선출… 한국인 최초 / KBS뉴스(News)",
             "upload_date": null
@@ -381,7 +395,7 @@
             "url": "https://www.youtube.com/watch?v=3MsNxPj3HZ8",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:56.562000",
+            "collected_at": "2026-02-06T10:42:29.718000",
             "duration": 124.0,
             "title": "김종양 전 경기경찰청장, 한국인 첫 인터폴총재 선출 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -391,7 +405,7 @@
             "url": "https://www.youtube.com/watch?v=klgeCXqyy00",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:56.562000",
+            "collected_at": "2026-02-06T10:42:29.718000",
             "duration": 121.0,
             "title": "김종양 전 경기청장, 한국인 최초 인터폴 총재 선출 / KBS뉴스(News)",
             "upload_date": null
@@ -401,7 +415,7 @@
             "url": "https://www.youtube.com/watch?v=jztzpypFiVk",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 538.0,
             "title": "창원산단 정보 빼낸 명태균 \"국힘 김종양·박완수 측도 땅 샀다\" - 뉴스타파",
             "upload_date": null
@@ -411,7 +425,7 @@
             "url": "https://www.youtube.com/watch?v=EDMWdhAi-6s",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:56.562000",
+            "collected_at": "2026-02-06T10:42:29.718000",
             "duration": 113.0,
             "title": "김종양 전 경기경찰청장, 한국인 첫 인터폴총재 선출 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -431,7 +445,7 @@
             "url": "https://www.youtube.com/watch?v=quSInHT0mjg",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 215.0,
             "title": "\"겸손한 삶이 성공할 확률이 큽니다\" - 김종양 인터폴 총재 @MBNYForum",
             "upload_date": null
@@ -471,7 +485,7 @@
             "url": "https://www.youtube.com/watch?v=9za3TWNFIgg",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 215.0,
             "title": "김종양 \"李 정부 요직, 반미인사 너무 많다\" [티조Clip]",
             "upload_date": null
@@ -481,7 +495,7 @@
             "url": "https://www.youtube.com/watch?v=T7bsItoSdDk",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:56.562000",
+            "collected_at": "2026-02-06T10:42:29.718000",
             "duration": 99.0,
             "title": "김종양 전 경기청장, 인터폴 총재 선출… 한국인 최초 / KBS뉴스(News)",
             "upload_date": null
@@ -511,7 +525,7 @@
             "url": "https://www.youtube.com/watch?v=sOp6TGkg9Uw",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 331.0,
             "title": "국민의힘 김종양 의원1 11 2 합 민주당의 장외 집회와 폭행 경찰 청장의 일방적 사과 강요 및 파행에 대한 비판",
             "upload_date": null
@@ -521,7 +535,7 @@
             "url": "https://www.youtube.com/watch?v=eO7FEgzO4ho",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 474.0,
             "title": "경악! 마약 수사 외압 관세청 드러나자 이선균까지 끄집어낸 경찰 출신 김종양 국민의힘 의원. 백해룡 경정에게 참교육 당해.",
             "upload_date": null
@@ -541,7 +555,7 @@
             "url": "https://www.youtube.com/watch?v=QYO3by3jP90",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 1010.0,
             "title": "\"탄핵 남발, 보복성 예산삭감! 무정부 상태가 내란 획책 아닌가?\" 김종양 국민의힘 의원 | 대정부질문 (25.2.14.) | 국회방송",
             "upload_date": null
@@ -551,7 +565,7 @@
             "url": "https://www.youtube.com/watch?v=am93vZyW_Ac",
             "HG_NM": "김종양",
             "MONA_CD": "N378078V",
-            "collected_at": "2026-02-04T08:33:55.133000",
+            "collected_at": "2026-02-06T10:42:28.295000",
             "duration": 725.0,
             "title": "\"길 터주는 경찰\" 경찰 출신 김종양 의원의 황당 의혹 제기에 회의장 발칵",
             "upload_date": null
@@ -1183,5 +1197,5 @@
             "RST_PROPOSER": "김종양"
         }
     ],
-    "exported_at": "2026-02-04T18:40:01.488194"
+    "exported_at": "2026-02-06T15:38:19.461909"
 }

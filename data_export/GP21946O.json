@@ -43,25 +43,37 @@
     "analysis": {
         "keywords": [
             "국민",
+            "원전",
+            "규제",
+            "세미나",
             "제출",
             "의혹",
             "발의",
             "원내",
             "공천",
             "김병기",
-            "쿠팡",
-            "대표",
-            "온라인",
             "위원장",
-            "수사",
-            "강선",
-            "현지",
-            "누나"
+            "대표",
+            "쿠팡",
+            "신규",
+            "정책"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 20
+                "value": 32
+            },
+            {
+                "text": "원전",
+                "value": 24
+            },
+            {
+                "text": "규제",
+                "value": 16
+            },
+            {
+                "text": "세미나",
+                "value": 15
             },
             {
                 "text": "제출",
@@ -88,66 +100,54 @@
                 "value": 12
             },
             {
-                "text": "쿠팡",
+                "text": "위원장",
                 "value": 10
             },
             {
                 "text": "대표",
-                "value": 8
+                "value": 10
             },
             {
-                "text": "온라인",
-                "value": 8
+                "text": "쿠팡",
+                "value": 10
             },
             {
-                "text": "위원장",
-                "value": 8
+                "text": "신규",
+                "value": 9
             },
             {
-                "text": "수사",
-                "value": 8
-            },
-            {
-                "text": "강선",
-                "value": 8
-            },
-            {
-                "text": "현지",
-                "value": 8
-            },
-            {
-                "text": "누나",
-                "value": 8
+                "text": "정책",
+                "value": 9
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:13.724406",
+        "last_analyzed_at": "2026-02-06T15:38:30.398753",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                2,
-                1,
                 0,
                 0,
                 0,
                 1,
+                4,
+                4,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"박충권 의원은 주로 정보통신, 안전, 그리고 북한이탈주민 지원 분야에 집중하며, 보호자적 입법 활동을 통해 사회적 안전망과 복지 향상을 개선하는 데 주력하고 있습니다. 특히 연구실 안전환경 조성 및 북한이탈주민 보호 관련 법안들을 통해 국민의 실생활과 직결된 안전과 복지 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,128 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545d138b0cf4096978477",
+            "link": "https://radio.ytn.co.kr/program/?f=2&id=107266&s_mcd=0263&s_hcd=01",
+            "created_at": "2026-02-06T10:37:19.588000",
+            "description": "그러니까 그분한테는 국회의원 개념이 없으니까 아마 당 간부라고 여겨졌던 모양이에요. 그래서 그 얘기를... 시시비비는 각자 느끼시는 게 달라서 제가 굳이 반복하지는 않겠습니다만, 조광환 위원장과 정성국 의원 간의... ",
+            "originallink": "https://radio.ytn.co.kr/program/?f=2&id=107266&s_mcd=0263&s_hcd=01",
+            "press": "YTN",
+            "pubDate": "2026-02-05T20:30:00",
+            "related_members": [
+                "KBK8836C",
+                "EPI69383",
+                "KFM1081G",
+                "GP21946O",
+                "4X525582",
+                "EH27538E",
+                "CGW7415Z"
+            ],
+            "title": "유용원 \"장동혁 재신임 투표 주장, 본질 외면한 꼼수...서부극 황야 결..."
+        },
+        {
+            "_id": "698545d138b0cf4096978479",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310988?sid=100",
+            "created_at": "2026-02-06T10:37:19.588000",
+            "description": "그러니까 그분한테는 국회의원 개념이 없으니까 아마 당 간부라고 여겨졌던 모양이에요. 그래서 그 얘기를... 시시비비는 각자 느끼시는 게 달라서 제가 굳이 반복하지는 않겠습니다만, 조광환 위원장과 정성국 의원 간의... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602052001376935",
+            "press": "YTN",
+            "pubDate": "2026-02-05T20:01:00",
+            "related_members": [
+                "KBK8836C",
+                "EPI69383",
+                "KFM1081G",
+                "GP21946O",
+                "4X525582",
+                "EH27538E",
+                "CGW7415Z"
+            ],
+            "title": "유용원 \"장동혁 재신임 투표 주장, 본질 외면한 꼼수...서부극 황야 결..."
+        },
+        {
+            "_id": "698545e338b0cf40969784db",
+            "link": "https://n.news.naver.com/mnews/article/022/0004103631?sid=100",
+            "created_at": "2026-02-06T10:37:37.498000",
+            "description": "대표직도, 국회의원직도 내려놓겠다”며 재신임 투표 방침을 밝혔다. 뉴시스 친한계 의원들은 즉각 반발했다. 친한계 한지아 의원은 장 대표를 향해 “사퇴 요구에 대한 답이 아니라 사퇴하지 않기 위한 조건을 만든 것에... ",
+            "originallink": "https://www.segye.com/newsView/20260205517099?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-05T18:55:00",
+            "related_members": [
+                "AEJ19639",
+                "KFM1081G",
+                "4019850M",
+                "WJL30106",
+                "GP21946O",
+                "3NI5978A",
+                "Q918403D"
+            ],
+            "title": "장동혁, ‘리더십 흔들기’ 차단 뒤 지선 체제 전환 포석"
+        },
+        {
+            "_id": "698545e538b0cf40969784e5",
+            "link": "https://n.news.naver.com/mnews/article/050/0000101924?sid=101",
+            "created_at": "2026-02-06T10:37:39.906000",
+            "description": "국회 과학기술정보방송통신위원회 소속 박충권 국민의힘 의원이 오는 11일 국회의원회관 제8간담회실에서 'K-원전, 규제에 달렸다 정책세미나'를 연다고 밝혔다. 이번 세미나는 원전 분야 규제가 과거 대형 원전 중심... ",
+            "originallink": "https://magazine.hankyung.com/business/article/202602054832b",
+            "press": "한국경제",
+            "pubDate": "2026-02-05T06:05:00",
+            "related_members": [
+                "GP21946O"
+            ],
+            "title": "'국민 70%가 신규 원전 동의'…K원전 규제 개혁 논의의 장 열린다"
+        },
+        {
+            "_id": "698545e538b0cf40969784e6",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596033?sid=100",
+            "created_at": "2026-02-06T10:37:39.906000",
+            "description": "박충권 국민의힘 의원이 28일 국회 본회의장에서 전날 본회의에 상정된 국회법 개정안에 대한 필리버스터(무제한 토론)를 진행하고 있다. [연합] 국회에서 신규 원전 건설과 관련한 규제 패러다임 전환 필요성을 논의하는... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669860?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T18:21:00",
+            "related_members": [
+                "GP21946O"
+            ],
+            "title": "“국민 70% 신규 원전 찬성”…국회, 규제 패러다임 전환 논의 본격화"
+        },
+        {
+            "_id": "698545e538b0cf40969784e7",
+            "link": "https://n.news.naver.com/mnews/article/421/0008753895?sid=100",
+            "created_at": "2026-02-06T10:37:39.906000",
+            "description": "박충권 국민의힘 의원은 오는 11일 오전 국회의원회관에서 '국민 70%↑ 신규 원전 동의' K-원전, 규제에 달렸다 정책세미나를 개최한다. 이번 세미나는 초거대 인공지능(AI) 확산에 따른 전력 수요 급증, 공급망 불안 등 복합... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6062224",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T16:59:00",
+            "related_members": [
+                "GP21946O"
+            ],
+            "title": "“국민 70% 신규 원전 찬성”…박충권, K-원전 규제 해법 모색"
+        },
+        {
+            "_id": "698545e538b0cf40969784e8",
+            "link": "https://n.news.naver.com/mnews/article/015/0005246794?sid=100",
+            "created_at": "2026-02-06T10:37:39.906000",
+            "description": "자리가 국회에서 마련된다. 박충권 국민의힘 의원은 오는 11일 오전 9시 30분 국회의원회관 제8간담회실에서 'K-원전, 규제에 달렸다 정책세미나'를 개최한다고 4일 밝혔다. 이날 세미나에서는 원자력계 석학들이 발제자로... ",
+            "originallink": "https://www.hankyung.com/article/202602044049i",
+            "press": "한국경제",
+            "pubDate": "2026-02-04T16:44:00",
+            "related_members": [
+                "GP21946O"
+            ],
+            "title": "\"K-원전, 규제 개혁 해야\"…野박충권 정책세미나 개최"
+        },
+        {
+            "_id": "698545e538b0cf40969784e9",
+            "link": "https://n.news.naver.com/mnews/article/057/0001933718?sid=100",
+            "created_at": "2026-02-06T10:37:39.906000",
+            "description": "박충권 국민의힘 의원이 주최하는 '국민 70%↑ 신규 원전 동의 K-원전, 규제에 달렸다' 정책세미나가 오는 11일 오전 9시 30분 국회의원회관 제8간담회실에서 개최됩니다. 이번 세미나는 K-원전의 지속 가능한 발전을 위해... ",
+            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5173670",
+            "press": "매일경제",
+            "pubDate": "2026-02-04T16:35:00",
+            "related_members": [
+                "GP21946O"
+            ],
+            "title": "박충권, 'K-원전, 규제에 달렸다' 정책세미나 개최"
+        },
         {
             "_id": "6981c73a38b0cf4096977af2",
             "link": "https://n.news.naver.com/mnews/article/023/0003956862?sid=100",
@@ -227,7 +349,7 @@
             "_id": "697cbd1938b0cf4096976a2d",
             "link": "https://n.news.naver.com/mnews/article/003/0013735497?sid=100",
             "created_at": "2026-01-30T23:15:53.399000",
-            "description": "여의도 국회 의원회관 세미나실에서 열린 한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한... 앞줄 오른쪽부터 최형두, 고동진 의원, 성 위원장, 유 의원, 박충권,조은희, 임종득, 강선영 국민의힘 의원. 2026.01.28.... ",
+            "description": "여의도 국회 의원회관 세미나실에서 열린 한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한 긴급토론회에서 국민의례를 하고 있다.앞줄 오른쪽부터 최형두, 고동진 의원, 성 위원장, 유 의원, 박충권,조은희... ",
             "originallink": "https://www.newsis.com/view/NISI20260128_0021142262",
             "press": "뉴시스",
             "pubDate": "2026-01-28T15:12:00",
@@ -386,22 +508,6 @@
             "title": "국힘 ‘與공천뇌물 의혹 특검법’ 제출…“李대통령 수사 대상에 포함”"
         },
         {
-            "_id": "6964b54b631fd174349960da",
-            "link": "https://n.news.naver.com/mnews/article/421/0008683134?sid=100",
-            "created_at": "2026-01-12T17:48:08.914000",
-            "description": "15:00 김선민 의원실 등, 고독사 예방을 넘어 사회적 고립 해소 체계 구축 국회 토론회(의원회관 제9간담회의실) ◇소통관 기자회견 10:00 모경종 의원, [지방선거 청년 특구 확대 관련 기자회견] 10:20 박충권 의원... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6021785",
-            "press": "뉴스1",
-            "pubDate": "2025-12-29T05:00:00",
-            "related_members": [
-                "7GW5372Y",
-                "GP21946O",
-                "J1G57517",
-                "RAJ1024Z"
-            ],
-            "title": "[오늘의 국회일정] (29일, 월)"
-        },
-        {
             "_id": "6964b54b631fd174349960db",
             "link": "https://n.news.naver.com/mnews/article/003/0013680100?sid=100",
             "created_at": "2026-01-12T17:48:08.914000",
@@ -416,6 +522,22 @@
                 "RAJ1024Z"
             ],
             "title": "[오늘의 주요일정]국회(12월29일 월요일)"
+        },
+        {
+            "_id": "6964b54b631fd174349960da",
+            "link": "https://n.news.naver.com/mnews/article/421/0008683134?sid=100",
+            "created_at": "2026-01-12T17:48:08.914000",
+            "description": "15:00 김선민 의원실 등, 고독사 예방을 넘어 사회적 고립 해소 체계 구축 국회 토론회(의원회관 제9간담회의실) ◇소통관 기자회견 10:00 모경종 의원, [지방선거 청년 특구 확대 관련 기자회견] 10:20 박충권 의원... ",
+            "originallink": "https://www.news1.kr/politics/assembly/6021785",
+            "press": "뉴스1",
+            "pubDate": "2025-12-29T05:00:00",
+            "related_members": [
+                "7GW5372Y",
+                "GP21946O",
+                "J1G57517",
+                "RAJ1024Z"
+            ],
+            "title": "[오늘의 국회일정] (29일, 월)"
         }
     ],
     "recent_videos": [
@@ -424,7 +546,7 @@
             "url": "https://www.youtube.com/watch?v=6E_h-fRuT6U",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:37.403000",
+            "collected_at": "2026-02-06T10:45:09.426000",
             "duration": 433.0,
             "title": "박충권 \"현지 누나 컨펌 받아야 되는 것 같던데?\" [티조Clip]",
             "upload_date": null
@@ -444,7 +566,7 @@
             "url": "https://www.youtube.com/watch?v=R4Buk3k_kQQ",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:36.011000",
+            "collected_at": "2026-02-06T10:45:08.096000",
             "duration": 1332.0,
             "title": "北 엘리트였던 박충권 의원이 두만강을 건넌 이유는?  [나는정치인이다]",
             "upload_date": null
@@ -494,7 +616,7 @@
             "url": "https://www.youtube.com/watch?v=CnKf3pMkC6k",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-02T09:45:41.054000",
+            "collected_at": "2026-02-06T10:45:08.096000",
             "duration": 132.0,
             "title": "국힘 원내부대표, 박충권 의원이 바라는 국민의힘 당대표는? [국회의사담 앵커스] 박충권 편",
             "upload_date": null
@@ -514,7 +636,7 @@
             "url": "https://www.youtube.com/watch?v=a8n2lsvxY1Q",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:36.011000",
+            "collected_at": "2026-02-06T10:45:08.096000",
             "duration": 850.0,
             "title": "박충권 충격 발언, 실소터진 우상호...대통령 건드리자 김병기 위원장 '대폭발",
             "upload_date": null
@@ -554,7 +676,7 @@
             "url": "https://www.youtube.com/watch?v=ZXcIUy6rb44",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:36.011000",
+            "collected_at": "2026-02-06T10:45:08.096000",
             "duration": 1472.0,
             "title": "'탈북 14년' 박충권 의원, 북한 엘리트 코스 밟다가 탈북한 이유",
             "upload_date": null
@@ -584,7 +706,7 @@
             "url": "https://www.youtube.com/watch?v=UCHD6SHEsM4gYqeG2hCMz2dA",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:36.011000",
+            "collected_at": "2026-02-06T10:45:08.096000",
             "duration": null,
             "title": "이과맨 박충권",
             "upload_date": null
@@ -594,7 +716,7 @@
             "url": "https://www.youtube.com/watch?v=SPQBpv-0i5E",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:36.011000",
+            "collected_at": "2026-02-06T10:45:08.096000",
             "duration": 3564.0,
             "title": "[박충권x김금혁 출연] “北의 연애·정치…그리고 李” [금요비대위]",
             "upload_date": null
@@ -604,7 +726,7 @@
             "url": "https://www.youtube.com/watch?v=ynUcPhrAvLk",
             "HG_NM": "박충권",
             "MONA_CD": "GP21946O",
-            "collected_at": "2026-02-04T08:36:37.403000",
+            "collected_at": "2026-02-06T10:45:09.426000",
             "duration": 760.0,
             "title": "탈북 초선 박충권 \"왜 이렇게 뻔뻔하죠?\"…권태선 방문진 이사장과 정면충돌",
             "upload_date": null
@@ -1894,5 +2016,5 @@
             "RST_PROPOSER": "박충권"
         }
     ],
-    "exported_at": "2026-02-04T18:40:13.725407"
+    "exported_at": "2026-02-06T15:38:30.398753"
 }

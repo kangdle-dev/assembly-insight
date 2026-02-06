@@ -63,60 +63,68 @@
     "analysis": {
         "keywords": [
             "통합",
-            "완주",
-            "전주",
             "전북",
+            "전주",
+            "완주",
             "추진",
-            "장관",
-            "민주당",
-            "통일부",
             "이성윤",
-            "찬성",
-            "결단",
-            "환영",
+            "도지사",
+            "회견",
+            "민주당",
+            "지원",
             "행정",
-            "선거",
-            "군민"
+            "장관",
+            "결단",
+            "찬성",
+            "통일부"
         ],
         "keyword_frequency": [
             {
                 "text": "통합",
-                "value": 70
+                "value": 69
+            },
+            {
+                "text": "전북",
+                "value": 67
+            },
+            {
+                "text": "전주",
+                "value": 56
             },
             {
                 "text": "완주",
                 "value": 55
             },
             {
-                "text": "전주",
-                "value": 54
-            },
-            {
-                "text": "전북",
-                "value": 32
-            },
-            {
                 "text": "추진",
-                "value": 26
-            },
-            {
-                "text": "장관",
-                "value": 23
-            },
-            {
-                "text": "민주당",
-                "value": 19
-            },
-            {
-                "text": "통일부",
-                "value": 18
+                "value": 22
             },
             {
                 "text": "이성윤",
+                "value": 19
+            },
+            {
+                "text": "도지사",
+                "value": 17
+            },
+            {
+                "text": "회견",
+                "value": 16
+            },
+            {
+                "text": "민주당",
+                "value": 16
+            },
+            {
+                "text": "지원",
                 "value": 15
             },
             {
-                "text": "찬성",
+                "text": "행정",
+                "value": 15
+            },
+            {
+                "text": "장관",
                 "value": 15
             },
             {
@@ -124,50 +132,42 @@
                 "value": 14
             },
             {
-                "text": "환영",
-                "value": 14
+                "text": "찬성",
+                "value": 12
             },
             {
-                "text": "행정",
-                "value": 13
-            },
-            {
-                "text": "선거",
-                "value": 9
-            },
-            {
-                "text": "군민",
-                "value": 9
+                "text": "통일부",
+                "value": 11
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:40.817692",
+        "last_analyzed_at": "2026-02-06T15:38:57.178351",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                1,
                 0,
-                1,
-                2,
+                0,
+                8,
                 10,
-                10,
+                9,
+                3,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"정동영 의원은 주로 인권, 디지털 혁신, 그리고 에너지 분야에 집중하며, 혁신가적 입법 활동을 통해 유권자의 삶의 질을 개선하는 데 주력하고 있습니다. 특히 인공지능 및 디지털 크리에이터 관련 법안들을 통해 국민의 실생활과 직결된 경제적 기회와 사회적 안전망을 강화하는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -182,10 +182,237 @@
     },
     "recent_news": [
         {
+            "_id": "6985460e38b0cf409697858d",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310784?sid=102",
+            "created_at": "2026-02-06T10:38:20.365000",
+            "description": "정동영 의원을 비롯한 전북 지역 국회의원들과 김관영 전북도지사는 국회에서 기자회견을 열고, 정부의 균형 발전 예산 지원이 특정 지역에 편중되어서는 안 된다고 강조했습니다. 이들은 정부가 5대 광역권인 '5극' 통합... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0115_202602051437243143",
+            "press": "YTN",
+            "pubDate": "2026-02-05T14:37:00",
+            "related_members": [
+                "ARP89147"
+            ],
+            "title": "[전북] 전북 정치권 \"전북·강원·제주 3특에도 10조 이상 지원해야\""
+        },
+        {
+            "_id": "698545c638b0cf409697842d",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596448?sid=101",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "우원식 국회의장, 김진표 전 국회의장을 비롯해 강기정 광주광역시장, 신정훈·윤상현·송석준·조인철·김대식·박정·이건태·양부남·권향엽 국회의원 등 현직의원들도 빈소를 찾았다. 김두관·양향자·박준영 전 국회의원... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670366?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T11:36:00",
+            "related_members": [
+                "7YC6702R",
+                "EFU76868",
+                "4019850M",
+                "ANS8383S",
+                "CK143054",
+                "M7O7878U",
+                "CNW5754J",
+                "XBT9550Q",
+                "ZKB18611",
+                "MSY7784L",
+                "MLH1404S",
+                "ARP89147",
+                "V429892C",
+                "4L695580",
+                "M0A1658U"
+            ],
+            "title": "“지역경제 이끌어주신 큰 별이 졌다” 우원식 국회의장·김정관 산업장..."
+        },
+        {
+            "_id": "698545c638b0cf409697842e",
+            "link": "https://n.news.naver.com/mnews/article/016/0002596311?sid=101",
+            "created_at": "2026-02-06T10:37:08.338000",
+            "description": "우원식 국회의장, 김진표 전 국회의장을 비롯해 강기정 광주광역시장, 신정훈·윤상현·송석준·조인철·김대식·박정·이건태·양부남·권향엽 등 현직 국회의원, 김두관 전 경남지사, 박준영 전 전남지사, 윤장현 전... ",
+            "originallink": "https://biz.heraldcorp.com/article/10670207?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-05T10:34:00",
+            "related_members": [
+                "7YC6702R",
+                "EFU76868",
+                "4019850M",
+                "ANS8383S",
+                "CK143054",
+                "M7O7878U",
+                "CNW5754J",
+                "XBT9550Q",
+                "ZKB18611",
+                "MSY7784L",
+                "V429892C",
+                "MLH1404S",
+                "4L695580",
+                "M0A1658U",
+                "ARP89147"
+            ],
+            "title": "“지역 경제 이끌어주신 큰 어르신” 우원식 국회의장 등 정재계 발걸음..."
+        },
+        {
+            "_id": "698545fb38b0cf409697854c",
+            "link": "https://n.news.naver.com/mnews/article/011/0004586626?sid=100",
+            "created_at": "2026-02-06T10:38:01.476000",
+            "description": "전북 전주를 지역구로 둔 정동영 통일부 장관은 이날 국회에서 윤준병·이성윤 박휘승 안호영 더불어민주당 의원, 김관영 전북도지사와 공동 기자회견을 갖고 “정부가 5극 통합 특별시에 최대 20조 원의 재정 지원을... ",
+            "originallink": "https://www.sedaily.com/article/20004869?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-04T15:46:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "JC14718Q",
+                "ARP89147"
+            ],
+            "title": "“완주·전주도 통합” 전북도 가세…지선 앞두고 행정통합 전국 확대"
+        },
+        {
+            "_id": "698545e738b0cf40969784ee",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112381?sid=102",
+            "created_at": "2026-02-06T10:37:41.618000",
+            "description": "민주당 윤준병 전북도당위원장(정읍·고창)과 정동영 의원(전주병), 이성윤 의원(전주을), 안호영 의원, 박희승 의원(남원·장수·임실·순창), 김관영 전북자치도지사는 4일 국회에서 기자회견을 열고 이같이 요구했다.... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466867?utm_source=naver&utm_medium=article&utm_campaign=20260204031012",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-04T15:11:00",
+            "related_members": [
+                "ARP89147",
+                "N2P9317N",
+                "JC14718Q",
+                "XEF29171",
+                "43Q3892U"
+            ],
+            "title": "민주당 전북 국회의원들 \"전북 등 3특에 특례 지원 강화\""
+        },
+        {
+            "_id": "698545e738b0cf40969784ef",
+            "link": "https://n.news.naver.com/mnews/article/421/0008753442?sid=102",
+            "created_at": "2026-02-06T10:37:41.618000",
+            "description": "정부와 국회에 촉구했다. 기자회견에는 윤준병 민주당 전북도당위원장을 비롯해 정동영·안호영·이성윤·박희승 의원, 그리고 김관영 전북도지사가 참석해 전북의 위상 강화와 특례 확대를 한목소리로 요구했다.... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6061946",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T15:01:00",
+            "related_members": [
+                "ARP89147",
+                "N2P9317N",
+                "JC14718Q",
+                "XEF29171",
+                "43Q3892U"
+            ],
+            "title": "민주당 전북 국회의원들 \"'3특' 특례 확대하고 10조 지원하라\""
+        },
+        {
+            "_id": "698545e738b0cf40969784f0",
+            "link": "https://n.news.naver.com/mnews/article/659/0000041083?sid=102",
+            "created_at": "2026-02-06T10:37:41.618000",
+            "description": "더불어민주당 전북특별자치도 국회의원들은 오늘(4일) 오전 국회에서 합동 기자회견을 열고, \"국가균형발전... 기자회견에는 윤준병 전북도당위원장과 정동영.안호영.이성윤.박희승 의원, 그리고 김관영 지사가 참석해... ",
+            "originallink": "http://www.jmbc.co.kr/news/view/62131",
+            "press": "MBC",
+            "pubDate": "2026-02-04T14:43:00",
+            "related_members": [
+                "ARP89147",
+                "N2P9317N",
+                "JC14718Q",
+                "XEF29171",
+                "43Q3892U"
+            ],
+            "title": "전북 국회의원들 \"전북, 5극보다 강한 특례·10조 투자 필요\""
+        },
+        {
+            "_id": "698545e738b0cf40969784f1",
+            "link": "https://n.news.naver.com/mnews/article/003/0013748551?sid=102",
+            "created_at": "2026-02-06T10:37:41.618000",
+            "description": "정부와 국회에 강력히 촉구했다. 윤준병 민주당 전북도당위원장을 비롯해 정동영·안호영·이성윤·박희승 의원과 김관영 전북도지사가 참석한 가운데 전북의 위상 강화와 특례 확대를 한목소리로 요구했다. 의원들은... ",
+            "originallink": "https://www.newsis.com/view/NISX20260204_0003502310",
+            "press": "뉴시스",
+            "pubDate": "2026-02-04T13:47:00",
+            "related_members": [
+                "ARP89147",
+                "N2P9317N",
+                "JC14718Q",
+                "XEF29171",
+                "43Q3892U"
+            ],
+            "title": "민주당 전북 국회의원 \"전북 소외 안돼…최소 10조 투자해야\""
+        },
+        {
+            "_id": "6985460e38b0cf409697858e",
+            "link": "https://n.news.naver.com/mnews/article/421/0008753030?sid=102",
+            "created_at": "2026-02-06T10:38:20.365000",
+            "description": "유희태 전북 완주군수가 안호영 더불어민주당 국회의원의 '완주·전주 행정통합' 동참 결정에 유감을 표했다.... 의원은 지난 2일 전북도의회에서 회견을 열어 '완주·전주 행정통합에 동참하겠다'는 입장을 밝혔다. 정동영... ",
+            "originallink": "https://www.news1.kr/local/jeonbuk/6061750",
+            "press": "뉴스1",
+            "pubDate": "2026-02-04T13:11:00",
+            "related_members": [
+                "XEF29171",
+                "ARP89147"
+            ],
+            "title": "유희태 완주군수 \"안호영 의원 '완주·전주 행정통합' 동참 유감\""
+        },
+        {
+            "_id": "698545d238b0cf4096978480",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595735?sid=101",
+            "created_at": "2026-02-06T10:37:20.300000",
+            "description": "▶정치권도 조문…“지역 경제 큰 거목”=김원이 더불어민주당 국회의원(전남 목포)은 빈소를 찾아 “고인은... 신정훈·정진욱·정준호·민형배·박균택 의원과 문인 북구청장 등도 빈소를 찾아 고인을 추모했다. ▶“현장... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669419?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T11:27:00",
+            "related_members": [
+                "4L695580",
+                "IWR8966I",
+                "VRY5522V",
+                "M7O7878U",
+                "IC499858",
+                "9HE7226N",
+                "M0A1658U",
+                "MLH1404S",
+                "ARP89147",
+                "V429892C",
+                "XBT9550Q"
+            ],
+            "title": "“일평생 검소했던 신뢰의 리더”…정·재계·종교계 추모 행렬 [정창선..."
+        },
+        {
+            "_id": "698545d238b0cf4096978481",
+            "link": "https://n.news.naver.com/mnews/article/016/0002595619?sid=101",
+            "created_at": "2026-02-06T10:37:20.300000",
+            "description": "정치권도 조문…“지역 경제 큰 거목” 김원이 더불어민주당 국회의원(전남 목포)은 빈소를 찾아 “고인은... 신정훈·정진욱·정준호·민형배·박균택 의원과 문인 북구청장 등도 빈소를 찾아 고인을 추모했다. “현장 중시... ",
+            "originallink": "https://biz.heraldcorp.com/article/10669269?ref=naver",
+            "press": "헤럴드경제",
+            "pubDate": "2026-02-04T10:26:00",
+            "related_members": [
+                "4L695580",
+                "IWR8966I",
+                "VRY5522V",
+                "M7O7878U",
+                "IC499858",
+                "9HE7226N",
+                "M0A1658U",
+                "MLH1404S",
+                "ARP89147",
+                "V429892C",
+                "XBT9550Q"
+            ],
+            "title": "“일평생 검소했던 원칙·신뢰의 리더”…故정창선 중흥 창업주 빈소에..."
+        },
+        {
+            "_id": "6985460238b0cf4096978567",
+            "link": "https://n.news.naver.com/mnews/article/056/0012118428?sid=100",
+            "created_at": "2026-02-06T10:38:08.896000",
+            "description": "[앵커] 통일부 정동영 장관과 이성윤 국회의원이 전북도지사 선거에 출마하는 안호영 의원을 사실상 공개... 현직 이점을 누리는 김관영 도지사와, 정책 대결을 내세우는 이원택 의원 등에 비해 상대적으로 지지율을... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476846&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T07:35:00",
+            "related_members": [
+                "XEF29171",
+                "N2P9317N",
+                "ARP89147",
+                "DAV7257X"
+            ],
+            "title": "“사실상 안호영 지지”…전북도지사 선거 판세 ‘요동’"
+        },
+        {
             "_id": "6982829638b0cf4096977cda",
             "link": "https://n.news.naver.com/mnews/article/056/0012118142?sid=100",
             "created_at": "2026-02-04T08:19:49.339000",
-            "description": "[앵커] 통일부 정동영 장관과 이성윤 국회의원이 전북도지사 선거에 출마하는 안호영 의원을 사실상 공개 지지했습니다. 완주-전주 통합 추진 의사에 대한 화답 차원인데, 선거 판세는 요동치고 있습니다. 이지현... ",
+            "description": "[앵커] 통일부 정동영 장관과 이성윤 국회의원이 전북도지사 선거에 출마하는 안호영 의원을 사실상 공개... 현직 이점을 누리는 김관영 도지사와, 정책 대결을 내세우는 이원택 의원 등에 비해 상대적으로 지지율을... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476535&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-03T21:34:00",
@@ -201,7 +428,7 @@
             "_id": "6982829638b0cf4096977cdd",
             "link": "https://n.news.naver.com/mnews/article/056/0012117973?sid=100",
             "created_at": "2026-02-04T08:19:49.339000",
-            "description": "[앵커] 통일부 정동영 장관과 이성윤 국회의원이 전북도지사 선거에 출마하는 안호영 의원을 사실상 공개 지지했습니다. 완주-전주 통합 추진 의사에 대한 화답 차원인데, 선거 판세는 요동치고 있습니다. 이지현... ",
+            "description": "[앵커] 통일부 정동영 장관과 이성윤 국회의원이 전북도지사 선거에 출마하는 안호영 의원을 사실상 공개... 현직 이점을 누리는 김관영 도지사와, 정책 대결을 내세우는 이원택 의원 등에 비해 상대적으로 지지율을... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476311&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-03T19:01:00",
@@ -462,228 +689,6 @@
                 "ARP89147"
             ],
             "title": "전주시·전주시의회 \"안호영 의원, 완주·전주 통합 찬성 결단 환영\""
-        },
-        {
-            "_id": "69814af338b0cf4096977757",
-            "link": "https://n.news.naver.com/mnews/article/003/0013743533?sid=102",
-            "created_at": "2026-02-03T10:10:09.593000",
-            "description": "전북 전주시의회는 2일 안호영 국회의원과 정동영 통일부 장관, 이성윤 국회의원, 김윤덕 국토교통부 장관이 완주·전주 통합에 대해 분명한 찬성 입장을 전한 데 대해 환영의 뜻을 밝혔다. 시의회는 이날 입장문을 통해... ",
-            "originallink": "https://www.newsis.com/view/NISX20260202_0003499118",
-            "press": "뉴시스",
-            "pubDate": "2026-02-02T14:10:00",
-            "related_members": [
-                "XEF29171",
-                "N2P9317N",
-                "ARP89147",
-                "JZY9937U",
-                "5N65159P"
-            ],
-            "title": "전주시의회, 완주·전주 통합 찬성 환영…\"상생 통합 나아가야\""
-        },
-        {
-            "_id": "69814af338b0cf4096977758",
-            "link": "https://n.news.naver.com/mnews/article/421/0008748004?sid=102",
-            "created_at": "2026-02-03T10:10:09.593000",
-            "description": "지원 의지를 밝혀 줄 것을 정부에 정중히 요청한다\"고 전했다. 한편 그간 사실상의 통합 반대 입장을 취해온 완주 안호영 의원은 이날 전주지역 국회의원(정동영·이성윤·김윤덕)들과 통합 추진에 함께하겠다는 입장을 밝혔다.",
-            "originallink": "https://www.news1.kr/local/jeonbuk/6058842",
-            "press": "뉴스1",
-            "pubDate": "2026-02-02T11:51:00",
-            "related_members": [
-                "XEF29171",
-                "N2P9317N",
-                "ARP89147",
-                "JZY9937U",
-                "5N65159P"
-            ],
-            "title": "김관영 \"전주·완주 행정통합 지역 정치권 용단 환영…경의 표한다\""
-        },
-        {
-            "_id": "697ff10538b0cf409697732e",
-            "link": "https://n.news.naver.com/mnews/article/032/0003425105?sid=100",
-            "created_at": "2026-02-02T09:34:13.496000",
-            "description": "바른미래당 의원 등이다. 민주당 쪽은 이학영 국회부의장, 정동영 통일부 장관, 조승래 민주당 사무총장, 이언주 최고위원, 김영진 의원, 임종성 전 의원 등이다. 이 중 윤상현 의원, 정양석·임종성·이찬열 전 의원 등은... ",
-            "originallink": "https://www.khan.co.kr/article/202602012028005",
-            "press": "경향신문",
-            "pubDate": "2026-02-01T20:28:00",
-            "related_members": [
-                "8X15119P",
-                "MSY7784L",
-                "7XY7109I",
-                "ZYP7962W",
-                "5765663F",
-                "K5F2023J",
-                "JG77046J",
-                "FYI20317",
-                "ARP89147"
-            ],
-            "title": "통일교 ‘쪼개기 후원’ 54명 명단 공개되자…거론 의원들 대부분 유착..."
-        },
-        {
-            "_id": "697ff10538b0cf409697732f",
-            "link": "https://n.news.naver.com/mnews/article/032/0003425064?sid=100",
-            "created_at": "2026-02-02T09:34:13.496000",
-            "description": "이학영 국회 부의장(의원), 정동영 통일부 장관(의원), 조승래 민주당 사무총장(의원), 이언주 민주당 최고위원(의원), 김영진 의원, 임종성 전 의원 등이 명단에 있었다. 당사자들은 통일교와의 유착 의혹을 부인했다.... ",
-            "originallink": "https://www.khan.co.kr/article/202602011659001",
-            "press": "경향신문",
-            "pubDate": "2026-02-01T16:59:00",
-            "related_members": [
-                "K5F2023J",
-                "ARP89147",
-                "8X15119P",
-                "ZYP7962W",
-                "5765663F",
-                "JG77046J",
-                "FYI20317",
-                "MSY7784L",
-                "7XY7109I"
-            ],
-            "title": "[단독]통일교 ‘쪼개기 후원’ 54명에 윤한홍·정진석·정동영 포함"
-        },
-        {
-            "_id": "697ff12a38b0cf4096977386",
-            "link": "https://n.news.naver.com/mnews/article/056/0012116198?sid=100",
-            "created_at": "2026-02-02T09:34:50.314000",
-            "description": "이후 국회 의원회관에서 당 지도부와 정부 관계자 등이 참석한 가운데 영결식이 거행될 예정입니다. 장례위원장인 김민석 국무총리를 비롯해 윤호중 행정안전부 장관, 정동영 통일부 장관, 안규백 국방부 장관 등 관계... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8473931&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-31T01:03:00",
-            "related_members": [
-                "M0A1658U",
-                "TST4507I",
-                "ARP89147",
-                "MLH1404S"
-            ],
-            "title": "고 이해찬 전 총리 오늘 발인…국회 영결식 이후 세종 은하수공원 안장"
-        },
-        {
-            "_id": "697cbd2438b0cf4096976af8",
-            "link": "https://n.news.naver.com/mnews/article/009/0005629411?sid=100",
-            "created_at": "2026-01-30T23:16:04.510000",
-            "description": "이 전 총리의 장례 사흘째인 이날은 윤호중 행정안전부 장관과 정동영 통일부 장관, 김성환... 전날인 28일에는 여권·정재계 인사들은 물론 김성태, 윤상현, 윤재옥, 정몽준, 태영호 등 보수 성향 전현직 국회의원들도... ",
-            "originallink": "https://www.mk.co.kr/article/11947254",
-            "press": "매일경제",
-            "pubDate": "2026-01-29T16:56:00",
-            "related_members": [
-                "MSY7784L",
-                "ARP89147",
-                "KFM1081G",
-                "ZRF3039U",
-                "XSP20229",
-                "M0A1658U",
-                "SLW27496"
-            ],
-            "title": "[단독] 장동혁, 내일 오전 故 이해찬 전 총리 빈소 찾는다"
-        },
-        {
-            "_id": "697cbd1b38b0cf4096976a5d",
-            "link": "https://n.news.naver.com/mnews/article/053/0000055394?sid=102",
-            "created_at": "2026-01-30T23:15:54.974000",
-            "description": "이재정·김영배·김현·이해식·정태호·최민희 민주당 의원이 베트남에서부터 고인과 함께 귀국했다. 공항에서는 상임장례위원장인 김민석 국무총리와 우원식 국회의장, 정청래 더불어민주당 대표, 한병도 민주당... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48225",
-            "press": "조선일보",
-            "pubDate": "2026-01-28T16:19:00",
-            "related_members": [
-                "WCD5518S",
-                "H5476989",
-                "B7D7534L",
-                "UQ282145",
-                "CCU1009B",
-                "MLH1404S",
-                "YS38221N",
-                "XBT9550Q",
-                "UHB5553T",
-                "7YL9580G",
-                "2385336L",
-                "M0A1658U",
-                "ARP89147",
-                "IN328264"
-            ],
-            "title": "[현장] \"민주주의의 어르신이 떠났다\"…이해찬 빈소에 이어진 조문 행렬"
-        },
-        {
-            "_id": "697cbd6138b0cf4096976cea",
-            "link": "https://n.news.naver.com/mnews/article/421/0008739571?sid=100",
-            "created_at": "2026-01-30T23:17:05.231000",
-            "description": "배 의원은 이날 국회 외교통일위원회 현안질의에서 통일부가 공개 추진하고 있는 65개 북한 사이트를 두고... 관련 질의에 정동영 통일부 장관은 \"웹사이트 주소는 방송미디어통신심의위원회(방미심위)에 있다\"며 \"(북... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6053871",
-            "press": "뉴스1",
-            "pubDate": "2026-01-28T14:18:00",
-            "related_members": [
-                "4X525582",
-                "ARP89147"
-            ],
-            "title": "배현진 \"통일부, 北 웹사이트 들어가보지도 않고 공개부터\""
-        },
-        {
-            "_id": "697cbd2038b0cf4096976ac2",
-            "link": "https://n.news.naver.com/mnews/article/023/0003955598?sid=100",
-            "created_at": "2026-01-30T23:15:59.955000",
-            "description": "국민의힘에서는 주호영 국회부의장, 김대식 의원이 조문했다. 빈소 내부에는 이재명 대통령, 우원식 국회의장, 조희대 대법원장, 김민석 총리, 정청래 민주당 대표, 장동혁 국민의힘 대표와 함께 문재인 전 대통령, 다이빙... ",
-            "originallink": "https://www.chosun.com/politics/assembly/2026/01/28/JRIXWYML7BF55OJ3IN6DKF3HX4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "press": "조선일보",
-            "pubDate": "2026-01-28T00:48:00",
-            "related_members": [
-                "MLH1404S",
-                "8SV6917G",
-                "ANS8383S",
-                "XBT9550Q",
-                "KFM1081G",
-                "2385336L",
-                "ARP89147",
-                "M0A1658U",
-                "IN328264"
-            ],
-            "title": "이해찬 빈소에 여권 총집결… 李대통령, 유족 만나며 눈물"
-        },
-        {
-            "_id": "6976fce58459600028997efe",
-            "link": "https://n.news.naver.com/mnews/article/055/0001327410?sid=100",
-            "created_at": "2026-01-26T14:34:26.716000",
-            "description": "그렇기 때문에 지금 이언주, 황명선, 강득구 이 최고위원 세 분도 그러한 것을 지적하고 우리 민주당이 건전한... ▷김태현 : 국회의원. ▶박지원 : 국회의원으로는 얼마든지 나갈 수 있는 길이 생긴다. 저는 그렇게 봐요.... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008417851&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-26T09:51:00",
-            "related_members": [
-                "8P37634C",
-                "8BF5855P",
-                "2385336L",
-                "RJH6314D",
-                "JG77046J",
-                "9YO73104",
-                "KFM1081G",
-                "TQP7167T",
-                "ARP89147",
-                "FYI20317"
-            ],
-            "title": "[정치쇼] 박지원 \"정청래 사과 후 전 당원 투표 하면 합당 무난히 될 것..."
-        },
-        {
-            "_id": "6976fd248459600028998072",
-            "link": "https://n.news.naver.com/mnews/article/020/0003692180?sid=100",
-            "created_at": "2026-01-26T14:35:29.968000",
-            "description": "국민의힘은 최보윤 수석대변인은 이날 논평을 통해 “이 수석부의장은 7선 국회의원과 국무총리를 지내며 정치의 중심에서 오랜 시간을 보낸 분이었다. 재야에서 시작해 국정의 책임을 맡기까지의 길은 우리 정치사의 한... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260125/133227783/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-25T21:32:00",
-            "related_members": [
-                "QWL7778X",
-                "UOS16250",
-                "ARP89147"
-            ],
-            "title": "李 “민주주의 큰 스승 잃어”…민주당은 애도기간 지정"
-        },
-        {
-            "_id": "6976fd2b845960002899808a",
-            "link": "https://n.news.naver.com/mnews/article/022/0004100396?sid=100",
-            "created_at": "2026-01-26T14:35:37.131000",
-            "description": "20대 국회의원으로 마무리할 때까지 7선 국회의원을 지냈다. 이 기간 자신의 선거에서 단 한 차례도... 2006년 3·1절 골프 파동으로 총리직에서 물러난 후 2007년 대선경선에 출마했지만 정동영 후보에 밀렸고, 2008년... ",
-            "originallink": "https://www.segye.com/newsView/20260125510081?OutUrl=naver",
-            "press": "세계일보",
-            "pubDate": "2026-01-25T21:26:00",
-            "related_members": [
-                "ARP89147"
-            ],
-            "title": "7선 의원·실세총리… 대통령 4명 만든 ‘민주당 킹메이커’ [이해찬 19..."
         }
     ],
     "recent_videos": [
@@ -702,7 +707,7 @@
             "url": "https://www.youtube.com/watch?v=_NU6IDFUzFM",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-02T09:52:21.414000",
+            "collected_at": "2026-02-06T10:51:45.888000",
             "duration": 120.0,
             "title": "민주평화당, 당 대표에 정동영 의원 선출 / 연합뉴스TV (YonhapnewsTV)",
             "upload_date": null
@@ -762,7 +767,7 @@
             "url": "https://www.youtube.com/watch?v=F0J9f8aKE-w",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-04T08:43:15.932000",
+            "collected_at": "2026-02-06T10:51:45.888000",
             "duration": 306.0,
             "title": "(정동영 의원) 언론인 출신이 판사출신에게 전하는 \"행정학 강의\"",
             "upload_date": null
@@ -812,7 +817,7 @@
             "url": "https://www.youtube.com/watch?v=sZ8QDAGcKzw",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-04T08:43:15.932000",
+            "collected_at": "2026-02-06T10:51:45.888000",
             "duration": 298.0,
             "title": "방통위 김태규 직무대행, 정동영 의원 질의에 끝까지 대답하지 못한 한 마디🔥",
             "upload_date": null
@@ -842,7 +847,7 @@
             "url": "https://www.youtube.com/watch?v=cumnbfODx78",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-04T08:43:15.932000",
+            "collected_at": "2026-02-06T10:51:45.888000",
             "duration": 990.0,
             "title": "정동영 \"의원수 늘리되 세비 반으로 줄이자…시민형 의원으로\" / 연합뉴스 (Yonhapnews)",
             "upload_date": null
@@ -862,7 +867,7 @@
             "url": "https://www.youtube.com/watch?v=ifxFxqUxPD0",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-04T08:43:15.932000",
+            "collected_at": "2026-02-06T10:51:45.888000",
             "duration": 156.0,
             "title": "\"전재수·정동영·나경원·김규환·임종성 등 정치인 5명에게도 접촉\" (2025.12.10/뉴스데스크/MBC)",
             "upload_date": null
@@ -872,7 +877,7 @@
             "url": "https://www.youtube.com/watch?v=D3KRjKtx3fk",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-02T09:52:22.740000",
+            "collected_at": "2026-02-06T10:51:47.185000",
             "duration": 352.0,
             "title": "정동영에 나경원 이름까지..윤영호 입 열리자 '펄쩍' [뉴스.zip/MBC뉴스]",
             "upload_date": null
@@ -882,7 +887,7 @@
             "url": "https://www.youtube.com/watch?v=eH1KDC5gfig",
             "HG_NM": "정동영",
             "MONA_CD": "ARP89147",
-            "collected_at": "2026-02-04T08:43:15.932000",
+            "collected_at": "2026-02-06T10:51:45.888000",
             "duration": 149.0,
             "title": "[단독] 전재수·임종성·김규환 '금품수수' 적시…정동영·나경원 이름은 나왔지만 / JTBC 뉴스룸",
             "upload_date": null
@@ -1298,5 +1303,5 @@
             "RST_PROPOSER": "정동영"
         }
     ],
-    "exported_at": "2026-02-04T18:40:40.817692"
+    "exported_at": "2026-02-06T15:38:57.178351"
 }

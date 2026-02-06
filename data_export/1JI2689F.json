@@ -44,36 +44,36 @@
         "keywords": [
             "대전",
             "박용",
-            "통합",
             "중구",
+            "통합",
             "충남",
             "민주당",
+            "발의",
             "토론회",
             "공동",
+            "대표",
+            "더불어민주당",
             "지역",
-            "발의",
             "박정현",
             "박범계",
-            "더불어민주당",
-            "대표",
-            "관리법"
+            "납품"
         ],
         "keyword_frequency": [
             {
                 "text": "대전",
-                "value": 47
+                "value": 51
             },
             {
                 "text": "박용",
-                "value": 41
+                "value": 45
+            },
+            {
+                "text": "중구",
+                "value": 19
             },
             {
                 "text": "통합",
                 "value": 18
-            },
-            {
-                "text": "중구",
-                "value": 17
             },
             {
                 "text": "충남",
@@ -84,6 +84,10 @@
                 "value": 16
             },
             {
+                "text": "발의",
+                "value": 13
+            },
+            {
                 "text": "토론회",
                 "value": 12
             },
@@ -92,12 +96,16 @@
                 "value": 11
             },
             {
-                "text": "지역",
+                "text": "대표",
                 "value": 10
             },
             {
-                "text": "발의",
-                "value": 9
+                "text": "더불어민주당",
+                "value": 10
+            },
+            {
+                "text": "지역",
+                "value": 10
             },
             {
                 "text": "박정현",
@@ -108,46 +116,38 @@
                 "value": 9
             },
             {
-                "text": "더불어민주당",
-                "value": 8
-            },
-            {
-                "text": "대표",
-                "value": 7
-            },
-            {
-                "text": "관리법",
+                "text": "납품",
                 "value": 7
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:10.968301",
+        "last_analyzed_at": "2026-02-06T15:38:27.920174",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
-                1,
-                0,
                 0,
                 1,
                 0,
+                0,
+                2,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"박용갑 의원은 주로 주거, 교통, 안전 및 복지 분야에 집중하며, 개혁가적인 입법 활동을 통해 국민의 생활 안정과 복지 향상을 개선하는 데 주력하고 있습니다. 특히 공동주택관리법, 주거급여법, 전세사기피해자 지원 관련 법안들을 통해 국민의 실생활과 직결된 주거 안정성을 높이는 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,32 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545e138b0cf40969784d6",
+            "link": "https://n.news.naver.com/mnews/article/421/0008756517?sid=102",
+            "created_at": "2026-02-06T10:37:35.808000",
+            "description": "박용갑 더불어민주당 국회의원(대전 중구)이 ‘철도차량 납품 지연 방지 3법’을 대표발의했다. 박 의원이 발의한 철도차량 납품 지연 방지 3법(국가계약법, 지방계약법, 공공기관운영법)은 국토교통부, 한국철도공사... ",
+            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6063667",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T16:12:00",
+            "related_members": [
+                "1JI2689F"
+            ],
+            "title": "박용갑 ‘철도차량 납품 지연 방지 3법’ 대표발의"
+        },
+        {
+            "_id": "698545e138b0cf40969784d7",
+            "link": "https://n.news.naver.com/mnews/article/421/0008754683?sid=102",
+            "created_at": "2026-02-06T10:37:35.808000",
+            "description": "박용갑 더불어민주당 국회의원(대전 중구)은 대전시가 추진한 5개 도로 개설 사업이 국토교통부의 '제5차 대도시권 교통혼잡도로 개선사업계획'에 반영됐다고 5일 밝혔다. 국가계획에 포함된 사업은 △갑천 좌안도로... ",
+            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6062726",
+            "press": "뉴스1",
+            "pubDate": "2026-02-05T08:54:00",
+            "related_members": [
+                "1JI2689F"
+            ],
+            "title": "대전 도심 교통난 푼다…5개 도로개설 사업 국가계획 포함"
+        },
         {
             "_id": "69814b0238b0cf409697779e",
             "link": "https://n.news.naver.com/mnews/article/421/0008748615?sid=102",
@@ -452,7 +478,7 @@
             "url": "https://www.youtube.com/watch?v=UCwNLUGOmedvIXciy0eVFD9A",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:35:59.284000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": null,
             "title": "박용갑TV",
             "upload_date": null
@@ -462,7 +488,7 @@
             "url": "https://www.youtube.com/watch?v=-RGTDVPvOHc",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:35:59.284000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": 123.0,
             "title": "국회의원 박용갑 2025 을사년 새해인사",
             "upload_date": null
@@ -472,7 +498,7 @@
             "url": "https://www.youtube.com/watch?v=Pek4CnK0gvQ",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:35:59.284000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": 7365.0,
             "title": "[국회의원 박용갑] 전세피해 해소를 위한 주택임대차등기 법제화 관련 법률 개정 토론회",
             "upload_date": null
@@ -482,7 +508,7 @@
             "url": "https://www.youtube.com/watch?v=X7l1UAX1W1I",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:35:59.284000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": 5410.0,
             "title": "[국회의원 박용갑 국회 토론회] 「공동주거시설 층간소음관리법」제정 국회 토론회",
             "upload_date": null
@@ -492,7 +518,7 @@
             "url": "https://www.youtube.com/watch?v=GCFzFlHa_84",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:35:59.284000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": 896.0,
             "title": "민주당 박용갑 의원1 11 2 합 충간소음관리법 제정 기자회견",
             "upload_date": null
@@ -522,7 +548,7 @@
             "url": "https://www.youtube.com/watch?v=HQcvm9LO7qM",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:36:00.593000",
+            "collected_at": "2026-02-06T10:44:33.675000",
             "duration": 94.0,
             "title": "[대전MBC뉴스]'술'이 문제...박용갑,육군 장교단",
             "upload_date": null
@@ -542,7 +568,7 @@
             "url": "https://www.youtube.com/watch?v=1qv1lvwoXas",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-01-15T18:17:35.162000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": 6738.0,
             "title": "[국회의원 박용갑 국회토론회] '연이은 지반침하 사고, 대책은 무엇인가?' 긴급 토론회",
             "upload_date": null
@@ -552,7 +578,7 @@
             "url": "https://www.youtube.com/watch?v=6wJoczdNVr4",
             "HG_NM": "박용갑",
             "MONA_CD": "1JI2689F",
-            "collected_at": "2026-02-04T08:35:59.284000",
+            "collected_at": "2026-02-06T10:44:32.403000",
             "duration": 174.0,
             "title": "[선택 2024]'박용갑 vs 이은권'..대전 중구 표심 어디로?｜ TJB 대전·세종·충남뉴스",
             "upload_date": null
@@ -2408,5 +2434,5 @@
             "RST_PROPOSER": "박용갑"
         }
     ],
-    "exported_at": "2026-02-04T18:40:10.968301"
+    "exported_at": "2026-02-06T15:38:27.920174"
 }

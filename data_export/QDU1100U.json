@@ -54,9 +54,9 @@
             "지도부",
             "동원",
             "조치",
-            "종교",
-            "단체",
-            "의혹"
+            "의혹",
+            "요구",
+            "입당"
         ],
         "keyword_frequency": [
             {
@@ -65,11 +65,11 @@
             },
             {
                 "text": "제명",
-                "value": 32
+                "value": 30
             },
             {
                 "text": "국민",
-                "value": 21
+                "value": 22
             },
             {
                 "text": "한동훈",
@@ -77,11 +77,11 @@
             },
             {
                 "text": "장동",
-                "value": 18
+                "value": 20
             },
             {
                 "text": "대표",
-                "value": 17
+                "value": 18
             },
             {
                 "text": "사실",
@@ -108,46 +108,46 @@
                 "value": 14
             },
             {
-                "text": "종교",
-                "value": 13
-            },
-            {
-                "text": "단체",
-                "value": 13
-            },
-            {
                 "text": "의혹",
                 "value": 13
+            },
+            {
+                "text": "요구",
+                "value": 12
+            },
+            {
+                "text": "입당",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:46.914881",
+        "last_analyzed_at": "2026-02-06T15:39:03.765748",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                12,
-                3,
                 0,
                 1,
                 0,
                 0,
+                1,
+                1,
                 0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"진종오 의원은 주로 체육, 문화, 교육 및 안전 분야에 집중하며, 혁신적이고 개혁적인 입법 활동을 통해 국민의 복지와 안전을 개선하는 데 주력하고 있습니다. 특히 국민체육진흥법 및 저작권법 관련 법안들을 통해 국민의 실생활과 직결된 문화와 체육 활동의 발전을 도모하며, 건강하고 안전한 사회를 위한 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -161,6 +161,43 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545e338b0cf40969784da",
+            "link": "https://n.news.naver.com/mnews/article/011/0004587291?sid=100",
+            "created_at": "2026-02-06T10:37:37.497000",
+            "description": "한지아 국민의힘 의원도 “사퇴 요구에 대한 답이 아니라 사퇴하지 않기 위한 조건을 만든 것에 불과하다”며... 실시하겠다”며 “당원들이 사퇴하라거나 재신임받지 못하면 대표직도, 국회의원직도 내려놓겠다”고 밝혔다.",
+            "originallink": "https://www.sedaily.com/article/20005633?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-05T20:39:00",
+            "related_members": [
+                "AEJ19639",
+                "KFM1081G",
+                "4019850M",
+                "8UC4779G",
+                "QDU1100U",
+                "Q918403D"
+            ],
+            "title": "장동혁 ‘의원직 걸고 전 당원 투표’에…친한계 “헛소리·책임 회피”..."
+        },
+        {
+            "_id": "698545c338b0cf4096978407",
+            "link": "https://n.news.naver.com/mnews/article/020/0003694971?sid=100",
+            "created_at": "2026-02-06T10:37:05.269000",
+            "description": "최고위원이 국회의원한테 반말로 너 나와 이렇게 하면 그게 맞는 겁니까? 그리고 이 상황은 일단 구조를 또... 사실 국민의힘 진종오 의원이 어제 한 유튜브에 나와서 이 상황에 대해서 본인이 본 바를 얘기를 했거든요. 거기... ",
+            "originallink": "https://www.donga.com/news/Politics/article/all/20260204/133295448/1",
+            "press": "동아일보",
+            "pubDate": "2026-02-04T15:06:00",
+            "related_members": [
+                "HS39431V",
+                "YOG1280B",
+                "KFM1081G",
+                "EH27538E",
+                "RPN2293B",
+                "WJL30106",
+                "QDU1100U"
+            ],
+            "title": "“국힘 암세포 도려내? 암 걸린 원인은 비상계엄-윤어게인 못 도려낸 것..."
+        },
         {
             "_id": "697ff0fb38b0cf4096977311",
             "link": "https://n.news.naver.com/mnews/article/028/0002789334?sid=100",
@@ -372,7 +409,7 @@
             "_id": "697cbd1e38b0cf4096976aa1",
             "link": "https://n.news.naver.com/mnews/article/009/0005629236?sid=100",
             "created_at": "2026-01-30T23:15:57.845000",
-            "description": "이날 오후 의원총회가 열리는 국회 본청에서 친한계 의원들은 기자회견을 열고 “오늘 한동훈 전 대표에 대한... 정연욱, 진종오, 한지아 의원 등 16명이 이름을 올렸다. 고 의원은 “명확한 사실관계와 논리도 없이... ",
+            "description": "이날 오후 의원총회가 열리는 국회 본청에서 친한계 의원들은 기자회견을 열고 “오늘 한동훈 전 대표에 대한... 정성국, 정연욱, 진종오, 한지아 의원 등 16명이 이름을 올렸다. 고 의원은 “명확한 사실관계와 논리도 없이... ",
             "originallink": "https://www.mk.co.kr/article/11947007",
             "press": "매일경제",
             "pubDate": "2026-01-29T14:10:00",
@@ -885,47 +922,6 @@
                 "QDU1100U"
             ],
             "title": "하루 앞당겨 귀국한 김경… 경찰 미적대는 사이 증거인멸 끝냈나"
-        },
-        {
-            "_id": "6964b54b631fd174349960ce",
-            "link": "https://n.news.naver.com/mnews/article/056/0012102311?sid=100",
-            "created_at": "2026-01-12T17:48:08.356000",
-            "description": "주호영 국회부의장 등 한일의원연맹·국회 외교통일위원회 소속 의원들이 다카이치 사나에 일본 총리를 만나... 면담에는 주호영 부의장을 비롯해, 더불어민주당 민홍철·이재강·이재정·홍기원 의원, 국민의힘 김석기... ",
-            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8455442&ref=A",
-            "press": "KBS",
-            "pubDate": "2026-01-10T11:50:00",
-            "related_members": [
-                "WXJ8352N",
-                "3LP22204",
-                "QDU1100U",
-                "6EN68926",
-                "4X525582",
-                "5MD4184K",
-                "O6D8329R",
-                "ZYP7962W",
-                "8SV6917G",
-                "YOG1280B",
-                "UQ282145",
-                "8UC4779G"
-            ],
-            "title": "주호영, 다카이치 만나 “어려운 사안 차분히 관리”…한일협력 강화 논..."
-        },
-        {
-            "_id": "6964b54e631fd17434996108",
-            "link": "https://n.news.naver.com/mnews/article/020/0003687625?sid=100",
-            "created_at": "2026-01-12T17:48:11.194000",
-            "description": "“민주당에서 국회의원들의 공개적인 목소리가 매우 드물게 나오고 있는 상황 자체가 김병기 황금폰이... 김경 서울시의원 출국 금지 안 시켰죠? 그리고 이 김경 시의원은 작년 9월에 진종오 의원이 그 종교단체 유착 우억... ",
-            "originallink": "https://www.donga.com/news/Politics/article/all/20260107/133112110/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-07T19:31:00",
-            "related_members": [
-                "A494529E",
-                "8Q88373R",
-                "5765663F",
-                "TST4507I",
-                "QDU1100U"
-            ],
-            "title": "“‘김병기 황금폰’ 있나? 민주당서 제명 못하는 이유는…”[정치를 부..."
         }
     ],
     "recent_videos": [
@@ -934,7 +930,7 @@
             "url": "https://www.youtube.com/watch?v=cuzkwFMLdlc",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:52.809000",
+            "collected_at": "2026-02-06T10:53:20.909000",
             "duration": 778.0,
             "title": "[뉴스트라다무스] 정치권 새로운 빅 이슈 진종오 녹취!! '조희대 회동' 제보와 다른 점은?",
             "upload_date": null
@@ -954,7 +950,7 @@
             "url": "https://www.youtube.com/watch?v=AmCMu8CTlU8",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:52.809000",
+            "collected_at": "2026-02-06T10:53:20.909000",
             "duration": 441.0,
             "title": "진종오 \"경찰은 이재명에 어디까지 보고했나\" [티조Clip]",
             "upload_date": null
@@ -964,7 +960,7 @@
             "url": "https://www.youtube.com/watch?v=9q7imnXGaU4",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": 661.0,
             "title": "명사수 진종오, 이혜훈 정조준｜\"임신 중에도 괴롭혀…성희롱 인사 최측근으로\" 서울시 중구 구의원 충격 폭로 [현장쏙]  / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -974,7 +970,7 @@
             "url": "https://www.youtube.com/watch?v=TWMDocyU9C0",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": 364.0,
             "title": "[현장쏙] 한국불교태고종, 진종오 국힘 의원에 사과 촉구 \"與경선 동원 의혹은 허위…정치적 개입 안 해\"｜\"명백한 명예훼손\" 반박 / 연합뉴스TV(YonhapnewsTV)",
             "upload_date": null
@@ -984,7 +980,7 @@
             "url": "https://www.youtube.com/watch?v=QtwdT4m6RVc",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:52.809000",
+            "collected_at": "2026-02-06T10:53:20.909000",
             "duration": 113.0,
             "title": "'살상도 가능한 실탄' 시중에?…진종오 \"2만발 불법유통\" / JTBC 뉴스룸",
             "upload_date": null
@@ -1004,7 +1000,7 @@
             "url": "https://www.youtube.com/watch?v=tbi47E6K_3g",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": 1201.0,
             "title": "[인터뷰] 410 총선 당선인을 만나다! 국민의힘 진종오 국회의원 당선인",
             "upload_date": null
@@ -1054,7 +1050,7 @@
             "url": "https://www.youtube.com/watch?v=gF2AkF3xs0U",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": 127.0,
             "title": "\"이재명 암살설 수사하다 경기용 실탄 대량 압수\"…진종오 \"APEC 앞둔 정부, 왜 밀실수사하냐\"｜지금 이 장면",
             "upload_date": null
@@ -1064,7 +1060,7 @@
             "url": "https://www.youtube.com/watch?v=7fKZU_-JHDo",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:52.809000",
+            "collected_at": "2026-02-06T10:53:20.909000",
             "duration": 2940.0,
             "title": "[주영진의뉴스직격]진종오 \"종교단체 3000명 입당시켜 김민석 밀려고\"…김경\"진종오 녹취록, 악의적 조작\"/우상호\"김현지 국감 100% 출석\"/김수민 윤재관 김철근 장혜영[중간계]",
             "upload_date": null
@@ -1094,7 +1090,7 @@
             "url": "https://www.youtube.com/watch?v=UCi_zetLFfrpQMznWtegWRog",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": null,
             "title": "진종오TV",
             "upload_date": null
@@ -1104,7 +1100,7 @@
             "url": "https://www.youtube.com/watch?v=pFhAcje1PR4",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": 109.0,
             "title": "(광배근 열일♡) 사신 진종오(Jin Jong oh)， 한 치의 오차 없는 클린샷↗ 아는 형님(Knowing bros) 189회",
             "upload_date": null
@@ -1114,7 +1110,7 @@
             "url": "https://www.youtube.com/watch?v=rVgijDuW2i0",
             "HG_NM": "진종오",
             "MONA_CD": "QDU1100U",
-            "collected_at": "2026-02-04T08:44:51.278000",
+            "collected_at": "2026-02-06T10:53:19.702000",
             "duration": 127.0,
             "title": "진종오 \"민주당, 종교단체 신도 3천 명 활용 정황\"…정청래 \"윤리감찰단 조사 지시\"｜지금 이 장면",
             "upload_date": null
@@ -1876,5 +1872,5 @@
             "RST_PROPOSER": "진종오"
         }
     ],
-    "exported_at": "2026-02-04T18:40:46.914881"
+    "exported_at": "2026-02-06T15:39:03.766747"
 }

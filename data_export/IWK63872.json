@@ -71,21 +71,21 @@
             "특검",
             "현장",
             "채널A",
+            "민주당",
+            "통일교",
             "위원회",
             "원내",
             "제명",
-            "장동",
-            "통일교",
-            "교회"
+            "추미애"
         ],
         "keyword_frequency": [
             {
                 "text": "국민",
-                "value": 22
+                "value": 21
             },
             {
                 "text": "회견",
-                "value": 18
+                "value": 17
             },
             {
                 "text": "일정",
@@ -97,7 +97,7 @@
             },
             {
                 "text": "반대",
-                "value": 11
+                "value": 10
             },
             {
                 "text": "정당",
@@ -116,6 +116,14 @@
                 "value": 8
             },
             {
+                "text": "민주당",
+                "value": 7
+            },
+            {
+                "text": "통일교",
+                "value": 7
+            },
+            {
                 "text": "위원회",
                 "value": 7
             },
@@ -128,46 +136,38 @@
                 "value": 7
             },
             {
-                "text": "장동",
-                "value": 6
-            },
-            {
-                "text": "통일교",
-                "value": 6
-            },
-            {
-                "text": "교회",
+                "text": "추미애",
                 "value": 6
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:44.225628",
+        "last_analyzed_at": "2026-02-06T15:39:00.863645",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
-                3,
-                0,
                 0,
                 1,
                 1,
-                1
+                1,
+                1,
+                0
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"조배숙 의원은 주로 법률 개정 및 사회 안전 분야에 집중하며, 개혁가적 입법 활동을 통해 유권자의 안전과 복지 개선에 주력하고 있습니다. 특히 성폭력 및 가정폭력 관련 법안들을 통해 국민의 실생활과 직결된 안전한 사회 구축을 위한 기대 효과를 만들어내는 행보를 보입니다.\"",
@@ -182,11 +182,28 @@
     },
     "recent_news": [
         {
+            "_id": "698545c338b0cf4096978408",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119496?sid=100",
+            "created_at": "2026-02-06T10:37:05.929000",
+            "description": "이어 \"추미애 법사위원장과 민주당의 법사위원 행태를 강력하게 규탄한다\"면서 추미애 의원의 위원장직 사퇴를 요구했습니다. 구체적으로 나 의원은 어제 국회 법사위 상황과 관련해 \"법제처장(조원철)에게 (신임... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478378&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T12:15:00",
+            "related_members": [
+                "OWD1018N",
+                "SLW27496",
+                "REG96285",
+                "URV1689Q",
+                "IWK63872"
+            ],
+            "title": "국힘 법사위원들 “민주당, 사법부·야당 길들이기 ‘절정’…추미애 위..."
+        },
+        {
             "_id": "6982827a38b0cf4096977cce",
             "link": "https://n.news.naver.com/mnews/article/079/0004112090?sid=100",
             "created_at": "2026-02-04T08:19:20.903000",
-            "description": "그런데 국회의원들 가운데도 다주택자들이 상당히 많았습니다. 저희가 전수조사를 해 봤는데, 그 결과를... 다음은 국민의힘 조은희 의원이었는데, 방배동 아파트 1채와 은평구에 오피스텔 9채를 소유했고요. 3위는... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6466347?utm_source=naver&utm_medium=article&utm_campaign=20260204060208",
+            "description": "그런데 국회의원들 가운데도 다주택자들이 상당히 많았습니다. 저희가 전수조사를 해 봤는데, 그 결과를... 4위는 최수진(5채), 5위는 김종양(4채), 공동 6위는 윤상현, 조배숙 의원이었고요. 69명 가운데 나머지 62명은 모두... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466347?utm_source=naver&utm_medium=article&utm_campaign=20260204102212",
             "press": "노컷뉴스",
             "pubDate": "2026-02-04T05:02:00",
             "related_members": [
@@ -196,7 +213,8 @@
                 "N378078V",
                 "M4O5221T",
                 "KFM1081G",
-                "MQU41854"
+                "MQU41854",
+                "URX8075K"
             ],
             "title": "[단독]李 '투기' 지목 다주택자들, 국회에도 69명이나 있다[박지환의 뉴..."
         },
@@ -222,7 +240,7 @@
             "_id": "69814b3238b0cf4096977824",
             "link": "https://n.news.naver.com/mnews/article/079/0004111602?sid=103",
             "created_at": "2026-02-03T10:11:12.690000",
-            "description": "(장소) 교회 폐쇄 재산 몰수 악법 반대 기자회견 / 28일 국회 소통관 조배숙 의원실 [심하보 목사 / 은평제일교회] \"얼마 전에 정보통신망법을 개정하며 우리가 믿는 반성경적 행위에 대한 말을 하면 처벌되는 내용을... ",
+            "description": "통일교·신천지 정교유착 방지법으로 불리는 민법 개정안이 국회에 발의된 가운데 일부 개신교계가 '교회... [기자] 무소속 최혁진 의원 등 범여권 의원 11명은 최근 민법 일부개정법률안을 발의했습니다. 이 개정안은... ",
             "originallink": "https://www.nocutnews.co.kr/news/6465607?utm_source=naver&utm_medium=article&utm_campaign=20260202100053",
             "press": "노컷뉴스",
             "pubDate": "2026-02-02T22:01:00",
@@ -356,7 +374,7 @@
             "_id": "6972d20d845960002899777d",
             "link": "https://n.news.naver.com/mnews/article/262/0000019097?sid=100",
             "created_at": "2026-01-23T10:42:35.127000",
-            "description": "그러나 원내대표 선거의 경우 권리당원 투표 20%, 국회의원 투표 80%를 반영한다는 점에서 백 의원의 선명성은 빛을 보지 못했다. 당 전략기획위원장과 정책위의장을 역임한 진성준 의원은 자타 공인의 ‘전략통’... ",
+            "description": "국회의원 한 사람 한 사람이 동등한 권한과 책임을 행사하는 헌법기관이라는 점에서 원내대표 선거는 가장... 진성준 의원은 자타 공인의 ‘전략통’ ‘정책통’ 인사다. ‘박정어학원’ 설립자로 환경노동위원장과... ",
             "originallink": "https://shindonga.donga.com/3/all/13/6066907/1",
             "press": "동아일보",
             "pubDate": "2026-01-21T09:01:00",
@@ -696,7 +714,7 @@
             "url": "https://www.youtube.com/watch?v=jca8Nc0IBmw",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:09.998000",
+            "collected_at": "2026-02-06T10:52:39.154000",
             "duration": 176.0,
             "title": "[전주] \"尹 내란죄, 신중하게 접근해야\"..국회 아수라장 만든 조배숙(뉴스투데이 2024.12.12 광주MBC)",
             "upload_date": null
@@ -706,7 +724,7 @@
             "url": "https://www.youtube.com/watch?v=5J1EXI7scsM",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-01-21T08:51:04.372000",
+            "collected_at": "2026-02-06T10:52:37.898000",
             "duration": 592.0,
             "title": "제20대 국회 인터뷰 릴레이 칭찬 174회 조배숙 의원 민주평화당",
             "upload_date": null
@@ -716,7 +734,7 @@
             "url": "https://www.youtube.com/watch?v=qWDiZRc9Jpg",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:08.669000",
+            "collected_at": "2026-02-06T10:52:37.898000",
             "duration": 266.0,
             "title": "\"종교 단체 해산될 수 있습니다\"...단호한 장관, 조배숙 '화들짝'",
             "upload_date": null
@@ -766,7 +784,7 @@
             "url": "https://www.youtube.com/watch?v=6K-inaD6GnU",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:09.998000",
+            "collected_at": "2026-02-06T10:52:39.154000",
             "duration": 671.0,
             "title": "박지원, 나즈막히 조배숙 의원 향해 이름 부르더니.. \"국함으로 가더니 완전히...\" 나가도 너무 나간다 이야기하며.. 발언 시작하는데.. 조배숙 의원 표정이...",
             "upload_date": null
@@ -776,7 +794,7 @@
             "url": "https://www.youtube.com/watch?v=2SjPxOwFXkk",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:09.998000",
+            "collected_at": "2026-02-06T10:52:39.154000",
             "duration": 16149.0,
             "title": "[🔴라이브를 켜라] 조배숙, 조은석 특검 결과 발표 관련 긴급 기자회견 현장 / 채널A",
             "upload_date": null
@@ -786,7 +804,7 @@
             "url": "https://www.youtube.com/watch?v=2i2Zp3cefPw",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:08.669000",
+            "collected_at": "2026-02-06T10:52:37.898000",
             "duration": 1346.0,
             "title": "'무죄추정의 원칙?' 으로 내란도 무죄다? 조배숙 의원의 논리에 민주당 의원들 표정이...",
             "upload_date": null
@@ -826,7 +844,7 @@
             "url": "https://www.youtube.com/watch?v=EbvG4vevun8",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:08.669000",
+            "collected_at": "2026-02-06T10:52:37.898000",
             "duration": 640.0,
             "title": "[EP.26] 대한민국 최초 여성 검사 출신이자 5선 국회의원인 우아한(?) ‘호남 독수리’ 조배숙 의원👩🏻‍⚖️ | 국집소2 | 국회방송",
             "upload_date": null
@@ -836,7 +854,7 @@
             "url": "https://www.youtube.com/watch?v=dVpHaeXhNqs",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:08.669000",
+            "collected_at": "2026-02-06T10:52:37.898000",
             "duration": 940.0,
             "title": "조배숙 의원 갑자기, 오전 법사위 '부끄러웠다' 고백하더니.... 당사자 없는데 누구 들으라고???",
             "upload_date": null
@@ -856,7 +874,7 @@
             "url": "https://www.youtube.com/watch?v=hS2dLDzWcAw",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:09.998000",
+            "collected_at": "2026-02-06T10:52:39.154000",
             "duration": 28755.0,
             "title": "[🔴라이브를 켜라] '종교해산' 관련 조배숙 의원 긴급 기자회견 현장 / 채널A",
             "upload_date": null
@@ -866,7 +884,7 @@
             "url": "https://www.youtube.com/watch?v=zDFj6hiOKxw",
             "HG_NM": "조배숙",
             "MONA_CD": "IWK63872",
-            "collected_at": "2026-02-04T08:44:08.669000",
+            "collected_at": "2026-02-06T10:52:37.898000",
             "duration": 161.0,
             "title": "조배숙 “민생지원금, 체크카드도 있는데 왜 쿠폰만 고집하죠?” [현장영상] / 채널A",
             "upload_date": null
@@ -1326,5 +1344,5 @@
             "RST_PROPOSER": "조배숙"
         }
     ],
-    "exported_at": "2026-02-04T18:40:44.225628"
+    "exported_at": "2026-02-06T15:39:00.863645"
 }

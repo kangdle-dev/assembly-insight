@@ -47,112 +47,112 @@
     },
     "analysis": {
         "keywords": [
-            "영결식",
             "대변인",
-            "총리",
-            "이해찬",
-            "대표",
-            "수석",
-            "정청래",
-            "더불어민주당",
-            "민주당",
-            "민주주의",
-            "엄수",
-            "눈물",
+            "당원",
             "위원장",
-            "대통령",
-            "국민"
+            "대표",
+            "정청래",
+            "수석",
+            "민주당",
+            "더불어민주당",
+            "통합",
+            "시장",
+            "합당",
+            "의혹",
+            "현역",
+            "대전",
+            "사퇴"
         ],
         "keyword_frequency": [
             {
-                "text": "영결식",
-                "value": 32
-            },
-            {
                 "text": "대변인",
-                "value": 28
+                "value": 21
             },
             {
-                "text": "총리",
-                "value": 27
+                "text": "당원",
+                "value": 20
             },
             {
-                "text": "이해찬",
-                "value": 27
+                "text": "위원장",
+                "value": 19
             },
             {
                 "text": "대표",
-                "value": 25
-            },
-            {
-                "text": "수석",
-                "value": 25
+                "value": 19
             },
             {
                 "text": "정청래",
-                "value": 22
+                "value": 19
             },
             {
-                "text": "더불어민주당",
+                "text": "수석",
                 "value": 19
             },
             {
                 "text": "민주당",
+                "value": 18
+            },
+            {
+                "text": "더불어민주당",
                 "value": 17
             },
             {
-                "text": "민주주의",
-                "value": 16
-            },
-            {
-                "text": "엄수",
-                "value": 15
-            },
-            {
-                "text": "눈물",
+                "text": "통합",
                 "value": 14
             },
             {
-                "text": "위원장",
+                "text": "시장",
+                "value": 14
+            },
+            {
+                "text": "합당",
+                "value": 14
+            },
+            {
+                "text": "의혹",
+                "value": 14
+            },
+            {
+                "text": "현역",
                 "value": 13
             },
             {
-                "text": "대통령",
+                "text": "대전",
                 "value": 12
             },
             {
-                "text": "국민",
-                "value": 10
+                "text": "사퇴",
+                "value": 12
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:10.765499",
+        "last_analyzed_at": "2026-02-06T15:38:27.726367",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
-                0,
                 1,
-                11,
                 5,
                 2,
                 5,
-                1
+                10,
+                5,
+                2
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"박수현 의원은 주로 문화유산 보호 및 관광 진흥에 집중하며, 혁신적이고 개혁적인 입법 활동을 통해 지역 경제와 사회적 복지를 개선하는 데 주력하고 있습니다. 특히 문화유산의 보존 및 활용과 관광진흥 관련 법안들을 통해 국민의 실생활과 직결된 삶의 질 향상과 지역 균형 발전을 만들어내는 행보를 보입니다.\"",
@@ -167,10 +167,293 @@
     },
     "recent_news": [
         {
+            "_id": "698545dc38b0cf40969784b4",
+            "link": "https://n.news.naver.com/mnews/article/022/0004103725?sid=102",
+            "created_at": "2026-02-06T10:37:30.097000",
+            "description": "특별법안 국회 통과 등 현안이 있는데도 ‘정치적 체급’만 높이려는 행태에 불만이 쏟아지고 있다. 5일 민주당 대전시당·충남도당에 따르면 3일까지 지역위원장직을 내려놓은 현역 의원은 박범계·장종태·장철민 의원... ",
+            "originallink": "https://www.segye.com/newsView/20260205519802?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-06T06:04:00",
+            "related_members": [
+                "4U29186R",
+                "2NV6751W",
+                "7R156073",
+                "CIZ8557P",
+                "5TQ6306B"
+            ],
+            "title": "첫 통합시장 도전?… 대전·충남 지역위원장 줄사퇴"
+        },
+        {
+            "_id": "698545de38b0cf40969784be",
+            "link": "https://n.news.naver.com/mnews/article/421/0008757181?sid=102",
+            "created_at": "2026-02-06T10:37:32.547000",
+            "description": "장철민 의원(대전 동구)은 낡은 리더십이 아닌 이재명 대통령과 바로 통화할 수 있고 국회를 설득할 수 있는 힘 있는 시장이 필요하다는 점을 부각시키고 있다. 통합 논의가 본격화하자 통합 5대 선결과제에 이어 대전... ",
+            "originallink": "https://www.news1.kr/local/daejeon-chungnam/6063605",
+            "press": "뉴스1",
+            "pubDate": "2026-02-06T06:00:00",
+            "related_members": [
+                "7R156073",
+                "5TQ6306B",
+                "HVV5250J",
+                "4019850M",
+                "CIZ8557P",
+                "2NV6751W"
+            ],
+            "title": "대전·충남 통합특별시장 누가 나오나…강훈식 등판 여부 등 관심"
+        },
+        {
+            "_id": "698545c438b0cf4096978414",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119685?sid=100",
+            "created_at": "2026-02-06T10:37:06.899000",
+            "description": "두 사람은 김 전 의원을 지역구 국회의원 선거 후보자로 추천하는 일과 관련해서 김 전 의원 회계 책임자였던... 지금 앵커 설명하신 대로 그런 내용으로 정리가 되고, 그래서 한정애 정책위의장을 중심으로 지금까지... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478555&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T15:59:00",
+            "related_members": [
+                "G152611B",
+                "GDG1847Z",
+                "MNZ4401T",
+                "9D939735",
+                "5TQ6306B",
+                "S824682L",
+                "4X525582",
+                "6EN68926",
+                "MSY7784L",
+                "CGW7415Z",
+                "H5476989",
+                "XPP2564T"
+            ],
+            "title": "[사사건건] 여야 대표 모두 “전 당원 투표” 주장 의도는?"
+        },
+        {
+            "_id": "698545dc38b0cf40969784b5",
+            "link": "https://n.news.naver.com/mnews/article/022/0004103562?sid=102",
+            "created_at": "2026-02-06T10:37:30.097000",
+            "description": "2월3일이 민주당 당규에 따른 국회의원 지역위원장 사퇴 시한이다. 더불어민주당 소속 박범계 의원(왼쪽 세번째)과 장종태 의원(오른쪽 세번째), 장철민 의원(오른쪽 두번째) 등이 지난달 5일 대전시당에서 열린 신년... ",
+            "originallink": "https://www.segye.com/newsView/20260205514699?OutUrl=naver",
+            "press": "세계일보",
+            "pubDate": "2026-02-05T15:57:00",
+            "related_members": [
+                "4U29186R",
+                "2NV6751W",
+                "7R156073",
+                "CIZ8557P",
+                "5TQ6306B"
+            ],
+            "title": "초대 통합시장 노리는 대전·충남 국회의원들, 지역위원장 줄사퇴…지역..."
+        },
+        {
+            "_id": "698545c038b0cf40969783ce",
+            "link": "https://n.news.naver.com/mnews/article/021/0002769148?sid=100",
+            "created_at": "2026-02-06T10:37:02.874000",
+            "description": "더불어민주당 정청래 대표가 4일 국회에서 열린 최고위원회의를 마치고 이동하고 있다. 연합뉴스... 경기지사 선거에 나서는 한준호 의원은 MBC 라디오에서 “과정 관리에 실패한 지도부”라며 “왜 독단적으로 (합당)... ",
+            "originallink": "https://www.munhwa.com/article/11566415?ref=naver",
+            "press": "문화일보",
+            "pubDate": "2026-02-05T12:01:00",
+            "related_members": [
+                "8P37634C",
+                "5TQ6306B",
+                "S824682L",
+                "2385336L",
+                "BCQ55105"
+            ],
+            "title": "“과정관리 실패 지도부” 與 합당 반대 서명 2만8천"
+        },
+        {
+            "_id": "698545e138b0cf40969784d2",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119338?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "비공개 최고위원회에선 중부 3군의 임호선 국회의원을 충북도당위원장 직무대행으로 지명했습니다. 관련 의혹이 불거진 뒤 청주 서원의 이광희 도당위원장이 관련 의혹의 진위와 무관하게 일신상의 이유로 사퇴 의사를... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8478140&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-05T08:44:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L",
+                "FH777496",
+                "AEO5706C",
+                "95J3282H"
+            ],
+            "title": "지방선거 코 앞인데…‘당원 명부 유출’ 의혹 파장"
+        },
+        {
+            "_id": "698545de38b0cf40969784bf",
+            "link": "https://tjmbc.co.kr/NewsArticle/823449",
+            "created_at": "2026-02-06T10:37:32.547000",
+            "description": "오는 6월 3일 실시될 지방선거의 예비후보자 등록이 시작된 가운데, 현역 국회의원과 자치단체장이 잇따라... 박정현 부여군수도 오는 12일 충남도청에서 통합특별시장 출마 기자회견을 한 뒤 이달 말쯤 군수직에서 사퇴해... ",
+            "originallink": "https://tjmbc.co.kr/NewsArticle/823449",
+            "press": "MBC",
+            "pubDate": "2026-02-05T08:00:00",
+            "related_members": [
+                "5TQ6306B",
+                "7R156073",
+                "HVV5250J",
+                "4019850M"
+            ],
+            "title": "현역 의원·지자체장 통합시장 출마 의사 봇물"
+        },
+        {
+            "_id": "698545e138b0cf40969784d3",
+            "link": "https://n.news.naver.com/mnews/article/056/0012119025?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "비공개 최고위원회에선 중부 3군의 임호선 국회의원을 충북도당위원장 직무대행으로 지명했습니다. 관련 의혹이 불거진 뒤 청주 서원의 이광희 도당위원장이 관련 의혹의 진위와 무관하게 일신상의 이유로 사퇴 의사를... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477733&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T21:29:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L",
+                "FH777496",
+                "AEO5706C",
+                "95J3282H"
+            ],
+            "title": "지방선거 코 앞인데…‘당원 명부 유출’ 의혹 파장"
+        },
+        {
+            "_id": "698545de38b0cf40969784c0",
+            "link": "https://tjmbc.co.kr/NewsArticle/823387",
+            "created_at": "2026-02-06T10:37:32.547000",
+            "description": "오는 6월 3일 실시될 지방선거의 예비후보자 등록이 시작된 가운데 현역 국회의원과 자치단체장이 잇따라... 박정현 부여군수도 오는 12일 충남도청에서 통합특별시장 출마 기자회견을 한 뒤 이달 말쯤 군수직에서 사퇴해... ",
+            "originallink": "https://tjmbc.co.kr/NewsArticle/823387",
+            "press": "MBC",
+            "pubDate": "2026-02-04T21:00:00",
+            "related_members": [
+                "5TQ6306B",
+                "7R156073",
+                "HVV5250J",
+                "4019850M"
+            ],
+            "title": "현역 의원·지자체장 통합시장 출마 의사 봇물"
+        },
+        {
+            "_id": "698545e138b0cf40969784d4",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476876?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "박수현 의원님, 통과는 됐는데 턱걸이 통과라는 그런 평가가 나오긴 하거든요. [박수현/더불어민주당 의원... 그런 국회의원이나 지역 위원장들을 많이 줄을 세워야 내 표가 되잖아요. 그런 어떤 과거에 우리 정당이 수십년... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12283401?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-04T19:04:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L"
+            ],
+            "title": "[맞수토론] 턱걸이 통과한 정청래표 '1인 1표제'…합당 탄력?"
+        },
+        {
+            "_id": "698545e138b0cf40969784d5",
+            "link": "https://n.news.naver.com/mnews/article/056/0012118872?sid=100",
+            "created_at": "2026-02-06T10:37:35.447000",
+            "description": "비공개 최고위원회에선 중부 3군의 임호선 국회의원을 충북도당위원장 직무대행으로 지명했습니다. 관련 의혹이 불거진 뒤 청주 서원의 이광희 도당위원장이 관련 의혹의 진위와 무관하게 일신상의 이유로 사퇴 의사를... ",
+            "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8477495&ref=A",
+            "press": "KBS",
+            "pubDate": "2026-02-04T19:03:00",
+            "related_members": [
+                "5TQ6306B",
+                "2385336L",
+                "FH777496",
+                "AEO5706C",
+                "95J3282H"
+            ],
+            "title": "지방선거 코 앞인데…‘당원 명부 유출’ 의혹 파장"
+        },
+        {
+            "_id": "698545cd38b0cf409697845f",
+            "link": "https://n.news.naver.com/mnews/article/437/0000476874?sid=100",
+            "created_at": "2026-02-06T10:37:15.718000",
+            "description": "그때 우원식 국회의장이나 환경부 장관하고 있는 김성환 의원이 노원구 국회의원이에요. 이분들이 주민들의 뜻을 받아서 강력한 저항을 하니까 결국은 태릉 골프장 택지공급 이거 무산돼버렸습니다, 거의. 그런데 이번에... ",
+            "originallink": "https://news.jtbc.co.kr/article/NB12283402?influxDiv=NAVER",
+            "press": "JTBC",
+            "pubDate": "2026-02-04T19:01:00",
+            "related_members": [
+                "XBT9550Q",
+                "XSP20229",
+                "5TQ6306B"
+            ],
+            "title": "[맞수토론] '아마'는 없다…이 대통령, 연일 '다주택자' 고강도 압박"
+        },
+        {
+            "_id": "698545c538b0cf409697842a",
+            "link": "https://n.news.naver.com/mnews/article/052/0002310309?sid=100",
+            "created_at": "2026-02-06T10:37:07.698000",
+            "description": "당무 표결에서 국회의원과 권리 당원이 똑같은 1표를 행사하게 되면 당원들에게 인기가 많은 정청래 대표... 한민수 의원은 이재명은 한다라고 외우라고 하던데요, 어제 인터뷰에서. 물론 다주택자가 모두 투기성은 아니고... ",
+            "originallink": "https://www.ytn.co.kr/_ln/0101_202602041638335400",
+            "press": "YTN",
+            "pubDate": "2026-02-04T16:38:00",
+            "related_members": [
+                "LYY5513O",
+                "5TQ6306B",
+                "KFM1081G",
+                "2385336L",
+                "C7E79345",
+                "JZY9937U",
+                "5N65159P",
+                "BT62420K",
+                "6EN68926",
+                "EH27538E",
+                "EPI69383",
+                "5KV82250",
+                "YGB8604T",
+                "8JG4358H"
+            ],
+            "title": "[정치ON] 정청래 \"전 당원 여론조사\"...장동혁 \"영수회담 제안\""
+        },
+        {
+            "_id": "698545c538b0cf409697842b",
+            "link": "https://n.news.naver.com/mnews/article/015/0005246776?sid=100",
+            "created_at": "2026-02-06T10:37:08.048000",
+            "description": "이에 따라 출마를 저울질하던 의원 대부분이 기한에 맞춰 직을 내려놓았다. 22대 국회 민주당 의원 161명 중... 경기도에서는 4명의 현역 의원(추미애·권칠승·김병주·한준호)이 현직인 김동연 지사와 경선한다. 부산의... ",
+            "originallink": "https://www.hankyung.com/article/202602044025i",
+            "press": "한국경제",
+            "pubDate": "2026-02-04T16:36:00",
+            "related_members": [
+                "C7E79345",
+                "GF286398",
+                "BCQ55105",
+                "URV1689Q",
+                "X1K3667J",
+                "BT62420K",
+                "VDN5593C",
+                "7R156073",
+                "5TQ6306B",
+                "2NV6751W",
+                "CIZ8557P",
+                "9YO73104"
+            ],
+            "title": "현역의원만 27명…광역단체장 선거전에 대거 뛰어드는 민주당"
+        },
+        {
+            "_id": "698545c238b0cf40969783fa",
+            "link": "https://n.news.naver.com/mnews/article/366/0001140461?sid=100",
+            "created_at": "2026-02-06T10:37:04.853000",
+            "description": "민주당 재선 의원 모임 ‘더민재’는 이날 오전 국회 의원회관에서 간담회를 열고 합당에 대한 의견을... 박수현 민주당 수석대변인은 “당원 여론조사는 당대표와 최고위원들이 협의해서 정할 것이고, 당내에서 토론을... ",
+            "originallink": "https://biz.chosun.com/policy/politics/assembly/2026/02/04/KOIQLTP2MJFLVLNCM2I24T6KBQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "press": "조선일보",
+            "pubDate": "2026-02-04T13:30:00",
+            "related_members": [
+                "5KV96424",
+                "5TQ6306B"
+            ],
+            "title": "“경청 시간 가질 것” 합당 의견 수렴 나서는 與… 당내 갈등은 고조"
+        },
+        {
+            "_id": "6985461338b0cf40969785a3",
+            "link": "https://n.news.naver.com/mnews/article/055/0001330098?sid=100",
+            "created_at": "2026-02-06T10:38:25.925000",
+            "description": "대의원들을 지역위원장, 국회의원들이 임명하고, 쉽게 얘기하면 잡고 있는 거잖아요. 당원들의 몇십 배 되는... ▷김태현 : 그러면 조승래 사무총장이 얘기한 대로 다음 달 중순쯤에 당원투표로 최종 결정하는 건... ",
+            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008429942&plink=ORI&cooper=NAVER",
+            "press": "SBS",
+            "pubDate": "2026-02-04T08:52:00",
+            "related_members": [
+                "FYI20317",
+                "5TQ6306B"
+            ],
+            "title": "[정치쇼] 박수현 \"합당, 지선에 도움…늦어도 3월 말까지는 돼야\""
+        },
+        {
             "_id": "6982826638b0cf4096977c9c",
             "link": "https://n.news.naver.com/mnews/article/056/0012118309?sid=100",
             "created_at": "2026-02-04T08:19:00.988000",
-            "description": "민주당 정청래 대표가 약속했던 ‘당원 1인 1표제’가 어제(3일) 최종 관문인 민주당 중앙위원회를 통과했습니다. 이제 민주당원이라면 현역 국회의원이든 일반인이든, 당에 언제 가입했든 관계없이 모두 똑같이 1표를... ",
+            "description": "이제 민주당원이라면 현역 국회의원이든 일반인이든, 당에 언제 가입했든 관계없이 모두 똑같이 1표를... 1인 1표제 도입에 앞장섰던 민주당 최민희 의원도 기자간담회에 참석해, ‘깨어있는 시민의 조직된 힘이... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8476774&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-04T06:10:00",
@@ -179,7 +462,8 @@
                 "BT62420K",
                 "JG77046J",
                 "8P37634C",
-                "5TQ6306B"
+                "5TQ6306B",
+                "YS38221N"
             ],
             "title": "“축구도 정치도, 승리는 승리”…한숨돌린 정청래, 갈등 정면돌파?"
         },
@@ -287,7 +571,7 @@
             "_id": "69814aed38b0cf409697772b",
             "link": "https://n.news.naver.com/mnews/article/056/0012116834?sid=100",
             "created_at": "2026-02-03T10:10:03.981000",
-            "description": "국회의원 보궐선거는 조금 더 시간이 여유가 있습니다만 앞으로... ▶ 김성태 : 전용기 의원님 이야기는 참고로 민주당의 희망사항입니다. ▷ 소현정 : 근데 한동훈 전 대표 유료 콘서트 개최에 대해서 한병도 원내대표가... ",
+            "description": "조국혁신당의 황운하 의원이 공동 대표론을 꺼내들고 나왔기 때문에 이 부분이 그냥 그대로 지나칠 수는... 왜냐하면 재보궐 선거 나가서 국회의원직 한 번 한다고 해서 국민의힘에서 아이고, 오십시오라고 이야기할 수... ",
             "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8474763&ref=A",
             "press": "KBS",
             "pubDate": "2026-02-02T10:34:00",
@@ -345,7 +629,7 @@
             "_id": "697ff10338b0cf4096977324",
             "link": "https://n.news.naver.com/mnews/article/032/0003425102?sid=100",
             "created_at": "2026-02-02T09:34:11.528000",
-            "description": "영결식은 지난달 31일 오전 9시 국회 의원회관 대회의실에서 열렸다. 이날은 고 이해찬 제36대 국무총리... 영결식에서는 이 전 총리의 장례위원회 상임집행위원장을 맡은 조정식 대통령실 정무특보가 먼저 “한평생 철저한... ",
+            "description": "박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했다. 국민의힘 소속인 주호영 국회부의장, 조국 조국혁신당 대표, 김재연 진보당 상임대표, 한창민 사회민주당 대표, 용혜인 기본소득당 대표 등 야권 인사들도... ",
             "originallink": "https://www.khan.co.kr/article/202602012024005",
             "press": "경향신문",
             "pubDate": "2026-02-01T20:24:00",
@@ -418,7 +702,7 @@
             "_id": "697ff10f38b0cf4096977355",
             "link": "https://n.news.naver.com/mnews/article/050/0000101770?sid=101",
             "created_at": "2026-02-02T09:34:23.027000",
-            "description": "고(故) 이해찬 전 국무총리의 영결식이 31일 오전 9시 국회 의원회관 대회의실에서 엄수됐다. 대회의실은... 영결식에서는 이 전 총리의 장례위원회 상임집행위원장을 맡은 조정식 대통령실 정무특보가 먼저 \"한평생 철저한... ",
+            "description": "박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했다. 국민의힘 소속인 주호영 국회부의장, 조국혁신당 조국 대표, 진보당 김재연 상임대표, 사회민주당 한창민 대표, 기본소득당 용혜인 대표 등 야권 인사들도... ",
             "originallink": "https://magazine.hankyung.com/business/article/202602015706b",
             "press": "한국경제",
             "pubDate": "2026-02-01T08:18:00",
@@ -459,340 +743,6 @@
                 "0YT3774N"
             ],
             "title": "조문 정국 마무리 수순...다시 떠오르는 여야 갈등과 내홍"
-        },
-        {
-            "_id": "697ff10f38b0cf4096977356",
-            "link": "https://n.news.naver.com/mnews/article/015/0005245017?sid=100",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "영결식은 오전 9시 국회 의원회관 대회의실에서 엄수됐다. 대회의실은 영결식 시작 전부터 고인의 마지막... 영결식에서는 이 전 총리의 장례위원회 상임집행위원장을 맡은 조정식 대통령실 정무특보가 먼저 \"한평생 철저한... ",
-            "originallink": "https://www.hankyung.com/article/2026013153617",
-            "press": "한국경제",
-            "pubDate": "2026-01-31T18:28:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C",
-                "IN328264"
-            ],
-            "title": "\"민주주의 거목\"…영면에 든 故 이해찬 전 국무총리 [종합]"
-        },
-        {
-            "_id": "697ff10638b0cf4096977330",
-            "link": "https://n.news.naver.com/mnews/article/003/0013741434?sid=100",
-            "created_at": "2026-02-02T09:34:14.738000",
-            "description": "집행위원장인 조정식 대통령 정무특보와 윤호중 행정안전부 장관 등도 끝까지 자리를 지켰다. 민주당에서는... 앞서 이 전 총리 영결식은 이 대통령과 김혜경 여사 등이 참석한 가운데 국회 의원회관에서 엄수됐다. 여권... ",
-            "originallink": "https://www.newsis.com/view/NISX20260131_0003497625",
-            "press": "뉴시스",
-            "pubDate": "2026-01-31T17:09:00",
-            "related_members": [
-                "XSP20229",
-                "5765663F",
-                "UHB5553T",
-                "T6A6557F",
-                "1WE5693J",
-                "6AU2417B",
-                "5TQ6306B",
-                "RJH6314D",
-                "H5476989",
-                "8BF5855P",
-                "FYI20317",
-                "GOC54665",
-                "N2P9317N",
-                "GE71932C",
-                "T4I4862D",
-                "M0A1658U",
-                "IN328264",
-                "XPP2564T"
-            ],
-            "title": "故이해찬 전 총리 영면…\"민주주의 거목\" \"정신 계승할 것\"(종합)"
-        },
-        {
-            "_id": "697ff10f38b0cf4096977357",
-            "link": "https://n.news.naver.com/mnews/article/009/0005630254?sid=102",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "이날 오전 9시 국회 의원회관 대회의실에서는 영결식이 열렸다. 맨 앞줄에는 이재명 대통령과 김혜경 여사... 영결식에서는 이 전 총리의 장례위원회 상임집행위원장을 맡은 조정식 대통령실 정무특보가 “한평생 철저한... ",
-            "originallink": "https://www.mk.co.kr/article/11949202",
-            "press": "매일경제",
-            "pubDate": "2026-01-31T17:08:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C",
-                "IN328264"
-            ],
-            "title": "이재명 대통령 눈물…‘민주주의 거목’ 故 이해찬 전 총리, 애도 속 영..."
-        },
-        {
-            "_id": "697ff10f38b0cf4096977358",
-            "link": "https://n.news.naver.com/mnews/article/374/0000489924?sid=101",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "영결식은 이날 오전 9시 국회 의원회관 대회의실에서 엄수됐습니다. 대회의실은 영결식 시작 전부터 고인의... 영결식에서는 이 전 총리의 장례위원회 상임집행위원장을 맡은 조정식 대통령실 정무특보가 먼저 \"한평생... ",
-            "originallink": "https://biz.sbs.co.kr/article_hub/20000288778?division=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-31T16:57:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C",
-                "IN328264"
-            ],
-            "title": "\"민주주의의 거목\"…故이해찬 전 총리 영결식 후 세종에 안장"
-        },
-        {
-            "_id": "697ff11a38b0cf409697736b",
-            "link": "https://n.news.naver.com/mnews/article/448/0000587511?sid=100",
-            "created_at": "2026-02-02T09:34:34.415000",
-            "description": "고(故) 이해찬 전 국무총리의 영결식이 31일 오전 국회 의원회관 대회의실에서 사회장으로 엄수됐다. 이 전... 이 전 총리의 장례위원회 상임집행위원장을 맡은 조정식 대통령실 정무특보는 \"한평생 철저한 공인의 자세로... ",
-            "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/01/31/2026013190071.html",
-            "press": "조선일보",
-            "pubDate": "2026-01-31T14:50:00",
-            "related_members": [
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "FYI20317",
-                "2385336L",
-                "GE71932C",
-                "T4I4862D",
-                "IN328264"
-            ],
-            "title": "이해찬 전 총리 영결식 엄수…\"민주주의 거목\" 애도"
-        },
-        {
-            "_id": "697ff14b38b0cf40969773bb",
-            "link": "https://n.news.naver.com/mnews/article/055/0001329147?sid=100",
-            "created_at": "2026-02-02T09:35:23.170000",
-            "description": "더불어민주당에선 정청래 대표와 한병도 원내대표, 조승래 사무총장, 박수현 수석대변인과 최고위원 등 지도부와 의원들이 참석했습니다. 국민의힘 소속인 주호영 국회부의장, 조국혁신당 조국 대표, 진보당 김재연... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008425607&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-31T12:26:00",
-            "related_members": [
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "FYI20317",
-                "2385336L"
-            ],
-            "title": "고 이해찬 전 총리 영결식 눈물 속 엄수…\"민주주의 역사 그 자체\""
-        },
-        {
-            "_id": "697ff10f38b0cf4096977359",
-            "link": "https://n.news.naver.com/mnews/article/032/0003424952?sid=100",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했다. 국민의힘 소속인 주호영 국회부의장, 조국혁신당 조국 대표, 진보당 김재연 상임대표, 사회민주당 한창민 대표, 기본소득당 용혜인 대표 등 야권 인사들도... ",
-            "originallink": "https://www.khan.co.kr/article/202601311146001",
-            "press": "경향신문",
-            "pubDate": "2026-01-31T11:46:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C"
-            ],
-            "title": "고 이해찬 전 국무총리 영결식 눈물 속 엄수 [현장화보]"
-        },
-        {
-            "_id": "697ff10f38b0cf409697735a",
-            "link": "https://n.news.naver.com/mnews/article/057/0001933030?sid=100",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "더불어민주당에서는 정청래 대표, 한병도 원내대표, 조승래 사무총장, 박수현 수석대변인과 최고위원 등 지도부와 박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했습니다. 국민의힘 소속인 주호영 국회부의장... ",
-            "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5172728",
-            "press": "매일경제",
-            "pubDate": "2026-01-31T11:39:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C"
-            ],
-            "title": "고 이해찬 전 총리 눈물 속 영결식…\"우리 모두 고인에게 빚져\""
-        },
-        {
-            "_id": "697ff10f38b0cf409697735b",
-            "link": "https://n.news.naver.com/mnews/article/003/0013741304?sid=100",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "더불어민주당에서는 정청래 대표, 한병도 원내대표, 조승래 사무총장, 박수현 수석대변인과 최고위원 등 지도부와 박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했다. 국민의힘 소속인 주호영 국회부의장... ",
-            "originallink": "https://www.newsis.com/view/NISX20260131_0003497558",
-            "press": "뉴시스",
-            "pubDate": "2026-01-31T11:36:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C"
-            ],
-            "title": "고(故) 이해찬 전 국무총리 영결식 [뉴시스Pic]"
-        },
-        {
-            "_id": "697ff10f38b0cf409697735c",
-            "link": "https://n.news.naver.com/mnews/article/055/0001329141?sid=100",
-            "created_at": "2026-02-02T09:34:23.027000",
-            "description": "더불어민주당에서는 정청래 대표, 한병도 원내대표, 조승래 사무총장, 박수현 수석대변인과 최고위원 등 지도부와 박지원·김주영·안도걸·문정복·한준호 의원 등이 참석했습니다. 국민의힘 소속인 주호영 국회부의장... ",
-            "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008425585&plink=ORI&cooper=NAVER",
-            "press": "SBS",
-            "pubDate": "2026-01-31T11:05:00",
-            "related_members": [
-                "D6U6678O",
-                "EB16073M",
-                "8SV6917G",
-                "5TQ6306B",
-                "H5476989",
-                "8BF5855P",
-                "BCQ55105",
-                "GOC54665",
-                "FYI20317",
-                "2385336L",
-                "T4I4862D",
-                "GE71932C"
-            ],
-            "title": "고 이해찬 전 총리 영결식 눈물 속 엄수…\"민주주의 역사 그 자체\""
-        },
-        {
-            "_id": "697cbd1838b0cf4096976a26",
-            "link": "https://n.news.naver.com/mnews/article/053/0000055458?sid=100",
-            "created_at": "2026-01-30T23:15:52.531000",
-            "description": "민주당 최고위원인 이언주·황명선·강득구 의원은 지난 1월 23일 기자회견을 열고 \"정청래 대표의 '선택적... 통해 국회의원 '자리'를 노릴 수 있다. 추후 정 대표와 조 대표가 차기 대권 후보로 경쟁을 치를지라도, 당장은... ",
-            "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=48295",
-            "press": "조선일보",
-            "pubDate": "2026-01-30T15:00:00",
-            "related_members": [
-                "RJH6314D",
-                "8P37634C",
-                "2385336L",
-                "JG77046J",
-                "5TQ6306B"
-            ],
-            "title": "'기습 합당' 정청래의 진짜 노림수…1인 1표제로 '자기 정치' 쐐기 박나"
-        },
-        {
-            "_id": "697cbd3138b0cf4096976b81",
-            "link": "https://n.news.naver.com/mnews/article/421/0008740552?sid=100",
-            "created_at": "2026-01-30T23:16:17.578000",
-            "description": "공직자와 국회의원이 갖는 계기가 되기를 바란다\"고 밝혔다. 특히 \"통일교의 정치개입 혐의가 권 의원 선고에... 문금주 원내대변인은 서면 브리핑에서 권 의원 1심 선고에 대해 \"권력을 매개로 한 불법 정치자금 수수가... ",
-            "originallink": "https://www.news1.kr/politics/assembly/6054448",
-            "press": "뉴스1",
-            "pubDate": "2026-01-28T18:24:00",
-            "related_members": [
-                "GDG1847Z",
-                "GRP3908I",
-                "5TQ6306B"
-            ],
-            "title": "범여권, 권성동 징역 2년에 \"특검 빨리 관철돼야\" \"일벌백계\""
-        },
-        {
-            "_id": "697cbd2838b0cf4096976b1b",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307122?sid=100",
-            "created_at": "2026-01-30T23:16:07.909000",
-            "description": "오후에는 조계종 총무원장 진우 스님, 정성호 법무부 장관, 문희상 전 국회의장 등이 장례식장을 찾았습니다.... '시도당 공직선거 후보자 추천관리위'를 구성하되 현역 국회의원과 지역위원장을 대부분 배제하고, 외부... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601281634313987",
-            "press": "YTN",
-            "pubDate": "2026-01-28T16:34:00",
-            "related_members": [
-                "TQP7167T",
-                "OFE45081",
-                "5TQ6306B",
-                "N2P9317N",
-                "V429892C"
-            ],
-            "title": "민주 \"김건희 단죄 안 끝나\"...국힘은 '입장 자제'"
-        },
-        {
-            "_id": "697cbd1d38b0cf4096976a8e",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307124?sid=102",
-            "created_at": "2026-01-30T23:15:56.888000",
-            "description": "[박수현] 권영진 의원님께서 민주당 국회의원이신 줄 알겠습니다. 지금 특검 수사가 잘못됐다는 것을 매우... 그런 면에서 권성동 의원은 저렇게 하면서 똑같이 통일교에서 돈을 받았다고 윤영호가 진술한 전재수 민주당 전... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0103_202601281630336987",
-            "press": "YTN",
-            "pubDate": "2026-01-28T16:30:00",
-            "related_members": [
-                "TQP7167T",
-                "5TQ6306B",
-                "LYY5513O",
-                "GDG1847Z",
-                "9YO73104"
-            ],
-            "title": "'V0' 김건희 '운명의 날'...1심 '징역 1년 8개월' 선고"
-        },
-        {
-            "_id": "697cbd3738b0cf4096976b9c",
-            "link": "https://n.news.naver.com/mnews/article/262/0000019115?sid=100",
-            "created_at": "2026-01-30T23:16:23.617000",
-            "description": "박수현 수석대변인은 서면 브리핑에서 “헌정사상 처음으로 전직 대통령 부부가 나란히 법적 처벌을 받은... 재판부는 “국회의원은 양심에 따라 국가 이익을 우선해야 함에도 피고인은 통일교에서 1억 원을 수수해... ",
-            "originallink": "https://shindonga.donga.com/3/all/13/6079825/1",
-            "press": "동아일보",
-            "pubDate": "2026-01-28T16:00:00",
-            "related_members": [
-                "TQP7167T",
-                "5TQ6306B"
-            ],
-            "title": "김건희 징역 1년8개월…법원, ‘샤넬백, 그라프 목걸이 수수’ 유죄"
-        },
-        {
-            "_id": "697cbd3738b0cf4096976b9d",
-            "link": "https://n.news.naver.com/mnews/article/052/0002307055?sid=100",
-            "created_at": "2026-01-30T23:16:23.617000",
-            "description": "더불어민주당이 지방선거를 위한 시도당 공직선거 후보자추천관리위를 구성하면서 현역 국회의원과... 의결했다고 박수현 수석대변인이 설명했습니다. 박 수석대변인은 정청래 대표가 취임한 뒤 공정한 공천이 지방선거... ",
-            "originallink": "https://www.ytn.co.kr/_ln/0101_202601281452019140",
-            "press": "YTN",
-            "pubDate": "2026-01-28T14:52:00",
-            "related_members": [
-                "2385336L",
-                "5TQ6306B"
-            ],
-            "title": "민주 \"시도당 공관위에 현역의원 최소화...공천기록 4년 보존\""
         }
     ],
     "recent_videos": [
@@ -821,7 +771,7 @@
             "url": "https://www.youtube.com/watch?v=ng6kgYOhuIo",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:56.065000",
+            "collected_at": "2026-02-06T10:44:29.100000",
             "duration": 1148.0,
             "title": "박수현 \"강선우 녹취에 멘붕…갑질 의혹 때와는 크기 달라\"",
             "upload_date": null
@@ -831,7 +781,7 @@
             "url": "https://www.youtube.com/watch?v=ZXgMU3FExw4",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:57.432000",
+            "collected_at": "2026-02-06T10:44:30.374000",
             "duration": 13519.0,
             "title": "더불어민주당 박수현 수석대변인 현안 관련 기자간담회 - [끝까지 LIVE] MBC 중계방송 2026년 01월 11일",
             "upload_date": null
@@ -841,7 +791,7 @@
             "url": "https://www.youtube.com/watch?v=EVtfrc6yj_E",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:57.432000",
+            "collected_at": "2026-02-06T10:44:30.374000",
             "duration": 1646.0,
             "title": "중국은 미국이 그리는 AI와 완전히 다른 길을 가고 있다 (박수현) | 인포맥스라이브 251023",
             "upload_date": null
@@ -871,7 +821,7 @@
             "url": "https://www.youtube.com/watch?v=T9r7NvJE-Ng",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:56.065000",
+            "collected_at": "2026-02-06T10:44:29.100000",
             "duration": 1776.0,
             "title": "'이게 진짜 국회의원 일상이다' 박수현 국회의원 하루 모음.zip",
             "upload_date": null
@@ -891,7 +841,7 @@
             "url": "https://www.youtube.com/watch?v=gZEc1z2kvhg",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:56.065000",
+            "collected_at": "2026-02-06T10:44:29.100000",
             "duration": 4520.0,
             "title": "[다시보기] 더불어민주당 박수현 수석대변인, 송언석 교섭단체 대표연설 관련 입장 발표-9월 10일 (수) 풀영상 [이슈현장] / JTBC News",
             "upload_date": null
@@ -961,7 +911,7 @@
             "url": "https://www.youtube.com/watch?v=ct-CxvjDepM",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:56.065000",
+            "collected_at": "2026-02-06T10:44:29.100000",
             "duration": 135.0,
             "title": "'사퇴' 김병기, 마지막 남긴 한마디는?…박수현 \"1억 논란, 의원들 모두 멘붕\"｜지금 이 뉴스",
             "upload_date": null
@@ -971,7 +921,7 @@
             "url": "https://www.youtube.com/watch?v=YWR-UAEterQ",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:56.065000",
+            "collected_at": "2026-02-06T10:44:29.100000",
             "duration": 665.0,
             "title": "박수현 의원의 SNS \"난 축의금 돌려줄 용기 못 내?\"...본인은 다 받았다고 스스로 인정?! [엄튜브]",
             "upload_date": null
@@ -981,7 +931,7 @@
             "url": "https://www.youtube.com/watch?v=an0EKzzh4p4",
             "HG_NM": "박수현",
             "MONA_CD": "5TQ6306B",
-            "collected_at": "2026-02-04T08:35:56.065000",
+            "collected_at": "2026-02-06T10:44:29.100000",
             "duration": 1256.0,
             "title": "[집요한 토크쇼 1부-박수현 의원] 대통령의 약속, ‘해수부 딱 하나’.. 대한민국 검찰, 지금 정상입니까?",
             "upload_date": null
@@ -2079,5 +2029,5 @@
             "RST_PROPOSER": "박수현"
         }
     ],
-    "exported_at": "2026-02-04T18:40:10.766500"
+    "exported_at": "2026-02-06T15:38:27.726367"
 }

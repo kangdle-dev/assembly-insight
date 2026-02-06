@@ -53,14 +53,14 @@
             "인천",
             "질의",
             "이혜훈",
+            "통과",
             "기획",
             "보충",
             "더불어민주당",
             "인천시장",
-            "쿠팡",
-            "통과",
             "포커스",
-            "대표",
+            "김교흥",
+            "의혹",
             "한국"
         ],
         "keyword_frequency": [
@@ -82,11 +82,15 @@
             },
             {
                 "text": "질의",
-                "value": 20
+                "value": 19
             },
             {
                 "text": "이혜훈",
                 "value": 18
+            },
+            {
+                "text": "통과",
+                "value": 14
             },
             {
                 "text": "기획",
@@ -105,54 +109,50 @@
                 "value": 13
             },
             {
-                "text": "쿠팡",
-                "value": 13
-            },
-            {
-                "text": "통과",
-                "value": 12
-            },
-            {
                 "text": "포커스",
                 "value": 12
             },
             {
-                "text": "대표",
-                "value": 11
+                "text": "김교흥",
+                "value": 10
+            },
+            {
+                "text": "의혹",
+                "value": 10
             },
             {
                 "text": "한국",
-                "value": 11
+                "value": 10
             }
         ],
-        "last_analyzed_at": "2026-02-04T18:40:41.842756",
+        "last_analyzed_at": "2026-02-06T15:38:58.316496",
         "trend_news": {
             "labels": [
-                "01-29",
-                "01-30",
                 "01-31",
                 "02-01",
                 "02-02",
                 "02-03",
-                "02-04"
+                "02-04",
+                "02-05",
+                "02-06"
             ],
             "data": [
                 0,
                 0,
-                0,
-                0,
                 1,
                 5,
-                0
+                1,
+                0,
+                1
             ],
             "avg_data": [
-                1.6,
-                1.5,
+                0.6,
                 0.9,
-                1.1,
-                2.8,
-                2.9,
-                0.4
+                2.1,
+                2.4,
+                2.1,
+                2.1,
+                0.9
             ]
         },
         "ai_policy_summary": "\"정일영 의원은 주로 경제 및 안전 관리 분야에 집중하며, 혁신적이고 개혁적인 입법 활동을 통해 국민의 안전과 복지를 개선하는 데 주력하고 있습니다. 특히 생활화학제품 안전 관리 및 아동학대 범죄 처벌 관련 법안들을 통해 국민의 실생활과 직결된 안전한 사회 환경을 만들어내는 행보를 보입니다.\"",
@@ -166,6 +166,46 @@
         }
     },
     "recent_news": [
+        {
+            "_id": "698545c638b0cf4096978431",
+            "link": "https://n.news.naver.com/mnews/article/011/0004587359?sid=100",
+            "created_at": "2026-02-06T10:37:08.649000",
+            "description": "투자에 대한 심의·의결 시 국회의 동의를 받을 필요가 없고 기금의 관리와 운용에 관한 사항을 1년에 한 번 이상 국회에 보고해야 한다. 여당 홍기원·정일영 의원안은 기금 운용 결과 및 외환·재정 영향평가 보고 의무화... ",
+            "originallink": "https://www.sedaily.com/article/20005662?ref=naver",
+            "press": "서울경제",
+            "pubDate": "2026-02-06T06:01:00",
+            "related_members": [
+                "TQP7167T",
+                "8Q88373R",
+                "NX534083",
+                "FU87526G",
+                "EB16073M",
+                "6EN68926",
+                "H5476989",
+                "3C23171A",
+                "5MD4184K",
+                "LT72093S"
+            ],
+            "title": "우후죽순 ‘대미투자특별법’...특위 구성에도 ‘단일안’ 마련 복잡"
+        },
+        {
+            "_id": "698545c338b0cf4096978409",
+            "link": "https://n.news.naver.com/mnews/article/079/0004112166?sid=102",
+            "created_at": "2026-02-06T10:37:05.929000",
+            "description": "이날 회의에서는 더불어민주당 전재수, 박찬대, 정일영 의원과 국민의힘 윤상현, 배준영, 곽규택 의원 등이 각각 발의한 법안이 함께 안건으로 올라왔다. 부산지역 국회의원들은 22대 국회 개원 직후 관련 법안을... ",
+            "originallink": "https://www.nocutnews.co.kr/news/6466547?utm_source=naver&utm_medium=article&utm_campaign=20260204093811",
+            "press": "노컷뉴스",
+            "pubDate": "2026-02-04T09:39:00",
+            "related_members": [
+                "LT72093S",
+                "9YO73104",
+                "QQP4727N",
+                "REG96285",
+                "BT62420K",
+                "MSY7784L"
+            ],
+            "title": "해사법원 설립 법안 국회 법사위 소위 통과"
+        },
         {
             "_id": "6981c75338b0cf4096977b1d",
             "link": "https://n.news.naver.com/mnews/article/015/0005246377?sid=102",
@@ -643,32 +683,6 @@
                 "LT72093S"
             ],
             "title": "\"바지사장 외국인, 한국 떠나라\"...쿠팡 국정조사 급물살"
-        },
-        {
-            "_id": "6964b586631fd1743499646d",
-            "link": "https://n.news.naver.com/mnews/article/079/0004100764?sid=100",
-            "created_at": "2026-01-12T17:49:08.077000",
-            "description": "같은 당의 정일영 의원도 \"어제 청문회에서 로저스 대표는 오히려 큰소리를 치는 등 안하무인격이었다\"며 \"대한민국 국회와 정부, 국민을 무시할 것이라면 한국에서 떠나라\"고 꼬집었다. 위증 지적도 나왔다. 민주당... ",
-            "originallink": "https://www.nocutnews.co.kr/news/6450018?utm_source=naver&utm_medium=article&utm_campaign=20251231122957",
-            "press": "노컷뉴스",
-            "pubDate": "2025-12-31T12:24:00",
-            "related_members": [
-                "LT72093S"
-            ],
-            "title": "\"위증\"·\"오만방자\" 지적에…쿠팡 외국인 대표 \"통역 때문\""
-        },
-        {
-            "_id": "6964b586631fd1743499646e",
-            "link": "https://n.news.naver.com/mnews/article/421/0008688537?sid=102",
-            "created_at": "2026-01-12T17:49:08.077000",
-            "description": "유 직무대행은 31일 국회에서 열린 '쿠팡 청문회'에 출석해 경찰에서 수사 중인 관련자에 대해 경찰을 제외하고 조사를 해도 되는지 묻는 정일영 더불어민주당 국회의원 질의에 \"안 된다\"며 \"지금 경찰에서 철저히 수사 중... ",
-            "originallink": "https://www.news1.kr/society/incident-accident/6024961",
-            "press": "뉴스1",
-            "pubDate": "2025-12-31T11:42:00",
-            "related_members": [
-                "LT72093S"
-            ],
-            "title": "유재성 경찰청장 직대 \"'쿠팡 사태' 인터폴과 공조 수사 진행\""
         }
     ],
     "recent_videos": [
@@ -727,7 +741,7 @@
             "url": "https://www.youtube.com/watch?v=qgVPiV7km0I",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-04T08:43:32.512000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": 501.0,
             "title": "[국회의원 정일영] 2025 국정감사 5일차 - 수출입은행 등 주질의",
             "upload_date": null
@@ -747,7 +761,7 @@
             "url": "https://www.youtube.com/watch?v=tFutsZKQH2A",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-04T08:43:32.512000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": 118.0,
             "title": "[일영TV] 설득의 기술이 꼭 필요한 국회, 정일영 국회의원만의 '설득의 기술'이 있다? (오유경의 인생책방 EP.01)",
             "upload_date": null
@@ -777,7 +791,7 @@
             "url": "https://www.youtube.com/watch?v=ZlDRj-WpKzs",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-02T09:52:37.827000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": 583.0,
             "title": "제21대 국회 \"300인의 희망인터뷰\" 정일영 의원(더불어민주당)",
             "upload_date": null
@@ -797,7 +811,7 @@
             "url": "https://www.youtube.com/watch?v=m1QO2X2DVDU",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-02T09:52:37.827000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": 272.0,
             "title": "[국회의원 정일영] 2025 국정감사 4일차 - 국가데이터처, 관세청, 조달청 보충질의2",
             "upload_date": null
@@ -817,7 +831,7 @@
             "url": "https://www.youtube.com/watch?v=e6lNLTCM8Ng",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-01-30T23:32:07.257000",
+            "collected_at": "2026-02-06T10:52:03.633000",
             "duration": 614.0,
             "title": "쿠팡, 언론사 광고 중단 협박?...정일영 폭발하더니 '박살'",
             "upload_date": null
@@ -827,7 +841,7 @@
             "url": "https://www.youtube.com/watch?v=7cjse_PHigM",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-04T08:43:32.512000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": 433.0,
             "title": "[국회의원 정일영] 2025 국정감사 종합국감1 - 기획재정부 외 모든 기관 - 보충질의1",
             "upload_date": null
@@ -837,7 +851,7 @@
             "url": "https://www.youtube.com/watch?v=UC9J1VAzaDZ5mS9Frfyk0lHg",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-04T08:43:32.512000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": null,
             "title": "정일영TV",
             "upload_date": null
@@ -847,7 +861,7 @@
             "url": "https://www.youtube.com/watch?v=r9mEIwiMoyo",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-04T08:43:33.837000",
+            "collected_at": "2026-02-06T10:52:03.633000",
             "duration": 497.0,
             "title": "정일영, 로저스 대표 답변 도중 \"스톱, 설교하지 마\" 고성",
             "upload_date": null
@@ -857,7 +871,7 @@
             "url": "https://www.youtube.com/watch?v=kwsdp3SDWqM",
             "HG_NM": "정일영",
             "MONA_CD": "LT72093S",
-            "collected_at": "2026-02-04T08:43:32.512000",
+            "collected_at": "2026-02-06T10:52:02.033000",
             "duration": 96.0,
             "title": "[일영TV] 국회의원 정일영, 어떤 정치인으로 기억되고싶으세요? (오유경의 인생책방 Chapter.6)",
             "upload_date": null
@@ -1979,5 +1993,5 @@
             "RST_PROPOSER": "정일영"
         }
     ],
-    "exported_at": "2026-02-04T18:40:41.843756"
+    "exported_at": "2026-02-06T15:38:58.316496"
 }
